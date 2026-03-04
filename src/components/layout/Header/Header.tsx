@@ -39,6 +39,10 @@ const labelToKey: Record<string, string> = {
 export default async function Header({ siteData }: { siteData: SiteData }) {
   const t = await getTranslations("nav");
   const { logo, nav } = siteData;
+  const getNavLabel = (label: string) => {
+    const key = labelToKey[label];
+    return key ? t(key) : label;
+  };
 
   return (
     <header className={styles.header}>
@@ -60,11 +64,10 @@ export default async function Header({ siteData }: { siteData: SiteData }) {
         <nav>
           <ul className={styles.desktopNav}>
             {nav.map((item, idx) => {
-              const key = labelToKey[item.label] || item.label;
               return (
                 <li key={idx} className={styles.navItem}>
                   <Link href={item.href} className={styles.navLink}>
-                    {t(key)}
+                    {getNavLabel(item.label)}
                     {item.children && (
                       <span className={styles.dropdownArrow}>&#9662;</span>
                     )}
@@ -72,15 +75,13 @@ export default async function Header({ siteData }: { siteData: SiteData }) {
                   {item.children && (
                     <ul className={styles.dropdown}>
                       {item.children.map((child, cIdx) => {
-                        const childKey =
-                          labelToKey[child.label] || child.label;
                         return (
                           <li key={cIdx}>
                             <Link
                               href={child.href}
                               className={styles.dropdownLink}
                             >
-                              {t(childKey)}
+                              {getNavLabel(child.label)}
                             </Link>
                           </li>
                         );

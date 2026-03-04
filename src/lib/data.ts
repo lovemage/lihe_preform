@@ -8,7 +8,35 @@ function loadJson<T>(filename: string): T {
 }
 
 export function getSiteData() {
-  return loadJson<any>("site.json");
+  const siteData = loadJson<any>("site.json");
+  const productsData = getProductsData();
+  const rawCategories: unknown[] = Array.isArray(productsData?.categories)
+    ? productsData.categories
+    : [];
+
+  const categories = Array.from(
+    new Set(
+      rawCategories.filter(
+        (category: unknown): category is string =>
+          typeof category === "string" && category.trim().length > 0,
+      ),
+    ),
+  );
+
+  siteData.nav = [
+    { label: "Factory", href: "/factory" },
+    {
+      label: "Products",
+      href: "/products",
+      children: categories.map((category) => ({
+        label: category,
+        href: `/products?category=${encodeURIComponent(category)}`,
+      })),
+    },
+    { label: "Contact Us", href: "/contact" },
+  ];
+
+  return siteData;
 }
 
 export function getHomeData() {

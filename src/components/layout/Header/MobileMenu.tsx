@@ -34,6 +34,10 @@ export default function MobileMenu({ nav }: { nav: NavItem[] }) {
   const [open, setOpen] = useState(false);
   const [expandedIdx, setExpandedIdx] = useState<number | null>(null);
   const t = useTranslations("nav");
+  const getNavLabel = (label: string) => {
+    const key = labelToKey[label];
+    return key ? t(key) : label;
+  };
 
   function toggleExpand(idx: number) {
     setExpandedIdx(expandedIdx === idx ? null : idx);
@@ -70,7 +74,6 @@ export default function MobileMenu({ nav }: { nav: NavItem[] }) {
         <nav className={styles.nav}>
           <ul className={styles.navList}>
             {nav.map((item, idx) => {
-              const key = labelToKey[item.label] || item.label;
               return (
                 <li key={idx} className={styles.navItem}>
                   {item.children ? (
@@ -79,7 +82,7 @@ export default function MobileMenu({ nav }: { nav: NavItem[] }) {
                         className={styles.navButton}
                         onClick={() => toggleExpand(idx)}
                       >
-                        <span>{t(key)}</span>
+                        <span>{getNavLabel(item.label)}</span>
                         <span
                           className={`${styles.expandArrow} ${expandedIdx === idx ? styles.expandArrowOpen : ""}`}
                         >
@@ -94,12 +97,10 @@ export default function MobileMenu({ nav }: { nav: NavItem[] }) {
                               className={styles.subLink}
                               onClick={close}
                             >
-                              {t(key)}
+                              {getNavLabel(item.label)}
                             </Link>
                           </li>
                           {item.children.map((child, cIdx) => {
-                            const childKey =
-                              labelToKey[child.label] || child.label;
                             return (
                               <li key={cIdx}>
                                 <Link
@@ -107,7 +108,7 @@ export default function MobileMenu({ nav }: { nav: NavItem[] }) {
                                   className={styles.subLink}
                                   onClick={close}
                                 >
-                                  {t(childKey)}
+                                  {getNavLabel(child.label)}
                                 </Link>
                               </li>
                             );
@@ -121,7 +122,7 @@ export default function MobileMenu({ nav }: { nav: NavItem[] }) {
                       className={styles.navLink}
                       onClick={close}
                     >
-                      {t(key)}
+                      {getNavLabel(item.label)}
                     </Link>
                   )}
                 </li>
