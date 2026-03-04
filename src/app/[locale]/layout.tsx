@@ -1,5 +1,4 @@
 import type { ReactNode } from "react";
-import type { Metadata } from "next";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages, setRequestLocale } from "next-intl/server";
 import { notFound } from "next/navigation";
@@ -8,21 +7,6 @@ import { getSiteData } from "@/lib/data";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import JsonLd from "@/components/seo/JsonLd";
-import "@/styles/globals.css";
-
-export const metadata: Metadata = {
-  metadataBase: new URL("https://lihe-preform.com"),
-  title: {
-    default: "Lihe Precision | PET Mold Engineering",
-    template: "%s | Lihe Precision",
-  },
-  description:
-    "High-performance PET preform molds, blow molds, compression molds, and hot runner systems from Foshan Lihe Precision Machinery.",
-  openGraph: {
-    type: "website",
-    siteName: "Lihe Precision Machinery",
-  },
-};
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -66,15 +50,11 @@ export default async function LocaleLayout({
   };
 
   return (
-    <html lang={locale}>
-      <body>
-        <NextIntlClientProvider messages={messages}>
-          <JsonLd data={organizationJsonLd} />
-          <Header siteData={siteData} />
-          <main>{children}</main>
-          <Footer siteData={siteData} />
-        </NextIntlClientProvider>
-      </body>
-    </html>
+    <NextIntlClientProvider messages={messages}>
+      <JsonLd data={organizationJsonLd} />
+      <Header siteData={siteData} />
+      <main>{children}</main>
+      <Footer siteData={siteData} />
+    </NextIntlClientProvider>
   );
 }
