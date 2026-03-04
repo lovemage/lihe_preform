@@ -5,6 +5,7 @@ import { getProductsData } from "@/lib/data";
 import Breadcrumb from "@/components/ui/Breadcrumb/Breadcrumb";
 import ImageGallery from "@/components/ui/ImageGallery/ImageGallery";
 import Button from "@/components/ui/Button/Button";
+import JsonLd from "@/components/seo/JsonLd";
 import styles from "./page.module.css";
 
 export function generateStaticParams() {
@@ -51,8 +52,23 @@ export default async function ProductDetailPage({
     notFound();
   }
 
+  const productJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    name: product.name,
+    description: product.description,
+    image: product.images.map(
+      (img: any) => `https://lihe-preform.com${img.src}`
+    ),
+    manufacturer: {
+      "@type": "Organization",
+      name: "Foshan Lihe Precision Machinery Co.,Ltd.",
+    },
+  };
+
   return (
     <div className={styles.page}>
+      <JsonLd data={productJsonLd} />
       <div className={styles.container}>
         <Breadcrumb
           items={[

@@ -46,7 +46,7 @@ function SocialIcon({ platform }: { platform: string }) {
 
 export default async function Footer({ siteData }: { siteData: SiteData }) {
   const t = await getTranslations("footer");
-  const { company, logo, footer } = siteData;
+  const { logo, footer } = siteData;
 
   return (
     <footer className={styles.footer}>
