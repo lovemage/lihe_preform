@@ -1,0 +1,83 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "companyProfile": "Company Profile",
+    "factory": "Factory",
+    "equipment": "Equipment",
+    "qcEquipment": "QC Equipment",
+    "machiningEquipment": "Machining Equipment",
+    "products": "Products",
+    "contact": "Contact Us",
+    "download": "Download"
+  },
+  "home": {
+    "headline": "Precision PET Mold Engineering",
+    "subheadline": "From preform to bottle — high-performance molds engineered for the world's leading beverage, food, and packaging manufacturers.",
+    "exploreProducts": "Explore Products",
+    "contactSales": "Contact Sales",
+    "productCategories": "Product Categories",
+    "productCategoriesSub": "Comprehensive mold solutions spanning the entire PET packaging lifecycle.",
+    "coreCapabilities": "Core Capabilities",
+    "coreCapabilitiesSub": "Engineered for precision. Built for production.",
+    "featuredProducts": "Featured Products",
+    "featuredProductsSub": "Our most requested mold systems trusted by industry leaders worldwide.",
+    "manufacturing": "World-Class Manufacturing",
+    "manufacturingSub": "A 15,000 sqm facility equipped with precision CNC, EDM, and metrology systems from Mazak, Makino, and Zeiss.",
+    "more": "MORE"
+  },
+  "stats": {
+    "facility": "sqm Production Facility",
+    "cavities": "Max Cavities Per Mold",
+    "countries": "Countries Served",
+    "experience": "Years of Experience"
+  },
+  "about": {
+    "title": "About Lihe Precision",
+    "headline": "Engineering Precision. Delivering Performance."
+  },
+  "factory": {
+    "title": "Our Facility",
+    "headline": "15,000 sqm of Precision Manufacturing"
+  },
+  "equipment": {
+    "title": "Equipment & Capabilities",
+    "headline": "World-Class Machinery. Micron-Level Precision."
+  },
+  "products": {
+    "title": "Products",
+    "allCategories": "All Categories",
+    "viewDetails": "View Details",
+    "requestQuote": "Request a Quote"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "headline": "Get in Touch",
+    "intro": "Ready to discuss your mold requirements? Our sales and engineering team is available to provide technical consultation, pricing, and lead time information.",
+    "sendMessage": "Send Us a Message",
+    "formDescription": "Fill out the form below and our team will respond within 24 business hours.",
+    "fullName": "Full Name",
+    "companyName": "Company Name",
+    "emailAddress": "Email Address",
+    "phoneNumber": "Phone Number",
+    "subject": "Subject",
+    "message": "Message",
+    "submit": "Send Message",
+    "subjects": {
+      "inquiry": "Product Inquiry",
+      "consultation": "Technical Consultation",
+      "quote": "Request a Quote",
+      "support": "After-Sales Support",
+      "other": "Other"
+    }
+  },
+  "footer": {
+    "tagline": "Precision mold solutions for the global PET packaging industry.",
+    "copyright": "Foshan Lihe Precision Machinery Co.,Ltd. All rights reserved."
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "backToTop": "Back to Top",
+    "breadcrumbHome": "Home"
+  }
+}
