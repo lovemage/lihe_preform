@@ -38,17 +38,29 @@
     {
       "id": "sales-network",
       "title": "Global Sales Network",
-      "description": "Our molds are delivered to customers across 50+ countries spanning Asia, Europe, the Americas, Africa, and the Middle East. Regional sales representatives and technical service partners ensure responsive local support."
+      "description": "Our molds are delivered to customers across 50+ countries spanning Asia, Europe, the Americas, Africa, and the Middle East. Regional sales representatives and technical service partners ensure responsive local support.",
+      "image": {
+        "src": "/images/factory/generated/2026-03-04-18-34-39-global-sales-network.webp",
+        "alt": "global-sales-network - Lihe global support footprint"
+      }
     },
     {
       "id": "after-sale-service",
       "title": "After-Sale Technical Support",
-      "description": "Dedicated service engineers provide remote troubleshooting, on-site technical assistance, spare parts supply, and mold maintenance programs to keep your production running at peak performance."
+      "description": "Dedicated service engineers provide remote troubleshooting, on-site technical assistance, spare parts supply, and mold maintenance programs to keep your production running at peak performance.",
+      "image": {
+        "src": "/images/factory/generated/2026-03-04-18-34-39-after-sale-technical-support.webp",
+        "alt": "after-sale-technical-support - Lihe field service engineers"
+      }
     },
     {
       "id": "solution",
       "title": "Custom Solutions",
-      "description": "Beyond standard mold configurations, we engineer custom solutions for unique bottle designs, specialized neck finishes, material trials, and production line conversions — tailored precisely to your requirements."
+      "description": "Beyond standard mold configurations, we engineer custom solutions for unique bottle designs, specialized neck finishes, material trials, and production line conversions — tailored precisely to your requirements.",
+      "image": {
+        "src": "/images/factory/generated/2026-03-04-18-34-39-custom-solutions.webp",
+        "alt": "custom-solutions - Lihe custom mold design collaboration"
+      }
     }
   ]
 }
