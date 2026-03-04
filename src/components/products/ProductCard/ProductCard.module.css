@@ -1,0 +1,92 @@
+.card {
+  background: var(--color-white);
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--color-gray-200);
+  overflow: hidden;
+  transition: transform var(--transition-base), box-shadow var(--transition-base);
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-lg);
+}
+
+.imageLink {
+  display: block;
+}
+
+.imageWrapper {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+  background: var(--color-gray-100);
+}
+
+.image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform var(--transition-base);
+}
+
+.card:hover .image {
+  transform: scale(1.05);
+}
+
+.content {
+  padding: var(--space-lg);
+}
+
+.categoryBadge {
+  display: inline-block;
+  padding: var(--space-xs) var(--space-sm);
+  background: var(--color-primary);
+  color: var(--color-white);
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border-radius: var(--radius-sm);
+  margin-bottom: var(--space-sm);
+}
+
+.name {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--color-gray-900);
+  font-family: var(--font-heading);
+  margin-bottom: var(--space-sm);
+  line-height: 1.4;
+}
+
+.nameLink {
+  color: inherit;
+  text-decoration: none;
+}
+
+.nameLink:hover {
+  color: var(--color-primary);
+}
+
+.description {
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: var(--color-gray-600);
+  margin-bottom: var(--space-lg);
+}
+
+.viewDetails {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-xs);
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--color-accent-dark);
+  text-decoration: none;
+  transition: color var(--transition-fast);
+}
+
+.viewDetails:hover {
+  color: var(--color-accent);
+}

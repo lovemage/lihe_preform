@@ -1,0 +1,14 @@
+.page {
+  min-height: 100vh;
+  padding: var(--space-2xl) 0 var(--space-4xl);
+}
+
+.container {
+  max-width: var(--container-max);
+  margin: 0 auto;
+  padding: 0 var(--container-padding);
+}
+
+.headingWrapper {
+  margin-bottom: var(--space-2xl);
+}

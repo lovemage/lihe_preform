@@ -1,0 +1,43 @@
+.filterWrapper {
+  margin-bottom: var(--space-2xl);
+}
+
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-sm);
+  overflow-x: auto;
+  padding-bottom: var(--space-sm);
+  -webkit-overflow-scrolling: touch;
+}
+
+.pill {
+  flex-shrink: 0;
+  padding: var(--space-sm) var(--space-lg);
+  border: 2px solid var(--color-gray-300);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--color-gray-700);
+  font-size: 0.875rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all var(--transition-fast);
+  white-space: nowrap;
+}
+
+.pill:hover {
+  border-color: var(--color-accent);
+  color: var(--color-accent-dark);
+}
+
+.active {
+  background: var(--color-accent);
+  border-color: var(--color-accent);
+  color: var(--color-white);
+}
+
+.active:hover {
+  background: var(--color-accent-dark);
+  border-color: var(--color-accent-dark);
+  color: var(--color-white);
+}
