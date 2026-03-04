@@ -76,8 +76,8 @@
   list-style: none;
   margin: 0;
   padding: 0;
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
   gap: var(--space-sm);
 }
 
@@ -150,6 +150,10 @@
   .grid {
     grid-template-columns: 1fr;
     gap: var(--space-xl);
+  }
+
+  .linkList {
+    grid-template-columns: 1fr 1fr;
   }
 
   .columnTitle {

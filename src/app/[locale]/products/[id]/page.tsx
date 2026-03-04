@@ -2,6 +2,11 @@ import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { routing } from "@/i18n/routing";
 import { getProductsData } from "@/lib/data";
+import {
+  clampDescription,
+  getLocaleAlternates,
+  getProductMetaTitle,
+} from "@/lib/seo";
 import Breadcrumb from "@/components/ui/Breadcrumb/Breadcrumb";
 import ImageGallery from "@/components/ui/ImageGallery/ImageGallery";
 import Button from "@/components/ui/Button/Button";
@@ -26,12 +31,20 @@ export async function generateMetadata({
   const product = data.products.find((p: any) => String(p.id) === id);
 
   if (!product) {
-    return { title: "Product Not Found" };
+    return {
+      title: "Product Not Found",
+      alternates: getLocaleAlternates(locale, `/products/${id}`),
+      robots: {
+        index: false,
+        follow: false,
+      },
+    };
   }
 
   return {
-    title: `${product.name} | Lihe Precision`,
-    description: product.description.slice(0, 160),
+    title: getProductMetaTitle(product.name, id),
+    description: clampDescription(`${product.description} Model ${id}.`),
+    alternates: getLocaleAlternates(locale, `/products/${id}`),
   };
 }
 

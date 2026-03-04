@@ -1,7 +1,7 @@
 "use client";
 
-import { useSearchParams } from "next/navigation";
-import { Suspense } from "react";
+import { useEffect, useMemo, useState } from "react";
+import { usePathname, useRouter } from "next/navigation";
 import CategoryFilter from "@/components/products/CategoryFilter";
 import ProductGrid from "@/components/products/ProductGrid";
 
@@ -29,12 +29,39 @@ function ProductsContent({
   allCategoriesLabel,
   viewDetailsLabel,
 }: ProductsClientWrapperProps) {
-  const searchParams = useSearchParams();
-  const activeCategory = searchParams.get("category");
+  const router = useRouter();
+  const pathname = usePathname();
+  const [activeCategory, setActiveCategory] = useState<string | null>(null);
 
-  const filteredProducts = activeCategory
-    ? products.filter((p) => p.category === activeCategory)
-    : products;
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const category = params.get("category");
+    setActiveCategory(
+      category && categories.includes(category) ? category : null,
+    );
+  }, [categories]);
+
+  const filteredProducts = useMemo(
+    () =>
+      activeCategory
+        ? products.filter((p) => p.category === activeCategory)
+        : products,
+    [activeCategory, products],
+  );
+
+  function handleCategoryChange(category: string | null) {
+    setActiveCategory(category);
+
+    const params = new URLSearchParams(window.location.search);
+    if (category) {
+      params.set("category", category);
+    } else {
+      params.delete("category");
+    }
+
+    const query = params.toString();
+    router.push(query ? `${pathname}?${query}` : pathname, { scroll: false });
+  }
 
   return (
     <>
@@ -42,16 +69,16 @@ function ProductsContent({
         categories={categories}
         activeCategory={activeCategory}
         allLabel={allCategoriesLabel}
+        onChange={handleCategoryChange}
       />
-      <ProductGrid products={filteredProducts} viewDetailsLabel={viewDetailsLabel} />
+      <ProductGrid
+        products={filteredProducts}
+        viewDetailsLabel={viewDetailsLabel}
+      />
     </>
   );
 }
 
 export default function ProductsClientWrapper(props: ProductsClientWrapperProps) {
-  return (
-    <Suspense fallback={null}>
-      <ProductsContent {...props} />
-    </Suspense>
-  );
+  return <ProductsContent {...props} />;
 }

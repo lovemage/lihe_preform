@@ -34,8 +34,14 @@
       { "platform": "Pinterest", "href": "#" }
     ],
     "links": [
+      { "label": "HOME", "href": "/" },
       { "label": "ABOUT US", "href": "/about" },
+      { "label": "FACTORY", "href": "/factory" },
+      { "label": "EQUIPMENT", "href": "/equipment" },
+      { "label": "QC EQUIPMENT", "href": "/equipment/qc" },
+      { "label": "MACHINING EQUIPMENT", "href": "/equipment/machining" },
       { "label": "PRODUCTS", "href": "/products" },
+      { "label": "DOWNLOAD", "href": "/download" },
       { "label": "CONTACT US", "href": "/contact" }
     ],
     "contact": {

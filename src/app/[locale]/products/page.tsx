@@ -1,6 +1,7 @@
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { routing } from "@/i18n/routing";
 import { getProductsData } from "@/lib/data";
+import { getLocaleAlternates } from "@/lib/seo";
 import Breadcrumb from "@/components/ui/Breadcrumb/Breadcrumb";
 import SectionHeading from "@/components/ui/SectionHeading/SectionHeading";
 import ProductsClientWrapper from "@/components/products/ProductsClientWrapper";
@@ -22,7 +23,8 @@ export async function generateMetadata({
   return {
     title: `${t("title")} | Lihe Precision`,
     description:
-      "Explore our comprehensive range of precision PET molds including preform molds, blow molds, compression molds, closure molds, and hotrunner systems.",
+      "Explore our comprehensive range of precision PET preform molds, blow molds, compression molds, closure molds, hot runner systems, and multi-cavity injection mold tooling for beverage packaging solutions.",
+    alternates: getLocaleAlternates(locale, "/products"),
   };
 }
 
@@ -48,7 +50,7 @@ export default async function ProductsPage({
         />
 
         <div className={styles.headingWrapper}>
-          <SectionHeading title={t("title")} />
+          <SectionHeading title={t("title")} as="h1" />
         </div>
 
         <ProductsClientWrapper

@@ -5,7 +5,7 @@
     "alt": "factory-banner - Lihe precision mold production facility"
   },
   "headline": "15,000 sqm of Precision Manufacturing",
-  "intro": "Our purpose-built facility in Foshan integrates advanced machining, assembly, and quality inspection under one roof — enabling complete control over every stage of mold production.",
+  "intro": "Our purpose-built PET mold manufacturing facility in Foshan integrates advanced CNC machining, precision assembly, and quality inspection under one roof — enabling complete control over every stage of preform tooling and mold production.",
   "sections": [
     {
       "id": "office",
@@ -20,12 +20,12 @@
       "items": [
         {
           "title": "CNC Machining Centers",
-          "description": "Multi-axis CNC systems from Mazak, Makino, and Haas deliver micron-level precision for core, cavity, and mold base components.",
+          "description": "Multi-axis CNC systems from Mazak, Makino, and Haas deliver micron-level precision for mold core, cavity, neck ring, and mold base components.",
           "image": { "src": "/images/factory/machining-equipment.webp", "alt": "machining-equipment - Mazak CNC machining center" }
         },
         {
           "title": "Advanced Processing Equipment",
-          "description": "High-speed EDM, wire-cut EDM, and precision surface grinders from Okamoto and Sodick ensure superior surface finish and tight tolerances on critical mold components.",
+          "description": "High-speed EDM, wire-cut EDM, and precision surface grinders from Okamoto and Sodick ensure superior surface finish and tight tolerances on critical gate insert, valve pin, and mold core cavity components.",
           "image": { "src": "/images/factory/sophisticated-equipment.webp", "alt": "sophisticated-equipment - Advanced EDM and grinding equipment" }
         },
         {
@@ -47,7 +47,7 @@
     {
       "id": "after-sale-service",
       "title": "After-Sale Technical Support",
-      "description": "Dedicated service engineers provide remote troubleshooting, on-site technical assistance, spare parts supply, and mold maintenance programs to keep your production running at peak performance.",
+      "description": "Dedicated service engineers provide remote troubleshooting, on-site technical assistance, spare parts supply, and mold refurbishment programs to keep your injection molding production running at peak performance.",
       "image": {
         "src": "/images/factory/generated/2026-03-04-18-34-39-after-sale-technical-support.webp",
         "alt": "after-sale-technical-support - Lihe field service engineers"
@@ -56,7 +56,7 @@
     {
       "id": "solution",
       "title": "Custom Solutions",
-      "description": "Beyond standard mold configurations, we engineer custom solutions for unique bottle designs, specialized neck finishes, material trials, and production line conversions — tailored precisely to your requirements.",
+      "description": "Beyond standard mold configurations, we engineer custom solutions for unique bottle designs, specialized PCO 1881 and 29/25 neck finishes, rPET material trials, and production line conversions — tailored precisely to your beverage packaging requirements.",
       "image": {
         "src": "/images/factory/generated/2026-03-04-18-34-39-custom-solutions.webp",
         "alt": "custom-solutions - Lihe custom mold design collaboration"

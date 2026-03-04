@@ -53,7 +53,7 @@ export default async function LocaleLayout({
     <NextIntlClientProvider messages={messages}>
       <JsonLd data={organizationJsonLd} />
       <Header siteData={siteData} />
-      <main>{children}</main>
+      <main lang={locale}>{children}</main>
       <Footer siteData={siteData} />
     </NextIntlClientProvider>
   );

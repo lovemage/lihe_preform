@@ -1,15 +1,24 @@
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { getHomeData, getProductsData } from "@/lib/data";
+import { getLocaleAlternates } from "@/lib/seo";
 import HeroBanner from "@/components/home/HeroBanner";
 import Stats from "@/components/home/Stats";
 import CategoryShowcase from "@/components/home/CategoryShowcase";
 import FeaturedProducts from "@/components/home/FeaturedProducts";
 
-export async function generateMetadata() {
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}) {
+  const { locale } = await params;
+  setRequestLocale(locale);
+
   return {
-    title: "Lihe Precision | PET Mold Engineering",
+    title: "Lihe Precision | PET Preform Mold & Blow Mold Engineering",
     description:
-      "High-performance PET preform molds, blow molds, and hot runner systems. 15,000 sqm facility serving 50+ countries.",
+      "High-performance PET preform molds, blow molds, hot runner systems, and multi-cavity injection mold tooling. 15,000 sqm precision manufacturing facility serving beverage packaging industries across 50+ countries.",
+    alternates: getLocaleAlternates(locale, ""),
   };
 }
 

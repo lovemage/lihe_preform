@@ -1,6 +1,7 @@
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { routing } from "@/i18n/routing";
 import { getContactData } from "@/lib/data";
+import { getLocaleAlternates } from "@/lib/seo";
 import Breadcrumb from "@/components/ui/Breadcrumb/Breadcrumb";
 import SectionHeading from "@/components/ui/SectionHeading/SectionHeading";
 import ContactForm from "@/components/contact/ContactForm";
@@ -22,6 +23,7 @@ export async function generateMetadata({
   return {
     title: `${t("title")} | Lihe Precision`,
     description: t("intro"),
+    alternates: getLocaleAlternates(locale, "/contact"),
   };
 }
 
@@ -47,7 +49,7 @@ export default async function ContactPage({
         />
 
         <div className={styles.headingWrapper}>
-          <SectionHeading title={t("headline")} subtitle={t("intro")} />
+          <SectionHeading title={t("headline")} subtitle={t("intro")} as="h1" />
         </div>
 
         <div className={styles.twoColumn}>

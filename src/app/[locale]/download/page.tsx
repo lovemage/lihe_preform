@@ -1,5 +1,6 @@
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { routing } from "@/i18n/routing";
+import { getLocaleAlternates } from "@/lib/seo";
 import Breadcrumb from "@/components/ui/Breadcrumb/Breadcrumb";
 import SectionHeading from "@/components/ui/SectionHeading/SectionHeading";
 import Button from "@/components/ui/Button/Button";
@@ -21,6 +22,11 @@ export async function generateMetadata({
   return {
     title: `${t("title")} | Lihe Precision`,
     description: t("subtitle"),
+    alternates: getLocaleAlternates(locale, "/download"),
+    robots: {
+      index: false,
+      follow: true,
+    },
   };
 }
 
@@ -46,7 +52,7 @@ export default async function DownloadPage({
         />
 
         <div className={styles.headingWrapper}>
-          <SectionHeading title={t("title")} subtitle={t("subtitle")} />
+          <SectionHeading title={t("title")} subtitle={t("subtitle")} as="h1" />
         </div>
 
         <div className={styles.placeholder}>
