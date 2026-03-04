@@ -75,6 +75,12 @@
     "tagline": "Precision mold solutions for the global PET packaging industry.",
     "copyright": "Foshan Lihe Precision Machinery Co.,Ltd. All rights reserved."
   },
+  "download": {
+    "title": "Downloads",
+    "subtitle": "Product catalogs and technical documents",
+    "placeholder": "Download resources will be available soon. Please contact us for product catalogs and technical specifications.",
+    "contactUs": "Contact Us"
+  },
   "common": {
     "learnMore": "Learn More",
     "backToTop": "Back to Top",
