@@ -1,0 +1,39 @@
+{
+  "title": "Equipment & Capabilities",
+  "banner": {
+    "src": "/images/equipment/equipment-banner.webp",
+    "alt": "equipment-banner - Lihe precision manufacturing equipment"
+  },
+  "headline": "World-Class Machinery. Micron-Level Precision.",
+  "intro": "We invest in the best equipment available to deliver molds that meet the highest standards of dimensional accuracy, surface finish, and production longevity.",
+  "categories": [
+    {
+      "id": "qc",
+      "name": "Quality Control Equipment",
+      "description": "Every mold undergoes rigorous dimensional verification using industry-leading metrology systems. Our QC lab is equipped with Zeiss coordinate measuring machines (CMM), high-resolution 3D profile scanners, optical comparators, and dedicated bottle sample inspection equipment — ensuring every component conforms to specification before shipment.",
+      "highlights": ["Zeiss CMM (3D coordinate measurement)", "3D profile scanning", "Optical comparators", "Bottle sample inspection systems"],
+      "images": [
+        { "src": "/images/products/17394383476978540.webp", "alt": "zeiss-cmm - Zeiss coordinate measuring machine" },
+        { "src": "/images/products/17394383621847147.webp", "alt": "3d-scanner - 3D profile scanning system" },
+        { "src": "/images/products/17394383474634820.webp", "alt": "optical-comparator - Optical comparator for precision measurement" },
+        { "src": "/images/products/17394383487925491.webp", "alt": "inspection-equipment - Bottle sample inspection equipment" },
+        { "src": "/images/products/17394383487182448.webp", "alt": "qc-measurement - Quality control measurement instrument" },
+        { "src": "/images/products/17394383504255389.webp", "alt": "qc-testing - Quality control testing station" }
+      ]
+    },
+    {
+      "id": "machining",
+      "name": "Machining Equipment",
+      "description": "Our production floor is equipped with high-precision CNC machining centers, turning centers, and grinding machines sourced from the world's most trusted manufacturers. This equipment enables us to achieve the tight tolerances and superior surface finishes demanded by high-cavitation PET mold production.",
+      "highlights": ["Mazak multi-axis CNC centers (Japan)", "Makino high-speed machining centers (Japan)", "Okamoto precision surface grinders (Japan)", "Haas CNC machining centers (USA)", "Hardinge precision turning centers (USA)", "Beijing Jingdiao high-speed engraving systems"],
+      "images": [
+        { "src": "/images/products/17394389886427703.webp", "alt": "mazak-cnc - Mazak multi-axis CNC machining center" },
+        { "src": "/images/products/17394389885986861.webp", "alt": "makino-center - Makino high-speed machining center" },
+        { "src": "/images/products/17394389881848694.webp", "alt": "okamoto-grinder - Okamoto precision surface grinder" },
+        { "src": "/images/products/17394389889021699.webp", "alt": "haas-cnc - Haas CNC machining center" },
+        { "src": "/images/products/17394396071529094.webp", "alt": "hardinge-turning - Hardinge precision turning center" },
+        { "src": "/images/products/17394397294503687.webp", "alt": "jingdiao-engraving - Beijing Jingdiao high-speed engraving system" }
+      ]
+    }
+  ]
+}

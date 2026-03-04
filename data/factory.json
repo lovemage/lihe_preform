@@ -1,0 +1,54 @@
+{
+  "title": "Our Facility",
+  "banner": {
+    "src": "/images/factory/factory-banner.webp",
+    "alt": "factory-banner - Lihe precision mold production facility"
+  },
+  "headline": "15,000 sqm of Precision Manufacturing",
+  "intro": "Our purpose-built facility in Foshan integrates advanced machining, assembly, and quality inspection under one roof — enabling complete control over every stage of mold production.",
+  "sections": [
+    {
+      "id": "office",
+      "title": "Engineering & Design Center",
+      "description": "Our design center houses dedicated CAD/CAM workstations where experienced mold engineers develop and validate mold designs using 3D simulation and flow analysis before production begins.",
+      "image": { "src": "/images/factory/office.webp", "alt": "office - Lihe engineering and design center" }
+    },
+    {
+      "id": "production-workshop",
+      "title": "Production Workshop",
+      "description": "Over 10,000 sqm of climate-controlled production floor space equipped with high-precision CNC machining centers, EDM machines, and grinding systems from world-leading manufacturers.",
+      "items": [
+        {
+          "title": "CNC Machining Centers",
+          "description": "Multi-axis CNC systems from Mazak, Makino, and Haas deliver micron-level precision for core, cavity, and mold base components.",
+          "image": { "src": "/images/factory/machining-equipment.webp", "alt": "machining-equipment - Mazak CNC machining center" }
+        },
+        {
+          "title": "Advanced Processing Equipment",
+          "description": "High-speed EDM, wire-cut EDM, and precision surface grinders from Okamoto and Sodick ensure superior surface finish and tight tolerances on critical mold components.",
+          "image": { "src": "/images/factory/sophisticated-equipment.webp", "alt": "sophisticated-equipment - Advanced EDM and grinding equipment" }
+        },
+        {
+          "title": "Quality Inspection Lab",
+          "description": "Zeiss coordinate measuring machines, 3D profile scanners, and optical comparators provide comprehensive dimensional verification at every production milestone.",
+          "image": { "src": "/images/factory/qc-equipment.webp", "alt": "qc-equipment - Zeiss CMM quality inspection laboratory" }
+        }
+      ]
+    },
+    {
+      "id": "sales-network",
+      "title": "Global Sales Network",
+      "description": "Our molds are delivered to customers across 50+ countries spanning Asia, Europe, the Americas, Africa, and the Middle East. Regional sales representatives and technical service partners ensure responsive local support."
+    },
+    {
+      "id": "after-sale-service",
+      "title": "After-Sale Technical Support",
+      "description": "Dedicated service engineers provide remote troubleshooting, on-site technical assistance, spare parts supply, and mold maintenance programs to keep your production running at peak performance."
+    },
+    {
+      "id": "solution",
+      "title": "Custom Solutions",
+      "description": "Beyond standard mold configurations, we engineer custom solutions for unique bottle designs, specialized neck finishes, material trials, and production line conversions — tailored precisely to your requirements."
+    }
+  ]
+}

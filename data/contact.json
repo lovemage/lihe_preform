@@ -1,0 +1,24 @@
+{
+  "title": "Contact Us",
+  "headline": "Get in Touch",
+  "intro": "Ready to discuss your mold requirements? Our sales and engineering team is available to provide technical consultation, pricing, and lead time information.",
+  "contact": {
+    "name": "Sales Department",
+    "phone": "+886 938 198 675",
+    "email": "sales@lihe-preform.com",
+    "address": "Building B7, Shichuang Health Science and Technology Park, No. 1, Meitu 3rd Road, Hongsha Industrial Park Community, Shishan Town, Nanhai District, Foshan City, Guangdong Province, China"
+  },
+  "formFields": {
+    "heading": "Send Us a Message",
+    "description": "Fill out the form below and our team will respond within 24 business hours.",
+    "fields": [
+      { "name": "name", "label": "Full Name", "type": "text", "required": true },
+      { "name": "company", "label": "Company Name", "type": "text", "required": true },
+      { "name": "email", "label": "Email Address", "type": "email", "required": true },
+      { "name": "phone", "label": "Phone Number", "type": "tel", "required": false },
+      { "name": "subject", "label": "Subject", "type": "select", "required": true, "options": ["Product Inquiry", "Technical Consultation", "Request a Quote", "After-Sales Support", "Other"] },
+      { "name": "message", "label": "Message", "type": "textarea", "required": true }
+    ],
+    "submitLabel": "Send Message"
+  }
+}

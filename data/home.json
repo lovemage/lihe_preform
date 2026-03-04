@@ -1,0 +1,59 @@
+{
+  "hero": {
+    "headline": "Precision PET Mold Engineering",
+    "subheadline": "From preform to bottle — high-performance molds engineered for the world's leading beverage, food, and packaging manufacturers.",
+    "cta": { "label": "Explore Products", "href": "/products" },
+    "ctaSecondary": { "label": "Contact Sales", "href": "/contact" }
+  },
+  "banners": [
+    { "src": "/images/banners/banner1.webp", "alt": "banner1 - Lihe PET preform mold manufacturing facility" },
+    { "src": "/images/banners/banner2.webp", "alt": "banner2 - Precision blow mold engineering by Lihe" },
+    { "src": "/images/banners/banner3.webp", "alt": "banner3 - High-cavitation mold systems for PET packaging" }
+  ],
+  "stats": [
+    { "value": "15,000+", "label": "sqm Production Facility" },
+    { "value": "160", "label": "Max Cavities Per Mold" },
+    { "value": "50+", "label": "Countries Served" },
+    { "value": "20+", "label": "Years of Experience" }
+  ],
+  "sectionHeadings": {
+    "products": {
+      "title": "Product Categories",
+      "subtitle": "Comprehensive mold solutions spanning the entire PET packaging lifecycle."
+    },
+    "showcase": {
+      "title": "Core Capabilities",
+      "subtitle": "Engineered for precision. Built for production."
+    },
+    "featured": {
+      "title": "Featured Products",
+      "subtitle": "Our most requested mold systems trusted by industry leaders worldwide."
+    },
+    "factory": {
+      "title": "World-Class Manufacturing",
+      "subtitle": "A 15,000 sqm facility equipped with precision CNC, EDM, and metrology systems from Mazak, Makino, and Zeiss."
+    }
+  },
+  "productCategories": [
+    { "name": "Blow Mold", "href": "/products?category=blow-mold" },
+    { "name": "Compression Mold", "href": "/products?category=compression-mold" },
+    { "name": "Closure Mold", "href": "/products?category=closure-mold" },
+    { "name": "Preform Mold", "href": "/products?category=preform-mold" },
+    { "name": "Hot Runner System", "href": "/products?category=hotrunner-system" },
+    { "name": "Accessories", "href": "/products?category=accessories" },
+    { "name": "Mold Base Manufacturing", "href": "/products?category=mold-base" },
+    { "name": "QC Equipment", "href": "/equipment/qc" },
+    { "name": "Machining Equipment", "href": "/equipment/machining" }
+  ],
+  "showcaseCategories": [
+    { "name": "Preform Mold", "description": "Up to 160 cavities. Compatible with HUSKY, NETSTAL, and SIPA systems.", "image": "/images/home/preform-mold.webp", "alt": "preform-mold - High-cavitation PET preform mold system", "href": "/products?category=preform-mold" },
+    { "name": "Compression Mold", "description": "Precision closure compression molds for high-speed SACMI production lines.", "image": "/images/home/compression-mold.webp", "alt": "compression-mold - PET closure compression mold", "href": "/products?category=compression-mold" },
+    { "name": "Blow Mold", "description": "Two-step and one-step blow molds for SIDEL, KRONES, KHS, and more.", "image": "/images/home/blow-mold.webp", "alt": "blow-mold - PET bottle blow mold for beverage industry", "href": "/products?category=blow-mold" },
+    { "name": "Machining Equipment", "description": "Mazak, Makino, and Haas CNC centers ensuring micron-level accuracy.", "image": "/images/home/machining-equipment.webp", "alt": "machining-equipment - CNC machining center at Lihe factory", "href": "/equipment/machining" },
+    { "name": "QC Equipment", "description": "Zeiss CMM, 3D profile scanners, and dedicated bottle inspection systems.", "image": "/images/home/qc-equipment.webp", "alt": "qc-equipment - Zeiss quality control measurement system", "href": "/equipment/qc" }
+  ],
+  "factoryImage": {
+    "src": "/images/home/factory-banner.webp",
+    "alt": "factory-banner - Aerial view of Lihe precision mold manufacturing facility"
+  }
+}

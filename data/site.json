@@ -1,0 +1,48 @@
+{
+  "company": "Foshan Lihe Precision Machinery Co.,Ltd.",
+  "logo": {
+    "src": "/images/logo/logo.webp",
+    "alt": "logo - Foshan Lihe Precision Machinery"
+  },
+  "nav": [
+    { "label": "Home", "href": "/" },
+    {
+      "label": "About Us",
+      "href": "/about",
+      "children": [
+        { "label": "Company Profile", "href": "/about" }
+      ]
+    },
+    { "label": "Factory", "href": "/factory" },
+    {
+      "label": "Equipment",
+      "href": "/equipment",
+      "children": [
+        { "label": "QC Equipment", "href": "/equipment/qc" },
+        { "label": "Machining Equipment", "href": "/equipment/machining" }
+      ]
+    },
+    { "label": "Products", "href": "/products" },
+    { "label": "Contact Us", "href": "/contact" },
+    { "label": "Download", "href": "/download" }
+  ],
+  "footer": {
+    "tagline": "Precision mold solutions for the global PET packaging industry.",
+    "social": [
+      { "platform": "Facebook", "href": "#" },
+      { "platform": "Twitter", "href": "#" },
+      { "platform": "Pinterest", "href": "#" }
+    ],
+    "links": [
+      { "label": "ABOUT US", "href": "/about" },
+      { "label": "PRODUCTS", "href": "/products" },
+      { "label": "CONTACT US", "href": "/contact" }
+    ],
+    "contact": {
+      "tel": "+886 938 198 675",
+      "email": "sales@lihe-preform.com",
+      "address": "Building B7, Shichuang Health Science and Technology Park, No. 1, Meitu 3rd Road, Hongsha Industrial Park Community, Shishan Town, Nanhai District, Foshan City, Guangdong Province, China"
+    },
+    "copyright": "Foshan Lihe Precision Machinery Co.,Ltd. All rights reserved."
+  }
+}
