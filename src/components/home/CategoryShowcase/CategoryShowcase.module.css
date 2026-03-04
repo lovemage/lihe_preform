@@ -1,0 +1,100 @@
+.section {
+  padding: var(--space-4xl) var(--container-padding);
+  background-color: var(--color-gray-50);
+}
+
+.container {
+  max-width: var(--container-max);
+  margin: 0 auto;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--space-lg);
+}
+
+.grid > :nth-child(n + 4) {
+  /* 4th and 5th cards on second row, centered */
+}
+
+.card {
+  position: relative;
+  display: block;
+  height: 280px;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  text-decoration: none;
+  border: 2px solid transparent;
+  transition: border-color var(--transition-base);
+}
+
+.card:hover {
+  border-color: var(--color-accent);
+}
+
+.imageWrap {
+  position: absolute;
+  inset: 0;
+  transition: transform 0.4s ease;
+}
+
+.card:hover .imageWrap {
+  transform: scale(1.08);
+}
+
+.image {
+  object-fit: cover;
+}
+
+.overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to top,
+    rgba(0, 0, 0, 0.75) 0%,
+    rgba(0, 0, 0, 0.15) 60%,
+    rgba(0, 0, 0, 0.05) 100%
+  );
+  z-index: 1;
+}
+
+.cardContent {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: var(--space-lg);
+  z-index: 2;
+}
+
+.cardTitle {
+  color: var(--color-white);
+  font-family: var(--font-heading);
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 0 0 0.5rem;
+}
+
+.cardDescription {
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 0.9rem;
+  line-height: 1.5;
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+
+  .card {
+    height: 220px;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
