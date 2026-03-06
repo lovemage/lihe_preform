@@ -22,8 +22,7 @@ export async function generateMetadata({
 
   return {
     title: `${t("title")} | Lihe Precision`,
-    description:
-      "Explore our comprehensive range of precision PET preform molds, blow molds, compression molds, closure molds, hot runner systems, and multi-cavity injection mold tooling for beverage packaging solutions.",
+    description: t("metaDescription"),
     alternates: getLocaleAlternates(locale, "/products"),
   };
 }

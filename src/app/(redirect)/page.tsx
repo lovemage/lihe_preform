@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { getLocaleAlternates } from "@/lib/seo";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://lihe-preform.com"),
   title: "Lihe Precision",
   description:
     "Lihe Precision PET preform mold and blow mold engineering solutions.",

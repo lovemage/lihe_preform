@@ -13,11 +13,11 @@ export async function generateMetadata({
 }) {
   const { locale } = await params;
   setRequestLocale(locale);
+  const t = await getTranslations("home");
 
   return {
     title: "Lihe Precision | PET Preform Mold & Blow Mold Engineering",
-    description:
-      "High-performance PET preform molds, blow molds, hot runner systems, and multi-cavity injection mold tooling. 15,000 sqm precision manufacturing facility serving beverage packaging industries across 50+ countries.",
+    description: t("metaDescription"),
     alternates: getLocaleAlternates(locale, ""),
   };
 }

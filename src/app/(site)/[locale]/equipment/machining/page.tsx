@@ -19,12 +19,13 @@ export async function generateMetadata({
 }) {
   const { locale } = await params;
   setRequestLocale(locale);
+  const t = await getTranslations("equipment");
   const data = getEquipmentData();
   const category = data.categories[1];
 
   return {
     title: `${category.name} | Lihe Precision`,
-    description: clampDescription(category.description),
+    description: clampDescription(t("metaDescriptionMachining")),
     alternates: getLocaleAlternates(locale, "/equipment/machining"),
   };
 }

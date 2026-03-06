@@ -29,6 +29,12 @@ function buildLocalizedUrl(baseUrl: string, locale: string, page: string): strin
   return `${baseUrl}/${locale}${page}/`;
 }
 
+function buildPageAlternates(baseUrl: string, page: string) {
+  return Object.fromEntries(
+    routing.locales.map((locale) => [locale, buildLocalizedUrl(baseUrl, locale, page)]),
+  );
+}
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = "https://lihe-preform.com";
   const dataDir = path.join(process.cwd(), "data");
@@ -72,13 +78,20 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const allPages = [...pages, ...productPages];
 
   return allPages.flatMap((page) =>
-    routing.locales.map((locale) => ({
-      url: buildLocalizedUrl(baseUrl, locale, page),
-      lastModified: page.startsWith("/products/")
-        ? productsLastModified
-        : siteLastModified,
-      changeFrequency: (page === "" ? "weekly" : "monthly") as any,
-      priority: page === "" ? 1.0 : page.startsWith("/products/") ? 0.7 : 0.8,
-    }))
+    routing.locales.map((locale) => {
+      const localizedUrl = buildLocalizedUrl(baseUrl, locale, page);
+
+      return {
+        url: localizedUrl,
+        lastModified: page.startsWith("/products/")
+          ? productsLastModified
+          : siteLastModified,
+        changeFrequency: (page === "" ? "weekly" : "monthly") as any,
+        priority: page === "" ? 1.0 : page.startsWith("/products/") ? 0.7 : 0.8,
+        alternates: {
+          languages: buildPageAlternates(baseUrl, page),
+        },
+      };
+    }),
   );
 }

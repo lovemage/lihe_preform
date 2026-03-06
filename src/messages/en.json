@@ -13,6 +13,7 @@
   },
   "home": {
     "headline": "Precision PET Preform Mold Engineering",
+    "metaDescription": "High-performance PET preform molds, blow molds, hot runner systems, and multi-cavity injection mold tooling. 15,000 sqm precision manufacturing facility serving beverage packaging industries across 50+ countries.",
     "subheadline": "From preform to bottle — high-performance PET preform molds, blow molds, and hot runner systems engineered for the world's leading beverage, food, and packaging manufacturers.",
     "exploreProducts": "Explore Products",
     "contactSales": "Contact Sales",
@@ -34,18 +35,24 @@
   },
   "about": {
     "title": "About Lihe Precision",
-    "headline": "Engineering Precision. Delivering Performance."
+    "headline": "Engineering Precision. Delivering Performance.",
+    "metaDescription": "Foshan Lihe Precision Machinery Co., Ltd. is a specialized PET preform mold manufacturer in Guangdong, delivering high-precision tooling and reliable long-term production performance."
   },
   "factory": {
     "title": "Our Facility",
-    "headline": "15,000 sqm of Precision Manufacturing"
+    "headline": "15,000 sqm of Precision Manufacturing",
+    "metaDescription": "Our 15,000 sqm PET mold facility integrates precision CNC machining, assembly, and quality inspection to deliver stable cycle times and consistent mold quality."
   },
   "equipment": {
     "title": "Equipment & Capabilities",
-    "headline": "World-Class Machinery. Micron-Level Precision."
+    "headline": "World-Class Machinery. Micron-Level Precision.",
+    "metaDescription": "Explore Lihe Precision's advanced machining and inspection capabilities designed to produce PET preform and blow molds with micron-level accuracy.",
+    "metaDescriptionQc": "Our quality control laboratory uses precision metrology systems to validate dimensions, material quality, and repeatability for PET mold components.",
+    "metaDescriptionMachining": "Our machining workshop combines high-precision CNC, EDM, and finishing systems to manufacture durable PET mold components with tight tolerances."
   },
   "products": {
     "title": "Products",
+    "metaDescription": "Explore our full range of PET preform molds, blow molds, compression molds, closure molds, hot runner systems, and multi-cavity tooling for beverage packaging lines.",
     "allCategories": "All Categories",
     "viewDetails": "View Details",
     "requestQuote": "Request a Quote"

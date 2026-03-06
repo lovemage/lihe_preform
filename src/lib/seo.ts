@@ -25,6 +25,22 @@ export function getLocaleAlternates(locale: string, pagePath: string) {
   };
 }
 
+const OPEN_GRAPH_LOCALE_MAP: Record<string, string> = {
+  en: "en_US",
+  ru: "ru_RU",
+  es: "es_ES",
+};
+
+export function getOpenGraphLocale(locale: string): string {
+  return OPEN_GRAPH_LOCALE_MAP[locale] ?? OPEN_GRAPH_LOCALE_MAP.en;
+}
+
+export function getOpenGraphAlternateLocales(locale: string): string[] {
+  return routing.locales
+    .filter((lang) => lang !== locale)
+    .map((lang) => getOpenGraphLocale(lang));
+}
+
 export function clampDescription(text: string, maxLength = 160): string {
   const clean = text.replace(/\s+/g, " ").trim();
   if (clean.length <= maxLength) return clean;

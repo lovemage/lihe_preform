@@ -3,9 +3,9 @@ import { getTranslations, setRequestLocale } from "next-intl/server";
 import { routing } from "@/i18n/routing";
 import { getEquipmentData } from "@/lib/data";
 import { clampDescription, getLocaleAlternates } from "@/lib/seo";
-import { Link } from "@/i18n/navigation";
 import Breadcrumb from "@/components/ui/Breadcrumb/Breadcrumb";
 import SectionHeading from "@/components/ui/SectionHeading/SectionHeading";
+import ImageGallery from "@/components/ui/ImageGallery/ImageGallery";
 import styles from "./page.module.css";
 
 export async function generateStaticParams() {
@@ -21,15 +21,16 @@ export async function generateMetadata({
   setRequestLocale(locale);
   const t = await getTranslations("equipment");
   const data = getEquipmentData();
+  const category = data.categories[0];
 
   return {
-    title: `${t("title")} | Lihe Precision`,
-    description: clampDescription(data.intro),
-    alternates: getLocaleAlternates(locale, "/equipment"),
+    title: `${category.name} | Lihe Precision`,
+    description: clampDescription(t("metaDescriptionQc")),
+    alternates: getLocaleAlternates(locale, "/equipment/qc"),
   };
 }
 
-export default async function EquipmentPage({
+export default async function QCEquipmentPage({
   params,
 }: {
   params: Promise<{ locale: string }>;
@@ -37,8 +38,10 @@ export default async function EquipmentPage({
   const { locale } = await params;
   setRequestLocale(locale);
   const t = await getTranslations("equipment");
+  const tNav = await getTranslations("nav");
   const tCommon = await getTranslations("common");
   const data = getEquipmentData();
+  const category = data.categories[0];
 
   return (
     <div className={styles.page}>
@@ -53,7 +56,7 @@ export default async function EquipmentPage({
         />
         <div className={styles.bannerOverlay}>
           <div className={styles.bannerContent}>
-            <h1 className={styles.bannerTitle}>{t("title")}</h1>
+            <h1 className={styles.bannerTitle}>{category.name}</h1>
             <p className={styles.bannerHeadline}>{t("headline")}</p>
           </div>
         </div>
@@ -64,59 +67,46 @@ export default async function EquipmentPage({
         <Breadcrumb
           items={[
             { label: tCommon("breadcrumbHome"), href: "/" },
-            { label: t("title") },
+            { label: t("title"), href: "/equipment" },
+            { label: tNav("qcEquipment") },
           ]}
         />
       </div>
 
-      {/* Intro */}
+      {/* Description */}
       <section className={styles.section}>
         <div className={styles.container}>
-          <p className={styles.intro}>{data.intro}</p>
+          <p className={styles.description}>{category.description}</p>
         </div>
       </section>
 
-      {/* Category Cards */}
-      <section className={`${styles.section} ${styles.categoriesSection}`}>
+      {/* Highlights */}
+      <section className={`${styles.section} ${styles.highlightsSection}`}>
         <div className={styles.container}>
           <SectionHeading
-            title="Our Equipment"
-            subtitle="Explore our world-class manufacturing and quality control systems"
+            title="Key Capabilities"
+            subtitle="Our quality control equipment and systems"
           />
-          <div className={styles.categoryGrid}>
-            {data.categories.map(
-              (cat: {
-                id: string;
-                name: string;
-                description: string;
-                images: { src: string; alt: string }[];
-              }) => (
-                <Link
-                  key={cat.id}
-                  href={`/equipment/${cat.id}`}
-                  className={styles.categoryCard}
-                >
-                  <div className={styles.categoryImageWrapper}>
-                    <Image
-                      src={cat.images[0].src}
-                      alt={cat.images[0].alt}
-                      width={600}
-                      height={400}
-                      className={styles.categoryImage}
-                    />
-                  </div>
-                  <div className={styles.categoryContent}>
-                    <h2 className={styles.categoryName}>{cat.name}</h2>
-                    <p className={styles.categoryDescription}>
-                      {cat.description.slice(0, 180)}...
-                    </p>
-                    <span className={styles.categoryLink}>
-                      {tCommon("learnMore")} &rarr;
-                    </span>
-                  </div>
-                </Link>
-              )
-            )}
+          <ul className={styles.highlightsList}>
+            {category.highlights.map((highlight: string, index: number) => (
+              <li key={index} className={styles.highlightItem}>
+                <span className={styles.checkIcon}>&#10003;</span>
+                <span>{highlight}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </section>
+
+      {/* Gallery */}
+      <section className={styles.section}>
+        <div className={styles.container}>
+          <SectionHeading
+            title="Equipment Gallery"
+            subtitle="See our QC systems in action"
+          />
+          <div className={styles.galleryWrapper}>
+            <ImageGallery images={category.images} />
           </div>
         </div>
       </section>

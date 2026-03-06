@@ -13,6 +13,7 @@
   },
   "home": {
     "headline": "Precision PET Mold Engineering",
+    "metaDescription": "Moldes de preforma PET de alto rendimiento, moldes de soplado, sistemas de canal caliente y herramental multicavidad. Planta de fabricación de 15.000 m² que atiende a la industria de envases para bebidas en más de 50 países.",
     "subheadline": "From preform to bottle — high-performance molds engineered for the world's leading beverage, food, and packaging manufacturers.",
     "exploreProducts": "Explore Products",
     "contactSales": "Contact Sales",
@@ -34,18 +35,24 @@
   },
   "about": {
     "title": "About Lihe Precision",
-    "headline": "Engineering Precision. Delivering Performance."
+    "headline": "Engineering Precision. Delivering Performance.",
+    "metaDescription": "Foshan Lihe Precision Machinery Co., Ltd. es un fabricante especializado en moldes para preformas PET en Guangdong, enfocado en precisión técnica y rendimiento estable en producción."
   },
   "factory": {
     "title": "Our Facility",
-    "headline": "15,000 sqm of Precision Manufacturing"
+    "headline": "15,000 sqm of Precision Manufacturing",
+    "metaDescription": "Nuestra planta de 15.000 m² integra mecanizado CNC de precisión, ensamblaje y control de calidad para entregar moldes PET con ciclos estables y calidad consistente."
   },
   "equipment": {
     "title": "Equipment & Capabilities",
-    "headline": "World-Class Machinery. Micron-Level Precision."
+    "headline": "World-Class Machinery. Micron-Level Precision.",
+    "metaDescription": "Descubra las capacidades avanzadas de mecanizado e inspección de Lihe Precision para fabricar moldes de preforma PET y moldes de soplado con precisión micrométrica.",
+    "metaDescriptionQc": "Nuestro laboratorio de control de calidad utiliza sistemas de metrología de alta precisión para validar dimensiones, materiales y repetibilidad de componentes de molde PET.",
+    "metaDescriptionMachining": "Nuestro taller de mecanizado combina CNC de alta precisión, EDM y procesos de acabado para fabricar componentes de molde PET duraderos y de tolerancia ajustada."
   },
   "products": {
     "title": "Products",
+    "metaDescription": "Explore nuestra gama completa de moldes para preformas PET, moldes de soplado, moldes de compresión, moldes de tapas y sistemas de canal caliente para líneas de envasado de bebidas.",
     "allCategories": "All Categories",
     "viewDetails": "View Details",
     "requestQuote": "Request a Quote"

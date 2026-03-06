@@ -69,10 +69,18 @@ export default async function ProductDetailPage({
     "@context": "https://schema.org",
     "@type": "Product",
     name: product.name,
+    sku: String(product.id),
+    mpn: String(product.id),
+    category: product.category,
+    url: `https://lihe-preform.com/${locale}/products/${id}/`,
     description: product.description,
     image: product.images.map(
       (img: any) => `https://lihe-preform.com${img.src}`
     ),
+    brand: {
+      "@type": "Brand",
+      name: "Lihe Precision",
+    },
     manufacturer: {
       "@type": "Organization",
       name: "Foshan Lihe Precision Machinery Co.,Ltd.",

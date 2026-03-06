@@ -19,11 +19,10 @@ export async function generateMetadata({
   const { locale } = await params;
   setRequestLocale(locale);
   const t = await getTranslations("factory");
-  const data = getFactoryData();
 
   return {
     title: `${t("title")} | Lihe Precision`,
-    description: clampDescription(data.intro),
+    description: clampDescription(t("metaDescription")),
     alternates: getLocaleAlternates(locale, "/factory"),
   };
 }
