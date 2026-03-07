@@ -23,15 +23,8 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
 
-  return {
-    metadataBase: new URL("https://lihe-preform.com"),
-    title: {
-      default: "Lihe Precision | PET Preform Mold & Blow Mold Engineering",
-      template: "%s",
-    },
-    description:
-      "High-performance PET preform molds, blow molds, compression molds, closure molds, and hot runner systems. Multi-cavity mold manufacturer serving beverage packaging industries across 50+ countries.",
-    keywords: [
+  const keywordsMap: Record<string, string[]> = {
+    en: [
       "PET preform mold",
       "blow mold",
       "hot runner system",
@@ -43,6 +36,45 @@ export async function generateMetadata({
       "beverage packaging solutions",
       "PET mold manufacturer",
     ],
+    ru: [
+      "пресс-форма для ПЭТ-преформ",
+      "выдувная форма",
+      "горячеканальная система",
+      "многогнездная пресс-форма",
+      "оснастка для преформ",
+      "термопластавтомат",
+      "компрессионная форма",
+      "форма для колпачков",
+      "упаковка для напитков",
+      "производитель пресс-форм для ПЭТ",
+      "пресс-формы для HUSKY",
+      "формы для NETSTAL",
+      "формы для ПЭТ-бутылок для воды",
+      "пресс-формы для пищевой упаковки",
+    ],
+    es: [
+      "PET preform mold",
+      "blow mold",
+      "hot runner system",
+      "multi-cavity mold",
+      "preform tooling",
+      "injection molding machine",
+      "compression mold",
+      "closure mold",
+      "beverage packaging solutions",
+      "PET mold manufacturer",
+    ],
+  };
+
+  return {
+    metadataBase: new URL("https://lihe-preform.com"),
+    title: {
+      default: "Lihe Precision | PET Preform Mold & Blow Mold Engineering",
+      template: "%s",
+    },
+    description:
+      "High-performance PET preform molds, blow molds, compression molds, closure molds, and hot runner systems. Multi-cavity mold manufacturer serving beverage packaging industries across 50+ countries.",
+    keywords: keywordsMap[locale] ?? keywordsMap.en,
     icons: {
       icon: [
         {
