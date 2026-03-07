@@ -79,8 +79,8 @@ export default async function EquipmentPage({
       <section className={`${styles.section} ${styles.categoriesSection}`}>
         <div className={styles.container}>
           <SectionHeading
-            title="Our Equipment"
-            subtitle="Explore our world-class manufacturing and quality control systems"
+            title={t("ourEquipment")}
+            subtitle={t("ourEquipmentSub")}
           />
           <div className={styles.categoryGrid}>
             {data.categories.map(

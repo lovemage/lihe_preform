@@ -84,8 +84,8 @@ export default async function MachiningEquipmentPage({
       <section className={`${styles.section} ${styles.highlightsSection}`}>
         <div className={styles.container}>
           <SectionHeading
-            title="Key Capabilities"
-            subtitle="Our precision machining equipment lineup"
+            title={t("keyCapabilitiesMachining")}
+            subtitle={t("keyCapabilitiesSubMachining")}
           />
           <ul className={styles.highlightsList}>
             {category.highlights.map((highlight: string, index: number) => (
@@ -102,8 +102,8 @@ export default async function MachiningEquipmentPage({
       <section className={styles.section}>
         <div className={styles.container}>
           <SectionHeading
-            title="Equipment Gallery"
-            subtitle="See our machining systems in action"
+            title={t("gallery")}
+            subtitle={t("gallerySubMachining")}
           />
           <div className={styles.galleryWrapper}>
             <ImageGallery images={category.images} />

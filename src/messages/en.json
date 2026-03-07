@@ -36,7 +36,12 @@
   "about": {
     "title": "About Lihe Precision",
     "headline": "Engineering Precision. Delivering Performance.",
-    "metaDescription": "Foshan Lihe Precision Machinery Co., Ltd. is a specialized PET preform mold manufacturer in Guangdong, delivering high-precision tooling and reliable long-term production performance."
+    "metaDescription": "Foshan Lihe Precision Machinery Co., Ltd. is a specialized PET preform mold manufacturer in Guangdong, delivering high-precision tooling and reliable long-term production performance.",
+    "companyIntroHeading": "Company Introduction",
+    "whyLiheHeading": "Why Lihe",
+    "whyLiheSub": "What sets us apart in the PET mold industry",
+    "valuesHeading": "Core Values",
+    "valuesSub": "The principles that drive everything we do"
   },
   "factory": {
     "title": "Our Facility",
@@ -48,7 +53,16 @@
     "headline": "World-Class Machinery. Micron-Level Precision.",
     "metaDescription": "Explore Lihe Precision's advanced machining and inspection capabilities designed to produce PET preform and blow molds with micron-level accuracy.",
     "metaDescriptionQc": "Our quality control laboratory uses precision metrology systems to validate dimensions, material quality, and repeatability for PET mold components.",
-    "metaDescriptionMachining": "Our machining workshop combines high-precision CNC, EDM, and finishing systems to manufacture durable PET mold components with tight tolerances."
+    "metaDescriptionMachining": "Our machining workshop combines high-precision CNC, EDM, and finishing systems to manufacture durable PET mold components with tight tolerances.",
+    "ourEquipment": "Our Equipment",
+    "ourEquipmentSub": "Explore our world-class manufacturing and quality control systems",
+    "keyCapabilities": "Key Capabilities",
+    "keyCapabilitiesSub": "Our quality control equipment and systems",
+    "gallery": "Equipment Gallery",
+    "gallerySub": "See our QC systems in action",
+    "keyCapabilitiesMachining": "Key Capabilities",
+    "keyCapabilitiesSubMachining": "Our precision machining equipment lineup",
+    "gallerySubMachining": "See our machining systems in action"
   },
   "products": {
     "title": "Products",

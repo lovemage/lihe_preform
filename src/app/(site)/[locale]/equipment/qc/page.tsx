@@ -84,8 +84,8 @@ export default async function QCEquipmentPage({
       <section className={`${styles.section} ${styles.highlightsSection}`}>
         <div className={styles.container}>
           <SectionHeading
-            title="Key Capabilities"
-            subtitle="Our quality control equipment and systems"
+            title={t("keyCapabilities")}
+            subtitle={t("keyCapabilitiesSub")}
           />
           <ul className={styles.highlightsList}>
             {category.highlights.map((highlight: string, index: number) => (
@@ -102,8 +102,8 @@ export default async function QCEquipmentPage({
       <section className={styles.section}>
         <div className={styles.container}>
           <SectionHeading
-            title="Equipment Gallery"
-            subtitle="See our QC systems in action"
+            title={t("gallery")}
+            subtitle={t("gallerySub")}
           />
           <div className={styles.galleryWrapper}>
             <ImageGallery images={category.images} />

@@ -72,7 +72,7 @@ export default async function AboutPage({
       {/* Company Introduction */}
       <section className={styles.section}>
         <div className={styles.container}>
-          <SectionHeading title="Company Introduction" />
+          <SectionHeading title={t("companyIntroHeading")} />
           <div className={styles.introContent}>
             <p className={styles.introParagraph}>{data.companyIntro}</p>
             <p className={styles.introParagraph}>{data.philosophy}</p>
@@ -87,8 +87,8 @@ export default async function AboutPage({
       <section className={`${styles.section} ${styles.whySection}`}>
         <div className={styles.container}>
           <SectionHeading
-            title="Why Lihe"
-            subtitle="What sets us apart in the PET mold industry"
+            title={t("whyLiheHeading")}
+            subtitle={t("whyLiheSub")}
           />
           <div className={styles.whyGrid}>
             {data.whyLihe.map(
@@ -111,8 +111,8 @@ export default async function AboutPage({
       <section className={styles.section}>
         <div className={styles.container}>
           <SectionHeading
-            title="Core Values"
-            subtitle="The principles that drive everything we do"
+            title={t("valuesHeading")}
+            subtitle={t("valuesSub")}
           />
           <div className={styles.valuesGrid}>
             {data.values.map(
