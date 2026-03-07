@@ -1,15 +1,21 @@
 import fs from "fs";
 import path from "path";
 
-function loadJson<T>(filename: string): T {
+function loadJson<T>(locale: string, filename: string): T {
+  const filePath = path.join(process.cwd(), "data", locale, filename);
+  const raw = fs.readFileSync(filePath, "utf-8");
+  return JSON.parse(raw) as T;
+}
+
+function loadSharedJson<T>(filename: string): T {
   const filePath = path.join(process.cwd(), "data", filename);
   const raw = fs.readFileSync(filePath, "utf-8");
   return JSON.parse(raw) as T;
 }
 
-export function getSiteData() {
-  const siteData = loadJson<any>("site.json");
-  const productsData = getProductsData();
+export function getSiteData(locale: string) {
+  const siteData = loadSharedJson<any>("site.json");
+  const productsData = getProductsData(locale);
   const rawCategories: unknown[] = Array.isArray(productsData?.categories)
     ? productsData.categories
     : [];
@@ -39,28 +45,26 @@ export function getSiteData() {
   return siteData;
 }
 
-export function getHomeData() {
-  return loadJson<any>("home.json");
+export function getHomeData(locale: string) {
+  return loadJson<any>(locale, "home.json");
 }
 
-export function getAboutData() {
-  return loadJson<any>("about.json");
+export function getAboutData(locale: string) {
+  return loadJson<any>(locale, "about.json");
 }
 
-export function getFactoryData() {
-  return loadJson<any>("factory.json");
+export function getFactoryData(locale: string) {
+  return loadJson<any>(locale, "factory.json");
 }
 
-export function getEquipmentData() {
-  return loadJson<any>("equipment.json");
+export function getEquipmentData(locale: string) {
+  return loadJson<any>(locale, "equipment.json");
 }
 
-export function getContactData() {
-  return loadJson<any>("contact.json");
+export function getContactData(locale: string) {
+  return loadJson<any>(locale, "contact.json");
 }
 
-export function getProductsData() {
-  const filePath = path.join(process.cwd(), "products-data.json");
-  const raw = fs.readFileSync(filePath, "utf-8");
-  return JSON.parse(raw);
+export function getProductsData(locale: string = "en") {
+  return loadJson<any>(locale, "products-data.json");
 }
