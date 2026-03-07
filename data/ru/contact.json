@@ -1,0 +1,24 @@
+{
+  "title": "Контакты",
+  "headline": "Свяжитесь с нами",
+  "intro": "Готовы обсудить ваши требования к пресс-форме для ПЭТ-преформ или выдувной форме? Наша команда по продажам и инженерии готова предоставить техническую консультацию, информацию о ценах и сроках поставки для ваших проектов по упаковке напитков.",
+  "contact": {
+    "name": "Отдел продаж",
+    "phone": "+886 938 198 675",
+    "email": "sales@lihe-preform.com",
+    "address": "Building B7, Shichuang Health Science and Technology Park, No. 1, Meitu 3rd Road, Hongsha Industrial Park Community, Shishan Town, Nanhai District, Foshan City, Guangdong Province, China"
+  },
+  "formFields": {
+    "heading": "Написать нам",
+    "description": "Заполните форму ниже, и наша команда ответит в течение 24 рабочих часов.",
+    "fields": [
+      { "name": "name", "label": "ФИО", "type": "text", "required": true },
+      { "name": "company", "label": "Название компании", "type": "text", "required": true },
+      { "name": "email", "label": "Электронная почта", "type": "email", "required": true },
+      { "name": "phone", "label": "Телефон", "type": "tel", "required": false },
+      { "name": "subject", "label": "Тема", "type": "select", "required": true, "options": ["Запрос о продукции", "Техническая консультация", "Запрос коммерческого предложения", "Послепродажное обслуживание", "Другое"] },
+      { "name": "message", "label": "Сообщение", "type": "textarea", "required": true }
+    ],
+    "submitLabel": "Отправить сообщение"
+  }
+}
