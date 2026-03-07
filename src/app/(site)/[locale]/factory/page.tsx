@@ -48,7 +48,7 @@ export default async function FactoryPage({
   setRequestLocale(locale);
   const t = await getTranslations("factory");
   const tCommon = await getTranslations("common");
-  const data = getFactoryData();
+  const data = getFactoryData(locale);
 
   return (
     <div className={styles.page}>

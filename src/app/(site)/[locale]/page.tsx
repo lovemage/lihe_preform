@@ -31,8 +31,8 @@ export default async function HomePage({
   setRequestLocale(locale);
   const t = await getTranslations("home");
   const tStats = await getTranslations("stats");
-  const homeData = getHomeData();
-  const productsData = getProductsData();
+  const homeData = getHomeData(locale);
+  const productsData = getProductsData(locale);
 
   const statsLabelMap: Record<string, string> = {
     "sqm Production Facility": "facility",

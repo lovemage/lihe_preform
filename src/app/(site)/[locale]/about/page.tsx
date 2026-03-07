@@ -36,7 +36,7 @@ export default async function AboutPage({
   setRequestLocale(locale);
   const t = await getTranslations("about");
   const tCommon = await getTranslations("common");
-  const data = getAboutData();
+  const data = getAboutData(locale);
 
   const whyIcons = ["01", "02", "03", "04"];
 

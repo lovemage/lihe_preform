@@ -88,7 +88,7 @@ export default async function LocaleLayout({
   }
   setRequestLocale(locale);
   const messages = await getMessages();
-  const siteData = getSiteData();
+  const siteData = getSiteData(locale);
 
   const organizationJsonLd = {
     "@context": "https://schema.org",

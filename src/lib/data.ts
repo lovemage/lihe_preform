@@ -2,7 +2,9 @@ import fs from "fs";
 import path from "path";
 
 function loadJson<T>(locale: string, filename: string): T {
-  const filePath = path.join(process.cwd(), "data", locale, filename);
+  const localePath = path.join(process.cwd(), "data", locale, filename);
+  const fallbackPath = path.join(process.cwd(), "data", "en", filename);
+  const filePath = fs.existsSync(localePath) ? localePath : fallbackPath;
   const raw = fs.readFileSync(filePath, "utf-8");
   return JSON.parse(raw) as T;
 }

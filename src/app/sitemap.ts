@@ -39,15 +39,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = "https://lihe-preform.com";
   const dataDir = path.join(process.cwd(), "data");
   const staticDataFiles = [
-    "about.json",
-    "contact.json",
-    "equipment.json",
-    "factory.json",
-    "home.json",
-    "site.json",
-  ].map((filename) => path.join(dataDir, filename));
+    path.join(dataDir, "en", "about.json"),
+    path.join(dataDir, "en", "contact.json"),
+    path.join(dataDir, "en", "equipment.json"),
+    path.join(dataDir, "en", "factory.json"),
+    path.join(dataDir, "en", "home.json"),
+    path.join(dataDir, "site.json"),
+  ];
   const siteLastModified = getLatestMtime(staticDataFiles);
-  const productsFile = path.join(process.cwd(), "products-data.json");
+  const productsFile = path.join(dataDir, "en", "products-data.json");
 
   const pages = [
     "",
@@ -60,7 +60,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/contact",
   ];
 
-  const productsData = getProductsData();
+  const productsData = getProductsData("en");
   const crawledAt =
     typeof productsData?.crawled_at === "string"
       ? new Date(`${productsData.crawled_at}T00:00:00.000Z`)

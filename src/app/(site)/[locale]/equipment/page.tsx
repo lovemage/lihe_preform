@@ -37,7 +37,7 @@ export default async function EquipmentPage({
   setRequestLocale(locale);
   const t = await getTranslations("equipment");
   const tCommon = await getTranslations("common");
-  const data = getEquipmentData();
+  const data = getEquipmentData(locale);
 
   return (
     <div className={styles.page}>

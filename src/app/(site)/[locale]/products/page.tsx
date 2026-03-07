@@ -36,7 +36,7 @@ export default async function ProductsPage({
   setRequestLocale(locale);
   const t = await getTranslations("products");
   const tCommon = await getTranslations("common");
-  const data = getProductsData();
+  const data = getProductsData(locale);
 
   return (
     <div className={styles.page}>

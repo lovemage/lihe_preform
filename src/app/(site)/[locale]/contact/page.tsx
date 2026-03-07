@@ -36,7 +36,7 @@ export default async function ContactPage({
   setRequestLocale(locale);
   const t = await getTranslations("contact");
   const tCommon = await getTranslations("common");
-  const data = getContactData();
+  const data = getContactData(locale);
 
   return (
     <div className={styles.page}>

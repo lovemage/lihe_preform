@@ -20,7 +20,7 @@ export async function generateMetadata({
   const { locale } = await params;
   setRequestLocale(locale);
   const t = await getTranslations("equipment");
-  const data = getEquipmentData();
+  const data = getEquipmentData(locale);
   const category = data.categories[0];
 
   return {
@@ -40,7 +40,7 @@ export default async function QCEquipmentPage({
   const t = await getTranslations("equipment");
   const tNav = await getTranslations("nav");
   const tCommon = await getTranslations("common");
-  const data = getEquipmentData();
+  const data = getEquipmentData(locale);
   const category = data.categories[0];
 
   return (

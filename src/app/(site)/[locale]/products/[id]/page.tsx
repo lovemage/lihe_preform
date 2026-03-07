@@ -14,7 +14,7 @@ import JsonLd from "@/components/seo/JsonLd";
 import styles from "./page.module.css";
 
 export function generateStaticParams() {
-  const data = getProductsData();
+  const data = getProductsData("en");
   return routing.locales.flatMap((locale) =>
     data.products.map((p: any) => ({ locale, id: String(p.id) }))
   );
@@ -27,7 +27,7 @@ export async function generateMetadata({
 }) {
   const { locale, id } = await params;
   setRequestLocale(locale);
-  const data = getProductsData();
+  const data = getProductsData(locale);
   const product = data.products.find((p: any) => String(p.id) === id);
 
   if (!product) {
@@ -57,7 +57,7 @@ export default async function ProductDetailPage({
   setRequestLocale(locale);
   const t = await getTranslations("products");
   const tCommon = await getTranslations("common");
-  const data = getProductsData();
+  const data = getProductsData(locale);
 
   const product = data.products.find((p: any) => String(p.id) === id);
 
