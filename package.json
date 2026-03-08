@@ -5,13 +5,21 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "admin:seed": "node --env-file=.env --env-file=.env.local scripts/seed-admin.mjs",
+    "content:migrate": "node --env-file=.env --env-file=.env.local scripts/migrate-json-to-d1.mjs",
+    "media:migrate": "node --env-file=.env --env-file=.env.local scripts/migrate-public-images-to-r2.mjs",
+    "content:publish": "node --env-file=.env --env-file=.env.local scripts/publish-content.mjs"
   },
   "dependencies": {
+    "@aws-sdk/client-s3": "^3.887.0",
+    "jose": "^6.1.0",
     "next": "16.1.6",
     "next-intl": "^4.8.3",
     "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react-dom": "19.2.3",
+    "sharp": "^0.34.4",
+    "zod": "^4.1.5"
   },
   "devDependencies": {
     "@types/node": "^20",

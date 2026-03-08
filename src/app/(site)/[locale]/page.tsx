@@ -3,6 +3,7 @@ import { getHomeData, getProductsData } from "@/lib/data";
 import { getLocaleAlternates } from "@/lib/seo";
 import HeroBanner from "@/components/home/HeroBanner";
 import Stats from "@/components/home/Stats";
+import MoldHighlights from "@/components/home/MoldHighlights";
 import CategoryShowcase from "@/components/home/CategoryShowcase";
 import FeaturedProducts from "@/components/home/FeaturedProducts";
 
@@ -34,16 +35,16 @@ export default async function HomePage({
   const homeData = getHomeData(locale);
   const productsData = getProductsData(locale);
 
-  const statsLabelMap: Record<string, string> = {
-    "sqm Production Facility": "facility",
-    "Max Cavities Per Mold": "cavities",
-    "Countries Served": "countries",
-    "Years of Experience": "experience",
-  };
+  const statsTranslationKeys = [
+    "facility",
+    "cavities",
+    "countries",
+    "experience",
+  ] as const;
 
-  const stats = homeData.stats.map((s: { value: string; label: string }) => ({
+  const stats = homeData.stats.map((s: { value: string; label: string }, index: number) => ({
     value: s.value,
-    label: tStats(statsLabelMap[s.label] ?? s.label),
+    label: tStats(statsTranslationKeys[index] ?? s.label),
   }));
 
   return (
@@ -58,6 +59,12 @@ export default async function HomePage({
         ctaSecondaryHref="/contact"
       />
       <Stats stats={stats} />
+      <MoldHighlights
+        title={homeData.moldHighlights.title}
+        description={homeData.moldHighlights.description}
+        accordionTitle={homeData.moldHighlights.accordionTitle}
+        items={homeData.moldHighlights.items}
+      />
       <CategoryShowcase
         categories={homeData.showcaseCategories}
         title={t("coreCapabilities")}

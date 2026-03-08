@@ -52,6 +52,37 @@
     { "name": "Machining Equipment", "description": "Mazak, Makino, and Haas CNC centers ensuring micron-level accuracy.", "image": "/images/home/machining-equipment.webp", "alt": "machining-equipment - CNC machining center at Lihe factory", "href": "/equipment/machining" },
     { "name": "QC Equipment", "description": "Zeiss CMM, 3D profile scanners, and dedicated bottle inspection systems.", "image": "/images/home/qc-equipment.webp", "alt": "qc-equipment - Zeiss quality control measurement system", "href": "/equipment/qc" }
   ],
+  "moldHighlights": {
+    "title": "LIHE PET Preform Injection Molds",
+    "description": "LIHE PET preform injection molds deliver exceptional performance for the beverage and packaging industries. Our tooling solutions ensure high efficiency, reliability, and seamless integration for global customers.",
+    "accordionTitle": "Why Choose LIHE Molds?",
+    "items": [
+      {
+        "title": "Wide Range of Cavities",
+        "content": "We provide advanced mold designs from 2 to 160 cavities to meet your specific production needs."
+      },
+      {
+        "title": "Reliable Hot Runner Systems",
+        "content": "Our Hot Runner systems (2 to 160 cavities) feature a specialized design with a 3-year leakage-proof guarantee."
+      },
+      {
+        "title": "Standard Neck Finish Support",
+        "content": "We support all major industry standards, including PCO 1881, PCO 1810, PCO 1716, 3025, 2925, 2622, 2522, Alaska, 38mm, 48mm, 69mm, 89mm, and other customized neck finish."
+      },
+      {
+        "title": "High Precision & Consistency",
+        "content": "We offer flexible configurations with the industry’s lowest dimensional variability, ensuring stable preform quality."
+      },
+      {
+        "title": "Compatibility with Global Brands",
+        "content": "LIHE provides superior solutions and parts for customers currently using Husky, SACMI, SIPA, or NETSTAL systems."
+      },
+      {
+        "title": "Universal Conversion Capability",
+        "content": "We engineer high-precision conversion parts for all major international mold brands, ensuring seamless integration with your existing equipment."
+      }
+    ]
+  },
   "factoryImage": {
     "src": "/images/home/factory-banner.webp",
     "alt": "factory-banner - Aerial view of Lihe precision mold manufacturing facility"

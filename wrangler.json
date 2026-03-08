@@ -2,5 +2,18 @@
   "$schema": "https://schema.cloudflare.com/wrangler.json",
   "name": "lihe-preform",
   "pages_build_output_dir": "out",
-  "compatibility_date": "2026-03-04"
+  "compatibility_date": "2026-03-04",
+  "d1_databases": [
+    {
+      "binding": "CONTENT_DB",
+      "database_name": "lihe_db",
+      "database_id": "fea9f23b-c953-4b9a-bc6c-dfb200c25da5"
+    }
+  ],
+  "r2_buckets": [
+    {
+      "binding": "CONTENT_MEDIA",
+      "bucket_name": "lihe-preform-media"
+    }
+  ]
 }

@@ -1,0 +1,36 @@
+<svg width="100%" height="100%" viewBox="0 0 1440 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="1440" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFC" />
+      <stop offset="1" stop-color="#E2E8F0" />
+    </linearGradient>
+    <radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1000 200) rotate(90) scale(800 1000)">
+      <stop stop-color="#FFFFFF" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#F8FAFC" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M 60 0 L 0 0 0 60" fill="none" stroke="#CBD5E1" stroke-width="0.5" stroke-opacity="0.5"/>
+    </pattern>
+    <clipPath id="grid-mask">
+      <rect width="1440" height="800" fill="url(#paint1_radial)"/>
+    </clipPath>
+  </defs>
+  
+  <!-- Base Background -->
+  <rect width="1440" height="800" fill="url(#paint0_linear)"/>
+  
+  <!-- Grid -->
+  <rect width="1440" height="800" fill="url(#grid)" clip-path="url(#grid-mask)"/>
+  
+  <!-- Geometric Tech Shapes -->
+  <path d="M1200 100 L1300 200 L1200 300 L1100 200 Z" fill="none" stroke="#94A3B8" stroke-width="1" stroke-opacity="0.3"/>
+  <path d="M1150 150 L1250 250 M1250 150 L1150 250" stroke="#94A3B8" stroke-width="1" stroke-opacity="0.2"/>
+  
+  <circle cx="200" cy="600" r="150" fill="none" stroke="#94A3B8" stroke-width="1" stroke-opacity="0.2"/>
+  <circle cx="200" cy="600" r="100" fill="none" stroke="#94A3B8" stroke-width="1" stroke-dasharray="4 4" stroke-opacity="0.3"/>
+  <circle cx="200" cy="600" r="50" fill="none" stroke="#94A3B8" stroke-width="1" stroke-opacity="0.2"/>
+  
+  <!-- Subtle Curves -->
+  <path d="M-200 800 C 200 800 400 400 800 400 C 1200 400 1400 0 1600 0" fill="none" stroke="#C9A961" stroke-width="2" stroke-opacity="0.1"/>
+  <path d="M-200 850 C 200 850 450 450 800 450 C 1150 450 1400 50 1600 50" fill="none" stroke="#0F172A" stroke-width="1" stroke-opacity="0.05"/>
+</svg>

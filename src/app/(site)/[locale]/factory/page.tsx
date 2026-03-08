@@ -63,8 +63,8 @@ export default async function FactoryPage({
         />
         <div className={styles.bannerOverlay}>
           <div className={styles.bannerContent}>
-            <h1 className={styles.bannerTitle}>{t("title")}</h1>
-            <p className={styles.bannerHeadline}>{t("headline")}</p>
+            <h1 className={styles.bannerTitle}>{data.title}</h1>
+            <p className={styles.bannerHeadline}>{data.headline}</p>
           </div>
         </div>
       </section>
@@ -74,7 +74,7 @@ export default async function FactoryPage({
         <Breadcrumb
           items={[
             { label: tCommon("breadcrumbHome"), href: "/" },
-            { label: t("title") },
+            { label: data.title },
           ]}
         />
       </div>
