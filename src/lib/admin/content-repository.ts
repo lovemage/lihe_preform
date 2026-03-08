@@ -431,11 +431,13 @@ export async function saveHomeContent(locale: AdminLocale, content: Record<strin
 export async function getFactoryContent(locale: AdminLocale): Promise<HomeContentRecord> {
   await ensureAdminSchema();
   const row = await d1First<FactoryDocumentRow>("SELECT * FROM factory_documents WHERE locale = ?", [locale]);
-  const fallbackContent = row ? {} : await readLocaleJsonFile(locale, "factory.json");
+  const fallbackContent = await readLocaleJsonFile(locale, "factory.json");
+  const rowContent = row ? parseJson<Record<string, unknown>>(row.content_json, {}) : {};
+  const content = Object.keys(rowContent).length > 0 ? rowContent : fallbackContent;
 
   return {
     locale,
-    content: row ? parseJson<Record<string, unknown>>(row.content_json, {}) : fallbackContent,
+    content,
     updatedAt: row?.updated_at ?? nowIso(),
   };
 }

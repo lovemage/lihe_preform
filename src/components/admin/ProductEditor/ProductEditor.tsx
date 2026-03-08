@@ -250,10 +250,6 @@ export default function ProductEditor({
               <p style={{ color: "#64748b" }}>尚未加入任何產品圖片</p>
             )}
           </div>
-          <div>
-            <h4 style={{ fontSize: 16, marginBottom: 8 }}>可用媒體</h4>
-            <p style={{ fontSize: 14, color: "#475569" }}>{availableMedia.map((item) => `${item.id}:${item.originalFilename}`).join(" | ") || "尚未上傳任何媒體"}</p>
-          </div>
         </div>
       </div>
       {message ? <p style={{ color: "#475569" }}>{message}</p> : null}

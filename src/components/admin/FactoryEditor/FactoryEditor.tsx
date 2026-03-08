@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useRef, useState } from "react";
+import { useRef, useState } from "react";
 import { ADMIN_LOCALES, type AdminLocale } from "@/lib/admin/locales";
 import type { MediaRecord } from "@/types/admin";
 
@@ -91,19 +91,16 @@ function toContent(state: FactoryState): Record<string, unknown> {
   };
 }
 
-export default function FactoryEditor({ initialContent, media }: { initialContent: ContentMap; media: MediaRecord[] }) {
+export default function FactoryEditor({ initialContent }: { initialContent: ContentMap }) {
   const [activeLocale, setActiveLocale] = useState<AdminLocale>("en");
   const [message, setMessage] = useState<string | null>(null);
   const [uploadingKey, setUploadingKey] = useState<string | null>(null);
-  const [availableMedia, setAvailableMedia] = useState(media);
   const fileInputRefs = useRef<Record<string, HTMLInputElement | null>>({});
   const [state, setState] = useState<Record<AdminLocale, FactoryState>>({
     en: parseFactoryContent(initialContent.en),
     ru: parseFactoryContent(initialContent.ru),
     es: parseFactoryContent(initialContent.es),
   });
-
-  const mediaSummary = useMemo(() => availableMedia.map((item) => `${item.id}:${item.originalFilename}`).join(" | "), [availableMedia]);
 
   function getLocaleLabel(locale: AdminLocale) {
     if (locale === "en") return "英文";
@@ -138,9 +135,7 @@ export default function FactoryEditor({ initialContent, media }: { initialConten
       const payload = (await response.json().catch(() => null)) as { error?: string } | null;
       throw new Error(payload?.error ?? "圖片上傳失敗");
     }
-    const uploaded = (await response.json()) as MediaRecord;
-    setAvailableMedia((current) => [uploaded, ...current]);
-    return uploaded;
+    return (await response.json()) as MediaRecord;
   }
 
   async function handleImageUpload(key: string, folder: string, apply: (uploaded: MediaRecord) => void, event: React.ChangeEvent<HTMLInputElement>) {
@@ -311,11 +306,6 @@ export default function FactoryEditor({ initialContent, media }: { initialConten
       <button type="button" onClick={() => patchLocale(activeLocale, (value) => ({ ...value, sections: [...value.sections, { id: "", title: "", description: "", image: { src: "", alt: "" } }] }))} style={{ padding: "10px 14px", borderRadius: 8, border: "1px solid #0f172a", background: "#fff", color: "#0f172a" }}>
         新增段落
       </button>
-
-      <div style={{ background: "#fff", padding: 16, borderRadius: 16, border: "1px solid #e2e8f0" }}>
-        <h3 style={{ fontSize: 18, marginBottom: 8 }}>可用媒體</h3>
-        <p style={{ fontSize: 14, color: "#475569" }}>{mediaSummary || "尚未上傳任何媒體"}</p>
-      </div>
 
       {message ? <p style={{ color: "#475569" }}>{message}</p> : null}
       <button type="submit" style={{ padding: 12, borderRadius: 8, background: "#0f172a", color: "#fff", border: 0 }}>儲存 Factory 頁面</button>

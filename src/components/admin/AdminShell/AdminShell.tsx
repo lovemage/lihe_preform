@@ -2,7 +2,6 @@ import Link from "next/link";
 import type { ReactNode } from "react";
 
 const navItems = [
-  { href: "/admin", label: "儀表板" },
   { href: "/admin/home", label: "首頁內容" },
   { href: "/admin/product-categories", label: "產品分類" },
   { href: "/admin/factory", label: "Factory 頁面" },
@@ -33,6 +32,18 @@ export default function AdminShell({
             </Link>
           ))}
         </nav>
+        <div style={{ marginTop: 28, padding: "0 10px" }}>
+          <Link href="/" target="_blank" rel="noreferrer" style={{ display: "block", color: "#fff", fontSize: 15, textDecoration: "none", padding: "12px 14px", borderRadius: 12, background: "rgba(255,255,255,0.04)", textAlign: "center" }}>
+            檢視網站
+          </Link>
+        </div>
+        <div style={{ marginTop: 12, padding: "0 10px" }}>
+          <form action="/api/admin/auth/logout" method="post">
+            <button type="submit" style={{ width: "100%", padding: "12px 14px", borderRadius: 12, border: "1px solid rgba(255,255,255,0.12)", background: "rgba(255,255,255,0.04)", color: "#fff", fontSize: 15, cursor: "pointer" }}>
+              登出
+            </button>
+          </form>
+        </div>
       </aside>
       <div>
         <header style={{ borderBottom: "1px solid #d9e0ea", background: "#fff" }}>
