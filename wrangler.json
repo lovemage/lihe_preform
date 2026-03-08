@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
-  "name": "lihe-preform",
+  "name": "lihepreform01",
   "main": ".open-next/worker.js",
   "compatibility_date": "2026-03-08",
   "compatibility_flags": ["nodejs_compat"],
