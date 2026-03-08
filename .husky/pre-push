@@ -1,0 +1,11 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+# Auto-increment version before push
+node scripts/version-bump.mjs
+
+# Stage the version change
+git add package.json
+
+# Amend the last commit with the version bump if there's a commit to amend
+git diff --cached --quiet || git commit --amend --no-edit --no-verify

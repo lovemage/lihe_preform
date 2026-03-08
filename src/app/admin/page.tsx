@@ -9,6 +9,9 @@ const cards = [
   { href: "/admin/factory", title: "Factory 頁面", description: "管理工廠頁面的標題、段落與圖片內容。" },
   { href: "/admin/products", title: "產品管理", description: "管理產品列表、產品內容、多語翻譯與圖片關聯。" },
   { href: "/admin/media", title: "媒體庫", description: "上傳圖片、自動轉為 WebP，並同步儲存到 Cloudflare R2。" },
+  { href: "/admin/footer-settings", title: "頁腳設定", description: "管理頁腳 Logo、描述、連結、聯絡資訊與社群媒體連結。" },
+  { href: "/admin/email-templates", title: "Email 模板管理", description: "編輯聯絡表單的自動回覆與通知郵件模板（支援三語）。" },
+  { href: "/admin/send-email", title: "發送官方郵件", description: "使用 sales@lihe-preform.com 發送專業郵件，可自訂簽名檔。" },
 ];
 
 export default async function AdminDashboardPage() {

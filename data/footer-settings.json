@@ -1,0 +1,68 @@
+{
+  "logo": {
+    "src": "/images/logo/logo.png",
+    "alt": "Lihe Precision"
+  },
+  "description": {
+    "en": "Leading manufacturer of high-precision PET preform molds, compression molds, and blow molds.",
+    "ru": "Ведущий производитель высокоточных пресс-форм для преформ из ПЭТ, компрессионных пресс-форм и выдувных форм.",
+    "es": "Fabricante líder de moldes de preforma PET de alta precisión, moldes de compresión y moldes de soplado."
+  },
+  "links": [
+    {
+      "label": {
+        "en": "About Us",
+        "ru": "О нас",
+        "es": "Sobre nosotros"
+      },
+      "href": "/about"
+    },
+    {
+      "label": {
+        "en": "Products",
+        "ru": "Продукция",
+        "es": "Productos"
+      },
+      "href": "/products"
+    },
+    {
+      "label": {
+        "en": "Factory",
+        "ru": "Завод",
+        "es": "Fábrica"
+      },
+      "href": "/factory"
+    },
+    {
+      "label": {
+        "en": "Contact",
+        "ru": "Контакты",
+        "es": "Contacto"
+      },
+      "href": "/contact"
+    }
+  ],
+  "contact": {
+    "phone": "+86 757 8555 1234",
+    "email": "sales@lihe-preform.com",
+    "address": {
+      "en": "Foshan, Guangdong Province, China",
+      "ru": "Фошань, провинция Гуандун, Китай",
+      "es": "Foshan, Provincia de Guangdong, China"
+    }
+  },
+  "social": [
+    {
+      "platform": "WhatsApp",
+      "href": "https://wa.me/8675785551234"
+    },
+    {
+      "platform": "Telegram",
+      "href": "https://t.me/lihepreform"
+    },
+    {
+      "platform": "X",
+      "href": "https://x.com/lihepreform"
+    }
+  ]
+}

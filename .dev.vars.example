@@ -1,0 +1,12 @@
+# Cloudflare Workers Development Variables
+# Copy this file to .dev.vars for local development
+
+# Admin Authentication
+ADMIN_USERNAME=admin
+ADMIN_PASSWORD=your_password_here
+ADMIN_SESSION_SECRET=your_secret_key_here
+
+# Resend Email API
+RESEND_API_KEY=re_your_resend_api_key_here
+
+# Other secrets as needed

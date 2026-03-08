@@ -91,14 +91,32 @@ If both `ADMIN_PASSWORD` and `ADMIN_PASSWORD_HASH` are present, `ADMIN_PASSWORD_
 
 ## Available Scripts
 
+### Development
 ```bash
-npm run dev
-npm run build
-npm run start
-npm run admin:seed
-npm run content:migrate
-npm run media:migrate
-npm run content:publish
+npm run dev              # Start development server
+npm run build            # Build for production
+npm run start            # Start production server
+```
+
+### Deployment (Cloudflare Workers)
+```bash
+npm run deploy           # Quick deploy (preserves secrets)
+npm run deploy:safe      # Full deploy with secrets setup
+npm run secrets:set      # Configure Cloudflare secrets
+npm run secrets:list     # List all configured secrets
+npm run cf:build         # Build only (no deploy)
+npm run preview          # Local preview
+```
+
+⚠️ **Important**: Use `npm run deploy:safe` for first deployment or when updating secrets.
+See [DEPLOYMENT_QUICK_GUIDE.md](DEPLOYMENT_QUICK_GUIDE.md) for details.
+
+### Admin Tools
+```bash
+npm run admin:seed       # Generate admin password hash
+npm run content:migrate  # Migrate JSON to D1
+npm run media:migrate    # Migrate images to R2
+npm run content:publish  # Publish content to JSON
 ```
 
 ## Content Workflow

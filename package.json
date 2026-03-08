@@ -1,6 +1,6 @@
 {
   "name": "lihe-preform",
-  "version": "0.1.0",
+  "version": "0.7.1",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -10,6 +10,9 @@
     "start": "next start",
     "preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview",
     "deploy": "opennextjs-cloudflare build && opennextjs-cloudflare deploy",
+    "deploy:safe": "./scripts/deploy-with-secrets.sh",
+    "secrets:set": "./scripts/set-cloudflare-secrets.sh",
+    "secrets:list": "wrangler secret list --name lihepreform02",
     "cf-typegen": "wrangler types --env-interface CloudflareEnv cloudflare-env.d.ts",
     "admin:seed": "node --env-file=.env --env-file=.env.local scripts/seed-admin.mjs",
     "content:migrate": "node --env-file=.env --env-file=.env.local scripts/migrate-json-to-d1.mjs",

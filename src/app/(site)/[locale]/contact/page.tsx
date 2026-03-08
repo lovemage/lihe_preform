@@ -1,10 +1,10 @@
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { routing } from "@/i18n/routing";
-import { getContactData } from "@/lib/data";
+import { getContactData, getProductsData } from "@/lib/data";
 import { getLocaleAlternates } from "@/lib/seo";
 import Breadcrumb from "@/components/ui/Breadcrumb/Breadcrumb";
 import SectionHeading from "@/components/ui/SectionHeading/SectionHeading";
-import ContactForm from "@/components/contact/ContactForm";
+import EnhancedContactForm from "@/components/contact/ContactForm/EnhancedContactForm";
 import styles from "./page.module.css";
 
 export async function generateStaticParams() {
@@ -37,6 +37,10 @@ export default async function ContactPage({
   const t = await getTranslations("contact");
   const tCommon = await getTranslations("common");
   const data = getContactData(locale);
+  const productsData = getProductsData(locale);
+
+  // Extract unique product categories
+  const productCategories = productsData?.categories || [];
 
   return (
     <div className={styles.page}>
@@ -115,26 +119,28 @@ export default async function ContactPage({
             </div>
           </div>
 
-          {/* Right column: contact form */}
+          {/* Right column: enhanced contact form */}
           <div className={styles.formColumn}>
-            <ContactForm
+            <EnhancedContactForm
+              locale={locale}
+              productCategories={productCategories}
               labels={{
                 heading: t("sendMessage"),
                 description: t("formDescription"),
-                fullName: t("fullName"),
-                companyName: t("companyName"),
-                emailAddress: t("emailAddress"),
-                phoneNumber: t("phoneNumber"),
-                subject: t("subject"),
-                message: t("message"),
+                firstName: t("firstName"),
+                familyName: t("familyName"),
+                email: t("email"),
+                phone: t("phone"),
+                country: t("country"),
+                productCategory: t("productCategory"),
+                requirements: t("requirements"),
+                captcha: t("captcha"),
                 submit: t("submit"),
-                subjects: {
-                  inquiry: t("subjects.inquiry"),
-                  consultation: t("subjects.consultation"),
-                  quote: t("subjects.quote"),
-                  support: t("subjects.support"),
-                  other: t("subjects.other"),
-                },
+                sending: t("sending"),
+                required: t("required"),
+                successTitle: t("successTitle"),
+                successMessage: t("successMessage"),
+                errorMessage: t("errorMessage"),
               }}
             />
           </div>
