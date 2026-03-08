@@ -13,6 +13,8 @@ import Button from "@/components/ui/Button/Button";
 import JsonLd from "@/components/seo/JsonLd";
 import styles from "./page.module.css";
 
+export const revalidate = 3600;
+
 export function generateStaticParams() {
   const data = getProductsData("en");
   return routing.locales.flatMap((locale) =>

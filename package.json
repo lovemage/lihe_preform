@@ -12,7 +12,8 @@
     "admin:seed": "node --env-file=.env --env-file=.env.local scripts/seed-admin.mjs",
     "content:migrate": "node --env-file=.env --env-file=.env.local scripts/migrate-json-to-d1.mjs",
     "media:migrate": "node --env-file=.env --env-file=.env.local scripts/migrate-public-images-to-r2.mjs",
-    "content:publish": "node --env-file=.env --env-file=.env.local scripts/publish-content.mjs"
+    "content:publish": "node --env-file=.env --env-file=.env.local scripts/publish-content.mjs",
+    "content:publish-and-rebuild": "node --env-file=.env --env-file=.env.local scripts/publish-and-rebuild.mjs"
   },
   "dependencies": {
     "@opennextjs/cloudflare": "^1.8.0",
