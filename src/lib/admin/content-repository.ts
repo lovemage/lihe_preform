@@ -72,6 +72,24 @@ type FactoryDocumentRow = {
   updated_at: string;
 };
 
+type MediaListRow = MediaRow & {
+  translation_locale: AdminLocale | null;
+  translation_alt_text: string | null;
+};
+
+type ProductListRow = ProductRow & {
+  translation_locale: AdminLocale | null;
+  translation_name: string | null;
+  translation_description: string | null;
+  translation_seo_title: string | null;
+  translation_seo_description: string | null;
+  image_media_id: number | null;
+  image_sort_order: number | null;
+  image_is_primary: number | null;
+};
+
+let schemaInitializationPromise: Promise<void> | null = null;
+
 function nowIso() {
   return new Date().toISOString();
 }
@@ -95,35 +113,68 @@ async function readLocaleJsonFile(locale: AdminLocale, filename: string) {
 }
 
 export async function ensureAdminSchema() {
-  const statements = ADMIN_SCHEMA_SQL.split(";\n\n").map((statement) => statement.trim()).filter(Boolean);
+  if (!schemaInitializationPromise) {
+    schemaInitializationPromise = (async () => {
+      const statements = ADMIN_SCHEMA_SQL.split(";\n\n").map((statement) => statement.trim()).filter(Boolean);
 
-  for (const statement of statements) {
-    await d1Exec(statement);
+      for (const statement of statements) {
+        await d1Exec(statement);
+      }
+    })().catch((error) => {
+      schemaInitializationPromise = null;
+      throw error;
+    });
   }
+
+  await schemaInitializationPromise;
 }
 
 export async function listMedia(): Promise<MediaRecord[]> {
   await ensureAdminSchema();
-  const mediaRows = await d1Query<MediaRow>("SELECT * FROM media_assets ORDER BY id DESC");
-  const translationRows = await d1Query<MediaTranslationRow>("SELECT * FROM media_asset_translations");
+  const rows = await d1Query<MediaListRow>(`
+    SELECT
+      m.id,
+      m.r2_key,
+      m.url,
+      m.mime_type,
+      m.width,
+      m.height,
+      m.size_bytes,
+      m.original_filename,
+      m.created_at,
+      m.updated_at,
+      t.locale AS translation_locale,
+      t.alt_text AS translation_alt_text
+    FROM media_assets m
+    LEFT JOIN media_asset_translations t ON m.id = t.media_id
+    ORDER BY m.id DESC
+  `);
 
-  return mediaRows.map((row) => ({
-    id: row.id,
-    r2Key: row.r2_key,
-    url: row.url,
-    mimeType: row.mime_type,
-    width: row.width,
-    height: row.height,
-    sizeBytes: row.size_bytes,
-    originalFilename: row.original_filename,
-    createdAt: row.created_at,
-    updatedAt: row.updated_at,
-    alt: Object.fromEntries(
-      translationRows
-        .filter((translation) => translation.media_id === row.id)
-        .map((translation) => [translation.locale, translation.alt_text]),
-    ),
-  }));
+  const mediaMap = new Map<number, MediaRecord>();
+
+  for (const row of rows) {
+    if (!mediaMap.has(row.id)) {
+      mediaMap.set(row.id, {
+        id: row.id,
+        r2Key: row.r2_key,
+        url: row.url,
+        mimeType: row.mime_type,
+        width: row.width,
+        height: row.height,
+        sizeBytes: row.size_bytes,
+        originalFilename: row.original_filename,
+        createdAt: row.created_at,
+        updatedAt: row.updated_at,
+        alt: {},
+      });
+    }
+
+    if (row.translation_locale) {
+      mediaMap.get(row.id)!.alt[row.translation_locale] = row.translation_alt_text ?? "";
+    }
+  }
+
+  return Array.from(mediaMap.values());
 }
 
 export async function createMediaRecord(input: {
@@ -185,40 +236,77 @@ export async function updateMediaTranslations(mediaId: number, alt: Partial<Reco
 
 export async function listProducts(): Promise<ProductRecord[]> {
   await ensureAdminSchema();
-  const productRows = await d1Query<ProductRow>("SELECT * FROM products ORDER BY sort_order ASC, id DESC");
-  const translationRows = await d1Query<ProductTranslationRow>("SELECT * FROM product_translations");
-  const imageRows = await d1Query<ProductImageRow>("SELECT * FROM product_images ORDER BY sort_order ASC, id ASC");
+  const rows = await d1Query<ProductListRow>(`
+    SELECT
+      p.id,
+      p.slug,
+      p.category_key,
+      p.status,
+      p.sort_order,
+      p.thumbnail_media_id,
+      p.created_at,
+      p.updated_at,
+      pt.locale AS translation_locale,
+      pt.name AS translation_name,
+      pt.description AS translation_description,
+      pt.seo_title AS translation_seo_title,
+      pt.seo_description AS translation_seo_description,
+      pi.media_id AS image_media_id,
+      pi.sort_order AS image_sort_order,
+      pi.is_primary AS image_is_primary
+    FROM products p
+    LEFT JOIN product_translations pt ON p.id = pt.product_id
+    LEFT JOIN product_images pi ON p.id = pi.product_id
+    ORDER BY p.sort_order ASC, p.id DESC, pi.sort_order ASC, pi.id ASC
+  `);
 
-  return productRows.map((row) => ({
-    id: row.id,
-    slug: row.slug,
-    categoryKey: row.category_key,
-    status: row.status,
-    sortOrder: row.sort_order,
-    thumbnailMediaId: row.thumbnail_media_id,
-    translations: Object.fromEntries(
-      translationRows
-        .filter((translation) => translation.product_id === row.id)
-        .map((translation) => [
-          translation.locale,
-          {
-            name: translation.name,
-            description: translation.description,
-            seoTitle: translation.seo_title,
-            seoDescription: translation.seo_description,
-          } satisfies ProductTranslationInput,
-        ]),
-    ),
-    gallery: imageRows
-      .filter((image) => image.product_id === row.id)
-      .map((image) => ({
-        mediaId: image.media_id,
-        sortOrder: image.sort_order,
-        isPrimary: image.is_primary === 1,
-      })),
-    createdAt: row.created_at,
-    updatedAt: row.updated_at,
-  }));
+  const productMap = new Map<number, ProductRecord>();
+  const gallerySeen = new Map<number, Set<string>>();
+
+  for (const row of rows) {
+    if (!productMap.has(row.id)) {
+      productMap.set(row.id, {
+        id: row.id,
+        slug: row.slug,
+        categoryKey: row.category_key,
+        status: row.status,
+        sortOrder: row.sort_order,
+        thumbnailMediaId: row.thumbnail_media_id,
+        translations: {},
+        gallery: [],
+        createdAt: row.created_at,
+        updatedAt: row.updated_at,
+      });
+      gallerySeen.set(row.id, new Set());
+    }
+
+    const product = productMap.get(row.id)!;
+
+    if (row.translation_locale) {
+      product.translations[row.translation_locale] = {
+        name: row.translation_name ?? "",
+        description: row.translation_description ?? "",
+        seoTitle: row.translation_seo_title ?? "",
+        seoDescription: row.translation_seo_description ?? "",
+      } satisfies ProductTranslationInput;
+    }
+
+    if (row.image_media_id !== null && row.image_sort_order !== null) {
+      const galleryKey = `${row.image_media_id}:${row.image_sort_order}:${row.image_is_primary ?? 0}`;
+      const seen = gallerySeen.get(row.id)!;
+
+      if (!seen.has(galleryKey)) {
+        seen.add(galleryKey);
+        product.gallery.push({
+          mediaId: row.image_media_id,
+          sortOrder: row.image_sort_order,
+          isPrimary: row.image_is_primary === 1,
+        });
+      }
+    }
+  }
+
+  return Array.from(productMap.values());
 }
 
 export async function getProductById(id: number) {
