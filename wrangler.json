@@ -4,6 +4,26 @@
   "main": ".open-next/worker.js",
   "compatibility_date": "2026-03-08",
   "compatibility_flags": ["nodejs_compat"],
+  "observability": {
+    "enabled": false,
+    "head_sampling_rate": 1,
+    "logs": {
+      "enabled": true,
+      "head_sampling_rate": 1,
+      "persist": true,
+      "invocation_logs": true
+    },
+    "traces": {
+      "enabled": false,
+      "persist": true,
+      "head_sampling_rate": 1
+    }
+  },
+  "vars": {
+    "NEXT_PUBLIC_SITE_URL": "https://lihe-preform.com",
+    "NEXT_PUBLIC_ASSET_HOSTNAME": "lihe-preform.com",
+    "NEXT_PUBLIC_YANDEX_METRICA_ID": "107150763"
+  },
   "assets": {
     "directory": ".open-next/assets",
     "binding": "ASSETS"
