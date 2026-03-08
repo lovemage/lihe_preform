@@ -19,11 +19,6 @@
       "head_sampling_rate": 1
     }
   },
-  "vars": {
-    "NEXT_PUBLIC_SITE_URL": "https://lihe-preform.com",
-    "NEXT_PUBLIC_ASSET_HOSTNAME": "lihe-preform.com",
-    "NEXT_PUBLIC_YANDEX_METRICA_ID": "107150763"
-  },
   "assets": {
     "directory": ".open-next/assets",
     "binding": "ASSETS"
