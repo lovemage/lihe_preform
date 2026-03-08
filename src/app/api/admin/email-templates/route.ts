@@ -2,6 +2,15 @@ import { NextRequest, NextResponse } from "next/server";
 import { getCloudflareContext } from "@opennextjs/cloudflare";
 import { verifyAuth } from "@/lib/auth";
 
+type D1Like = {
+  prepare: (query: string) => {
+    bind: (...values: unknown[]) => {
+      first: <T>() => Promise<T | null>;
+      run: () => Promise<unknown>;
+    };
+  };
+};
+
 export const runtime = "edge";
 
 export async function GET(request: NextRequest) {
@@ -12,7 +21,7 @@ export async function GET(request: NextRequest) {
     }
 
     const { env } = await getCloudflareContext();
-    const db = env.DB;
+    const db = (env as { CONTENT_DB: D1Like }).CONTENT_DB;
 
     const result = await db
       .prepare("SELECT data FROM content WHERE id = ?")
@@ -46,7 +55,7 @@ export async function PUT(request: NextRequest) {
 
     const body = await request.json();
     const { env } = await getCloudflareContext();
-    const db = env.DB;
+    const db = (env as { CONTENT_DB: D1Like }).CONTENT_DB;
 
     // Validate the data structure
     if (!body.templates || !Array.isArray(body.templates)) {
