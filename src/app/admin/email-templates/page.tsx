@@ -336,6 +336,7 @@ export default function EmailTemplatesPage() {
   const [selectedTemplate, setSelectedTemplate] = useState<EmailTemplate | null>(null);
   const [activeTab, setActiveTab] = useState<"en" | "ru" | "es">("en");
   const [message, setMessage] = useState<{ type: "success" | "error"; text: string } | null>(null);
+  const [showPreview, setShowPreview] = useState(false);
 
   useEffect(() => {
     fetchTemplates();
@@ -404,6 +405,33 @@ export default function EmailTemplatesPage() {
     );
     setTemplates(updated);
     setSelectedTemplate(updated.find((t) => t.id === selectedTemplate.id) || null);
+  }
+
+  function getPreviewHtml() {
+    if (!selectedTemplate) return "";
+
+    // Sample data for preview
+    const sampleData: Record<string, string> = {
+      firstName: "John",
+      familyName: "Smith",
+      email: "john.smith@example.com",
+      phone: "+1 234 567 8900",
+      country: "United States",
+      productCategory: "PET Preform Molds",
+      requirements: "I need 32-cavity molds for 500ml water bottle preforms. Please send quotation.",
+      timestamp: new Date().toLocaleString(activeTab === "ru" ? "ru-RU" : activeTab === "es" ? "es-ES" : "en-US"),
+      locale: activeTab.toUpperCase(),
+    };
+
+    let html = selectedTemplate.body[activeTab];
+
+    // Replace all variables with sample data
+    Object.entries(sampleData).forEach(([key, value]) => {
+      const regex = new RegExp(`\\{\\{${key}\\}\\}`, "g");
+      html = html.replace(regex, value);
+    });
+
+    return html;
   }
 
   if (loading) {
@@ -529,6 +557,13 @@ export default function EmailTemplatesPage() {
 
                   <div className={styles.actions}>
                     <button
+                      onClick={() => setShowPreview(true)}
+                      className={styles.previewButton}
+                      type="button"
+                    >
+                      預覽郵件
+                    </button>
+                    <button
                       onClick={handleSave}
                       className={styles.saveButton}
                       disabled={saving}
@@ -537,6 +572,42 @@ export default function EmailTemplatesPage() {
                     </button>
                   </div>
                 </div>
+
+                {/* Preview Modal */}
+                {showPreview && (
+                  <div className={styles.previewOverlay} onClick={() => setShowPreview(false)}>
+                    <div className={styles.previewModal} onClick={(e) => e.stopPropagation()}>
+                      <div className={styles.previewHeader}>
+                        <h3>郵件預覽 ({activeTab.toUpperCase()})</h3>
+                        <div className={styles.previewSubject}>
+                          <strong>Subject:</strong>{" "}
+                          {selectedTemplate.subject[activeTab].replace(
+                            /\{\{(\w+)\}\}/g,
+                            (_, key) => {
+                              const sampleData: Record<string, string> = {
+                                firstName: "John",
+                                familyName: "Smith",
+                              };
+                              return sampleData[key] || `{{${key}}}`;
+                            }
+                          )}
+                        </div>
+                        <button
+                          onClick={() => setShowPreview(false)}
+                          className={styles.previewClose}
+                        >
+                          &times;
+                        </button>
+                      </div>
+                      <iframe
+                        srcDoc={getPreviewHtml()}
+                        className={styles.previewFrame}
+                        title="Email Preview"
+                        sandbox=""
+                      />
+                    </div>
+                  </div>
+                )}
               </>
             ) : (
               <div className={styles.emptyState}>

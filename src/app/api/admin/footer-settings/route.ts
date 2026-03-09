@@ -29,10 +29,27 @@ export async function GET(request: NextRequest) {
       .first<{ data: string }>();
 
     if (!result) {
-      return NextResponse.json(
-        { error: "Footer settings not found" },
-        { status: 404 }
-      );
+      // Return default settings when none exist yet
+      const defaults = {
+        logo: { src: "/logo.svg", alt: "Lihe Precision" },
+        description: {
+          en: "Professional PET preform mold manufacturer",
+          ru: "Профессиональный производитель пресс-форм для преформ ПЭТ",
+          es: "Fabricante profesional de moldes de preforma PET",
+        },
+        links: [],
+        contact: {
+          phone: "+86 757 8555 1234",
+          email: "sales@lihe-preform.com",
+          address: {
+            en: "Foshan, Guangdong Province, China",
+            ru: "Фошань, провинция Гуандун, Китай",
+            es: "Foshan, Provincia de Guangdong, China",
+          },
+        },
+        social: [],
+      };
+      return NextResponse.json(defaults);
     }
 
     return NextResponse.json(JSON.parse(result.data));
