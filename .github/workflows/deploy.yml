@@ -33,7 +33,7 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           command: deploy
-          workingDirectory: .open-next/.build
+          # wrangler.json 在專案根目錄，不需要 workingDirectory
           # 不設定 secrets - Cloudflare Secrets 會自動保留！
 
       - name: Verify deployment
