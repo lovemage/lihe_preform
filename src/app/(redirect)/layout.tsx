@@ -8,13 +8,13 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       {
-        url: "/images/logo/favicon.png",
-        type: "image/png",
+        url: "/images/logo/favicon.webp",
+        type: "image/webp",
         sizes: "any",
       },
     ],
-    shortcut: ["/images/logo/favicon.png"],
-    apple: ["/images/logo/favicon.png"],
+    shortcut: ["/images/logo/favicon.webp"],
+    apple: ["/images/logo/favicon.webp"],
   },
 };
 

@@ -1,0 +1,24 @@
+{
+  "title": "Contactenos",
+  "headline": "Pongase en Contacto",
+  "intro": "¿Listo para hablar sobre sus requisitos de moldes de preformas PET o moldes de soplado? Nuestro equipo de ventas e ingenieria esta disponible para brindar consultoria tecnica, cotizaciones e informacion de tiempos de entrega para sus proyectos de envases para bebidas.",
+  "contact": {
+    "name": "Departamento de Ventas",
+    "phone": "+886 938 198 675",
+    "email": "sales@lihe-preform.com",
+    "address": "Building B7, Shichuang Health Science and Technology Park, No. 1, Meitu 3rd Road, Hongsha Industrial Park Community, Shishan Town, Nanhai District, Foshan City, Guangdong Province, China"
+  },
+  "formFields": {
+    "heading": "Envienos un Mensaje",
+    "description": "Complete el formulario a continuacion y nuestro equipo respondera dentro de las proximas 24 horas habiles.",
+    "fields": [
+      { "name": "name", "label": "Nombre Completo", "type": "text", "required": true },
+      { "name": "company", "label": "Nombre de la Empresa", "type": "text", "required": true },
+      { "name": "email", "label": "Correo Electronico", "type": "email", "required": true },
+      { "name": "phone", "label": "Numero de Telefono", "type": "tel", "required": false },
+      { "name": "subject", "label": "Asunto", "type": "select", "required": true, "options": ["Consulta de Producto", "Consultoria Tecnica", "Solicitar Cotizacion", "Soporte Postventa", "Otro"] },
+      { "name": "message", "label": "Mensaje", "type": "textarea", "required": true }
+    ],
+    "submitLabel": "Enviar Mensaje"
+  }
+}

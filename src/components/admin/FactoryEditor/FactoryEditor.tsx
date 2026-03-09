@@ -105,7 +105,7 @@ export default function FactoryEditor({ initialContent }: { initialContent: Cont
   function getLocaleLabel(locale: AdminLocale) {
     if (locale === "en") return "英文";
     if (locale === "ru") return "俄文";
-    return "西文（預留）";
+    return "西文";
   }
 
   function patchLocale(locale: AdminLocale, updater: (current: FactoryState) => FactoryState) {

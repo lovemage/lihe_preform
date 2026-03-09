@@ -72,7 +72,7 @@ export default function ProductCategoriesEditor({
       <div style={{ display: "flex", gap: 8 }}>
         {ADMIN_LOCALES.map((locale) => (
           <button key={locale} type="button" onClick={() => setActiveLocale(locale)} style={{ padding: "10px 14px", borderRadius: 999, border: activeLocale === locale ? "1px solid #0f172a" : "1px solid #cbd5e1", background: activeLocale === locale ? "#0f172a" : "#fff", color: activeLocale === locale ? "#fff" : "#0f172a" }}>
-            {locale === "en" ? "英文" : locale === "ru" ? "俄文" : "西文（預留）"}
+            {locale === "en" ? "英文" : locale === "ru" ? "俄文" : "西文"}
           </button>
         ))}
       </div>

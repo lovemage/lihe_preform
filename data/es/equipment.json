@@ -1,0 +1,36 @@
+{
+  "title": "Equipos y Capacidades",
+  "banner": { "src": "/images/equipment/equipment-banner.webp", "alt": "equipment-banner - Equipos de manufactura de precision de Lihe" },
+  "headline": "Maquinaria de Clase Mundial. Precision a Nivel de Micras.",
+  "intro": "Invertimos en los mejores equipos disponibles para entregar moldes de preformas PET y moldes de soplado que cumplen con los mas altos estandares de precision dimensional, acabado superficial y durabilidad en produccion.",
+  "categories": [
+    {
+      "id": "qc",
+      "name": "Equipos de Control de Calidad",
+      "description": "Cada molde de preformas PET se somete a una rigurosa verificacion dimensional utilizando sistemas de metrologia lideres en la industria. Nuestro laboratorio de control de calidad esta equipado con maquinas de medicion por coordenadas (CMM) Zeiss, escaneres de perfil 3D de alta resolucion, comparadores opticos y equipos dedicados de inspeccion de muestras de botellas, lo que garantiza que cada cavidad de nucleo de molde y componente de anillo de cuello cumpla con las especificaciones antes del envio.",
+      "highlights": ["CMM Zeiss (medicion de coordenadas 3D)", "Escaneo de perfil 3D", "Comparadores opticos", "Sistemas de inspeccion de muestras de botellas"],
+      "images": [
+        { "src": "/images/products/17394383476978540.webp", "alt": "zeiss-cmm - Maquina de medicion por coordenadas Zeiss" },
+        { "src": "/images/products/17394383621847147.webp", "alt": "3d-scanner - Sistema de escaneo de perfil 3D" },
+        { "src": "/images/products/17394383474634820.webp", "alt": "optical-comparator - Comparador optico para medicion de precision" },
+        { "src": "/images/products/17394383487925491.webp", "alt": "inspection-equipment - Equipo de inspeccion de muestras de botellas" },
+        { "src": "/images/products/17394383487182448.webp", "alt": "qc-measurement - Instrumento de medicion de control de calidad" },
+        { "src": "/images/products/17394383504255389.webp", "alt": "qc-testing - Estacion de pruebas de control de calidad" }
+      ]
+    },
+    {
+      "id": "machining",
+      "name": "Equipos de Mecanizado",
+      "description": "Nuestra planta de produccion esta equipada con centros de mecanizado CNC de alta precision, centros de torneado y rectificadoras provenientes de los fabricantes mas confiables del mundo. Estos equipos nos permiten alcanzar las tolerancias estrictas y los acabados superficiales superiores que exige la produccion de moldes de preformas PET multicavidad de alta cavitacion y moldes de soplado.",
+      "highlights": ["Centros CNC multieje Mazak (Japon)", "Centros de mecanizado de alta velocidad Makino (Japon)", "Rectificadoras de superficie de precision Okamoto (Japon)", "Centros de mecanizado CNC Haas (EE.UU.)", "Centros de torneado de precision Hardinge (EE.UU.)", "Sistemas de grabado de alta velocidad Beijing Jingdiao"],
+      "images": [
+        { "src": "/images/products/17394389886427703.webp", "alt": "mazak-cnc - Centro de mecanizado CNC multieje Mazak" },
+        { "src": "/images/products/17394389885986861.webp", "alt": "makino-center - Centro de mecanizado de alta velocidad Makino" },
+        { "src": "/images/products/17394389881848694.webp", "alt": "okamoto-grinder - Rectificadora de superficie de precision Okamoto" },
+        { "src": "/images/products/17394389889021699.webp", "alt": "haas-cnc - Centro de mecanizado CNC Haas" },
+        { "src": "/images/products/17394396071529094.webp", "alt": "hardinge-turning - Centro de torneado de precision Hardinge" },
+        { "src": "/images/products/17394397294503687.webp", "alt": "jingdiao-engraving - Sistema de grabado de alta velocidad Beijing Jingdiao" }
+      ]
+    }
+  ]
+}

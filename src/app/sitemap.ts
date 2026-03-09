@@ -58,6 +58,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/equipment/machining",
     "/products",
     "/contact",
+    "/download",
   ];
 
   const productsData = getProductsData("en");

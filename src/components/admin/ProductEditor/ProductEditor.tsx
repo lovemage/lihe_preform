@@ -49,7 +49,7 @@ export default function ProductEditor({
   function getLocaleLabel(locale: AdminLocale) {
     if (locale === "en") return "英文";
     if (locale === "ru") return "俄文";
-    return "西文（預留）";
+    return "西文";
   }
 
   async function handleUpload(event: React.ChangeEvent<HTMLInputElement>) {

@@ -11,6 +11,12 @@ import ruFactoryJson from "../../data/ru/factory.json";
 import ruEquipmentJson from "../../data/ru/equipment.json";
 import ruContactJson from "../../data/ru/contact.json";
 import ruProductsJson from "../../data/ru/products-data.json";
+import esHomeJson from "../../data/es/home.json";
+import esAboutJson from "../../data/es/about.json";
+import esFactoryJson from "../../data/es/factory.json";
+import esEquipmentJson from "../../data/es/equipment.json";
+import esContactJson from "../../data/es/contact.json";
+import esProductsJson from "../../data/es/products-data.json";
 
 const localizedData = {
   en: {
@@ -29,6 +35,14 @@ const localizedData = {
     contact: ruContactJson,
     products: ruProductsJson,
   },
+  es: {
+    home: esHomeJson,
+    about: esAboutJson,
+    factory: esFactoryJson,
+    equipment: esEquipmentJson,
+    contact: esContactJson,
+    products: esProductsJson,
+  },
 } as const;
 
 type SupportedLocale = keyof typeof localizedData;
@@ -36,7 +50,9 @@ type LocalizedDataset = (typeof localizedData)[SupportedLocale];
 type LocalizedKey = keyof LocalizedDataset;
 
 function getLocaleKey(locale: string): SupportedLocale {
-  return locale === "ru" ? "ru" : "en";
+  if (locale === "ru") return "ru";
+  if (locale === "es") return "es";
+  return "en";
 }
 
 function loadJson<T>(locale: string, key: LocalizedKey): T {

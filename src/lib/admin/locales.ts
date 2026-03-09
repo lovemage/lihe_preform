@@ -1,6 +1,6 @@
 export const ADMIN_LOCALES = ["en", "ru", "es"] as const;
 
-export const PUBLISH_LOCALES = ["en", "ru"] as const;
+export const PUBLISH_LOCALES = ["en", "ru", "es"] as const;
 
 export type AdminLocale = (typeof ADMIN_LOCALES)[number];
 export type PublishLocale = (typeof PUBLISH_LOCALES)[number];

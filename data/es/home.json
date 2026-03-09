@@ -1,0 +1,72 @@
+{
+  "hero": {
+    "headline": "Ingenieria de Precision en Moldes de Preformas PET",
+    "subheadline": "De la preforma a la botella: moldes de preformas PET, moldes de soplado y sistemas de canal caliente de alto rendimiento, disenados para los principales fabricantes de bebidas, alimentos y envases del mundo.",
+    "cta": { "label": "Explorar Productos", "href": "/products" },
+    "ctaSecondary": { "label": "Contactar Ventas", "href": "/contact" }
+  },
+  "banners": [
+    { "src": "/images/banners/banner1.webp", "alt": "banner1 - Planta de fabricacion de moldes de preformas PET de Lihe" },
+    { "src": "/images/banners/banner2.webp", "alt": "banner2 - Ingenieria de precision en moldes de soplado por Lihe" },
+    { "src": "/images/banners/banner3.webp", "alt": "banner3 - Sistemas de moldes de alta cavitacion para envases PET" }
+  ],
+  "stats": [
+    { "value": "15,000+", "label": "m² de Planta de Produccion" },
+    { "value": "160", "label": "Cavidades Maximas por Molde" },
+    { "value": "50+", "label": "Paises Atendidos" },
+    { "value": "20+", "label": "Anos de Experiencia" }
+  ],
+  "sectionHeadings": {
+    "products": {
+      "title": "Categorias de Productos",
+      "subtitle": "Soluciones integrales de herramental y moldes para preformas que abarcan todo el ciclo de vida del envase PET."
+    },
+    "showcase": {
+      "title": "Capacidades Principales",
+      "subtitle": "Disenados con precision. Construidos para la produccion."
+    },
+    "featured": {
+      "title": "Productos Destacados",
+      "subtitle": "Nuestros sistemas de moldes PET mas solicitados, utilizados por lideres de la industria de envases para bebidas en todo el mundo."
+    },
+    "factory": {
+      "title": "Manufactura de Clase Mundial",
+      "subtitle": "Una planta de 15,000 m² equipada con sistemas de precision CNC, EDM y metrologia de Mazak, Makino y Zeiss."
+    }
+  },
+  "productCategories": [
+    { "name": "Molde de Soplado", "href": "/products?category=blow-mold" },
+    { "name": "Molde de Compresion", "href": "/products?category=compression-mold" },
+    { "name": "Molde de Tapas", "href": "/products?category=closure-mold" },
+    { "name": "Molde de Preformas", "href": "/products?category=preform-mold" },
+    { "name": "Sistema de Canal Caliente", "href": "/products?category=hotrunner-system" },
+    { "name": "Accesorios", "href": "/products?category=accessories" },
+    { "name": "Fabricacion de Bases de Molde", "href": "/products?category=mold-base" },
+    { "name": "Equipos de Control de Calidad", "href": "/equipment/qc" },
+    { "name": "Equipos de Mecanizado", "href": "/equipment/machining" }
+  ],
+  "showcaseCategories": [
+    { "name": "Molde de Preformas PET", "description": "Moldes de preformas multicavidad de hasta 160 cavidades. Compatibles con plataformas de moldeo por inyeccion HUSKY, NETSTAL y SIPA.", "image": "/images/home/preform-mold.webp", "alt": "preform-mold - Sistema de molde de preformas PET de alta cavitacion", "href": "/products?category=preform-mold" },
+    { "name": "Molde de Compresion", "description": "Moldes de compresion de precision para tapas en lineas de produccion SACMI de alta velocidad, ofreciendo soluciones de envases PET de grado alimenticio.", "image": "/images/home/compression-mold.webp", "alt": "compression-mold - Molde de compresion para tapas PET", "href": "/products?category=compression-mold" },
+    { "name": "Molde de Soplado PET", "description": "Moldes de soplado PET de dos etapas y una etapa para SIDEL, KRONES, KHS y mas, al servicio de la industria de envases para bebidas y produccion de botellas de agua mineral.", "image": "/images/home/blow-mold.webp", "alt": "blow-mold - Molde de soplado PET para botellas de la industria de bebidas", "href": "/products?category=blow-mold" },
+    { "name": "Equipos de Mecanizado", "description": "Centros CNC de Mazak, Makino y Haas que garantizan precision a nivel de micras.", "image": "/images/home/machining-equipment.webp", "alt": "machining-equipment - Centro de mecanizado CNC en la planta de Lihe", "href": "/equipment/machining" },
+    { "name": "Equipos de Control de Calidad", "description": "CMM Zeiss, escaneres de perfil 3D y sistemas dedicados de inspeccion de botellas.", "image": "/images/home/qc-equipment.webp", "alt": "qc-equipment - Sistema de medicion de control de calidad Zeiss", "href": "/equipment/qc" }
+  ],
+  "moldHighlights": {
+    "title": "Moldes de Inyeccion de Preformas PET LIHE",
+    "description": "Los moldes de inyeccion de preformas PET de LIHE ofrecen un rendimiento excepcional para las industrias de bebidas y envases. Nuestras soluciones de herramental garantizan alta eficiencia, confiabilidad e integracion perfecta para clientes en todo el mundo.",
+    "accordionTitle": "¿Por que elegir los moldes LIHE?",
+    "items": [
+      { "title": "Amplia Gama de Cavidades", "content": "Ofrecemos disenos avanzados de moldes desde 2 hasta 160 cavidades para satisfacer sus necesidades especificas de produccion." },
+      { "title": "Sistemas de Canal Caliente Confiables", "content": "Nuestros sistemas de Canal Caliente (de 2 a 160 cavidades) cuentan con un diseno especializado con garantia de 3 anos contra fugas." },
+      { "title": "Soporte para Acabados de Cuello Estandar", "content": "Soportamos todos los principales estandares de la industria, incluyendo PCO 1881, PCO 1810, PCO 1716, 3025, 2925, 2622, 2522, Alaska, 38mm, 48mm, 69mm, 89mm y otros acabados de cuello personalizados." },
+      { "title": "Alta Precision y Consistencia", "content": "Ofrecemos configuraciones flexibles con la menor variabilidad dimensional de la industria, garantizando una calidad estable de preformas." },
+      { "title": "Compatibilidad con Marcas Globales", "content": "LIHE proporciona soluciones y repuestos superiores para clientes que actualmente utilizan sistemas Husky, SACMI, SIPA o NETSTAL." },
+      { "title": "Capacidad de Conversion Universal", "content": "Fabricamos piezas de conversion de alta precision para todas las principales marcas internacionales de moldes, garantizando una integracion perfecta con su equipo existente." }
+    ]
+  },
+  "factoryImage": {
+    "src": "/images/home/factory-banner.webp",
+    "alt": "factory-banner - Vista aerea de la planta de fabricacion de moldes de precision de Lihe"
+  }
+}
