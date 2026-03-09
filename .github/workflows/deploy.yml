@@ -1,0 +1,50 @@
+name: Deploy to Cloudflare Workers
+
+on:
+  push:
+    branches:
+      - main  # 當推送到 main 分支時觸發
+  workflow_dispatch:  # 允許手動觸發
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    name: Deploy to Cloudflare Workers
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build application
+        run: npm run cf:build
+
+      - name: Deploy to Cloudflare Workers
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: deploy
+          workingDirectory: .open-next/.build
+          # 不設定 secrets - Cloudflare Secrets 會自動保留！
+
+      - name: Verify deployment
+        run: |
+          echo "✅ Deployment completed!"
+          echo "Worker URL: https://lihepreform02.workers.dev"
+
+# 重要提示：
+# 1. Cloudflare Workers Secrets 不會被覆蓋 ✅
+# 2. 只需要在 GitHub Secrets 設定：
+#    - CLOUDFLARE_API_TOKEN
+#    - CLOUDFLARE_ACCOUNT_ID
+# 3. Worker 的環境變數 (ADMIN_PASSWORD, RESEND_API_KEY 等)
+#    已經透過 wrangler secret 設定在 Cloudflare，不會被清空

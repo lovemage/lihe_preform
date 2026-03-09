@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
+import AdminNav from "@/components/admin/AdminNav/AdminNav";
 import styles from "./page.module.css";
 
 type EmailSignature = {
@@ -135,15 +136,17 @@ export default function SendEmailPage() {
 
   return (
     <div className={styles.container}>
-      <div className={styles.header}>
-        <h1 className={styles.title}>發送官方郵件 (Resend)</h1>
-        <p className={styles.subtitle}>使用 sales@lihe-preform.com 發送專業郵件</p>
-        <button onClick={() => router.push("/admin")} className={styles.backButton}>
-          ← 返回後台
-        </button>
-      </div>
+      <AdminNav />
+      <div className={styles.contentWrapper}>
+        <div className={styles.header}>
+          <h1 className={styles.title}>發送官方郵件 (Resend)</h1>
+          <p className={styles.subtitle}>使用 sales@lihe-preform.com 發送專業郵件</p>
+          <button onClick={() => router.push("/admin")} className={styles.backButton}>
+            ← 返回後台
+          </button>
+        </div>
 
-      <main className={styles.main}>
+        <main className={styles.main}>
         {message && (
           <div className={`${styles.message} ${styles[message.type]}`}>
             {message.text}
@@ -353,6 +356,7 @@ export default function SendEmailPage() {
           </aside>
         </div>
       </main>
+      </div>
     </div>
   );
 }

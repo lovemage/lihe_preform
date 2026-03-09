@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
+import AdminNav from "@/components/admin/AdminNav/AdminNav";
 import styles from "./page.module.css";
 
 type EmailTemplate = {
@@ -408,27 +409,32 @@ export default function EmailTemplatesPage() {
   if (loading) {
     return (
       <div className={styles.container}>
-        <div className={styles.header}>
-          <h1 className={styles.title}>Email Templates</h1>
+        <AdminNav />
+        <div className={styles.contentWrapper}>
+          <div className={styles.header}>
+            <h1 className={styles.title}>Email Templates</h1>
+          </div>
+          <main className={styles.main}>
+            <p>Loading...</p>
+          </main>
         </div>
-        <main className={styles.main}>
-          <p>Loading...</p>
-        </main>
       </div>
     );
   }
 
   return (
     <div className={styles.container}>
-      <div className={styles.header}>
-        <h1 className={styles.title}>Email 模板管理 (Resend)</h1>
-        <p className={styles.subtitle}>管理聯絡表單的自動回覆和通知郵件模板</p>
-        <button onClick={() => router.push("/admin")} className={styles.backButton}>
-          ← 返回後台
-        </button>
-      </div>
+      <AdminNav />
+      <div className={styles.contentWrapper}>
+        <div className={styles.header}>
+          <h1 className={styles.title}>Email 模板管理 (Resend)</h1>
+          <p className={styles.subtitle}>管理聯絡表單的自動回覆和通知郵件模板</p>
+          <button onClick={() => router.push("/admin")} className={styles.backButton}>
+            ← 返回後台
+          </button>
+        </div>
 
-      <main className={styles.main}>
+        <main className={styles.main}>
         {message && (
           <div className={`${styles.message} ${styles[message.type]}`}>
             {message.text}
@@ -540,6 +546,7 @@ export default function EmailTemplatesPage() {
           </div>
         </div>
       </main>
+      </div>
     </div>
   );
 }
