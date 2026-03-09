@@ -8,6 +8,9 @@ export default function AdminNav() {
         <a href="/admin/factory" style={{ color: "#fff", textDecoration: "none" }}>Factory 頁面</a>
         <a href="/admin/products" style={{ color: "#fff", textDecoration: "none" }}>產品管理</a>
         <a href="/admin/media" style={{ color: "#fff", textDecoration: "none" }}>媒體庫</a>
+        <a href="/admin/footer-settings" style={{ color: "#fff", textDecoration: "none" }}>頁腳設定</a>
+        <a href="/admin/email-templates" style={{ color: "#fff", textDecoration: "none" }}>Email 模板管理</a>
+        <a href="/admin/send-email" style={{ color: "#fff", textDecoration: "none" }}>發送官方郵件</a>
       </nav>
     </aside>
   );

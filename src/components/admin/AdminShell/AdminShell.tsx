@@ -7,6 +7,9 @@ const navItems = [
   { href: "/admin/factory", label: "Factory 頁面" },
   { href: "/admin/products", label: "產品管理" },
   { href: "/admin/media", label: "媒體庫" },
+  { href: "/admin/footer-settings", label: "頁腳設定" },
+  { href: "/admin/email-templates", label: "Email 模板管理" },
+  { href: "/admin/send-email", label: "發送官方郵件" },
 ];
 
 export default function AdminShell({
