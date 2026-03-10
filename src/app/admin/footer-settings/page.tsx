@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
-import AdminNav from "@/components/admin/AdminNav";
+import AdminNav from "@/components/admin/AdminNav/AdminNav";
 import styles from "./page.module.css";
 
 type LocalizedString = {

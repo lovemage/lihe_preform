@@ -69,14 +69,14 @@ export default function SendEmailPage() {
     return `
 <div style="margin-top: 2rem; padding-top: 1rem; border-top: 1px solid #e2e8f0;">
   <p style="margin: 0; line-height: 1.6;">
-    <strong style="color: #2c5aa0;">${signature.name}</strong><br>
+    <strong>${signature.name}</strong><br>
     ${signature.title}<br>
     ${signature.company}
   </p>
-  <p style="margin: 0.5rem 0 0 0; line-height: 1.6; color: #64748b;">
-    📧 ${signature.email}<br>
-    📞 ${signature.phone}<br>
-    🌐 ${signature.website}
+  <p style="margin: 0.5rem 0 0 0; line-height: 1.6; color: #475569;">
+    Email: ${signature.email}<br>
+    Phone: ${signature.phone}<br>
+    Website: ${signature.website}
   </p>
 </div>
 `;
@@ -139,7 +139,7 @@ export default function SendEmailPage() {
       <AdminNav />
       <div className={styles.contentWrapper}>
         <div className={styles.header}>
-          <h1 className={styles.title}>發送官方郵件 (Resend)</h1>
+          <h1 className={styles.title}>發送官方郵件</h1>
           <p className={styles.subtitle}>使用 sales@lihe-preform.com 發送專業郵件</p>
           <button onClick={() => router.push("/admin")} className={styles.backButton}>
             ← 返回後台
@@ -258,7 +258,7 @@ export default function SendEmailPage() {
                   className={styles.sendButton}
                   disabled={sending}
                 >
-                  {sending ? "發送中..." : "📧 發送郵件"}
+                  {sending ? "發送中..." : "發送郵件"}
                 </button>
               </div>
             </form>
@@ -340,12 +340,12 @@ export default function SendEmailPage() {
                 onClick={saveSignature}
                 className={styles.saveSignatureButton}
               >
-                💾 儲存簽名檔
+                儲存簽名檔
               </button>
             </div>
 
             <div className={styles.infoBox}>
-              <h3>📌 注意事項</h3>
+              <h3>注意事項</h3>
               <ul>
                 <li>所有郵件將從 <strong>sales@lihe-preform.com</strong> 發送</li>
                 <li>簽名檔會儲存在瀏覽器本地</li>
