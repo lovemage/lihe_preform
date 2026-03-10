@@ -67,6 +67,8 @@ export default async function ProductDetailPage({
     notFound();
   }
 
+  const productUrl = `https://lihe-preform.com/${locale}/products/${id}/`;
+
   const productJsonLd = {
     "@context": "https://schema.org",
     "@type": "Product",
@@ -74,7 +76,7 @@ export default async function ProductDetailPage({
     sku: String(product.id),
     mpn: String(product.id),
     category: product.category,
-    url: `https://lihe-preform.com/${locale}/products/${id}/`,
+    url: productUrl,
     description: product.description,
     image: product.images.map(
       (img: any) => `https://lihe-preform.com${img.src}`
@@ -86,6 +88,17 @@ export default async function ProductDetailPage({
     manufacturer: {
       "@type": "Organization",
       name: "Foshan Lihe Precision Machinery Co.,Ltd.",
+    },
+    offers: {
+      "@type": "Offer",
+      url: productUrl,
+      priceCurrency: "USD",
+      price: "0",
+      availability: "https://schema.org/InStock",
+      seller: {
+        "@type": "Organization",
+        name: "Foshan Lihe Precision Machinery Co.,Ltd.",
+      },
     },
   };
 
