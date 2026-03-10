@@ -1,58 +1,77 @@
-import { NextRequest, NextResponse } from "next/server";
-import { getCloudflareContext } from "@opennextjs/cloudflare";
-import { verifyAuth } from "@/lib/auth";
+import { NextResponse } from "next/server";
+import { requireAdminApiSession } from "@/lib/admin/guards";
+import { d1Exec, d1First } from "@/lib/admin/d1";
+import { ensureAdminSchema } from "@/lib/admin/content-repository";
 
-type D1Like = {
-  prepare: (query: string) => {
-    bind: (...values: unknown[]) => {
-      first: <T>() => Promise<T | null>;
-      run: () => Promise<unknown>;
-    };
-  };
+type LocalizedString = {
+  en: string;
+  ru: string;
+  es: string;
 };
 
-export const runtime = "edge";
+type FooterSettings = {
+  logo: { src: string; alt: string };
+  description: LocalizedString;
+  links: Array<{ label: LocalizedString; href: string }>;
+  contact: {
+    phone: string;
+    email: string;
+    address: LocalizedString;
+  };
+  social: Array<{ platform: string; href: string }>;
+};
 
-export async function GET(request: NextRequest) {
+const DEFAULT_FOOTER_SETTINGS: FooterSettings = {
+  logo: { src: "/logo.svg", alt: "Lihe Precision" },
+  description: {
+    en: "Professional PET preform mold manufacturer",
+    ru: "Профессиональный производитель пресс-форм для преформ ПЭТ",
+    es: "Fabricante profesional de moldes de preforma PET",
+  },
+  links: [],
+  contact: {
+    phone: "+86 757 8555 1234",
+    email: "sales@lihe-preform.com",
+    address: {
+      en: "Foshan, Guangdong Province, China",
+      ru: "Фошань, провинция Гуандун, Китай",
+      es: "Foshan, Provincia de Guangdong, China",
+    },
+  },
+  social: [],
+};
+
+function isObject(value: unknown): value is Record<string, unknown> {
+  return typeof value === "object" && value !== null;
+}
+
+function parseFooterSettings(raw: string): FooterSettings | null {
   try {
-    const authResult = await verifyAuth(request);
-    if (!authResult.authenticated) {
-      return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
-    }
+    const parsed = JSON.parse(raw) as unknown;
+    if (!isObject(parsed)) return null;
+    if (!isObject(parsed.logo)) return null;
+    if (!isObject(parsed.description)) return null;
+    if (!isObject(parsed.contact)) return null;
+    return parsed as FooterSettings;
+  } catch {
+    return null;
+  }
+}
 
-    const { env } = await getCloudflareContext();
-    const db = (env as { CONTENT_DB: D1Like }).CONTENT_DB;
+export async function GET() {
+  try {
+    const auth = await requireAdminApiSession();
+    if (!auth.ok) return auth.response;
+    await ensureAdminSchema();
 
-    const result = await db
-      .prepare("SELECT data FROM content WHERE id = ?")
-      .bind("footer-settings")
-      .first<{ data: string }>();
+    const result = await d1First<{ data: string }>("SELECT data FROM content WHERE id = ?", ["footer-settings"]);
 
     if (!result) {
-      // Return default settings when none exist yet
-      const defaults = {
-        logo: { src: "/logo.svg", alt: "Lihe Precision" },
-        description: {
-          en: "Professional PET preform mold manufacturer",
-          ru: "Профессиональный производитель пресс-форм для преформ ПЭТ",
-          es: "Fabricante profesional de moldes de preforma PET",
-        },
-        links: [],
-        contact: {
-          phone: "+86 757 8555 1234",
-          email: "sales@lihe-preform.com",
-          address: {
-            en: "Foshan, Guangdong Province, China",
-            ru: "Фошань, провинция Гуандун, Китай",
-            es: "Foshan, Provincia de Guangdong, China",
-          },
-        },
-        social: [],
-      };
-      return NextResponse.json(defaults);
+      return NextResponse.json(DEFAULT_FOOTER_SETTINGS);
     }
 
-    return NextResponse.json(JSON.parse(result.data));
+    const parsed = parseFooterSettings(result.data);
+    return NextResponse.json(parsed ?? DEFAULT_FOOTER_SETTINGS);
   } catch (error) {
     console.error("Error fetching footer settings:", error);
     return NextResponse.json(
@@ -62,18 +81,14 @@ export async function GET(request: NextRequest) {
   }
 }
 
-export async function PUT(request: NextRequest) {
+export async function PUT(request: Request) {
   try {
-    const authResult = await verifyAuth(request);
-    if (!authResult.authenticated) {
-      return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
-    }
+    const auth = await requireAdminApiSession();
+    if (!auth.ok) return auth.response;
+    await ensureAdminSchema();
 
-    const body = await request.json();
-    const { env } = await getCloudflareContext();
-    const db = (env as { CONTENT_DB: D1Like }).CONTENT_DB;
+    const body = (await request.json()) as FooterSettings;
 
-    // Validate the data structure
     if (!body.logo || !body.description || !body.contact) {
       return NextResponse.json(
         { error: "Invalid footer settings data" },
@@ -83,16 +98,14 @@ export async function PUT(request: NextRequest) {
 
     const dataString = JSON.stringify(body);
 
-    await db
-      .prepare(
-        `INSERT INTO content (id, data, updated_at)
-         VALUES (?, ?, datetime('now'))
-         ON CONFLICT(id) DO UPDATE SET
-         data = excluded.data,
-         updated_at = excluded.updated_at`
-      )
-      .bind("footer-settings", dataString)
-      .run();
+    await d1Exec(
+      `INSERT INTO content (id, data, updated_at)
+       VALUES (?, ?, datetime('now'))
+       ON CONFLICT(id) DO UPDATE SET
+       data = excluded.data,
+       updated_at = excluded.updated_at`,
+      ["footer-settings", dataString],
+    );
 
     return NextResponse.json({ success: true });
   } catch (error) {

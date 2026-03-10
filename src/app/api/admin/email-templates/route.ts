@@ -1,42 +1,26 @@
-import { NextRequest, NextResponse } from "next/server";
-import { getCloudflareContext } from "@opennextjs/cloudflare";
-import { verifyAuth } from "@/lib/auth";
+import { NextResponse } from "next/server";
+import { requireAdminApiSession } from "@/lib/admin/guards";
+import { d1Exec, d1First } from "@/lib/admin/d1";
+import { ensureAdminSchema } from "@/lib/admin/content-repository";
 
-type D1Like = {
-  prepare: (query: string) => {
-    bind: (...values: unknown[]) => {
-      first: <T>() => Promise<T | null>;
-      run: () => Promise<unknown>;
-    };
-  };
-};
-
-export const runtime = "edge";
-
-export async function GET(request: NextRequest) {
+export async function GET() {
   try {
-    const authResult = await verifyAuth(request);
-    if (!authResult.authenticated) {
-      return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
-    }
+    const auth = await requireAdminApiSession();
+    if (!auth.ok) return auth.response;
+    await ensureAdminSchema();
 
-    const { env } = await getCloudflareContext();
-    const db = (env as { CONTENT_DB: D1Like }).CONTENT_DB;
-
-    const result = await db
-      .prepare("SELECT data FROM content WHERE id = ?")
-      .bind("email-templates")
-      .first<{ data: string }>();
+    const result = await d1First<{ data: string }>("SELECT data FROM content WHERE id = ?", ["email-templates"]);
 
     if (!result) {
-      return NextResponse.json(
-        { templates: [] },
-        { status: 200 }
-      );
+      return NextResponse.json({ templates: [] }, { status: 200 });
     }
 
-    const templates = JSON.parse(result.data);
-    return NextResponse.json(templates);
+    try {
+      const templates = JSON.parse(result.data) as unknown;
+      return NextResponse.json(templates);
+    } catch {
+      return NextResponse.json({ templates: [] }, { status: 200 });
+    }
   } catch (error) {
     console.error("Error fetching email templates:", error);
     return NextResponse.json(
@@ -46,18 +30,14 @@ export async function GET(request: NextRequest) {
   }
 }
 
-export async function PUT(request: NextRequest) {
+export async function PUT(request: Request) {
   try {
-    const authResult = await verifyAuth(request);
-    if (!authResult.authenticated) {
-      return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
-    }
+    const auth = await requireAdminApiSession();
+    if (!auth.ok) return auth.response;
+    await ensureAdminSchema();
 
     const body = await request.json();
-    const { env } = await getCloudflareContext();
-    const db = (env as { CONTENT_DB: D1Like }).CONTENT_DB;
 
-    // Validate the data structure
     if (!body.templates || !Array.isArray(body.templates)) {
       return NextResponse.json(
         { error: "Invalid email templates data" },
@@ -67,16 +47,14 @@ export async function PUT(request: NextRequest) {
 
     const dataString = JSON.stringify(body);
 
-    await db
-      .prepare(
-        `INSERT INTO content (id, data, updated_at)
-         VALUES (?, ?, datetime('now'))
-         ON CONFLICT(id) DO UPDATE SET
-         data = excluded.data,
-         updated_at = excluded.updated_at`
-      )
-      .bind("email-templates", dataString)
-      .run();
+    await d1Exec(
+      `INSERT INTO content (id, data, updated_at)
+       VALUES (?, ?, datetime('now'))
+       ON CONFLICT(id) DO UPDATE SET
+       data = excluded.data,
+       updated_at = excluded.updated_at`,
+      ["email-templates", dataString],
+    );
 
     return NextResponse.json({ success: true });
   } catch (error) {
