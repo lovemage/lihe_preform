@@ -13,7 +13,40 @@ type D1Response<T extends D1ResultRow = D1ResultRow> = {
   errors?: Array<{ message?: string }>;
 };
 
+type D1Binding = {
+  prepare: (sql: string) => {
+    bind: (...params: unknown[]) => {
+      all: <T extends D1ResultRow = D1ResultRow>() => Promise<{ results?: T[] }>;
+    };
+  };
+};
+
+function hasD1ApiConfig() {
+  return Boolean(
+    process.env.CLOUDFLARE_ACCOUNT_ID
+    && process.env.CLOUDFLARE_D1_DATABASE_ID
+    && process.env.CLOUDFLARE_D1_API_TOKEN,
+  );
+}
+
+async function executeViaBinding<T extends D1ResultRow>(sql: string, params: unknown[] = []) {
+  const { getCloudflareContext } = await import("@opennextjs/cloudflare");
+  const { env } = await getCloudflareContext();
+  const db = (env as { CONTENT_DB?: D1Binding }).CONTENT_DB;
+
+  if (!db) {
+    throw new Error("Missing D1 binding: CONTENT_DB");
+  }
+
+  const response = await db.prepare(sql).bind(...params).all<T>();
+  return response.results ?? [];
+}
+
 async function execute<T extends D1ResultRow>(sql: string, params: unknown[] = []) {
+  if (!hasD1ApiConfig()) {
+    return executeViaBinding<T>(sql, params);
+  }
+
   const config = getD1Config();
   const response = await fetch(
     `https://api.cloudflare.com/client/v4/accounts/${config.accountId}/d1/database/${config.databaseId}/query`,
