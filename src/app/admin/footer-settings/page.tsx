@@ -153,9 +153,16 @@ export default function FooterSettingsPage() {
     return (
       <div className={styles.container}>
         <AdminNav />
-        <main className={styles.main}>
-          <p>Loading...</p>
-        </main>
+        <div className={styles.contentWrapper}>
+          <header className={styles.header}>
+            <p className={styles.headerMeta}>管理後台</p>
+            <h1 className={styles.title}>頁腳設定</h1>
+            <p className={styles.subtitle}>管理頁腳 Logo、描述、快速連結、聯絡資訊與社群媒體連結。</p>
+          </header>
+          <main className={styles.main}>
+            <p>Loading...</p>
+          </main>
+        </div>
       </div>
     );
   }
@@ -164,9 +171,16 @@ export default function FooterSettingsPage() {
     return (
       <div className={styles.container}>
         <AdminNav />
-        <main className={styles.main}>
-          <p>Failed to load settings</p>
-        </main>
+        <div className={styles.contentWrapper}>
+          <header className={styles.header}>
+            <p className={styles.headerMeta}>管理後台</p>
+            <h1 className={styles.title}>頁腳設定</h1>
+            <p className={styles.subtitle}>管理頁腳 Logo、描述、快速連結、聯絡資訊與社群媒體連結。</p>
+          </header>
+          <main className={styles.main}>
+            <p>Failed to load settings</p>
+          </main>
+        </div>
       </div>
     );
   }
@@ -174,16 +188,20 @@ export default function FooterSettingsPage() {
   return (
     <div className={styles.container}>
       <AdminNav />
-      <main className={styles.main}>
-        <h1 className={styles.title}>Footer Settings</h1>
+      <div className={styles.contentWrapper}>
+        <header className={styles.header}>
+          <p className={styles.headerMeta}>管理後台</p>
+          <h1 className={styles.title}>頁腳設定</h1>
+          <p className={styles.subtitle}>管理頁腳 Logo、描述、快速連結、聯絡資訊與社群媒體連結。</p>
+        </header>
+        <main className={styles.main}>
+          {message && (
+            <div className={`${styles.message} ${styles[message.type]}`}>
+              {message.text}
+            </div>
+          )}
 
-        {message && (
-          <div className={`${styles.message} ${styles[message.type]}`}>
-            {message.text}
-          </div>
-        )}
-
-        <form onSubmit={handleSubmit} className={styles.form}>
+          <form onSubmit={handleSubmit} className={styles.form}>
           {/* Logo Section */}
           <section className={styles.section}>
             <h2 className={styles.sectionTitle}>Logo</h2>
@@ -444,8 +462,9 @@ export default function FooterSettingsPage() {
               {saving ? "Saving..." : "Save Footer Settings"}
             </button>
           </div>
-        </form>
-      </main>
+          </form>
+        </main>
+      </div>
     </div>
   );
 }

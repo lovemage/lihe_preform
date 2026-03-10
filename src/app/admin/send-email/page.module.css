@@ -1,6 +1,6 @@
 .container {
   min-height: 100vh;
-  background: #f5f7fa;
+  background: #f5f7fb;
   display: flex;
 }
 
@@ -11,15 +11,21 @@
 
 .header {
   background: white;
-  border-bottom: 1px solid #e2e8f0;
-  padding: 2rem;
+  border-bottom: 1px solid #d9e0ea;
+  padding: 24px 32px;
+}
+
+.headerMeta {
+  color: #64748b;
+  font-size: 13px;
+  margin-bottom: 6px;
 }
 
 .title {
-  font-size: 2rem;
+  font-size: 30px;
   font-weight: 700;
-  margin-bottom: 0.5rem;
-  color: #1a202c;
+  margin-bottom: 8px;
+  color: #0f172a;
 }
 
 .subtitle {
@@ -43,9 +49,7 @@
 }
 
 .main {
-  max-width: 1400px;
-  margin: 0 auto;
-  padding: 2rem;
+  padding: 32px;
 }
 
 .message {

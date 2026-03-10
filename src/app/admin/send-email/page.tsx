@@ -138,13 +138,14 @@ export default function SendEmailPage() {
     <div className={styles.container}>
       <AdminNav />
       <div className={styles.contentWrapper}>
-        <div className={styles.header}>
+        <header className={styles.header}>
+          <p className={styles.headerMeta}>管理後台</p>
           <h1 className={styles.title}>發送官方郵件</h1>
           <p className={styles.subtitle}>使用 sales@lihe-preform.com 發送專業郵件</p>
           <button onClick={() => router.push("/admin")} className={styles.backButton}>
             ← 返回後台
           </button>
-        </div>
+        </header>
 
         <main className={styles.main}>
         {message && (
