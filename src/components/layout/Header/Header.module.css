@@ -49,7 +49,7 @@
   align-items: center;
   gap: 4px;
   padding: var(--space-sm) var(--space-md);
-  color: var(--color-white);
+  color: var(--color-on-dark);
   text-decoration: none;
   font-size: 0.9rem;
   font-weight: 500;
@@ -119,7 +119,7 @@
 .dropdownLink {
   display: block;
   padding: var(--space-sm) var(--space-lg);
-  color: var(--color-gray-300);
+  color: var(--color-on-dark-muted);
   text-decoration: none;
   font-size: 0.85rem;
   transition: all var(--transition-fast);
@@ -156,7 +156,7 @@
   display: block;
   width: 100%;
   height: 2px;
-  background-color: var(--color-white);
+  background-color: var(--color-on-dark);
   border-radius: 1px;
   transition: all var(--transition-fast);
 }

@@ -31,7 +31,7 @@
 
 .value {
   display: block;
-  color: var(--color-white);
+  color: var(--color-on-dark);
   font-family: var(--font-heading);
   font-size: 2.75rem;
   font-weight: 800;

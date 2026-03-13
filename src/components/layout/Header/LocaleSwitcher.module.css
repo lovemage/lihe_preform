@@ -10,7 +10,7 @@
   background: rgba(255, 255, 255, 0.08);
   border: 1px solid rgba(255, 255, 255, 0.15);
   border-radius: var(--radius-sm);
-  color: var(--color-white);
+  color: var(--color-on-dark);
   font-size: 0.8rem;
   font-weight: 600;
   cursor: pointer;
@@ -57,7 +57,7 @@
   padding: 6px 14px;
   background: none;
   border: none;
-  color: var(--color-gray-300);
+  color: var(--color-on-dark-muted);
   font-size: 0.8rem;
   font-weight: 500;
   text-align: left;

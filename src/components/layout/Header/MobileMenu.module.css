@@ -17,7 +17,7 @@
   display: block;
   width: 100%;
   height: 2px;
-  background-color: var(--color-white);
+  background-color: var(--color-on-dark);
   border-radius: 1px;
   transition: all var(--transition-base);
   transform-origin: center;
@@ -84,7 +84,7 @@
 .navLink {
   display: block;
   padding: var(--space-md) 0;
-  color: var(--color-white);
+  color: var(--color-on-dark);
   text-decoration: none;
   font-size: 1rem;
   font-weight: 500;
@@ -103,7 +103,7 @@
   padding: var(--space-md) 0;
   background: none;
   border: none;
-  color: var(--color-white);
+  color: var(--color-on-dark);
   font-size: 1rem;
   font-weight: 500;
   cursor: pointer;
@@ -133,7 +133,7 @@
 .subLink {
   display: block;
   padding: var(--space-sm) 0;
-  color: var(--color-gray-400);
+  color: var(--color-on-dark-subtle);
   text-decoration: none;
   font-size: 0.9rem;
   transition: color var(--transition-fast);

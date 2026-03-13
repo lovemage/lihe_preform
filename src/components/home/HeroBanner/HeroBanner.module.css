@@ -50,7 +50,7 @@
 }
 
 .headline {
-  color: var(--color-white);
+  color: var(--color-on-dark);
   font-family: var(--font-heading);
   font-size: clamp(2rem, 5vw, 3.5rem);
   font-weight: 800;
@@ -78,12 +78,12 @@
 
 .secondaryBtn {
   background-color: transparent;
-  color: var(--color-white);
-  border-color: var(--color-white);
+  color: var(--color-on-dark);
+  border-color: var(--color-on-dark);
 }
 
 .secondaryBtn:hover {
-  background-color: var(--color-white);
+  background-color: var(--color-on-dark);
   color: var(--color-primary);
 }
 
@@ -107,7 +107,7 @@
   width: 12px;
   height: 12px;
   border-radius: 50%;
-  border: 2px solid var(--color-white);
+  border: 2px solid var(--color-on-dark);
   background: transparent;
   cursor: pointer;
   padding: 0;
@@ -128,7 +128,7 @@
 }
 
 .dotActive {
-  background: var(--color-white);
+  background: var(--color-on-dark);
 }
 
 .pauseBtn {
@@ -138,9 +138,9 @@
   width: 32px;
   height: 32px;
   border-radius: 50%;
-  border: 2px solid var(--color-white);
+  border: 2px solid var(--color-on-dark);
   background: rgba(0, 0, 0, 0.3);
-  color: var(--color-white);
+  color: var(--color-on-dark);
   cursor: pointer;
   transition: background var(--transition-base);
   padding: 0;

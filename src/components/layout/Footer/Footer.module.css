@@ -1,6 +1,6 @@
 .footer {
   background-color: var(--color-primary-dark);
-  color: var(--color-gray-300);
+  color: var(--color-on-dark-muted);
   padding-top: var(--space-3xl);
   border-top: 2px solid var(--color-accent);
 }
@@ -25,7 +25,7 @@
 }
 
 .columnTitle {
-  color: var(--color-white);
+  color: var(--color-on-dark);
   font-size: 1rem;
   font-weight: 600;
   text-transform: uppercase;
@@ -43,7 +43,7 @@
 }
 
 .tagline {
-  color: var(--color-gray-400);
+  color: var(--color-on-dark-subtle);
   font-size: 0.9rem;
   line-height: 1.6;
   margin: 0 0 var(--space-lg);
@@ -63,7 +63,7 @@
   height: 44px;
   border-radius: 50%;
   background: rgba(255, 255, 255, 0.08);
-  color: var(--color-gray-400);
+  color: var(--color-on-dark-subtle);
   transition: all var(--transition-fast);
 }
 
@@ -83,7 +83,7 @@
 }
 
 .footerLink {
-  color: var(--color-gray-400);
+  color: var(--color-on-dark-subtle);
   text-decoration: none;
   font-size: 0.9rem;
   transition: color var(--transition-fast);
@@ -122,7 +122,7 @@
 }
 
 .contactLink {
-  color: var(--color-gray-400);
+  color: var(--color-on-dark-subtle);
   text-decoration: none;
   transition: color var(--transition-fast);
 }
@@ -132,7 +132,7 @@
 }
 
 .contactText {
-  color: var(--color-gray-400);
+  color: var(--color-on-dark-subtle);
   line-height: 1.5;
 }
 
@@ -146,7 +146,7 @@
   margin: 0;
   text-align: center;
   font-size: 0.8rem;
-  color: var(--color-gray-500);
+  color: var(--color-on-dark-faint);
 }
 
 /* Responsive */
