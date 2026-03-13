@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { getHomeData, getProductsData } from "@/lib/data";
 import { getLocaleAlternates } from "@/lib/seo";
@@ -11,13 +12,13 @@ export async function generateMetadata({
   params,
 }: {
   params: Promise<{ locale: string }>;
-}) {
+}): Promise<Metadata> {
   const { locale } = await params;
   setRequestLocale(locale);
   const t = await getTranslations("home");
 
   return {
-    title: "Lihe Precision | PET Preform Mold & Blow Mold Engineering",
+    title: t("metaTitle"),
     description: t("metaDescription"),
     alternates: getLocaleAlternates(locale, ""),
   };

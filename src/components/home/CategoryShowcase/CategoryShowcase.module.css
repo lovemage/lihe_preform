@@ -9,24 +9,23 @@
 }
 
 .grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  display: flex;
+  flex-wrap: wrap;
   gap: var(--space-lg);
-}
-
-.grid > :nth-child(n + 4) {
-  /* 4th and 5th cards on second row, centered */
+  justify-content: center;
 }
 
 .card {
   position: relative;
   display: block;
-  height: 280px;
+  min-height: 280px;
+  aspect-ratio: 16 / 9;
   border-radius: var(--radius-md);
   overflow: hidden;
   text-decoration: none;
   border: 2px solid transparent;
   transition: border-color var(--transition-base);
+  flex: 0 1 calc((100% - 2 * var(--space-lg)) / 3);
 }
 
 .card:hover {
@@ -84,17 +83,14 @@
 }
 
 @media (max-width: 768px) {
-  .grid {
-    grid-template-columns: 1fr;
-  }
-
   .card {
-    height: 220px;
+    flex: 0 1 100%;
+    min-height: 220px;
   }
 }
 
 @media (min-width: 769px) and (max-width: 1024px) {
-  .grid {
-    grid-template-columns: repeat(2, 1fr);
+  .card {
+    flex: 0 1 calc((100% - var(--space-lg)) / 2);
   }
 }

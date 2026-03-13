@@ -9,7 +9,7 @@
   font-weight: 600;
   cursor: pointer;
   text-decoration: none;
-  transition: all var(--transition-base);
+  transition: background-color var(--transition-base), color var(--transition-base), border-color var(--transition-base);
   line-height: 1.4;
 }
 

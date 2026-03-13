@@ -60,6 +60,7 @@ export default async function Footer({ siteData }: { siteData: SiteData }) {
                 alt={logo.alt}
                 width={140}
                 height={35}
+                loading="lazy"
               />
             </Link>
             <p className={styles.tagline}>{t("tagline")}</p>
@@ -81,7 +82,7 @@ export default async function Footer({ siteData }: { siteData: SiteData }) {
 
           {/* Column 2: Quick Links */}
           <div className={styles.column}>
-            <h3 className={styles.columnTitle}>Quick Links</h3>
+            <h3 className={styles.columnTitle}>{t("quickLinks")}</h3>
             <ul className={styles.linkList}>
               {footer.links.map((link, idx) => (
                 <li key={idx}>
@@ -95,7 +96,7 @@ export default async function Footer({ siteData }: { siteData: SiteData }) {
 
           {/* Column 3: Contact Info */}
           <div className={styles.column}>
-            <h3 className={styles.columnTitle}>Contact</h3>
+            <h3 className={styles.columnTitle}>{t("contactTitle")}</h3>
             <ul className={styles.contactList}>
               <li className={styles.contactItem}>
                 <svg

@@ -45,8 +45,10 @@ export default function MoldHighlights({
                   >
                     <button
                       type="button"
+                      id={`mold-trigger-${index}`}
                       className={styles.trigger}
                       aria-expanded={isOpen}
+                      aria-controls={`mold-panel-${index}`}
                       onClick={() => setOpenIndex(isOpen ? -1 : index)}
                     >
                       <span className={styles.triggerText}>{item.title}</span>
@@ -55,7 +57,7 @@ export default function MoldHighlights({
                         <span className={styles.iconLineVertical} />
                       </span>
                     </button>
-                    <div className={styles.panel}>
+                    <div className={styles.panel} id={`mold-panel-${index}`} role="region" aria-labelledby={`mold-trigger-${index}`}>
                       <div className={styles.panelInner}>
                         <p className={styles.panelText}>{item.content}</p>
                       </div>

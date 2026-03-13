@@ -11,6 +11,20 @@ import Footer from "@/components/layout/Footer";
 import JsonLd from "@/components/seo/JsonLd";
 import YandexMetrica from "@/components/analytics/YandexMetrica";
 import "@/styles/globals.css";
+import { DM_Sans, Plus_Jakarta_Sans } from "next/font/google";
+
+const dmSans = DM_Sans({
+  subsets: ["latin", "latin-ext"],
+  variable: "--font-sans",
+  display: "swap",
+});
+
+const plusJakarta = Plus_Jakarta_Sans({
+  subsets: ["latin", "latin-ext"],
+  variable: "--font-heading",
+  weight: ["600", "700", "800"],
+  display: "swap",
+});
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -53,16 +67,16 @@ export async function generateMetadata({
       "пресс-формы для пищевой упаковки",
     ],
     es: [
-      "PET preform mold",
-      "blow mold",
-      "hot runner system",
-      "multi-cavity mold",
-      "preform tooling",
-      "injection molding machine",
-      "compression mold",
-      "closure mold",
-      "beverage packaging solutions",
-      "PET mold manufacturer",
+      "molde de preforma PET",
+      "molde de soplado",
+      "sistema de canal caliente",
+      "molde multi-cavidad",
+      "herramientas para preformas",
+      "máquina de inyección",
+      "molde de compresión",
+      "molde de tapas",
+      "soluciones de envasado de bebidas",
+      "fabricante de moldes PET",
     ],
   };
 
@@ -162,7 +176,7 @@ export default async function LocaleLayout({
 
   return (
     <html lang={locale}>
-      <body>
+      <body className={`${dmSans.variable} ${plusJakarta.variable}`}>
         <NextIntlClientProvider messages={messages}>
           <JsonLd data={organizationJsonLd} />
           <JsonLd data={websiteJsonLd} />

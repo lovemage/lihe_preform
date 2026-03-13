@@ -1,14 +1,14 @@
 {
   "hero": {
     "headline": "Precision PET Preform Mold Engineering",
-    "subheadline": "From preform to bottle — high-performance PET preform molds, blow molds, and hot runner systems engineered for the world's leading beverage, food, and packaging manufacturers.",
+    "subheadline": "From preform to bottle: High-performance PET preform molds, blow molds, and hot runner systems engineered for the world's leading beverage, food, and packaging manufacturers. Coca-Cola verified mold supplier in the Asia region.",
     "cta": { "label": "Explore Products", "href": "/products" },
     "ctaSecondary": { "label": "Contact Sales", "href": "/contact" }
   },
   "banners": [
-    { "src": "/images/banners/banner1.webp", "alt": "banner1 - Lihe PET preform mold manufacturing facility" },
-    { "src": "/images/banners/banner2.webp", "alt": "banner2 - Precision blow mold engineering by Lihe" },
-    { "src": "/images/banners/banner3.webp", "alt": "banner3 - High-cavitation mold systems for PET packaging" }
+    { "src": "/images/banners/banner1.webp", "alt": "Lihe PET preform mold manufacturing facility" },
+    { "src": "/images/banners/banner2.webp", "alt": "Precision blow mold engineering by Lihe" },
+    { "src": "/images/banners/banner3.webp", "alt": "High-cavitation mold systems for PET packaging" }
   ],
   "stats": [
     { "value": "15,000+", "label": "sqm Production Facility" },

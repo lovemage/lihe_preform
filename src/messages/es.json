@@ -13,8 +13,9 @@
   },
   "home": {
     "headline": "Ingeniería de Precisión en Moldes PET",
-    "metaDescription": "Moldes de preforma PET de alto rendimiento, moldes de soplado, sistemas de canal caliente y herramental multicavidad. Planta de fabricación de 15.000 m² que atiende a la industria de envases para bebidas en más de 50 países.",
-    "subheadline": "De la preforma a la botella: moldes de preforma PET de alto rendimiento, moldes de soplado y sistemas de canal caliente diseñados para los principales fabricantes de bebidas, alimentos y envases del mundo.",
+    "metaTitle": "Lihe Precision | Ingeniería de Moldes de Preforma y Soplado PET",
+    "metaDescription": "De la preforma a la botella: moldes de preformas PET, moldes de soplado y sistemas de canal caliente de alto rendimiento. Proveedor de moldes verificado por Coca-Cola en la región de Asia, atendiendo a más de 50 países.",
+    "subheadline": "De la preforma a la botella: moldes de preforma PET de alto rendimiento, moldes de soplado y sistemas de canal caliente diseñados para los principales fabricantes de bebidas, alimentos y envases del mundo. Proveedor de moldes verificado por Coca-Cola en la región de Asia.",
     "exploreProducts": "Explorar Productos",
     "contactSales": "Contactar Ventas",
     "productCategories": "Categorías de Productos",
@@ -36,7 +37,7 @@
   "about": {
     "title": "Sobre Lihe Precision",
     "headline": "Ingeniería de Precisión. Rendimiento Garantizado.",
-    "metaDescription": "Foshan Lihe Precision Machinery Co., Ltd. es un fabricante especializado en moldes para preformas PET en Guangdong, enfocado en precisión técnica y rendimiento estable en producción.",
+    "metaDescription": "LIHE Preform tiene su sede en Taishan Town, Taiwán (R.O.C.), especializada en moldes de preformas PET, moldes de soplado y sistemas de canal caliente. Proveedor de moldes verificado por Coca-Cola en la región de Asia.",
     "companyIntroHeading": "Presentación de la Empresa",
     "whyLiheHeading": "¿Por Qué Lihe?",
     "whyLiheSub": "Lo que nos distingue en la industria de moldes PET",
@@ -107,7 +108,9 @@
   },
   "footer": {
     "tagline": "Soluciones de moldes PET de precisión para preformas y soplado, al servicio de la industria global de envases para bebidas.",
-    "copyright": "Foshan Lihe Precision Machinery Co.,Ltd. Todos los derechos reservados."
+    "copyright": "Foshan Lihe Precision Machinery Co.,Ltd. Todos los derechos reservados.",
+    "quickLinks": "Enlaces rápidos",
+    "contactTitle": "Contacto"
   },
   "download": {
     "title": "Descargas",

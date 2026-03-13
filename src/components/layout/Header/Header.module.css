@@ -66,7 +66,8 @@
   transition: transform var(--transition-fast);
 }
 
-.navItem:hover .dropdownArrow {
+.navItem:hover .dropdownArrow,
+.navItem:focus-within .dropdownArrow {
   transform: rotate(180deg);
 }
 
@@ -89,7 +90,8 @@
   padding: var(--space-xs) 0;
 }
 
-.navItem:hover .dropdown {
+.navItem:hover .dropdown,
+.navItem:focus-within .dropdown {
   opacity: 1;
   visibility: visible;
   transform: translateY(0);

@@ -22,7 +22,7 @@ function parseNumeric(value: string): { num: number; prefix: string; suffix: str
 }
 
 function formatNumber(n: number): string {
-  return n.toLocaleString("en-US");
+  return n.toLocaleString();
 }
 
 function AnimatedStat({ value, label }: StatItem) {
@@ -79,10 +79,10 @@ function AnimatedStat({ value, label }: StatItem) {
 
 export default function Stats({ stats }: StatsProps) {
   return (
-    <section className={styles.section}>
+    <section className={styles.section} aria-label="Key statistics">
       <div className={styles.grid}>
-        {stats.map((stat, i) => (
-          <AnimatedStat key={i} value={stat.value} label={stat.label} />
+        {stats.map((stat) => (
+          <AnimatedStat key={stat.label} value={stat.value} label={stat.label} />
         ))}
       </div>
     </section>

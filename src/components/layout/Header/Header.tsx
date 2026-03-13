@@ -3,6 +3,7 @@ import { Link } from "@/i18n/navigation";
 import { getTranslations } from "next-intl/server";
 import LocaleSwitcher from "./LocaleSwitcher";
 import MobileMenu from "./MobileMenu";
+import { navLabelToKey } from "@/lib/nav-utils";
 import styles from "./Header.module.css";
 
 interface NavChild {
@@ -22,25 +23,11 @@ interface SiteData {
   nav: NavItem[];
 }
 
-// Map site.json labels to translation keys
-const labelToKey: Record<string, string> = {
-  Home: "home",
-  "About Us": "about",
-  "Company Profile": "companyProfile",
-  Factory: "factory",
-  Equipment: "equipment",
-  "QC Equipment": "qcEquipment",
-  "Machining Equipment": "machiningEquipment",
-  Products: "products",
-  "Contact Us": "contact",
-  Download: "download",
-};
-
 export default async function Header({ siteData }: { siteData: SiteData }) {
   const t = await getTranslations("nav");
   const { logo, nav } = siteData;
   const getNavLabel = (label: string) => {
-    const key = labelToKey[label];
+    const key = navLabelToKey[label];
     return key ? t(key) : label;
   };
 
@@ -66,20 +53,25 @@ export default async function Header({ siteData }: { siteData: SiteData }) {
             {nav.map((item, idx) => {
               return (
                 <li key={idx} className={styles.navItem}>
-                  <Link href={item.href} className={styles.navLink}>
+                  <Link
+                    href={item.href}
+                    className={styles.navLink}
+                    {...(item.children ? { "aria-haspopup": "true", "aria-expanded": "false" } : {})}
+                  >
                     {getNavLabel(item.label)}
                     {item.children && (
-                      <span className={styles.dropdownArrow}>&#9662;</span>
+                      <span className={styles.dropdownArrow} aria-hidden="true">&#9662;</span>
                     )}
                   </Link>
                   {item.children && (
-                    <ul className={styles.dropdown}>
+                    <ul className={styles.dropdown} role="menu">
                       {item.children.map((child, cIdx) => {
                         return (
-                          <li key={cIdx}>
+                          <li key={cIdx} role="none">
                             <Link
                               href={child.href}
                               className={styles.dropdownLink}
+                              role="menuitem"
                             >
                               {getNavLabel(child.label)}
                             </Link>

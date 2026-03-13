@@ -38,6 +38,7 @@ export default function FeaturedProducts({
                   alt={product.thumbnail.alt}
                   width={400}
                   height={300}
+                  loading="lazy"
                   className={styles.image}
                 />
               </div>

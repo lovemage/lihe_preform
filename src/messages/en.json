@@ -13,8 +13,9 @@
   },
   "home": {
     "headline": "Precision PET Preform Mold Engineering",
-    "metaDescription": "High-performance PET preform molds, blow molds, hot runner systems, and multi-cavity injection mold tooling. 15,000 sqm precision manufacturing facility serving beverage packaging industries across 50+ countries.",
-    "subheadline": "From preform to bottle — high-performance PET preform molds, blow molds, and hot runner systems engineered for the world's leading beverage, food, and packaging manufacturers.",
+    "metaTitle": "Lihe Precision | PET Preform Mold & Blow Mold Engineering",
+    "metaDescription": "From preform to bottle: High-performance PET preform molds, blow molds, and hot runner systems. Coca-Cola verified mold supplier in the Asia region, serving beverage packaging industries across 50+ countries.",
+    "subheadline": "From preform to bottle: High-performance PET preform molds, blow molds, and hot runner systems engineered for the world's leading beverage, food, and packaging manufacturers. Coca-Cola verified mold supplier in the Asia region.",
     "exploreProducts": "Explore Products",
     "contactSales": "Contact Sales",
     "productCategories": "Product Categories",
@@ -36,7 +37,7 @@
   "about": {
     "title": "About Lihe Precision",
     "headline": "Engineering Precision. Delivering Performance.",
-    "metaDescription": "Foshan Lihe Precision Machinery Co., Ltd. is a specialized PET preform mold manufacturer in Guangdong, delivering high-precision tooling and reliable long-term production performance.",
+    "metaDescription": "LIHE Preform is headquartered in Taishan Town, Taiwan (R.O.C.), specializing in PET preform molds, blow molds, and hot runner systems. Coca-Cola verified mold supplier in the Asia region.",
     "companyIntroHeading": "Company Introduction",
     "whyLiheHeading": "Why Lihe",
     "whyLiheSub": "What sets us apart in the PET mold industry",
@@ -107,7 +108,9 @@
   },
   "footer": {
     "tagline": "Precision PET preform mold and blow mold solutions for the global beverage packaging industry.",
-    "copyright": "Foshan Lihe Precision Machinery Co.,Ltd. All rights reserved."
+    "copyright": "Foshan Lihe Precision Machinery Co.,Ltd. All rights reserved.",
+    "quickLinks": "Quick Links",
+    "contactTitle": "Contact"
   },
   "download": {
     "title": "Downloads",
