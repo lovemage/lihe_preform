@@ -5,6 +5,11 @@
   --color-accent: #c9a84c;
   --color-accent-light: #d4b96a;
   --color-accent-dark: #b08f3a;
+  --color-accent-subtle: rgba(201, 168, 76, 0.06);
+  --color-accent-bg: rgba(201, 168, 76, 0.08);
+  --color-primary-subtle: rgba(26, 54, 93, 0.04);
+  --color-steel: #4a7999;
+  --color-steel-light: #6a9ab8;
   --color-white: #fafbfd;
   --color-gray-50: #f5f7fa;
   --color-gray-100: #ebeef3;
@@ -63,6 +68,11 @@
     --color-accent: #d4b96a;
     --color-accent-light: #e0ca85;
     --color-accent-dark: #c9a84c;
+    --color-accent-subtle: rgba(212, 185, 106, 0.08);
+    --color-accent-bg: rgba(212, 185, 106, 0.1);
+    --color-primary-subtle: rgba(74, 124, 201, 0.06);
+    --color-steel: #6a9ab8;
+    --color-steel-light: #8ab8d4;
     --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.2);
     --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.3);
     --shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.4);

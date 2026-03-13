@@ -2,6 +2,7 @@
   background-color: var(--color-primary-dark);
   color: var(--color-gray-300);
   padding-top: var(--space-3xl);
+  border-top: 2px solid var(--color-accent);
 }
 
 .container {
@@ -92,6 +93,9 @@
 
 .footerLink:hover {
   color: var(--color-accent);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
 }
 
 /* Contact */

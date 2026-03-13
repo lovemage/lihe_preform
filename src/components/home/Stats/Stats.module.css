@@ -1,6 +1,8 @@
 .section {
-  background-color: var(--color-primary);
+  background: linear-gradient(135deg, var(--color-primary-dark) 0%, var(--color-primary) 50%, var(--color-primary-light) 100%);
   padding: var(--space-3xl) var(--container-padding);
+  border-top: 3px solid var(--color-accent);
+  border-bottom: 3px solid var(--color-accent);
 }
 
 .grid {
@@ -14,6 +16,17 @@
 .stat {
   text-align: center;
   padding: var(--space-lg);
+  position: relative;
+}
+
+.stat:not(:last-child)::after {
+  content: "";
+  position: absolute;
+  right: 0;
+  top: 20%;
+  height: 60%;
+  width: 1px;
+  background: rgba(255, 255, 255, 0.15);
 }
 
 .value {
@@ -39,6 +52,10 @@
   .grid {
     grid-template-columns: repeat(2, 1fr);
     gap: var(--space-lg);
+  }
+
+  .stat:not(:last-child)::after {
+    display: none;
   }
 
   .value {

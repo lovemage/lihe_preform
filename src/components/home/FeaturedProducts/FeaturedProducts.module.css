@@ -1,5 +1,6 @@
 .section {
   padding: var(--space-4xl) var(--container-padding);
+  background: var(--color-white);
 }
 
 .container {
@@ -21,11 +22,17 @@
   overflow: hidden;
   box-shadow: var(--shadow-sm);
   transition: transform var(--transition-base), box-shadow var(--transition-base);
+  border-top: 3px solid transparent;
 }
 
 .card:hover {
   transform: translateY(-4px) scale(1.02);
   box-shadow: var(--shadow-lg);
+  border-top-color: var(--color-accent);
+}
+
+.card:hover .more {
+  color: var(--color-accent);
 }
 
 .imageWrap {

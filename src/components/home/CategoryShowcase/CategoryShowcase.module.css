@@ -1,6 +1,7 @@
 .section {
   padding: var(--space-4xl) var(--container-padding);
-  background-color: var(--color-gray-50);
+  background: linear-gradient(180deg, var(--color-gray-50) 0%, var(--color-white) 100%);
+  border-bottom: 1px solid var(--color-gray-200);
 }
 
 .container {
@@ -30,6 +31,7 @@
 
 .card:hover {
   border-color: var(--color-accent);
+  box-shadow: 0 4px 20px rgba(201, 168, 76, 0.15);
 }
 
 .imageWrap {

@@ -4,6 +4,7 @@
   z-index: 100;
   background-color: var(--color-primary-dark);
   box-shadow: var(--shadow-md);
+  border-bottom: 2px solid var(--color-accent);
 }
 
 .container {
@@ -43,6 +44,7 @@
 }
 
 .navLink {
+  position: relative;
   display: flex;
   align-items: center;
   gap: 4px;
@@ -59,6 +61,23 @@
 .navLink:hover,
 .navLink.active {
   color: var(--color-accent);
+}
+
+.navLink::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: var(--space-md);
+  right: var(--space-md);
+  height: 2px;
+  background: var(--color-accent);
+  transform: scaleX(0);
+  transition: transform var(--transition-base);
+  border-radius: 1px;
+}
+
+.navLink:hover::after {
+  transform: scaleX(1);
 }
 
 .dropdownArrow {
