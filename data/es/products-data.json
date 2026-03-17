@@ -16,10 +16,16 @@
   "products": [
     {
       "id": 19,
-      "name": "Molde de preforma",
+      "name": "Molde de preforma PET",
       "category": "Molde de preforma",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/19.html",
-      "description": "Moldes de inyección de preformas PET de alta cavitación, diseñados para máxima producción y consistencia dimensional. Disponibles en configuraciones de 32 a 160 cavidades con soporte para acabados de cuello estándar incluyendo PCO 1716, PCO 1810, 3025, PCO 1881, 2925, 2622 y 38mm. Diseñados para integración perfecta con plataformas de máquinas de moldeo por inyección HUSKY, NETSTAL, SIPA y KATA. Ideales para la producción de preformas para botellas de agua mineral, CSD y envases de bebidas.",
+      "description": "Moldes de inyección de preformas PET de alta cavitación, diseñados para máxima producción y consistencia dimensional. Disponibles en configuraciones de 2 a 160 cavidades con soporte para acabados de cuello estándar incluyendo 1716, PCO1810, PCO1881, 3025, 2925, 2622, 2522, 38mm, 45mm, 68mm, 80mm, 90mm (tarros boca ancha), etc. Diseñados para integración perfecta con plataformas HUSKY, NETSTAL, SACMI, SIPA, Milacron y otras máquinas de moldeo por inyección. Ideales para la producción de preformas para botellas de agua mineral, CSD y envases de bebidas.",
+      "bullets": [
+        "Capacidad: De 2 a 160 cavidades.",
+        "Estándares: Soporte completo para PCO 1881, 1810, 2925, 2622, 2522, 38mm, 45mm, 68mm, 80mm, ROPP, etc. y acabados de cuello personalizados.",
+        "Capacidad anual: Más de 12.000 cavidades producidas al año.",
+        "Diseño: Optimizado para minimizar tiempos de ciclo y máxima consistencia en la distribución de resina."
+      ],
       "images": [
         {
           "src": "/images/products/17370998706850355.webp",
@@ -66,10 +72,15 @@
     },
     {
       "id": 34,
-      "name": "Molde de preforma",
+      "name": "Servicio de conversión de herramental",
       "category": "Molde de preforma",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/34.html",
-      "description": "Moldes de inyección de preformas PET de alta cavitación, diseñados para máxima producción y consistencia dimensional. Disponibles en configuraciones de 32 a 160 cavidades con soporte para acabados de cuello estándar incluyendo PCO 1716, PCO 1810, 3025, PCO 1881, 2925, 2622 y 38mm. Diseñados para integración perfecta con plataformas de máquinas de moldeo por inyección HUSKY, NETSTAL, SIPA y KATA. Ideales para la producción de preformas para botellas de agua mineral, CSD y envases de bebidas.",
+      "description": "Servicios expertos de conversión de herramental para sistemas de moldes de preformas PET. Fabricamos piezas de repuesto de alta precisión y mejoras de rendimiento para sus moldes existentes.",
+      "bullets": [
+        "Diseño: A partir de las piezas existentes del cliente de Husky/SACMI/Otto, fabricamos las mismas piezas para reemplazar en su molde existente sin complicaciones.",
+        "Ingeniería de rendimiento: Más allá del simple reemplazo, innovamos para mejorar su rentabilidad. Optimizamos la eficiencia de enfriamiento y las condiciones de soplado para reducir significativamente los tiempos de ciclo.",
+        "Mejoras estratégicas: Nos especializamos en conversiones de acabado de cuello y proyectos de aligeramiento, ayudándole a reducir el consumo de resina y cumplir objetivos ESG manteniendo la máxima integridad estructural."
+      ],
       "images": [
         {
           "src": "/images/products/17370998706850355.webp",
