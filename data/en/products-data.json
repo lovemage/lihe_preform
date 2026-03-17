@@ -72,10 +72,15 @@
     },
     {
       "id": 34,
-      "name": "Preform mold",
+      "name": "Tooling Conversion Service",
       "category": "Preform mold",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/34.html",
-      "description": "High-cavitation PET preform injection molds engineered for maximum output and dimensional consistency. Available in 32 to 160 multi-cavity mold configurations with support for standard neck finishes including PCO 1716, PCO 1810, 3025, PCO 1881, 2925, 2622, and 38mm. Designed for seamless integration with HUSKY, NETSTAL, SIPA, and KATA injection molding machine platforms. Ideal for mineral water bottle, CSD, and beverage packaging preform production.",
+      "description": "Expert tooling conversion services for PET preform mold systems. We deliver precision-engineered replacement parts and performance upgrades for your existing mold assets.",
+      "bullets": [
+        "Design: From customer existing parts from Husky/SACMI/Otto, we deliver same tooling parts for customer to replace on your existing mold without headache.",
+        "Performance Engineering: Beyond simple replacement, we innovate to improve your bottom line. We optimize cooling efficiency and blowing conditions to significantly shorten cycle times.",
+        "Strategic Upgrades: We specialize in neck finish conversions and lightweighting projects, helping you reduce resin consumption and meet ESG goals while maintaining peak structural integrity."
+      ],
       "images": [
         {
           "src": "/images/products/17370998706850355.webp",
