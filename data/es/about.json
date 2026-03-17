@@ -5,14 +5,22 @@
     "alt": "about-banner - Planta de fabricacion de Lihe Precision Machinery"
   },
   "headline": "Ingenieria de Precision. Rendimiento Garantizado.",
-  "companyIntro": "Foshan Lihe Precision Machinery Co., Ltd. es un fabricante especializado de moldes de preformas PET con sede en Foshan, provincia de Guangdong, uno de los principales centros de manufactura industrial de China. Operando desde una moderna planta de produccion de 15,000 m², disenamos y fabricamos moldes de preformas multicavidad, moldes de soplado, moldes de tapas, moldes de compresion, sistemas de canal caliente y componentes de mecanizado de precision para la industria global de envases para bebidas.",
-  "philosophy": "Nuestro equipo de ingenieria aporta decadas de experiencia practica en herramental de preformas PET e ingenieria de moldes de alta gama. Cada molde que entregamos es el resultado de una rigurosa validacion de diseno, mecanizado CNC avanzado e inspeccion integral de calidad, lo que garantiza un rendimiento consistente en cada ciclo, precision dimensional y una vida util prolongada. Colaboramos con nuestros clientes para optimizar las configuraciones de cavidades del molde segun sus plataformas especificas de moldeo por inyeccion, entornos de produccion y requisitos de envase.",
-  "business": "Nuestros moldes atienden a las industrias de bebidas, botellas de agua mineral, aceite comestible, farmaceutica, quimica de uso diario y envases PET de grado alimenticio en todo el mundo. Disenamos soluciones de envases para bebidas compatibles con las principales marcas de maquinas de moldeo por inyeccion, incluyendo HUSKY, SIDEL, KRONES, KHS, NETSTAL, SIPA, SACMI y mas, entregando moldes que se integran perfectamente en las lineas de produccion existentes.",
+  "companyIntro": "LIHE Preform es una empresa con sede en Taishan Town, Taiwán (R.O.C.), especializada en el diseño y fabricación de soluciones de moldeo para la industria del envase. En el mundo de alta velocidad del envasado de bebidas, entendemos que la consistencia es la base de la rentabilidad.",
+  "philosophy": "Como proveedor de moldes verificado por Coca-Cola en la región de Asia, nos especializamos en entregar moldes de alta cavitación que cumplen con los estándares globales más exigentes.",
+  "business": "Nuestras líneas de productos incluyen moldes de preformas PET, moldes de compresión, moldes de tapas, moldes de soplado y sistemas de canal caliente, entre otros. Visite nuestra sección de Productos para un catálogo completo. Para más información o para solicitar una cotización, no dude en contactarnos. Estamos listos para ser su socio estratégico en soluciones de moldeo.",
   "whyLihe": [
-    { "title": "Experiencia Comprobada", "description": "Mas de 20 anos de experiencia especializada en diseno de moldes de preformas PET y fabricacion de moldes multicavidad, con un equipo de ingenieros de I+D y especialistas en produccion altamente experimentados." },
-    { "title": "Manufactura de Precision", "description": "Equipos de clase mundial de Mazak, Makino y Okamoto, combinados con sistemas de metrologia Zeiss, garantizan que cada componente cumpla con las tolerancias mas exigentes." },
-    { "title": "Compatibilidad Global", "description": "Herramental de preformas disenado para una integracion perfecta con HUSKY, SIDEL, KRONES, KHS, NETSTAL, SIPA, SACMI y otras plataformas principales de maquinas de moldeo por inyeccion." },
-    { "title": "Servicio Integral", "description": "Desde la consulta inicial de diseno hasta la fabricacion, aseguramiento de calidad y soporte tecnico postventa: un unico punto de responsabilidad." }
+    {
+      "title": "Rendimiento de Calidad",
+      "description": "CPK ≥ 1.33 — Nuestro herramental logra consistentemente índices de capacidad de proceso que superan los estándares de la industria, asegurando una calidad de producción confiable y repetible."
+    },
+    {
+      "title": "Excelencia Operacional",
+      "description": "Tasas de defectos tan bajas como 0.0064% — La ingeniería de precisión y el riguroso control de calidad entregan resultados de fabricación prácticamente sin defectos."
+    },
+    {
+      "title": "Eficiencia Maximizada",
+      "description": "Tiempos de ciclo minimizados y costos de desperdicio significativamente reducidos para su planta — traduciéndose directamente en mayor rendimiento y menores gastos operativos."
+    }
   ],
   "values": [
     { "title": "Precision", "subtitle": "Exactitud en cada micra", "description": "Nos exigimos las tolerancias de fabricacion mas estrictas. Cada componente de molde se somete a inspecciones en multiples etapas para garantizar la integridad dimensional y un rendimiento de produccion repetible." },

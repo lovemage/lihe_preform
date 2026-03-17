@@ -19,6 +19,9 @@
       "head_sampling_rate": 1
     }
   },
+  "limits": {
+    "cpu_ms": 500
+  },
   "assets": {
     "directory": ".open-next/assets",
     "binding": "ASSETS"

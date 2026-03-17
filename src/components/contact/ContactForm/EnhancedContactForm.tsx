@@ -78,10 +78,19 @@ export default function EnhancedContactForm({ locale, productCategories, labels 
   async function loadCaptcha() {
     try {
       const res = await fetch(`/api/contact/captcha?locale=${locale}`);
-      const data = await res.json();
-      setCaptcha(data);
+      if (!res.ok) {
+        throw new Error(`CAPTCHA request failed (${res.status})`);
+      }
+      const data = (await res.json()) as { question?: string; token?: string; error?: string };
+      if (!data.question || !data.token) {
+        throw new Error(data.error || "Invalid CAPTCHA response");
+      }
+      setCaptcha({ question: data.question, token: data.token });
+      setError(null);
     } catch (err) {
       console.error("Failed to load CAPTCHA:", err);
+      setCaptcha(null);
+      setError(labels.errorMessage);
     }
   }
 
@@ -96,6 +105,10 @@ export default function EnhancedContactForm({ locale, productCategories, labels 
     setError(null);
 
     try {
+      if (!captcha?.token) {
+        throw new Error("CAPTCHA is not ready. Please refresh and try again.");
+      }
+
       const res = await fetch("/api/contact/submit", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
@@ -107,8 +120,14 @@ export default function EnhancedContactForm({ locale, productCategories, labels 
       });
 
       if (!res.ok) {
-        const errorData = await res.json();
-        throw new Error(errorData.error || "Failed to submit form");
+        let message = "Failed to submit form";
+        try {
+          const errorData = await res.json();
+          message = errorData.error || message;
+        } catch {
+          message = `Failed to submit form (${res.status})`;
+        }
+        throw new Error(message);
       }
 
       setSubmitted(true);
@@ -285,7 +304,7 @@ export default function EnhancedContactForm({ locale, productCategories, labels 
           </div>
         </div>
 
-        <Button type="submit" variant="primary" size="lg" disabled={loading}>
+        <Button type="submit" variant="primary" size="lg" disabled={loading || !captcha?.token}>
           {loading ? labels.sending : labels.submit}
         </Button>
       </form>

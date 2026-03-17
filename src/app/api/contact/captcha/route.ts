@@ -2,6 +2,20 @@ import { NextRequest, NextResponse } from "next/server";
 
 export const runtime = "edge";
 
+function encodeCaptchaToken(answer: number, timestamp: number): string {
+  const raw = `${answer}:${timestamp}`;
+
+  if (typeof btoa === "function") {
+    return btoa(raw);
+  }
+
+  if (typeof Buffer !== "undefined") {
+    return Buffer.from(raw, "utf-8").toString("base64");
+  }
+
+  throw new Error("No base64 encoder available in current runtime");
+}
+
 // Simple CAPTCHA generator
 function generateMathCaptcha(locale: string = "en") {
   const num1 = Math.floor(Math.random() * 10) + 1;
@@ -28,18 +42,23 @@ function generateMathCaptcha(locale: string = "en") {
       : `What is ${num1} minus ${num2}?`;
   }
 
-  // Create a simple token by encoding the answer with timestamp
+  // Encode answer with timestamp using Web APIs available in Edge runtime.
   const timestamp = Date.now();
-  const token = Buffer.from(`${answer}:${timestamp}`).toString('base64');
+  const token = encodeCaptchaToken(answer, timestamp);
 
   return { question, token };
 }
 
 export async function GET(request: NextRequest) {
-  const { searchParams } = new URL(request.url);
-  const locale = searchParams.get('locale') || 'en';
+  try {
+    const { searchParams } = new URL(request.url);
+    const locale = searchParams.get("locale") || "en";
 
-  const captcha = generateMathCaptcha(locale);
+    const captcha = generateMathCaptcha(locale);
 
-  return NextResponse.json(captcha);
+    return NextResponse.json(captcha);
+  } catch (error) {
+    console.error("Failed to generate CAPTCHA:", error);
+    return NextResponse.json({ error: "Failed to generate CAPTCHA" }, { status: 500 });
+  }
 }

@@ -183,12 +183,35 @@ const adminEmailTemplate = (data: any, locale: string) => `
 `;
 
 function verifyCaptcha(token: string, answer: string): boolean {
+  if (!token || !answer) {
+    return false;
+  }
+
   try {
-    const decoded = Buffer.from(token, 'base64').toString('utf-8');
+    const decoded = (() => {
+      if (typeof atob === "function") {
+        return atob(token);
+      }
+
+      if (typeof Buffer !== "undefined") {
+        return Buffer.from(token, "base64").toString("utf-8");
+      }
+
+      throw new Error("No base64 decoder available in current runtime");
+    })();
     const [correctAnswer, timestamp] = decoded.split(':');
 
+    if (!correctAnswer || !timestamp) {
+      return false;
+    }
+
     // Check if token is not older than 10 minutes
-    const tokenAge = Date.now() - parseInt(timestamp);
+    const issuedAt = Number.parseInt(timestamp, 10);
+    if (Number.isNaN(issuedAt)) {
+      return false;
+    }
+
+    const tokenAge = Date.now() - issuedAt;
     if (tokenAge > 10 * 60 * 1000) {
       return false;
     }

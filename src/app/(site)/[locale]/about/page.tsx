@@ -38,7 +38,7 @@ export default async function AboutPage({
   const tCommon = await getTranslations("common");
   const data = getAboutData(locale);
 
-  const whyIcons = ["01", "02", "03", "04"];
+  const whyIcons = ["01", "02", "03"];
 
   return (
     <div className={styles.page}>
