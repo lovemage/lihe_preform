@@ -1,7 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
 
-export const runtime = "edge";
-
 // Email templates
 const customerEmailTemplates = {
   en: (data: any) => `

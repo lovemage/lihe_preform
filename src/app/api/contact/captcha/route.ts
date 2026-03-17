@@ -1,7 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
 
-export const runtime = "edge";
-
 // Simple CAPTCHA generator
 function generateMathCaptcha(locale: string = "en") {
   const num1 = Math.floor(Math.random() * 10) + 1;
