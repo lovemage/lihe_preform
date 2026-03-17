@@ -67,7 +67,7 @@ export default async function ContactPage({
                 </svg>
               </div>
               <div className={styles.infoContent}>
-                <h3 className={styles.infoLabel}>Contact Person</h3>
+                <h3 className={styles.infoLabel}>{t("contactPersonLabel")}</h3>
                 <p className={styles.infoValue}>{data.contact.name}</p>
               </div>
             </div>
@@ -79,7 +79,7 @@ export default async function ContactPage({
                 </svg>
               </div>
               <div className={styles.infoContent}>
-                <h3 className={styles.infoLabel}>Phone</h3>
+                <h3 className={styles.infoLabel}>{t("phone")}</h3>
                 <p className={styles.infoValue}>
                   <a href={`tel:${data.contact.phone.replace(/\s/g, "")}`} className={styles.infoLink}>
                     {data.contact.phone}
@@ -96,7 +96,7 @@ export default async function ContactPage({
                 </svg>
               </div>
               <div className={styles.infoContent}>
-                <h3 className={styles.infoLabel}>Email</h3>
+                <h3 className={styles.infoLabel}>{t("email")}</h3>
                 <p className={styles.infoValue}>
                   <a href={`mailto:${data.contact.email}`} className={styles.infoLink}>
                     {data.contact.email}
@@ -113,7 +113,7 @@ export default async function ContactPage({
                 </svg>
               </div>
               <div className={styles.infoContent}>
-                <h3 className={styles.infoLabel}>Address</h3>
+                <h3 className={styles.infoLabel}>{t("addressLabel")}</h3>
                 <p className={styles.infoValue}>{data.contact.address}</p>
               </div>
             </div>
@@ -153,7 +153,7 @@ export default async function ContactPage({
               <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" />
               <circle cx="12" cy="10" r="3" />
             </svg>
-            <p className={styles.mapText}>Foshan, Guangdong Province, China</p>
+            <p className={styles.mapText}>{t("mapLocation")}</p>
           </div>
         </div>
       </div>

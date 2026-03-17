@@ -6,6 +6,7 @@ import { notFound } from "next/navigation";
 import { routing } from "@/i18n/routing";
 import { getSiteData } from "@/lib/data";
 import { getOpenGraphAlternateLocales, getOpenGraphLocale } from "@/lib/seo";
+import { siteIcons } from "@/lib/metadata/icons";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import JsonLd from "@/components/seo/JsonLd";
@@ -89,17 +90,7 @@ export async function generateMetadata({
     description:
       "High-performance PET preform molds, blow molds, compression molds, closure molds, and hot runner systems. Multi-cavity mold manufacturer serving beverage packaging industries across 50+ countries.",
     keywords: keywordsMap[locale] ?? keywordsMap.en,
-    icons: {
-      icon: [
-        {
-          url: "/images/logo/favicon.webp",
-          type: "image/webp",
-          sizes: "any",
-        },
-      ],
-      shortcut: ["/images/logo/favicon.webp"],
-      apple: ["/images/logo/favicon.webp"],
-    },
+    icons: siteIcons,
     openGraph: {
       type: "website",
       siteName: "Lihe Precision Machinery",
