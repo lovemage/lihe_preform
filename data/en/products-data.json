@@ -16,10 +16,16 @@
   "products": [
     {
       "id": 19,
-      "name": "Preform mold",
+      "name": "PET Preform Mold",
       "category": "Preform mold",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/19.html",
-      "description": "High-cavitation PET preform injection molds engineered for maximum output and dimensional consistency. Available in 32 to 160 multi-cavity mold configurations with support for standard neck finishes including PCO 1716, PCO 1810, 3025, PCO 1881, 2925, 2622, and 38mm. Designed for seamless integration with HUSKY, NETSTAL, SIPA, and KATA injection molding machine platforms. Ideal for mineral water bottle, CSD, and beverage packaging preform production.",
+      "description": "High-cavitation PET preform injection molds engineered for maximum output and dimensional consistency. Available in 2 to 160 multi-cavity mold configurations with support for standard neck finishes including 1716, PCO1810, PCO1881, 3025, 2925, 2622, 2522, 38mm, 45mm, 68mm, 80mm, 90mm wide mouth Jars…etc. Designed for seamless integration with HUSKY, NETSTAL, SACMI, SIPA, Milacron and other injection molding machine platforms. Ideal for mineral water bottle, CSD, and beverage packaging preform production.",
+      "bullets": [
+        "Capability: From 2 to 160 cavities.",
+        "Standards: Full support for PCO 1881, 1810, 2925, 2622, 2522, 38mm, 45mm, 68mm, 80mm, ROPP…etc and custom neck finishes.",
+        "Annual Capacity: Over 12,000 cavities produced yearly.",
+        "Design: Optimized for minimized cycle times and maximum resin distribution consistency."
+      ],
       "images": [
         {
           "src": "/images/products/17370998706850355.webp",

@@ -123,6 +123,13 @@ export default async function ProductDetailPage({
             <span className={styles.categoryBadge}>{product.category}</span>
             <h1 className={styles.productName}>{product.name}</h1>
             <p className={styles.description}>{product.description}</p>
+            {product.bullets && product.bullets.length > 0 && (
+              <ul className={styles.bulletList}>
+                {product.bullets.map((bullet: string) => (
+                  <li key={bullet} className={styles.bulletItem}>{bullet}</li>
+                ))}
+              </ul>
+            )}
             <div className={styles.actions}>
               <Button href="/contact" variant="primary" size="lg">
                 {t("requestQuote")}
