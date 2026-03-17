@@ -188,18 +188,7 @@ function verifyCaptcha(token: string, answer: string): boolean {
   }
 
   try {
-    const decoded = (() => {
-      if (typeof atob === "function") {
-        return atob(token);
-      }
-
-      if (typeof Buffer !== "undefined") {
-        return Buffer.from(token, "base64").toString("utf-8");
-      }
-
-      throw new Error("No base64 decoder available in current runtime");
-    })();
-    const [correctAnswer, timestamp] = decoded.split(':');
+    const [correctAnswer, timestamp] = token.split(':');
 
     if (!correctAnswer || !timestamp) {
       return false;

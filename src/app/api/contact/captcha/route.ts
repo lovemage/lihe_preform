@@ -2,20 +2,6 @@ import { NextRequest, NextResponse } from "next/server";
 
 export const runtime = "edge";
 
-function encodeCaptchaToken(answer: number, timestamp: number): string {
-  const raw = `${answer}:${timestamp}`;
-
-  if (typeof btoa === "function") {
-    return btoa(raw);
-  }
-
-  if (typeof Buffer !== "undefined") {
-    return Buffer.from(raw, "utf-8").toString("base64");
-  }
-
-  throw new Error("No base64 encoder available in current runtime");
-}
-
 // Simple CAPTCHA generator
 function generateMathCaptcha(locale: string = "en") {
   const num1 = Math.floor(Math.random() * 10) + 1;
@@ -42,9 +28,9 @@ function generateMathCaptcha(locale: string = "en") {
       : `What is ${num1} minus ${num2}?`;
   }
 
-  // Encode answer with timestamp using Web APIs available in Edge runtime.
+  // Use plain token to avoid runtime-specific base64 APIs across edge providers.
   const timestamp = Date.now();
-  const token = encodeCaptchaToken(answer, timestamp);
+  const token = `${answer}:${timestamp}`;
 
   return { question, token };
 }
