@@ -7,6 +7,7 @@ import styles from "./MoldHighlights.module.css";
 type HighlightItem = {
   title: string;
   content: string;
+  bullets?: string[];
 };
 
 type MoldHighlightsProps = {
@@ -60,6 +61,13 @@ export default function MoldHighlights({
                     <div className={styles.panel} id={`mold-panel-${index}`} role="region" aria-labelledby={`mold-trigger-${index}`}>
                       <div className={styles.panelInner}>
                         <p className={styles.panelText}>{item.content}</p>
+                        {item.bullets && item.bullets.length > 0 && (
+                          <ul className={styles.bulletList}>
+                            {item.bullets.map((bullet) => (
+                              <li key={bullet} className={styles.bulletItem}>{bullet}</li>
+                            ))}
+                          </ul>
+                        )}
                       </div>
                     </div>
                   </div>

@@ -1,7 +1,7 @@
 {
   "hero": {
-    "headline": "Precision PET Preform Mold Engineering",
-    "subheadline": "From preform to bottle: High-performance PET preform molds, blow molds, and hot runner systems engineered for the world's leading beverage, food, and packaging manufacturers. Coca-Cola verified mold supplier in the Asia region.",
+    "headline": "Global Leader in High-Performance Mold Solutions",
+    "subheadline": "Excellence Engineered. Consistency Delivered. Foshan LIHE Precise Machinery Co., Ltd is a premier manufacturer specializing in high-precision PET mold solutions for the global beverage, food, and packaging industries.",
     "cta": { "label": "Explore Products", "href": "/products" },
     "ctaSecondary": { "label": "Contact Sales", "href": "/contact" }
   },
@@ -53,33 +53,48 @@
     { "name": "QC Equipment", "description": "Zeiss CMM, 3D profile scanners, and dedicated bottle inspection systems.", "image": "/images/home/qc-equipment.webp", "alt": "qc-equipment - Zeiss quality control measurement system", "href": "/equipment/qc" }
   ],
   "moldHighlights": {
-    "title": "LIHE PET Preform Injection Molds",
-    "description": "LIHE PET preform injection molds deliver exceptional performance for the beverage and packaging industries. Our tooling solutions ensure high efficiency, reliability, and seamless integration for global customers.",
-    "accordionTitle": "Why Choose LIHE Molds?",
+    "title": "LIHE PRECISION",
+    "description": "As a Coca-Cola verified supplier in the Asia region, we carry a legacy of engineering excellence, combining decades of foundational expertise with modern, data-driven manufacturing processes. Our mission is to be the strongest technical backbone for our partners, transforming complex technical requirements into high-efficiency production realities.",
+    "accordionTitle": "Why Choose LIHE?",
     "items": [
       {
-        "title": "Wide Range of Cavities",
-        "content": "We provide advanced mold designs from 2 to 160 cavities to meet your specific production needs."
+        "title": "Universal Compatibility & System Retrofitting",
+        "content": "LIHE Precision empowers manufacturers to optimize their existing assets with high-quality, third-party compatible components.",
+        "bullets": [
+          "Interchangeable Parts: 100% interchangeable conversion parts for Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps, and Corvaglia systems.",
+          "Advanced Hot Runner Systems: Husky Ultra design with an industry-leading 3-year leakage-proof guarantee.",
+          "Project Retrofitting: Complete mold overhauls and performance upgrades to restore aging assets to OEM-level efficiency."
+        ]
       },
       {
-        "title": "Reliable Hot Runner Systems",
-        "content": "Our Hot Runner systems (2 to 160 cavities) feature a specialized design with a 3-year leakage-proof guarantee."
+        "title": "Uncompromising Quality Control",
+        "content": "We quantify our quality to ensure absolute reliability on your production floor.",
+        "bullets": [
+          "Precision Benchmarking: Tooling consistently achieves a CPK ≥ 1.33.",
+          "Reliability: Operational defect rates maintained as low as 0.0064%.",
+          "Durability: Built to withstand up to 8 million shots on Husky/SACMI/Netstal platforms.",
+          "Metrology: In-house laboratory equipped with Zeiss CMM (Coordinate Measuring Machines) for impartial validation reports."
+        ]
       },
       {
-        "title": "Standard Neck Finish Support",
-        "content": "We support all major industry standards, including PCO 1881, PCO 1810, PCO 1716, 3025, 2925, 2622, 2522, Alaska, 38mm, 48mm, 69mm, 89mm, and other customized neck finish."
+        "title": "Sustainability & Lightweighting (ESG Solutions)",
+        "content": "In response to global environmental trends, LIHE provides R&D-driven solutions to reduce plastic consumption and operational costs.",
+        "bullets": [
+          "Material Savings: Lightweighting proposals help clients reduce preform weight by 1g to 2g through neck or wall-thickness optimization.",
+          "Superior ROI: Retrofitting existing molds for lightweighting costs only 25%–40% of a new mold price, with a short payback period.",
+          "Thermal Management: Optimized cooling structures can reduce neck cooling time by up to 0.5 seconds, accelerating throughput."
+        ]
       },
       {
-        "title": "High Precision & Consistency",
-        "content": "We offer flexible configurations with the industry’s lowest dimensional variability, ensuring stable preform quality."
-      },
-      {
-        "title": "Compatibility with Global Brands",
-        "content": "LIHE provides superior solutions and parts for customers currently using Husky, SACMI, SIPA, or NETSTAL systems."
-      },
-      {
-        "title": "Universal Conversion Capability",
-        "content": "We engineer high-precision conversion parts for all major international mold brands, ensuring seamless integration with your existing equipment."
+        "title": "Agile Supply Chain & Global Support",
+        "content": "We offer some of the most aggressive lead times in the industry to keep your production lines moving.",
+        "bullets": [
+          "Pilot Molds: 20 Days",
+          "Standard PET Molds: 8 Weeks",
+          "Replacement Parts: 4 Weeks",
+          "Cap Mold Parts: 4 Weeks",
+          "After-Sales: Dedicated technical team provides on-site machine interface audits, mold installation, machine start-up support, and regular preventive maintenance."
+        ]
       }
     ]
   },

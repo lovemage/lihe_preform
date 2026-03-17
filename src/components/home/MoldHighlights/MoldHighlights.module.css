@@ -145,10 +145,40 @@
 
 .panelText {
   margin: 0;
-  padding: 0 1.25rem 1.25rem;
+  padding: 0 1.25rem 0.5rem;
   color: var(--color-gray-600);
   font-size: 0.97rem;
   line-height: 1.8;
+}
+
+.bulletList {
+  margin: 0;
+  padding: 0 1.25rem 1.25rem 2.25rem;
+  list-style: none;
+}
+
+.bulletItem {
+  position: relative;
+  padding-left: 1rem;
+  margin-bottom: 0.5rem;
+  color: var(--color-gray-600);
+  font-size: 0.93rem;
+  line-height: 1.7;
+}
+
+.bulletItem::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.6em;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--color-accent);
+}
+
+.bulletItem:last-child {
+  margin-bottom: 0;
 }
 
 @media (max-width: 1024px) {
