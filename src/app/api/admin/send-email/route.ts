@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import { verifyAuth } from "@/lib/auth";
+import { sendResendEmail } from "@/lib/email/resend";
 
 export const runtime = "edge";
 
@@ -34,54 +35,17 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    // TODO: Integrate with Resend API
-    // For now, this is a placeholder that logs the email
-    console.log("=== SENDING EMAIL VIA RESEND ===");
-    console.log("From: sales@lihe-preform.com");
-    console.log("To:", to);
-    console.log("Subject:", subject);
-    console.log("HTML:", html.substring(0, 200) + "...");
-    console.log("================================");
-
-    // Example Resend integration (uncomment when ready):
-    /*
-    const RESEND_API_KEY = process.env.RESEND_API_KEY;
-
-    const response = await fetch('https://api.resend.com/emails', {
-      method: 'POST',
-      headers: {
-        'Authorization': `Bearer ${RESEND_API_KEY}`,
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({
-        from: 'Lihe Precision <sales@lihe-preform.com>',
-        to: [to],
-        subject: subject,
-        html: html,
-      }),
+    const result = await sendResendEmail({
+      to,
+      subject,
+      html,
+      from: "Lihe Precision <sales@lihe-preform.com>",
+      replyTo: "sales@lihe-preform.com",
     });
 
-    if (!response.ok) {
-      const error = await response.json();
-      throw new Error(error.message || 'Failed to send email via Resend');
-    }
-
-    const result = await response.json();
     return NextResponse.json({
       success: true,
-      messageId: result.id
-    });
-    */
-
-    // Placeholder response
-    return NextResponse.json({
-      success: true,
-      message: "Email queued for sending (Resend integration pending)",
-      preview: {
-        from: "sales@lihe-preform.com",
-        to,
-        subject,
-      },
+      messageId: result.id,
     });
   } catch (error) {
     console.error("Error sending email:", error);

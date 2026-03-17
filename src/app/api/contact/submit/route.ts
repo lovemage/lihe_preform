@@ -1,4 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
+import { sendResendEmail } from "@/lib/email/resend";
 
 // Email templates
 const customerEmailTemplates = {
@@ -210,30 +211,12 @@ function verifyCaptcha(token: string, answer: string): boolean {
 }
 
 async function sendEmail(to: string, subject: string, html: string) {
-  // This is a placeholder for email sending
-  // In production, you would integrate with:
-  // - Cloudflare Email Routing + Workers
-  // - SendGrid
-  // - AWS SES
-  // - Mailgun
-  // - etc.
-
-  // For now, we'll log the email content
-  console.log('=== EMAIL SEND ===');
-  console.log('To:', to);
-  console.log('Subject:', subject);
-  console.log('HTML:', html.substring(0, 200) + '...');
-  console.log('==================');
-
-  // TODO: Replace with actual email sending service
-  // Example with fetch to an email API:
-  // const response = await fetch('YOUR_EMAIL_API_ENDPOINT', {
-  //   method: 'POST',
-  //   headers: { 'Content-Type': 'application/json' },
-  //   body: JSON.stringify({ to, subject, html })
-  // });
-
-  return { success: true };
+  return sendResendEmail({
+    to,
+    subject,
+    html,
+    from: "Lihe Precision <sales@lihe-preform.com>",
+  });
 }
 
 export async function POST(request: NextRequest) {
@@ -290,7 +273,13 @@ export async function POST(request: NextRequest) {
 
     // Send notification to admin
     const adminSubject = `New Contact Form Submission from ${firstName} ${familyName}`;
-    await sendEmail('sales@lihe-preform.com', adminSubject, adminEmailTemplate(data, locale));
+    await sendResendEmail({
+      to: "sales@lihe-preform.com",
+      subject: adminSubject,
+      html: adminEmailTemplate(data, locale),
+      from: "Lihe Precision <sales@lihe-preform.com>",
+      replyTo: email,
+    });
 
     return NextResponse.json({ success: true });
   } catch (error) {
