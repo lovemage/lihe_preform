@@ -1,5 +1,5 @@
 .section {
-  padding: var(--space-4xl) var(--container-padding);
+  padding: clamp(4rem, 8vw, 7rem) var(--container-padding);
   background: var(--color-white);
 }
 
@@ -20,14 +20,14 @@
   background: var(--color-white);
   border-radius: var(--radius-md);
   overflow: hidden;
-  box-shadow: var(--shadow-sm);
-  transition: transform var(--transition-base), box-shadow var(--transition-base);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+  transition: transform 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94), box-shadow 0.3s ease;
   border-top: 3px solid transparent;
 }
 
 .card:hover {
-  transform: translateY(-4px) scale(1.02);
-  box-shadow: var(--shadow-lg);
+  transform: translateY(-6px);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.1);
   border-top-color: var(--color-accent);
 }
 
@@ -47,11 +47,11 @@
   width: 100%;
   height: 100%;
   object-fit: cover;
-  transition: transform 0.4s ease;
+  transition: transform 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
 
 .card:hover .image {
-  transform: scale(1.05);
+  transform: scale(1.07);
 }
 
 .info {
@@ -86,6 +86,7 @@
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.05em;
+  transition: color var(--transition-fast);
 }
 
 @media (max-width: 768px) {

@@ -24,7 +24,7 @@ export default function FeaturedProducts({
   return (
     <section className={styles.section}>
       <div className={styles.container}>
-        <SectionHeading title={title} subtitle={subtitle} />
+        <SectionHeading title={title} subtitle={subtitle} variant="subtle" />
         <div className={styles.grid}>
           {products.map((product) => (
             <Link

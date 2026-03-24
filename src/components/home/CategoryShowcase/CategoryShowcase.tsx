@@ -25,7 +25,7 @@ export default function CategoryShowcase({
   return (
     <section className={styles.section}>
       <div className={styles.container}>
-        <SectionHeading title={title} subtitle={subtitle} />
+        <SectionHeading title={title} subtitle={subtitle} variant="none" />
         <div className={styles.grid}>
           {categories.map((cat) => (
             <Link key={cat.name} href={cat.href} className={styles.card}>

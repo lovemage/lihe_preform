@@ -52,14 +52,25 @@
 .sm {
   padding: 0.4rem 1rem;
   font-size: 0.85rem;
+  min-height: 36px;
 }
 
 .md {
   padding: 0.6rem 1.5rem;
   font-size: 1rem;
+  min-height: 40px;
 }
 
 .lg {
-  padding: 0.8rem 2rem;
+  padding: 0.85rem 2.25rem;
   font-size: 1.1rem;
+  min-height: 48px;
+}
+
+@media (max-width: 768px) {
+  .lg {
+    padding: 0.85rem 1.75rem;
+    font-size: 1rem;
+    min-height: 48px;
+  }
 }

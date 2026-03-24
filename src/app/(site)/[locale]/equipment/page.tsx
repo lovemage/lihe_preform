@@ -81,6 +81,7 @@ export default async function EquipmentPage({
           <SectionHeading
             title={t("ourEquipment")}
             subtitle={t("ourEquipmentSub")}
+            variant="subtle"
           />
           <div className={styles.categoryGrid}>
             {data.categories.map(

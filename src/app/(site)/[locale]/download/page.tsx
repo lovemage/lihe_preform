@@ -52,7 +52,7 @@ export default async function DownloadPage({
         />
 
         <div className={styles.headingWrapper}>
-          <SectionHeading title={t("title")} subtitle={t("subtitle")} as="h1" />
+          <SectionHeading title={t("title")} subtitle={t("subtitle")} as="h1" variant="none" />
         </div>
 
         <div className={styles.placeholder}>

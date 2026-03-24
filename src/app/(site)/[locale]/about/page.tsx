@@ -72,7 +72,7 @@ export default async function AboutPage({
       {/* Company Introduction */}
       <section className={styles.section}>
         <div className={styles.container}>
-          <SectionHeading title={t("companyIntroHeading")} />
+          <SectionHeading title={t("companyIntroHeading")} variant="none" />
           <div className={styles.introContent}>
             <p className={styles.introParagraph}>{data.companyIntro}</p>
             <p className={styles.introParagraph}>{data.philosophy}</p>
@@ -89,6 +89,7 @@ export default async function AboutPage({
           <SectionHeading
             title={t("whyLiheHeading")}
             subtitle={t("whyLiheSub")}
+            variant="subtle"
           />
           <div className={styles.whyGrid}>
             {data.whyLihe.map(
@@ -113,6 +114,7 @@ export default async function AboutPage({
           <SectionHeading
             title={t("valuesHeading")}
             subtitle={t("valuesSub")}
+            variant="none"
           />
           <div className={styles.valuesGrid}>
             {data.values.map(

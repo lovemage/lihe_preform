@@ -5,6 +5,7 @@ type SectionHeadingProps = {
   subtitle?: string;
   align?: "left" | "center";
   as?: "h1" | "h2";
+  variant?: "bar" | "subtle" | "none";
 };
 
 export default function SectionHeading({
@@ -12,13 +13,19 @@ export default function SectionHeading({
   subtitle,
   align = "center",
   as = "h2",
+  variant = "bar",
 }: SectionHeadingProps) {
   const HeadingTag = as;
 
   return (
     <div className={`${styles.heading} ${styles[align]}`}>
       <HeadingTag className={styles.title}>{title}</HeadingTag>
-      <div className={styles.accent} aria-hidden="true" />
+      {variant === "bar" && (
+        <div className={styles.accent} aria-hidden="true" />
+      )}
+      {variant === "subtle" && (
+        <div className={styles.accentSubtle} aria-hidden="true" />
+      )}
       {subtitle && <p className={styles.subtitle}>{subtitle}</p>}
     </div>
   );

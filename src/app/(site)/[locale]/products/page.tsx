@@ -49,7 +49,7 @@ export default async function ProductsPage({
         />
 
         <div className={styles.headingWrapper}>
-          <SectionHeading title={t("title")} as="h1" />
+          <SectionHeading title={t("title")} as="h1" variant="none" />
         </div>
 
         <ProductsClientWrapper

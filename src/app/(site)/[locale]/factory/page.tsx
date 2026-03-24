@@ -130,7 +130,7 @@ export default async function FactoryPage({
               className={`${styles.section} ${index % 2 === 0 ? styles.sectionAlt : ""}`}
             >
               <div className={styles.container}>
-                <SectionHeading title={section.title} />
+                <SectionHeading title={section.title} variant="none" />
                 <p className={styles.sectionIntro}>{section.description}</p>
                 <div className={styles.itemsGrid}>
                   {section.items.map((item, itemIndex) => (

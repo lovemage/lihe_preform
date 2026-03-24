@@ -86,6 +86,7 @@ export default async function QCEquipmentPage({
           <SectionHeading
             title={t("keyCapabilities")}
             subtitle={t("keyCapabilitiesSub")}
+            variant="subtle"
           />
           <ul className={styles.highlightsList}>
             {category.highlights.map((highlight: string, index: number) => (
@@ -104,6 +105,7 @@ export default async function QCEquipmentPage({
           <SectionHeading
             title={t("gallery")}
             subtitle={t("gallerySub")}
+            variant="none"
           />
           <div className={styles.galleryWrapper}>
             <ImageGallery images={category.images} />

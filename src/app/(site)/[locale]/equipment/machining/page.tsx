@@ -86,6 +86,7 @@ export default async function MachiningEquipmentPage({
           <SectionHeading
             title={t("keyCapabilitiesMachining")}
             subtitle={t("keyCapabilitiesSubMachining")}
+            variant="subtle"
           />
           <ul className={styles.highlightsList}>
             {category.highlights.map((highlight: string, index: number) => (
@@ -104,6 +105,7 @@ export default async function MachiningEquipmentPage({
           <SectionHeading
             title={t("gallery")}
             subtitle={t("gallerySubMachining")}
+            variant="none"
           />
           <div className={styles.galleryWrapper}>
             <ImageGallery images={category.images} />
