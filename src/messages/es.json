@@ -26,7 +26,9 @@
     "featuredProductsSub": "Nuestros sistemas de moldes PET más solicitados, avalados por líderes de la industria de envases para bebidas en todo el mundo.",
     "manufacturing": "Fabricación de Clase Mundial",
     "manufacturingSub": "Una planta de 15.000 m² equipada con sistemas CNC de precisión, EDM y metrología de Mazak, Makino y Zeiss.",
-    "more": "MÁS"
+    "more": "MÁS",
+    "viewAllProducts": "Ver Todos los Productos",
+    "skipIntro": "Saltar intro"
   },
   "stats": {
     "facility": "m² de Planta de Producción",

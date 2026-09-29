@@ -26,7 +26,9 @@
     "featuredProductsSub": "Our most requested PET mold systems trusted by beverage packaging industry leaders worldwide.",
     "manufacturing": "World-Class Manufacturing",
     "manufacturingSub": "A 15,000 sqm facility equipped with precision CNC, EDM, and metrology systems from Mazak, Makino, and Zeiss.",
-    "more": "MORE"
+    "more": "MORE",
+    "viewAllProducts": "View All Products",
+    "skipIntro": "Skip intro"
   },
   "stats": {
     "facility": "sqm Production Facility",

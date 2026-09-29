@@ -8,6 +8,10 @@ import MoldHighlights from "@/components/home/MoldHighlights";
 import CategoryShowcase from "@/components/home/CategoryShowcase";
 import FeaturedProducts from "@/components/home/FeaturedProducts";
 
+// Curated for the home page: one visually distinct product shot per card.
+// The first ID is rendered as the large feature card.
+const FEATURED_PRODUCT_IDS = [19, 21, 20, 22, 25, 31, 27, 28, 38];
+
 export async function generateMetadata({
   params,
 }: {
@@ -35,6 +39,17 @@ export default async function HomePage({
   const tStats = await getTranslations("stats");
   const homeData = getHomeData(locale);
   const productsData = getProductsData(locale);
+  const productsById = new Map(
+    productsData.products.map((p: { id: number }) => [p.id, p]),
+  );
+  const seenThumbnails = new Set<string>();
+  const featuredProducts = FEATURED_PRODUCT_IDS.map((id) => productsById.get(id))
+    .filter((p): p is (typeof productsData.products)[number] => Boolean(p))
+    .filter((p) => {
+      if (seenThumbnails.has(p.thumbnail.src)) return false;
+      seenThumbnails.add(p.thumbnail.src);
+      return true;
+    });
 
   const statsTranslationKeys = [
     "facility",
@@ -51,13 +66,13 @@ export default async function HomePage({
   return (
     <>
       <HeroBanner
-        banners={homeData.banners}
         headline={t("headline")}
         subheadline={t("subheadline")}
         ctaLabel={t("exploreProducts")}
         ctaHref="/products"
         ctaSecondaryLabel={t("contactSales")}
         ctaSecondaryHref="/contact"
+        skipLabel={t("skipIntro")}
       />
       <Stats stats={stats} />
       <MoldHighlights
@@ -72,9 +87,11 @@ export default async function HomePage({
         subtitle={t("coreCapabilitiesSub")}
       />
       <FeaturedProducts
-        products={productsData.products.slice(0, 8)}
+        products={featuredProducts}
         title={t("featuredProducts")}
         subtitle={t("featuredProductsSub")}
+        moreLabel={t("more")}
+        viewAllLabel={t("viewAllProducts")}
       />
     </>
   );
