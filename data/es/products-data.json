@@ -46,31 +46,6 @@
       }
     },
     {
-      "id": 35,
-      "name": "Molde de preforma",
-      "category": "Molde de preforma",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/35.html",
-      "description": "Moldes de inyección de preformas PET de alta cavitación, diseñados para máxima producción y consistencia dimensional. Disponibles en configuraciones de 32 a 160 cavidades con soporte para acabados de cuello estándar incluyendo PCO 1716, PCO 1810, 3025, PCO 1881, 2925, 2622 y 38mm. Diseñados para integración perfecta con plataformas de máquinas de moldeo por inyección HUSKY, NETSTAL, SIPA y KATA. Ideales para la producción de preformas para botellas de agua mineral, CSD y envases de bebidas.",
-      "images": [
-        {
-          "src": "/images/products/17370998706850355.webp",
-          "alt": "17370998706850355 - Molde de preforma"
-        },
-        {
-          "src": "/images/products/17391796912408500.webp",
-          "alt": "17391796912408500 - Molde de preforma"
-        },
-        {
-          "src": "/images/products/17370999196920116.webp",
-          "alt": "17370999196920116 - Molde de preforma"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394357737098755.webp",
-        "alt": "17394357737098755 - Molde de preforma"
-      }
-    },
-    {
       "id": 34,
       "name": "Servicio de conversión de herramental",
       "category": "Molde de preforma",
@@ -105,7 +80,14 @@
       "name": "Molde de compresión",
       "category": "Molde de compresión",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/21.html",
-      "description": "Moldes de compresión de precisión para producción de tapas a alta velocidad. Diseñados para máquinas de moldeo por compresión SACMI y plataformas de moldeo por inyección compatibles, ofreciendo calidad constante de tapas PET de grado alimenticio a velocidades de producción. Compatible con aplicaciones de envases de bebidas, aceite comestible y cosméticos.",
+      "description": "Moldes de compresión para la producción de tapas plásticas a alta velocidad en máquinas de moldeo por compresión continua SACMI CCM. Cada cavidad recibe una dosis de resina fundida con peso exacto y se conforma a alta presión; la menor temperatura de proceso permite un enfriamiento más rápido, ciclos más cortos y menor consumo energético que la inyección convencional. Aptos para tapas de bebidas, aceite comestible, condimentos y cosméticos.",
+      "bullets": [
+        "Plataforma: Diseñados para líneas de compresión SACMI CCM; también fabricamos utillaje de reemplazo a partir de las piezas existentes del cliente.",
+        "Ventaja de proceso: La menor temperatura de extrusión acorta el enfriamiento, aumenta la producción y reduce el consumo energético por tapa.",
+        "Tipos de tapa: Tapas de una y dos piezas, incluidas bandas de garantía y diseños tethered conforme a la normativa de la UE.",
+        "Cuellos: 26mm, 28mm, 2925, 3025, 38mm y especificaciones personalizadas.",
+        "Componentes: Punzones, matrices, machos, insertos de refrigeración y piezas de desgaste mecanizados e inspeccionados internamente."
+      ],
       "images": [
         {
           "src": "/images/products/17370982241948178.webp",
@@ -126,36 +108,18 @@
       }
     },
     {
-      "id": 32,
-      "name": "Molde de compresión",
-      "category": "Molde de compresión",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/32.html",
-      "description": "Moldes de compresión de precisión para producción de tapas a alta velocidad. Diseñados para máquinas de moldeo por compresión SACMI y plataformas de moldeo por inyección compatibles, ofreciendo calidad constante de tapas PET de grado alimenticio a velocidades de producción. Compatible con aplicaciones de envases de bebidas, aceite comestible y cosméticos.",
-      "images": [
-        {
-          "src": "/images/products/17370982241948178.webp",
-          "alt": "17370982241948178 - Molde de compresión"
-        },
-        {
-          "src": "/images/products/17370982246598310.webp",
-          "alt": "17370982246598310 - Molde de compresión"
-        },
-        {
-          "src": "/images/products/17370982252775161.webp",
-          "alt": "17370982252775161 - Molde de compresión"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394351509457198.webp",
-        "alt": "17394351509457198 - Molde de compresión"
-      }
-    },
-    {
       "id": 20,
       "name": "Molde de tapas",
       "category": "Molde de tapas",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/20.html",
-      "description": "Moldes de tapas por inyección y compresión para diseños de tapas de una y dos piezas, incluyendo configuraciones compatibles con tapas adheridas según normativa de la UE. Disponibles en configuraciones de 12 a 72 cavidades con soporte para especificaciones de acabado de cuello de 26mm, 28mm, 2925, 3025 y 38mm. Aptos para envases de bebidas, aceite comestible, condimentos, cosméticos, productos farmacéuticos y aplicaciones PET de grado alimenticio. Compatible con las principales máquinas de moldeo por inyección de tapas y sistemas de compresión SACMI.",
+      "description": "Moldes multicavidad para tapas de una y dos piezas, incluidos diseños tethered conforme a la normativa de la UE. Disponibles de 12 a 72 cavidades para cuellos de 26mm, 28mm, 2925, 3025 y 38mm, compatibles con las principales inyectoras de tapas y con máquinas de compresión SACMI. Se utilizan en agua, zumos y tés, aceite comestible, condimentos y salsa de soja, cosméticos, productos de salud, farmacéuticos y alimentos.",
+      "bullets": [
+        "Cavidades: De 12 a 72 cavidades.",
+        "Especificaciones: Tapas de una y dos piezas, bandas de garantía y configuraciones tethered para la UE.",
+        "Cuellos: 26mm, 28mm, 2925, 3025, 38mm y acabados personalizados.",
+        "Compatibilidad: Principales inyectoras de tapas y máquinas de compresión SACMI.",
+        "Canal caliente opcional: Sistemas de canal caliente para tapas de hasta 96 cavidades con llenado equilibrado."
+      ],
       "images": [
         {
           "src": "/images/products/17370980811159636.webp",
@@ -172,41 +136,19 @@
       }
     },
     {
-      "id": 33,
-      "name": "Molde de tapas",
-      "category": "Molde de tapas",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/33.html",
-      "description": "Moldes de tapas por inyección y compresión para diseños de tapas de una y dos piezas, incluyendo configuraciones compatibles con tapas adheridas según normativa de la UE. Disponibles en configuraciones de 12 a 72 cavidades con soporte para especificaciones de acabado de cuello de 26mm, 28mm, 2925, 3025 y 38mm. Aptos para envases de bebidas, aceite comestible, condimentos, cosméticos, productos farmacéuticos y aplicaciones PET de grado alimenticio. Compatible con las principales máquinas de moldeo por inyección de tapas y sistemas de compresión SACMI.",
-      "images": [
-        {
-          "src": "/images/products/17370980811159636.webp",
-          "alt": "17370980811159636 - Molde de tapas"
-        },
-        {
-          "src": "/images/products/17370980811973864.webp",
-          "alt": "17370980811973864 - Molde de tapas"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394353898105291.webp",
-        "alt": "17394353898105291 - Molde de tapas"
-      }
-    },
-    {
       "id": 22,
       "name": "Molde de soplado",
       "category": "Molde de soplado",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/22.html",
-      "description": "Moldes de soplado PET para procesos de moldeo por soplado de dos etapas y una etapa. Diseñados para plataformas de equipos líderes incluyendo SIDEL, KRONES, KHS, TECH-LONG, NEWAMSTAR (dos etapas) y SIPA, ASB, AOKI (una etapa). Al servicio de la industria de envases de bebidas con soluciones para botellas de agua mineral, envases CSD, llenado en caliente y botellas asépticas, así como PET de grado alimenticio, aceite comestible, cosméticos, artículos de tocador y envases farmacéuticos. Compatible con diseños de aligeramiento y optimización de espesor de pared.",
+      "description": "Moldes de soplado PET para procesos de estirado-soplado de una y dos etapas. Diseñados para máquinas de dos etapas SIDEL, KRONES, SIG/KHS, TECH-LONG y NEWAMSTAR y de una etapa SIPA, ASB y AOKI. Cubren botellas de agua, bebidas carbonatadas, llenado en caliente y asépticas, así como envases para alimentos, aceite comestible, condimentos, cosméticos, artículos de higiene y farmacéuticos, desde el diseño de la botella y la adaptación de la preforma hasta el molde terminado.",
+      "bullets": [
+        "Compatibilidad: Máquinas de dos etapas: SIDEL, KRONES, SIG/KHS, TECH-LONG, NEWAMSTAR; de una etapa: SIPA, ASB, AOKI.",
+        "Bebidas: Botellas PET de agua, bebidas carbonatadas, llenado en caliente y asépticas.",
+        "Otros envases: Alimentos, aceite comestible, condimentos, cosméticos, higiene y farmacia.",
+        "Juego de molde: Carcasas, fondos y placas de cuello como juego completo, con piezas de conversión para usar un mismo molde en distintas máquinas.",
+        "Desarrollo de botella: Diseño de botella, adaptación de preforma, aligeramiento y optimización del espesor de pared."
+      ],
       "images": [
-        {
-          "src": "/images/products/17394423704522202.webp",
-          "alt": "17394423704522202 - Molde de soplado"
-        },
-        {
-          "src": "/images/products/17394423714318047.webp",
-          "alt": "17394423714318047 - Molde de soplado"
-        },
         {
           "src": "/images/products/17394423716636995.webp",
           "alt": "17394423716636995 - Molde de soplado"
@@ -223,10 +165,17 @@
     },
     {
       "id": 23,
-      "name": "Molde de soplado para llenado en frío — Plataforma KHS",
+      "name": "Molde de soplado para llenado en frío — plataforma KHS",
       "category": "Molde de soplado",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/23.html",
-      "description": "Moldes de soplado PET para procesos de moldeo por soplado de dos etapas y una etapa. Diseñados para plataformas de equipos líderes incluyendo SIDEL, KRONES, KHS, TECH-LONG, NEWAMSTAR (dos etapas) y SIPA, ASB, AOKI (una etapa). Al servicio de la industria de envases de bebidas con soluciones para botellas de agua mineral, envases CSD, llenado en caliente y botellas asépticas, así como PET de grado alimenticio, aceite comestible, cosméticos, artículos de tocador y envases farmacéuticos. Compatible con diseños de aligeramiento y optimización de espesor de pared.",
+      "description": "Moldes de soplado PET para llenado en frío fabricados para las sopladoras KHS (antes SIG) InnoPET Blomax. Pensados para agua sin gas, bebidas carbonatadas y otras bebidas envasadas a temperatura ambiente; las carcasas, fondos y placas de cuello se mecanizan para montarse directamente en el portamoldes KHS, con diseños de botella aligerada y distribución uniforme del material.",
+      "bullets": [
+        "Plataforma: Sopladoras KHS / SIG serie InnoPET Blomax.",
+        "Tipo de llenado: Llenado en frío (temperatura ambiente) para agua, bebidas carbonatadas, zumos y lácteos.",
+        "Aligeramiento: Geometría y fondo de botella ajustados a la preforma para un espesor uniforme con menor peso.",
+        "Juego completo: Carcasas, fondos y placas de cuello que encajan en el portamoldes KHS sin modificaciones.",
+        "Refrigeración: Canales de refrigeración en carcasas y fondos para una calidad estable a velocidad de producción."
+      ],
       "images": [
         {
           "src": "/images/products/17370983675539011.webp",
@@ -243,7 +192,14 @@
       "name": "Molde de soplado para agua embotellada desechable",
       "category": "Molde de soplado",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/24.html",
-      "description": "Moldes de soplado PET para procesos de moldeo por soplado de dos etapas y una etapa. Diseñados para plataformas de equipos líderes incluyendo SIDEL, KRONES, KHS, TECH-LONG, NEWAMSTAR (dos etapas) y SIPA, ASB, AOKI (una etapa). Al servicio de la industria de envases de bebidas con soluciones para botellas de agua mineral, envases CSD, llenado en caliente y botellas asépticas, así como PET de grado alimenticio, aceite comestible, cosméticos, artículos de tocador y envases farmacéuticos. Compatible con diseños de aligeramiento y optimización de espesor de pared.",
+      "description": "Moldes de soplado para botellas de agua sin gas de un solo uso, donde el peso de la botella y la velocidad de producción determinan el coste. La forma, el fondo y los paneles de agarre se diseñan junto con la preforma para obtener botellas ligeras que mantienen su forma durante el llenado, el taponado, el paletizado y el transporte.",
+      "bullets": [
+        "Aplicación: Agua sin gas y agua mineral en formatos habituales como 330ml, 500ml, 550ml y 1,5L.",
+        "Diseño ligero: Geometría de fondo y cuerpo optimizada para reducir PET manteniendo la resistencia a la carga vertical.",
+        "Cuellos: Adaptados a preformas de cuello corto para agua como PCO 1881, 2925 y 2622.",
+        "Compatibilidad: Máquinas de dos etapas: SIDEL, KRONES, SIG/KHS, TECH-LONG, NEWAMSTAR; de una etapa: SIPA, ASB, AOKI.",
+        "Alta velocidad: Cavidades pulidas y refrigeración eficiente para una producción estable en sopladoras rotativas de alta velocidad."
+      ],
       "images": [
         {
           "src": "/images/products/17370984414715322.webp",
@@ -260,7 +216,14 @@
       "name": "Molde de soplado de cambio rápido tipo dividido",
       "category": "Molde de soplado",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/25.html",
-      "description": "Moldes de soplado PET para procesos de moldeo por soplado de dos etapas y una etapa. Diseñados para plataformas de equipos líderes incluyendo SIDEL, KRONES, KHS, TECH-LONG, NEWAMSTAR (dos etapas) y SIPA, ASB, AOKI (una etapa). Al servicio de la industria de envases de bebidas con soluciones para botellas de agua mineral, envases CSD, llenado en caliente y botellas asépticas, así como PET de grado alimenticio, aceite comestible, cosméticos, artículos de tocador y envases farmacéuticos. Compatible con diseños de aligeramiento y optimización de espesor de pared.",
+      "description": "Moldes de soplado con estructura dividida: los insertos con la forma de la botella están separados de las carcasas, que permanecen montadas en la máquina. Al cambiar de formato solo se sustituyen los insertos ligeros y el fondo, lo que reduce el tiempo de cambio y el coste de utillaje de cada nuevo diseño.",
+      "bullets": [
+        "Estructura: Insertos de cavidad y fondos intercambiables montados en carcasas fijas.",
+        "Cambio rápido: Cambio de formato sin desmontar las carcasas del portamoldes, con menos paradas de línea.",
+        "Menor coste de utillaje: Una nueva forma de botella solo requiere nuevos insertos, no un juego completo.",
+        "Compatibilidad: Adaptados a los portamoldes de cambio rápido de las principales sopladoras rotativas.",
+        "Ideal para: Productores con muchas referencias, cambios de formato frecuentes o envases de temporada."
+      ],
       "images": [
         {
           "src": "/images/products/17370984835265642.webp",
@@ -274,10 +237,17 @@
     },
     {
       "id": 26,
-      "name": "Molde de soplado para llenado en frío — Plataforma Krones",
+      "name": "Molde de soplado para llenado en frío — plataforma Krones",
       "category": "Molde de soplado",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/26.html",
-      "description": "Moldes de soplado PET para procesos de moldeo por soplado de dos etapas y una etapa. Diseñados para plataformas de equipos líderes incluyendo SIDEL, KRONES, KHS, TECH-LONG, NEWAMSTAR (dos etapas) y SIPA, ASB, AOKI (una etapa). Al servicio de la industria de envases de bebidas con soluciones para botellas de agua mineral, envases CSD, llenado en caliente y botellas asépticas, así como PET de grado alimenticio, aceite comestible, cosméticos, artículos de tocador y envases farmacéuticos. Compatible con diseños de aligeramiento y optimización de espesor de pared.",
+      "description": "Moldes de soplado PET para llenado en frío fabricados para las sopladoras Krones Contiform. Las carcasas, fondos y placas de cuello encajan directamente en el portamoldes Contiform y su sistema de cierre de cambio rápido, para botellas de agua sin gas, bebidas carbonatadas, zumos y otras bebidas envasadas a temperatura ambiente.",
+      "bullets": [
+        "Plataforma: Sopladoras Krones serie Contiform.",
+        "Tipo de llenado: Llenado en frío para agua, bebidas carbonatadas, zumos y otras bebidas a temperatura ambiente.",
+        "Cambio rápido: Compatibles con portamoldes Contiform de cambio manual y de cambio rápido sin herramientas.",
+        "Juego completo: Carcasas, fondos y placas de cuello suministrados como juego.",
+        "Desarrollo de botella: Aligeramiento y diseño de fondo para productos con y sin gas."
+      ],
       "images": [
         {
           "src": "/images/products/17394346245816742.webp",
@@ -294,7 +264,14 @@
       "name": "Molde de soplado para llenado en caliente",
       "category": "Molde de soplado",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/31.html",
-      "description": "Moldes de soplado PET para procesos de moldeo por soplado de dos etapas y una etapa. Diseñados para plataformas de equipos líderes incluyendo SIDEL, KRONES, KHS, TECH-LONG, NEWAMSTAR (dos etapas) y SIPA, ASB, AOKI (una etapa). Al servicio de la industria de envases de bebidas con soluciones para botellas de agua mineral, envases CSD, llenado en caliente y botellas asépticas, así como PET de grado alimenticio, aceite comestible, cosméticos, artículos de tocador y envases farmacéuticos. Compatible con diseños de aligeramiento y optimización de espesor de pared.",
+      "description": "Moldes de soplado PET termofijados para botellas que se llenan en caliente a unos 85–95 °C, como zumos, tés e isotónicas. Las botellas PET estándar se deforman por encima de unos 60 °C; las paredes calientes del molde cristalizan y estabilizan la botella durante el soplado, y los paneles de vacío del diseño absorben la depresión al enfriarse el producto.",
+      "bullets": [
+        "Tipo de llenado: Llenado en caliente para zumos, tés, bebidas isotónicas y otros productos a unos 85–95 °C.",
+        "Termofijado: Carcasas con canales para circulación de aceite caliente y control de temperatura independiente para cuerpo y fondo.",
+        "Diseño de botella: Paneles de vacío, nervios de refuerzo y geometría de fondo para mantener la estabilidad tras llenado y enfriamiento.",
+        "Compatibilidad: Versiones de termofijado de las principales sopladoras rotativas de dos etapas, incluidas SIDEL y KRONES.",
+        "Material y acabado: Material y acabado de cavidad elegidos para trabajo prolongado a alta temperatura."
+      ],
       "images": [
         {
           "src": "/images/products/17370986952792238.webp",
@@ -315,7 +292,14 @@
       "name": "Sistema de canal caliente",
       "category": "Sistema de canal caliente",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/27.html",
-      "description": "Sistemas de canal caliente de válvula de compuerta de alto rendimiento con soporte para hasta 144 cavidades para inyección de preformas PET y 96 cavidades para inyección de tapas. Diseñados con componentes de punta de boquilla, aguja de válvula y placa de respaldo de colector para distribución uniforme del material fundido, control preciso de temperatura y mínima caída de presión. Compatible con plataformas de máquinas de moldeo por inyección de preformas y tapas HUSKY, NETSTAL, KM, SIPA y otras marcas líderes.",
+      "description": "Sistemas de canal caliente con obturador para moldes de inyección de preformas PET y tapas plásticas: hasta 144 cavidades para preformas y 96 para tapas. El distribuidor, las boquillas, las agujas obturadoras y la placa de respaldo están diseñados para un flujo equilibrado y un control preciso de la temperatura, de modo que todas las cavidades se llenan de forma uniforme con baja generación de AA y mínima caída de presión.",
+      "bullets": [
+        "Cavidades: Hasta 144 cavidades para preformas y 96 para tapas.",
+        "Compatibilidad: HUSKY, NETSTAL, KM, SIPA y otras inyectoras de preformas, además de las principales inyectoras de tapas.",
+        "Flujo equilibrado: Distribuidor de equilibrio natural para un peso de preforma uniforme en todas las cavidades.",
+        "Obturación: Punto de inyección limpio y calidad estable en series largas.",
+        "Servicio: Puntas de boquilla, agujas, resistencias y juntas de repuesto, y reacondicionamiento de canales calientes existentes."
+      ],
       "images": [
         {
           "src": "/images/products/17370987586591328.webp",
@@ -332,98 +316,51 @@
       }
     },
     {
-      "id": 36,
-      "name": "Sistema de canal caliente",
-      "category": "Sistema de canal caliente",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/36.html",
-      "description": "Sistemas de canal caliente de válvula de compuerta de alto rendimiento con soporte para hasta 144 cavidades para inyección de preformas PET y 96 cavidades para inyección de tapas. Diseñados con componentes de punta de boquilla, aguja de válvula y placa de respaldo de colector para distribución uniforme del material fundido, control preciso de temperatura y mínima caída de presión. Compatible con plataformas de máquinas de moldeo por inyección de preformas y tapas HUSKY, NETSTAL, KM, SIPA y otras marcas líderes.",
-      "images": [
-        {
-          "src": "/images/products/17370987586591328.webp",
-          "alt": "17370987586591328 - Sistema de canal caliente"
-        },
-        {
-          "src": "/images/products/17370987757197630.webp",
-          "alt": "17370987757197630 - Sistema de canal caliente"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17370987586591328.webp",
-        "alt": "17370987586591328 - Sistema de canal caliente"
-      }
-    },
-    {
       "id": 42,
       "name": "Kit de accesorios",
       "category": "Accesorios",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/42.html",
-      "description": "Accesorios mecanizados de precisión y piezas de conversión para equipos de moldeo por soplado PET. Incluye pines de soplado, carcasas de molde, bases de sujeción, conjuntos de pines guía y bujes, y adaptadores personalizados para modificaciones de acabado de cuello, cambios de capacidad y conversiones de moldes entre plataformas. Fabricados según especificaciones OEM para integración perfecta con plataformas SIDEL, KRONES y KHS.",
+      "description": "Piezas personalizadas para sopladoras: piezas necesarias para cambios de cuello, de forma y de capacidad de la botella, piezas relacionadas con la optimización de la botella y la preforma, y piezas de conversión que permiten usar el mismo molde en distintos equipos de soplado. Un servicio integral de piezas que ayuda a lanzar nuevos productos más rápido.",
+      "bullets": [
+        "Cambio de cuello: Piezas necesarias al pasar a un nuevo cuello o preforma.",
+        "Cambio de formato: Piezas para nuevas formas y capacidades de botella.",
+        "Conversión entre máquinas: Piezas para usar un mismo molde de soplado en distintas sopladoras.",
+        "Repuestos de máquina: Fabricados a partir de piezas existentes o planos del cliente para sopladoras SIDEL, KRONES, KHS y otras.",
+        "Servicio integral: Entregados junto con el molde de soplado para acelerar el lanzamiento."
+      ],
       "images": [
         {
           "src": "/images/products/17370988114255937.webp",
-          "alt": "17370988114255937 - Accesorios"
-        },
-        {
-          "src": "/images/products/17370988352920780.webp",
-          "alt": "17370988352920780 - Accesorios"
-        },
-        {
-          "src": "/images/products/17370988353734804.webp",
-          "alt": "17370988353734804 - Accesorios"
-        },
-        {
-          "src": "/images/products/17370988354137534.webp",
-          "alt": "17370988354137534 - Accesorios"
-        },
-        {
-          "src": "/images/products/17370988357249742.webp",
-          "alt": "17370988357249742 - Accesorios"
-        },
-        {
-          "src": "/images/products/17370988418269066.webp",
-          "alt": "17370988418269066 - Accesorios"
+          "alt": "17370988114255937 - Kit de accesorios"
         }
       ],
       "thumbnail": {
-        "src": "/images/products/17394369973455335.webp",
-        "alt": "17394369973455335 - Accesorios"
+        "src": "/images/products/17370988114255937.webp",
+        "alt": "17370988114255937 - Kit de accesorios"
       }
     },
     {
       "id": 28,
-      "name": "Pines de soplado",
+      "name": "Toberas de soplado y varillas de estiramiento",
       "category": "Accesorios",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/28.html",
-      "description": "Accesorios mecanizados de precisión y piezas de conversión para equipos de moldeo por soplado PET. Incluye pines de soplado, carcasas de molde, bases de sujeción, conjuntos de pines guía y bujes, y adaptadores personalizados para modificaciones de acabado de cuello, cambios de capacidad y conversiones de moldes entre plataformas. Fabricados según especificaciones OEM para integración perfecta con plataformas SIDEL, KRONES y KHS.",
+      "description": "Toberas de soplado, pernos de soplado y varillas de estiramiento para sopladoras PET. Estas piezas sellan el cuello de la preforma, guían la varilla y aportan el aire de presoplado y alta presión, por lo que su ajuste y desgaste influyen directamente en la calidad de la botella y el consumo de aire.",
+      "bullets": [
+        "Piezas: Toberas y pernos de soplado, varillas de estiramiento, puntas de varilla y juntas.",
+        "Adaptación al cuello: Fabricadas según el cuello de la preforma, incluidas conversiones a nuevos cuellos.",
+        "Ajuste preciso: Superficies de sellado y guiado rectificadas y pulidas para un sellado fiable y un estirado recto.",
+        "Compatibilidad: Fabricados a partir de piezas existentes o planos del cliente para sopladoras SIDEL, KRONES, KHS y otras.",
+        "Reposición: Suministradas como repuesto o como parte de un paquete de cambio de formato."
+      ],
       "images": [
         {
-          "src": "/images/products/17394427732320561.webp",
-          "alt": "17394427732320561 - Pines de soplado"
-        },
-        {
-          "src": "/images/products/17394427732438942.webp",
-          "alt": "17394427732438942 - Pines de soplado"
-        },
-        {
-          "src": "/images/products/17394427733103781.webp",
-          "alt": "17394427733103781 - Pines de soplado"
-        },
-        {
-          "src": "/images/products/17394427741046270.webp",
-          "alt": "17394427741046270 - Pines de soplado"
-        },
-        {
           "src": "/images/products/17394427744980878.webp",
-          "alt": "17394427744980878 - Pines de soplado"
-        },
-        {
-          "src": "/images/products/17394427801606028.webp",
-          "alt": "17394427801606028 - Pines de soplado"
+          "alt": "17394427744980878 - Toberas de soplado y varillas de estiramiento"
         }
       ],
       "thumbnail": {
         "src": "/images/products/17394427744980878.webp",
-        "alt": "17394427744980878 - Pines de soplado"
+        "alt": "17394427744980878 - Toberas de soplado y varillas de estiramiento"
       }
     },
     {
@@ -431,31 +368,18 @@
       "name": "Base de sujeción",
       "category": "Accesorios",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/39.html",
-      "description": "Accesorios mecanizados de precisión y piezas de conversión para equipos de moldeo por soplado PET. Incluye pines de soplado, carcasas de molde, bases de sujeción, conjuntos de pines guía y bujes, y adaptadores personalizados para modificaciones de acabado de cuello, cambios de capacidad y conversiones de moldes entre plataformas. Fabricados según especificaciones OEM para integración perfecta con plataformas SIDEL, KRONES y KHS.",
+      "description": "Bases de sujeción (bases del portamoldes) que sostienen las carcasas y el fondo del molde de soplado en la estación de soplado. Sus superficies de montaje y referencias precisas mantienen alineadas las dos mitades y el fondo bajo la presión de soplado, con una línea de partición limpia y dimensiones de botella constantes.",
+      "bullets": [
+        "Función: Monta y posiciona las carcasas y el fondo del molde en el portamoldes.",
+        "Precisión: Superficies de montaje y referencia mecanizadas con precisión para una alineación repetible tras cada cambio.",
+        "Refrigeración: Conexiones y canales de agua adaptados al circuito del molde.",
+        "Compatibilidad: Fabricados a partir de piezas existentes o planos del cliente para sopladoras SIDEL, KRONES, KHS y otras.",
+        "Material: Aleación de aluminio de alta resistencia o acero según los requisitos de la máquina."
+      ],
       "images": [
-        {
-          "src": "/images/products/17394427732320561.webp",
-          "alt": "17394427732320561 - Base de sujeción"
-        },
-        {
-          "src": "/images/products/17394427732438942.webp",
-          "alt": "17394427732438942 - Base de sujeción"
-        },
-        {
-          "src": "/images/products/17394427733103781.webp",
-          "alt": "17394427733103781 - Base de sujeción"
-        },
         {
           "src": "/images/products/17394427741046270.webp",
           "alt": "17394427741046270 - Base de sujeción"
-        },
-        {
-          "src": "/images/products/17394427744980878.webp",
-          "alt": "17394427744980878 - Base de sujeción"
-        },
-        {
-          "src": "/images/products/17394427801606028.webp",
-          "alt": "17394427801606028 - Base de sujeción"
         }
       ],
       "thumbnail": {
@@ -468,27 +392,18 @@
       "name": "Carcasa de molde",
       "category": "Accesorios",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/38.html",
-      "description": "Accesorios mecanizados de precisión y piezas de conversión para equipos de moldeo por soplado PET. Incluye pines de soplado, carcasas de molde, bases de sujeción, conjuntos de pines guía y bujes, y adaptadores personalizados para modificaciones de acabado de cuello, cambios de capacidad y conversiones de moldes entre plataformas. Fabricados según especificaciones OEM para integración perfecta con plataformas SIDEL, KRONES y KHS.",
+      "description": "Carcasas (portacavidades) que alojan las mitades de cavidad de la botella en el portamoldes de la sopladora. Con un sistema de carcasas solo se cambian los insertos entre formatos, lo que acelera los cambios y abarata el utillaje de nuevas botellas.",
+      "bullets": [
+        "Función: Sujeta las mitades de cavidad en el portamoldes y las conecta al circuito de refrigeración.",
+        "Cambio rápido: Compatible con sistemas de cambio rápido por carcasa, donde solo se cambian los insertos.",
+        "Refrigeración: Canales de refrigeración para una temperatura uniforme del molde.",
+        "Compatibilidad: Fabricados a partir de piezas existentes o planos del cliente para sopladoras SIDEL, KRONES, KHS y otras.",
+        "Material: Aleación de aluminio ligera mecanizada con precisión para un ajuste exacto."
+      ],
       "images": [
-        {
-          "src": "/images/products/17394427732320561.webp",
-          "alt": "17394427732320561 - Carcasa de molde"
-        },
-        {
-          "src": "/images/products/17394427732438942.webp",
-          "alt": "17394427732438942 - Carcasa de molde"
-        },
         {
           "src": "/images/products/17394427733103781.webp",
           "alt": "17394427733103781 - Carcasa de molde"
-        },
-        {
-          "src": "/images/products/17394427741046270.webp",
-          "alt": "17394427741046270 - Carcasa de molde"
-        },
-        {
-          "src": "/images/products/17394427744980878.webp",
-          "alt": "17394427744980878 - Carcasa de molde"
         },
         {
           "src": "/images/products/17394427801606028.webp",
@@ -496,8 +411,8 @@
         }
       ],
       "thumbnail": {
-        "src": "/images/products/17394427801606028.webp",
-        "alt": "17394427801606028 - Carcasa de molde"
+        "src": "/images/products/17394427733103781.webp",
+        "alt": "17394427733103781 - Carcasa de molde"
       }
     },
     {
@@ -505,372 +420,23 @@
       "name": "Piezas de conversión",
       "category": "Accesorios",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/40.html",
-      "description": "Accesorios mecanizados de precisión y piezas de conversión para equipos de moldeo por soplado PET. Incluye pines de soplado, carcasas de molde, bases de sujeción, conjuntos de pines guía y bujes, y adaptadores personalizados para modificaciones de acabado de cuello, cambios de capacidad y conversiones de moldes entre plataformas. Fabricados según especificaciones OEM para integración perfecta con plataformas SIDEL, KRONES y KHS.",
+      "description": "Piezas de cambio de formato para líneas de soplado y manipulación de botellas PET, como estrellas, guías de transferencia y pinzas de cuello. Permiten que una línea existente trabaje con una nueva botella, preforma o cuello, o usar el mismo molde en distintos equipos de soplado.",
+      "bullets": [
+        "Piezas: Estrellas, guías de entrada y transferencia, pinzas de cuello y otras piezas de formato.",
+        "Aplicaciones: Nuevas formas y capacidades de botella, nuevos cuellos y cambios de preforma.",
+        "Conversión entre máquinas: Piezas para usar un mismo molde en distintas sopladoras.",
+        "Compatibilidad: Fabricados a partir de piezas existentes o planos del cliente para sopladoras SIDEL, KRONES, KHS y otras.",
+        "Entrega: Suministradas con el nuevo molde como paquete completo de cambio de formato."
+      ],
       "images": [
         {
-          "src": "/images/products/17370988114255937.webp",
-          "alt": "17370988114255937 - Piezas de conversión"
-        },
-        {
-          "src": "/images/products/17370988352920780.webp",
-          "alt": "17370988352920780 - Piezas de conversión"
-        },
-        {
-          "src": "/images/products/17370988353734804.webp",
-          "alt": "17370988353734804 - Piezas de conversión"
-        },
-        {
-          "src": "/images/products/17370988354137534.webp",
-          "alt": "17370988354137534 - Piezas de conversión"
-        },
-        {
-          "src": "/images/products/17370988357249742.webp",
-          "alt": "17370988357249742 - Piezas de conversión"
-        },
-        {
-          "src": "/images/products/17370988418269066.webp",
-          "alt": "17370988418269066 - Piezas de conversión"
+          "src": "/images/products/17394427732438942.webp",
+          "alt": "17394427732438942 - Piezas de conversión"
         }
       ],
       "thumbnail": {
-        "src": "/images/products/17394373216268276.webp",
-        "alt": "17394373216268276 - Piezas de conversión"
-      }
-    },
-    {
-      "id": 41,
-      "name": "Carcasa de molde",
-      "category": "Accesorios",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/41.html",
-      "description": "Accesorios mecanizados de precisión y piezas de conversión para equipos de moldeo por soplado PET. Incluye pines de soplado, carcasas de molde, bases de sujeción, conjuntos de pines guía y bujes, y adaptadores personalizados para modificaciones de acabado de cuello, cambios de capacidad y conversiones de moldes entre plataformas. Fabricados según especificaciones OEM para integración perfecta con plataformas SIDEL, KRONES y KHS.",
-      "images": [
-        {
-          "src": "/images/products/17370988114255937.webp",
-          "alt": "17370988114255937 - Carcasa de molde"
-        },
-        {
-          "src": "/images/products/17370988352920780.webp",
-          "alt": "17370988352920780 - Carcasa de molde"
-        },
-        {
-          "src": "/images/products/17370988353734804.webp",
-          "alt": "17370988353734804 - Carcasa de molde"
-        },
-        {
-          "src": "/images/products/17370988354137534.webp",
-          "alt": "17370988354137534 - Carcasa de molde"
-        },
-        {
-          "src": "/images/products/17370988357249742.webp",
-          "alt": "17370988357249742 - Carcasa de molde"
-        },
-        {
-          "src": "/images/products/17370988418269066.webp",
-          "alt": "17370988418269066 - Carcasa de molde"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394371384899028.webp",
-        "alt": "17394371384899028 - Carcasa de molde"
-      }
-    },
-    {
-      "id": 61,
-      "name": "Base de molde de precisión",
-      "category": "Fabricación de bases de molde de alta precisión",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/61.html",
-      "description": "Fabricación de bases de molde de ultra precisión utilizando centros de mecanizado CNC avanzados, rectificado de precisión y riguroso control de calidad. Cada base de molde está diseñada para ofrecer planitud, paralelismo y precisión dimensional excepcionales, constituyendo la base para ensamblajes confiables y de alto rendimiento de moldes de preforma PET y moldes de soplado. Compatible con configuraciones de moldes multicavidad para producción de alta cavitación.",
-      "images": [
-        {
-          "src": "/images/products/17394412092833020.webp",
-          "alt": "17394412092833020 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412102425995.webp",
-          "alt": "17394412102425995 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412105648377.webp",
-          "alt": "17394412105648377 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412105860041.webp",
-          "alt": "17394412105860041 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412155940542.webp",
-          "alt": "17394412155940542 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412159684142.webp",
-          "alt": "17394412159684142 - Fabricación de bases de molde de alta precisión"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394412105860041.webp",
-        "alt": "17394412105860041 - Fabricación de bases de molde de alta precisión"
-      }
-    },
-    {
-      "id": 62,
-      "name": "Base de molde de precisión",
-      "category": "Fabricación de bases de molde de alta precisión",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/62.html",
-      "description": "Fabricación de bases de molde de ultra precisión utilizando centros de mecanizado CNC avanzados, rectificado de precisión y riguroso control de calidad. Cada base de molde está diseñada para ofrecer planitud, paralelismo y precisión dimensional excepcionales, constituyendo la base para ensamblajes confiables y de alto rendimiento de moldes de preforma PET y moldes de soplado. Compatible con configuraciones de moldes multicavidad para producción de alta cavitación.",
-      "images": [
-        {
-          "src": "/images/products/17394411982219600.webp",
-          "alt": "17394411982219600 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394411996061122.webp",
-          "alt": "17394411996061122 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412092833020.webp",
-          "alt": "17394412092833020 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412102425995.webp",
-          "alt": "17394412102425995 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412105648377.webp",
-          "alt": "17394412105648377 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412155940542.webp",
-          "alt": "17394412155940542 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412164744807.webp",
-          "alt": "17394412164744807 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412165686314.webp",
-          "alt": "17394412165686314 - Fabricación de bases de molde de alta precisión"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394412092833020.webp",
-        "alt": "17394412092833020 - Fabricación de bases de molde de alta precisión"
-      }
-    },
-    {
-      "id": 63,
-      "name": "Base de molde de precisión",
-      "category": "Fabricación de bases de molde de alta precisión",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/63.html",
-      "description": "Fabricación de bases de molde de ultra precisión utilizando centros de mecanizado CNC avanzados, rectificado de precisión y riguroso control de calidad. Cada base de molde está diseñada para ofrecer planitud, paralelismo y precisión dimensional excepcionales, constituyendo la base para ensamblajes confiables y de alto rendimiento de moldes de preforma PET y moldes de soplado. Compatible con configuraciones de moldes multicavidad para producción de alta cavitación.",
-      "images": [
-        {
-          "src": "/images/products/17394412092833020.webp",
-          "alt": "17394412092833020 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412102425995.webp",
-          "alt": "17394412102425995 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412105648377.webp",
-          "alt": "17394412105648377 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412105860041.webp",
-          "alt": "17394412105860041 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412155940542.webp",
-          "alt": "17394412155940542 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412159684142.webp",
-          "alt": "17394412159684142 - Fabricación de bases de molde de alta precisión"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394411885135753.webp",
-        "alt": "17394411885135753 - Fabricación de bases de molde de alta precisión"
-      }
-    },
-    {
-      "id": 64,
-      "name": "Base de molde de precisión",
-      "category": "Fabricación de bases de molde de alta precisión",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/64.html",
-      "description": "Fabricación de bases de molde de ultra precisión utilizando centros de mecanizado CNC avanzados, rectificado de precisión y riguroso control de calidad. Cada base de molde está diseñada para ofrecer planitud, paralelismo y precisión dimensional excepcionales, constituyendo la base para ensamblajes confiables y de alto rendimiento de moldes de preforma PET y moldes de soplado. Compatible con configuraciones de moldes multicavidad para producción de alta cavitación.",
-      "images": [
-        {
-          "src": "/images/products/17394411996061122.webp",
-          "alt": "17394411996061122 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412092833020.webp",
-          "alt": "17394412092833020 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412102425995.webp",
-          "alt": "17394412102425995 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412105648377.webp",
-          "alt": "17394412105648377 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412105860041.webp",
-          "alt": "17394412105860041 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412155940542.webp",
-          "alt": "17394412155940542 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412164744807.webp",
-          "alt": "17394412164744807 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412165686314.webp",
-          "alt": "17394412165686314 - Fabricación de bases de molde de alta precisión"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394412159684142.webp",
-        "alt": "17394412159684142 - Fabricación de bases de molde de alta precisión"
-      }
-    },
-    {
-      "id": 65,
-      "name": "Base de molde de precisión",
-      "category": "Fabricación de bases de molde de alta precisión",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/65.html",
-      "description": "Fabricación de bases de molde de ultra precisión utilizando centros de mecanizado CNC avanzados, rectificado de precisión y riguroso control de calidad. Cada base de molde está diseñada para ofrecer planitud, paralelismo y precisión dimensional excepcionales, constituyendo la base para ensamblajes confiables y de alto rendimiento de moldes de preforma PET y moldes de soplado. Compatible con configuraciones de moldes multicavidad para producción de alta cavitación.",
-      "images": [
-        {
-          "src": "/images/products/17394412092833020.webp",
-          "alt": "17394412092833020 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412102425995.webp",
-          "alt": "17394412102425995 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412105648377.webp",
-          "alt": "17394412105648377 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412105860041.webp",
-          "alt": "17394412105860041 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412155940542.webp",
-          "alt": "17394412155940542 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412159684142.webp",
-          "alt": "17394412159684142 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412164744807.webp",
-          "alt": "17394412164744807 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412165686314.webp",
-          "alt": "17394412165686314 - Fabricación de bases de molde de alta precisión"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394412164744807.webp",
-        "alt": "17394412164744807 - Fabricación de bases de molde de alta precisión"
-      }
-    },
-    {
-      "id": 66,
-      "name": "Base de molde de precisión",
-      "category": "Fabricación de bases de molde de alta precisión",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/66.html",
-      "description": "Fabricación de bases de molde de ultra precisión utilizando centros de mecanizado CNC avanzados, rectificado de precisión y riguroso control de calidad. Cada base de molde está diseñada para ofrecer planitud, paralelismo y precisión dimensional excepcionales, constituyendo la base para ensamblajes confiables y de alto rendimiento de moldes de preforma PET y moldes de soplado. Compatible con configuraciones de moldes multicavidad para producción de alta cavitación.",
-      "images": [
-        {
-          "src": "/images/products/17394412092833020.webp",
-          "alt": "17394412092833020 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412102425995.webp",
-          "alt": "17394412102425995 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412105648377.webp",
-          "alt": "17394412105648377 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412105860041.webp",
-          "alt": "17394412105860041 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412155940542.webp",
-          "alt": "17394412155940542 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412159684142.webp",
-          "alt": "17394412159684142 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412164744807.webp",
-          "alt": "17394412164744807 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412165686314.webp",
-          "alt": "17394412165686314 - Fabricación de bases de molde de alta precisión"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394412165686314.webp",
-        "alt": "17394412165686314 - Fabricación de bases de molde de alta precisión"
-      }
-    },
-    {
-      "id": 67,
-      "name": "Base de molde de precisión",
-      "category": "Fabricación de bases de molde de alta precisión",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/67.html",
-      "description": "Fabricación de bases de molde de ultra precisión utilizando centros de mecanizado CNC avanzados, rectificado de precisión y riguroso control de calidad. Cada base de molde está diseñada para ofrecer planitud, paralelismo y precisión dimensional excepcionales, constituyendo la base para ensamblajes confiables y de alto rendimiento de moldes de preforma PET y moldes de soplado. Compatible con configuraciones de moldes multicavidad para producción de alta cavitación.",
-      "images": [
-        {
-          "src": "/images/products/17394412092833020.webp",
-          "alt": "17394412092833020 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412102425995.webp",
-          "alt": "17394412102425995 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412105648377.webp",
-          "alt": "17394412105648377 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412105860041.webp",
-          "alt": "17394412105860041 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412155940542.webp",
-          "alt": "17394412155940542 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412159684142.webp",
-          "alt": "17394412159684142 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412164744807.webp",
-          "alt": "17394412164744807 - Fabricación de bases de molde de alta precisión"
-        },
-        {
-          "src": "/images/products/17394412165686314.webp",
-          "alt": "17394412165686314 - Fabricación de bases de molde de alta precisión"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394412155940542.webp",
-        "alt": "17394412155940542 - Fabricación de bases de molde de alta precisión"
+        "src": "/images/products/17394427732438942.webp",
+        "alt": "17394427732438942 - Piezas de conversión"
       }
     },
     {
@@ -878,7 +444,14 @@
       "name": "Base de molde de precisión",
       "category": "Fabricación de bases de molde de alta precisión",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/30.html",
-      "description": "Fabricación de bases de molde de ultra precisión utilizando centros de mecanizado CNC avanzados, rectificado de precisión y riguroso control de calidad. Cada base de molde está diseñada para ofrecer planitud, paralelismo y precisión dimensional excepcionales, constituyendo la base para ensamblajes confiables y de alto rendimiento de moldes de preforma PET y moldes de soplado. Compatible con configuraciones de moldes multicavidad para producción de alta cavitación.",
+      "description": "Fabricación de bases de molde de alta precisión para moldes de preformas PET, tapas y soplado. Las placas se mecanizan en centros CNC Mazak, Makino y Haas, se rectifican en rectificadoras de precisión Okamoto y se verifican en MMC Zeiss, logrando la planitud, el paralelismo y la precisión de posición que exigen los moldes de alta cavitación.",
+      "bullets": [
+        "Aplicaciones: Bases y placas para moldes de preformas de hasta 160 cavidades, moldes de tapas y de soplado.",
+        "Mecanizado: Mecanizado CNC multieje, taladrado profundo para canales de refrigeración y rectificado de precisión.",
+        "Precisión: Planitud, paralelismo y posición de cavidades verificados en MMC Zeiss antes de la entrega.",
+        "Alcance: Bases completas, placas individuales y placas de reemplazo o reacondicionadas para moldes existentes.",
+        "Según plano: Fabricadas según planos del cliente o diseñadas internamente para moldes nuevos."
+      ],
       "images": [
         {
           "src": "/images/products/17394412092833020.webp",
@@ -919,196 +492,18 @@
       }
     },
     {
-      "id": 44,
-      "name": "Equipos de control de calidad",
-      "category": "Equipos de control de calidad",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/44.html",
-      "description": "Equipos de control de calidad y metrología de última generación, incluyendo máquinas de medición por coordenadas Zeiss, escáneres de perfil 3D, comparadores ópticos y sistemas dedicados de inspección de muestras de botellas. Garantizando que cada núcleo de cavidad de molde de preforma PET y componente de anillo de cuello cumpla con las exigentes especificaciones dimensionales para producción de alta cavitación.",
-      "images": [
-        {
-          "src": "/images/products/17394383474634820.webp",
-          "alt": "17394383474634820 - Equipos de control de calidad"
-        },
-        {
-          "src": "/images/products/17394383476978540.webp",
-          "alt": "17394383476978540 - Equipos de control de calidad"
-        },
-        {
-          "src": "/images/products/17394383487182448.webp",
-          "alt": "17394383487182448 - Equipos de control de calidad"
-        },
-        {
-          "src": "/images/products/17394383487925491.webp",
-          "alt": "17394383487925491 - Equipos de control de calidad"
-        },
-        {
-          "src": "/images/products/17394383504255389.webp",
-          "alt": "17394383504255389 - Equipos de control de calidad"
-        },
-        {
-          "src": "/images/products/17394383621847147.webp",
-          "alt": "17394383621847147 - Equipos de control de calidad"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394383621847147.webp",
-        "alt": "17394383621847147 - Equipos de control de calidad"
-      }
-    },
-    {
-      "id": 45,
-      "name": "Equipos de control de calidad",
-      "category": "Equipos de control de calidad",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/45.html",
-      "description": "Equipos de control de calidad y metrología de última generación, incluyendo máquinas de medición por coordenadas Zeiss, escáneres de perfil 3D, comparadores ópticos y sistemas dedicados de inspección de muestras de botellas. Garantizando que cada núcleo de cavidad de molde de preforma PET y componente de anillo de cuello cumpla con las exigentes especificaciones dimensionales para producción de alta cavitación.",
-      "images": [
-        {
-          "src": "/images/products/17394383474634820.webp",
-          "alt": "17394383474634820 - Equipos de control de calidad"
-        },
-        {
-          "src": "/images/products/17394383476978540.webp",
-          "alt": "17394383476978540 - Equipos de control de calidad"
-        },
-        {
-          "src": "/images/products/17394383487182448.webp",
-          "alt": "17394383487182448 - Equipos de control de calidad"
-        },
-        {
-          "src": "/images/products/17394383487925491.webp",
-          "alt": "17394383487925491 - Equipos de control de calidad"
-        },
-        {
-          "src": "/images/products/17394383504255389.webp",
-          "alt": "17394383504255389 - Equipos de control de calidad"
-        },
-        {
-          "src": "/images/products/17394383621847147.webp",
-          "alt": "17394383621847147 - Equipos de control de calidad"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394383474634820.webp",
-        "alt": "17394383474634820 - Equipos de control de calidad"
-      }
-    },
-    {
-      "id": 46,
-      "name": "Equipos de control de calidad",
-      "category": "Equipos de control de calidad",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/46.html",
-      "description": "Equipos de control de calidad y metrología de última generación, incluyendo máquinas de medición por coordenadas Zeiss, escáneres de perfil 3D, comparadores ópticos y sistemas dedicados de inspección de muestras de botellas. Garantizando que cada núcleo de cavidad de molde de preforma PET y componente de anillo de cuello cumpla con las exigentes especificaciones dimensionales para producción de alta cavitación.",
-      "images": [
-        {
-          "src": "/images/products/17394383474634820.webp",
-          "alt": "17394383474634820 - Equipos de control de calidad"
-        },
-        {
-          "src": "/images/products/17394383476978540.webp",
-          "alt": "17394383476978540 - Equipos de control de calidad"
-        },
-        {
-          "src": "/images/products/17394383487182448.webp",
-          "alt": "17394383487182448 - Equipos de control de calidad"
-        },
-        {
-          "src": "/images/products/17394383487925491.webp",
-          "alt": "17394383487925491 - Equipos de control de calidad"
-        },
-        {
-          "src": "/images/products/17394383504255389.webp",
-          "alt": "17394383504255389 - Equipos de control de calidad"
-        },
-        {
-          "src": "/images/products/17394383621847147.webp",
-          "alt": "17394383621847147 - Equipos de control de calidad"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394383487925491.webp",
-        "alt": "17394383487925491 - Equipos de control de calidad"
-      }
-    },
-    {
-      "id": 47,
-      "name": "Equipos de control de calidad",
-      "category": "Equipos de control de calidad",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/47.html",
-      "description": "Equipos de control de calidad y metrología de última generación, incluyendo máquinas de medición por coordenadas Zeiss, escáneres de perfil 3D, comparadores ópticos y sistemas dedicados de inspección de muestras de botellas. Garantizando que cada núcleo de cavidad de molde de preforma PET y componente de anillo de cuello cumpla con las exigentes especificaciones dimensionales para producción de alta cavitación.",
-      "images": [
-        {
-          "src": "/images/products/17394383474634820.webp",
-          "alt": "17394383474634820 - Equipos de control de calidad"
-        },
-        {
-          "src": "/images/products/17394383476978540.webp",
-          "alt": "17394383476978540 - Equipos de control de calidad"
-        },
-        {
-          "src": "/images/products/17394383487182448.webp",
-          "alt": "17394383487182448 - Equipos de control de calidad"
-        },
-        {
-          "src": "/images/products/17394383487925491.webp",
-          "alt": "17394383487925491 - Equipos de control de calidad"
-        },
-        {
-          "src": "/images/products/17394383504255389.webp",
-          "alt": "17394383504255389 - Equipos de control de calidad"
-        },
-        {
-          "src": "/images/products/17394383621847147.webp",
-          "alt": "17394383621847147 - Equipos de control de calidad"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394383487182448.webp",
-        "alt": "17394383487182448 - Equipos de control de calidad"
-      }
-    },
-    {
-      "id": 48,
-      "name": "Equipos de control de calidad",
-      "category": "Equipos de control de calidad",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/48.html",
-      "description": "Equipos de control de calidad y metrología de última generación, incluyendo máquinas de medición por coordenadas Zeiss, escáneres de perfil 3D, comparadores ópticos y sistemas dedicados de inspección de muestras de botellas. Garantizando que cada núcleo de cavidad de molde de preforma PET y componente de anillo de cuello cumpla con las exigentes especificaciones dimensionales para producción de alta cavitación.",
-      "images": [
-        {
-          "src": "/images/products/17394383474634820.webp",
-          "alt": "17394383474634820 - Equipos de control de calidad"
-        },
-        {
-          "src": "/images/products/17394383476978540.webp",
-          "alt": "17394383476978540 - Equipos de control de calidad"
-        },
-        {
-          "src": "/images/products/17394383487182448.webp",
-          "alt": "17394383487182448 - Equipos de control de calidad"
-        },
-        {
-          "src": "/images/products/17394383487925491.webp",
-          "alt": "17394383487925491 - Equipos de control de calidad"
-        },
-        {
-          "src": "/images/products/17394383504255389.webp",
-          "alt": "17394383504255389 - Equipos de control de calidad"
-        },
-        {
-          "src": "/images/products/17394383621847147.webp",
-          "alt": "17394383621847147 - Equipos de control de calidad"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394383504255389.webp",
-        "alt": "17394383504255389 - Equipos de control de calidad"
-      }
-    },
-    {
       "id": 18,
       "name": "Equipos de control de calidad",
       "category": "Equipos de control de calidad",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/18.html",
-      "description": "Equipos de control de calidad y metrología de última generación, incluyendo máquinas de medición por coordenadas Zeiss, escáneres de perfil 3D, comparadores ópticos y sistemas dedicados de inspección de muestras de botellas. Garantizando que cada núcleo de cavidad de molde de preforma PET y componente de anillo de cuello cumpla con las exigentes especificaciones dimensionales para producción de alta cavitación.",
+      "description": "Nuestro laboratorio de calidad verifica cada componente antes del envío con una máquina de medición por coordenadas 3D Zeiss, escáner de perfiles 3D, proyector óptico y equipos específicos de inspección de muestras de botellas. Machos, cavidades, anillos de cuello y cavidades de soplado se comparan con los planos, y se miden preformas y botellas de muestra antes de que el molde salga de fábrica.",
+      "bullets": [
+        "MMC Zeiss: Medición 3D de machos, cavidades, anillos de cuello y placas de molde.",
+        "Escáner de perfiles 3D: Control de contornos y superficies de cavidades de soplado y formas complejas.",
+        "Proyector óptico: Medición 2D de perfiles de cuello y detalles pequeños.",
+        "Inspección de botellas: Control de preformas y botellas de muestra, incluidos espesores y dimensiones.",
+        "Documentación: Informes de inspección con moldes y repuestos bajo solicitud."
+      ],
       "images": [
         {
           "src": "/images/products/17394383474634820.webp",
@@ -1141,196 +536,18 @@
       }
     },
     {
-      "id": 52,
-      "name": "Equipos de mecanizado",
-      "category": "Equipos de mecanizado",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/52.html",
-      "description": "Centros de mecanizado CNC y equipos de fabricación de precisión de clase mundial de Mazak, Makino, Okamoto (Japón), Haas, Hardinge (EE.UU.) y Beijing Jingdiao. Ofreciendo precisión a nivel de micras en todos los componentes de núcleo, cavidad, inserto de compuerta y anillo de cuello de moldes de preforma PET.",
-      "images": [
-        {
-          "src": "/images/products/17394389876695582.webp",
-          "alt": "17394389876695582 - Equipos de mecanizado"
-        },
-        {
-          "src": "/images/products/17394389881848694.webp",
-          "alt": "17394389881848694 - Equipos de mecanizado"
-        },
-        {
-          "src": "/images/products/17394389885986861.webp",
-          "alt": "17394389885986861 - Equipos de mecanizado"
-        },
-        {
-          "src": "/images/products/17394389886427703.webp",
-          "alt": "17394389886427703 - Equipos de mecanizado"
-        },
-        {
-          "src": "/images/products/17394389889021699.webp",
-          "alt": "17394389889021699 - Equipos de mecanizado"
-        },
-        {
-          "src": "/images/products/17394390112351045.webp",
-          "alt": "17394390112351045 - Equipos de mecanizado"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394396071529094.webp",
-        "alt": "17394396071529094 - Equipos de mecanizado"
-      }
-    },
-    {
-      "id": 49,
-      "name": "Equipos de mecanizado",
-      "category": "Equipos de mecanizado",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/49.html",
-      "description": "Centros de mecanizado CNC y equipos de fabricación de precisión de clase mundial de Mazak, Makino, Okamoto (Japón), Haas, Hardinge (EE.UU.) y Beijing Jingdiao. Ofreciendo precisión a nivel de micras en todos los componentes de núcleo, cavidad, inserto de compuerta y anillo de cuello de moldes de preforma PET.",
-      "images": [
-        {
-          "src": "/images/products/17394389876695582.webp",
-          "alt": "17394389876695582 - Equipos de mecanizado"
-        },
-        {
-          "src": "/images/products/17394389881848694.webp",
-          "alt": "17394389881848694 - Equipos de mecanizado"
-        },
-        {
-          "src": "/images/products/17394389885986861.webp",
-          "alt": "17394389885986861 - Equipos de mecanizado"
-        },
-        {
-          "src": "/images/products/17394389886427703.webp",
-          "alt": "17394389886427703 - Equipos de mecanizado"
-        },
-        {
-          "src": "/images/products/17394389889021699.webp",
-          "alt": "17394389889021699 - Equipos de mecanizado"
-        },
-        {
-          "src": "/images/products/17394390112351045.webp",
-          "alt": "17394390112351045 - Equipos de mecanizado"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394389885986861.webp",
-        "alt": "17394389885986861 - Equipos de mecanizado"
-      }
-    },
-    {
-      "id": 50,
-      "name": "Equipos de mecanizado",
-      "category": "Equipos de mecanizado",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/50.html",
-      "description": "Centros de mecanizado CNC y equipos de fabricación de precisión de clase mundial de Mazak, Makino, Okamoto (Japón), Haas, Hardinge (EE.UU.) y Beijing Jingdiao. Ofreciendo precisión a nivel de micras en todos los componentes de núcleo, cavidad, inserto de compuerta y anillo de cuello de moldes de preforma PET.",
-      "images": [
-        {
-          "src": "/images/products/17394389876695582.webp",
-          "alt": "17394389876695582 - Equipos de mecanizado"
-        },
-        {
-          "src": "/images/products/17394389881848694.webp",
-          "alt": "17394389881848694 - Equipos de mecanizado"
-        },
-        {
-          "src": "/images/products/17394389885986861.webp",
-          "alt": "17394389885986861 - Equipos de mecanizado"
-        },
-        {
-          "src": "/images/products/17394389886427703.webp",
-          "alt": "17394389886427703 - Equipos de mecanizado"
-        },
-        {
-          "src": "/images/products/17394389889021699.webp",
-          "alt": "17394389889021699 - Equipos de mecanizado"
-        },
-        {
-          "src": "/images/products/17394390112351045.webp",
-          "alt": "17394390112351045 - Equipos de mecanizado"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394389881848694.webp",
-        "alt": "17394389881848694 - Equipos de mecanizado"
-      }
-    },
-    {
-      "id": 51,
-      "name": "Equipos de mecanizado",
-      "category": "Equipos de mecanizado",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/51.html",
-      "description": "Centros de mecanizado CNC y equipos de fabricación de precisión de clase mundial de Mazak, Makino, Okamoto (Japón), Haas, Hardinge (EE.UU.) y Beijing Jingdiao. Ofreciendo precisión a nivel de micras en todos los componentes de núcleo, cavidad, inserto de compuerta y anillo de cuello de moldes de preforma PET.",
-      "images": [
-        {
-          "src": "/images/products/17394389876695582.webp",
-          "alt": "17394389876695582 - Equipos de mecanizado"
-        },
-        {
-          "src": "/images/products/17394389881848694.webp",
-          "alt": "17394389881848694 - Equipos de mecanizado"
-        },
-        {
-          "src": "/images/products/17394389885986861.webp",
-          "alt": "17394389885986861 - Equipos de mecanizado"
-        },
-        {
-          "src": "/images/products/17394389886427703.webp",
-          "alt": "17394389886427703 - Equipos de mecanizado"
-        },
-        {
-          "src": "/images/products/17394389889021699.webp",
-          "alt": "17394389889021699 - Equipos de mecanizado"
-        },
-        {
-          "src": "/images/products/17394390112351045.webp",
-          "alt": "17394390112351045 - Equipos de mecanizado"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394389889021699.webp",
-        "alt": "17394389889021699 - Equipos de mecanizado"
-      }
-    },
-    {
-      "id": 53,
-      "name": "Equipos de mecanizado",
-      "category": "Equipos de mecanizado",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/53.html",
-      "description": "Centros de mecanizado CNC y equipos de fabricación de precisión de clase mundial de Mazak, Makino, Okamoto (Japón), Haas, Hardinge (EE.UU.) y Beijing Jingdiao. Ofreciendo precisión a nivel de micras en todos los componentes de núcleo, cavidad, inserto de compuerta y anillo de cuello de moldes de preforma PET.",
-      "images": [
-        {
-          "src": "/images/products/17394389876695582.webp",
-          "alt": "17394389876695582 - Equipos de mecanizado"
-        },
-        {
-          "src": "/images/products/17394389881848694.webp",
-          "alt": "17394389881848694 - Equipos de mecanizado"
-        },
-        {
-          "src": "/images/products/17394389885986861.webp",
-          "alt": "17394389885986861 - Equipos de mecanizado"
-        },
-        {
-          "src": "/images/products/17394389886427703.webp",
-          "alt": "17394389886427703 - Equipos de mecanizado"
-        },
-        {
-          "src": "/images/products/17394389889021699.webp",
-          "alt": "17394389889021699 - Equipos de mecanizado"
-        },
-        {
-          "src": "/images/products/17394390112351045.webp",
-          "alt": "17394390112351045 - Equipos de mecanizado"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394397294503687.webp",
-        "alt": "17394397294503687 - Equipos de mecanizado"
-      }
-    },
-    {
       "id": 17,
       "name": "Equipos de mecanizado",
       "category": "Equipos de mecanizado",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/17.html",
-      "description": "Centros de mecanizado CNC y equipos de fabricación de precisión de clase mundial de Mazak, Makino, Okamoto (Japón), Haas, Hardinge (EE.UU.) y Beijing Jingdiao. Ofreciendo precisión a nivel de micras en todos los componentes de núcleo, cavidad, inserto de compuerta y anillo de cuello de moldes de preforma PET.",
+      "description": "Nuestro taller cuenta con equipos de mecanizado CNC, torneado, rectificado y grabado de alta velocidad de Mazak, Makino y Okamoto (Japón), Haas y Hardinge (EE. UU.) y Beijing Jingdiao. Esta capacidad propia cubre todas las etapas de fabricación del molde, desde las placas hasta machos, cavidades, anillos de cuello, insertos de inyección y cavidades de soplado.",
+      "bullets": [
+        "Mazak / Makino: Centros CNC multieje y de alta velocidad para placas, cavidades y carcasas de soplado.",
+        "Hardinge: Tornos de precisión para machos, cavidades y anillos de cuello.",
+        "Okamoto: Rectificadoras planas de precisión para placas y componentes.",
+        "Haas: Centros de mecanizado CNC para mecanizado general y utillajes.",
+        "Beijing Jingdiao: Grabadoras de alta velocidad para detalles finos y cavidades de soplado pulidas."
+      ],
       "images": [
         {
           "src": "/images/products/17394389876695582.webp",

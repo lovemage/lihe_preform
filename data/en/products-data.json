@@ -46,31 +46,6 @@
       }
     },
     {
-      "id": 35,
-      "name": "Preform mold",
-      "category": "Preform mold",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/35.html",
-      "description": "High-cavitation PET preform injection molds engineered for maximum output and dimensional consistency. Available in 32 to 160 multi-cavity mold configurations with support for standard neck finishes including PCO 1716, PCO 1810, 3025, PCO 1881, 2925, 2622, and 38mm. Designed for seamless integration with HUSKY, NETSTAL, SIPA, and KATA injection molding machine platforms. Ideal for mineral water bottle, CSD, and beverage packaging preform production.",
-      "images": [
-        {
-          "src": "/images/products/17370998706850355.webp",
-          "alt": "17370998706850355 - Preform mold"
-        },
-        {
-          "src": "/images/products/17391796912408500.webp",
-          "alt": "17391796912408500 - Preform mold"
-        },
-        {
-          "src": "/images/products/17370999196920116.webp",
-          "alt": "17370999196920116 - Preform mold"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394357737098755.webp",
-        "alt": "17394357737098755 - Preform mold"
-      }
-    },
-    {
       "id": 34,
       "name": "Tooling Conversion Service",
       "category": "Preform mold",
@@ -102,10 +77,17 @@
     },
     {
       "id": 21,
-      "name": "Compression mold",
+      "name": "Compression Mold",
       "category": "Compression mold",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/21.html",
-      "description": "Precision compression molds for high-speed closure production. Engineered for SACMI compression molding machines and compatible injection molding platforms, delivering consistent food-grade PET closure quality at production speeds. Supports beverage, edible oil, and cosmetic packaging applications.",
+      "description": "Compression molds for high-speed plastic closure production on SACMI CCM continuous compression molding machines. Each cavity is dosed with an exact-weight pellet of melted resin and formed under high pressure, so the lower processing temperature allows faster cooling, shorter cycles and lower energy use than conventional injection. Suitable for beverage, edible oil, condiment and cosmetic closures.",
+      "bullets": [
+        "Machine platform: Built for SACMI CCM compression molding lines; replacement tooling can be made from customers' existing parts.",
+        "Process advantage: Lower extrusion temperature shortens cooling time, raising output and reducing energy consumption per cap.",
+        "Cap types: One-piece and two-piece closures, including tamper-evident band and EU tethered cap designs.",
+        "Neck finishes: 26mm, 28mm, 2925, 3025, 38mm and custom specifications.",
+        "Tooling components: Punches, dies, cores, cooling inserts and wear parts machined and inspected in-house."
+      ],
       "images": [
         {
           "src": "/images/products/17370982241948178.webp",
@@ -126,36 +108,18 @@
       }
     },
     {
-      "id": 32,
-      "name": "Compression mold",
-      "category": "Compression mold",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/32.html",
-      "description": "Precision compression molds for high-speed closure production. Engineered for SACMI compression molding machines and compatible injection molding platforms, delivering consistent food-grade PET closure quality at production speeds. Supports beverage, edible oil, and cosmetic packaging applications.",
-      "images": [
-        {
-          "src": "/images/products/17370982241948178.webp",
-          "alt": "17370982241948178 - Compression mold"
-        },
-        {
-          "src": "/images/products/17370982246598310.webp",
-          "alt": "17370982246598310 - Compression mold"
-        },
-        {
-          "src": "/images/products/17370982252775161.webp",
-          "alt": "17370982252775161 - Compression mold"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394351509457198.webp",
-        "alt": "17394351509457198 - Compression mold"
-      }
-    },
-    {
       "id": 20,
-      "name": "Closure mold",
+      "name": "Closure Mold",
       "category": "Closure mold",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/20.html",
-      "description": "Injection and compression closure molds for one-piece and two-piece cap designs, including EU tethered cap compatible configurations. Available in 12 to 72 multi-cavity configurations supporting 26mm, 28mm, 2925, 3025, and 38mm neck finish specifications. Suitable for beverage packaging, edible oil, condiment, cosmetic packaging, pharmaceutical, and food-grade PET applications. Compatible with major closure injection molding machines and SACMI compression systems.",
+      "description": "Multi-cavity closure molds for one-piece and two-piece caps, including EU tethered cap designs. Available from 12 to 72 cavities for 26mm, 28mm, 2925, 3025 and 38mm neck finishes, and compatible with major closure injection molding machines as well as SACMI compression machines. Used for water, juice and tea drinks, edible oil, condiments and soy sauce, cosmetics, health-care products, pharmaceuticals and food packaging.",
+      "bullets": [
+        "Cavitation: 12 to 72 cavities.",
+        "Cap specifications: One-piece and two-piece caps, tamper-evident bands and EU tethered cap configurations.",
+        "Neck finishes: 26mm, 28mm, 2925, 3025, 38mm and custom finishes.",
+        "Machine compatibility: Mainstream closure injection molding machines and SACMI compression machines.",
+        "Hot runner option: Closure hot runner systems of up to 96 cavities for balanced filling across every cavity."
+      ],
       "images": [
         {
           "src": "/images/products/17370980811159636.webp",
@@ -172,53 +136,31 @@
       }
     },
     {
-      "id": 33,
-      "name": "Closure mold",
-      "category": "Closure mold",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/33.html",
-      "description": "Injection and compression closure molds for one-piece and two-piece cap designs, including EU tethered cap compatible configurations. Available in 12 to 72 multi-cavity configurations supporting 26mm, 28mm, 2925, 3025, and 38mm neck finish specifications. Suitable for beverage packaging, edible oil, condiment, cosmetic packaging, pharmaceutical, and food-grade PET applications. Compatible with major closure injection molding machines and SACMI compression systems.",
-      "images": [
-        {
-          "src": "/images/products/17370980811159636.webp",
-          "alt": "17370980811159636 - Closure mold"
-        },
-        {
-          "src": "/images/products/17370980811973864.webp",
-          "alt": "17370980811973864 - Closure mold"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394353898105291.webp",
-        "alt": "17394353898105291 - Closure mold"
-      }
-    },
-    {
       "id": 22,
-      "name": "Blow mold",
+      "name": "Blow Mold",
       "category": "Blow mold",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/22.html",
-      "description": "PET blow molds for two-step and one-step blow molding processes. Engineered for leading equipment platforms including SIDEL, KRONES, KHS, TECH-LONG, NEWAMSTAR (two-step) and SIPA, ASB, AOKI (one-step). Serving the beverage packaging industry with mineral water bottle, CSD packaging, hot-fill, and aseptic bottle solutions, as well as food-grade PET, edible oil, cosmetic packaging, toiletry, and pharmaceutical containers. Supports lightweighting and wall thickness optimization designs.",
+      "description": "PET blow molds for two-step and one-step stretch blow molding. Built for SIDEL, KRONES, SIG/KHS, TECH-LONG and NEWAMSTAR two-step machines and SIPA, ASB and AOKI one-step machines. Covers water, CSD, hot-fill and aseptic beverage bottles as well as containers for food, edible oil, condiments, cosmetics, toiletries and pharmaceuticals, from bottle design and preform matching to finished mold.",
+      "bullets": [
+        "Machine compatibility: two-step machines: SIDEL, KRONES, SIG/KHS, TECH-LONG, NEWAMSTAR; one-step machines: SIPA, ASB, AOKI.",
+        "Beverage applications: Water, CSD, hot-fill and aseptic PET bottles.",
+        "Other containers: Food, edible oil, condiment, cosmetic, toiletry and pharmaceutical packaging.",
+        "Mold set: Mold shells, base molds and neck plates supplied as a complete set, with conversion parts for running one mold on different machines.",
+        "Bottle development: Bottle design, preform matching, lightweighting and wall thickness optimization."
+      ],
       "images": [
         {
-          "src": "/images/products/17394423704522202.webp",
-          "alt": "17394423704522202 - Blow mold"
-        },
-        {
-          "src": "/images/products/17394423714318047.webp",
-          "alt": "17394423714318047 - Blow mold"
-        },
-        {
           "src": "/images/products/17394423716636995.webp",
-          "alt": "17394423716636995 - Blow mold"
+          "alt": "17394423716636995 - Blow Mold"
         },
         {
           "src": "/images/products/17394423813805243.webp",
-          "alt": "17394423813805243 - Blow mold"
+          "alt": "17394423813805243 - Blow Mold"
         }
       ],
       "thumbnail": {
         "src": "/images/products/17394423716636995.webp",
-        "alt": "17394423716636995 - Blow mold"
+        "alt": "17394423716636995 - Blow Mold"
       }
     },
     {
@@ -226,7 +168,14 @@
       "name": "Cold Fill Blow Mold — KHS Platform",
       "category": "Blow mold",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/23.html",
-      "description": "PET blow molds for two-step and one-step blow molding processes. Engineered for leading equipment platforms including SIDEL, KRONES, KHS, TECH-LONG, NEWAMSTAR (two-step) and SIPA, ASB, AOKI (one-step). Serving the beverage packaging industry with mineral water bottle, CSD packaging, hot-fill, and aseptic bottle solutions, as well as food-grade PET, edible oil, cosmetic packaging, toiletry, and pharmaceutical containers. Supports lightweighting and wall thickness optimization designs.",
+      "description": "Cold fill PET blow molds built for KHS (formerly SIG) InnoPET Blomax stretch blow molders. Designed for still water, CSD and other ambient-filled beverages, the mold shells, base molds and neck plates are machined to fit the KHS mold carrier directly, supporting lightweight bottle designs with even material distribution.",
+      "bullets": [
+        "Machine platform: KHS / SIG InnoPET Blomax series stretch blow molders.",
+        "Filling type: Cold fill (ambient temperature) for still water, CSD, juice and dairy bottles.",
+        "Lightweighting: Bottle geometry and base design matched to the preform for even wall thickness at reduced bottle weight.",
+        "Complete set: Mold shells, base molds and neck plates machined to fit the KHS mold carrier without modification.",
+        "Cooling: Integrated cooling channels in shells and base molds for stable bottle quality at production speed."
+      ],
       "images": [
         {
           "src": "/images/products/17370983675539011.webp",
@@ -243,7 +192,14 @@
       "name": "Blow Mold for Disposable Bottled Water",
       "category": "Blow mold",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/24.html",
-      "description": "PET blow molds for two-step and one-step blow molding processes. Engineered for leading equipment platforms including SIDEL, KRONES, KHS, TECH-LONG, NEWAMSTAR (two-step) and SIPA, ASB, AOKI (one-step). Serving the beverage packaging industry with mineral water bottle, CSD packaging, hot-fill, and aseptic bottle solutions, as well as food-grade PET, edible oil, cosmetic packaging, toiletry, and pharmaceutical containers. Supports lightweighting and wall thickness optimization designs.",
+      "description": "Blow molds for single-use still water bottles, where bottle weight and output speed decide production cost. Bottle shape, base and grip panels are designed together with the preform for lightweight bottles that still hold their shape during filling, capping, palletizing and transport.",
+      "bullets": [
+        "Application: Still water and mineral water bottles in common sizes such as 330ml, 500ml, 550ml and 1.5L.",
+        "Lightweight design: Base and body geometry optimized to reduce PET use while keeping top-load strength.",
+        "Neck finishes: Matched to short-neck water preforms such as PCO 1881, 2925 and 2622.",
+        "Machine compatibility: two-step machines: SIDEL, KRONES, SIG/KHS, TECH-LONG, NEWAMSTAR; one-step machines: SIPA, ASB, AOKI.",
+        "High-speed production: Polished cavity surfaces and efficient cooling for stable output on high-speed rotary blowers."
+      ],
       "images": [
         {
           "src": "/images/products/17370984414715322.webp",
@@ -260,7 +216,14 @@
       "name": "Split-Type Quick-Change Blow Mold",
       "category": "Blow mold",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/25.html",
-      "description": "PET blow molds for two-step and one-step blow molding processes. Engineered for leading equipment platforms including SIDEL, KRONES, KHS, TECH-LONG, NEWAMSTAR (two-step) and SIPA, ASB, AOKI (one-step). Serving the beverage packaging industry with mineral water bottle, CSD packaging, hot-fill, and aseptic bottle solutions, as well as food-grade PET, edible oil, cosmetic packaging, toiletry, and pharmaceutical containers. Supports lightweighting and wall thickness optimization designs.",
+      "description": "Blow molds with a split structure: the bottle-shaped cavity inserts are separated from the mold shells that stay mounted in the machine. When the bottle format changes, only the lightweight inserts and base are swapped, cutting changeover time and the cost of tooling for each new bottle design.",
+      "bullets": [
+        "Structure: Replaceable cavity inserts and base molds mounted in fixed mold shells.",
+        "Fast changeover: Format changes without removing the shells from the mold carrier, reducing line downtime.",
+        "Lower tooling cost: New bottle shapes only need new inserts, not a complete mold set.",
+        "Machine compatibility: Adapted to the quick-change mold carriers of mainstream rotary blow molding machines.",
+        "Best for: Producers running many SKUs, frequent format changes or seasonal packaging."
+      ],
       "images": [
         {
           "src": "/images/products/17370984835265642.webp",
@@ -277,7 +240,14 @@
       "name": "Cold Fill Blow Mold — Krones Platform",
       "category": "Blow mold",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/26.html",
-      "description": "PET blow molds for two-step and one-step blow molding processes. Engineered for leading equipment platforms including SIDEL, KRONES, KHS, TECH-LONG, NEWAMSTAR (two-step) and SIPA, ASB, AOKI (one-step). Serving the beverage packaging industry with mineral water bottle, CSD packaging, hot-fill, and aseptic bottle solutions, as well as food-grade PET, edible oil, cosmetic packaging, toiletry, and pharmaceutical containers. Supports lightweighting and wall thickness optimization designs.",
+      "description": "Cold fill PET blow molds built for Krones Contiform stretch blow molders. Mold shells, base molds and neck plates fit the Contiform mold carrier and its quick-change locking system directly, for still water, CSD, juice and other ambient-filled beverage bottles.",
+      "bullets": [
+        "Machine platform: Krones Contiform series stretch blow molders.",
+        "Filling type: Cold fill for still water, CSD, juice and other ambient-filled beverages.",
+        "Quick change: Compatible with Contiform manual and tool-free quick-change mold carriers.",
+        "Complete set: Mold shells, base molds and neck plates supplied as a matched set.",
+        "Bottle development: Lightweighting and base design for carbonated and still products."
+      ],
       "images": [
         {
           "src": "/images/products/17394346245816742.webp",
@@ -294,7 +264,14 @@
       "name": "Hot Fill Blow Mold",
       "category": "Blow mold",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/31.html",
-      "description": "PET blow molds for two-step and one-step blow molding processes. Engineered for leading equipment platforms including SIDEL, KRONES, KHS, TECH-LONG, NEWAMSTAR (two-step) and SIPA, ASB, AOKI (one-step). Serving the beverage packaging industry with mineral water bottle, CSD packaging, hot-fill, and aseptic bottle solutions, as well as food-grade PET, edible oil, cosmetic packaging, toiletry, and pharmaceutical containers. Supports lightweighting and wall thickness optimization designs.",
+      "description": "Heat-set PET blow molds for bottles filled hot at around 85–95°C, such as juice, tea drinks and isotonic beverages. Standard PET bottles deform above about 60°C; heated mold walls crystallize and stabilize the bottle during blowing, and vacuum panels in the bottle design absorb the pressure drop as the product cools.",
+      "bullets": [
+        "Filling type: Hot fill for juice, tea, isotonic drinks and other products filled at about 85–95°C.",
+        "Heat-set process: Mold shells with heating channels for hot oil circulation, with separate temperature control of body and base.",
+        "Bottle design: Vacuum panels, reinforcing ribs and base geometry to keep the bottle stable after filling and cooling.",
+        "Machine compatibility: Heat-set versions of mainstream two-step rotary blowers, including SIDEL and KRONES.",
+        "Material and finish: Mold material and cavity finish chosen for long-term operation at elevated temperature."
+      ],
       "images": [
         {
           "src": "/images/products/17370986952792238.webp",
@@ -315,7 +292,14 @@
       "name": "Hot Runner System",
       "category": "Hotrunner system",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/27.html",
-      "description": "High-performance valve gate hot runner systems supporting up to 144 cavities for PET preform injection and 96 cavities for closure injection. Engineered with nozzle tip, valve pin, and manifold backing plate components for uniform melt distribution, precise temperature control, and minimal pressure drop. Compatible with HUSKY, NETSTAL, KM, SIPA, and other major preform and closure injection molding machine platforms.",
+      "description": "Valve gate hot runner systems for PET preform and plastic closure injection molds — up to 144 cavities for preforms and 96 cavities for closures. The manifold, nozzles, valve pins and backing plate are designed for balanced melt flow and precise temperature control, so every cavity fills evenly with low AA generation and minimal pressure drop.",
+      "bullets": [
+        "Cavitation: Up to 144 cavities for preform molds and 96 cavities for closure molds.",
+        "Machine compatibility: HUSKY, NETSTAL, KM, SIPA and other preform injection machines, plus mainstream closure injection machines.",
+        "Balanced flow: Naturally balanced manifold layout for uniform preform weight across all cavities.",
+        "Valve gating: Clean gate vestige and stable gate quality over long production runs.",
+        "Service: Replacement nozzle tips, valve pins, heaters and seals, plus refurbishment of existing hot runners."
+      ],
       "images": [
         {
           "src": "/images/products/17370987586591328.webp",
@@ -332,98 +316,51 @@
       }
     },
     {
-      "id": 36,
-      "name": "Hot Runner System",
-      "category": "Hotrunner system",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/36.html",
-      "description": "High-performance valve gate hot runner systems supporting up to 144 cavities for PET preform injection and 96 cavities for closure injection. Engineered with nozzle tip, valve pin, and manifold backing plate components for uniform melt distribution, precise temperature control, and minimal pressure drop. Compatible with HUSKY, NETSTAL, KM, SIPA, and other major preform and closure injection molding machine platforms.",
-      "images": [
-        {
-          "src": "/images/products/17370987586591328.webp",
-          "alt": "17370987586591328 - Hot runner system"
-        },
-        {
-          "src": "/images/products/17370987757197630.webp",
-          "alt": "17370987757197630 - Hot runner system"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17370987586591328.webp",
-        "alt": "17370987586591328 - Hot runner system"
-      }
-    },
-    {
       "id": 42,
       "name": "Accessories Kit",
       "category": "Accessories",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/42.html",
-      "description": "Precision-machined accessories and conversion parts for PET blow molding equipment. Including blowing pins, mold shells, clamping bases, guide pin and bushing sets, and custom adapters for neck finish modifications, capacity changes, and cross-platform mold conversions. Engineered to OEM specifications for seamless equipment integration with SIDEL, KRONES, and KHS platforms.",
+      "description": "Personalized parts for blow molding machines: parts needed for neck finish changes, bottle shape and capacity changes, parts related to bottle shape and preform optimization, and conversion parts that let the same blow mold run on different blowing equipment. A one-stop parts service that helps customers launch new products faster.",
+      "bullets": [
+        "Neck finish changes: Parts required when switching to a new neck finish or preform.",
+        "Format changes: Parts for new bottle shapes and capacities.",
+        "Cross-machine conversion: Conversion parts to run one blow mold on different blowing machines.",
+        "Machine spare parts: Made from customers' existing parts or drawings for SIDEL, KRONES, KHS and other blow molding machines.",
+        "One-stop service: Delivered together with the blow mold to shorten new product launches."
+      ],
       "images": [
         {
           "src": "/images/products/17370988114255937.webp",
-          "alt": "17370988114255937 - Accessories"
-        },
-        {
-          "src": "/images/products/17370988352920780.webp",
-          "alt": "17370988352920780 - Accessories"
-        },
-        {
-          "src": "/images/products/17370988353734804.webp",
-          "alt": "17370988353734804 - Accessories"
-        },
-        {
-          "src": "/images/products/17370988354137534.webp",
-          "alt": "17370988354137534 - Accessories"
-        },
-        {
-          "src": "/images/products/17370988357249742.webp",
-          "alt": "17370988357249742 - Accessories"
-        },
-        {
-          "src": "/images/products/17370988418269066.webp",
-          "alt": "17370988418269066 - Accessories"
+          "alt": "17370988114255937 - Accessories Kit"
         }
       ],
       "thumbnail": {
-        "src": "/images/products/17394369973455335.webp",
-        "alt": "17394369973455335 - Accessories"
+        "src": "/images/products/17370988114255937.webp",
+        "alt": "17370988114255937 - Accessories Kit"
       }
     },
     {
       "id": 28,
-      "name": "Blowing Pins",
+      "name": "Blowing Pins & Stretch Rods",
       "category": "Accessories",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/28.html",
-      "description": "Precision-machined accessories and conversion parts for PET blow molding equipment. Including blowing pins, mold shells, clamping bases, guide pin and bushing sets, and custom adapters for neck finish modifications, capacity changes, and cross-platform mold conversions. Engineered to OEM specifications for seamless equipment integration with SIDEL, KRONES, and KHS platforms.",
+      "description": "Blowing nozzles, blowing pins and stretch rods for PET stretch blow molding machines. These parts seal the preform neck, guide the stretch rod and deliver pre-blow and high-pressure air, so their fit and wear directly affect bottle quality and air consumption.",
+      "bullets": [
+        "Parts: Blowing nozzles, blowing pins, stretch rods, stretch rod tips and seals.",
+        "Neck finish matching: Made to the preform neck finish, including conversions to new neck finishes.",
+        "Precision fit: Ground and polished sealing and guiding surfaces for a reliable seal and straight stretching.",
+        "Machine compatibility: Made from customers' existing parts or drawings for SIDEL, KRONES, KHS and other blow molding machines.",
+        "Replacement: Supplied as spare parts or as part of a format conversion package."
+      ],
       "images": [
         {
-          "src": "/images/products/17394427732320561.webp",
-          "alt": "17394427732320561 - Blowing pins"
-        },
-        {
-          "src": "/images/products/17394427732438942.webp",
-          "alt": "17394427732438942 - Blowing pins"
-        },
-        {
-          "src": "/images/products/17394427733103781.webp",
-          "alt": "17394427733103781 - Blowing pins"
-        },
-        {
-          "src": "/images/products/17394427741046270.webp",
-          "alt": "17394427741046270 - Blowing pins"
-        },
-        {
           "src": "/images/products/17394427744980878.webp",
-          "alt": "17394427744980878 - Blowing pins"
-        },
-        {
-          "src": "/images/products/17394427801606028.webp",
-          "alt": "17394427801606028 - Blowing pins"
+          "alt": "17394427744980878 - Blowing Pins & Stretch Rods"
         }
       ],
       "thumbnail": {
         "src": "/images/products/17394427744980878.webp",
-        "alt": "17394427744980878 - Blowing pins"
+        "alt": "17394427744980878 - Blowing Pins & Stretch Rods"
       }
     },
     {
@@ -431,36 +368,23 @@
       "name": "Clamping Base",
       "category": "Accessories",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/39.html",
-      "description": "Precision-machined accessories and conversion parts for PET blow molding equipment. Including blowing pins, mold shells, clamping bases, guide pin and bushing sets, and custom adapters for neck finish modifications, capacity changes, and cross-platform mold conversions. Engineered to OEM specifications for seamless equipment integration with SIDEL, KRONES, and KHS platforms.",
+      "description": "Clamping bases (mold carrier bases) that hold the blow mold shells and base mold in the blowing station. Accurate mounting faces and locating features keep the two mold halves and the base aligned under blowing pressure, giving a clean parting line and consistent bottle dimensions.",
+      "bullets": [
+        "Function: Mounts and locates the blow mold shells and base mold in the mold carrier.",
+        "Accuracy: Precision-machined mounting and locating surfaces for repeatable alignment after every mold change.",
+        "Cooling: Water connections and channels matched to the mold's cooling circuit.",
+        "Machine compatibility: Made from customers' existing parts or drawings for SIDEL, KRONES, KHS and other blow molding machines.",
+        "Material: Machined from high-strength aluminum alloy or steel according to machine requirements."
+      ],
       "images": [
         {
-          "src": "/images/products/17394427732320561.webp",
-          "alt": "17394427732320561 - Clamping base"
-        },
-        {
-          "src": "/images/products/17394427732438942.webp",
-          "alt": "17394427732438942 - Clamping base"
-        },
-        {
-          "src": "/images/products/17394427733103781.webp",
-          "alt": "17394427733103781 - Clamping base"
-        },
-        {
           "src": "/images/products/17394427741046270.webp",
-          "alt": "17394427741046270 - Clamping base"
-        },
-        {
-          "src": "/images/products/17394427744980878.webp",
-          "alt": "17394427744980878 - Clamping base"
-        },
-        {
-          "src": "/images/products/17394427801606028.webp",
-          "alt": "17394427801606028 - Clamping base"
+          "alt": "17394427741046270 - Clamping Base"
         }
       ],
       "thumbnail": {
         "src": "/images/products/17394427741046270.webp",
-        "alt": "17394427741046270 - Clamping base"
+        "alt": "17394427741046270 - Clamping Base"
       }
     },
     {
@@ -468,36 +392,27 @@
       "name": "Mold Shell",
       "category": "Accessories",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/38.html",
-      "description": "Precision-machined accessories and conversion parts for PET blow molding equipment. Including blowing pins, mold shells, clamping bases, guide pin and bushing sets, and custom adapters for neck finish modifications, capacity changes, and cross-platform mold conversions. Engineered to OEM specifications for seamless equipment integration with SIDEL, KRONES, and KHS platforms.",
+      "description": "Mold shells (shell holders) that carry the bottle cavity halves in the blowing machine's mold carrier. With a shell system, only the cavity inserts change between bottle formats, making changeovers faster and new bottle tooling cheaper.",
+      "bullets": [
+        "Function: Holds the cavity halves in the mold carrier and connects them to the cooling circuit.",
+        "Quick change: Supports shell-type quick-change systems so only the cavity inserts are swapped.",
+        "Cooling: Drilled cooling channels for even mold temperature.",
+        "Machine compatibility: Made from customers' existing parts or drawings for SIDEL, KRONES, KHS and other blow molding machines.",
+        "Material: Lightweight aluminum alloy, precision machined for accurate fit."
+      ],
       "images": [
         {
-          "src": "/images/products/17394427732320561.webp",
-          "alt": "17394427732320561 - Mold shell"
-        },
-        {
-          "src": "/images/products/17394427732438942.webp",
-          "alt": "17394427732438942 - Mold shell"
-        },
-        {
           "src": "/images/products/17394427733103781.webp",
-          "alt": "17394427733103781 - Mold shell"
-        },
-        {
-          "src": "/images/products/17394427741046270.webp",
-          "alt": "17394427741046270 - Mold shell"
-        },
-        {
-          "src": "/images/products/17394427744980878.webp",
-          "alt": "17394427744980878 - Mold shell"
+          "alt": "17394427733103781 - Mold Shell"
         },
         {
           "src": "/images/products/17394427801606028.webp",
-          "alt": "17394427801606028 - Mold shell"
+          "alt": "17394427801606028 - Mold Shell"
         }
       ],
       "thumbnail": {
-        "src": "/images/products/17394427801606028.webp",
-        "alt": "17394427801606028 - Mold shell"
+        "src": "/images/products/17394427733103781.webp",
+        "alt": "17394427733103781 - Mold Shell"
       }
     },
     {
@@ -505,372 +420,23 @@
       "name": "Conversion Parts",
       "category": "Accessories",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/40.html",
-      "description": "Precision-machined accessories and conversion parts for PET blow molding equipment. Including blowing pins, mold shells, clamping bases, guide pin and bushing sets, and custom adapters for neck finish modifications, capacity changes, and cross-platform mold conversions. Engineered to OEM specifications for seamless equipment integration with SIDEL, KRONES, and KHS platforms.",
+      "description": "Format change parts for PET blowing and bottle handling lines, such as star wheels, transfer guides and neck grippers. They let an existing line handle a new bottle, preform or neck finish, or run the same blow mold on different blowing equipment.",
+      "bullets": [
+        "Parts: Star wheels, infeed and transfer guides, neck grippers and other format-dependent parts.",
+        "Use cases: New bottle shapes and capacities, new neck finishes and preform changes.",
+        "Cross-machine conversion: Conversion parts for running one blow mold on different blowing machines.",
+        "Machine compatibility: Made from customers' existing parts or drawings for SIDEL, KRONES, KHS and other blow molding machines.",
+        "Delivery: Supplied with the new blow mold as a complete format change package."
+      ],
       "images": [
         {
-          "src": "/images/products/17370988114255937.webp",
-          "alt": "17370988114255937 - Conversion parts"
-        },
-        {
-          "src": "/images/products/17370988352920780.webp",
-          "alt": "17370988352920780 - Conversion parts"
-        },
-        {
-          "src": "/images/products/17370988353734804.webp",
-          "alt": "17370988353734804 - Conversion parts"
-        },
-        {
-          "src": "/images/products/17370988354137534.webp",
-          "alt": "17370988354137534 - Conversion parts"
-        },
-        {
-          "src": "/images/products/17370988357249742.webp",
-          "alt": "17370988357249742 - Conversion parts"
-        },
-        {
-          "src": "/images/products/17370988418269066.webp",
-          "alt": "17370988418269066 - Conversion parts"
+          "src": "/images/products/17394427732438942.webp",
+          "alt": "17394427732438942 - Conversion Parts"
         }
       ],
       "thumbnail": {
-        "src": "/images/products/17394373216268276.webp",
-        "alt": "17394373216268276 - Conversion parts"
-      }
-    },
-    {
-      "id": 41,
-      "name": "Mold Shell",
-      "category": "Accessories",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/41.html",
-      "description": "Precision-machined accessories and conversion parts for PET blow molding equipment. Including blowing pins, mold shells, clamping bases, guide pin and bushing sets, and custom adapters for neck finish modifications, capacity changes, and cross-platform mold conversions. Engineered to OEM specifications for seamless equipment integration with SIDEL, KRONES, and KHS platforms.",
-      "images": [
-        {
-          "src": "/images/products/17370988114255937.webp",
-          "alt": "17370988114255937 - Mold shell"
-        },
-        {
-          "src": "/images/products/17370988352920780.webp",
-          "alt": "17370988352920780 - Mold shell"
-        },
-        {
-          "src": "/images/products/17370988353734804.webp",
-          "alt": "17370988353734804 - Mold shell"
-        },
-        {
-          "src": "/images/products/17370988354137534.webp",
-          "alt": "17370988354137534 - Mold shell"
-        },
-        {
-          "src": "/images/products/17370988357249742.webp",
-          "alt": "17370988357249742 - Mold shell"
-        },
-        {
-          "src": "/images/products/17370988418269066.webp",
-          "alt": "17370988418269066 - Mold shell"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394371384899028.webp",
-        "alt": "17394371384899028 - Mold shell"
-      }
-    },
-    {
-      "id": 61,
-      "name": "Precision Mold Base",
-      "category": "High precision mold base manufacturing",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/61.html",
-      "description": "Ultra-precision mold base manufacturing utilizing advanced CNC machining centers, precision grinding, and rigorous quality control. Every mold base is engineered for exceptional flatness, parallelism, and dimensional accuracy — forming the foundation for reliable, high-performance PET preform mold and blow mold assemblies. Supports multi-cavity mold configurations for high-cavitation production.",
-      "images": [
-        {
-          "src": "/images/products/17394412092833020.webp",
-          "alt": "17394412092833020 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412102425995.webp",
-          "alt": "17394412102425995 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412105648377.webp",
-          "alt": "17394412105648377 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412105860041.webp",
-          "alt": "17394412105860041 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412155940542.webp",
-          "alt": "17394412155940542 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412159684142.webp",
-          "alt": "17394412159684142 - High precision mold base manufacturing"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394412105860041.webp",
-        "alt": "17394412105860041 - High precision mold base manufacturing"
-      }
-    },
-    {
-      "id": 62,
-      "name": "Precision Mold Base",
-      "category": "High precision mold base manufacturing",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/62.html",
-      "description": "Ultra-precision mold base manufacturing utilizing advanced CNC machining centers, precision grinding, and rigorous quality control. Every mold base is engineered for exceptional flatness, parallelism, and dimensional accuracy — forming the foundation for reliable, high-performance PET preform mold and blow mold assemblies. Supports multi-cavity mold configurations for high-cavitation production.",
-      "images": [
-        {
-          "src": "/images/products/17394411982219600.webp",
-          "alt": "17394411982219600 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394411996061122.webp",
-          "alt": "17394411996061122 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412092833020.webp",
-          "alt": "17394412092833020 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412102425995.webp",
-          "alt": "17394412102425995 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412105648377.webp",
-          "alt": "17394412105648377 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412155940542.webp",
-          "alt": "17394412155940542 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412164744807.webp",
-          "alt": "17394412164744807 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412165686314.webp",
-          "alt": "17394412165686314 - High precision mold base manufacturing"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394412092833020.webp",
-        "alt": "17394412092833020 - High precision mold base manufacturing"
-      }
-    },
-    {
-      "id": 63,
-      "name": "Precision Mold Base",
-      "category": "High precision mold base manufacturing",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/63.html",
-      "description": "Ultra-precision mold base manufacturing utilizing advanced CNC machining centers, precision grinding, and rigorous quality control. Every mold base is engineered for exceptional flatness, parallelism, and dimensional accuracy — forming the foundation for reliable, high-performance PET preform mold and blow mold assemblies. Supports multi-cavity mold configurations for high-cavitation production.",
-      "images": [
-        {
-          "src": "/images/products/17394412092833020.webp",
-          "alt": "17394412092833020 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412102425995.webp",
-          "alt": "17394412102425995 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412105648377.webp",
-          "alt": "17394412105648377 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412105860041.webp",
-          "alt": "17394412105860041 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412155940542.webp",
-          "alt": "17394412155940542 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412159684142.webp",
-          "alt": "17394412159684142 - High precision mold base manufacturing"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394411885135753.webp",
-        "alt": "17394411885135753 - High precision mold base manufacturing"
-      }
-    },
-    {
-      "id": 64,
-      "name": "Precision Mold Base",
-      "category": "High precision mold base manufacturing",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/64.html",
-      "description": "Ultra-precision mold base manufacturing utilizing advanced CNC machining centers, precision grinding, and rigorous quality control. Every mold base is engineered for exceptional flatness, parallelism, and dimensional accuracy — forming the foundation for reliable, high-performance PET preform mold and blow mold assemblies. Supports multi-cavity mold configurations for high-cavitation production.",
-      "images": [
-        {
-          "src": "/images/products/17394411996061122.webp",
-          "alt": "17394411996061122 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412092833020.webp",
-          "alt": "17394412092833020 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412102425995.webp",
-          "alt": "17394412102425995 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412105648377.webp",
-          "alt": "17394412105648377 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412105860041.webp",
-          "alt": "17394412105860041 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412155940542.webp",
-          "alt": "17394412155940542 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412164744807.webp",
-          "alt": "17394412164744807 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412165686314.webp",
-          "alt": "17394412165686314 - High precision mold base manufacturing"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394412159684142.webp",
-        "alt": "17394412159684142 - High precision mold base manufacturing"
-      }
-    },
-    {
-      "id": 65,
-      "name": "Precision Mold Base",
-      "category": "High precision mold base manufacturing",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/65.html",
-      "description": "Ultra-precision mold base manufacturing utilizing advanced CNC machining centers, precision grinding, and rigorous quality control. Every mold base is engineered for exceptional flatness, parallelism, and dimensional accuracy — forming the foundation for reliable, high-performance PET preform mold and blow mold assemblies. Supports multi-cavity mold configurations for high-cavitation production.",
-      "images": [
-        {
-          "src": "/images/products/17394412092833020.webp",
-          "alt": "17394412092833020 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412102425995.webp",
-          "alt": "17394412102425995 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412105648377.webp",
-          "alt": "17394412105648377 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412105860041.webp",
-          "alt": "17394412105860041 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412155940542.webp",
-          "alt": "17394412155940542 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412159684142.webp",
-          "alt": "17394412159684142 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412164744807.webp",
-          "alt": "17394412164744807 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412165686314.webp",
-          "alt": "17394412165686314 - High precision mold base manufacturing"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394412164744807.webp",
-        "alt": "17394412164744807 - High precision mold base manufacturing"
-      }
-    },
-    {
-      "id": 66,
-      "name": "Precision Mold Base",
-      "category": "High precision mold base manufacturing",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/66.html",
-      "description": "Ultra-precision mold base manufacturing utilizing advanced CNC machining centers, precision grinding, and rigorous quality control. Every mold base is engineered for exceptional flatness, parallelism, and dimensional accuracy — forming the foundation for reliable, high-performance PET preform mold and blow mold assemblies. Supports multi-cavity mold configurations for high-cavitation production.",
-      "images": [
-        {
-          "src": "/images/products/17394412092833020.webp",
-          "alt": "17394412092833020 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412102425995.webp",
-          "alt": "17394412102425995 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412105648377.webp",
-          "alt": "17394412105648377 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412105860041.webp",
-          "alt": "17394412105860041 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412155940542.webp",
-          "alt": "17394412155940542 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412159684142.webp",
-          "alt": "17394412159684142 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412164744807.webp",
-          "alt": "17394412164744807 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412165686314.webp",
-          "alt": "17394412165686314 - High precision mold base manufacturing"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394412165686314.webp",
-        "alt": "17394412165686314 - High precision mold base manufacturing"
-      }
-    },
-    {
-      "id": 67,
-      "name": "Precision Mold Base",
-      "category": "High precision mold base manufacturing",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/67.html",
-      "description": "Ultra-precision mold base manufacturing utilizing advanced CNC machining centers, precision grinding, and rigorous quality control. Every mold base is engineered for exceptional flatness, parallelism, and dimensional accuracy — forming the foundation for reliable, high-performance PET preform mold and blow mold assemblies. Supports multi-cavity mold configurations for high-cavitation production.",
-      "images": [
-        {
-          "src": "/images/products/17394412092833020.webp",
-          "alt": "17394412092833020 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412102425995.webp",
-          "alt": "17394412102425995 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412105648377.webp",
-          "alt": "17394412105648377 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412105860041.webp",
-          "alt": "17394412105860041 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412155940542.webp",
-          "alt": "17394412155940542 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412159684142.webp",
-          "alt": "17394412159684142 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412164744807.webp",
-          "alt": "17394412164744807 - High precision mold base manufacturing"
-        },
-        {
-          "src": "/images/products/17394412165686314.webp",
-          "alt": "17394412165686314 - High precision mold base manufacturing"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394412155940542.webp",
-        "alt": "17394412155940542 - High precision mold base manufacturing"
+        "src": "/images/products/17394427732438942.webp",
+        "alt": "17394427732438942 - Conversion Parts"
       }
     },
     {
@@ -878,7 +444,14 @@
       "name": "Precision Mold Base",
       "category": "High precision mold base manufacturing",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/30.html",
-      "description": "Ultra-precision mold base manufacturing utilizing advanced CNC machining centers, precision grinding, and rigorous quality control. Every mold base is engineered for exceptional flatness, parallelism, and dimensional accuracy — forming the foundation for reliable, high-performance PET preform mold and blow mold assemblies. Supports multi-cavity mold configurations for high-cavitation production.",
+      "description": "High-precision mold base manufacturing for PET preform, closure and blow molds. Plates are machined on Mazak, Makino and Haas CNC centers, ground on Okamoto precision grinders and verified on Zeiss CMMs, giving the flatness, parallelism and hole-position accuracy that high-cavitation molds depend on.",
+      "bullets": [
+        "Applications: Mold bases and plates for preform molds up to 160 cavities, closure molds and blow molds.",
+        "Machining: Multi-axis CNC machining, deep-hole drilling for cooling channels and precision surface grinding.",
+        "Accuracy: Flatness, parallelism and cavity-position accuracy verified on Zeiss CMM before delivery.",
+        "Scope: Complete mold bases, individual plates, and replacement or refurbished plates for existing molds.",
+        "Built to drawings: Manufactured to customer drawings or designed in-house for new molds."
+      ],
       "images": [
         {
           "src": "/images/products/17394412092833020.webp",
@@ -919,196 +492,18 @@
       }
     },
     {
-      "id": 44,
-      "name": "QC equipment",
-      "category": "QC equipment",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/44.html",
-      "description": "State-of-the-art quality control and metrology equipment including Zeiss coordinate measuring machines, 3D profile scanners, optical comparators, and dedicated bottle sample inspection systems. Ensuring every PET preform mold core cavity and neck ring component meets exacting dimensional specifications for high-cavitation production.",
-      "images": [
-        {
-          "src": "/images/products/17394383474634820.webp",
-          "alt": "17394383474634820 - QC equipment"
-        },
-        {
-          "src": "/images/products/17394383476978540.webp",
-          "alt": "17394383476978540 - QC equipment"
-        },
-        {
-          "src": "/images/products/17394383487182448.webp",
-          "alt": "17394383487182448 - QC equipment"
-        },
-        {
-          "src": "/images/products/17394383487925491.webp",
-          "alt": "17394383487925491 - QC equipment"
-        },
-        {
-          "src": "/images/products/17394383504255389.webp",
-          "alt": "17394383504255389 - QC equipment"
-        },
-        {
-          "src": "/images/products/17394383621847147.webp",
-          "alt": "17394383621847147 - QC equipment"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394383621847147.webp",
-        "alt": "17394383621847147 - QC equipment"
-      }
-    },
-    {
-      "id": 45,
-      "name": "QC equipment",
-      "category": "QC equipment",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/45.html",
-      "description": "State-of-the-art quality control and metrology equipment including Zeiss coordinate measuring machines, 3D profile scanners, optical comparators, and dedicated bottle sample inspection systems. Ensuring every PET preform mold core cavity and neck ring component meets exacting dimensional specifications for high-cavitation production.",
-      "images": [
-        {
-          "src": "/images/products/17394383474634820.webp",
-          "alt": "17394383474634820 - QC equipment"
-        },
-        {
-          "src": "/images/products/17394383476978540.webp",
-          "alt": "17394383476978540 - QC equipment"
-        },
-        {
-          "src": "/images/products/17394383487182448.webp",
-          "alt": "17394383487182448 - QC equipment"
-        },
-        {
-          "src": "/images/products/17394383487925491.webp",
-          "alt": "17394383487925491 - QC equipment"
-        },
-        {
-          "src": "/images/products/17394383504255389.webp",
-          "alt": "17394383504255389 - QC equipment"
-        },
-        {
-          "src": "/images/products/17394383621847147.webp",
-          "alt": "17394383621847147 - QC equipment"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394383474634820.webp",
-        "alt": "17394383474634820 - QC equipment"
-      }
-    },
-    {
-      "id": 46,
-      "name": "QC equipment",
-      "category": "QC equipment",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/46.html",
-      "description": "State-of-the-art quality control and metrology equipment including Zeiss coordinate measuring machines, 3D profile scanners, optical comparators, and dedicated bottle sample inspection systems. Ensuring every PET preform mold core cavity and neck ring component meets exacting dimensional specifications for high-cavitation production.",
-      "images": [
-        {
-          "src": "/images/products/17394383474634820.webp",
-          "alt": "17394383474634820 - QC equipment"
-        },
-        {
-          "src": "/images/products/17394383476978540.webp",
-          "alt": "17394383476978540 - QC equipment"
-        },
-        {
-          "src": "/images/products/17394383487182448.webp",
-          "alt": "17394383487182448 - QC equipment"
-        },
-        {
-          "src": "/images/products/17394383487925491.webp",
-          "alt": "17394383487925491 - QC equipment"
-        },
-        {
-          "src": "/images/products/17394383504255389.webp",
-          "alt": "17394383504255389 - QC equipment"
-        },
-        {
-          "src": "/images/products/17394383621847147.webp",
-          "alt": "17394383621847147 - QC equipment"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394383487925491.webp",
-        "alt": "17394383487925491 - QC equipment"
-      }
-    },
-    {
-      "id": 47,
-      "name": "QC equipment",
-      "category": "QC equipment",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/47.html",
-      "description": "State-of-the-art quality control and metrology equipment including Zeiss coordinate measuring machines, 3D profile scanners, optical comparators, and dedicated bottle sample inspection systems. Ensuring every PET preform mold core cavity and neck ring component meets exacting dimensional specifications for high-cavitation production.",
-      "images": [
-        {
-          "src": "/images/products/17394383474634820.webp",
-          "alt": "17394383474634820 - QC equipment"
-        },
-        {
-          "src": "/images/products/17394383476978540.webp",
-          "alt": "17394383476978540 - QC equipment"
-        },
-        {
-          "src": "/images/products/17394383487182448.webp",
-          "alt": "17394383487182448 - QC equipment"
-        },
-        {
-          "src": "/images/products/17394383487925491.webp",
-          "alt": "17394383487925491 - QC equipment"
-        },
-        {
-          "src": "/images/products/17394383504255389.webp",
-          "alt": "17394383504255389 - QC equipment"
-        },
-        {
-          "src": "/images/products/17394383621847147.webp",
-          "alt": "17394383621847147 - QC equipment"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394383487182448.webp",
-        "alt": "17394383487182448 - QC equipment"
-      }
-    },
-    {
-      "id": 48,
-      "name": "QC equipment",
-      "category": "QC equipment",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/48.html",
-      "description": "State-of-the-art quality control and metrology equipment including Zeiss coordinate measuring machines, 3D profile scanners, optical comparators, and dedicated bottle sample inspection systems. Ensuring every PET preform mold core cavity and neck ring component meets exacting dimensional specifications for high-cavitation production.",
-      "images": [
-        {
-          "src": "/images/products/17394383474634820.webp",
-          "alt": "17394383474634820 - QC equipment"
-        },
-        {
-          "src": "/images/products/17394383476978540.webp",
-          "alt": "17394383476978540 - QC equipment"
-        },
-        {
-          "src": "/images/products/17394383487182448.webp",
-          "alt": "17394383487182448 - QC equipment"
-        },
-        {
-          "src": "/images/products/17394383487925491.webp",
-          "alt": "17394383487925491 - QC equipment"
-        },
-        {
-          "src": "/images/products/17394383504255389.webp",
-          "alt": "17394383504255389 - QC equipment"
-        },
-        {
-          "src": "/images/products/17394383621847147.webp",
-          "alt": "17394383621847147 - QC equipment"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394383504255389.webp",
-        "alt": "17394383504255389 - QC equipment"
-      }
-    },
-    {
       "id": 18,
-      "name": "QC equipment",
+      "name": "QC Equipment",
       "category": "QC equipment",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/18.html",
-      "description": "State-of-the-art quality control and metrology equipment including Zeiss coordinate measuring machines, 3D profile scanners, optical comparators, and dedicated bottle sample inspection systems. Ensuring every PET preform mold core cavity and neck ring component meets exacting dimensional specifications for high-cavitation production.",
+      "description": "Our quality control lab verifies every mold component before shipment using a Zeiss 3D coordinate measuring machine, 3D profile scanner, optical projector and dedicated bottle sample inspection equipment. Cores, cavities, neck rings and blow mold cavities are checked against drawings, and sample preforms and bottles are measured before a mold leaves the factory.",
+      "bullets": [
+        "Zeiss CMM: 3D coordinate measurement of cores, cavities, neck rings and mold plates.",
+        "3D profile scanner: Contour and surface checks of blow mold cavities and complex shapes.",
+        "Optical projector: Two-dimensional measurement of neck finish profiles and small features.",
+        "Bottle inspection: Sample preform and bottle checks, including wall thickness and dimensions.",
+        "Documentation: Inspection reports supplied with molds and spare parts on request."
+      ],
       "images": [
         {
           "src": "/images/products/17394383474634820.webp",
@@ -1141,196 +536,18 @@
       }
     },
     {
-      "id": 52,
-      "name": "Machining equipment",
-      "category": "Machining equipment",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/52.html",
-      "description": "World-class CNC machining centers and precision manufacturing equipment from Mazak, Makino, Okamoto (Japan), Haas, Hardinge (USA), and Beijing Jingdiao. Delivering micron-level accuracy across all PET preform mold core, cavity, gate insert, and neck ring components.",
-      "images": [
-        {
-          "src": "/images/products/17394389876695582.webp",
-          "alt": "17394389876695582 - Machining equipment"
-        },
-        {
-          "src": "/images/products/17394389881848694.webp",
-          "alt": "17394389881848694 - Machining equipment"
-        },
-        {
-          "src": "/images/products/17394389885986861.webp",
-          "alt": "17394389885986861 - Machining equipment"
-        },
-        {
-          "src": "/images/products/17394389886427703.webp",
-          "alt": "17394389886427703 - Machining equipment"
-        },
-        {
-          "src": "/images/products/17394389889021699.webp",
-          "alt": "17394389889021699 - Machining equipment"
-        },
-        {
-          "src": "/images/products/17394390112351045.webp",
-          "alt": "17394390112351045 - Machining equipment"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394396071529094.webp",
-        "alt": "17394396071529094 - Machining equipment"
-      }
-    },
-    {
-      "id": 49,
-      "name": "Machining equipment",
-      "category": "Machining equipment",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/49.html",
-      "description": "World-class CNC machining centers and precision manufacturing equipment from Mazak, Makino, Okamoto (Japan), Haas, Hardinge (USA), and Beijing Jingdiao. Delivering micron-level accuracy across all PET preform mold core, cavity, gate insert, and neck ring components.",
-      "images": [
-        {
-          "src": "/images/products/17394389876695582.webp",
-          "alt": "17394389876695582 - Machining equipment"
-        },
-        {
-          "src": "/images/products/17394389881848694.webp",
-          "alt": "17394389881848694 - Machining equipment"
-        },
-        {
-          "src": "/images/products/17394389885986861.webp",
-          "alt": "17394389885986861 - Machining equipment"
-        },
-        {
-          "src": "/images/products/17394389886427703.webp",
-          "alt": "17394389886427703 - Machining equipment"
-        },
-        {
-          "src": "/images/products/17394389889021699.webp",
-          "alt": "17394389889021699 - Machining equipment"
-        },
-        {
-          "src": "/images/products/17394390112351045.webp",
-          "alt": "17394390112351045 - Machining equipment"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394389885986861.webp",
-        "alt": "17394389885986861 - Machining equipment"
-      }
-    },
-    {
-      "id": 50,
-      "name": "Machining equipment",
-      "category": "Machining equipment",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/50.html",
-      "description": "World-class CNC machining centers and precision manufacturing equipment from Mazak, Makino, Okamoto (Japan), Haas, Hardinge (USA), and Beijing Jingdiao. Delivering micron-level accuracy across all PET preform mold core, cavity, gate insert, and neck ring components.",
-      "images": [
-        {
-          "src": "/images/products/17394389876695582.webp",
-          "alt": "17394389876695582 - Machining equipment"
-        },
-        {
-          "src": "/images/products/17394389881848694.webp",
-          "alt": "17394389881848694 - Machining equipment"
-        },
-        {
-          "src": "/images/products/17394389885986861.webp",
-          "alt": "17394389885986861 - Machining equipment"
-        },
-        {
-          "src": "/images/products/17394389886427703.webp",
-          "alt": "17394389886427703 - Machining equipment"
-        },
-        {
-          "src": "/images/products/17394389889021699.webp",
-          "alt": "17394389889021699 - Machining equipment"
-        },
-        {
-          "src": "/images/products/17394390112351045.webp",
-          "alt": "17394390112351045 - Machining equipment"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394389881848694.webp",
-        "alt": "17394389881848694 - Machining equipment"
-      }
-    },
-    {
-      "id": 51,
-      "name": "Machining equipment",
-      "category": "Machining equipment",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/51.html",
-      "description": "World-class CNC machining centers and precision manufacturing equipment from Mazak, Makino, Okamoto (Japan), Haas, Hardinge (USA), and Beijing Jingdiao. Delivering micron-level accuracy across all PET preform mold core, cavity, gate insert, and neck ring components.",
-      "images": [
-        {
-          "src": "/images/products/17394389876695582.webp",
-          "alt": "17394389876695582 - Machining equipment"
-        },
-        {
-          "src": "/images/products/17394389881848694.webp",
-          "alt": "17394389881848694 - Machining equipment"
-        },
-        {
-          "src": "/images/products/17394389885986861.webp",
-          "alt": "17394389885986861 - Machining equipment"
-        },
-        {
-          "src": "/images/products/17394389886427703.webp",
-          "alt": "17394389886427703 - Machining equipment"
-        },
-        {
-          "src": "/images/products/17394389889021699.webp",
-          "alt": "17394389889021699 - Machining equipment"
-        },
-        {
-          "src": "/images/products/17394390112351045.webp",
-          "alt": "17394390112351045 - Machining equipment"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394389889021699.webp",
-        "alt": "17394389889021699 - Machining equipment"
-      }
-    },
-    {
-      "id": 53,
-      "name": "Machining equipment",
-      "category": "Machining equipment",
-      "detail_url": "http://www.fs-lihe.com/home/product/detail/id/53.html",
-      "description": "World-class CNC machining centers and precision manufacturing equipment from Mazak, Makino, Okamoto (Japan), Haas, Hardinge (USA), and Beijing Jingdiao. Delivering micron-level accuracy across all PET preform mold core, cavity, gate insert, and neck ring components.",
-      "images": [
-        {
-          "src": "/images/products/17394389876695582.webp",
-          "alt": "17394389876695582 - Machining equipment"
-        },
-        {
-          "src": "/images/products/17394389881848694.webp",
-          "alt": "17394389881848694 - Machining equipment"
-        },
-        {
-          "src": "/images/products/17394389885986861.webp",
-          "alt": "17394389885986861 - Machining equipment"
-        },
-        {
-          "src": "/images/products/17394389886427703.webp",
-          "alt": "17394389886427703 - Machining equipment"
-        },
-        {
-          "src": "/images/products/17394389889021699.webp",
-          "alt": "17394389889021699 - Machining equipment"
-        },
-        {
-          "src": "/images/products/17394390112351045.webp",
-          "alt": "17394390112351045 - Machining equipment"
-        }
-      ],
-      "thumbnail": {
-        "src": "/images/products/17394397294503687.webp",
-        "alt": "17394397294503687 - Machining equipment"
-      }
-    },
-    {
       "id": 17,
-      "name": "Machining equipment",
+      "name": "Machining Equipment",
       "category": "Machining equipment",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/17.html",
-      "description": "World-class CNC machining centers and precision manufacturing equipment from Mazak, Makino, Okamoto (Japan), Haas, Hardinge (USA), and Beijing Jingdiao. Delivering micron-level accuracy across all PET preform mold core, cavity, gate insert, and neck ring components.",
+      "description": "Our workshop runs CNC machining, turning, grinding and high-speed engraving equipment from Mazak, Makino and Okamoto (Japan), Haas and Hardinge (USA) and Beijing Jingdiao. This in-house capability covers every stage of mold making, from mold plates to cores, cavities, neck rings, gate inserts and blow mold cavities.",
+      "bullets": [
+        "Mazak / Makino: Multi-axis and high-speed CNC machining centers for mold plates, cavities and blow mold shells.",
+        "Hardinge: Precision turning centers for cores, cavities and neck rings.",
+        "Okamoto: Precision surface grinders for mold plates and components.",
+        "Haas: CNC machining centers for general machining and fixtures.",
+        "Beijing Jingdiao: High-speed engraving machines for fine details and polished blow mold cavities."
+      ],
       "images": [
         {
           "src": "/images/products/17394389876695582.webp",
