@@ -58,9 +58,10 @@ const initialTemplates: EmailTemplate[] = [
         <li><strong>Product Category:</strong> {{productCategory}}</li>
         <li><strong>Country:</strong> {{country}}</li>
       </ul>
-      <p>Our sales and engineering team will respond to your inquiry within 24 business hours. We look forward to discussing how Lihe Precision can meet your PET packaging tooling requirements.</p>
+      <p>Your inquiry is handled directly by our international sales department at the factory — no agents or distributors in between. Our sales and engineering team will respond within 24 business hours, and you can reply to this email at any time to reach us.</p>
       <p>Best regards,<br>
-      <strong>Lihe Precision Sales Team</strong><br>
+      <strong>Johnnason Bai</strong><br>
+      International Sales Department, Lihe Precision<br>
       Foshan Lihe Precision Machinery Co., Ltd.</p>
     </div>
     <div class="footer">
@@ -95,9 +96,10 @@ const initialTemplates: EmailTemplate[] = [
         <li><strong>Категория продукта:</strong> {{productCategory}}</li>
         <li><strong>Страна:</strong> {{country}}</li>
       </ul>
-      <p>Наша команда продаж и инженеров ответит на ваш запрос в течение 24 рабочих часов. Мы с нетерпением ждем возможности обсудить, как Lihe Precision может удовлетворить ваши требования к инструментам для упаковки из ПЭТ.</p>
+      <p>Ваш запрос обрабатывает напрямую международный отдел продаж завода — без агентов и дистрибьюторов. Наши специалисты по продажам и инженеры ответят в течение 24 рабочих часов; вы можете в любой момент ответить на это письмо, чтобы связаться с нами.</p>
       <p>С уважением,<br>
-      <strong>Отдел продаж Lihe Precision</strong><br>
+      <strong>Johnnason Bai</strong><br>
+      Международный отдел продаж Lihe Precision<br>
       Foshan Lihe Precision Machinery Co., Ltd.</p>
     </div>
     <div class="footer">
@@ -132,9 +134,10 @@ const initialTemplates: EmailTemplate[] = [
         <li><strong>Categoría de producto:</strong> {{productCategory}}</li>
         <li><strong>País:</strong> {{country}}</li>
       </ul>
-      <p>Nuestro equipo de ventas e ingeniería responderá a su consulta dentro de las próximas 24 horas hábiles. Esperamos poder discutir cómo Lihe Precision puede satisfacer sus requisitos de herramientas de embalaje PET.</p>
+      <p>Su consulta la atiende directamente el departamento de ventas internacionales de la fábrica, sin agentes ni distribuidores intermedios. Nuestro equipo de ventas e ingeniería responderá dentro de las próximas 24 horas hábiles, y puede responder a este correo en cualquier momento para contactarnos.</p>
       <p>Atentamente,<br>
-      <strong>Equipo de Ventas de Lihe Precision</strong><br>
+      <strong>Johnnason Bai</strong><br>
+      Departamento de Ventas Internacionales, Lihe Precision<br>
       Foshan Lihe Precision Machinery Co., Ltd.</p>
     </div>
     <div class="footer">

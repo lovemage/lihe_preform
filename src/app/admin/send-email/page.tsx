@@ -15,8 +15,8 @@ type EmailSignature = {
 };
 
 const defaultSignature: EmailSignature = {
-  name: "Lihe Precision Sales Team",
-  title: "Sales Department",
+  name: "Johnnason Bai",
+  title: "International Sales Department",
   company: "Foshan Lihe Precision Machinery Co., Ltd.",
   email: "sales@lihe-preform.com",
   phone: "+886 938 198 675",
