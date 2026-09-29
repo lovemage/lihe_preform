@@ -12,3 +12,10 @@
 .headingWrapper {
   margin-bottom: var(--space-2xl);
 }
+
+.categoryIntro {
+  max-width: 820px;
+  margin-top: var(--space-md);
+  color: var(--color-gray-700);
+  line-height: 1.7;
+}

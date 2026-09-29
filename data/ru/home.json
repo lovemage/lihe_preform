@@ -35,20 +35,20 @@
     }
   },
   "productCategories": [
-    { "name": "Выдувная форма", "href": "/products?category=blow-mold" },
-    { "name": "Компрессионная форма", "href": "/products?category=compression-mold" },
-    { "name": "Форма для колпачков", "href": "/products?category=closure-mold" },
-    { "name": "Пресс-форма для преформ", "href": "/products?category=preform-mold" },
-    { "name": "Горячеканальная система", "href": "/products?category=hotrunner-system" },
-    { "name": "Комплектующие", "href": "/products?category=accessories" },
-    { "name": "Производство модельных плит", "href": "/products?category=mold-base" },
+    { "name": "Выдувная форма", "href": "/products/category/blow-mold" },
+    { "name": "Компрессионная форма", "href": "/products/category/compression-mold" },
+    { "name": "Форма для колпачков", "href": "/products/category/closure-mold" },
+    { "name": "Пресс-форма для преформ", "href": "/products/category/preform-mold" },
+    { "name": "Горячеканальная система", "href": "/products/category/hot-runner-system" },
+    { "name": "Комплектующие", "href": "/products/category/accessories" },
+    { "name": "Производство модельных плит", "href": "/products/category/mold-base" },
     { "name": "Контрольно-измерительное оборудование", "href": "/equipment/qc" },
     { "name": "Обрабатывающее оборудование", "href": "/equipment/machining" }
   ],
   "showcaseCategories": [
-    { "name": "Пресс-форма для ПЭТ-преформ", "description": "Многогнездные пресс-формы для ПЭТ-преформ до 160 гнёзд. Совместимы с термопластавтоматами HUSKY, NETSTAL и SIPA.", "image": "/images/home/preform-mold.webp", "alt": "Многогнездная пресс-форма для ПЭТ-преформ", "href": "/products?category=preform-mold" },
-    { "name": "Компрессионная форма", "description": "Высокоточные компрессионные формы для колпачков, предназначенные для высокоскоростных линий SACMI и обеспечивающие пищевую упаковку из ПЭТ.", "image": "/images/home/compression-mold.webp", "alt": "Компрессионная пресс-форма для ПЭТ-колпачков", "href": "/products?category=compression-mold" },
-    { "name": "Выдувная форма для ПЭТ", "description": "Двухэтапные и одноэтапные выдувные формы для ПЭТ-бутылок для воды и производства тары для напитков — совместимы с оборудованием SIDEL, KRONES, KHS и другими.", "image": "/images/home/blow-mold.webp", "alt": "Выдувная форма для ПЭТ-бутылок для напитков", "href": "/products?category=blow-mold" },
+    { "name": "Пресс-форма для ПЭТ-преформ", "description": "Многогнездные пресс-формы для ПЭТ-преформ до 160 гнёзд. Совместимы с термопластавтоматами HUSKY, NETSTAL и SIPA.", "image": "/images/home/preform-mold.webp", "alt": "Многогнездная пресс-форма для ПЭТ-преформ", "href": "/products/category/preform-mold" },
+    { "name": "Компрессионная форма", "description": "Высокоточные компрессионные формы для колпачков, предназначенные для высокоскоростных линий SACMI и обеспечивающие пищевую упаковку из ПЭТ.", "image": "/images/home/compression-mold.webp", "alt": "Компрессионная пресс-форма для ПЭТ-колпачков", "href": "/products/category/compression-mold" },
+    { "name": "Выдувная форма для ПЭТ", "description": "Двухэтапные и одноэтапные выдувные формы для ПЭТ-бутылок для воды и производства тары для напитков — совместимы с оборудованием SIDEL, KRONES, KHS и другими.", "image": "/images/home/blow-mold.webp", "alt": "Выдувная форма для ПЭТ-бутылок для напитков", "href": "/products/category/blow-mold" },
     { "name": "Обрабатывающее оборудование", "description": "Обрабатывающие центры с ЧПУ Mazak, Makino и Haas обеспечивают точность на уровне микрон.", "image": "/images/home/machining-equipment.webp", "alt": "Обрабатывающий центр с ЧПУ на заводе Lihe", "href": "/equipment/machining" },
     { "name": "Контрольно-измерительное оборудование", "description": "Координатно-измерительные машины Zeiss, 3D-профилесканеры и специализированные системы контроля бутылок.", "image": "/images/home/qc-equipment.webp", "alt": "Координатно-измерительная машина Zeiss — система контроля качества", "href": "/equipment/qc" }
   ],

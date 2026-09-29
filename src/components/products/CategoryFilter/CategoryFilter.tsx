@@ -1,41 +1,39 @@
-"use client";
-
+import { Link } from "@/i18n/navigation";
+import { getCategoryPath, type ProductCategory } from "@/lib/categories";
 import styles from "./CategoryFilter.module.css";
 
 type CategoryFilterProps = {
-  categories: string[];
-  activeCategory: string | null;
+  categories: ProductCategory[];
+  activeSlug: string | null;
   allLabel: string;
-  onChange: (category: string | null) => void;
 };
 
 export default function CategoryFilter({
   categories,
-  activeCategory,
+  activeSlug,
   allLabel,
-  onChange,
 }: CategoryFilterProps) {
   return (
-    <div className={styles.filterWrapper}>
+    <nav className={styles.filterWrapper}>
       <div className={styles.filters}>
-        <button
-          type="button"
-          className={`${styles.pill} ${activeCategory === null ? styles.active : ""}`}
-          onClick={() => onChange(null)}
+        <Link
+          href="/products"
+          className={`${styles.pill} ${activeSlug === null ? styles.active : ""}`}
+          aria-current={activeSlug === null ? "page" : undefined}
         >
           {allLabel}
-        </button>
+        </Link>
         {categories.map((category) => (
-          <button
-            type="button"
-            key={category}
-            className={`${styles.pill} ${activeCategory === category ? styles.active : ""}`}
-            onClick={() => onChange(category)}
+          <Link
+            key={category.slug}
+            href={getCategoryPath(category.slug)}
+            className={`${styles.pill} ${activeSlug === category.slug ? styles.active : ""}`}
+            aria-current={activeSlug === category.slug ? "page" : undefined}
           >
-            {category}
-          </button>
+            {category.name}
+          </Link>
         ))}
       </div>
-    </div>
+    </nav>
   );
 }

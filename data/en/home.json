@@ -35,20 +35,20 @@
     }
   },
   "productCategories": [
-    { "name": "Blow Mold", "href": "/products?category=blow-mold" },
-    { "name": "Compression Mold", "href": "/products?category=compression-mold" },
-    { "name": "Closure Mold", "href": "/products?category=closure-mold" },
-    { "name": "Preform Mold", "href": "/products?category=preform-mold" },
-    { "name": "Hot Runner System", "href": "/products?category=hotrunner-system" },
-    { "name": "Accessories", "href": "/products?category=accessories" },
-    { "name": "Mold Base Manufacturing", "href": "/products?category=mold-base" },
+    { "name": "Blow Mold", "href": "/products/category/blow-mold" },
+    { "name": "Compression Mold", "href": "/products/category/compression-mold" },
+    { "name": "Closure Mold", "href": "/products/category/closure-mold" },
+    { "name": "Preform Mold", "href": "/products/category/preform-mold" },
+    { "name": "Hot Runner System", "href": "/products/category/hot-runner-system" },
+    { "name": "Accessories", "href": "/products/category/accessories" },
+    { "name": "Mold Base Manufacturing", "href": "/products/category/mold-base" },
     { "name": "QC Equipment", "href": "/equipment/qc" },
     { "name": "Machining Equipment", "href": "/equipment/machining" }
   ],
   "showcaseCategories": [
-    { "name": "PET Preform Mold", "description": "Multi-cavity preform molds up to 160 cavities. Compatible with HUSKY, NETSTAL, and SIPA injection molding platforms.", "image": "/images/home/preform-mold.webp", "alt": "preform-mold - High-cavitation PET preform mold system", "href": "/products?category=preform-mold" },
-    { "name": "Compression Mold", "description": "Precision closure compression molds for high-speed SACMI production lines, delivering food-grade PET packaging solutions.", "image": "/images/home/compression-mold.webp", "alt": "compression-mold - PET closure compression mold", "href": "/products?category=compression-mold" },
-    { "name": "PET Blow Mold", "description": "Two-step and one-step PET blow molds for SIDEL, KRONES, KHS, and more — serving beverage packaging and mineral water bottle production.", "image": "/images/home/blow-mold.webp", "alt": "blow-mold - PET bottle blow mold for beverage industry", "href": "/products?category=blow-mold" },
+    { "name": "PET Preform Mold", "description": "Multi-cavity preform molds up to 160 cavities. Compatible with HUSKY, NETSTAL, and SIPA injection molding platforms.", "image": "/images/home/preform-mold.webp", "alt": "preform-mold - High-cavitation PET preform mold system", "href": "/products/category/preform-mold" },
+    { "name": "Compression Mold", "description": "Precision closure compression molds for high-speed SACMI production lines, delivering food-grade PET packaging solutions.", "image": "/images/home/compression-mold.webp", "alt": "compression-mold - PET closure compression mold", "href": "/products/category/compression-mold" },
+    { "name": "PET Blow Mold", "description": "Two-step and one-step PET blow molds for SIDEL, KRONES, KHS, and more — serving beverage packaging and mineral water bottle production.", "image": "/images/home/blow-mold.webp", "alt": "blow-mold - PET bottle blow mold for beverage industry", "href": "/products/category/blow-mold" },
     { "name": "Machining Equipment", "description": "Mazak, Makino, and Haas CNC centers ensuring micron-level accuracy.", "image": "/images/home/machining-equipment.webp", "alt": "machining-equipment - CNC machining center at Lihe factory", "href": "/equipment/machining" },
     { "name": "QC Equipment", "description": "Zeiss CMM, 3D profile scanners, and dedicated bottle inspection systems.", "image": "/images/home/qc-equipment.webp", "alt": "qc-equipment - Zeiss quality control measurement system", "href": "/equipment/qc" }
   ],

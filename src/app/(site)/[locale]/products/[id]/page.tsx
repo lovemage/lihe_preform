@@ -11,6 +11,9 @@ import Breadcrumb from "@/components/ui/Breadcrumb/Breadcrumb";
 import ImageGallery from "@/components/ui/ImageGallery/ImageGallery";
 import Button from "@/components/ui/Button/Button";
 import JsonLd from "@/components/seo/JsonLd";
+import ProductGrid from "@/components/products/ProductGrid";
+import { Link } from "@/i18n/navigation";
+import { getCategoryByName, getCategoryPath } from "@/lib/categories";
 import styles from "./page.module.css";
 
 export const revalidate = 3600;
@@ -44,8 +47,8 @@ export async function generateMetadata({
   }
 
   return {
-    title: getProductMetaTitle(product.name, id),
-    description: clampDescription(`${product.description} Model ${id}.`),
+    title: getProductMetaTitle(product.name, getCategoryByName(locale, product.category)?.name),
+    description: clampDescription(product.description),
     alternates: getLocaleAlternates(locale, `/products/${id}`),
   };
 }
@@ -66,6 +69,11 @@ export default async function ProductDetailPage({
   if (!product) {
     notFound();
   }
+
+  const category = getCategoryByName(locale, product.category);
+  const relatedProducts = data.products
+    .filter((p: any) => p.category === product.category && p.id !== product.id)
+    .slice(0, 4);
 
   const productUrl = `https://lihe-preform.com/${locale}/products/${id}/`;
 
@@ -110,6 +118,9 @@ export default async function ProductDetailPage({
           items={[
             { label: tCommon("breadcrumbHome"), href: "/" },
             { label: t("title"), href: "/products" },
+            ...(category
+              ? [{ label: product.category, href: getCategoryPath(category.slug) }]
+              : []),
             { label: product.name },
           ]}
         />
@@ -120,7 +131,13 @@ export default async function ProductDetailPage({
           </div>
 
           <div className={styles.infoColumn}>
-            <span className={styles.categoryBadge}>{product.category}</span>
+            {category ? (
+              <Link href={getCategoryPath(category.slug)} className={styles.categoryBadge}>
+                {product.category}
+              </Link>
+            ) : (
+              <span className={styles.categoryBadge}>{product.category}</span>
+            )}
             <h1 className={styles.productName}>{product.name}</h1>
             <p className={styles.description}>{product.description}</p>
             {product.bullets && product.bullets.length > 0 && (
@@ -137,6 +154,13 @@ export default async function ProductDetailPage({
             </div>
           </div>
         </div>
+
+        {relatedProducts.length > 0 && (
+          <section className={styles.related}>
+            <h2 className={styles.relatedTitle}>{t("relatedProducts")}</h2>
+            <ProductGrid products={relatedProducts} viewDetailsLabel={t("viewDetails")} />
+          </section>
+        )}
       </div>
     </div>
   );

@@ -17,6 +17,7 @@ import esFactoryJson from "../../data/es/factory.json";
 import esEquipmentJson from "../../data/es/equipment.json";
 import esContactJson from "../../data/es/contact.json";
 import esProductsJson from "../../data/es/products-data.json";
+import { getCategoryPath, getProductCategories } from "./categories";
 
 const localizedData = {
   en: {
@@ -84,10 +85,12 @@ export function getSiteData(locale: string) {
     {
       label: "Products",
       href: "/products",
-      children: categories.map((category) => ({
-        label: category,
-        href: `/products?category=${encodeURIComponent(category)}`,
-      })),
+      children: getProductCategories(locale)
+        .filter((category) => categories.includes(category.name))
+        .map((category) => ({
+          label: category.name,
+          href: getCategoryPath(category.slug),
+        })),
     },
     { label: "Contact Us", href: "/contact" },
   ];

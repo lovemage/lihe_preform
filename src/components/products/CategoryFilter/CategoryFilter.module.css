@@ -21,6 +21,7 @@
   font-size: 0.875rem;
   font-weight: 500;
   cursor: pointer;
+  text-decoration: none;
   transition: all var(--transition-fast);
   white-space: nowrap;
 }

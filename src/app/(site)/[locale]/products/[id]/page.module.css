@@ -103,3 +103,22 @@
     font-size: 1.5rem;
   }
 }
+
+.categoryBadge:hover {
+  opacity: 0.85;
+}
+
+a.categoryBadge {
+  text-decoration: none;
+}
+
+.related {
+  margin-top: var(--space-4xl);
+}
+
+.relatedTitle {
+  margin-bottom: var(--space-xl);
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--color-primary);
+}

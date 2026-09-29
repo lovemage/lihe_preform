@@ -35,20 +35,20 @@
     }
   },
   "productCategories": [
-    { "name": "Molde de Soplado", "href": "/products?category=blow-mold" },
-    { "name": "Molde de Compresion", "href": "/products?category=compression-mold" },
-    { "name": "Molde de Tapas", "href": "/products?category=closure-mold" },
-    { "name": "Molde de Preformas", "href": "/products?category=preform-mold" },
-    { "name": "Sistema de Canal Caliente", "href": "/products?category=hotrunner-system" },
-    { "name": "Accesorios", "href": "/products?category=accessories" },
-    { "name": "Fabricacion de Bases de Molde", "href": "/products?category=mold-base" },
+    { "name": "Molde de Soplado", "href": "/products/category/blow-mold" },
+    { "name": "Molde de Compresion", "href": "/products/category/compression-mold" },
+    { "name": "Molde de Tapas", "href": "/products/category/closure-mold" },
+    { "name": "Molde de Preformas", "href": "/products/category/preform-mold" },
+    { "name": "Sistema de Canal Caliente", "href": "/products/category/hot-runner-system" },
+    { "name": "Accesorios", "href": "/products/category/accessories" },
+    { "name": "Fabricacion de Bases de Molde", "href": "/products/category/mold-base" },
     { "name": "Equipos de Control de Calidad", "href": "/equipment/qc" },
     { "name": "Equipos de Mecanizado", "href": "/equipment/machining" }
   ],
   "showcaseCategories": [
-    { "name": "Molde de Preformas PET", "description": "Moldes de preformas multicavidad de hasta 160 cavidades. Compatibles con plataformas de moldeo por inyeccion HUSKY, NETSTAL y SIPA.", "image": "/images/home/preform-mold.webp", "alt": "preform-mold - Sistema de molde de preformas PET de alta cavitacion", "href": "/products?category=preform-mold" },
-    { "name": "Molde de Compresion", "description": "Moldes de compresion de precision para tapas en lineas de produccion SACMI de alta velocidad, ofreciendo soluciones de envases PET de grado alimenticio.", "image": "/images/home/compression-mold.webp", "alt": "compression-mold - Molde de compresion para tapas PET", "href": "/products?category=compression-mold" },
-    { "name": "Molde de Soplado PET", "description": "Moldes de soplado PET de dos etapas y una etapa para SIDEL, KRONES, KHS y mas, al servicio de la industria de envases para bebidas y produccion de botellas de agua mineral.", "image": "/images/home/blow-mold.webp", "alt": "blow-mold - Molde de soplado PET para botellas de la industria de bebidas", "href": "/products?category=blow-mold" },
+    { "name": "Molde de Preformas PET", "description": "Moldes de preformas multicavidad de hasta 160 cavidades. Compatibles con plataformas de moldeo por inyeccion HUSKY, NETSTAL y SIPA.", "image": "/images/home/preform-mold.webp", "alt": "preform-mold - Sistema de molde de preformas PET de alta cavitacion", "href": "/products/category/preform-mold" },
+    { "name": "Molde de Compresion", "description": "Moldes de compresion de precision para tapas en lineas de produccion SACMI de alta velocidad, ofreciendo soluciones de envases PET de grado alimenticio.", "image": "/images/home/compression-mold.webp", "alt": "compression-mold - Molde de compresion para tapas PET", "href": "/products/category/compression-mold" },
+    { "name": "Molde de Soplado PET", "description": "Moldes de soplado PET de dos etapas y una etapa para SIDEL, KRONES, KHS y mas, al servicio de la industria de envases para bebidas y produccion de botellas de agua mineral.", "image": "/images/home/blow-mold.webp", "alt": "blow-mold - Molde de soplado PET para botellas de la industria de bebidas", "href": "/products/category/blow-mold" },
     { "name": "Equipos de Mecanizado", "description": "Centros CNC de Mazak, Makino y Haas que garantizan precision a nivel de micras.", "image": "/images/home/machining-equipment.webp", "alt": "machining-equipment - Centro de mecanizado CNC en la planta de Lihe", "href": "/equipment/machining" },
     { "name": "Equipos de Control de Calidad", "description": "CMM Zeiss, escaneres de perfil 3D y sistemas dedicados de inspeccion de botellas.", "image": "/images/home/qc-equipment.webp", "alt": "qc-equipment - Sistema de medicion de control de calidad Zeiss", "href": "/equipment/qc" }
   ],

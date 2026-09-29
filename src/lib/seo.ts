@@ -51,6 +51,13 @@ export function clampDescription(text: string, maxLength = 160): string {
   return `${safeSlice.trim()}…`;
 }
 
-export function getProductMetaTitle(name: string, id: string): string {
-  return `${name} (Model ${id}) | Lihe Precision`;
+export function getProductMetaTitle(name: string, categoryName?: string): string {
+  const includesCategory =
+    !categoryName || name.toLowerCase().includes(categoryName.toLowerCase());
+  const category = categoryName
+    ? categoryName.charAt(0).toUpperCase() + categoryName.slice(1)
+    : "";
+  return includesCategory
+    ? `${name} | Lihe Precision`
+    : `${name} – ${category} | Lihe Precision`;
 }

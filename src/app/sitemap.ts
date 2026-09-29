@@ -3,6 +3,7 @@ import fs from "fs";
 import path from "path";
 import { routing } from "@/i18n/routing";
 import { getProductsData } from "@/lib/data";
+import { getCategoryPath, getProductCategories } from "@/lib/categories";
 
 export const dynamic = "force-static";
 
@@ -75,7 +76,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
     (p: any) => `/products/${p.id}`
   );
 
-  const allPages = [...pages, ...productPages];
+  const categoryPages = getProductCategories("en").map((category) =>
+    getCategoryPath(category.slug),
+  );
+
+  const allPages = [...pages, ...categoryPages, ...productPages];
 
   return allPages.flatMap((page) =>
     routing.locales.map((locale) => {

@@ -4,7 +4,9 @@ import { getProductsData } from "@/lib/data";
 import { getLocaleAlternates } from "@/lib/seo";
 import Breadcrumb from "@/components/ui/Breadcrumb/Breadcrumb";
 import SectionHeading from "@/components/ui/SectionHeading/SectionHeading";
-import ProductsClientWrapper from "@/components/products/ProductsClientWrapper";
+import CategoryFilter from "@/components/products/CategoryFilter";
+import ProductGrid from "@/components/products/ProductGrid";
+import { getProductCategories } from "@/lib/categories";
 import styles from "./page.module.css";
 
 export async function generateStaticParams() {
@@ -21,7 +23,7 @@ export async function generateMetadata({
   const t = await getTranslations("products");
 
   return {
-    title: `${t("title")} | Lihe Precision`,
+    title: t("metaTitle"),
     description: t("metaDescription"),
     alternates: getLocaleAlternates(locale, "/products"),
   };
@@ -52,12 +54,12 @@ export default async function ProductsPage({
           <SectionHeading title={t("title")} as="h1" variant="none" />
         </div>
 
-        <ProductsClientWrapper
-          products={data.products}
-          categories={data.categories}
-          allCategoriesLabel={t("allCategories")}
-          viewDetailsLabel={t("viewDetails")}
+        <CategoryFilter
+          categories={getProductCategories(locale)}
+          activeSlug={null}
+          allLabel={t("allCategories")}
         />
+        <ProductGrid products={data.products} viewDetailsLabel={t("viewDetails")} />
       </div>
     </div>
   );
