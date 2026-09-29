@@ -72,14 +72,15 @@
     "viewDetails": "Ver Detalles",
     "requestQuote": "Solicitar Cotización",
     "metaTitle": "Moldes de preformas, soplado y tapas PET | Lihe Precision",
-    "relatedProducts": "Productos relacionados"
+    "relatedProducts": "Productos relacionados",
+    "directContact": "Las cotizaciones y consultas técnicas las atiende directamente el departamento de ventas internacionales del fabricante."
   },
   "contact": {
     "title": "Contacto",
     "headline": "Contáctenos",
-    "intro": "¿Listo para discutir sus requisitos de moldes para preforma PET o moldes de soplado? Nuestro equipo de ventas e ingeniería está disponible para proporcionar consultoría técnica, precios e información sobre plazos de entrega.",
+    "intro": "Está contactando directamente con el departamento de ventas internacionales de la fábrica LIHE, sin agentes ni distribuidores intermedios. Nuestro equipo de ventas e ingeniería trabaja directamente con usted en consultoría técnica, precios y plazos de entrega para sus proyectos de preformas, soplado y tapas PET.",
     "sendMessage": "Envíenos un mensaje",
-    "formDescription": "Complete el formulario a continuación y nuestro equipo responderá dentro de las 24 horas hábiles.",
+    "formDescription": "Su mensaje llega directamente a nuestro departamento de ventas internacionales. Respondemos en un plazo de 24 horas hábiles.",
     "firstName": "Nombre",
     "familyName": "Apellido",
     "fullName": "Nombre completo",
@@ -101,7 +102,7 @@
     "sending": "Enviando...",
     "required": "Seleccionar",
     "successTitle": "¡Gracias!",
-    "successMessage": "Hemos recibido su consulta y responderemos dentro de las 24 horas hábiles.",
+    "successMessage": "Su consulta ha llegado a nuestro departamento de ventas internacionales. Responderemos en un plazo de 24 horas hábiles.",
     "errorMessage": "Error al enviar el formulario. Por favor, inténtelo de nuevo.",
     "subjects": {
       "inquiry": "Consulta de producto",
@@ -112,7 +113,7 @@
     }
   },
   "footer": {
-    "tagline": "Soluciones de moldes PET de precisión para preformas y soplado, al servicio de la industria global de envases para bebidas.",
+    "tagline": "Fabricante de moldes de preformas, soplado y tapas PET. Contacte directamente con nuestro departamento de ventas internacionales.",
     "copyright": "Foshan Lihe Precision Machinery Co.,Ltd. Todos los derechos reservados.",
     "quickLinks": "Enlaces rápidos",
     "contactTitle": "Contacto"

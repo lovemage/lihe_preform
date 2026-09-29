@@ -35,7 +35,7 @@ const customerEmailTemplates = {
       Foshan Lihe Precision Machinery Co., Ltd.</p>
     </div>
     <div class="footer">
-      <p>Email: sales@lihe-preform.com | Phone: +86 757 8555 1234</p>
+      <p>Email: sales@lihe-preform.com | Phone: +886 938 198 675</p>
       <p>Foshan, Guangdong Province, China</p>
     </div>
   </div>
@@ -74,7 +74,7 @@ const customerEmailTemplates = {
       Foshan Lihe Precision Machinery Co., Ltd.</p>
     </div>
     <div class="footer">
-      <p>Email: sales@lihe-preform.com | Телефон: +86 757 8555 1234</p>
+      <p>Email: sales@lihe-preform.com | Телефон: +886 938 198 675</p>
       <p>Фошань, провинция Гуандун, Китай</p>
     </div>
   </div>
@@ -113,7 +113,7 @@ const customerEmailTemplates = {
       Foshan Lihe Precision Machinery Co., Ltd.</p>
     </div>
     <div class="footer">
-      <p>Email: sales@lihe-preform.com | Teléfono: +86 757 8555 1234</p>
+      <p>Email: sales@lihe-preform.com | Teléfono: +886 938 198 675</p>
       <p>Foshan, Provincia de Guangdong, China</p>
     </div>
   </div>

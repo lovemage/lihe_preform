@@ -152,6 +152,7 @@ export default async function ProductDetailPage({
                 {t("requestQuote")}
               </Button>
             </div>
+            <p className={styles.directContact}>{t("directContact")}</p>
           </div>
         </div>
 

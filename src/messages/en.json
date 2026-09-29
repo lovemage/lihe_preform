@@ -72,14 +72,15 @@
     "viewDetails": "View Details",
     "requestQuote": "Request a Quote",
     "metaTitle": "PET Preform, Blow & Closure Molds | Lihe Precision",
-    "relatedProducts": "Related Products"
+    "relatedProducts": "Related Products",
+    "directContact": "Quotes and technical questions are handled directly by the manufacturer's international sales department."
   },
   "contact": {
     "title": "Contact Us",
     "headline": "Get in Touch",
-    "intro": "Ready to discuss your PET preform mold or blow mold requirements? Our sales and engineering team is available to provide technical consultation, pricing, and lead time information for your beverage packaging projects.",
+    "intro": "You are contacting LIHE's own international sales department at the factory — no agents or distributors in between. Our sales and engineering team works directly with you on technical consultation, pricing, and lead times for your PET preform, blow mold, and closure projects.",
     "sendMessage": "Send Us a Message",
-    "formDescription": "Fill out the form below and our team will respond within 24 business hours.",
+    "formDescription": "Your message goes straight to our international sales department. We respond within 24 business hours.",
     "firstName": "First Name",
     "familyName": "Family Name",
     "fullName": "Full Name",
@@ -101,7 +102,7 @@
     "sending": "Sending...",
     "required": "Select",
     "successTitle": "Thank You!",
-    "successMessage": "We have received your inquiry and will respond within 24 business hours.",
+    "successMessage": "Your inquiry has reached our international sales department. We will respond within 24 business hours.",
     "errorMessage": "Failed to submit form. Please try again.",
     "subjects": {
       "inquiry": "Product Inquiry",
@@ -112,7 +113,7 @@
     }
   },
   "footer": {
-    "tagline": "Precision PET preform mold and blow mold solutions for the global beverage packaging industry.",
+    "tagline": "Manufacturer of PET preform molds, blow molds and closure molds. Contact our international sales department directly.",
     "copyright": "Foshan Lihe Precision Machinery Co.,Ltd. All rights reserved.",
     "quickLinks": "Quick Links",
     "contactTitle": "Contact"

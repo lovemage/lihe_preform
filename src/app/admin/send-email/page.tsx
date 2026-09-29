@@ -19,7 +19,7 @@ const defaultSignature: EmailSignature = {
   title: "Sales Department",
   company: "Foshan Lihe Precision Machinery Co., Ltd.",
   email: "sales@lihe-preform.com",
-  phone: "+86 757 8555 1234",
+  phone: "+886 938 198 675",
   website: "www.lihe-preform.com",
 };
 

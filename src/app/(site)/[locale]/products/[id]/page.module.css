@@ -122,3 +122,9 @@ a.categoryBadge {
   font-weight: 700;
   color: var(--color-primary);
 }
+
+.directContact {
+  margin-top: var(--space-md);
+  font-size: 0.875rem;
+  color: var(--color-gray-600);
+}

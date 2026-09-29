@@ -43,7 +43,7 @@
     }
   ],
   "contact": {
-    "phone": "+86 757 8555 1234",
+    "phone": "+886 938 198 675",
     "email": "sales@lihe-preform.com",
     "address": {
       "en": "Foshan, Guangdong Province, China",
@@ -54,15 +54,11 @@
   "social": [
     {
       "platform": "WhatsApp",
-      "href": "https://wa.me/8675785551234"
+      "href": "https://wa.me/886938198675"
     },
     {
       "platform": "Telegram",
-      "href": "https://t.me/lihepreform"
-    },
-    {
-      "platform": "X",
-      "href": "https://x.com/lihepreform"
+      "href": "https://t.me/zec8314"
     }
   ]
 }

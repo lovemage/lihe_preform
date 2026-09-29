@@ -30,7 +30,7 @@ const DEFAULT_FOOTER_SETTINGS: FooterSettings = {
   },
   links: [],
   contact: {
-    phone: "+86 757 8555 1234",
+    phone: "+886 938 198 675",
     email: "sales@lihe-preform.com",
     address: {
       en: "Foshan, Guangdong Province, China",
