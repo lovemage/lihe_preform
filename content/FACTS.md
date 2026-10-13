@@ -4,6 +4,9 @@ Every LIHE-specific claim in site content must come from this list. Each fact
 is published on lihe-preform.com (source file in `data/en/` noted). If a fact
 you need is not here, do not write it — leave it out.
 
+When repo JSON and the admin backend (Cloudflare D1 `lihe_db`, the production
+data) disagree, the admin data wins (owner decision, 2026-10-13).
+
 ## One-sentence definition (use verbatim, do not paraphrase)
 
 - EN: LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China.
@@ -40,7 +43,7 @@ you need is not here, do not write it — leave it out.
 
 ## Lead times (home.json)
 
-- Pilot molds: 20 days. Standard PET molds: 8 weeks. Replacement parts: 4 weeks. Cap mold parts: 4 weeks.
+- Pilot molds: 20 days. Standard PET molds (preform molds and blow molds): 8 weeks. Replacement parts: 4 weeks. Cap mold parts: 4 weeks.
 
 ## After-sales (home.json, factory.json)
 
@@ -49,7 +52,7 @@ you need is not here, do not write it — leave it out.
 
 ## Products (products-data.json)
 
-- PET preform molds: 2 to 160 cavities; over 12,000 cavities produced per year; neck finishes PCO 1881, PCO 1810, 1716, 3025, 2925, 2622, 2522, 38mm, 45mm, 68mm, 80mm, 90mm wide-mouth, ROPP and custom; machines HUSKY, NETSTAL, SACMI, SIPA, Milacron and others.
+- PET preform molds: 32 to 160 cavities; over 12,000 cavities produced per year; neck finishes PCO 1881, PCO 1810, 1716, 3025, 2925, 2622, 2522, 38mm, 45mm, 68mm, 80mm, 90mm wide-mouth, ROPP and custom; machines HUSKY, NETSTAL, SIPA, KATA and others.
 - Tooling conversion: replacement parts made from customers' existing Husky/SACMI/Otto parts; cooling and blowing-condition optimization to shorten cycles; neck finish conversions and lightweighting.
 - Hot runners: valve gate, up to 144 cavities (preform) and 96 cavities (closure); compatible with HUSKY, NETSTAL, KM, SIPA; replacement nozzle tips, valve pins, heaters, seals and refurbishment of existing hot runners.
 - Closure injection molds: 12 to 72 cavities; one-piece and two-piece caps, tamper-evident bands, EU tethered caps; 26mm, 28mm, 2925, 3025, 38mm.

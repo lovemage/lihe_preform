@@ -6,9 +6,9 @@ Brand names used on this site: LIHE Precision, LIHE Preform, Lihe Precision, FSL
 
 ## Key facts
 
-- PET preform molds: 2 to 160 cavities; over 12,000 cavities produced per year.
+- PET preform molds: 32 to 160 cavities; over 12,000 cavities produced per year.
 - Neck finishes: PCO 1881, PCO 1810, 1716, 3025, 2925, 2622, 2522, 38mm, 45mm, 68mm, 80mm, 90mm wide-mouth, ROPP and custom finishes.
-- Preform machine compatibility: HUSKY, NETSTAL, SACMI, SIPA, Milacron and others.
+- Preform machine compatibility: HUSKY, NETSTAL, SIPA, KATA and others.
 - Valve gate hot runners: up to 144 cavities for preforms and 96 cavities for closures.
 - Closure injection molds: 12 to 72 cavities; one-piece and two-piece caps, tamper-evident bands and EU tethered caps.
 - Compression molds: for SACMI CCM continuous compression molding lines.
@@ -27,7 +27,7 @@ Brand names used on this site: LIHE Precision, LIHE Preform, Lihe Precision, FSL
 ## Products
 
 - [All products](https://lihe-preform.com/en/products/)
-- [PET Preform Mold](https://lihe-preform.com/en/products/19/): high-cavitation preform injection molds, 2–160 cavities
+- [PET Preform Mold](https://lihe-preform.com/en/products/19/): high-cavitation preform injection molds, 32–160 cavities
 - [Tooling Conversion Service](https://lihe-preform.com/en/products/34/): replacement parts and upgrades for existing Husky, SACMI and Otto preform molds
 - [Compression Mold](https://lihe-preform.com/en/products/21/): closure compression tooling for SACMI CCM lines
 - [Closure Mold](https://lihe-preform.com/en/products/20/): 12–72 cavity cap molds including EU tethered caps

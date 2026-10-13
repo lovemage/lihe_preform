@@ -81,7 +81,7 @@
           "steps": [
             "Send the preform drawing or bottle drawing, target preform weight and resin type (virgin PET or rPET content).",
             "Specify the neck finish (for example PCO 1881, PCO 1810, 2925, 38mm or wide mouth) with the closure drawing.",
-            "State the cavitation and injection machine model (HUSKY, NETSTAL, SACMI, SIPA, Milacron or other) and its interface data.",
+            "State the cavitation and injection machine model (HUSKY, NETSTAL, SIPA, KATA or other) and its interface data.",
             "Define the hot runner: new hot runner, reuse of an existing one, or replacement parts only.",
             "Agree the inspection plan: critical dimensions, CPK target and the measurement report format.",
             "Confirm the spare parts package and the start-up support needed at your plant.",
@@ -128,7 +128,7 @@
         {
           "heading": "Устройство формообразующего пакета пресс-формы для ПЭТ-преформ",
           "paragraphs": [
-            "Многогнёздная пресс-форма повторяет один и тот же пакет в каждом гнезде — в формах LIHE от 2 до 160 гнёзд. Пакеты располагаются между плитой пуансонов, плитой съёма, плитой матриц и горячеканальной системой. Все детали пакета должны быть взаимозаменяемыми между гнёздами, чтобы изношенную деталь можно было заменить без доработки."
+            "Многогнёздная пресс-форма повторяет один и тот же пакет в каждом гнезде — в формах LIHE от 32 до 160 гнёзд. Пакеты располагаются между плитой пуансонов, плитой съёма, плитой матриц и горячеканальной системой. Все детали пакета должны быть взаимозаменяемыми между гнёздами, чтобы изношенную деталь можно было заменить без доработки."
           ],
           "list": [
             "Пуансон (знак) — формирует внутреннюю поверхность преформы. Он охлаждается изнутри через центральную трубку, а его длина и диаметр задают внутреннюю форму преформы.",
@@ -192,7 +192,7 @@
           "steps": [
             "Отправьте чертёж преформы или бутылки, целевой вес преформы и тип сырья (первичный ПЭТ или доля rPET).",
             "Укажите горловину (например, PCO 1881, PCO 1810, 2925, 38 мм или широкое горло) и приложите чертёж колпачка.",
-            "Укажите гнездность и модель литьевой машины (HUSKY, NETSTAL, SACMI, SIPA, Milacron или другая) с данными интерфейса.",
+            "Укажите гнездность и модель литьевой машины (HUSKY, NETSTAL, SIPA, KATA или другая) с данными интерфейса.",
             "Определите горячеканальную систему: новая, использование существующей или только запасные части.",
             "Согласуйте план контроля: критичные размеры, целевой CPK и формат отчёта об измерениях.",
             "Подтвердите комплект запчастей и необходимую поддержку при запуске на вашем заводе.",
@@ -239,7 +239,7 @@
         {
           "heading": "Anatomía del conjunto de moldeo de un molde de preforma PET",
           "paragraphs": [
-            "Un molde de preforma multicavidad repite el mismo conjunto en cada cavidad, de 2 a 160 cavidades en los moldes de LIHE. Los conjuntos se sitúan entre la placa de machos, la placa extractora, la placa de cavidades y el canal caliente. Cada pieza del conjunto debe ser intercambiable entre cavidades para poder sustituir una pieza gastada sin retrabajos."
+            "Un molde de preforma multicavidad repite el mismo conjunto en cada cavidad, de 32 a 160 cavidades en los moldes de LIHE. Los conjuntos se sitúan entre la placa de machos, la placa extractora, la placa de cavidades y el canal caliente. Cada pieza del conjunto debe ser intercambiable entre cavidades para poder sustituir una pieza gastada sin retrabajos."
           ],
           "list": [
             "Macho (core): forma el interior de la preforma. Se refrigera por dentro mediante un tubo central, y su longitud y diámetro definen la forma interior de la preforma.",
@@ -303,7 +303,7 @@
           "steps": [
             "Envíe el plano de la preforma o de la botella, el peso objetivo de la preforma y el tipo de resina (PET virgen o contenido de rPET).",
             "Indique el acabado de cuello (por ejemplo PCO 1881, PCO 1810, 2925, 38 mm o boca ancha) con el plano de la tapa.",
-            "Indique el número de cavidades y el modelo de máquina de inyección (HUSKY, NETSTAL, SACMI, SIPA, Milacron u otra) con sus datos de interfaz.",
+            "Indique el número de cavidades y el modelo de máquina de inyección (HUSKY, NETSTAL, SIPA, KATA u otra) con sus datos de interfaz.",
             "Defina el canal caliente: nuevo, reutilización del existente o solo piezas de recambio.",
             "Acuerde el plan de inspección: dimensiones críticas, objetivo de CPK y formato del informe de medición.",
             "Confirme el paquete de repuestos y el apoyo en la puesta en marcha que necesita su planta.",

@@ -100,7 +100,7 @@
         {
           "heading": "Capacity and quality figures",
           "list": [
-            "Preform molds from 2 to 160 cavities.",
+            "Preform molds from 32 to 160 cavities.",
             "Over 12,000 cavities produced per year.",
             "Valve gate hot runners up to 144 cavities for preforms.",
             "Process capability CPK ≥ 1.33, with defect rates as low as 0.0064%."
@@ -144,7 +144,7 @@
               [
                 "Machine platforms",
                 "Husky, SACMI, Otto and other existing molds",
-                "HUSKY, NETSTAL, SACMI, SIPA, Milacron and others"
+                "HUSKY, NETSTAL, SIPA, KATA and others"
               ]
             ]
           }
@@ -276,7 +276,7 @@
         {
           "heading": "Мощности и показатели качества",
           "list": [
-            "Пресс-формы для преформ от 2 до 160 гнёзд.",
+            "Пресс-формы для преформ от 32 до 160 гнёзд.",
             "Более 12 000 гнёзд в год.",
             "Горячеканальные системы с запорными иглами до 144 гнёзд для преформ.",
             "Индекс воспроизводимости процесса CPK ≥ 1,33, уровень брака до 0,0064%."
@@ -320,7 +320,7 @@
               [
                 "Платформы",
                 "Husky, SACMI, Otto и другие действующие формы",
-                "HUSKY, NETSTAL, SACMI, SIPA, Milacron и другие"
+                "HUSKY, NETSTAL, SIPA, KATA и другие"
               ]
             ]
           }
@@ -452,7 +452,7 @@
         {
           "heading": "Capacidad y cifras de calidad",
           "list": [
-            "Moldes de preforma de 2 a 160 cavidades.",
+            "Moldes de preforma de 32 a 160 cavidades.",
             "Más de 12.000 cavidades producidas al año.",
             "Canales calientes con válvula de hasta 144 cavidades para preformas.",
             "Capacidad de proceso CPK ≥ 1,33, con tasas de defectos de apenas 0,0064%."
@@ -496,7 +496,7 @@
               [
                 "Plataformas",
                 "Husky, SACMI, Otto y otros moldes existentes",
-                "HUSKY, NETSTAL, SACMI, SIPA, Milacron y otras"
+                "HUSKY, NETSTAL, SIPA, KATA y otras"
               ]
             ]
           }

@@ -52,7 +52,7 @@
         {
           "heading": "Key numbers for a cavitation upgrade",
           "list": [
-            "LIHE preform molds are built from 2 to 160 cavities.",
+            "LIHE preform molds are built from 32 to 160 cavities.",
             "LIHE mold bases are made for preform molds up to 160 cavities, machined on Mazak, Makino and Haas, ground on Okamoto and verified on a Zeiss CMM.",
             "LIHE valve gate hot runners are available for up to 144 preform cavities, with a 3-year leakage-proof guarantee on the Husky Ultra-type design.",
             "Published lead times: pilot molds 20 days, standard PET molds 8 weeks, replacement parts 4 weeks.",
@@ -218,7 +218,7 @@
             "Engineering and design center with CAD/CAM, 3D simulation and flow analysis before production.",
             "Project retrofitting: complete mold overhauls and performance upgrades to restore aging assets to OEM-level efficiency.",
             "Conversion parts that are 100% interchangeable with Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps and Corvaglia systems.",
-            "Molds for HUSKY, NETSTAL, SACMI, SIPA, Milacron and other machines, with on-site installation and start-up support."
+            "Molds for HUSKY, NETSTAL, SIPA, KATA and other machines, with on-site installation and start-up support."
           ]
         }
       ],
@@ -237,7 +237,7 @@
         },
         {
           "question": "What is the maximum cavitation LIHE can build?",
-          "answer": "LIHE preform molds range from 2 to 160 cavities and mold bases are made for up to 160 cavities. LIHE valve gate hot runners are available for up to 144 preform cavities."
+          "answer": "LIHE preform molds range from 32 to 160 cavities and mold bases are made for up to 160 cavities. LIHE valve gate hot runners are available for up to 144 preform cavities."
         },
         {
           "question": "Is a cavitation upgrade cheaper than a new mold?",
@@ -262,7 +262,7 @@
         {
           "heading": "Ключевые цифры для увеличения гнёздности",
           "list": [
-            "Пресс-формы LIHE для преформ выпускаются на 2–160 гнёзд.",
+            "Пресс-формы LIHE для преформ выпускаются на 32–160 гнёзд.",
             "Плиты форм LIHE изготавливаются для форм на количество гнёзд до 160, обрабатываются на Mazak, Makino и Haas, шлифуются на Okamoto и проверяются на КИМ Zeiss.",
             "Клапанные горячие каналы LIHE выпускаются на количество гнёзд до 144 для преформ, с 3-летней гарантией от протечек для конструкции типа Husky Ultra.",
             "Опубликованные сроки: пилотные формы — 20 дней, стандартные ПЭТ-формы — 8 недель, запасные части — 4 недели.",
@@ -428,7 +428,7 @@
             "Инженерно-конструкторский центр с CAD/CAM, 3D-моделированием и анализом течения до начала производства.",
             "Модернизация проектов: полный капитальный ремонт форм и улучшение характеристик, возвращающие стареющей оснастке эффективность уровня OEM.",
             "Конверсионные детали, на 100% взаимозаменяемые с системами Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps и Corvaglia.",
-            "Формы для машин HUSKY, NETSTAL, SACMI, SIPA, Milacron и других, с установкой и поддержкой пуска на месте."
+            "Формы для машин HUSKY, NETSTAL, SIPA, KATA и других, с установкой и поддержкой пуска на месте."
           ]
         }
       ],
@@ -447,7 +447,7 @@
         },
         {
           "question": "Какую максимальную гнёздность может изготовить LIHE?",
-          "answer": "Пресс-формы LIHE для преформ выпускаются на 2–160 гнёзд, плиты форм — для форм до 160 гнёзд. Клапанные горячие каналы LIHE выпускаются на количество гнёзд до 144 для преформ."
+          "answer": "Пресс-формы LIHE для преформ выпускаются на 32–160 гнёзд, плиты форм — для форм до 160 гнёзд. Клапанные горячие каналы LIHE выпускаются на количество гнёзд до 144 для преформ."
         },
         {
           "question": "Дешевле ли увеличение гнёздности, чем новая форма?",
@@ -472,7 +472,7 @@
         {
           "heading": "Cifras clave para un aumento de cavidades",
           "list": [
-            "Los moldes de preforma de LIHE se fabrican de 2 a 160 cavidades.",
+            "Los moldes de preforma de LIHE se fabrican de 32 a 160 cavidades.",
             "Las bases de molde de LIHE se fabrican para moldes de preforma de hasta 160 cavidades, mecanizadas en Mazak, Makino y Haas, rectificadas en Okamoto y verificadas en una MMC Zeiss.",
             "Los canales calientes de válvula de LIHE están disponibles hasta 144 cavidades de preforma, con una garantía de 3 años contra fugas en el diseño tipo Husky Ultra.",
             "Plazos publicados: moldes piloto 20 días, moldes PET estándar 8 semanas, piezas de repuesto 4 semanas.",
@@ -638,7 +638,7 @@
             "Centro de ingeniería y diseño con CAD/CAM, simulación 3D y análisis de flujo antes de la producción.",
             "Reacondicionamiento de proyectos: revisiones completas de moldes y mejoras de rendimiento para devolver a los equipos antiguos una eficiencia de nivel OEM.",
             "Piezas de conversión 100% intercambiables con sistemas Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps y Corvaglia.",
-            "Moldes para máquinas HUSKY, NETSTAL, SACMI, SIPA, Milacron y otras, con instalación y apoyo en la puesta en marcha en planta."
+            "Moldes para máquinas HUSKY, NETSTAL, SIPA, KATA y otras, con instalación y apoyo en la puesta en marcha en planta."
           ]
         }
       ],
@@ -657,7 +657,7 @@
         },
         {
           "question": "¿Cuál es la cavitación máxima que puede fabricar LIHE?",
-          "answer": "Los moldes de preforma de LIHE van de 2 a 160 cavidades y las bases de molde se fabrican para hasta 160 cavidades. Los canales calientes de válvula de LIHE están disponibles hasta 144 cavidades de preforma."
+          "answer": "Los moldes de preforma de LIHE van de 32 a 160 cavidades y las bases de molde se fabrican para hasta 160 cavidades. Los canales calientes de válvula de LIHE están disponibles hasta 144 cavidades de preforma."
         },
         {
           "question": "¿Es más barato aumentar cavidades que comprar un molde nuevo?",

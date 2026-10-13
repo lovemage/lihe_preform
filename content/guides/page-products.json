@@ -22,7 +22,7 @@
           "table": {
             "head": ["Product family", "What it produces", "Machine platforms", "LIHE range"],
             "rows": [
-              ["PET preform mold", "Preforms with finished neck threads", "HUSKY, NETSTAL, SACMI, SIPA, Milacron and others", "2 to 160 cavities; over 12,000 cavities produced per year"],
+              ["PET preform mold", "Preforms with finished neck threads", "HUSKY, NETSTAL, SIPA, KATA and others", "32 to 160 cavities; over 12,000 cavities produced per year"],
               ["Closure injection mold", "One-piece and two-piece caps, tamper-evident bands, EU tethered caps", "Closure injection molding machines", "12 to 72 cavities; 26mm, 28mm, 2925, 3025, 38mm"],
               ["Compression mold", "Caps formed from metered melt on rotary lines", "SACMI CCM", "New and replacement tooling from existing parts"],
               ["Blow mold", "Finished PET bottles", "Two-step: SIDEL, KRONES, SIG/KHS, TECH-LONG, NEWAMSTAR; one-step: SIPA, ASB, AOKI", "Cold fill, hot fill and aseptic; split-type quick-change molds"],
@@ -48,7 +48,7 @@
             "A preform mold and its hot runner work as one system: the hot runner keeps the PET melt at processing temperature and delivers it to each cavity, and the valve gate opens and closes each drop. Cavitation sets your output per cycle, but it must match the clamp size and platform of your injection machine."
           ],
           "list": [
-            "Preform molds range from 2 to 160 cavities; LIHE valve gate hot runners cover up to 144 preform cavities.",
+            "Preform molds range from 32 to 160 cavities; LIHE valve gate hot runners cover up to 144 preform cavities.",
             "Neck finishes include PCO 1881, PCO 1810, 1716, 3025, 2925, 2622, 2522, 38mm, 45mm, 68mm, 80mm, 90mm wide-mouth, ROPP and custom designs.",
             "If you keep an existing hot runner, replacement nozzle tips, valve pins, heaters and seals or a refurbishment may be enough.",
             "LIHE's Husky Ultra-type hot runners carry a 3-year leakage-proof guarantee.",
@@ -136,7 +136,7 @@
           "table": {
             "head": ["Продуктовая группа", "Что производит", "Платформы машин", "Диапазон LIHE"],
             "rows": [
-              ["Пресс-форма для ПЭТ-преформ", "Преформы с готовой резьбой горловины", "HUSKY, NETSTAL, SACMI, SIPA, Milacron и другие", "От 2 до 160 гнёзд; более 12 000 гнёзд в год"],
+              ["Пресс-форма для ПЭТ-преформ", "Преформы с готовой резьбой горловины", "HUSKY, NETSTAL, SIPA, KATA и другие", "От 32 до 160 гнёзд; более 12 000 гнёзд в год"],
               ["Литьевая форма для колпачков", "Одно- и двухкомпонентные колпачки, кольца контроля вскрытия, привязанные колпачки ЕС", "Термопластавтоматы для колпачков", "От 12 до 72 гнёзд; 26 мм, 28 мм, 2925, 3025, 38 мм"],
               ["Компрессионная форма", "Колпачки из дозированного расплава на роторных линиях", "SACMI CCM", "Новая и сменная оснастка по существующим деталям"],
               ["Выдувная форма", "Готовые ПЭТ-бутылки", "Двухстадийные: SIDEL, KRONES, SIG/KHS, TECH-LONG, NEWAMSTAR; одностадийные: SIPA, ASB, AOKI", "Холодный, горячий и асептический розлив; разъёмные формы быстрой смены"],
@@ -162,7 +162,7 @@
             "Пресс-форма для преформ и её горячеканальная система работают как единое целое: горячий канал поддерживает расплав ПЭТ при температуре переработки и подаёт его в каждое гнездо, а запорное сопло открывает и закрывает каждый впуск. Гнёздность определяет выпуск за цикл, но она должна соответствовать усилию смыкания и платформе вашего термопластавтомата."
           ],
           "list": [
-            "Пресс-формы для преформ выпускаются на 2–160 гнёзд; горячеканальные системы LIHE с запорными соплами — до 144 гнёзд для преформ.",
+            "Пресс-формы для преформ выпускаются на 32–160 гнёзд; горячеканальные системы LIHE с запорными соплами — до 144 гнёзд для преформ.",
             "Горловины: PCO 1881, PCO 1810, 1716, 3025, 2925, 2622, 2522, 38 мм, 45 мм, 68 мм, 80 мм, широкие 90 мм, ROPP и индивидуальные конструкции.",
             "Если существующая горячеканальная система сохраняется, может быть достаточно сменных наконечников сопел, запорных игл, нагревателей и уплотнений или её восстановления.",
             "На горячие каналы LIHE типа Husky Ultra действует гарантия 3 года от протечек.",
@@ -250,7 +250,7 @@
           "table": {
             "head": ["Familia de productos", "Qué produce", "Plataformas de máquina", "Gama de LIHE"],
             "rows": [
-              ["Molde de preforma PET", "Preformas con la rosca del cuello terminada", "HUSKY, NETSTAL, SACMI, SIPA, Milacron y otras", "De 2 a 160 cavidades; más de 12.000 cavidades fabricadas al año"],
+              ["Molde de preforma PET", "Preformas con la rosca del cuello terminada", "HUSKY, NETSTAL, SIPA, KATA y otras", "De 32 a 160 cavidades; más de 12.000 cavidades fabricadas al año"],
               ["Molde de inyección de tapas", "Tapas de una y dos piezas, bandas de garantía, tapas cautivas de la UE", "Inyectoras de tapas", "De 12 a 72 cavidades; 26 mm, 28 mm, 2925, 3025, 38 mm"],
               ["Molde de compresión", "Tapas formadas con material fundido dosificado en líneas rotativas", "SACMI CCM", "Utillaje nuevo y de reposición a partir de piezas existentes"],
               ["Molde de soplado", "Botellas PET terminadas", "Dos etapas: SIDEL, KRONES, SIG/KHS, TECH-LONG, NEWAMSTAR; una etapa: SIPA, ASB, AOKI", "Llenado en frío, en caliente y aséptico; moldes partidos de cambio rápido"],
@@ -276,7 +276,7 @@
             "Un molde de preforma y su canal caliente funcionan como un único sistema: el canal caliente mantiene el PET fundido a temperatura de proceso y lo lleva a cada cavidad, y el obturador abre y cierra cada punto de inyección. El número de cavidades fija la producción por ciclo, pero debe corresponder a la fuerza de cierre y a la plataforma de su inyectora."
           ],
           "list": [
-            "Los moldes de preforma van de 2 a 160 cavidades; los canales calientes con obturador de LIHE cubren hasta 144 cavidades de preforma.",
+            "Los moldes de preforma van de 32 a 160 cavidades; los canales calientes con obturador de LIHE cubren hasta 144 cavidades de preforma.",
             "Los cuellos incluyen PCO 1881, PCO 1810, 1716, 3025, 2925, 2622, 2522, 38 mm, 45 mm, 68 mm, 80 mm, boca ancha de 90 mm, ROPP y diseños a medida.",
             "Si conserva un canal caliente existente, pueden bastar puntas de boquilla, agujas obturadoras, resistencias y juntas de repuesto o un reacondicionamiento.",
             "Los canales calientes de LIHE tipo Husky Ultra tienen una garantía de 3 años contra fugas.",

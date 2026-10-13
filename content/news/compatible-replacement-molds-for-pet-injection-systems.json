@@ -121,13 +121,13 @@
                 "Cavity range",
                 "According to the OEM's product range",
                 "Varies by supplier",
-                "2 to 160 cavities"
+                "32 to 160 cavities"
               ],
               [
                 "Platforms covered",
                 "Mainly the OEM's own machines",
                 "Varies by supplier",
-                "Husky, Netstal, SACMI, SIPA, Milacron and others"
+                "Husky, Netstal, SIPA, KATA and others"
               ],
               [
                 "Quality evidence",
@@ -213,7 +213,7 @@
       "faq": [
         {
           "question": "Can a non-OEM preform mold run on a Husky, SACMI or Netstal machine?",
-          "answer": "Yes, if it is designed against the machine's actual interface, hot runner and take-out system. LIHE builds preform molds for Husky, Netstal, SACMI, SIPA, Milacron and other machines, and its tooling is built to withstand up to 8 million shots on Husky, SACMI and Netstal platforms. Check your service contract with the machine maker before ordering."
+          "answer": "Yes, if it is designed against the machine's actual interface, hot runner and take-out system. LIHE builds preform molds for Husky, Netstal, SIPA, KATA and other machines, and its tooling is built to withstand up to 8 million shots on Husky, SACMI and Netstal platforms. Check your service contract with the machine maker before ordering."
         },
         {
           "question": "How long does a compatible replacement mold take?",
@@ -315,13 +315,13 @@
                 "Диапазон гнёзд",
                 "В рамках линейки OEM",
                 "Зависит от поставщика",
-                "От 2 до 160 гнёзд"
+                "От 32 до 160 гнёзд"
               ],
               [
                 "Платформы",
                 "В основном собственные машины OEM",
                 "Зависит от поставщика",
-                "Husky, Netstal, SACMI, SIPA, Milacron и другие"
+                "Husky, Netstal, SIPA, KATA и другие"
               ],
               [
                 "Подтверждение качества",
@@ -407,7 +407,7 @@
       "faq": [
         {
           "question": "Может ли пресс-форма для преформ не от OEM работать на машине Husky, SACMI или Netstal?",
-          "answer": "Да, если она спроектирована под фактический интерфейс машины, горячий канал и систему съёма. LIHE производит пресс-формы для преформ для машин Husky, Netstal, SACMI, SIPA, Milacron и других, а её оснастка рассчитана на ресурс до 8 миллионов циклов на платформах Husky, SACMI и Netstal. Перед заказом проверьте сервисный договор с производителем машины."
+          "answer": "Да, если она спроектирована под фактический интерфейс машины, горячий канал и систему съёма. LIHE производит пресс-формы для преформ для машин Husky, Netstal, SIPA, KATA и других, а её оснастка рассчитана на ресурс до 8 миллионов циклов на платформах Husky, SACMI и Netstal. Перед заказом проверьте сервисный договор с производителем машины."
         },
         {
           "question": "Сколько времени занимает изготовление совместимой сменной формы?",
@@ -509,13 +509,13 @@
                 "Rango de cavidades",
                 "Según la gama del OEM",
                 "Varía según el proveedor",
-                "De 2 a 160 cavidades"
+                "De 32 a 160 cavidades"
               ],
               [
                 "Plataformas",
                 "Principalmente las máquinas propias del OEM",
                 "Varía según el proveedor",
-                "Husky, Netstal, SACMI, SIPA, Milacron y otras"
+                "Husky, Netstal, SIPA, KATA y otras"
               ],
               [
                 "Evidencia de calidad",
@@ -601,7 +601,7 @@
       "faq": [
         {
           "question": "¿Puede un molde de preforma que no es del OEM funcionar en una máquina Husky, SACMI o Netstal?",
-          "answer": "Sí, si se diseña según la interfaz real de la máquina, el canal caliente y el sistema de extracción. LIHE fabrica moldes de preforma para máquinas Husky, Netstal, SACMI, SIPA, Milacron y otras, y su utillaje está construido para soportar hasta 8 millones de ciclos en plataformas Husky, SACMI y Netstal. Revise su contrato de servicio con el fabricante de la máquina antes de hacer el pedido."
+          "answer": "Sí, si se diseña según la interfaz real de la máquina, el canal caliente y el sistema de extracción. LIHE fabrica moldes de preforma para máquinas Husky, Netstal, SIPA, KATA y otras, y su utillaje está construido para soportar hasta 8 millones de ciclos en plataformas Husky, SACMI y Netstal. Revise su contrato de servicio con el fabricante de la máquina antes de hacer el pedido."
         },
         {
           "question": "¿Cuánto tarda un molde de reemplazo compatible?",

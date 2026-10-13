@@ -19,7 +19,7 @@
             "A multi-cavity PET preform mold is a stack of many small parts — cores, cavities, neck rings, gate inserts — that must fit together identically in every cavity. When those parts are machined in different workshops, each supplier works to its own process, fixtures and measuring habits, and the small differences add up in the assembled mold."
           ],
           "list": [
-            "Tolerance stack-up: on a mold with 2 to 160 cavities, a small offset repeated across every core and cavity becomes uneven wall thickness in the preform.",
+            "Tolerance stack-up: on a mold with 32 to 160 cavities, a small offset repeated across every core and cavity becomes uneven wall thickness in the preform.",
             "Process sequence control: roughing, heat treatment, finishing, grinding and polishing happen in a planned order on one floor, so datums are not lost between suppliers.",
             "Shorter correction loops: if a part is out of tolerance, it goes back to the same machine and programmer the same day instead of being shipped back and forth.",
             "Predictable lead times: LIHE publishes 20 days for pilot molds, 8 weeks for standard PET molds and 4 weeks for replacement parts and cap mold parts."
@@ -126,7 +126,7 @@
             "Многогнёздная пресс-форма для ПЭТ-преформ — это набор множества небольших деталей: пуансонов, матриц, горловых колец, литниковых вставок, которые должны одинаково сопрягаться в каждом гнезде. Если детали обрабатываются в разных цехах, каждый поставщик работает по своему процессу, со своей оснасткой и своими привычками измерения, и небольшие отличия накапливаются в собранной форме."
           ],
           "list": [
-            "Накопление допусков: в форме на 2–160 гнёзд небольшое смещение, повторённое на каждом пуансоне и матрице, превращается в неравномерную толщину стенки преформы.",
+            "Накопление допусков: в форме на 32–160 гнёзд небольшое смещение, повторённое на каждом пуансоне и матрице, превращается в неравномерную толщину стенки преформы.",
             "Контроль последовательности: черновая обработка, термообработка, чистовая обработка, шлифование и полирование выполняются в запланированном порядке в одном цехе, и базы не теряются между поставщиками.",
             "Короткий цикл исправления: деталь вне допуска возвращается на тот же станок и к тому же программисту в тот же день, а не пересылается туда и обратно.",
             "Предсказуемые сроки: LIHE указывает 20 дней для пилотных форм, 8 недель для стандартных ПЭТ-форм и 4 недели для запасных частей и деталей форм для колпачков."
@@ -233,7 +233,7 @@
             "Un molde de preforma PET multicavidad es un conjunto de muchas piezas pequeñas — machos, cavidades, anillos de cuello, insertos de entrada — que deben ajustar de forma idéntica en cada cavidad. Cuando esas piezas se mecanizan en talleres distintos, cada proveedor trabaja con su propio proceso, sus utillajes y sus hábitos de medición, y las pequeñas diferencias se suman en el molde montado."
           ],
           "list": [
-            "Acumulación de tolerancias: en un molde de 2 a 160 cavidades, un pequeño desvío repetido en cada macho y cavidad se convierte en un espesor de pared desigual en la preforma.",
+            "Acumulación de tolerancias: en un molde de 32 a 160 cavidades, un pequeño desvío repetido en cada macho y cavidad se convierte en un espesor de pared desigual en la preforma.",
             "Control de la secuencia: desbaste, tratamiento térmico, acabado, rectificado y pulido se realizan en un orden planificado en una sola planta, sin perder las referencias entre proveedores.",
             "Correcciones más cortas: si una pieza está fuera de tolerancia, vuelve a la misma máquina y al mismo programador el mismo día, en lugar de viajar de un taller a otro.",
             "Plazos previsibles: LIHE publica 20 días para moldes piloto, 8 semanas para moldes PET estándar y 4 semanas para repuestos y piezas de moldes de tapas."

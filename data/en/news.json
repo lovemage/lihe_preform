@@ -356,7 +356,7 @@
         {
           "heading": "What LIHE supplies as replacement tooling",
           "list": [
-            "Complete PET preform molds from 2 to 160 cavities for HUSKY, NETSTAL, SACMI, SIPA, Milacron and other machines.",
+            "Complete PET preform molds from 32 to 160 cavities for HUSKY, NETSTAL, SIPA, KATA and other machines.",
             "Conversion parts designed to be 100% interchangeable with SACMI, SIPA, NETSTAL, Husky, MHT, OTTO, ASB, Krupps and Corvaglia systems.",
             "Replacement parts made from the customer's existing Husky, SACMI or Otto parts.",
             "Valve-gate hot runners for up to 144 cavities (preform) and 96 cavities (closure), compatible with HUSKY, NETSTAL, KM and SIPA, with a 3-year leakage-proof guarantee.",
@@ -410,7 +410,7 @@
             "rows": [
               [
                 "Preform mold cavitation",
-                "2 to 160 cavities",
+                "32 to 160 cavities",
                 "lihe-preform.com, products"
               ],
               [
@@ -487,7 +487,7 @@
               ],
               [
                 "Molds",
-                "Preform molds 2 to 160 cavities; compression molds for SACMI CCM lines",
+                "Preform molds 32 to 160 cavities; compression molds for SACMI CCM lines",
                 "States that CCM molds are independent and can be replaced quickly and individually",
                 "Complete molds up to 200 cavities, full or partial mold conversions, spare parts for hot halves",
                 "Machine, mold and hot runners from a single source; systems configurable to 192 cavities"
@@ -649,7 +649,7 @@
         {
           "heading": "What LIHE Precision makes for Husky-platform lines",
           "list": [
-            "PET preform molds from 2 to 160 cavities, for HUSKY, NETSTAL, SACMI, SIPA, Milacron and other machines.",
+            "PET preform molds from 32 to 160 cavities, for HUSKY, NETSTAL, SIPA, KATA and other machines.",
             "Conversion parts designed to be 100% interchangeable with Husky systems, as well as SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps and Corvaglia systems.",
             "Replacement parts made from the customer's existing Husky parts, so the new parts follow the geometry that already runs in the plant.",
             "Valve-gate hot runners of a Husky Ultra-type design, up to 144 cavities for preforms, with a 3-year leakage-proof guarantee.",
@@ -688,7 +688,7 @@
               ],
               [
                 "Preform mold cavitation",
-                "2 to 160 cavities",
+                "32 to 160 cavities",
                 "lihe-preform.com, products"
               ],
               [
@@ -773,7 +773,7 @@
               ],
               [
                 "Preform mold cavitation",
-                "2 to 160 cavities",
+                "32 to 160 cavities",
                 "2 to 200 cavities"
               ],
               [
@@ -857,7 +857,7 @@
         },
         {
           "question": "How many cavities can LIHE build for a Husky-compatible preform mold?",
-          "answer": "LIHE's published range for PET preform molds is 2 to 160 cavities. Its valve-gate hot runners cover up to 144 cavities for preforms."
+          "answer": "LIHE's published range for PET preform molds is 32 to 160 cavities. Its valve-gate hot runners cover up to 144 cavities for preforms."
         },
         {
           "question": "How long does a Husky-compatible mold from LIHE take?",
@@ -926,7 +926,7 @@
         {
           "heading": "Key numbers for a cavitation upgrade",
           "list": [
-            "LIHE preform molds are built from 2 to 160 cavities.",
+            "LIHE preform molds are built from 32 to 160 cavities.",
             "LIHE mold bases are made for preform molds up to 160 cavities, machined on Mazak, Makino and Haas, ground on Okamoto and verified on a Zeiss CMM.",
             "LIHE valve gate hot runners are available for up to 144 preform cavities, with a 3-year leakage-proof guarantee on the Husky Ultra-type design.",
             "Published lead times: pilot molds 20 days, standard PET molds 8 weeks, replacement parts 4 weeks.",
@@ -1092,7 +1092,7 @@
             "Engineering and design center with CAD/CAM, 3D simulation and flow analysis before production.",
             "Project retrofitting: complete mold overhauls and performance upgrades to restore aging assets to OEM-level efficiency.",
             "Conversion parts that are 100% interchangeable with Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps and Corvaglia systems.",
-            "Molds for HUSKY, NETSTAL, SACMI, SIPA, Milacron and other machines, with on-site installation and start-up support."
+            "Molds for HUSKY, NETSTAL, SIPA, KATA and other machines, with on-site installation and start-up support."
           ]
         }
       ],
@@ -1111,7 +1111,7 @@
         },
         {
           "question": "What is the maximum cavitation LIHE can build?",
-          "answer": "LIHE preform molds range from 2 to 160 cavities and mold bases are made for up to 160 cavities. LIHE valve gate hot runners are available for up to 144 preform cavities."
+          "answer": "LIHE preform molds range from 32 to 160 cavities and mold bases are made for up to 160 cavities. LIHE valve gate hot runners are available for up to 144 preform cavities."
         },
         {
           "question": "Is a cavitation upgrade cheaper than a new mold?",
@@ -1436,7 +1436,7 @@
         {
           "heading": "Key numbers for planning an rPET conversion",
           "list": [
-            "Preform molds can be specified from 2 to 160 cavities; the conversion approach is the same, but every extra cavity adds a hot runner drop to balance.",
+            "Preform molds can be specified from 32 to 160 cavities; the conversion approach is the same, but every extra cavity adds a hot runner drop to balance.",
             "LIHE valve gate hot runners are available for up to 144 preform cavities, with a 3-year leakage-proof guarantee on the Husky Ultra-type design.",
             "Optimized mold cooling can reduce neck cooling time by up to 0.5 s, which helps recover cycle time if rPET forces a cooler, slower process.",
             "Lightweighting proposals reduce preform weight by 1 g to 2 g; with rPET, confirm stretch behaviour before taking weight out.",
@@ -1839,7 +1839,7 @@
             "Process capability: CPK ≥ 1.33.",
             "Operational defect rate: as low as 0.0064%.",
             "Tool life: up to 8 million shots on Husky, SACMI and Netstal platforms.",
-            "Preform molds: 2 to 160 cavities, with over 12,000 cavities produced per year.",
+            "Preform molds: 32 to 160 cavities, with over 12,000 cavities produced per year.",
             "Hot runners: valve gate, up to 144 cavities for preforms and 96 cavities for closures.",
             "Lead times: pilot molds 20 days, standard PET molds 8 weeks, replacement parts 4 weeks, cap mold parts 4 weeks.",
             "Lightweighting: preform weight reduced by 1g to 2g; retrofits cost 25%–40% of a new mold price; neck cooling time reduced by up to 0.5 seconds with optimized cooling."
@@ -2253,13 +2253,13 @@
                 "Cavity range",
                 "According to the OEM's product range",
                 "Varies by supplier",
-                "2 to 160 cavities"
+                "32 to 160 cavities"
               ],
               [
                 "Platforms covered",
                 "Mainly the OEM's own machines",
                 "Varies by supplier",
-                "Husky, Netstal, SACMI, SIPA, Milacron and others"
+                "Husky, Netstal, SIPA, KATA and others"
               ],
               [
                 "Quality evidence",
@@ -2345,7 +2345,7 @@
       "faq": [
         {
           "question": "Can a non-OEM preform mold run on a Husky, SACMI or Netstal machine?",
-          "answer": "Yes, if it is designed against the machine's actual interface, hot runner and take-out system. LIHE builds preform molds for Husky, Netstal, SACMI, SIPA, Milacron and other machines, and its tooling is built to withstand up to 8 million shots on Husky, SACMI and Netstal platforms. Check your service contract with the machine maker before ordering."
+          "answer": "Yes, if it is designed against the machine's actual interface, hot runner and take-out system. LIHE builds preform molds for Husky, Netstal, SIPA, KATA and other machines, and its tooling is built to withstand up to 8 million shots on Husky, SACMI and Netstal platforms. Check your service contract with the machine maker before ordering."
         },
         {
           "question": "How long does a compatible replacement mold take?",
@@ -2462,7 +2462,7 @@
         {
           "heading": "Capacity and quality figures",
           "list": [
-            "Preform molds from 2 to 160 cavities.",
+            "Preform molds from 32 to 160 cavities.",
             "Over 12,000 cavities produced per year.",
             "Valve gate hot runners up to 144 cavities for preforms.",
             "Process capability CPK ≥ 1.33, with defect rates as low as 0.0064%."
@@ -2506,7 +2506,7 @@
               [
                 "Machine platforms",
                 "Husky, SACMI, Otto and other existing molds",
-                "HUSKY, NETSTAL, SACMI, SIPA, Milacron and others"
+                "HUSKY, NETSTAL, SIPA, KATA and others"
               ]
             ]
           }

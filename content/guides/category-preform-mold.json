@@ -2,12 +2,30 @@
   "key": "category-preform-mold",
   "updated": "2026-10-13",
   "sources": [
-    { "label": "Wikipedia — Preform", "url": "https://en.wikipedia.org/wiki/Preform" },
-    { "label": "Wikipedia — Polyethylene terephthalate", "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate" },
-    { "label": "Wikipedia — Injection moulding", "url": "https://en.wikipedia.org/wiki/Injection_moulding" },
-    { "label": "Wikipedia — Blow molding", "url": "https://en.wikipedia.org/wiki/Blow_molding" },
-    { "label": "International Society of Beverage Technologists (ISBT)", "url": "https://www.isbt.com/" },
-    { "label": "Husky Technologies", "url": "https://www.husky.co/" }
+    {
+      "label": "Wikipedia — Preform",
+      "url": "https://en.wikipedia.org/wiki/Preform"
+    },
+    {
+      "label": "Wikipedia — Polyethylene terephthalate",
+      "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate"
+    },
+    {
+      "label": "Wikipedia — Injection moulding",
+      "url": "https://en.wikipedia.org/wiki/Injection_moulding"
+    },
+    {
+      "label": "Wikipedia — Blow molding",
+      "url": "https://en.wikipedia.org/wiki/Blow_molding"
+    },
+    {
+      "label": "International Society of Beverage Technologists (ISBT)",
+      "url": "https://www.isbt.com/"
+    },
+    {
+      "label": "Husky Technologies",
+      "url": "https://www.husky.co/"
+    }
   ],
   "locales": {
     "en": {
@@ -31,18 +49,58 @@
         {
           "heading": "Cavitation tiers compared: low, mid and high cavitation preform molds",
           "paragraphs": [
-            "LIHE builds PET preform molds from 2 to 160 cavities. The table below compares cavitation tiers in qualitative terms; actual cycle times and outputs must be calculated for the specific preform and machine."
+            "LIHE builds PET preform molds from 32 to 160 cavities. The table below compares cavitation tiers in qualitative terms; actual cycle times and outputs must be calculated for the specific preform and machine."
           ],
           "table": {
-            "head": ["", "Low cavitation (2–16 cavities)", "Mid cavitation (24–72 cavities)", "High cavitation (96–160 cavities)"],
+            "head": [
+              "",
+              "Low cavitation (32–48 cavities)",
+              "Mid cavitation (64–96 cavities)",
+              "High cavitation (128–160 cavities)"
+            ],
             "rows": [
-              ["Typical use", "Pilot runs, market tests, special or wide-mouth preforms, small regional plants", "Regional bottlers, several SKUs per machine, medium volumes", "High-volume water and CSD lines running one preform for long periods"],
-              ["Machine size", "Small machines or one-step machines", "Mid-size preform systems", "Large dedicated preform systems"],
-              ["Investment per mold", "Lowest", "Medium", "Highest, but lowest cost per preform at volume"],
-              ["Changeover flexibility", "High", "Medium", "Low — changeovers are planned events"],
-              ["Sensitivity to hot runner balance", "Low", "Medium", "High — small differences multiply across many cavities"],
-              ["Spare parts stock", "Small", "Moderate", "Large set of neck rings, cores, cavities and seals"],
-              ["Best fit", "Low volume, many designs", "Balanced volume and flexibility", "Maximum volume, stable design"]
+              [
+                "Typical use",
+                "Pilot runs, market tests, special or wide-mouth preforms, small regional plants",
+                "Regional bottlers, several SKUs per machine, medium volumes",
+                "High-volume water and CSD lines running one preform for long periods"
+              ],
+              [
+                "Machine size",
+                "Smaller preform injection systems",
+                "Mid-size preform systems",
+                "Large dedicated preform systems"
+              ],
+              [
+                "Investment per mold",
+                "Lowest",
+                "Medium",
+                "Highest, but lowest cost per preform at volume"
+              ],
+              [
+                "Changeover flexibility",
+                "High",
+                "Medium",
+                "Low — changeovers are planned events"
+              ],
+              [
+                "Sensitivity to hot runner balance",
+                "Low",
+                "Medium",
+                "High — small differences multiply across many cavities"
+              ],
+              [
+                "Spare parts stock",
+                "Small",
+                "Moderate",
+                "Large set of neck rings, cores, cavities and seals"
+              ],
+              [
+                "Best fit",
+                "Low volume, many designs",
+                "Balanced volume and flexibility",
+                "Maximum volume, stable design"
+              ]
             ]
           }
         },
@@ -63,7 +121,7 @@
         {
           "heading": "Machine platform compatibility: Husky, Netstal, SACMI, SIPA and others",
           "paragraphs": [
-            "A preform mold is built for a specific injection machine. LIHE designs preform molds for HUSKY, NETSTAL, SACMI, SIPA, Milacron and other platforms, and its technical team can carry out an on-site machine interface audit before design starts. The points below must be confirmed for each machine:"
+            "A preform mold is built for a specific injection machine. LIHE designs preform molds for HUSKY, NETSTAL, SIPA, KATA and other platforms, and its technical team can carry out an on-site machine interface audit before design starts. The points below must be confirmed for each machine:"
           ],
           "list": [
             "Platen size, tie-bar spacing, mold height range and clamp force.",
@@ -107,7 +165,7 @@
       "faq": [
         {
           "question": "How many cavities should my PET preform mold have?",
-          "answer": "Divide annual preform demand by the productive hours available, then by the expected shots per hour for that preform on your machine. The result gives the minimum cavitation; add margin for growth and downtime. LIHE builds molds from 2 to 160 cavities."
+          "answer": "Divide annual preform demand by the productive hours available, then by the expected shots per hour for that preform on your machine. The result gives the minimum cavitation; add margin for growth and downtime. LIHE builds molds from 32 to 160 cavities."
         },
         {
           "question": "Can one preform mold produce different preform weights?",
@@ -119,7 +177,7 @@
         },
         {
           "question": "Which injection machines are LIHE preform molds compatible with?",
-          "answer": "LIHE designs preform molds for HUSKY, NETSTAL, SACMI, SIPA, Milacron and other injection molding machine platforms."
+          "answer": "LIHE designs preform molds for HUSKY, NETSTAL, SIPA, KATA and other injection molding machine platforms."
         },
         {
           "question": "How long does it take to get a new preform mold?",
@@ -148,18 +206,58 @@
         {
           "heading": "Сравнение уровней гнездности: малая, средняя и высокая гнездность пресс-форм",
           "paragraphs": [
-            "LIHE изготавливает пресс-формы для ПЭТ-преформ от 2 до 160 гнёзд. Таблица сравнивает уровни гнездности качественно; фактическое время цикла и производительность рассчитываются для конкретной преформы и машины."
+            "LIHE изготавливает пресс-формы для ПЭТ-преформ от 32 до 160 гнёзд. Таблица сравнивает уровни гнездности качественно; фактическое время цикла и производительность рассчитываются для конкретной преформы и машины."
           ],
           "table": {
-            "head": ["", "Малая гнездность (2–16 гнёзд)", "Средняя гнездность (24–72 гнезда)", "Высокая гнездность (96–160 гнёзд)"],
+            "head": [
+              "",
+              "Малая гнездность (32–48 гнёзд)",
+              "Средняя гнездность (64–96 гнезда)",
+              "Высокая гнездность (128–160 гнёзд)"
+            ],
             "rows": [
-              ["Типичное применение", "Пилотные партии, тесты рынка, специальные и широкогорлые преформы, небольшие региональные заводы", "Региональные разливщики, несколько SKU на одной машине, средние объёмы", "Крупные линии воды и газированных напитков с одной преформой в течение долгого времени"],
-              ["Размер машины", "Небольшие или одностадийные машины", "Системы для преформ среднего размера", "Крупные специализированные системы для преформ"],
-              ["Инвестиции в форму", "Минимальные", "Средние", "Максимальные, но минимальная стоимость преформы при больших объёмах"],
-              ["Гибкость переналадки", "Высокая", "Средняя", "Низкая — переналадки планируются заранее"],
-              ["Чувствительность к балансу горячеканальной системы", "Низкая", "Средняя", "Высокая — малые отклонения умножаются на много гнёзд"],
-              ["Запас запчастей", "Небольшой", "Умеренный", "Большой комплект горловых колец, пуансонов, матриц и уплотнений"],
-              ["Оптимальный выбор", "Малые объёмы, много дизайнов", "Баланс объёма и гибкости", "Максимальный объём, стабильный дизайн"]
+              [
+                "Типичное применение",
+                "Пилотные партии, тесты рынка, специальные и широкогорлые преформы, небольшие региональные заводы",
+                "Региональные разливщики, несколько SKU на одной машине, средние объёмы",
+                "Крупные линии воды и газированных напитков с одной преформой в течение долгого времени"
+              ],
+              [
+                "Размер машины",
+                "Небольшие системы литья преформ",
+                "Системы для преформ среднего размера",
+                "Крупные специализированные системы для преформ"
+              ],
+              [
+                "Инвестиции в форму",
+                "Минимальные",
+                "Средние",
+                "Максимальные, но минимальная стоимость преформы при больших объёмах"
+              ],
+              [
+                "Гибкость переналадки",
+                "Высокая",
+                "Средняя",
+                "Низкая — переналадки планируются заранее"
+              ],
+              [
+                "Чувствительность к балансу горячеканальной системы",
+                "Низкая",
+                "Средняя",
+                "Высокая — малые отклонения умножаются на много гнёзд"
+              ],
+              [
+                "Запас запчастей",
+                "Небольшой",
+                "Умеренный",
+                "Большой комплект горловых колец, пуансонов, матриц и уплотнений"
+              ],
+              [
+                "Оптимальный выбор",
+                "Малые объёмы, много дизайнов",
+                "Баланс объёма и гибкости",
+                "Максимальный объём, стабильный дизайн"
+              ]
             ]
           }
         },
@@ -180,7 +278,7 @@
         {
           "heading": "Совместимость с машинами: Husky, Netstal, SACMI, SIPA и другие",
           "paragraphs": [
-            "Пресс-форма для преформ проектируется под конкретную литьевую машину. LIHE проектирует пресс-формы для HUSKY, NETSTAL, SACMI, SIPA, Milacron и других платформ, а техническая команда может провести аудит интерфейса машины на месте до начала проектирования. Для каждой машины нужно подтвердить:"
+            "Пресс-форма для преформ проектируется под конкретную литьевую машину. LIHE проектирует пресс-формы для HUSKY, NETSTAL, SIPA, KATA и других платформ, а техническая команда может провести аудит интерфейса машины на месте до начала проектирования. Для каждой машины нужно подтвердить:"
           ],
           "list": [
             "Размер плит, расстояние между колоннами, диапазон высоты формы и усилие смыкания.",
@@ -224,7 +322,7 @@
       "faq": [
         {
           "question": "Сколько гнёзд должно быть в моей пресс-форме для ПЭТ-преформ?",
-          "answer": "Разделите годовую потребность в преформах на доступные рабочие часы, затем на ожидаемое число циклов в час для этой преформы на вашей машине. Результат даёт минимальную гнездность; добавьте запас на рост и простои. LIHE изготавливает формы от 2 до 160 гнёзд."
+          "answer": "Разделите годовую потребность в преформах на доступные рабочие часы, затем на ожидаемое число циклов в час для этой преформы на вашей машине. Результат даёт минимальную гнездность; добавьте запас на рост и простои. LIHE изготавливает формы от 32 до 160 гнёзд."
         },
         {
           "question": "Может ли одна пресс-форма выпускать преформы разного веса?",
@@ -236,7 +334,7 @@
         },
         {
           "question": "С какими литьевыми машинами совместимы пресс-формы LIHE?",
-          "answer": "LIHE проектирует пресс-формы для HUSKY, NETSTAL, SACMI, SIPA, Milacron и других платформ литьевых машин."
+          "answer": "LIHE проектирует пресс-формы для HUSKY, NETSTAL, SIPA, KATA и других платформ литьевых машин."
         },
         {
           "question": "Сколько времени занимает изготовление новой пресс-формы?",
@@ -265,18 +363,58 @@
         {
           "heading": "Comparación de niveles de cavidades: moldes de preforma de baja, media y alta cavitación",
           "paragraphs": [
-            "LIHE fabrica moldes de preforma PET de 2 a 160 cavidades. La tabla compara los niveles de cavitación en términos cualitativos; los tiempos de ciclo y la producción reales se calculan para cada preforma y máquina concreta."
+            "LIHE fabrica moldes de preforma PET de 32 a 160 cavidades. La tabla compara los niveles de cavitación en términos cualitativos; los tiempos de ciclo y la producción reales se calculan para cada preforma y máquina concreta."
           ],
           "table": {
-            "head": ["", "Baja cavitación (2–16 cavidades)", "Cavitación media (24–72 cavidades)", "Alta cavitación (96–160 cavidades)"],
+            "head": [
+              "",
+              "Baja cavitación (32–48 cavidades)",
+              "Cavitación media (64–96 cavidades)",
+              "Alta cavitación (128–160 cavidades)"
+            ],
             "rows": [
-              ["Uso típico", "Series piloto, pruebas de mercado, preformas especiales o de boca ancha, plantas regionales pequeñas", "Embotelladores regionales, varias referencias por máquina, volúmenes medios", "Líneas de agua y bebidas carbonatadas de gran volumen con una sola preforma durante largos periodos"],
-              ["Tamaño de máquina", "Máquinas pequeñas o de una etapa", "Sistemas de preforma medianos", "Grandes sistemas dedicados a preformas"],
-              ["Inversión por molde", "La más baja", "Media", "La más alta, pero con el menor coste por preforma a gran volumen"],
-              ["Flexibilidad de cambio", "Alta", "Media", "Baja: los cambios se planifican"],
-              ["Sensibilidad al equilibrio del canal caliente", "Baja", "Media", "Alta: las pequeñas diferencias se multiplican en muchas cavidades"],
-              ["Stock de repuestos", "Pequeño", "Moderado", "Amplio juego de anillos de cuello, machos, cavidades y juntas"],
-              ["Mejor opción para", "Poco volumen y muchos diseños", "Equilibrio entre volumen y flexibilidad", "Máximo volumen y diseño estable"]
+              [
+                "Uso típico",
+                "Series piloto, pruebas de mercado, preformas especiales o de boca ancha, plantas regionales pequeñas",
+                "Embotelladores regionales, varias referencias por máquina, volúmenes medios",
+                "Líneas de agua y bebidas carbonatadas de gran volumen con una sola preforma durante largos periodos"
+              ],
+              [
+                "Tamaño de máquina",
+                "Sistemas de inyección de preformas más pequeños",
+                "Sistemas de preforma medianos",
+                "Grandes sistemas dedicados a preformas"
+              ],
+              [
+                "Inversión por molde",
+                "La más baja",
+                "Media",
+                "La más alta, pero con el menor coste por preforma a gran volumen"
+              ],
+              [
+                "Flexibilidad de cambio",
+                "Alta",
+                "Media",
+                "Baja: los cambios se planifican"
+              ],
+              [
+                "Sensibilidad al equilibrio del canal caliente",
+                "Baja",
+                "Media",
+                "Alta: las pequeñas diferencias se multiplican en muchas cavidades"
+              ],
+              [
+                "Stock de repuestos",
+                "Pequeño",
+                "Moderado",
+                "Amplio juego de anillos de cuello, machos, cavidades y juntas"
+              ],
+              [
+                "Mejor opción para",
+                "Poco volumen y muchos diseños",
+                "Equilibrio entre volumen y flexibilidad",
+                "Máximo volumen y diseño estable"
+              ]
             ]
           }
         },
@@ -297,7 +435,7 @@
         {
           "heading": "Compatibilidad con máquinas: Husky, Netstal, SACMI, SIPA y otras",
           "paragraphs": [
-            "Un molde de preforma se construye para una máquina de inyección concreta. LIHE diseña moldes de preforma para HUSKY, NETSTAL, SACMI, SIPA, Milacron y otras plataformas, y su equipo técnico puede realizar una auditoría de la interfaz de la máquina in situ antes de empezar el diseño. Para cada máquina hay que confirmar:"
+            "Un molde de preforma se construye para una máquina de inyección concreta. LIHE diseña moldes de preforma para HUSKY, NETSTAL, SIPA, KATA y otras plataformas, y su equipo técnico puede realizar una auditoría de la interfaz de la máquina in situ antes de empezar el diseño. Para cada máquina hay que confirmar:"
           ],
           "list": [
             "Tamaño de platos, distancia entre columnas, rango de altura de molde y fuerza de cierre.",
@@ -341,7 +479,7 @@
       "faq": [
         {
           "question": "¿Cuántas cavidades debe tener mi molde de preforma PET?",
-          "answer": "Divida la demanda anual de preformas entre las horas productivas disponibles y después entre los ciclos por hora previstos para esa preforma en su máquina. El resultado es la cavitación mínima; añada margen para crecimiento y paradas. LIHE fabrica moldes de 2 a 160 cavidades."
+          "answer": "Divida la demanda anual de preformas entre las horas productivas disponibles y después entre los ciclos por hora previstos para esa preforma en su máquina. El resultado es la cavitación mínima; añada margen para crecimiento y paradas. LIHE fabrica moldes de 32 a 160 cavidades."
         },
         {
           "question": "¿Puede un mismo molde producir preformas de distinto peso?",
@@ -353,7 +491,7 @@
         },
         {
           "question": "¿Con qué máquinas de inyección son compatibles los moldes de preforma de LIHE?",
-          "answer": "LIHE diseña moldes de preforma para HUSKY, NETSTAL, SACMI, SIPA, Milacron y otras plataformas de máquinas de inyección."
+          "answer": "LIHE diseña moldes de preforma para HUSKY, NETSTAL, SIPA, KATA y otras plataformas de máquinas de inyección."
         },
         {
           "question": "¿Cuánto tarda la fabricación de un molde de preforma nuevo?",

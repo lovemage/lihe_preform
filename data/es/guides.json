@@ -890,7 +890,7 @@
         {
           "heading": "Cómo influye el mecanizado en la intercambiabilidad de piezas de conversión y repuestos",
           "paragraphs": [
-            "Las piezas intercambiables son piezas fabricadas con tolerancias lo bastante estrechas como para que cualquiera de ellas ocupe el lugar de otra sin ajustes. En un molde de 2 a 160 cavidades, esto es lo que permite sustituir un macho dañado sin ajustarlo a mano."
+            "Las piezas intercambiables son piezas fabricadas con tolerancias lo bastante estrechas como para que cualquiera de ellas ocupe el lugar de otra sin ajustes. En un molde de 32 a 160 cavidades, esto es lo que permite sustituir un macho dañado sin ajustarlo a mano."
           ],
           "list": [
             "Referencias comunes: cada pieza debe mecanizarse y medirse desde las mismas referencias.",
@@ -1253,14 +1253,14 @@
         {
           "heading": "Comparación de niveles de cavidades: moldes de preforma de baja, media y alta cavitación",
           "paragraphs": [
-            "LIHE fabrica moldes de preforma PET de 2 a 160 cavidades. La tabla compara los niveles de cavitación en términos cualitativos; los tiempos de ciclo y la producción reales se calculan para cada preforma y máquina concreta."
+            "LIHE fabrica moldes de preforma PET de 32 a 160 cavidades. La tabla compara los niveles de cavitación en términos cualitativos; los tiempos de ciclo y la producción reales se calculan para cada preforma y máquina concreta."
           ],
           "table": {
             "head": [
               "",
-              "Baja cavitación (2–16 cavidades)",
-              "Cavitación media (24–72 cavidades)",
-              "Alta cavitación (96–160 cavidades)"
+              "Baja cavitación (32–48 cavidades)",
+              "Cavitación media (64–96 cavidades)",
+              "Alta cavitación (128–160 cavidades)"
             ],
             "rows": [
               [
@@ -1271,7 +1271,7 @@
               ],
               [
                 "Tamaño de máquina",
-                "Máquinas pequeñas o de una etapa",
+                "Sistemas de inyección de preformas más pequeños",
                 "Sistemas de preforma medianos",
                 "Grandes sistemas dedicados a preformas"
               ],
@@ -1325,7 +1325,7 @@
         {
           "heading": "Compatibilidad con máquinas: Husky, Netstal, SACMI, SIPA y otras",
           "paragraphs": [
-            "Un molde de preforma se construye para una máquina de inyección concreta. LIHE diseña moldes de preforma para HUSKY, NETSTAL, SACMI, SIPA, Milacron y otras plataformas, y su equipo técnico puede realizar una auditoría de la interfaz de la máquina in situ antes de empezar el diseño. Para cada máquina hay que confirmar:"
+            "Un molde de preforma se construye para una máquina de inyección concreta. LIHE diseña moldes de preforma para HUSKY, NETSTAL, SIPA, KATA y otras plataformas, y su equipo técnico puede realizar una auditoría de la interfaz de la máquina in situ antes de empezar el diseño. Para cada máquina hay que confirmar:"
           ],
           "list": [
             "Tamaño de platos, distancia entre columnas, rango de altura de molde y fuerza de cierre.",
@@ -1369,7 +1369,7 @@
       "faq": [
         {
           "question": "¿Cuántas cavidades debe tener mi molde de preforma PET?",
-          "answer": "Divida la demanda anual de preformas entre las horas productivas disponibles y después entre los ciclos por hora previstos para esa preforma en su máquina. El resultado es la cavitación mínima; añada margen para crecimiento y paradas. LIHE fabrica moldes de 2 a 160 cavidades."
+          "answer": "Divida la demanda anual de preformas entre las horas productivas disponibles y después entre los ciclos por hora previstos para esa preforma en su máquina. El resultado es la cavitación mínima; añada margen para crecimiento y paradas. LIHE fabrica moldes de 32 a 160 cavidades."
         },
         {
           "question": "¿Puede un mismo molde producir preformas de distinto peso?",
@@ -1381,7 +1381,7 @@
         },
         {
           "question": "¿Con qué máquinas de inyección son compatibles los moldes de preforma de LIHE?",
-          "answer": "LIHE diseña moldes de preforma para HUSKY, NETSTAL, SACMI, SIPA, Milacron y otras plataformas de máquinas de inyección."
+          "answer": "LIHE diseña moldes de preforma para HUSKY, NETSTAL, SIPA, KATA y otras plataformas de máquinas de inyección."
         },
         {
           "question": "¿Cuánto tarda la fabricación de un molde de preforma nuevo?",
@@ -1667,7 +1667,7 @@
         {
           "heading": "Para quién es LIHE una buena opción",
           "list": [
-            "Productores de bebidas, agua, aceite comestible y envases que necesitan moldes de preforma PET de 2 a 160 cavidades, moldes de tapas de 12 a 72 cavidades o moldes de soplado para máquinas de dos etapas y de una etapa.",
+            "Productores de bebidas, agua, aceite comestible y envases que necesitan moldes de preforma PET de 32 a 160 cavidades, moldes de tapas de 12 a 72 cavidades o moldes de soplado para máquinas de dos etapas y de una etapa.",
             "Plantas con sistemas Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps o Corvaglia que necesitan piezas de conversión y de repuesto 100% intercambiables.",
             "Equipos que quieren conservar un molde existente y mejorarlo: revisiones completas, conversiones de cuello, aligeramiento de 1 g a 2 g por preforma o cambios de refrigeración que reducen el enfriamiento del cuello hasta en 0,5 segundos.",
             "Proyectos con plazos cortos: moldes piloto en 20 días, piezas de repuesto en 4 semanas y moldes PET estándar en 8 semanas.",
@@ -1773,7 +1773,7 @@
             "rows": [
               [
                 "Molde de preforma PET",
-                "Marca y modelo de la inyectora, número de cavidades (de 2 a 160), tipo de cuello, peso de la preforma en g, material (PET virgen o porcentaje de rPET)",
+                "Marca y modelo de la inyectora, número de cavidades (de 32 a 160), tipo de cuello, peso de la preforma en g, material (PET virgen o porcentaje de rPET)",
                 "Plano de la preforma, archivo 3D o muestras; plano del molde existente",
                 "Molde piloto 20 días; molde PET estándar 8 semanas"
               ],
@@ -2104,7 +2104,7 @@
             "Un molde de preforma PET multicavidad es un conjunto de muchas piezas pequeñas — machos, cavidades, anillos de cuello, insertos de entrada — que deben ajustar de forma idéntica en cada cavidad. Cuando esas piezas se mecanizan en talleres distintos, cada proveedor trabaja con su propio proceso, sus utillajes y sus hábitos de medición, y las pequeñas diferencias se suman en el molde montado."
           ],
           "list": [
-            "Acumulación de tolerancias: en un molde de 2 a 160 cavidades, un pequeño desvío repetido en cada macho y cavidad se convierte en un espesor de pared desigual en la preforma.",
+            "Acumulación de tolerancias: en un molde de 32 a 160 cavidades, un pequeño desvío repetido en cada macho y cavidad se convierte en un espesor de pared desigual en la preforma.",
             "Control de la secuencia: desbaste, tratamiento térmico, acabado, rectificado y pulido se realizan en un orden planificado en una sola planta, sin perder las referencias entre proveedores.",
             "Correcciones más cortas: si una pieza está fuera de tolerancia, vuelve a la misma máquina y al mismo programador el mismo día, en lugar de viajar de un taller a otro.",
             "Plazos previsibles: LIHE publica 20 días para moldes piloto, 8 semanas para moldes PET estándar y 4 semanas para repuestos y piezas de moldes de tapas."
@@ -2344,7 +2344,7 @@
               ],
               [
                 "Tamaño de molde de preforma",
-                "De 2 a 160 cavidades",
+                "De 32 a 160 cavidades",
                 "Bases de molde para hasta 160 cavidades"
               ],
               [
@@ -2454,7 +2454,7 @@
             "La gama de LIHE cubre el utillaje que se monta en las máquinas principales de una línea de envases PET. Cada familia de productos tiene su propia página de categoría en Productos; el resumen siguiente muestra el alcance de cada una para que pueda ir directamente a la página adecuada."
           ],
           "list": [
-            "Moldes de preforma PET: de 2 a 160 cavidades, cuellos como PCO 1881, PCO 1810, 1716, 3025, 2925, 38 mm y bocas anchas de hasta 90 mm, para inyectoras HUSKY, NETSTAL, SACMI, SIPA, Milacron y otras.",
+            "Moldes de preforma PET: de 32 a 160 cavidades, cuellos como PCO 1881, PCO 1810, 1716, 3025, 2925, 38 mm y bocas anchas de hasta 90 mm, para inyectoras HUSKY, NETSTAL, SIPA, KATA y otras.",
             "Moldes de inyección de tapas: de 12 a 72 cavidades para tapas de una y dos piezas, bandas de garantía y tapas cautivas de la UE en 26 mm, 28 mm, 2925, 3025 y 38 mm.",
             "Moldes de compresión: utillaje para líneas SACMI CCM, incluido utillaje de reposición fabricado a partir de sus piezas existentes.",
             "Moldes de soplado: moldes de dos etapas para SIDEL, KRONES, SIG/KHS, TECH-LONG y NEWAMSTAR, y de una etapa para SIPA, ASB y AOKI, en versiones de llenado en frío, llenado en caliente y aséptico.",
@@ -2587,7 +2587,7 @@
         },
         {
           "question": "¿Con qué máquinas son compatibles los moldes de LIHE?",
-          "answer": "Los moldes de preforma se fabrican para HUSKY, NETSTAL, SACMI, SIPA, Milacron y otras plataformas. Los moldes de soplado cubren SIDEL, KRONES, SIG/KHS, TECH-LONG y NEWAMSTAR (dos etapas) y SIPA, ASB y AOKI (una etapa). Los canales calientes son compatibles con HUSKY, NETSTAL, KM y SIPA."
+          "answer": "Los moldes de preforma se fabrican para HUSKY, NETSTAL, SIPA, KATA y otras plataformas. Los moldes de soplado cubren SIDEL, KRONES, SIG/KHS, TECH-LONG y NEWAMSTAR (dos etapas) y SIPA, ASB y AOKI (una etapa). Los canales calientes son compatibles con HUSKY, NETSTAL, KM y SIPA."
         },
         {
           "question": "¿Puede LIHE fabricar piezas para un molde de otro proveedor?",
@@ -3018,8 +3018,8 @@
               [
                 "Molde de preforma PET",
                 "Preformas con la rosca del cuello terminada",
-                "HUSKY, NETSTAL, SACMI, SIPA, Milacron y otras",
-                "De 2 a 160 cavidades; más de 12.000 cavidades fabricadas al año"
+                "HUSKY, NETSTAL, SIPA, KATA y otras",
+                "De 32 a 160 cavidades; más de 12.000 cavidades fabricadas al año"
               ],
               [
                 "Molde de inyección de tapas",
@@ -3076,7 +3076,7 @@
             "Un molde de preforma y su canal caliente funcionan como un único sistema: el canal caliente mantiene el PET fundido a temperatura de proceso y lo lleva a cada cavidad, y el obturador abre y cierra cada punto de inyección. El número de cavidades fija la producción por ciclo, pero debe corresponder a la fuerza de cierre y a la plataforma de su inyectora."
           ],
           "list": [
-            "Los moldes de preforma van de 2 a 160 cavidades; los canales calientes con obturador de LIHE cubren hasta 144 cavidades de preforma.",
+            "Los moldes de preforma van de 32 a 160 cavidades; los canales calientes con obturador de LIHE cubren hasta 144 cavidades de preforma.",
             "Los cuellos incluyen PCO 1881, PCO 1810, 1716, 3025, 2925, 2622, 2522, 38 mm, 45 mm, 68 mm, 80 mm, boca ancha de 90 mm, ROPP y diseños a medida.",
             "Si conserva un canal caliente existente, pueden bastar puntas de boquilla, agujas obturadoras, resistencias y juntas de repuesto o un reacondicionamiento.",
             "Los canales calientes de LIHE tipo Husky Ultra tienen una garantía de 3 años contra fugas.",
@@ -3722,7 +3722,7 @@
         {
           "heading": "Anatomía del conjunto de moldeo de un molde de preforma PET",
           "paragraphs": [
-            "Un molde de preforma multicavidad repite el mismo conjunto en cada cavidad, de 2 a 160 cavidades en los moldes de LIHE. Los conjuntos se sitúan entre la placa de machos, la placa extractora, la placa de cavidades y el canal caliente. Cada pieza del conjunto debe ser intercambiable entre cavidades para poder sustituir una pieza gastada sin retrabajos."
+            "Un molde de preforma multicavidad repite el mismo conjunto en cada cavidad, de 32 a 160 cavidades en los moldes de LIHE. Los conjuntos se sitúan entre la placa de machos, la placa extractora, la placa de cavidades y el canal caliente. Cada pieza del conjunto debe ser intercambiable entre cavidades para poder sustituir una pieza gastada sin retrabajos."
           ],
           "list": [
             "Macho (core): forma el interior de la preforma. Se refrigera por dentro mediante un tubo central, y su longitud y diámetro definen la forma interior de la preforma.",
@@ -3821,7 +3821,7 @@
           "steps": [
             "Envíe el plano de la preforma o de la botella, el peso objetivo de la preforma y el tipo de resina (PET virgen o contenido de rPET).",
             "Indique el acabado de cuello (por ejemplo PCO 1881, PCO 1810, 2925, 38 mm o boca ancha) con el plano de la tapa.",
-            "Indique el número de cavidades y el modelo de máquina de inyección (HUSKY, NETSTAL, SACMI, SIPA, Milacron u otra) con sus datos de interfaz.",
+            "Indique el número de cavidades y el modelo de máquina de inyección (HUSKY, NETSTAL, SIPA, KATA u otra) con sus datos de interfaz.",
             "Defina el canal caliente: nuevo, reutilización del existente o solo piezas de recambio.",
             "Acuerde el plan de inspección: dimensiones críticas, objetivo de CPK y formato del informe de medición.",
             "Confirme el paquete de repuestos y el apoyo en la puesta en marcha que necesita su planta.",

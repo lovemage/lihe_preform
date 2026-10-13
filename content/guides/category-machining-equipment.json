@@ -37,7 +37,7 @@
         {
           "heading": "How machining affects interchangeability of conversion and replacement parts",
           "paragraphs": [
-            "Interchangeable parts are parts made to tolerances tight enough that any one of them fits in place of another without adjustment. In a mold with 2 to 160 cavities this is what lets you replace one damaged core without fitting it by hand."
+            "Interchangeable parts are parts made to tolerances tight enough that any one of them fits in place of another without adjustment. In a mold with 32 to 160 cavities this is what lets you replace one damaged core without fitting it by hand."
           ],
           "list": [
             "Common datums: every part must be machined and measured from the same reference features.",
@@ -155,7 +155,7 @@
         {
           "heading": "Как механообработка влияет на взаимозаменяемость деталей переоснастки и запасных частей",
           "paragraphs": [
-            "Взаимозаменяемые детали — это детали, изготовленные с такими допусками, что любая из них встаёт на место другой без подгонки. В форме на 2–160 гнёзд именно это позволяет заменить один повреждённый пуансон без ручной доводки."
+            "Взаимозаменяемые детали — это детали, изготовленные с такими допусками, что любая из них встаёт на место другой без подгонки. В форме на 32–160 гнёзд именно это позволяет заменить один повреждённый пуансон без ручной доводки."
           ],
           "list": [
             "Общие базы: каждая деталь должна обрабатываться и измеряться от одних и тех же базовых элементов.",
@@ -273,7 +273,7 @@
         {
           "heading": "Cómo influye el mecanizado en la intercambiabilidad de piezas de conversión y repuestos",
           "paragraphs": [
-            "Las piezas intercambiables son piezas fabricadas con tolerancias lo bastante estrechas como para que cualquiera de ellas ocupe el lugar de otra sin ajustes. En un molde de 2 a 160 cavidades, esto es lo que permite sustituir un macho dañado sin ajustarlo a mano."
+            "Las piezas intercambiables son piezas fabricadas con tolerancias lo bastante estrechas como para que cualquiera de ellas ocupe el lugar de otra sin ajustes. En un molde de 32 a 160 cavidades, esto es lo que permite sustituir un macho dañado sin ajustarlo a mano."
           ],
           "list": [
             "Referencias comunes: cada pieza debe mecanizarse y medirse desde las mismas referencias.",

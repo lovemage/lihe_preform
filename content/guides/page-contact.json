@@ -36,7 +36,7 @@
           "table": {
             "head": ["Product type", "Must-have information", "Helpful files", "Published lead time"],
             "rows": [
-              ["PET preform mold", "Injection machine brand and model, cavitation (2 to 160 cavities), neck finish, preform weight in g, resin (PET or rPET share)", "Preform drawing, 3D file or samples; drawing of the existing mold", "Pilot mold 20 days; standard PET mold 8 weeks"],
+              ["PET preform mold", "Injection machine brand and model, cavitation (32 to 160 cavities), neck finish, preform weight in g, resin (PET or rPET share)", "Preform drawing, 3D file or samples; drawing of the existing mold", "Pilot mold 20 days; standard PET mold 8 weeks"],
               ["Closure or compression mold", "Cap type (one-piece, two-piece, tethered), neck size such as 26mm, 28mm or 38mm, cavitation (12 to 72 cavities), injection machine or SACMI compression line", "Cap drawing, cap samples, drawing of the bottle neck", "Cap mold parts 4 weeks; complete molds confirmed in the quotation"],
               ["Blow mold", "Blowing machine brand and model (one-step or two-step), bottle volume in ml, fill type (cold fill, hot fill or aseptic), number of cavities per mold", "Bottle drawing or 3D file, preform drawing, label panel and base requirements", "Confirmed in the quotation"],
               ["Hot runner system", "Machine and mold it must fit, cavitation (up to 144 cavities for preforms, 96 for closures), valve gate requirement", "Existing hot runner or mold drawings, photos of the nameplate", "Confirmed in the quotation"],
@@ -148,7 +148,7 @@
           "table": {
             "head": ["Тип продукции", "Обязательные данные", "Полезные файлы", "Опубликованный срок"],
             "rows": [
-              ["Пресс-форма для ПЭТ-преформ", "Марка и модель ТПА, число гнёзд (от 2 до 160), тип горловины, масса преформы в г, сырьё (ПЭТ или доля rPET)", "Чертёж преформы, 3D-модель или образцы; чертёж существующей формы", "Пилотная форма 20 дней; стандартная ПЭТ-форма 8 недель"],
+              ["Пресс-форма для ПЭТ-преформ", "Марка и модель ТПА, число гнёзд (от 32 до 160), тип горловины, масса преформы в г, сырьё (ПЭТ или доля rPET)", "Чертёж преформы, 3D-модель или образцы; чертёж существующей формы", "Пилотная форма 20 дней; стандартная ПЭТ-форма 8 недель"],
               ["Форма для колпачков или компрессионная форма", "Тип колпачка (цельный, двухкомпонентный, привязной), размер горловины, например 26 мм, 28 мм или 38 мм, число гнёзд (от 12 до 72), ТПА или компрессионная линия SACMI", "Чертёж колпачка, образцы колпачков, чертёж горловины бутылки", "Детали форм для колпачков 4 недели; полные формы — в предложении"],
               ["Выдувная форма", "Марка и модель выдувной машины (одностадийная или двухстадийная), объём бутылки в мл, тип розлива (холодный, горячий или асептический), число гнёзд на форму", "Чертёж или 3D-модель бутылки, чертёж преформы, требования к зоне этикетки и дну", "Подтверждается в предложении"],
               ["Горячеканальная система", "Машина и форма, к которым она должна подходить, число гнёзд (до 144 для преформ, до 96 для колпачков), требование к игольчатому затвору", "Чертежи существующего горячего канала или формы, фото шильдика", "Подтверждается в предложении"],
@@ -260,7 +260,7 @@
           "table": {
             "head": ["Tipo de producto", "Información imprescindible", "Archivos útiles", "Plazo publicado"],
             "rows": [
-              ["Molde de preforma PET", "Marca y modelo de la inyectora, número de cavidades (de 2 a 160), tipo de cuello, peso de la preforma en g, material (PET virgen o porcentaje de rPET)", "Plano de la preforma, archivo 3D o muestras; plano del molde existente", "Molde piloto 20 días; molde PET estándar 8 semanas"],
+              ["Molde de preforma PET", "Marca y modelo de la inyectora, número de cavidades (de 32 a 160), tipo de cuello, peso de la preforma en g, material (PET virgen o porcentaje de rPET)", "Plano de la preforma, archivo 3D o muestras; plano del molde existente", "Molde piloto 20 días; molde PET estándar 8 semanas"],
               ["Molde de tapas o de compresión", "Tipo de tapa (una pieza, dos piezas, tapa unida), tamaño de cuello como 26mm, 28mm o 38mm, número de cavidades (de 12 a 72), inyectora o línea de compresión SACMI", "Plano de la tapa, muestras de tapas, plano del cuello de la botella", "Piezas de moldes de tapas 4 semanas; moldes completos según cotización"],
               ["Molde de soplado", "Marca y modelo de la sopladora (una etapa o dos etapas), volumen de la botella en ml, tipo de llenado (frío, caliente o aséptico), cavidades por molde", "Plano o archivo 3D de la botella, plano de la preforma, requisitos de zona de etiqueta y fondo", "Se confirma en la cotización"],
               ["Sistema de canal caliente", "Máquina y molde en los que debe montarse, número de cavidades (hasta 144 para preformas, 96 para tapas), requisito de obturador (valve gate)", "Planos del canal caliente o del molde existente, fotos de la placa de identificación", "Se confirma en la cotización"],
