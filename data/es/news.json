@@ -1,0 +1,326 @@
+{
+  "articles": [
+    {
+      "slug": "hot-fill-vs-cold-fill-pet-blow-molds",
+      "date": "2026-10-13",
+      "category": "Artículos técnicos",
+      "title": "Moldes de soplado PET para llenado en caliente y en frío: cómo elegir el molde adecuado",
+      "summary": "Los moldes de soplado para llenado en caliente y en frío están diseñados para temperaturas de llenado distintas. Comparamos cómo funciona cada uno, qué bebidas admite y qué especificar al pedir un nuevo juego de moldes.",
+      "relatedProducts": [
+        31,
+        23,
+        26,
+        22
+      ],
+      "sections": [
+        {
+          "heading": "¿Qué diferencia hay entre un molde de soplado para llenado en caliente y uno para llenado en frío?",
+          "paragraphs": [
+            "Un molde para llenado en frío produce botellas PET que se llenan a temperatura ambiente, como agua sin gas, bebidas carbonatadas (CSD), jugos y lácteos. Un molde para llenado en caliente (heat-set) produce botellas que se llenan en caliente, a unos 85–95°C, para productos como jugos, bebidas de té e isotónicas.",
+            "La diferencia es importante porque una botella PET estándar empieza a deformarse por encima de unos 60°C. Un molde para llenado en caliente usa paredes calefactadas que cristalizan y estabilizan la botella durante el soplado, de modo que conserva su forma al recibir el producto caliente."
+          ]
+        },
+        {
+          "heading": "Cifras clave",
+          "list": [
+            "Temperatura de llenado en caliente: unos 85–95°C.",
+            "Punto de deformación de una botella PET estándar (sin termofijado): unos 60°C.",
+            "Llenado en frío: a temperatura ambiente, sin proceso de termofijado."
+          ]
+        },
+        {
+          "heading": "Comparativa: llenado en frío frente a llenado en caliente",
+          "table": {
+            "head": [
+              "",
+              "Molde para llenado en frío",
+              "Molde para llenado en caliente (heat-set)"
+            ],
+            "rows": [
+              [
+                "Temperatura de llenado",
+                "Ambiente",
+                "Unos 85–95°C"
+              ],
+              [
+                "Productos típicos",
+                "Agua sin gas, CSD, jugos, lácteos",
+                "Jugos, bebidas de té, isotónicas"
+              ],
+              [
+                "Control de temperatura del molde",
+                "Canales de refrigeración integrados en carcasas y fondos",
+                "Canales de calefacción con circulación de aceite caliente y control separado de cuerpo y fondo"
+              ],
+              [
+                "Enfoque del diseño de la botella",
+                "Aligeramiento y espesor de pared uniforme",
+                "Paneles de vacío, nervios de refuerzo y geometría de fondo estables tras el llenado y el enfriamiento"
+              ],
+              [
+                "Plataformas (gama LIHE)",
+                "KHS / SIG InnoPET Blomax, Krones Contiform y otras sopladoras de dos y una etapa",
+                "Versiones heat-set de las principales sopladoras rotativas de dos etapas, incluidas SIDEL y KRONES"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Cómo un molde para llenado en caliente mantiene estable la botella",
+          "paragraphs": [
+            "En un molde heat-set las carcasas llevan aceite caliente y no solo agua de refrigeración. Las paredes calefactadas cristalizan el PET durante el soplado y elevan la temperatura que soporta la botella. Cuando el producto caliente se enfría dentro de la botella cerrada, la presión interna baja; los paneles de vacío del diseño absorben ese cambio para que la botella no se colapse.",
+            "Como el molde trabaja a temperatura elevada durante largos periodos, el material del molde y el acabado de la cavidad se eligen para operar de forma prolongada con calor."
+          ]
+        },
+        {
+          "heading": "Dónde ahorra costos un molde para llenado en frío",
+          "paragraphs": [
+            "Las botellas para llenado en frío no necesitan estructura termofijada, por lo que el diseño se centra en usar menos PET. La geometría de la botella y del fondo se ajusta a la preforma para lograr un espesor de pared uniforme con menor peso, y los canales de refrigeración integrados mantienen estable la calidad a velocidad de producción. Para productores con muchos formatos, un molde de cambio rápido tipo split permite cambiar solo los insertos de cavidad y el fondo en lugar del juego completo."
+          ]
+        },
+        {
+          "heading": "Qué especificar al solicitar una cotización",
+          "steps": [
+            "Tipo de llenado y temperatura: en frío, o en caliente con la temperatura real de llenado.",
+            "Marca y modelo de la sopladora y tipo de portamoldes (por ejemplo, KHS InnoPET Blomax o Krones Contiform).",
+            "Plano o muestra de la botella, capacidad y peso objetivo.",
+            "Especificación de la preforma y del cuello, o pídanos ajustar la preforma a la botella.",
+            "Si necesita el juego completo (carcasas, fondos y placas de cuello) o solo insertos de cavidad."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Se puede usar un molde para llenado en frío con productos de llenado en caliente?",
+          "answer": "No. Las botellas PET estándar se deforman por encima de unos 60°C. Los productos llenados a unos 85–95°C necesitan un molde heat-set con paredes calefactadas y una botella con paneles de vacío."
+        },
+        {
+          "question": "¿Para qué máquinas fabrica LIHE moldes de llenado en frío?",
+          "answer": "LIHE fabrica moldes de llenado en frío para sopladoras KHS (antes SIG) InnoPET Blomax y Krones Contiform, y moldes de soplado para máquinas de dos etapas SIDEL, KRONES, SIG/KHS, TECH-LONG y NEWAMSTAR, así como de una etapa SIPA, ASB y AOKI."
+        },
+        {
+          "question": "¿LIHE ayuda con el diseño de la botella?",
+          "answer": "Sí. El diseño de la botella, el ajuste de la preforma, el aligeramiento y la optimización del espesor de pared forman parte del desarrollo de moldes de soplado de LIHE."
+        }
+      ],
+      "heroImage": {
+        "src": "/images/news/hot-fill-vs-cold-fill-pet-blow-molds-hero.webp",
+        "alt": "Mitades abiertas de un molde de soplado PET con la cavidad de la botella, contraste entre llenado en caliente y en frío"
+      },
+      "detailImage": {
+        "src": "/images/news/hot-fill-vs-cold-fill-pet-blow-molds-detail.webp",
+        "alt": "Botellas PET transparentes en una cinta tras el soplado, incluida una botella de llenado en caliente con paneles de vacío"
+      },
+      "ogImage": "/images/news/hot-fill-vs-cold-fill-pet-blow-molds-hero-og.jpg"
+    },
+    {
+      "slug": "compression-vs-injection-molding-for-plastic-closures",
+      "date": "2026-10-13",
+      "category": "Artículos técnicos",
+      "title": "Moldeo por compresión o por inyección para tapas plásticas: comparativa práctica",
+      "summary": "Las tapas plásticas pueden fabricarse por compresión o por inyección. Comparamos ambos procesos, los moldes que necesita cada uno y cómo decidir cuál encaja en su línea de tapas.",
+      "relatedProducts": [
+        21,
+        20,
+        27
+      ],
+      "sections": [
+        {
+          "heading": "¿Qué es el moldeo por compresión de tapas?",
+          "paragraphs": [
+            "En el moldeo por compresión, cada cavidad recibe una dosis de resina fundida de peso exacto que se conforma en tapa a alta presión. El proceso se realiza en máquinas de moldeo por compresión continua, como las líneas SACMI CCM.",
+            "En el moldeo por inyección, el material fundido llena todas las cavidades a través de un sistema de alimentación. En moldes de tapas multicavidad, un canal caliente mantiene la temperatura del material y equilibra el llenado de todas las cavidades."
+          ]
+        },
+        {
+          "heading": "Por qué el moldeo por compresión es más rápido",
+          "paragraphs": [
+            "Como el moldeo por compresión trabaja a menor temperatura de proceso, la tapa necesita menos tiempo de enfriamiento. Menos enfriamiento significa ciclos más cortos, mayor producción y menor consumo energético por tapa que la inyección convencional."
+          ]
+        },
+        {
+          "heading": "Comparativa: moldes de compresión frente a moldes de inyección para tapas",
+          "table": {
+            "head": [
+              "",
+              "Molde de compresión",
+              "Molde de inyección para tapas"
+            ],
+            "rows": [
+              [
+                "Llenado de la cavidad",
+                "Dosis de resina fundida de peso exacto, conformada a alta presión",
+                "Inyección a través de un sistema de alimentación o canal caliente"
+              ],
+              [
+                "Temperatura de proceso",
+                "Menor, por lo que el enfriamiento es más corto",
+                "Mayor temperatura del material fundido"
+              ],
+              [
+                "Máquinas típicas",
+                "Líneas de compresión continua SACMI CCM",
+                "Inyectoras de tapas de uso general"
+              ],
+              [
+                "Cavidades (gama LIHE)",
+                "Adaptadas a la plataforma SACMI CCM",
+                "De 12 a 72 cavidades; canales calientes para tapas de hasta 96 cavidades"
+              ],
+              [
+                "Tipos de tapa",
+                "Una y dos piezas, banda de garantía, tapas unidas (tethered) UE",
+                "Una y dos piezas, banda de garantía, tapas unidas (tethered) UE"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Cuellos y aplicaciones",
+          "list": [
+            "Cuellos: 26 mm, 28 mm, 2925, 3025, 38 mm y especificaciones a medida.",
+            "Aplicaciones: agua, jugos y bebidas de té, aceite comestible, condimentos y salsa de soja, cosméticos, productos de salud, farmacéuticos y envases alimentarios.",
+            "Tapas unidas UE: tanto los moldes de compresión como los de inyección pueden fabricarse para diseños de tapa unida."
+          ]
+        },
+        {
+          "heading": "Cómo decidir",
+          "steps": [
+            "Parta de sus máquinas: el herramental de compresión se fabrica para líneas SACMI CCM y los moldes de inyección para inyectoras de tapas.",
+            "Evalúe volumen y costo energético: las líneas de alto volumen son las que más aprovechan los ciclos cortos y el menor consumo por tapa de la compresión.",
+            "Confirme el diseño de la tapa: una o dos piezas, banda de garantía, tapa unida y tipo de cuello.",
+            "Para una línea existente, envíe sus piezas o planos actuales; el herramental de compresión de reemplazo puede fabricarse a partir de piezas existentes."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Puede LIHE fabricar herramental de reemplazo para una línea de compresión SACMI existente?",
+          "answer": "Sí. El herramental de compresión de reemplazo —punzones, matrices, machos, insertos de refrigeración y piezas de desgaste— puede fabricarse a partir de sus piezas existentes y se mecaniza e inspecciona en planta."
+        },
+        {
+          "question": "¿Cuántas cavidades puede tener un molde de inyección de tapas de LIHE?",
+          "answer": "Los moldes de inyección de tapas de LIHE van de 12 a 72 cavidades, y los sistemas de canal caliente para tapas admiten hasta 96 cavidades."
+        },
+        {
+          "question": "¿Los moldes de tapas de LIHE admiten tapas unidas UE?",
+          "answer": "Sí. Tanto los moldes de compresión como los de inyección pueden fabricarse para tapas unidas UE, además de tapas de una y dos piezas con banda de garantía."
+        }
+      ],
+      "heroImage": {
+        "src": "/images/news/compression-vs-injection-molding-for-plastic-closures-hero.webp",
+        "alt": "Herramental de compresión para tapas plásticas —punzones, matrices y machos— junto a tapas terminadas"
+      },
+      "detailImage": {
+        "src": "/images/news/compression-vs-injection-molding-for-plastic-closures-detail.webp",
+        "alt": "Placa de machos de un molde de inyección multicavidad para tapas"
+      },
+      "ogImage": "/images/news/compression-vs-injection-molding-for-plastic-closures-hero-og.jpg"
+    },
+    {
+      "slug": "pet-preform-mold-tooling-conversion-guide",
+      "date": "2026-10-13",
+      "category": "Artículos técnicos",
+      "title": "Repuestos y conversión de herramental para moldes de preforma PET Husky, SACMI y Otto",
+      "summary": "No siempre hace falta un molde nuevo para cambiar un cuello, aligerar una preforma o reemplazar piezas desgastadas. Explicamos qué cubre la conversión de herramental y qué preparar antes de iniciar un proyecto.",
+      "relatedProducts": [
+        34,
+        19,
+        27,
+        30
+      ],
+      "sections": [
+        {
+          "heading": "¿Qué es el servicio de conversión de herramental?",
+          "paragraphs": [
+            "La conversión de herramental consiste en fabricar repuestos y mejoras de rendimiento para un molde de preforma PET que usted ya tiene. A partir de sus piezas Husky, SACMI u Otto existentes, LIHE entrega piezas equivalentes que se montan en su molde actual.",
+            "La conversión va más allá del reemplazo uno a uno. También se usa para cambios de cuello y proyectos de aligeramiento, que reducen el consumo de resina, y para mejorar la eficiencia de refrigeración y acortar los ciclos."
+          ]
+        },
+        {
+          "heading": "Qué se puede convertir o reemplazar",
+          "list": [
+            "Piezas del molde de preforma, como machos, cavidades, anillos de cuello e insertos de punto de inyección, fabricadas para su molde actual.",
+            "Cambios de cuello, por ejemplo entre acabados comunes como PCO 1881, PCO 1810, 2925, 2622 y 38 mm.",
+            "Servicio de canal caliente: puntas de boquilla, agujas de válvula, resistencias y juntas de reemplazo, además de la reconstrucción de canales calientes existentes.",
+            "Placas de la base del molde: placas nuevas o reacondicionadas para moldes existentes."
+          ]
+        },
+        {
+          "heading": "Capacidad y cifras de calidad",
+          "list": [
+            "Moldes de preforma de 2 a 160 cavidades.",
+            "Más de 12.000 cavidades producidas al año.",
+            "Canales calientes con válvula de hasta 144 cavidades para preformas.",
+            "Capacidad de proceso CPK ≥ 1,33, con tasas de defectos de apenas 0,0064%."
+          ]
+        },
+        {
+          "heading": "Conversión frente a molde nuevo",
+          "table": {
+            "head": [
+              "",
+              "Conversión de herramental",
+              "Molde de preforma nuevo"
+            ],
+            "rows": [
+              [
+                "Recomendado para",
+                "Piezas desgastadas, cambios de cuello o aligeramiento en un molde existente",
+                "Líneas nuevas, máquinas nuevas o un gran cambio de cavidades"
+              ],
+              [
+                "Punto de partida",
+                "Sus piezas o planos existentes",
+                "Diseño de la preforma y especificación de la máquina"
+              ],
+              [
+                "Alcance",
+                "Piezas seleccionadas y mejoras",
+                "Molde completo, canal caliente y base de molde"
+              ],
+              [
+                "Plataformas",
+                "Husky, SACMI, Otto y otros moldes existentes",
+                "HUSKY, NETSTAL, SACMI, SIPA, Milacron y otras"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Qué preparar antes de empezar",
+          "steps": [
+            "Identifique el molde: fabricante original, modelo de inyectora y número de cavidades.",
+            "Envíe piezas de muestra o planos de las piezas a reemplazar.",
+            "Describa el objetivo: reemplazo idéntico, nuevo cuello, preforma más ligera o ciclo más corto.",
+            "Indique la especificación actual de la preforma, incluido el cuello y el peso.",
+            "Acuerde la inspección: las piezas se miden en una MMC Zeiss y, a petición, se entregan informes de inspección con moldes y repuestos."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Puede LIHE fabricar piezas para un molde de preforma Husky?",
+          "answer": "Sí. LIHE fabrica piezas de reemplazo a partir de las piezas Husky, SACMI y Otto existentes del cliente para montarlas en el molde actual."
+        },
+        {
+          "question": "¿La conversión de herramental puede reducir el tiempo de ciclo?",
+          "answer": "Además de reemplazar piezas, los proyectos de conversión pueden optimizar la eficiencia de refrigeración y las condiciones de soplado para acortar los ciclos."
+        },
+        {
+          "question": "¿Se entregan informes de inspección?",
+          "answer": "Sí. Los componentes se verifican en una máquina de medición por coordenadas Zeiss y otros equipos de control de calidad, y los informes de inspección se entregan con moldes y repuestos a petición."
+        }
+      ],
+      "heroImage": {
+        "src": "/images/news/pet-preform-mold-tooling-conversion-guide-hero.webp",
+        "alt": "Placa de machos de un molde de inyección de preformas PET junto a una bandeja de preformas"
+      },
+      "detailImage": {
+        "src": "/images/news/pet-preform-mold-tooling-conversion-guide-detail.webp",
+        "alt": "Máquina de medición por coordenadas inspeccionando un anillo de cuello en el laboratorio de calidad"
+      },
+      "ogImage": "/images/news/pet-preform-mold-tooling-conversion-guide-hero-og.jpg"
+    }
+  ]
+}

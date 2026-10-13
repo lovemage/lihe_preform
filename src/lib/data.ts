@@ -92,6 +92,7 @@ export function getSiteData(locale: string) {
           href: getCategoryPath(category.slug),
         })),
     },
+    { label: "News", href: "/news" },
     { label: "Contact Us", href: "/contact" },
   ];
 

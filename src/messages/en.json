@@ -9,7 +9,8 @@
     "machiningEquipment": "Machining Equipment",
     "products": "Products",
     "contact": "Contact Us",
-    "download": "Download"
+    "download": "Download",
+    "news": "News"
   },
   "home": {
     "headline": "Global Leader in High-Performance Mold Solutions",
@@ -130,5 +131,19 @@
     "learnMore": "Learn More",
     "backToTop": "Back to Top",
     "breadcrumbHome": "Home"
+  },
+  "news": {
+    "title": "News & Insights",
+    "subtitle": "Technical guides and updates on PET preform, blow and closure molds from LIHE Precision.",
+    "metaTitle": "News & Technical Insights | Lihe Precision",
+    "metaDescription": "Technical guides from LIHE Precision on PET preform molds, blow molds, closure molds, hot runners and tooling conversion for beverage packaging.",
+    "readMore": "Read article",
+    "published": "Published",
+    "updated": "Updated",
+    "faqHeading": "Frequently asked questions",
+    "relatedProducts": "Related products",
+    "ctaText": "Have a mold project? Our engineers can review your requirements.",
+    "ctaButton": "Request a Quote",
+    "backToNews": "Back to News & Insights"
   }
 }

@@ -23,6 +23,7 @@
       ]
     },
     { "label": "Products", "href": "/products" },
+    { "label": "News", "href": "/news" },
     { "label": "Contact Us", "href": "/contact" },
     { "label": "Download", "href": "/download" }
   ],
@@ -40,6 +41,7 @@
       { "label": "QC EQUIPMENT", "href": "/equipment/qc" },
       { "label": "MACHINING EQUIPMENT", "href": "/equipment/machining" },
       { "label": "PRODUCTS", "href": "/products" },
+      { "label": "NEWS", "href": "/news" },
       { "label": "DOWNLOAD", "href": "/download" },
       { "label": "CONTACT US", "href": "/contact" }
     ],

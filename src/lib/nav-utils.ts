@@ -9,4 +9,5 @@ export const navLabelToKey: Record<string, string> = {
   Products: "products",
   "Contact Us": "contact",
   Download: "download",
+  News: "news",
 };

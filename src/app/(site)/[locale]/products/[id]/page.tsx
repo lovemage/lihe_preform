@@ -97,17 +97,6 @@ export default async function ProductDetailPage({
       "@type": "Organization",
       name: "Foshan Lihe Precision Machinery Co.,Ltd.",
     },
-    offers: {
-      "@type": "Offer",
-      url: productUrl,
-      priceCurrency: "USD",
-      price: "0",
-      availability: "https://schema.org/InStock",
-      seller: {
-        "@type": "Organization",
-        name: "Foshan Lihe Precision Machinery Co.,Ltd.",
-      },
-    },
   };
 
   return (

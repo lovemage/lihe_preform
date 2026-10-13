@@ -9,7 +9,8 @@
     "machiningEquipment": "Equipos de Mecanizado",
     "products": "Productos",
     "contact": "Contáctenos",
-    "download": "Descargas"
+    "download": "Descargas",
+    "news": "Noticias"
   },
   "home": {
     "headline": "Ingeniería de Precisión en Moldes PET",
@@ -130,5 +131,19 @@
     "learnMore": "Más Información",
     "backToTop": "Volver Arriba",
     "breadcrumbHome": "Inicio"
+  },
+  "news": {
+    "title": "Noticias y Artículos",
+    "subtitle": "Guías técnicas y novedades de LIHE Precision sobre moldes de preforma PET, moldes de soplado y moldes de tapas.",
+    "metaTitle": "Noticias y artículos técnicos | Lihe Precision",
+    "metaDescription": "Guías técnicas de LIHE Precision sobre moldes de preforma PET, moldes de soplado, moldes de tapas, canales calientes y conversión de herramental.",
+    "readMore": "Leer artículo",
+    "published": "Publicado",
+    "updated": "Actualizado",
+    "faqHeading": "Preguntas frecuentes",
+    "relatedProducts": "Productos relacionados",
+    "ctaText": "¿Tiene un proyecto de molde? Nuestros ingenieros revisarán sus requisitos.",
+    "ctaButton": "Solicitar Cotización",
+    "backToNews": "Volver a Noticias"
   }
 }

@@ -1,0 +1,326 @@
+{
+  "articles": [
+    {
+      "slug": "hot-fill-vs-cold-fill-pet-blow-molds",
+      "date": "2026-10-13",
+      "category": "Technical Insights",
+      "title": "Hot Fill vs Cold Fill PET Blow Molds: How to Choose the Right Mold",
+      "summary": "Hot fill and cold fill PET blow molds are built for different filling temperatures. This guide compares how each mold works, which beverages each one suits and what to specify when you order a new mold set.",
+      "relatedProducts": [
+        31,
+        23,
+        26,
+        22
+      ],
+      "sections": [
+        {
+          "heading": "What is the difference between a hot fill and a cold fill blow mold?",
+          "paragraphs": [
+            "A cold fill blow mold produces PET bottles that are filled at ambient temperature, such as still water, carbonated soft drinks (CSD), juice and dairy. A hot fill (heat-set) blow mold produces bottles that are filled hot, at around 85–95°C, for products such as juice, tea drinks and isotonic beverages.",
+            "The difference matters because standard PET bottles start to deform above about 60°C. A hot fill mold uses heated mold walls to crystallize and stabilize the bottle during blowing, so it keeps its shape when hot product goes in."
+          ]
+        },
+        {
+          "heading": "Key numbers at a glance",
+          "list": [
+            "Hot fill temperature: about 85–95°C.",
+            "Deformation point of standard (non-heat-set) PET bottles: about 60°C.",
+            "Cold fill: ambient-temperature filling, no heat-set process required."
+          ]
+        },
+        {
+          "heading": "Hot fill vs cold fill blow molds compared",
+          "table": {
+            "head": [
+              "",
+              "Cold fill blow mold",
+              "Hot fill (heat-set) blow mold"
+            ],
+            "rows": [
+              [
+                "Filling temperature",
+                "Ambient",
+                "About 85–95°C"
+              ],
+              [
+                "Typical products",
+                "Still water, CSD, juice, dairy",
+                "Juice, tea drinks, isotonic beverages"
+              ],
+              [
+                "Mold temperature control",
+                "Integrated cooling channels in shells and base molds",
+                "Heating channels for hot oil circulation, with separate temperature control of body and base"
+              ],
+              [
+                "Bottle design focus",
+                "Lightweighting and even wall thickness",
+                "Vacuum panels, reinforcing ribs and base geometry that stay stable after filling and cooling"
+              ],
+              [
+                "Machine platforms (LIHE range)",
+                "KHS / SIG InnoPET Blomax, Krones Contiform and other two-step and one-step blowers",
+                "Heat-set versions of mainstream two-step rotary blowers, including SIDEL and KRONES"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "How a hot fill mold keeps the bottle stable",
+          "paragraphs": [
+            "In a heat-set mold the shells carry hot oil instead of only cooling water. The heated cavity walls crystallize the PET during blowing, which raises the temperature the bottle can tolerate. As the hot product cools in the closed bottle, the internal pressure drops; vacuum panels in the bottle design absorb that pressure change so the bottle does not collapse or panel unevenly.",
+            "Because the mold runs at elevated temperature for long periods, the mold material and cavity finish are chosen for long-term operation under heat."
+          ]
+        },
+        {
+          "heading": "Where a cold fill mold saves cost",
+          "paragraphs": [
+            "Cold fill bottles do not need the heat-set structure, so the design work focuses on using less PET. Bottle geometry and base design are matched to the preform for even wall thickness at reduced bottle weight, and integrated cooling channels keep bottle quality stable at production speed. For producers with many bottle formats, a split-type quick-change mold lets you swap only the cavity inserts and base instead of the whole mold set."
+          ]
+        },
+        {
+          "heading": "What to specify when you request a quote",
+          "steps": [
+            "Filling type and temperature: cold fill, or hot fill with the actual filling temperature.",
+            "Blow molding machine brand, model and mold carrier type (for example KHS InnoPET Blomax or Krones Contiform).",
+            "Bottle drawing or sample, capacity and target bottle weight.",
+            "Preform specification and neck finish, or ask us to match the preform to the bottle.",
+            "Whether you need a complete set (mold shells, base molds and neck plates) or only cavity inserts."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Can a cold fill blow mold be used for hot fill products?",
+          "answer": "No. Standard PET bottles deform above about 60°C. Hot fill products filled at about 85–95°C need a heat-set mold with heated mold walls and a bottle design with vacuum panels."
+        },
+        {
+          "question": "Which machines does LIHE build cold fill blow molds for?",
+          "answer": "LIHE builds cold fill molds for KHS (formerly SIG) InnoPET Blomax and Krones Contiform stretch blow molders, and blow molds for SIDEL, KRONES, SIG/KHS, TECH-LONG and NEWAMSTAR two-step machines as well as SIPA, ASB and AOKI one-step machines."
+        },
+        {
+          "question": "Does LIHE help with bottle design?",
+          "answer": "Yes. Bottle design, preform matching, lightweighting and wall thickness optimization are part of LIHE's blow mold development."
+        }
+      ],
+      "heroImage": {
+        "src": "/images/news/hot-fill-vs-cold-fill-pet-blow-molds-hero.webp",
+        "alt": "Opened PET blow mold halves showing a bottle cavity, lit warm and cool to contrast hot fill and cold fill"
+      },
+      "detailImage": {
+        "src": "/images/news/hot-fill-vs-cold-fill-pet-blow-molds-detail.webp",
+        "alt": "Clear PET bottles on a conveyor after stretch blow molding, including a hot fill bottle with vacuum panels"
+      },
+      "ogImage": "/images/news/hot-fill-vs-cold-fill-pet-blow-molds-hero-og.jpg"
+    },
+    {
+      "slug": "compression-vs-injection-molding-for-plastic-closures",
+      "date": "2026-10-13",
+      "category": "Technical Insights",
+      "title": "Compression vs Injection Molding for Plastic Closures: A Practical Comparison",
+      "summary": "Plastic caps can be made by compression molding or by injection molding. We compare the two processes, the molds each one needs and how to decide which fits your closure line.",
+      "relatedProducts": [
+        21,
+        20,
+        27
+      ],
+      "sections": [
+        {
+          "heading": "What is compression molding for closures?",
+          "paragraphs": [
+            "In closure compression molding, each cavity receives an exact-weight pellet of melted resin, which is then formed into a cap under high pressure. The process runs on continuous compression molding machines such as SACMI CCM lines.",
+            "Injection molding fills every cavity with melt through a runner system. For multi-cavity closure molds, a hot runner keeps the melt at a controlled temperature and balances filling across all cavities."
+          ]
+        },
+        {
+          "heading": "Why compression molding runs faster",
+          "paragraphs": [
+            "Because compression molding works at a lower processing temperature, the cap needs less cooling time. Shorter cooling means shorter cycles, higher output and lower energy use per cap than conventional injection."
+          ]
+        },
+        {
+          "heading": "Compression vs injection closure molds compared",
+          "table": {
+            "head": [
+              "",
+              "Compression mold",
+              "Injection closure mold"
+            ],
+            "rows": [
+              [
+                "How the cavity is filled",
+                "Exact-weight pellet of melted resin, formed under high pressure",
+                "Melt injected through a runner or hot runner system"
+              ],
+              [
+                "Processing temperature",
+                "Lower, so cooling time is shorter",
+                "Higher melt temperature"
+              ],
+              [
+                "Typical machines",
+                "SACMI CCM continuous compression molding lines",
+                "Mainstream closure injection molding machines"
+              ],
+              [
+                "Cavitation (LIHE range)",
+                "Matched to the SACMI CCM platform",
+                "12 to 72 cavities; closure hot runners up to 96 cavities"
+              ],
+              [
+                "Cap types",
+                "One-piece and two-piece, tamper-evident band, EU tethered caps",
+                "One-piece and two-piece, tamper-evident band, EU tethered caps"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Neck finishes and applications",
+          "list": [
+            "Neck finishes: 26mm, 28mm, 2925, 3025, 38mm and custom specifications.",
+            "Applications: water, juice and tea drinks, edible oil, condiments and soy sauce, cosmetics, health-care products, pharmaceuticals and food packaging.",
+            "EU tethered caps: both compression and injection closure molds can be built for tethered cap designs."
+          ]
+        },
+        {
+          "heading": "How to decide",
+          "steps": [
+            "Start from your machines: compression tooling is built for SACMI CCM lines, while injection molds run on closure injection molding machines.",
+            "Look at volume and energy cost: high-volume lines benefit most from the shorter cycles and lower energy per cap of compression molding.",
+            "Confirm the cap design: one-piece or two-piece, tamper-evident band, tethered cap and neck finish.",
+            "For an existing line, send your current parts or drawings; replacement compression tooling can be made from existing parts."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Can LIHE make replacement tooling for an existing SACMI compression line?",
+          "answer": "Yes. Replacement compression tooling — punches, dies, cores, cooling inserts and wear parts — can be made from your existing parts and is machined and inspected in-house."
+        },
+        {
+          "question": "How many cavities can a LIHE closure injection mold have?",
+          "answer": "LIHE closure injection molds are available from 12 to 72 cavities, and closure hot runner systems support up to 96 cavities."
+        },
+        {
+          "question": "Do LIHE closure molds support EU tethered caps?",
+          "answer": "Yes. Both compression molds and closure injection molds can be built for EU tethered cap designs, as well as one-piece and two-piece caps with tamper-evident bands."
+        }
+      ],
+      "heroImage": {
+        "src": "/images/news/compression-vs-injection-molding-for-plastic-closures-hero.webp",
+        "alt": "Compression molding tooling for plastic caps — punches, dies and cores — next to finished bottle caps"
+      },
+      "detailImage": {
+        "src": "/images/news/compression-vs-injection-molding-for-plastic-closures-detail.webp",
+        "alt": "Multi-cavity closure injection mold core plate with polished cap cores"
+      },
+      "ogImage": "/images/news/compression-vs-injection-molding-for-plastic-closures-hero-og.jpg"
+    },
+    {
+      "slug": "pet-preform-mold-tooling-conversion-guide",
+      "date": "2026-10-13",
+      "category": "Technical Insights",
+      "title": "Replacement Parts and Tooling Conversion for Husky, SACMI and Otto PET Preform Molds",
+      "summary": "You do not always need a new mold to change a neck finish, lightweight a preform or replace worn parts. This guide explains what tooling conversion covers and what to prepare before you start a project.",
+      "relatedProducts": [
+        34,
+        19,
+        27,
+        30
+      ],
+      "sections": [
+        {
+          "heading": "What is a tooling conversion service?",
+          "paragraphs": [
+            "Tooling conversion means producing replacement parts and performance upgrades for a PET preform mold you already own. Working from your existing Husky, SACMI or Otto parts, LIHE delivers matching tooling parts that you can fit to your existing mold.",
+            "Conversion goes beyond one-to-one replacement. It is also used for neck finish conversions and lightweighting projects, which reduce resin consumption, and for improving cooling efficiency to shorten cycle times."
+          ]
+        },
+        {
+          "heading": "What can be converted or replaced",
+          "list": [
+            "Preform mold parts such as cores, cavities, neck rings and gate inserts, made to match your existing mold.",
+            "Neck finish conversions, for example between common finishes such as PCO 1881, PCO 1810, 2925, 2622 and 38mm.",
+            "Hot runner service: replacement nozzle tips, valve pins, heaters and seals, plus refurbishment of existing hot runners.",
+            "Mold base plates: replacement or refurbished plates for existing molds."
+          ]
+        },
+        {
+          "heading": "Capacity and quality figures",
+          "list": [
+            "Preform molds from 2 to 160 cavities.",
+            "Over 12,000 cavities produced per year.",
+            "Valve gate hot runners up to 144 cavities for preforms.",
+            "Process capability CPK ≥ 1.33, with defect rates as low as 0.0064%."
+          ]
+        },
+        {
+          "heading": "Conversion vs a new mold",
+          "table": {
+            "head": [
+              "",
+              "Tooling conversion",
+              "New preform mold"
+            ],
+            "rows": [
+              [
+                "Best for",
+                "Worn parts, neck finish changes, lightweighting on an existing mold",
+                "New lines, new machines or a large change in cavitation"
+              ],
+              [
+                "Starting point",
+                "Your existing parts or drawings",
+                "Preform design and machine specification"
+              ],
+              [
+                "Scope",
+                "Selected parts and upgrades",
+                "Complete mold, hot runner and mold base"
+              ],
+              [
+                "Machine platforms",
+                "Husky, SACMI, Otto and other existing molds",
+                "HUSKY, NETSTAL, SACMI, SIPA, Milacron and others"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "What to prepare before you start",
+          "steps": [
+            "Identify the mold: original mold maker, injection machine model and number of cavities.",
+            "Send sample parts or drawings of the parts to be replaced.",
+            "Describe the goal: like-for-like replacement, a new neck finish, a lighter preform or a shorter cycle time.",
+            "Share the current preform specification, including neck finish and preform weight.",
+            "Agree on inspection: parts are measured on a Zeiss CMM, and inspection reports can be supplied with molds and spare parts on request."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Can LIHE make parts for a Husky preform mold?",
+          "answer": "Yes. LIHE produces replacement tooling parts from customers' existing Husky, SACMI and Otto parts so they can be fitted to the existing mold."
+        },
+        {
+          "question": "Can tooling conversion reduce cycle time?",
+          "answer": "Conversion projects can optimize cooling efficiency and blowing conditions to shorten cycle times, in addition to replacing parts."
+        },
+        {
+          "question": "Are inspection reports available?",
+          "answer": "Yes. Components are checked on a Zeiss 3D coordinate measuring machine and other QC equipment, and inspection reports are supplied with molds and spare parts on request."
+        }
+      ],
+      "heroImage": {
+        "src": "/images/news/pet-preform-mold-tooling-conversion-guide-hero.webp",
+        "alt": "PET preform injection mold core plate with polished cores next to a tray of clear preforms"
+      },
+      "detailImage": {
+        "src": "/images/news/pet-preform-mold-tooling-conversion-guide-detail.webp",
+        "alt": "Coordinate measuring machine inspecting a preform mold neck ring in a QC lab"
+      },
+      "ogImage": "/images/news/pet-preform-mold-tooling-conversion-guide-hero-og.jpg"
+    }
+  ]
+}

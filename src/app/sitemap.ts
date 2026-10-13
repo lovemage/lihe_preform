@@ -4,6 +4,7 @@ import path from "path";
 import { routing } from "@/i18n/routing";
 import { getProductsData } from "@/lib/data";
 import { getCategoryPath, getProductCategories } from "@/lib/categories";
+import { getNewsArticles, getNewsPath } from "@/lib/news";
 
 export const dynamic = "force-static";
 
@@ -58,6 +59,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/equipment/qc",
     "/equipment/machining",
     "/products",
+    "/news",
     "/contact",
   ];
 
@@ -80,7 +82,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
     getCategoryPath(category.slug),
   );
 
-  const allPages = [...pages, ...categoryPages, ...productPages];
+  const newsArticles = getNewsArticles("en");
+  const newsLastModified = new Map(
+    newsArticles.map((article) => [
+      getNewsPath(article.slug),
+      new Date(`${article.updated ?? article.date}T00:00:00.000Z`),
+    ]),
+  );
+  const latestNewsDate = newsArticles[0]
+    ? newsLastModified.get(getNewsPath(newsArticles[0].slug))
+    : undefined;
+
+  const allPages = [...pages, ...categoryPages, ...productPages, ...newsLastModified.keys()];
 
   return allPages.flatMap((page) =>
     routing.locales.map((locale) => {
@@ -88,9 +101,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
       return {
         url: localizedUrl,
-        lastModified: page.startsWith("/products/")
-          ? productsLastModified
-          : siteLastModified,
+        lastModified:
+          newsLastModified.get(page) ??
+          (page === "/news" && latestNewsDate
+            ? latestNewsDate
+            : page.startsWith("/products/")
+              ? productsLastModified
+              : siteLastModified),
         changeFrequency: (page === "" ? "weekly" : "monthly") as any,
         priority: page === "" ? 1.0 : page.startsWith("/products/") ? 0.7 : 0.8,
         alternates: {
