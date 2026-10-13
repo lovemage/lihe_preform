@@ -896,6 +896,683 @@
       ]
     },
     {
+      "slug": "risks-of-switching-pet-mold-suppliers-mid-project",
+      "date": "2026-10-07",
+      "category": "Technical Insights",
+      "title": "What are the risks of switching PET mold suppliers in the middle of a beverage packaging project?",
+      "summary": "Control a PET mold supplier change through an approved design baseline, verified interfaces, transferred trial evidence and a clear acceptance plan.",
+      "heroImage": {
+        "src": "/images/news/risks-of-switching-pet-mold-suppliers-mid-project-hero.webp",
+        "alt": "Illustrative controlled handover of PET preform molds and samples"
+      },
+      "detailImage": {
+        "src": "/images/news/risks-of-switching-pet-mold-suppliers-mid-project-detail.webp",
+        "alt": "Illustrative metrology inspection of replacement mold inserts"
+      },
+      "ogImage": "/images/news/risks-of-switching-pet-mold-suppliers-mid-project-hero-og.jpg",
+      "relatedProducts": [
+        19,
+        34,
+        18
+      ],
+      "sections": [
+        {
+          "heading": "The main risk is losing the approved technical baseline",
+          "paragraphs": [
+            "A supplier handover is the transfer of a defined tooling scope and its approved technical information to another manufacturer. The principal risks are mismatched drawing revisions, incomplete machine interfaces, lost trial evidence, unclear responsibility and a production schedule built on unconfirmed assumptions. A switch can be managed, but the new supplier must qualify the actual remaining work instead of treating the project as an unchanged repeat order."
+          ]
+        },
+        {
+          "heading": "A risk register for the supplier transition",
+          "table": {
+            "head": [
+              "Risk",
+              "Practical consequence",
+              "Control before release"
+            ],
+            "rows": [
+              [
+                "Drawing revision mismatch",
+                "Wrong neck, core or bottle geometry",
+                "Freeze and acknowledge the approved revision"
+              ],
+              [
+                "Incomplete interface data",
+                "Tool will not fit or operate correctly",
+                "Verify the actual machine and retained assemblies"
+              ],
+              [
+                "Missing trial history",
+                "Previous defects are repeated",
+                "Transfer samples, settings and unresolved findings"
+              ],
+              [
+                "Mixed component responsibility",
+                "Faults cross supplier boundaries",
+                "Name an integration and diagnosis owner"
+              ],
+              [
+                "Unconfirmed remaining scope",
+                "Purchased parts are missing or duplicated",
+                "Agree a bill of supply and retained parts"
+              ],
+              [
+                "Schedule assumptions",
+                "Delivery does not equal production readiness",
+                "Plan approval, trials, correction and installation"
+              ],
+              [
+                "Service discontinuity",
+                "Spares or maintenance no longer align",
+                "Approve current part numbers and instructions"
+              ],
+              [
+                "Package acceptance gap",
+                "Preform passes but bottle fails",
+                "Retain the approved finished-package tests"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Transfer the evidence that the next manufacturer will need",
+          "list": [
+            "Collect the current approved drawings and a record of changes already agreed. Separate drawings released for manufacture from working drafts. Identify outstanding design decisions and the person authorized to close them, so the new supplier does not manufacture from a superseded file.",
+            "Provide the actual machine configuration and list the tooling assemblies already built or installed. Preserve measurements of unresolved interfaces and document any deviation accepted earlier. A replacement manufacturer needs the configuration that will operate, not only the original project proposal.",
+            "Transfer identified trial samples, inspection reports, resin information, process settings and defect records. Include failed trials and corrective actions alongside successful samples. Without the unsuccessful evidence, the next supplier can repeat an earlier problem while appearing to follow the approved design.",
+            "Confirm which documents and parts are available for authorized use. Resolve missing technical information through agreed measurements or an interface audit. Do not assume that changing suppliers provides access to the previous manufacturer’s proprietary design files."
+          ]
+        },
+        {
+          "heading": "Decide whether to switch before the remaining work grows",
+          "list": [
+            "If manufacture has not started, the main task is to align the revised specification and responsibilities. If parts are already machined, first inspect what exists and define what the next manufacturer can retain. The later stage needs a condition-based handover rather than an assumption that all work is reusable.",
+            "For a mixed assembly, assign responsibility for the old-to-new interface. The new supplier should identify what it will inspect and what it accepts as customer-supplied equipment. Keep the complete mold acceptance separate from inspection of the newly supplied parts.",
+            "Revise the production plan to include engineering review, trials and corrective work. LIHE’s published lead times below are product information, not confirmation that a partly completed handover will meet the same schedule. Confirm a project-specific timeline after reviewing the transfer package.",
+            "LIHE publishes tooling conversion and support services, making it a candidate for a defined replacement scope. That does not establish the condition of unfinished components or transfer another supplier’s obligations. Choose the switch only after the remaining work, acceptance plan and fallback production route are clear."
+          ]
+        },
+        {
+          "heading": "Acceptance at the point of handover",
+          "paragraphs": [
+            "A mid-project switch needs two acceptances, not one: acceptance of what is handed over, and acceptance of the finished tool. Treating the second as sufficient leaves nobody responsible for parts that were faulty when they changed hands."
+          ],
+          "steps": [
+            "Hold a joint inspection before the previous supplier’s work is formally closed. Record every finished or half-finished component with its drawing revision and measured condition, and have the buyer and both suppliers sign the inventory.",
+            "Give the new supplier a defined period to inspect the transferred parts and either accept them as customer-supplied items or reject them with a written reason. Parts accepted at this stage become part of the new supplier’s integration responsibility.",
+            "Repeat at least one trial that the previous supplier already ran, using the same resin, machine and settings. Matching the earlier results shows that the technical baseline transferred correctly before any new change is introduced.",
+            "Qualify the mixed tool as a whole: preforms measured by cavity, finished bottles and an agreed production run. A pass on the newly supplied components alone does not prove that their interfaces with retained parts work.",
+            "Close the handover with a single document set: the drawing revision that now applies, the current parts list, process settings and a list of open items with an owner. Archive the previous supplier’s documents separately so that they are not reused by mistake."
+          ]
+        },
+        {
+          "heading": "Keep maintenance and spares continuous across the switch",
+          "list": [
+            "Map every spare part the plant holds to its supplier and drawing number. After the switch, some spares may no longer fit the revised tool; label them clearly before someone installs one by mistake during a breakdown.",
+            "Decide who maintains the parts still made by the previous supplier, for example an existing hot runner. If that supplier will no longer service them, ask the new supplier to quote refurbishment or replacement before the first failure occurs.",
+            "Ask the new supplier for its part numbering and a cross-reference to the previous numbers. A dual list kept during the transition period prevents wrong orders and duplicated stock.",
+            "Agree the date of the first on-site visit for installation and start-up, and what remote troubleshooting covers until then. Note what local staff must measure or photograph so that remote diagnosis is actually possible.",
+            "Keep the previously approved mold, if one exists, in running condition until the replacement has passed site acceptance. It is the plant’s only fallback if the new tool needs correction after delivery."
+          ]
+        },
+        {
+          "heading": "What LIHE publishes about taking over a tooling project",
+          "paragraphs": [
+            "LIHE Precision wrote this guide and may itself be the supplier a buyer is switching to, which is worth keeping in mind while reading it. Only the published items that matter for a handover are listed here; each of them appears on lihe-preform.com."
+          ],
+          "list": [
+            "Conversion parts: published as 100% interchangeable with Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps and Corvaglia systems, and replacement parts can be made from a customer’s existing Husky, SACMI or Otto parts. Confirm interchangeability on the actual parts being transferred.",
+            "Engineering: CAD/CAM, 3D simulation and flow analysis before production, which can help rebuild a design baseline when the transferred drawings are incomplete.",
+            "Measurement: an in-house Zeiss CMM lab, with inspection reports supplied on request, which is relevant when transferred parts have to be measured at the handover.",
+            "Preform molds: 32 to 160 cavities for HUSKY, NETSTAL, SIPA, KATA and other machines, so the takeover of a typical preform project falls within the published range.",
+            "Published lead times run from 20 days (pilot molds) through 4 weeks (replacement parts) to 8 weeks (standard PET molds). In a handover these are starting points only; the real schedule depends on what is transferred and in what condition.",
+            "After-sales: on-site machine interface audits, mold installation, start-up support, remote troubleshooting and refurbishment programs."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Is switching suppliers always the wrong choice?",
+          "answer": "No. The decision depends on the actual remaining scope and the evidence available for a controlled handover. Establish what can be retained and what must be requalified before committing."
+        },
+        {
+          "question": "Can the new supplier use the previous trial results?",
+          "answer": "They are useful if linked to identified drawings, resin, samples and settings. The new or mixed assembly still needs the agreed acceptance checks; previous evidence does not automatically qualify changed components."
+        },
+        {
+          "question": "What should happen to unfinished parts?",
+          "answer": "Inspect and identify them before defining reuse. Record drawing revision, dimensions and condition, then agree which parts the new supplier accepts and which require correction or replacement."
+        },
+        {
+          "question": "How should the plant protect production?",
+          "answer": "Maintain an approved existing tool or another agreed production route until the replacement qualifies. Plan the change around acceptance readiness, not merely the arrival of the new mold."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Wikipedia — injection moulding",
+          "url": "https://en.wikipedia.org/wiki/Injection_moulding"
+        },
+        {
+          "label": "Wikipedia — hot runner",
+          "url": "https://en.wikipedia.org/wiki/Hot_runner"
+        },
+        {
+          "label": "SIPA — PET preform injection moulds and tooling",
+          "url": "https://sipasolutions.com/products/moulds/preform-tooling"
+        }
+      ]
+    },
+    {
+      "slug": "pet-bottle-mold-retrofit-and-lightweighting-cost",
+      "date": "2026-10-05",
+      "category": "Technical Insights",
+      "title": "How much should I expect to pay for a PET bottle mold retrofit or lightweighting project?",
+      "summary": "Define the retrofit boundary, retained-tool condition and package tests before requesting a lightweighting quotation and using a published cost comparison.",
+      "heroImage": {
+        "src": "/images/news/pet-bottle-mold-retrofit-and-lightweighting-cost-hero.webp",
+        "alt": "Illustrative PET mold refurbishment and lightweighting inspection bench"
+      },
+      "detailImage": {
+        "src": "/images/news/pet-bottle-mold-retrofit-and-lightweighting-cost-detail.webp",
+        "alt": "Illustrative replacement neck rings and cores beside preforms and bottles"
+      },
+      "ogImage": "/images/news/pet-bottle-mold-retrofit-and-lightweighting-cost-hero-og.jpg",
+      "relatedProducts": [
+        34,
+        22,
+        19
+      ],
+      "sections": [
+        {
+          "heading": "Use the published comparison only for a suitable defined retrofit",
+          "paragraphs": [
+            "A mold retrofit is a modification of existing tooling, while lightweighting changes the package design to reduce material use without abandoning the approved performance requirements. LIHE publishes that lightweighting retrofits cost 25%–40% of a new mold price, but an exact price for your project requires an inspection and a scope-specific quotation. That published ratio is not a universal market price and does not apply automatically to every bottle blow mold or preform conversion."
+          ]
+        },
+        {
+          "heading": "Separate the changes hidden inside a lightweighting brief",
+          "table": {
+            "head": [
+              "Project element",
+              "Possible tooling boundary",
+              "What must be confirmed"
+            ],
+            "rows": [
+              [
+                "Preform neck change",
+                "Neck rings and related conversion parts",
+                "Closure fit and handling"
+              ],
+              [
+                "Preform wall change",
+                "Forming components and cooling interfaces",
+                "Injection and bottle performance"
+              ],
+              [
+                "Bottle-body change",
+                "Blow mold and possibly format parts",
+                "Blower fit and downstream transport"
+              ],
+              [
+                "Hot-runner work",
+                "Retained, serviced or replaced components",
+                "Compatibility and stable molding"
+              ],
+              [
+                "Refurbishment",
+                "Worn components and affected interfaces",
+                "Condition of retained assemblies"
+              ],
+              [
+                "Combined package project",
+                "Preform, bottle and closure together",
+                "Controlled drawings and acceptance"
+              ],
+              [
+                "Installation",
+                "Mold change and associated equipment",
+                "Downtime and responsible parties"
+              ],
+              [
+                "Qualification",
+                "Preform and finished-package trials",
+                "Test methods and approved evidence"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Inspect the existing asset before calculating the project scope",
+          "list": [
+            "Provide the current mold drawings, service history, known modifications and representative samples. Identify the defect or design change that triggered the project. A retrofit intended to reduce weight is a different task from repairing wear or restoring an unstable process, even when the same mold is involved.",
+            "Ask the supplier to identify which assemblies remain usable and which must change. Include the condition of the mold base, shaping components, cooling circuits and hot runner where relevant. Do not assume that a new set of inserts corrects every problem in the retained equipment.",
+            "Clarify whether the quotation covers preform injection tooling, bottle blow tooling or both. The preform determines material distribution during blowing, but the bottle body is formed in separate blow tooling on a two-step line. A project name such as “bottle lightweighting” does not identify the actual bill of supply.",
+            "Agree what happens if inspection reveals a wider replacement requirement. The commercial proposal should distinguish the confirmed work from unresolved condition-dependent items, so the plant can decide whether the retrofit remains technically and operationally suitable."
+          ]
+        },
+        {
+          "heading": "Evaluate the saving with package and production evidence",
+          "list": [
+            "Use LIHE’s published weight-reduction proposals as a discussion of achievable design scope, not an unconditional promise for the current bottle. The target must retain the required neck, closure and bottle performance. Record any changes needed to the blowing process and handling parts.",
+            "Base material savings on the approved actual weight change and accepted production volume. Keep resin consumption, startup scrap and rejected bottles visible. No payback period is calculated here because the plant’s resin costs, output, downtime and project quotation have not been supplied.",
+            "Compare a technically suitable retrofit with a technically suitable new tool under the same package requirements. Include trial work, spare parts and commissioning. The published percentage can start a discussion, but it cannot establish equivalent scope between two incomplete quotations.",
+            "LIHE’s offering includes mold overhauls, lightweighting and line conversions. This does not establish the condition of your existing asset or guarantee the finished bottle. Approve the project on inspection findings, agreed drawings and package tests before changing the production tool."
+          ]
+        },
+        {
+          "heading": "Reading a retrofit offer against the 25%–40% figure",
+          "list": [
+            "LIHE’s published figure is that a lightweighting retrofit of an existing mold costs 25%–40% of the price of a new mold. Use it as a plausibility check on a retrofit offer, and only after the supplier has confirmed in writing that the existing mold is fit for reuse.",
+            "Ask for the retrofit offer to show retained parts and replaced parts in two separate columns, for example mold base and hot runner retained, cores and neck rings new. Without that split the percentage cannot be related to any physical scope.",
+            "Request a reference offer for the equivalent new mold from the same supplier, built to the same preform drawing and for the same machine. The ratio only means something when both offers describe the same finished preform and the same acceptance terms.",
+            "Show refurbishment of the retained parts separately from the lightweighting change itself. Worn guide elements, leaking cooling circuits or a hot runner that needs servicing add cost that belongs to maintenance, not to the weight reduction, and should be budgeted as such.",
+            "List the costs that sit outside the mold: trial resin, blow-mold or format-part adjustments, line downtime for the change-over and requalification of the bottle. They do not appear in the mold percentage, yet they decide whether the project actually pays back."
+          ]
+        },
+        {
+          "heading": "Material and package checks that a lighter preform triggers",
+          "list": [
+            "Removing 1 g to 2 g from a preform leaves less material to stretch into the same bottle. Ask the bottle designer to confirm that wall thickness at the shoulder, panel and base still meets the package specification before any steel is cut.",
+            "If the project also introduces recycled PET (rPET), run the lighter design and the new resin as separate trial steps. Changing both at once makes it impossible to tell whether a later defect comes from the geometry or from the material.",
+            "Dry the resin according to the resin producer’s instructions and log the lot number of every trial run. Thinner walls can make moisture- or temperature-related defects more visible, so keep the drying record together with the samples.",
+            "When the neck is part of the change, involve the closure supplier from the start. A shorter neck or a different finish, such as PCO 1881 or 29/25, must still seal and pass capping and torque checks with the closures the plant actually buys.",
+            "Food-contact and regulatory documentation belongs to the resin and packaging owners, not to the mold maker. Prepare that paperwork in parallel with the tooling work so that it does not hold up a retrofit that has otherwise passed its trials."
+          ]
+        },
+        {
+          "heading": "Accepting a retrofitted mold in stages",
+          "steps": [
+            "Before any steel is removed, measure the existing mold and keep reference preforms from every cavity. This baseline shows exactly what the retrofit changed and protects both sides if the retained parts later develop problems.",
+            "Approve the new preform drawing and the list of parts to be changed in writing. Mark which dimensions are expected to move and which, such as the neck interface with the closure, must remain identical to the baseline.",
+            "Run the retrofitted tool and record the new preform weight per cavity against the baseline values. Accept the weight reduction only when it is consistent across all cavities, not as an average over the whole mold.",
+            "Blow the lighter preforms on the plant’s blow molder, or an equivalent machine, and test the bottles against the package specification. Keep the bottles that fail; they show where the material distribution needs further adjustment.",
+            "After reinstallation, run a production lot long enough to reveal scrap and stoppage rates, and compare them with the baseline mold. Close the retrofit only when the lighter preform runs at a reject level the plant has agreed in advance."
+          ]
+        },
+        {
+          "heading": "LIHE retrofit services and the figures behind them",
+          "paragraphs": [
+            "LIHE Precision publishes this article and sells retrofit and lightweighting work itself, so its figures should be read as a supplier’s own statements rather than independent data. The points below are published on lihe-preform.com and are the ones that bear on a retrofit budget."
+          ],
+          "list": [
+            "Retrofit cost: LIHE states that lightweighting retrofits of existing molds cost 25%–40% of a new mold price and describes the payback period as short. The payback a particular plant achieves depends on its own resin price, volumes and downtime.",
+            "Weight reduction: LIHE’s lightweighting proposals reduce preform weight by 1 g to 2 g through neck or wall-thickness optimization.",
+            "Cooling: LIHE says a reworked cooling layout can cut the neck’s cooling time by as much as 0.5 seconds. Treat this as an upper bound and confirm the effect on your own tool during the trial.",
+            "Scope of work: complete mold overhauls, neck-finish conversions, rPET material trials and replacement parts made from customers’ existing Husky, SACMI or Otto parts.",
+            "Timing: replacement parts are published with a 4-week lead time. Agree separately how long the mold will be out of production, including trials and reinstallation."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Is the published retrofit ratio a fixed quotation?",
+          "answer": "No. It is LIHE’s published comparison for lightweighting retrofits. Confirm the existing mold’s condition, the retained assemblies and the equivalent new-tool scope before using it in a project evaluation."
+        },
+        {
+          "question": "Does every lightweighting project need new blow molds?",
+          "answer": "Not automatically. The preform, bottle design and machine interfaces determine what changes. The supplier must identify the affected injection tooling, blow tooling and format parts in the proposed scope."
+        },
+        {
+          "question": "Can a retrofit guarantee material savings?",
+          "answer": "Approve the actual package design and measure the weight change first. Production scrap, rejected bottles and handling performance also matter. A proposal range does not establish net savings for the plant."
+        },
+        {
+          "question": "When should I consider a new tool instead?",
+          "answer": "When the inspection and engineering review show that the retained assemblies cannot meet the required design or production conditions. Compare technically suitable routes with the same acceptance requirements."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Wikipedia — polyethylene terephthalate",
+          "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate"
+        },
+        {
+          "label": "Wikipedia — injection moulding",
+          "url": "https://en.wikipedia.org/wiki/Injection_moulding"
+        },
+        {
+          "label": "SIPA — PET preform injection moulds and tooling",
+          "url": "https://sipasolutions.com/products/moulds/preform-tooling"
+        }
+      ]
+    },
+    {
+      "slug": "pet-preform-mold-cost-48-cavity",
+      "date": "2026-10-03",
+      "category": "Technical Insights",
+      "title": "What does a new PET preform mold cost for a 48-cavity beverage line?",
+      "summary": "Understand the quotation scope and cost drivers for a new 48-cavity PET preform mold without relying on unsupported generic prices.",
+      "heroImage": {
+        "src": "/images/news/pet-preform-mold-cost-48-cavity-hero.webp",
+        "alt": "Illustrative PET preform mold, hot runner and samples on an inspection bench"
+      },
+      "detailImage": {
+        "src": "/images/news/pet-preform-mold-cost-48-cavity-detail.webp",
+        "alt": "Illustrative precision mold inserts, nozzles and cooling connectors"
+      },
+      "ogImage": "/images/news/pet-preform-mold-cost-48-cavity-hero-og.jpg",
+      "relatedProducts": [
+        19,
+        27,
+        30
+      ],
+      "sections": [
+        {
+          "heading": "An exact price requires the complete project specification",
+          "paragraphs": [
+            "A 48-cavity PET preform mold is an injection tool with the specified number of forming cavities; it is not a complete beverage production line. Its exact price requires a quotation for the machine, preform design, hot-runner scope, materials and acceptance work, so no unsupported price or price range is given here. Start by separating a complete new tool from a cold-half replacement or a conversion using existing assemblies."
+          ]
+        },
+        {
+          "heading": "Cost drivers to put into the quotation request",
+          "table": {
+            "head": [
+              "Driver",
+              "Specify before quotation",
+              "Why the scope changes"
+            ],
+            "rows": [
+              [
+                "Cavitation",
+                "The required layout and active cavity plan",
+                "The machine and mold must support the layout"
+              ],
+              [
+                "Hot runner",
+                "New hot half, retained system or refurbishment",
+                "Included assemblies differ substantially"
+              ],
+              [
+                "Tool materials",
+                "Steel, shaping components and treatment requirements",
+                "Manufacture and inspection depend on specification"
+              ],
+              [
+                "Neck finish",
+                "Approved dimensions and closure interface",
+                "Neck-ring and handling requirements differ"
+              ],
+              [
+                "Machine platform",
+                "Model, interface and existing modifications",
+                "Fit and conversion work are project specific"
+              ],
+              [
+                "Cooling",
+                "Circuit design and plant utilities",
+                "Trial and production conditions must align"
+              ],
+              [
+                "Validation",
+                "Inspection, factory trial and bottle tests",
+                "A tool-only scope omits qualification work"
+              ],
+              [
+                "Delivery",
+                "Approval, manufacturing and installation milestones",
+                "Transport and commissioning have separate scope"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Define what “new mold” includes",
+          "list": [
+            "Request a bill of supply identifying the cold half, hot half, mold base, controller and any conversion parts. A quotation for a cold half that reuses an existing hot runner cannot be compared directly with a complete new mold without showing the retained equipment.",
+            "Describe the preform and its finished bottle rather than only the requested cavity count. Neck geometry, support-ring dimensions and preform wall distribution influence the shaping components and the necessary testing. Send the approved drawing revision and identify any proposed lightweighting.",
+            "Confirm how the tool interfaces with the installed machine and handling equipment. Ask whether cooling connectors, electrical connections, take-out parts or post-mold cooling need changes. Include the cost scope of those interfaces even if another supplier provides the parts.",
+            "Identify the deliverables required at acceptance: samples, inspection reports, process settings, maintenance instructions and spare-part information. These help compare a usable production package rather than two quotations whose final amounts cover different obligations."
+          ]
+        },
+        {
+          "heading": "Compare a new tool with reuse only when both routes are feasible",
+          "list": [
+            "A complete new tool may be required if the current mold is unsuitable for the target design or machine configuration. Establish that technical boundary before asking for a repair or conversion offer. Reuse is a project option, not a requirement to preserve every existing assembly.",
+            "For a conversion, document the condition and remaining function of the assemblies retained. Require a clear interface between the new and existing components, and ask who is responsible for diagnosing a defect that crosses that interface.",
+            "Do not apply a published retrofit ratio to a new mold as though it were a currency quotation. LIHE’s percentage comparison concerns suitable lightweighting retrofits; the new-tool price still needs its own scope and quotation.",
+            "Keep production interruption and qualification in the comparison. The lowest initial amount does not necessarily provide the needed complete tool, and a nominal delivery date does not establish the date at which the plant can release approved bottles."
+          ]
+        },
+        {
+          "heading": "Line items a 48-cavity quotation should list separately",
+          "list": [
+            "Cold half for 48 cavities: cores, cavity inserts, neck rings, lock rings and the neck-ring actuation hardware. Ask for these to be priced per cavity set, so that a damaged position later becomes a spare-part order rather than a decision about the whole tool.",
+            "Hot half: manifold, 48 nozzles, heaters, thermocouples and, for a valve-gate design, the valve pins and their actuation. State whether a temperature controller is part of the offer or whether the plant’s existing controller will be connected to the new hot half.",
+            "Mold base and plates matched to the press. The same 48-cavity layout may need different plate dimensions, tie-bar clearance or ejector stroke on two machine models, so name the exact injection machine and its modifications in the request.",
+            "Spare-part package: a recommended set of wear parts such as neck-ring halves, gate inserts and nozzle tips. An offer without spares looks lower on paper but moves that spending into the first months of production, usually at shorter notice.",
+            "Engineering and documentation: preform design review, cooling or flow analysis where requested, final drawings and the parts list. These items are often bundled without a line of their own; ask for them to be named so they cannot quietly disappear during negotiation.",
+            "Factory trial and delivery terms: trial resin, sampling, packing, freight and insurance. Ask in writing who pays for a second factory trial if the first one does not meet the agreed criteria, because that question is far easier to settle before the order."
+          ]
+        },
+        {
+          "heading": "How acceptance terms change the real cost of a 48-cavity tool",
+          "paragraphs": [
+            "In a 48-cavity mold, one weak position represents about 2% of the tool’s output, so the way acceptance treats individual cavities directly changes the plant’s cost per good preform. Write the following stages into the purchase order instead of leaving them for the delivery meeting."
+          ],
+          "steps": [
+            "Attach the acceptance document to the quotation itself. List the preform drawing revision, resin grade and drying conditions, the target machine and the criteria that each of the 48 cavities must meet. A criterion added after the tool is built usually returns as a change order.",
+            "Run the factory trial with all 48 cavities active and number every sample by its cavity. Measure weight, neck dimensions and gate quality position by position, and decide in advance how many out-of-tolerance cavities, if any, will stop the tool from shipping.",
+            "Calculate output from accepted preforms rather than from the dry-cycle figure. Count blocked cavities and start-up rejects, because a tool running 46 good cavities delivers noticeably less than the volume on which the quotation was compared.",
+            "Blow samples from each cavity group into the final bottle and check closure fit and the pressure or top-load behaviour the product requires. A defect that only appears after blowing costs far less to correct before the tool leaves the maker’s workshop.",
+            "Tie the final payment to site acceptance on the plant’s own machine, repeating the same per-cavity measurements after installation. Record every open point in the acceptance protocol with a named owner and a closing date."
+          ]
+        },
+        {
+          "heading": "Published LIHE information relevant to a 48-cavity order",
+          "paragraphs": [
+            "LIHE Precision is the publisher of this guide, and its own molds are among the options a buyer may ask to quote; the checklist above applies to LIHE in the same way as to any other supplier. The figures below are published on lihe-preform.com and are included only where they affect a 48-cavity purchase."
+          ],
+          "list": [
+            "Cavitation: LIHE lists PET preform molds from 32 to 160 cavities, so a 48-cavity tool lies inside the published range. Whether a particular press can carry it still depends on its clamp force, platen size and shot capacity.",
+            "Machine platforms: preform molds are offered for HUSKY, NETSTAL, SIPA, KATA and other machines. Give the exact machine model and any earlier modifications in the enquiry so that the mold base is quoted for the right press.",
+            "Hot runners: valve-gate systems for up to 144 preform cavities, published with a 3-year leakage-proof guarantee. Ask how that guarantee is worded in the contract for the specific 48-drop hot half being quoted.",
+            "Lead times: standard PET molds 8 weeks and pilot molds 20 days. Clarify whether the period starts at order, at deposit or at drawing approval, and add factory trials and transport on top.",
+            "Quality evidence: tooling is published as reaching CPK ≥ 1.33, measured in an in-house Zeiss CMM lab, with inspection reports available on request. Ask for the reports of your own cavity set rather than a sample from another project."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Why is cavity count insufficient for a price?",
+          "answer": "It does not specify the preform geometry, machine interfaces, hot-runner scope, mold materials or acceptance work. Those items determine what the supplier must engineer, manufacture and validate."
+        },
+        {
+          "question": "Is a cold-half quotation a complete-mold price?",
+          "answer": "Only if the quotation explicitly says so. Identify the hot half and other retained assemblies and compare the complete required equipment scope rather than the title of the offer."
+        },
+        {
+          "question": "Can the lightweighting retrofit percentage price a new mold?",
+          "answer": "No. It is a comparison for suitable retrofit projects, not a published currency price for new tooling. Request separate, comparable quotations for the technically feasible routes."
+        },
+        {
+          "question": "What should be fixed before ordering?",
+          "answer": "The approved preform and neck drawing, actual machine interface, supplied assemblies, resin and test specification, delivery milestones and responsible parties. Resolve omissions before releasing manufacture."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Wikipedia — injection moulding",
+          "url": "https://en.wikipedia.org/wiki/Injection_moulding"
+        },
+        {
+          "label": "Wikipedia — hot runner",
+          "url": "https://en.wikipedia.org/wiki/Hot_runner"
+        },
+        {
+          "label": "SIPA — PET preform injection moulds and tooling",
+          "url": "https://sipasolutions.com/products/moulds/preform-tooling"
+        }
+      ]
+    },
+    {
+      "slug": "specialized-mold-maker-vs-full-line-equipment-supplier",
+      "date": "2026-09-30",
+      "category": "Technical Insights",
+      "title": "Which is better for a high-volume PET bottle plant: a specialized mold maker or a full-line equipment supplier?",
+      "summary": "Choose a specialist mold maker for a defined tooling task or a full-line supplier for coordinated equipment scope, with clear ownership of every interface.",
+      "heroImage": {
+        "src": "/images/news/specialized-mold-maker-vs-full-line-equipment-supplier-hero.webp",
+        "alt": "Illustrative mold development bench beside a PET beverage production line"
+      },
+      "detailImage": {
+        "src": "/images/news/specialized-mold-maker-vs-full-line-equipment-supplier-detail.webp",
+        "alt": "Illustrative PET blow mold and downstream bottle production equipment"
+      },
+      "ogImage": "/images/news/specialized-mold-maker-vs-full-line-equipment-supplier-hero-og.jpg",
+      "relatedProducts": [
+        19,
+        22,
+        27
+      ],
+      "sections": [
+        {
+          "heading": "Choose by project boundary and integration responsibility",
+          "paragraphs": [
+            "A specialized mold maker supplies tooling and related engineering; a full-line equipment supplier coordinates a broader set of production equipment within its quoted scope. A specialist is a sensible route for a defined mold replacement or conversion on an established line, while a full-line proposal deserves consideration for a new plant or extensive equipment changes. The better choice depends on who owns integration, qualification and service across the required process."
+          ]
+        },
+        {
+          "heading": "Compare the actual scope, not the supplier category",
+          "table": {
+            "head": [
+              "Dimension",
+              "Specialist tooling route",
+              "Full-line route"
+            ],
+            "rows": [
+              [
+                "Core task",
+                "A defined mold or component project",
+                "A coordinated equipment project"
+              ],
+              [
+                "Installed machines",
+                "Interfaces must be confirmed",
+                "Included machine scope must be confirmed"
+              ],
+              [
+                "Bottle design",
+                "Agree development and tests",
+                "Agree packaging development and tests"
+              ],
+              [
+                "Integration",
+                "Plant or named integrator coordinates",
+                "Confirm contracted integration boundary"
+              ],
+              [
+                "Utilities",
+                "Plant documents actual available conditions",
+                "Supplier and plant agree equipment requirements"
+              ],
+              [
+                "Commissioning",
+                "Mold and related interface acceptance",
+                "Equipment and line acceptance"
+              ],
+              [
+                "Service",
+                "Tooling and parts responsibilities",
+                "Check line and individual equipment support"
+              ],
+              [
+                "Commercial comparison",
+                "Engineering, tooling and downtime",
+                "Equipment, integration and qualification"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Neutral examples of different supplier roles",
+          "list": [
+            "Otto Hofstetter publishes PET preform moulds. It is an example of a specialist tooling offering to investigate. Compare the specific tool, machine interface and service arrangements rather than treating specialization as proof of better quality or lower cost.",
+            "Sidel publishes complete water bottling lines. Its offering is relevant when the purchase includes coordinated bottle-production equipment. The quoted line boundary still needs review: upstream preform manufacture, utilities and individual package-development tasks should not be assumed to be included.",
+            "SIPA publishes preform tooling and conversions, and Husky publishes integrated injection systems and hot runners. These illustrate why a procurement decision may involve both tooling and upstream equipment, even before the blowing and filling equipment is considered.",
+            "LIHE publishes molds, hot runners, components and tooling conversion. That scope is useful to evaluate for an established-machine project. LIHE should not be presented as a substitute for every machine and complete-line contractor; agree its responsibilities with the plant and equipment suppliers."
+          ]
+        },
+        {
+          "heading": "Decide using the plant’s actual operating situation",
+          "list": [
+            "For a stable line needing a replacement preform mold, begin with the machine and package specification already approved. A bounded tooling project can preserve established equipment while changing the mold. Check whether the proposed conversion also affects cooling, controls, handling or closure geometry.",
+            "For a new plant, map the whole process from preform supply to finished package. Decide whether injection is on site, then identify blowing, filling, capping and transport responsibilities. A complete-line proposal can coordinate more equipment, but only the contracted scope establishes that responsibility.",
+            "For simultaneous lightweighting and equipment changes, appoint an engineering owner for the package. Freeze the preform, bottle and closure requirements and sequence the trials. Neither supplier category removes the need to test the final bottle or resolve changes between the injection and blowing stages.",
+            "Use a specialist when the plant or its integrator can manage the interfaces; consider a broader equipment contractor when that coordination is part of the purchase requirement. Where responsibility remains unclear, resolve it before awarding the job instead of relying on the supplier’s category name."
+          ]
+        },
+        {
+          "heading": "Split acceptance between the mold maker and the line supplier",
+          "steps": [
+            "Draw up an interface responsibility matrix before any purchase order. List each physical and data interface, such as platen and hot half, cooling water, controller signals, take-out robot, conveyor and blow molder infeed, and give every row one named owner and one approver.",
+            "Hold a factory acceptance test for the mold at the mold maker's site. The mold maker owns this test: dimensions per cavity, hot-runner heating and valve-gate function, cooling-circuit flow and a stable molding run on a comparable machine. Sign it off as a mold result, not as a line result.",
+            "Hold the equipment acceptance with the line supplier for the machines it contracted. The line supplier demonstrates speeds, changeovers and controls for its own scope; ask it to state in writing which upstream inputs, including preforms, it assumed for that test.",
+            "Run a joint site acceptance with both parties present once the mold is installed on the plant's machine and connected to the downstream line. Agree in advance how defects are attributed: a preform out of tolerance points to mold or injection settings, while a bottle defect from a conforming preform points to blowing or line settings.",
+            "Close the project with a handover file from each party and one shared open-items list. Each open item carries an owner and a date, so that nothing falls into the gap between the tooling contract and the equipment contract."
+          ]
+        },
+        {
+          "heading": "After start-up: who services what",
+          "list": [
+            "Mold wear parts, including neck rings, cores, cavities, nozzle tips and valve pins, normally come from the mold maker or a qualified tooling source. Machine wear parts come from the machine builder. Keep the two spare-parts lists separate so a stock-out is traced to the right supplier.",
+            "With a full-line contract, the plant usually has one commercial contact, but the line supplier may still pass a tooling problem to its own mold subcontractor. Ask who actually performs mold repairs, where they are done and how long the tool is out of production when it leaves the site.",
+            "With a specialist route, the plant or its integrator coordinates between suppliers. That gives direct access to the people who designed the tool, but it also means the plant's engineers must recognize whether a fault starts in the mold, the machine or the downstream equipment.",
+            "Decide where refurbishment happens before the first major overhaul is due. Some work can be done on site; hot-runner and cavity refurbishment often needs the tool at the maker's workshop. Plan a spare mold set or an alternative supply of preforms for that period.",
+            "Write the service expectations into each contract: remote support channels, on-site visit terms, spare-parts lead times and how revised drawings are distributed. A line contract and a tooling contract that describe service in different terms make cross-supplier faults slower to solve."
+          ]
+        },
+        {
+          "heading": "Where LIHE sits in this choice",
+          "paragraphs": [
+            "This guide comes from LIHE Precision, a specialist tooling supplier rather than a full-line contractor, so read it with that position in mind. The figures below are published on lihe-preform.com and describe the tooling side of the decision only; line equipment, integration and overall line acceptance remain with the plant or its equipment suppliers."
+          ],
+          "list": [
+            "Tooling range: PET preform molds of 32 to 160 cavities for HUSKY, NETSTAL, SIPA, KATA and other machines, plus valve-gate hot runners up to 144 cavities for preforms, sold with a 3-year leakage-proof guarantee on the Husky Ultra-type design.",
+            "Compatibility with installed equipment: conversion parts are published as 100% interchangeable for Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps and Corvaglia systems. That is relevant when the plant keeps its machines and only changes tooling.",
+            "Lead times for the tooling share of a project: pilot molds 20 days, standard PET preform and blow molds 8 weeks, replacement parts 4 weeks. Line equipment schedules sit outside these figures and should be planned with the line supplier.",
+            "Service on the tooling side: machine interface audits, mold installation, machine start-up support, preventive maintenance, remote troubleshooting, spare parts and mold refurbishment. Agree the exact package in the quotation and map it onto the responsibility matrix above."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Is a complete-line supplier always better for high volume?",
+          "answer": "No. High volume describes production demand, not the scope of the purchase. A defined mold replacement and a new complete plant need different responsibilities and acceptance evidence."
+        },
+        {
+          "question": "Can a specialist supplier support a large plant?",
+          "answer": "Evaluate the specific tooling and service proposal. Confirm the machine interfaces, qualification plan and parts arrangements. Supplier category alone does not establish whether the project meets the plant’s production requirement."
+        },
+        {
+          "question": "Does a complete water line include preform injection?",
+          "answer": "Do not assume that. The plant may buy preforms or operate separate injection equipment. Ask the line supplier to identify exactly where its contracted scope begins and ends."
+        },
+        {
+          "question": "Who should own a cross-supplier defect?",
+          "answer": "Name an integration owner before ordering and agree how mold, machine and package issues will be investigated. Maintain one approved package specification and a record of design changes across the suppliers."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Sidel — complete water bottling lines",
+          "url": "https://www.sidel.com/en/complete-lines-repository/water-lines/"
+        },
+        {
+          "label": "SIPA — PET preform injection moulds and tooling",
+          "url": "https://sipasolutions.com/products/moulds/preform-tooling"
+        },
+        {
+          "label": "Otto Hofstetter — precision PET preform moulds",
+          "url": "https://www.otto-hofstetter.swiss/"
+        },
+        {
+          "label": "Husky — injection molding systems, hot runners and services",
+          "url": "https://www.husky.co/en/"
+        }
+      ]
+    },
+    {
       "slug": "increasing-cavitation-on-existing-pet-preform-mold",
       "date": "2026-09-28",
       "category": "Technical Insights",
@@ -1665,6 +2342,327 @@
       ]
     },
     {
+      "slug": "lightweight-pet-preform-and-rpet-mold-maker",
+      "date": "2026-09-22",
+      "category": "Technical Insights",
+      "title": "Can anyone recommend a mold maker that can handle lightweight PET preforms and rPET trials?",
+      "summary": "Qualify a mold maker for lightweight PET and rPET through a controlled resin trial, machine interface review and finished-bottle testing.",
+      "heroImage": {
+        "src": "/images/news/lightweight-pet-preform-and-rpet-mold-maker-hero.webp",
+        "alt": "Illustrative lightweight PET bottle development with preforms and recycled flakes"
+      },
+      "detailImage": {
+        "src": "/images/news/lightweight-pet-preform-and-rpet-mold-maker-detail.webp",
+        "alt": "Illustrative inspection of PET preforms and precision mold inserts"
+      },
+      "ogImage": "/images/news/lightweight-pet-preform-and-rpet-mold-maker-hero-og.jpg",
+      "relatedProducts": [
+        19,
+        34,
+        27
+      ],
+      "sections": [
+        {
+          "heading": "Recommend a qualified development partner, with a defined trial",
+          "paragraphs": [
+            "rPET is recycled polyethylene terephthalate, used as a material input rather than a separate type of mold. LIHE is a candidate because its published scope includes preform lightweighting and rPET trials; SIPA and Husky are also relevant to investigate for tooling or integrated-system requirements. Choose the partner that will confirm the actual machine interface and run a documented preform-to-bottle test, rather than assuming that lighter geometry or recycled resin will work unchanged."
+          ]
+        },
+        {
+          "heading": "How to build a neutral shortlist",
+          "list": [
+            "LIHE publishes preform lightweighting through neck or wall-thickness optimization and rPET material trials. Ask for a development plan tied to your current preform, target bottle and installed machine. Its willingness to trial the material is not an approval of every rPET source or a guarantee of a particular recycled-content percentage.",
+            "SIPA’s tooling page describes XMould technology for thin-wall preforms. Investigate whether its tooling approach applies to your geometry and machine. Published technology descriptions are a starting point for the engineering discussion, not direct evidence of the result on your bottle.",
+            "Husky publishes integrated injection systems and hot runners. Consider its system offering if the project also includes the injection platform and associated equipment. Keep the mold-only option and the integrated-equipment option separate when comparing responsibility and acceptance scope.",
+            "Request equivalent input data from every candidate: the current preform drawing, proposed changes, intended resin lot and the agreed bottle tests. Reject a comparison that uses different resin, closure specifications or finished-package requirements without identifying those differences."
+          ]
+        },
+        {
+          "heading": "Compare development routes before releasing a design",
+          "table": {
+            "head": [
+              "Route",
+              "What changes",
+              "Evidence needed"
+            ],
+            "rows": [
+              [
+                "Neck lightweighting",
+                "Neck or support-ring geometry",
+                "Closure fit, handling and sealing"
+              ],
+              [
+                "Wall lightweighting",
+                "Preform material distribution",
+                "Bottle wall distribution and package tests"
+              ],
+              [
+                "Resin trial",
+                "Material lot or recycled-content level",
+                "Identified resin, drying record and samples"
+              ],
+              [
+                "Combined development",
+                "Geometry and material together",
+                "Traceable test sequence and baseline"
+              ],
+              [
+                "Existing-machine retrofit",
+                "Selected mold components",
+                "Approved interfaces and installation checks"
+              ],
+              [
+                "New system",
+                "Tooling plus equipment scope",
+                "System acceptance and plant integration"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Design the trial so a failure teaches you something",
+          "list": [
+            "Retain a production baseline with the approved existing preform and resin. Identify which variable changes in each development run. If geometry, material and process all change without a controlled record, a failed bottle test gives little useful information about the correction required.",
+            "Define the acceptable finished package before chasing lower preform weight. Check the neck, cap and bottle together, including the handling and filling requirements. A thinner preform wall can alter the stretching behavior, so injection acceptance and bottle acceptance must remain separate.",
+            "Confirm what trial equipment the supplier will use and how the plant will reproduce those conditions. Agree how resin preparation, cooling and handling will be documented, and identify the party that supplies resin documentation for the destination market.",
+            "LIHE’s published reduction is a proposal range, not a savings guarantee for a particular bottle. Its tooling scope also leaves the plant and equipment suppliers responsible for agreeing production settings and line integration. Release the design only after the required evidence is accepted."
+          ]
+        },
+        {
+          "heading": "What recycled resin changes inside a lighter preform",
+          "list": [
+            "Recycled PET can arrive with a wider spread of intrinsic viscosity than the virgin grade it replaces. A thinner preform wall leaves less margin for that variation, so ask the resin supplier for the viscosity specification and lot data before deciding how far to cut weight in the same project.",
+            "PET absorbs moisture and degrades through hydrolysis when it is melted wet. rPET flake or pellet that has been stored or blended differently from virgin resin may need its own drying check. Record dryer settings and residence time for every trial lot instead of reusing the virgin-resin settings by habit.",
+            "Recycled content can shift colour, haze and the number of visible specks. Agree the appearance limits with the brand owner first, because a lighter wall makes some defects easier to see and a visual reject at the bottle stage wastes the whole trial run.",
+            "Blend ratio is itself a variable. Running a lower and then a higher rPET share on the same lightweight geometry tells you far more than jumping straight to the final target, and it shows where the process window starts to narrow.",
+            "Food-contact approval belongs to the resin and the recycling process, not to the mold. Collect that documentation from the resin supplier in parallel with the tooling work so that a successful trial is not held up waiting for paperwork."
+          ]
+        },
+        {
+          "heading": "Run the lightweighting and rPET trial in a fixed order",
+          "steps": [
+            "Mold and blow a reference batch with the current preform and the currently approved resin. Record preform weight by cavity, bottle wall distribution and the agreed bottle tests. Every later result is judged against this reference, so keep the samples and the process sheet.",
+            "Introduce the lighter geometry first, still with the reference resin. Check weight per cavity, neck dimensions and gate quality, then blow bottles with the existing recipe and adjust only the blowing parameters needed to reach the reference wall distribution.",
+            "Add rPET at the first agreed blend ratio on the lighter geometry. Log resin lot, dryer settings and the injection process window. If defects appear here but not in the previous step, they point to the material or its preparation rather than to the new geometry.",
+            "Test the finished bottles from each step against the same criteria: top load, closure application and leakage, appearance, and pressure or heat performance where the product needs it. Keep the step results apart so the effect of weight and resin can be read separately.",
+            "Record the weight actually saved per preform and multiply it by planned annual output to estimate resin savings, then decide whether to approve the design, adjust the geometry or hold the blend ratio. Raise the recycled share only through a further trial of the same structure."
+          ]
+        },
+        {
+          "heading": "LIHE's role in a lightweighting or rPET project",
+          "paragraphs": [
+            "LIHE Precision is one of the candidates named in this article and is also its publisher, so read this section as a supplier statement rather than independent advice. The figures below are published on lihe-preform.com and describe what LIHE offers; they do not replace the staged trial described above."
+          ],
+          "list": [
+            "Weight reduction: lightweighting proposals aim to take 1 g to 2 g out of a preform through neck or wall-thickness optimization. Whether that amount is achievable on your bottle depends on the trial results, not on the proposal itself.",
+            "Retrofit instead of new tooling: converting existing molds for lightweighting is published at 25% to 40% of a new mold price. Exact cost requires a quotation based on the current mold condition and the proposed changes.",
+            "rPET and neck finishes: custom work includes rPET material trials and special neck finishes such as PCO 1881 and 29/25, as well as production line conversions. A neck finish change also affects the closure, so include the cap supplier in the review.",
+            "Cooling and timing: optimized cooling can reduce neck cooling time by up to 0.5 seconds, and pilot molds are listed at 20 days. Use a pilot tool when you want to test a new geometry before committing a full production mold."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Is a special rPET mold always necessary?",
+          "answer": "Not automatically. The resin, geometry, machine and process must be assessed together. Ask whether the existing tool can support the trial or whether a conversion is required, then validate the proposed arrangement."
+        },
+        {
+          "question": "Does a successful resin trial prove food-contact suitability?",
+          "answer": "No. Processing success and food-contact documentation are different requirements. The responsible resin and packaging parties must provide the evidence required for the intended market and use."
+        },
+        {
+          "question": "Can I reduce weight and change resin at the same time?",
+          "answer": "Yes, as a development project, but record both changes and retain a baseline. Structure the trial so that any defect can be traced to a material, geometry or process change."
+        },
+        {
+          "question": "What does LIHE’s published lightweighting figure mean?",
+          "answer": "It describes proposals to reduce preform weight through neck or wall optimization. The actual design must pass the agreed preform, bottle and closure checks. It is not an unconditional reduction applicable to every package."
+        }
+      ],
+      "sources": [
+        {
+          "label": "SIPA — PET preform injection moulds and tooling",
+          "url": "https://sipasolutions.com/products/moulds/preform-tooling"
+        },
+        {
+          "label": "Husky — injection molding systems, hot runners and services",
+          "url": "https://www.husky.co/en/"
+        },
+        {
+          "label": "Wikipedia — polyethylene terephthalate",
+          "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate"
+        },
+        {
+          "label": "Wikipedia — injection moulding",
+          "url": "https://en.wikipedia.org/wiki/Injection_moulding"
+        }
+      ]
+    },
+    {
+      "slug": "comparing-pet-mold-suppliers-cycle-time-cavitation-quality",
+      "date": "2026-09-20",
+      "category": "Technical Insights",
+      "title": "How do PET mold suppliers compare when it comes to cycle time, cavitation, and part quality?",
+      "summary": "Compare PET mold performance using accepted output, identical trial conditions and cavity-level quality records, with clear limits on published figures.",
+      "heroImage": {
+        "src": "/images/news/comparing-pet-mold-suppliers-cycle-time-cavitation-quality-hero.webp",
+        "alt": "Illustrative PET mold quality-control bench with traceable preform samples"
+      },
+      "detailImage": {
+        "src": "/images/news/comparing-pet-mold-suppliers-cycle-time-cavitation-quality-detail.webp",
+        "alt": "Illustrative dimensional inspection of a PET preform neck and mold components"
+      },
+      "ogImage": "/images/news/comparing-pet-mold-suppliers-cycle-time-cavitation-quality-hero-og.jpg",
+      "relatedProducts": [
+        19,
+        27,
+        18
+      ],
+      "sections": [
+        {
+          "heading": "Compare acceptable output before comparing headline speed",
+          "paragraphs": [
+            "Cavitation is the number of molding cavities in a tool, while cycle time is the time required to complete one molding cycle. Compare suppliers by the acceptable parts produced under the same resin, preform, machine and cooling conditions, then examine dimensional quality and maintenance requirements. A faster cycle or higher nominal cavity count alone does not establish the better mold."
+          ]
+        },
+        {
+          "heading": "A comparison sheet that keeps the test conditions visible",
+          "table": {
+            "head": [
+              "Dimension",
+              "Record for each supplier",
+              "Why it matters"
+            ],
+            "rows": [
+              [
+                "Preform specification",
+                "Drawing revision, weight and neck finish",
+                "A different part is a different task"
+              ],
+              [
+                "Resin",
+                "Grade, lot and recycled-content plan",
+                "Material changes affect processing"
+              ],
+              [
+                "Machine",
+                "Model and complete trial configuration",
+                "The mold and machine operate together"
+              ],
+              [
+                "Cooling",
+                "Utilities and stabilized conditions",
+                "Cooling can limit the usable cycle"
+              ],
+              [
+                "Cavitation",
+                "Nominal, active and qualified cavities",
+                "Inactive cavities reduce actual output"
+              ],
+              [
+                "Cycle",
+                "Repeatable run data and interruptions",
+                "Fastest single shot is not sustained output"
+              ],
+              [
+                "Quality",
+                "Dimensions, gate condition and rejected samples",
+                "Averages can hide cavity problems"
+              ],
+              [
+                "Maintenance",
+                "Parts, access and service requirements",
+                "Wear and stoppages affect production"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Interpret published quality and cooling figures correctly",
+          "list": [
+            "LIHE publishes tooling capability of CPK ≥ 1.33. This is a company-stated quality figure published on lihe-preform.com. Ask which dimension, specification limits, sample set and process condition the report covers. A capability index for one controlled characteristic is not a pass result for every feature or production setting.",
+            "LIHE also publishes a neck-cooling reduction of up to 0.5 seconds from optimized cooling. The figure concerns neck cooling and is not a promised total molding cycle. Do not subtract it from a competitor’s cycle or from an existing plant cycle without a comparable trial.",
+            "Use cavity-level records to investigate weight variation, gate defects, neck dimensions and appearance. Ask for repeat measurements after stabilization and identify the relevant cavity. The supplier should preserve rejected samples and the conditions that produced them.",
+            "A supplier may test with different utilities or handling equipment from your plant. Record those differences before drawing a performance conclusion. Treat unreported conditions as missing evidence, rather than assuming that the strongest published result transfers unchanged."
+          ]
+        },
+        {
+          "heading": "Choose the trade-off that fits the production job",
+          "list": [
+            "For an established bottle and machine, compare sustained accepted output and service continuity. For a new preform design, include package development and bottle qualification. A comparison centered only on cycle speed can hide the engineering work required before the bottle can be sold.",
+            "Use qualified active cavitation when planning output. Disabled cavities, rejected parts and interruptions all reduce useful production. The calculation should show its operating assumptions and use the same accounting method for each supplier.",
+            "Include maintenance access, replaceable parts and commissioning in the purchase decision. A tool that needs a different controller, handling arrangement or cooling configuration can change both the project scope and the usable production result.",
+            "LIHE publishes tooling rather than a universal complete-line result. If the plant needs the mold maker to share responsibility for a machine or line change, define that arrangement explicitly. Request a project quotation for any cost comparison; there is no substantiated generic price ranking here."
+          ]
+        },
+        {
+          "heading": "Give every bidder the same baseline before asking for numbers",
+          "list": [
+            "Send one data pack to all candidates: the frozen preform drawing and target weight, the neck finish, the resin grade, the injection machine model and the hot-half arrangement already installed. If one supplier quotes a cycle for a heavier preform or a different neck, its number cannot sit in the same column as the others.",
+            "Ask each supplier to state its cavitation basis in writing. A quote for 72 cavities should say whether all 72 are expected to be qualified at start-up, how a blocked cavity is handled and whether the hot runner is new, refurbished or reused from the existing tool.",
+            "Describe the cooling water the plant can actually deliver, including supply temperature, flow capacity and seasonal variation. Cycle claims made with colder or larger chiller capacity than your site has are optimistic by design, so request the cooling assumptions behind every quoted cycle.",
+            "Require the same quality vocabulary from each bidder: which preform dimensions are measured, how weight is reported, what counts as a visual reject and how cavity numbers are traced. Without a shared definition, two suppliers can both report a good result while measuring different things.",
+            "Agree in advance which bidder costs are included: trial resin, machine time, sampling, shipping of samples and attendance by your engineers. Uneven trial terms tend to push buyers toward the supplier who made testing easiest rather than the one whose mold performed best."
+          ]
+        },
+        {
+          "heading": "Run the side-by-side trial and score it the same way",
+          "steps": [
+            "Collect each supplier's completed comparison sheet before any trial starts, so that the claimed cycle, active cavities and quality limits are on record. Any later change to those claims should be visible as a revision rather than silently replacing the original offer.",
+            "Start counting only after the process has stabilized at the agreed settings. Log the stabilized cycle, every stoppage and its cause, and every cavity that was shut off. Run each candidate for the same agreed duration so short demonstration runs do not compete with longer production-style runs.",
+            "Convert the run into accepted preforms per hour: shots per hour multiplied by active cavities, minus parts rejected for dimension, weight, gate or appearance. Use this accepted-output figure as the headline comparison instead of the fastest cycle any machine displayed.",
+            "Measure a sample from every cavity number and compare the spread between cavities, not only the overall mean. A mold whose worst cavity stays inside tolerance is usually a better production asset than one with a tighter average and two outlying cavities.",
+            "Blow the preforms from each candidate on the same blow molder with the same bottle mold and recipe window. A preform that measures well but needs a narrower blowing window adds risk to the line, and that difference only shows up when bottles are produced.",
+            "Put the results into one table, mark anything a supplier did not demonstrate as not proven, and make the decision from accepted output, cavity spread, bottle results and maintenance access together."
+          ]
+        },
+        {
+          "heading": "How LIHE's own published numbers fit into the comparison",
+          "paragraphs": [
+            "LIHE Precision wrote and publishes this comparison guide, and it is also a mold supplier you may be comparing. Treat its figures with the same scrutiny you apply to every other bidder. The following numbers are published on lihe-preform.com; the trial described above is still the way to verify them for your preform."
+          ],
+          "list": [
+            "Cavitation: LIHE's PET preform molds are listed from 32 to 160 cavities for HUSKY, NETSTAL, SIPA, KATA and other machines. Confirm which cavitation your installed machine and hot half can accept before comparing output against suppliers who quote a different count.",
+            "Quality: tooling capability of CPK ≥ 1.33 and operational defect rates as low as 0.0064%. Ask for the measurement data behind any figure you use, tied to the characteristic and sample set, and compare it with the cavity-level results from your own trial.",
+            "Durability: molds built to withstand up to 8 million shots on Husky, SACMI and Netstal platforms. Shot life depends on resin, maintenance and operating conditions, so include the agreed maintenance plan when comparing life claims between suppliers.",
+            "Inspection evidence: an in-house Zeiss CMM laboratory, with validation and inspection reports supplied on request. Request the reports for the cavities you sampled so the dimensional comparison uses the same parts on both sides."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Should I choose the shortest quoted cycle?",
+          "answer": "Only after confirming equivalent test conditions and acceptable quality. Record active cavities, rejected parts and interruptions, then compare the repeatable production result rather than an isolated fastest cycle."
+        },
+        {
+          "question": "Can nominal cavitation overstate useful output?",
+          "answer": "Yes. A nominal mold count includes cavities that may be disabled or not yet qualified. Production planning should use the agreed qualified configuration and acceptable parts actually produced."
+        },
+        {
+          "question": "Does a CPK figure cover the whole bottle?",
+          "answer": "No. Ask which characteristic and data set it describes. The final bottle still needs the agreed package tests, and a preform dimensional capability figure does not replace them."
+        },
+        {
+          "question": "Why compare cooling utilities?",
+          "answer": "The mold uses the cooling conditions available at the machine. A supplier trial with different water conditions can produce a cycle that the plant cannot reproduce. Document and resolve the difference before acceptance."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Wikipedia — injection moulding",
+          "url": "https://en.wikipedia.org/wiki/Injection_moulding"
+        },
+        {
+          "label": "Wikipedia — hot runner",
+          "url": "https://en.wikipedia.org/wiki/Hot_runner"
+        },
+        {
+          "label": "SIPA — PET preform injection moulds and tooling",
+          "url": "https://sipasolutions.com/products/moulds/preform-tooling"
+        }
+      ]
+    },
+    {
       "slug": "risks-of-non-oem-molds-for-pet-bottle-production",
       "date": "2026-09-18",
       "category": "Technical Insights",
@@ -1926,6 +2924,324 @@
         {
           "label": "SACMI — official website (closures, preforms, containers)",
           "url": "https://sacmi.com/"
+        }
+      ]
+    },
+    {
+      "slug": "pet-blow-mold-and-hot-runner-suppliers-for-water-bottle-lines",
+      "date": "2026-09-16",
+      "category": "Technical Insights",
+      "title": "What suppliers should I look at for PET blow molds and hot runner systems for a new water bottle line?",
+      "summary": "Separate preform injection tooling, blow molds and complete-line equipment before comparing suppliers for a new PET water bottle line.",
+      "heroImage": {
+        "src": "/images/news/pet-blow-mold-and-hot-runner-suppliers-for-water-bottle-lines-hero.webp",
+        "alt": "Illustrative PET water-bottle blow mold and separate injection hot runner"
+      },
+      "detailImage": {
+        "src": "/images/news/pet-blow-mold-and-hot-runner-suppliers-for-water-bottle-lines-detail.webp",
+        "alt": "Illustrative PET injection hot runner manifold with valve-gate nozzles"
+      },
+      "ogImage": "/images/news/pet-blow-mold-and-hot-runner-suppliers-for-water-bottle-lines-hero-og.jpg",
+      "relatedProducts": [
+        22,
+        24,
+        27
+      ],
+      "sections": [
+        {
+          "heading": "Start with the part of the line you are buying",
+          "paragraphs": [
+            "A hot runner is a heated injection-mold assembly that distributes molten plastic to the preform cavities; a PET blow mold shapes a reheated preform into a bottle. Consider specialist tooling suppliers such as LIHE and SIPA, a hot-runner supplier such as Mold-Masters, and a complete-line supplier such as Sidel according to the equipment scope you need. The blowing station does not use the preform injection hot runner, so these purchases need separate specifications."
+          ]
+        },
+        {
+          "heading": "Relevant suppliers and the boundaries of their offers",
+          "list": [
+            "Mold-Masters publishes PET-Series hot runners. Evaluate that offering for the injection stage, checking the layout against the cold half and machine. Its published product page identifies a hot-half offering; do not mistake a hot runner proposal for a complete preform mold or a bottle blow mold.",
+            "SIPA publishes preform tooling and conversions. It is a candidate to investigate when coordinating preform development with the upstream injection tooling. Ask which tooling and machine interfaces the specific quotation covers, and separate those responsibilities from the equipment used to blow and fill bottles.",
+            "Sidel publishes complete water bottling lines. Investigate it when the project includes integrated blowing, filling, capping and other line equipment. Determine whether the line proposal also includes bottle development, mold sets, format parts and the required acceptance tests.",
+            "LIHE publishes blow molds, preform molds and hot runner systems. This offers a tooling-centered procurement route. It does not establish that LIHE is the contractor for the entire new water line; keep the equipment integrator and the mold interface responsibilities explicit."
+          ]
+        },
+        {
+          "heading": "Separate specifications for separate production stages",
+          "table": {
+            "head": [
+              "Purchase",
+              "Primary specification",
+              "Interface to confirm"
+            ],
+            "rows": [
+              [
+                "Preform mold",
+                "Preform weight, neck finish and cavity layout",
+                "Injection machine and hot half"
+              ],
+              [
+                "Hot runner",
+                "Melt distribution, gating and control configuration",
+                "Cold half, controller and machine"
+              ],
+              [
+                "Blow mold",
+                "Bottle geometry, base and filling method",
+                "Blower mold carrier and neck handling"
+              ],
+              [
+                "Format parts",
+                "Approved bottle and neck geometry",
+                "Conveyors, star wheels and guides"
+              ],
+              [
+                "Complete water line",
+                "Finished-package output and process scope",
+                "Blowing, filling, capping and handling"
+              ],
+              [
+                "Acceptance package",
+                "Preform, bottle and production checks",
+                "Joint responsibilities and site utilities"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Water-bottle design decisions that affect the tooling order",
+          "list": [
+            "Decide whether the plant will buy finished preforms or manufacture them. If preforms are purchased, a new blowing and filling line may not require a new injection mold or hot runner at all. Keep supplier selection aligned with the actual production route.",
+            "Approve the water-bottle geometry and neck finish before ordering the complete mold set. The bottle base, label area and handling geometry affect equipment beyond the blower. Ask the integrator to confirm the full format-parts list alongside the approved bottle drawing.",
+            "Specify the filling method and product requirements instead of selecting tooling from the beverage name alone. Still water, sparkling water and other beverages can have different package requirements. Cold-fill, hot-fill and aseptic processes should be identified explicitly in the design brief.",
+            "Request consistent drawings across the preform, bottle and closure. A change to the preform neck may require changes to handling parts and capping, while a bottle-body change may primarily affect blow tooling and downstream transport. Resolve these boundaries before comparing commercial offers."
+          ]
+        },
+        {
+          "heading": "Draw the interface lines between the three supply scopes",
+          "list": [
+            "Injection side: the hot runner supplier and the preform mold supplier share the hot-half to cold-half interface, including nozzle positions, gate geometry, heater zones, connectors and cooling connections. If two companies are involved, name one of them as responsible for the assembled mold, or record in writing that the plant is the integrator.",
+            "Injection to blowing: the preform drawing is the contract between the mold maker and the blower. The neck finish and support ring must suit the blower’s neck handling, and the preform body must suit its heating oven. Both sides should sign the same preform revision before any steel is cut.",
+            "Blowing side: the blow mold supplier needs the blower model, the mold carrier type and the approved bottle drawing. A water bottle for a two-step blower is specified differently from one for a one-step machine, where injection and blowing take place on the same platform.",
+            "Blowing to filling and capping: the bottle neck, body and base interact with conveyors, star wheels, neck grippers, the filler and the capper. These format parts often belong to the line supplier’s scope, so confirm who designs them for each bottle size.",
+            "Utilities: the plant should state the cooling water available for the injection mold and the blow molds and the compressed-air supply for blowing, so that each supplier designs for the same conditions and no trial relies on utilities the site does not have."
+          ]
+        },
+        {
+          "heading": "Accept the water line stage by stage, not only at the end",
+          "steps": [
+            "Approve the bottle, preform and closure drawings together, with the line integrator, the mold maker and the hot runner supplier signing the same revisions. Every later change then has a clear owner and a clear cost.",
+            "Test the hot runner on its own before it is matched to the cold half: heating of every zone, temperature stability and freedom from leakage. Record the results against the serial number of the hot half.",
+            "Run the assembled preform mold and check each cavity for weight, neck dimensions and gate quality. If the plant will buy preforms instead of making them, apply this step to samples from the preform supplier.",
+            "Blow the trial preforms on the target blower, or an equivalent machine, with the actual blow molds. Check wall distribution, base shape and filled volume for each bottle size, for example 500 ml and 1.5 L.",
+            "Run filled and capped bottles through the line and record leaks, closure application results and handling faults. List each open item against the supplier responsible for the interface where it appeared."
+          ]
+        },
+        {
+          "heading": "What LIHE can quote for a water bottle line",
+          "paragraphs": [
+            "This guide comes from LIHE Precision, a company that supplies molds and hot runners but does not build complete filling lines; weigh its advice with that position in mind. The figures below are published on lihe-preform.com and cover only the tooling scopes discussed in this article."
+          ],
+          "list": [
+            "Blow molds for two-step blowers from SIDEL, KRONES, SIG/KHS, TECH-LONG and NEWAMSTAR and for one-step machines from SIPA, ASB and AOKI, including KHS InnoPET Blomax and Krones Contiform cold-fill sets and split-type quick-change molds.",
+            "Published water-bottle sizes: 330 ml, 500 ml, 550 ml and 1.5 L. Any other size has to be confirmed in the quotation.",
+            "Hot runners: valve-gate designs for up to 144 preform cavities, compatible with HUSKY, NETSTAL, KM and SIPA machines. The Husky Ultra-type design carries a 3-year leakage-proof guarantee.",
+            "If the plant will make its own preforms, the injection tooling covers PET preform molds of 32 to 160 cavities for HUSKY, NETSTAL, SIPA, KATA and other machines.",
+            "Lead times: pilot molds 20 days, standard preform and blow molds 8 weeks, replacement parts 4 weeks. Plan drawing approval and trials as separate time on top of these figures.",
+            "For lighter water bottles, LIHE makes proposals that take 1 g to 2 g off the preform weight by optimizing the neck or the wall thickness. Such a change affects the preform mold and the blow mold at the same time, so both scopes need to be reviewed together."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Does a bottle blow mold need a hot runner?",
+          "answer": "Not in the reheated two-step blowing stage described here. The hot runner belongs to preform injection. Define the production route carefully because a combined single-stage system has a different equipment architecture."
+        },
+        {
+          "question": "Do I need injection tooling if I buy preforms?",
+          "answer": "Usually the upstream preform supplier owns that tooling. Confirm its approved preform specification and supply arrangements, then order the bottle tooling and line equipment needed for your own plant."
+        },
+        {
+          "question": "Can one supplier coordinate both tooling purchases?",
+          "answer": "Potentially, but confirm the quotation and responsibilities. Supplying both product categories does not automatically include complete-line integration, every format part or final package qualification."
+        },
+        {
+          "question": "What determines a suitable blow-mold set?",
+          "answer": "The actual blower, mold carrier, bottle drawing, preform and neck finish, filling method and package requirements. Send these together so the supplier can identify the complete mold set and related conversion parts."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Mold-Masters — PET-Series hot runner systems",
+          "url": "https://www.moldmasters.com/pet-series"
+        },
+        {
+          "label": "SIPA — PET preform injection moulds and tooling",
+          "url": "https://sipasolutions.com/products/moulds/preform-tooling"
+        },
+        {
+          "label": "Sidel — complete water bottling lines",
+          "url": "https://www.sidel.com/en/complete-lines-repository/water-lines/"
+        },
+        {
+          "label": "Wikipedia — hot runner",
+          "url": "https://en.wikipedia.org/wiki/Hot_runner"
+        }
+      ]
+    },
+    {
+      "slug": "most-reliable-pet-preform-mold-manufacturers",
+      "date": "2026-09-14",
+      "category": "Technical Insights",
+      "title": "Who are the most reliable PET preform mold manufacturers for high-speed beverage bottle production?",
+      "summary": "Compare PET preform mold manufacturers through machine fit, cavity-level quality evidence and service scope, rather than an unsupported reliability ranking.",
+      "heroImage": {
+        "src": "/images/news/most-reliable-pet-preform-mold-manufacturers-hero.webp",
+        "alt": "Illustrative open PET preform injection mold on a factory bench"
+      },
+      "detailImage": {
+        "src": "/images/news/most-reliable-pet-preform-mold-manufacturers-detail.webp",
+        "alt": "Illustrative inspection of a precision PET mold neck-ring insert"
+      },
+      "ogImage": "/images/news/most-reliable-pet-preform-mold-manufacturers-hero-og.jpg",
+      "relatedProducts": [
+        19,
+        27,
+        34
+      ],
+      "sections": [
+        {
+          "heading": "Choose reliability evidence for your production platform",
+          "paragraphs": [
+            "A PET preform mold is an injection tool that forms the precursor later stretched and blown into a beverage bottle. Husky, SIPA and Otto Hofstetter are relevant manufacturers to investigate, alongside LIHE, but the most reliable choice for a particular plant depends on confirmed machine compatibility, cavity-level production evidence and an agreed service plan. Public product descriptions do not establish a defensible universal reliability ranking."
+          ]
+        },
+        {
+          "heading": "A neutral manufacturer shortlist",
+          "list": [
+            "Husky publishes injection molding systems and hot runners. Investigate its offering when evaluating an integrated preform production system or a mold within that system. Ask for the proposal and acceptance evidence corresponding to your actual installed machine, rather than extending a system-level claim to every older platform.",
+            "SIPA publishes PET preform tooling and mold conversions. Its tooling page also describes testing on dedicated XFORM machines. Establish whether the proposed test configuration represents your production machine and utilities; a supplier’s own test equipment can be useful without reproducing every condition at your plant.",
+            "Otto Hofstetter publishes PET preform moulds. Include it when comparing a specialist tooling proposal. Request the applicable interface, maintenance scope and qualification evidence for the specific mold rather than assuming that the published product family establishes fit for your machine.",
+            "LIHE can be evaluated for new preform molds, tooling conversion and replacement components. Its published range and lead times appear below. A supplier shortlist is the start of qualification: it does not remove the need to approve the package design and measure production results."
+          ]
+        },
+        {
+          "heading": "Compare evidence on the same basis",
+          "table": {
+            "head": [
+              "Criterion",
+              "Useful evidence",
+              "Weak substitute"
+            ],
+            "rows": [
+              [
+                "Machine fit",
+                "Approved interface drawing and complete configuration",
+                "Machine brand mentioned in a brochure"
+              ],
+              [
+                "Cavity balance",
+                "Identified samples from every active cavity",
+                "One attractive sample"
+              ],
+              [
+                "Output",
+                "Accepted parts with scrap and interruptions recorded",
+                "Fastest isolated cycle"
+              ],
+              [
+                "Package quality",
+                "Bottle and closure tests for the intended beverage",
+                "Preform appearance alone"
+              ],
+              [
+                "Maintenance",
+                "Serviceable parts, instructions and responsible contacts",
+                "Unspecified support promise"
+              ],
+              [
+                "Delivery",
+                "Manufacturing, trial and installation milestones",
+                "A lead time without a defined start"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "When a shortlisted manufacturer is a poor fit",
+          "list": [
+            "Keep a proposal out of the final comparison if the supplier has not resolved missing interface dimensions. Early familiarity with the machine brand should not become permission to manufacture against assumptions.",
+            "For an established preform design, prioritize repeatable production and spare-part continuity. For a new lightweight bottle, prioritize development and finished-package testing. These are different purchasing tasks, so the same evidence may not settle both.",
+            "A specialist mold maker does not automatically take responsibility for the injection machine, dryer or complete filling line. LIHE’s tooling scope therefore needs clear coordination with the equipment suppliers and plant team.",
+            "Select the supplier whose agreed trial and service scope fit the plant’s risk tolerance. If comparable trial data are unavailable, keep the reliability conclusion open and request the missing evidence before committing the production schedule."
+          ]
+        },
+        {
+          "heading": "Check that a reliability claim covers your machine and preform",
+          "list": [
+            "Ask on which machine platform a quoted figure was obtained. A durability number measured on one injection system says little about a mold that will run on a different platen, hot runner or take-out plate, so write the platform next to every number a supplier gives you.",
+            "Ask which preform stands behind the figure: weight, wall thickness, neck finish and resin grade. Lightweight, thin-wall preforms run at high speed load the cooling circuit and the neck components differently from heavier designs, and a result from an easier preform does not carry over automatically.",
+            "Ask about cavitation and cavity status. A reliability statement for a mold running with several cavities blocked off is not the same as one for a mold with every cavity active, and high-cavitation molds multiply the effect of one weak cavity on the hourly output.",
+            "Ask how shots and defects are counted. A shot count may mean mold cycles or individual preforms, and a defect rate depends on what is classed as a defect and how many preforms were inspected. Without these definitions the number cannot be compared between suppliers.",
+            "Ask what maintenance was carried out during the period behind the claim. Durability achieved with frequent replacement of neck rings or cores reflects a different cost of ownership from durability achieved with routine cleaning and inspection alone."
+          ]
+        },
+        {
+          "heading": "Test reliability during a sustained high-speed run",
+          "steps": [
+            "Agree the run before the trial: its duration, the target cycle, the resin lot and drying conditions, the cavities that must be active and the sampling interval. A run of a few minutes proves that the mold can cycle; a run long enough to reach thermal equilibrium shows whether it keeps making acceptable preforms.",
+            "Start counting only once the process has stabilized, then log every stop with its cause and duration. Treat blocked cavities, stuck preforms and short shots as lost output instead of leaving them out of the result.",
+            "Take samples from every cavity at fixed intervals and keep them identified. Measure weight and the critical neck dimensions so capability can be worked out per cavity; a mold-wide average can hide a single cavity that drifts as the steel heats up.",
+            "Ask the supplier to show how any capability index, such as CPK, was calculated: which dimension, how many samples and which cavities. Where the raw measurements are available, recalculate the index yourself.",
+            "Inspect wear-sensitive parts after the run and again after the first maintenance interval in production. Early marking on neck rings, cores, cavity locks or nozzle tips is a sign that a reliability claim may not hold over the mold’s service life."
+          ]
+        },
+        {
+          "heading": "What LIHE publishes about reliability and how to verify it",
+          "paragraphs": [
+            "LIHE Precision is both the author of this article and one of the manufacturers it discusses, so its own numbers belong on the same evidence list as any other supplier’s and should be tested in the same way. The figures below are published on lihe-preform.com and are the ones that bear on high-speed reliability."
+          ],
+          "list": [
+            "Capability: LIHE states that its tooling consistently achieves CPK ≥ 1.33. Ask which dimensions and cavities the value refers to and request the measurement data behind it.",
+            "Defects: operational defect rates as low as 0.0064% are published. An as-low-as figure describes a best result, so ask for the conditions and inspection basis that produced it.",
+            "Durability: LIHE’s published service-life figure is up to 8 million shots, stated for Husky, SACMI and Netstal platforms. Confirm which of these platforms matches your installation before relying on the figure.",
+            "Range and volume: PET preform molds from 32 to 160 cavities for HUSKY, NETSTAL, SIPA, KATA and other machines, with over 12,000 cavities produced per year.",
+            "Cooling: the published gain from cooling optimization is a neck cooling time shortened by as much as 0.5 seconds. Verify that gain in your own cycle trial instead of assuming it.",
+            "Background: LIHE is a Coca-Cola verified mold supplier in the Asia region and serves customers in 50+ countries. That describes supplier qualification, not the result your specific mold will achieve."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Is there a single most reliable manufacturer?",
+          "answer": "Not from the public evidence used here. Qualify the shortlisted supplier against your machine, package and acceptance requirements. Reliability should be supported by the proposed production configuration and service arrangements, not by a universal league table."
+        },
+        {
+          "question": "Does a high cavity count prove reliable high-speed production?",
+          "answer": "No. The relevant result is acceptable output from the active cavities under agreed conditions. Consider scrap, stoppages, cooling and maintenance along with cycle time; nominal cavitation does not establish sustained production."
+        },
+        {
+          "question": "What should I send with an inquiry?",
+          "answer": "Send the machine model and interface drawings, approved preform and neck-finish drawing, intended resin and bottle, required output and test criteria. Identify the tooling already installed and which assemblies need replacement or development."
+        },
+        {
+          "question": "Can LIHE replace an existing mold?",
+          "answer": "LIHE publishes tooling conversion and replacement components. Confirm the exact platform, drawing revision and complete interface before approving a replacement. The published offering does not eliminate project-specific engineering and acceptance work."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Husky — injection molding systems, hot runners and services",
+          "url": "https://www.husky.co/en/"
+        },
+        {
+          "label": "SIPA — PET preform injection moulds and tooling",
+          "url": "https://sipasolutions.com/products/moulds/preform-tooling"
+        },
+        {
+          "label": "Otto Hofstetter — precision PET preform moulds",
+          "url": "https://www.otto-hofstetter.swiss/"
+        },
+        {
+          "label": "Wikipedia — injection moulding",
+          "url": "https://en.wikipedia.org/wiki/Injection_moulding"
         }
       ]
     },
@@ -2388,6 +3704,170 @@
         {
           "label": "Netstal — official website (PET-Line, maintenance, modification, general overhaul)",
           "url": "https://www.netstal.com/en/"
+        }
+      ]
+    },
+    {
+      "slug": "oem-vs-aftermarket-pet-preform-molds",
+      "date": "2026-09-07",
+      "category": "Technical Insights",
+      "title": "What's the difference between OEM and aftermarket PET preform molds for beverage packaging?",
+      "summary": "Compare OEM and aftermarket PET preform molds by interface ownership, validation, service and included scope before deciding how to replace or convert tooling.",
+      "heroImage": {
+        "src": "/images/news/oem-vs-aftermarket-pet-preform-molds-hero.webp",
+        "alt": "Illustrative comparison of two unbranded PET preform mold assemblies"
+      },
+      "detailImage": {
+        "src": "/images/news/oem-vs-aftermarket-pet-preform-molds-detail.webp",
+        "alt": "Illustrative matching PET mold inserts and interface components"
+      },
+      "ogImage": "/images/news/oem-vs-aftermarket-pet-preform-molds-hero-og.jpg",
+      "relatedProducts": [
+        19,
+        34,
+        40
+      ],
+      "sections": [
+        {
+          "heading": "The difference is the supply relationship and agreed scope",
+          "paragraphs": [
+            "An OEM mold is supplied through the original equipment manufacturer’s offering; an aftermarket mold or component is supplied for an existing equipment platform through another supply route. Neither label by itself establishes part quality, compatibility, price or warranty. Choose between them by confirming the exact interfaces, the parties responsible for integration and the evidence required to accept the converted or replacement tool."
+          ]
+        },
+        {
+          "heading": "OEM and aftermarket routes compared",
+          "table": {
+            "head": [
+              "Dimension",
+              "OEM route",
+              "Aftermarket route"
+            ],
+            "rows": [
+              [
+                "Specification",
+                "Confirm the original system configuration",
+                "Confirm actual machine and tool interfaces"
+              ],
+              [
+                "Design information",
+                "Ask which controlled drawings are supplied",
+                "Provide authorized drawings or measurements"
+              ],
+              [
+                "Integration",
+                "Define the machine supplier’s responsibility",
+                "Agree responsibility across suppliers"
+              ],
+              [
+                "Replacement scope",
+                "Check complete assemblies and options",
+                "Distinguish components, conversion and full mold"
+              ],
+              [
+                "Acceptance",
+                "Agree factory and site testing",
+                "Agree the same required test conditions"
+              ],
+              [
+                "Service",
+                "Confirm the actual service package",
+                "Confirm parts, diagnostics and access"
+              ],
+              [
+                "Warranty",
+                "Read the quoted terms for this project",
+                "Read the quoted terms for this project"
+              ],
+              [
+                "Cost",
+                "Compare included equipment and services",
+                "Compare the equivalent scope and qualification"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "A compatible replacement needs a complete interface review",
+          "list": [
+            "Separate a complete mold replacement from a component substitution. Replacing a neck ring, core or hot-runner nozzle changes a narrower assembly, but that assembly still interacts with cooling, alignment and neighboring parts. Document the exact combination that will operate after the change.",
+            "Use the current machine and mold configuration as the baseline. A drawing from the original installation can miss later modifications. Ask who will measure unresolved interfaces and who will approve the final dimensions before the new supplier begins machining.",
+            "Keep material, surface finish, heat treatment and inspection requirements in the specification where applicable. Interchangeability should be demonstrated against approved dimensions and function. A part that can be installed is not automatically a part that produces an acceptable preform.",
+            "Review access to controlled design information and the permitted supply scope. Do not assume the replacement supplier can obtain original proprietary drawings. Agree an authorized technical basis for the work, including measurements or customer-provided parts when necessary."
+          ]
+        },
+        {
+          "heading": "How to choose for a beverage packaging plant",
+          "list": [
+            "An established original supplier may be useful when the purchase includes machine upgrades or one coordinated system responsibility. Confirm what the quoted package actually includes; the OEM label does not automatically cover every utility, format part or bottle test.",
+            "An alternative tooling route may be useful for targeted replacement parts, a neck conversion or a mold retrofit. Check the engineering resources available at the plant to coordinate the suppliers. If no party owns integration, the apparent purchasing convenience can disappear during commissioning.",
+            "LIHE publishes conversion and replacement components for existing platforms. It should therefore be assessed as a tooling supplier, with the exact scope confirmed before ordering. It does not automatically become the original machine supplier or inherit that supplier’s service obligations.",
+            "Evaluate the cost of qualification, downtime, spares and corrective work alongside the purchase quotation. No verified evidence supports assuming that every aftermarket option is cheaper or every OEM option performs better. Apply the same acceptance criteria to the production task."
+          ]
+        },
+        {
+          "heading": "Evidence that shows what a part really is",
+          "list": [
+            "Start from the installed baseline. Record the machine model and serial number, the mold and hot-half configuration and every change made since commissioning. An OEM-versus-aftermarket comparison only means something when both candidates are judged against the configuration that runs today, not the one shown in the original manual.",
+            "Ask each supplier to state the origin of the part in writing. An original part should carry the equipment maker’s part number and revision. An aftermarket part should carry its maker’s own drawing number and a statement of which original part or dimensions it replaces. A part with neither cannot be traced when you need to reorder it.",
+            "Find out the technical basis of an aftermarket part. It may be made from authorized drawings, from measurements of your current parts or from a sample you send. Each basis carries a different risk: a worn sample reproduces its wear unless the supplier corrects it to nominal dimensions that you have approved.",
+            "Request material and heat-treatment records, the surface-finish requirement and a dimensional report tied to the drawing revision. The report should list measured values for critical features such as neck-ring tapers, core alignment diameters and nozzle seats, rather than a single pass stamp.",
+            "Look for a physical swap test. Fitting the new part in a known cavity position and running it beside the existing parts is the most direct proof that it is interchangeable in function, not only in fit. Labels, packaging and catalogue names prove neither."
+          ]
+        },
+        {
+          "heading": "Qualify a non-original part against the one it replaces",
+          "steps": [
+            "Record a reference run with the existing parts before anything is changed. Note preform weight, the key neck dimensions, gate appearance and reject counts for the cavities that will receive new parts, so later results have a baseline from the same machine and resin.",
+            "Inspect the incoming parts before installation. Compare the supplier’s dimensional report with your own check of a few critical features, and confirm that the part number, drawing revision and quantity match the purchase order.",
+            "Install the replacement parts in identified cavities and log their positions. Molds that mix original and aftermarket components are common, and the log is what links a later defect to a particular part source.",
+            "Run the mold at its normal production cycle and compare the converted cavities with the untouched ones. Differences in weight, neck dimensions, gate vestige or sticking show up more clearly side by side than against a drawing alone.",
+            "Blow and cap preforms from the converted cavities and check sealing, neck fit and wall distribution in the bottle. File the results with the part number so the next order is placed against the same verified revision."
+          ]
+        },
+        {
+          "heading": "Where LIHE fits in the OEM and aftermarket picture",
+          "paragraphs": [
+            "LIHE Precision wrote this guide and sells aftermarket tooling, so it has a commercial interest in the comparison; treat its own figures as supplier claims to verify, not as neutral benchmarks. The figures below are published on lihe-preform.com and are limited to those that matter when parts on an existing machine are replaced or converted."
+          ],
+          "list": [
+            "Conversion parts: LIHE states that its conversion parts are 100% interchangeable for Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps and Corvaglia systems. Check that statement on your own mold with the swap procedure above.",
+            "Replacement parts can be produced from a customer’s existing Husky, SACMI or Otto parts, with a published lead time of 4 weeks. Agree in advance whether the new part copies the sample or is corrected to nominal dimensions.",
+            "Complete molds: PET preform molds are offered from 32 to 160 cavities for HUSKY, NETSTAL, SIPA, KATA and other machines. This is relevant when the choice is between a complete OEM mold and a complete aftermarket mold rather than between single parts.",
+            "Hot runner parts: when an aftermarket source is considered for the hot half, LIHE lists nozzle tips, valve pins, heaters and seals as replacement items and also refurbishes existing hot runners. LIHE’s Husky Ultra-type hot runners carry a 3-year leakage-proof guarantee; other warranty terms are not published and have to be read in the quotation.",
+            "Dimensional evidence: an in-house Zeiss CMM lab, with validation and inspection reports available on request. Ask for the report on the parts you are actually buying."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Does aftermarket mean a lower-quality mold?",
+          "answer": "No. Quality must be established from the specification, machining and inspection evidence, followed by the agreed production and package tests. The supply label does not determine those results."
+        },
+        {
+          "question": "Does OEM mean automatic compatibility?",
+          "answer": "Confirm the quoted configuration even with the original supplier. Installed machines and tooling can have later changes, and the new assembly must match the actual configuration that will run at the plant."
+        },
+        {
+          "question": "Is a component replacement the same as replacing a mold?",
+          "answer": "No. Record which parts remain in service and which are new. The combined assembly needs interface checks and acceptance even when only selected components are supplied."
+        },
+        {
+          "question": "Can the existing warranty be assumed to cover a conversion?",
+          "answer": "Do not assume that. Ask the responsible suppliers to state the applicable terms for the specific project. No general warranty conclusion is made here."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Wikipedia — injection moulding",
+          "url": "https://en.wikipedia.org/wiki/Injection_moulding"
+        },
+        {
+          "label": "Wikipedia — hot runner",
+          "url": "https://en.wikipedia.org/wiki/Hot_runner"
+        },
+        {
+          "label": "SIPA — PET preform injection moulds and tooling",
+          "url": "https://sipasolutions.com/products/moulds/preform-tooling"
         }
       ]
     },

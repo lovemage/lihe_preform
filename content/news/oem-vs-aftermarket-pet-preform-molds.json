@@ -1,0 +1,439 @@
+{
+  "slug": "oem-vs-aftermarket-pet-preform-molds",
+  "questionId": "q105",
+  "date": "2026-09-07",
+  "relatedProducts": [
+    19,
+    34,
+    40
+  ],
+  "images": {
+    "hero": "/images/news/oem-vs-aftermarket-pet-preform-molds-hero.webp",
+    "detail": "/images/news/oem-vs-aftermarket-pet-preform-molds-detail.webp",
+    "og": "/images/news/oem-vs-aftermarket-pet-preform-molds-hero-og.jpg"
+  },
+  "sources": [
+    {
+      "label": "Wikipedia — injection moulding",
+      "url": "https://en.wikipedia.org/wiki/Injection_moulding"
+    },
+    {
+      "label": "Wikipedia — hot runner",
+      "url": "https://en.wikipedia.org/wiki/Hot_runner"
+    },
+    {
+      "label": "SIPA — PET preform injection moulds and tooling",
+      "url": "https://sipasolutions.com/products/moulds/preform-tooling"
+    }
+  ],
+  "locales": {
+    "en": {
+      "category": "Technical Insights",
+      "title": "What's the difference between OEM and aftermarket PET preform molds for beverage packaging?",
+      "summary": "Compare OEM and aftermarket PET preform molds by interface ownership, validation, service and included scope before deciding how to replace or convert tooling.",
+      "heroAlt": "Illustrative comparison of two unbranded PET preform mold assemblies",
+      "detailAlt": "Illustrative matching PET mold inserts and interface components",
+      "sections": [
+        {
+          "heading": "The difference is the supply relationship and agreed scope",
+          "paragraphs": [
+            "An OEM mold is supplied through the original equipment manufacturer’s offering; an aftermarket mold or component is supplied for an existing equipment platform through another supply route. Neither label by itself establishes part quality, compatibility, price or warranty. Choose between them by confirming the exact interfaces, the parties responsible for integration and the evidence required to accept the converted or replacement tool."
+          ]
+        },
+        {
+          "heading": "OEM and aftermarket routes compared",
+          "table": {
+            "head": [
+              "Dimension",
+              "OEM route",
+              "Aftermarket route"
+            ],
+            "rows": [
+              [
+                "Specification",
+                "Confirm the original system configuration",
+                "Confirm actual machine and tool interfaces"
+              ],
+              [
+                "Design information",
+                "Ask which controlled drawings are supplied",
+                "Provide authorized drawings or measurements"
+              ],
+              [
+                "Integration",
+                "Define the machine supplier’s responsibility",
+                "Agree responsibility across suppliers"
+              ],
+              [
+                "Replacement scope",
+                "Check complete assemblies and options",
+                "Distinguish components, conversion and full mold"
+              ],
+              [
+                "Acceptance",
+                "Agree factory and site testing",
+                "Agree the same required test conditions"
+              ],
+              [
+                "Service",
+                "Confirm the actual service package",
+                "Confirm parts, diagnostics and access"
+              ],
+              [
+                "Warranty",
+                "Read the quoted terms for this project",
+                "Read the quoted terms for this project"
+              ],
+              [
+                "Cost",
+                "Compare included equipment and services",
+                "Compare the equivalent scope and qualification"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "A compatible replacement needs a complete interface review",
+          "list": [
+            "Separate a complete mold replacement from a component substitution. Replacing a neck ring, core or hot-runner nozzle changes a narrower assembly, but that assembly still interacts with cooling, alignment and neighboring parts. Document the exact combination that will operate after the change.",
+            "Use the current machine and mold configuration as the baseline. A drawing from the original installation can miss later modifications. Ask who will measure unresolved interfaces and who will approve the final dimensions before the new supplier begins machining.",
+            "Keep material, surface finish, heat treatment and inspection requirements in the specification where applicable. Interchangeability should be demonstrated against approved dimensions and function. A part that can be installed is not automatically a part that produces an acceptable preform.",
+            "Review access to controlled design information and the permitted supply scope. Do not assume the replacement supplier can obtain original proprietary drawings. Agree an authorized technical basis for the work, including measurements or customer-provided parts when necessary."
+          ]
+        },
+        {
+          "heading": "How to choose for a beverage packaging plant",
+          "list": [
+            "An established original supplier may be useful when the purchase includes machine upgrades or one coordinated system responsibility. Confirm what the quoted package actually includes; the OEM label does not automatically cover every utility, format part or bottle test.",
+            "An alternative tooling route may be useful for targeted replacement parts, a neck conversion or a mold retrofit. Check the engineering resources available at the plant to coordinate the suppliers. If no party owns integration, the apparent purchasing convenience can disappear during commissioning.",
+            "LIHE publishes conversion and replacement components for existing platforms. It should therefore be assessed as a tooling supplier, with the exact scope confirmed before ordering. It does not automatically become the original machine supplier or inherit that supplier’s service obligations.",
+            "Evaluate the cost of qualification, downtime, spares and corrective work alongside the purchase quotation. No verified evidence supports assuming that every aftermarket option is cheaper or every OEM option performs better. Apply the same acceptance criteria to the production task."
+          ]
+        },
+        {
+          "heading": "Evidence that shows what a part really is",
+          "list": [
+            "Start from the installed baseline. Record the machine model and serial number, the mold and hot-half configuration and every change made since commissioning. An OEM-versus-aftermarket comparison only means something when both candidates are judged against the configuration that runs today, not the one shown in the original manual.",
+            "Ask each supplier to state the origin of the part in writing. An original part should carry the equipment maker’s part number and revision. An aftermarket part should carry its maker’s own drawing number and a statement of which original part or dimensions it replaces. A part with neither cannot be traced when you need to reorder it.",
+            "Find out the technical basis of an aftermarket part. It may be made from authorized drawings, from measurements of your current parts or from a sample you send. Each basis carries a different risk: a worn sample reproduces its wear unless the supplier corrects it to nominal dimensions that you have approved.",
+            "Request material and heat-treatment records, the surface-finish requirement and a dimensional report tied to the drawing revision. The report should list measured values for critical features such as neck-ring tapers, core alignment diameters and nozzle seats, rather than a single pass stamp.",
+            "Look for a physical swap test. Fitting the new part in a known cavity position and running it beside the existing parts is the most direct proof that it is interchangeable in function, not only in fit. Labels, packaging and catalogue names prove neither."
+          ]
+        },
+        {
+          "heading": "Qualify a non-original part against the one it replaces",
+          "steps": [
+            "Record a reference run with the existing parts before anything is changed. Note preform weight, the key neck dimensions, gate appearance and reject counts for the cavities that will receive new parts, so later results have a baseline from the same machine and resin.",
+            "Inspect the incoming parts before installation. Compare the supplier’s dimensional report with your own check of a few critical features, and confirm that the part number, drawing revision and quantity match the purchase order.",
+            "Install the replacement parts in identified cavities and log their positions. Molds that mix original and aftermarket components are common, and the log is what links a later defect to a particular part source.",
+            "Run the mold at its normal production cycle and compare the converted cavities with the untouched ones. Differences in weight, neck dimensions, gate vestige or sticking show up more clearly side by side than against a drawing alone.",
+            "Blow and cap preforms from the converted cavities and check sealing, neck fit and wall distribution in the bottle. File the results with the part number so the next order is placed against the same verified revision."
+          ]
+        },
+        {
+          "heading": "Where LIHE fits in the OEM and aftermarket picture",
+          "paragraphs": [
+            "LIHE Precision wrote this guide and sells aftermarket tooling, so it has a commercial interest in the comparison; treat its own figures as supplier claims to verify, not as neutral benchmarks. The figures below are published on lihe-preform.com and are limited to those that matter when parts on an existing machine are replaced or converted."
+          ],
+          "list": [
+            "Conversion parts: LIHE states that its conversion parts are 100% interchangeable for Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps and Corvaglia systems. Check that statement on your own mold with the swap procedure above.",
+            "Replacement parts can be produced from a customer’s existing Husky, SACMI or Otto parts, with a published lead time of 4 weeks. Agree in advance whether the new part copies the sample or is corrected to nominal dimensions.",
+            "Complete molds: PET preform molds are offered from 32 to 160 cavities for HUSKY, NETSTAL, SIPA, KATA and other machines. This is relevant when the choice is between a complete OEM mold and a complete aftermarket mold rather than between single parts.",
+            "Hot runner parts: when an aftermarket source is considered for the hot half, LIHE lists nozzle tips, valve pins, heaters and seals as replacement items and also refurbishes existing hot runners. LIHE’s Husky Ultra-type hot runners carry a 3-year leakage-proof guarantee; other warranty terms are not published and have to be read in the quotation.",
+            "Dimensional evidence: an in-house Zeiss CMM lab, with validation and inspection reports available on request. Ask for the report on the parts you are actually buying."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Does aftermarket mean a lower-quality mold?",
+          "answer": "No. Quality must be established from the specification, machining and inspection evidence, followed by the agreed production and package tests. The supply label does not determine those results."
+        },
+        {
+          "question": "Does OEM mean automatic compatibility?",
+          "answer": "Confirm the quoted configuration even with the original supplier. Installed machines and tooling can have later changes, and the new assembly must match the actual configuration that will run at the plant."
+        },
+        {
+          "question": "Is a component replacement the same as replacing a mold?",
+          "answer": "No. Record which parts remain in service and which are new. The combined assembly needs interface checks and acceptance even when only selected components are supplied."
+        },
+        {
+          "question": "Can the existing warranty be assumed to cover a conversion?",
+          "answer": "Do not assume that. Ask the responsible suppliers to state the applicable terms for the specific project. No general warranty conclusion is made here."
+        }
+      ]
+    },
+    "ru": {
+      "category": "Технические статьи",
+      "title": "В чём разница между оригинальными и альтернативными формами для ПЭТ-преформ в упаковке напитков?",
+      "summary": "Сравните оригинальные и альтернативные формы по ответственности за интерфейс, валидации, сервису и составу поставки до замены или конверсии оснастки.",
+      "heroAlt": "Иллюстрация сравнения двух форм для ПЭТ-преформ без указания марки",
+      "detailAlt": "Иллюстрация сопрягаемых вкладышей и интерфейсных компонентов формы ПЭТ",
+      "sections": [
+        {
+          "heading": "Разница заключается в канале поставки и согласованном объёме",
+          "paragraphs": [
+            "Оригинальная форма OEM поставляется в рамках предложения изготовителя исходного оборудования; альтернативная форма или компонент поступает для существующей платформы по другому каналу. Само обозначение не доказывает качество, совместимость, цену или гарантию. Выбирайте маршрут по точным интерфейсам, ответственности за интеграцию и доказательствам, необходимым для приёмки переделанной или заменённой оснастки."
+          ]
+        },
+        {
+          "heading": "Сравнение оригинального и альтернативного маршрутов",
+          "table": {
+            "head": [
+              "Параметр",
+              "Маршрут OEM",
+              "Альтернативный маршрут"
+            ],
+            "rows": [
+              [
+                "Спецификация",
+                "Подтвердить исходную конфигурацию",
+                "Проверить фактические интерфейсы"
+              ],
+              [
+                "Конструкторские данные",
+                "Уточнить передачу контролируемых чертежей",
+                "Предоставить разрешённые чертежи или измерения"
+              ],
+              [
+                "Интеграция",
+                "Определить обязанности изготовителя машины",
+                "Согласовать обязанности разных поставщиков"
+              ],
+              [
+                "Объём замены",
+                "Проверить полные узлы и опции",
+                "Разделить детали, конверсию и полную форму"
+              ],
+              [
+                "Приёмка",
+                "Согласовать заводские и площадочные испытания",
+                "Установить одинаковые необходимые условия"
+              ],
+              [
+                "Сервис",
+                "Подтвердить конкретный пакет услуг",
+                "Подтвердить детали, диагностику и доступ"
+              ],
+              [
+                "Гарантия",
+                "Прочитать условия данного проекта",
+                "Прочитать условия данного проекта"
+              ],
+              [
+                "Затраты",
+                "Сопоставить оборудование и услуги",
+                "Сопоставить равный объём и квалификацию"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Совместимая замена требует полного анализа интерфейса",
+          "list": [
+            "Отделите полную замену формы от замены компонента. Горловинное кольцо, стержень или сопло меняют более узкий узел, но он взаимодействует с охлаждением, центровкой и соседними деталями. Документируйте точное сочетание компонентов после изменения.",
+            "Используйте фактическую конфигурацию машины и формы как базу. Чертёж исходной установки может не учитывать последующие изменения. Определите, кто измеряет неизвестные интерфейсы и утверждает размеры до начала обработки у нового поставщика.",
+            "Включите требования к материалу, поверхности, термообработке и контролю, когда они применимы. Взаимозаменяемость подтверждается по утверждённым размерам и функции. Возможность установить деталь не означает автоматически получение пригодной преформы.",
+            "Проверьте доступ к контролируемой документации и допустимый состав поставки. Не предполагайте доступ нового изготовителя к исходным закрытым чертежам. Согласуйте разрешённую техническую основу работы, включая измерения или предоставленные заказчиком детали."
+          ]
+        },
+        {
+          "heading": "Как выбрать маршрут для упаковки напитков",
+          "list": [
+            "Исходный поставщик может быть полезен при покупке модернизации машины или единой ответственности за систему. Подтвердите фактический состав предложения: обозначение OEM не включает автоматически все инженерные ресурсы, форматные детали и испытания бутылки.",
+            "Альтернативный маршрут подходит для рассмотрения при целевой замене деталей, конверсии горловины или переделке формы. Проверьте возможности заводской команды согласовывать поставщиков. Если никто не отвечает за интеграцию, удобство закупки может исчезнуть при запуске.",
+            "LIHE публикует компоненты конверсии и замены для существующих платформ. Оценивайте компанию как поставщика оснастки и подтверждайте объём до заказа. Она не становится автоматически изготовителем исходной машины и не наследует его сервисные обязанности.",
+            "Вместе с предложением учитывайте квалификацию, простои, запасные части и исправления. Нет проверенного основания считать любую альтернативную форму дешевле, а любую оригинальную — производительнее. Применяйте одинаковые критерии приёмки для производственной задачи."
+          ]
+        },
+        {
+          "heading": "Какие доказательства показывают, что представляет собой деталь",
+          "list": [
+            "Начните с фактической базовой конфигурации. Запишите модель и серийный номер машины, конфигурацию формы и горячей половины, а также все изменения, внесённые после ввода в эксплуатацию. Сравнение оригинальных и альтернативных деталей имеет смысл только тогда, когда оба варианта оцениваются по той конфигурации, которая работает сегодня, а не по исходному руководству.",
+            "Попросите каждого поставщика письменно указать происхождение детали. Оригинальная деталь должна иметь номер и ревизию изготовителя оборудования. Альтернативная деталь должна иметь собственный номер чертежа изготовителя и указание, какую оригинальную деталь или какие размеры она заменяет. Деталь без этих данных невозможно отследить при повторном заказе.",
+            "Выясните техническую основу альтернативной детали. Её могут изготовить по разрешённым чертежам, по измерениям ваших текущих деталей или по присланному образцу. У каждого варианта свой риск: изношенный образец воспроизводит износ, если поставщик не приводит размеры к номинальным значениям, утверждённым вами.",
+            "Запросите данные о материале и термообработке, требования к шероховатости поверхности и протокол измерений, привязанный к ревизии чертежа. В протоколе должны быть измеренные значения критичных элементов — конусов горловинных колец, центрирующих диаметров стержней, посадочных мест сопел, — а не только отметка «годен».",
+            "Ищите физическую проверку заменой. Установка новой детали в известное гнездо и работа рядом с существующими деталями — самое прямое доказательство взаимозаменяемости по функции, а не только по посадке. Маркировка, упаковка и каталожные названия не доказывают ни того, ни другого."
+          ]
+        },
+        {
+          "heading": "Квалифицируйте неоригинальную деталь относительно заменяемой",
+          "steps": [
+            "До любых изменений проведите эталонный прогон с существующими деталями. Зафиксируйте массу преформы, ключевые размеры горловины, вид литника и количество брака по гнёздам, которые получат новые детали, чтобы последующие результаты сравнивались с базой на той же машине и том же сырье.",
+            "Проверьте поступившие детали до установки. Сравните протокол измерений поставщика с собственной проверкой нескольких критичных элементов и убедитесь, что номер детали, ревизия чертежа и количество соответствуют заказу.",
+            "Устанавливайте сменные детали в обозначенные гнёзда и ведите журнал их расположения. Формы, в которых сочетаются оригинальные и альтернативные компоненты, встречаются часто, и именно журнал позволяет связать будущий дефект с конкретным источником деталей.",
+            "Запустите форму на обычном производственном цикле и сравните переоснащённые гнёзда с нетронутыми. Различия в массе, размерах горловины, следе литника или залипании заметнее при прямом сравнении, чем при сверке только с чертежом.",
+            "Выдуйте и укупорьте преформы из переоснащённых гнёзд, проверьте герметичность, посадку горловины и распределение стенки бутылки. Сохраните результаты вместе с номером детали, чтобы следующий заказ размещался по той же проверенной ревизии."
+          ]
+        },
+        {
+          "heading": "Место LIHE в выборе между оригиналом и альтернативой",
+          "paragraphs": [
+            "Это руководство написано компанией LIHE Precision, которая продаёт альтернативную оснастку и поэтому коммерчески заинтересована в сравнении; её собственные показатели следует рассматривать как заявления поставщика, требующие проверки, а не как нейтральный ориентир. Приведённые ниже данные опубликованы на lihe-preform.com и ограничены теми, что важны при замене или конверсии деталей на существующей машине."
+          ],
+          "list": [
+            "Детали для конверсии: по заявлению LIHE, её детали для конверсии на 100% взаимозаменяемы для систем Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps и Corvaglia. Проверьте это на своей форме по описанной выше процедуре замены.",
+            "Запасные части могут изготавливаться по существующим деталям Husky, SACMI или Otto заказчика; опубликованный срок поставки — 4 недели. Заранее согласуйте, копирует ли новая деталь образец или приводится к номинальным размерам.",
+            "Полные формы: пресс-формы для ПЭТ-преформ предлагаются на 32–160 гнёзд для машин HUSKY, NETSTAL, SIPA, KATA и других. Это важно, если выбор идёт между полной оригинальной и полной альтернативной формой, а не между отдельными деталями.",
+            "Детали горячего канала: сменные наконечники сопел, запорные иглы, нагреватели и уплотнения, а также восстановление существующих горячеканальных систем. На горячие каналы LIHE типа Husky Ultra даётся 3-летняя гарантия от протечек; другие гарантийные условия не опубликованы и должны быть указаны в коммерческом предложении.",
+            "Подтверждение размеров: собственная лаборатория с КИМ Zeiss; протоколы валидации и контроля предоставляются по запросу. Запрашивайте протокол именно на те детали, которые покупаете."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Альтернативная форма означает худшее качество?",
+          "answer": "Нет. Качество подтверждают спецификация, данные обработки и контроля, затем согласованные производственные испытания и проверки упаковки. Обозначение канала поставки не определяет результат."
+        },
+        {
+          "question": "OEM означает автоматическую совместимость?",
+          "answer": "Подтвердите конфигурацию предложения даже у исходного изготовителя. Машина и форма могли измениться после установки. Новый узел должен соответствовать фактической конфигурации производства."
+        },
+        {
+          "question": "Замена компонента равна замене всей формы?",
+          "answer": "Нет. Укажите остающиеся и новые детали. Собранный узел требует проверки интерфейсов и приёмки даже при поставке только отдельных компонентов."
+        },
+        {
+          "question": "Можно считать старую гарантию действующей после конверсии?",
+          "answer": "Не предполагайте этого. Ответственные поставщики должны указать условия конкретного проекта. Общий вывод о гарантии в этой статье не делается."
+        }
+      ]
+    },
+    "es": {
+      "category": "Artículos técnicos",
+      "title": "¿Qué diferencia hay entre moldes OEM y alternativos de preforma PET para envases de bebidas?",
+      "summary": "Compare moldes OEM y alternativos por responsabilidad de interfaz, validación, servicio y alcance incluido antes de sustituir o convertir un molde.",
+      "heroAlt": "Comparación ilustrativa de dos conjuntos de moldes PET sin marca",
+      "detailAlt": "Insertos y componentes ilustrativos de interfaz de moldes PET",
+      "sections": [
+        {
+          "heading": "La diferencia está en la relación de suministro y el alcance",
+          "paragraphs": [
+            "Un molde OEM se suministra a través de la oferta del fabricante original del equipo; un molde o componente alternativo se suministra para una plataforma existente por otra vía. Ninguna etiqueta demuestra por sí sola calidad, compatibilidad, precio o garantía. Elija confirmando las interfaces exactas, las partes responsables de integrar y la evidencia necesaria para aceptar el molde convertido o sustituido."
+          ]
+        },
+        {
+          "heading": "Comparación de las vías OEM y alternativa",
+          "table": {
+            "head": [
+              "Dimensión",
+              "Vía OEM",
+              "Vía alternativa"
+            ],
+            "rows": [
+              [
+                "Especificación",
+                "Confirmar configuración original del sistema",
+                "Confirmar interfaces reales de máquina y molde"
+              ],
+              [
+                "Datos de diseño",
+                "Preguntar qué planos controlados se entregan",
+                "Aportar planos autorizados o mediciones"
+              ],
+              [
+                "Integración",
+                "Definir responsabilidad del proveedor original",
+                "Acordar responsabilidades entre proveedores"
+              ],
+              [
+                "Alcance de sustitución",
+                "Comprobar conjuntos completos y opciones",
+                "Separar componentes, conversión y molde completo"
+              ],
+              [
+                "Aceptación",
+                "Acordar pruebas en fábrica y planta",
+                "Acordar las mismas condiciones requeridas"
+              ],
+              [
+                "Servicio",
+                "Confirmar el paquete realmente contratado",
+                "Confirmar piezas, diagnóstico y acceso"
+              ],
+              [
+                "Garantía",
+                "Leer condiciones del proyecto concreto",
+                "Leer condiciones del proyecto concreto"
+              ],
+              [
+                "Coste",
+                "Comparar equipo y servicios incluidos",
+                "Comparar alcance y cualificación equivalentes"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Una sustitución compatible necesita revisar toda la interfaz",
+          "list": [
+            "Separe la sustitución completa del molde de un cambio de componente. Cambiar un anillo de cuello, un núcleo o una boquilla afecta a un conjunto más limitado, pero este sigue interactuando con refrigeración, alineación y piezas vecinas. Documente la combinación exacta que funcionará después.",
+            "Utilice como referencia la configuración actual de máquina y molde. Un plano de la instalación original puede omitir modificaciones posteriores. Determine quién medirá las interfaces pendientes y quién aprobará las dimensiones antes de que el nuevo fabricante empiece a mecanizar.",
+            "Incluya material, acabado superficial, tratamiento térmico e inspección en la especificación cuando correspondan. La intercambiabilidad debe demostrarse frente a dimensiones y funcionamiento aprobados. Que una pieza pueda instalarse no significa que fabrique una preforma aceptable.",
+            "Revise el acceso a información controlada y el alcance de suministro permitido. No suponga que el proveedor alternativo obtiene planos originales propietarios. Acuerde una base técnica autorizada, incluyendo mediciones o piezas aportadas por el cliente cuando sea necesario."
+          ]
+        },
+        {
+          "heading": "Cómo elegir para una planta de envases de bebidas",
+          "list": [
+            "El proveedor original puede resultar útil cuando la compra incluye mejoras de máquina o una responsabilidad coordinada del sistema. Confirme el paquete concreto; la etiqueta OEM no cubre automáticamente todos los servicios, piezas de formato o ensayos de botella.",
+            "La vía alternativa puede ser útil para recambios específicos, conversión de cuello o adaptación de molde. Compruebe los recursos de ingeniería de la planta para coordinar proveedores. Si nadie es responsable de integrar, la aparente comodidad de compra puede desaparecer en la puesta en marcha.",
+            "LIHE publica componentes de conversión y sustitución para plataformas existentes. Evalúelo como proveedor de moldes y confirme el alcance exacto antes del pedido. No se convierte automáticamente en fabricante de la máquina original ni hereda sus obligaciones de servicio.",
+            "Evalúe cualificación, paradas, repuestos y correcciones junto con la cotización. No hay evidencia verificada para asumir que toda opción alternativa es más barata o toda opción OEM funciona mejor. Aplique los mismos criterios de aceptación a la tarea productiva."
+          ]
+        },
+        {
+          "heading": "La evidencia que muestra qué es realmente una pieza",
+          "list": [
+            "Parta de la configuración instalada. Registre el modelo y el número de serie de la máquina, la configuración del molde y de la mitad caliente y cada cambio realizado desde la puesta en marcha. Comparar piezas OEM y alternativas solo tiene sentido si ambas opciones se juzgan frente a la configuración que funciona hoy, no frente a la del manual original.",
+            "Pida a cada proveedor que declare por escrito el origen de la pieza. Una pieza original debe llevar el número y la revisión del fabricante del equipo. Una pieza alternativa debe llevar el número de plano de su propio fabricante y una indicación de qué pieza original o qué dimensiones sustituye. Una pieza sin ninguno de los dos datos no se puede rastrear cuando haya que volver a pedirla.",
+            "Averigüe la base técnica de la pieza alternativa. Puede fabricarse a partir de planos autorizados, de mediciones de sus piezas actuales o de una muestra que usted envíe. Cada base implica un riesgo distinto: una muestra desgastada reproduce su desgaste, salvo que el proveedor la corrija a las dimensiones nominales que usted haya aprobado.",
+            "Solicite los registros de material y tratamiento térmico, el requisito de acabado superficial y un informe dimensional vinculado a la revisión del plano. El informe debe recoger los valores medidos de las características críticas, como los conos del anillo de cuello, los diámetros de centrado del núcleo y los asientos de boquilla, y no solo un sello de conformidad.",
+            "Busque una prueba física de intercambio. Montar la pieza nueva en una posición de cavidad conocida y hacerla trabajar junto a las piezas existentes es la prueba más directa de que es intercambiable en función y no solo en ajuste. Las etiquetas, el embalaje y los nombres de catálogo no demuestran ninguna de las dos cosas."
+          ]
+        },
+        {
+          "heading": "Califique una pieza no original frente a la que sustituye",
+          "steps": [
+            "Antes de cambiar nada, haga una tirada de referencia con las piezas existentes. Anote el peso de la preforma, las dimensiones clave del cuello, el aspecto del punto de inyección y el número de rechazos en las cavidades que recibirán piezas nuevas, para que los resultados posteriores tengan una base de la misma máquina y la misma resina.",
+            "Inspeccione las piezas recibidas antes de montarlas. Compare el informe dimensional del proveedor con su propia comprobación de algunas características críticas y confirme que el número de pieza, la revisión del plano y la cantidad coinciden con el pedido.",
+            "Monte las piezas de sustitución en cavidades identificadas y lleve un registro de sus posiciones. Los moldes que combinan componentes originales y alternativos son habituales, y ese registro es lo que permite vincular un defecto posterior con un origen de pieza concreto.",
+            "Haga funcionar el molde con su ciclo normal de producción y compare las cavidades convertidas con las que no se han tocado. Las diferencias de peso, dimensiones del cuello, marca del punto de inyección o adherencia se ven con más claridad en una comparación directa que frente al plano solamente.",
+            "Sople y tape preformas de las cavidades convertidas y compruebe el sellado, el ajuste del cuello y la distribución de pared de la botella. Archive los resultados junto con el número de pieza para que el siguiente pedido se haga sobre la misma revisión verificada."
+          ]
+        },
+        {
+          "heading": "Dónde encaja LIHE entre lo original y lo alternativo",
+          "paragraphs": [
+            "Esta guía la ha escrito LIHE Precision, que vende utillaje alternativo y por tanto tiene un interés comercial en la comparación; considere sus propias cifras como declaraciones de proveedor que hay que verificar, no como referencias neutrales. Las cifras siguientes están publicadas en lihe-preform.com y se limitan a las que importan cuando se sustituyen o convierten piezas en una máquina existente."
+          ],
+          "list": [
+            "Piezas de conversión: LIHE declara que sus piezas de conversión son 100% intercambiables para sistemas Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps y Corvaglia. Compruebe esa declaración en su propio molde con el procedimiento de intercambio descrito arriba.",
+            "Las piezas de repuesto pueden fabricarse a partir de las piezas Husky, SACMI u Otto existentes del cliente, con un plazo publicado de 4 semanas. Acuerde de antemano si la pieza nueva copia la muestra o se corrige a las dimensiones nominales.",
+            "Moldes completos: se ofrecen moldes de preforma PET de 32 a 160 cavidades para máquinas HUSKY, NETSTAL, SIPA, KATA y otras. Esto importa cuando la elección es entre un molde OEM completo y un molde alternativo completo, y no entre piezas sueltas.",
+            "Piezas de canal caliente: puntas de boquilla, agujas de válvula, resistencias y juntas de repuesto, además del reacondicionamiento de canales calientes existentes. Los canales calientes de LIHE de tipo Husky Ultra tienen una garantía de 3 años contra fugas; otras condiciones de garantía no están publicadas y deben leerse en la cotización.",
+            "Evidencia dimensional: laboratorio propio con máquina de medición por coordenadas Zeiss, con informes de validación e inspección disponibles bajo petición. Pida el informe de las piezas que realmente va a comprar."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Alternativo significa menor calidad?",
+          "answer": "No. La calidad se demuestra con especificación, mecanizado e inspección, seguidos de pruebas de producción y envase acordadas. La etiqueta de suministro no determina esos resultados."
+        },
+        {
+          "question": "¿OEM significa compatibilidad automática?",
+          "answer": "Confirme la configuración incluso con el proveedor original. La máquina y el molde pueden haberse modificado y el nuevo conjunto debe corresponder al que funcionará realmente en planta."
+        },
+        {
+          "question": "¿Cambiar un componente equivale a sustituir todo el molde?",
+          "answer": "No. Registre qué piezas siguen operativas y cuáles son nuevas. El conjunto necesita comprobaciones de interfaz y aceptación aunque se suministren solo componentes seleccionados."
+        },
+        {
+          "question": "¿Puede suponerse que la garantía existente cubre la conversión?",
+          "answer": "No lo suponga. Pida a los proveedores responsables las condiciones aplicables al proyecto concreto. Aquí no se formula una conclusión general sobre garantías."
+        }
+      ]
+    }
+  }
+}

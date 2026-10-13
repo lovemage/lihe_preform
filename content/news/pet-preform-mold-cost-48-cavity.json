@@ -1,0 +1,451 @@
+{
+  "slug": "pet-preform-mold-cost-48-cavity",
+  "questionId": "q109",
+  "date": "2026-10-03",
+  "relatedProducts": [
+    19,
+    27,
+    30
+  ],
+  "images": {
+    "hero": "/images/news/pet-preform-mold-cost-48-cavity-hero.webp",
+    "detail": "/images/news/pet-preform-mold-cost-48-cavity-detail.webp",
+    "og": "/images/news/pet-preform-mold-cost-48-cavity-hero-og.jpg"
+  },
+  "sources": [
+    {
+      "label": "Wikipedia — injection moulding",
+      "url": "https://en.wikipedia.org/wiki/Injection_moulding"
+    },
+    {
+      "label": "Wikipedia — hot runner",
+      "url": "https://en.wikipedia.org/wiki/Hot_runner"
+    },
+    {
+      "label": "SIPA — PET preform injection moulds and tooling",
+      "url": "https://sipasolutions.com/products/moulds/preform-tooling"
+    }
+  ],
+  "locales": {
+    "en": {
+      "category": "Technical Insights",
+      "title": "What does a new PET preform mold cost for a 48-cavity beverage line?",
+      "summary": "Understand the quotation scope and cost drivers for a new 48-cavity PET preform mold without relying on unsupported generic prices.",
+      "heroAlt": "Illustrative PET preform mold, hot runner and samples on an inspection bench",
+      "detailAlt": "Illustrative precision mold inserts, nozzles and cooling connectors",
+      "sections": [
+        {
+          "heading": "An exact price requires the complete project specification",
+          "paragraphs": [
+            "A 48-cavity PET preform mold is an injection tool with the specified number of forming cavities; it is not a complete beverage production line. Its exact price requires a quotation for the machine, preform design, hot-runner scope, materials and acceptance work, so no unsupported price or price range is given here. Start by separating a complete new tool from a cold-half replacement or a conversion using existing assemblies."
+          ]
+        },
+        {
+          "heading": "Cost drivers to put into the quotation request",
+          "table": {
+            "head": [
+              "Driver",
+              "Specify before quotation",
+              "Why the scope changes"
+            ],
+            "rows": [
+              [
+                "Cavitation",
+                "The required layout and active cavity plan",
+                "The machine and mold must support the layout"
+              ],
+              [
+                "Hot runner",
+                "New hot half, retained system or refurbishment",
+                "Included assemblies differ substantially"
+              ],
+              [
+                "Tool materials",
+                "Steel, shaping components and treatment requirements",
+                "Manufacture and inspection depend on specification"
+              ],
+              [
+                "Neck finish",
+                "Approved dimensions and closure interface",
+                "Neck-ring and handling requirements differ"
+              ],
+              [
+                "Machine platform",
+                "Model, interface and existing modifications",
+                "Fit and conversion work are project specific"
+              ],
+              [
+                "Cooling",
+                "Circuit design and plant utilities",
+                "Trial and production conditions must align"
+              ],
+              [
+                "Validation",
+                "Inspection, factory trial and bottle tests",
+                "A tool-only scope omits qualification work"
+              ],
+              [
+                "Delivery",
+                "Approval, manufacturing and installation milestones",
+                "Transport and commissioning have separate scope"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Define what “new mold” includes",
+          "list": [
+            "Request a bill of supply identifying the cold half, hot half, mold base, controller and any conversion parts. A quotation for a cold half that reuses an existing hot runner cannot be compared directly with a complete new mold without showing the retained equipment.",
+            "Describe the preform and its finished bottle rather than only the requested cavity count. Neck geometry, support-ring dimensions and preform wall distribution influence the shaping components and the necessary testing. Send the approved drawing revision and identify any proposed lightweighting.",
+            "Confirm how the tool interfaces with the installed machine and handling equipment. Ask whether cooling connectors, electrical connections, take-out parts or post-mold cooling need changes. Include the cost scope of those interfaces even if another supplier provides the parts.",
+            "Identify the deliverables required at acceptance: samples, inspection reports, process settings, maintenance instructions and spare-part information. These help compare a usable production package rather than two quotations whose final amounts cover different obligations."
+          ]
+        },
+        {
+          "heading": "Compare a new tool with reuse only when both routes are feasible",
+          "list": [
+            "A complete new tool may be required if the current mold is unsuitable for the target design or machine configuration. Establish that technical boundary before asking for a repair or conversion offer. Reuse is a project option, not a requirement to preserve every existing assembly.",
+            "For a conversion, document the condition and remaining function of the assemblies retained. Require a clear interface between the new and existing components, and ask who is responsible for diagnosing a defect that crosses that interface.",
+            "Do not apply a published retrofit ratio to a new mold as though it were a currency quotation. LIHE’s percentage comparison concerns suitable lightweighting retrofits; the new-tool price still needs its own scope and quotation.",
+            "Keep production interruption and qualification in the comparison. The lowest initial amount does not necessarily provide the needed complete tool, and a nominal delivery date does not establish the date at which the plant can release approved bottles."
+          ]
+        },
+        {
+          "heading": "Line items a 48-cavity quotation should list separately",
+          "list": [
+            "Cold half for 48 cavities: cores, cavity inserts, neck rings, lock rings and the neck-ring actuation hardware. Ask for these to be priced per cavity set, so that a damaged position later becomes a spare-part order rather than a decision about the whole tool.",
+            "Hot half: manifold, 48 nozzles, heaters, thermocouples and, for a valve-gate design, the valve pins and their actuation. State whether a temperature controller is part of the offer or whether the plant’s existing controller will be connected to the new hot half.",
+            "Mold base and plates matched to the press. The same 48-cavity layout may need different plate dimensions, tie-bar clearance or ejector stroke on two machine models, so name the exact injection machine and its modifications in the request.",
+            "Spare-part package: a recommended set of wear parts such as neck-ring halves, gate inserts and nozzle tips. An offer without spares looks lower on paper but moves that spending into the first months of production, usually at shorter notice.",
+            "Engineering and documentation: preform design review, cooling or flow analysis where requested, final drawings and the parts list. These items are often bundled without a line of their own; ask for them to be named so they cannot quietly disappear during negotiation.",
+            "Factory trial and delivery terms: trial resin, sampling, packing, freight and insurance. Ask in writing who pays for a second factory trial if the first one does not meet the agreed criteria, because that question is far easier to settle before the order."
+          ]
+        },
+        {
+          "heading": "How acceptance terms change the real cost of a 48-cavity tool",
+          "paragraphs": [
+            "In a 48-cavity mold, one weak position represents about 2% of the tool’s output, so the way acceptance treats individual cavities directly changes the plant’s cost per good preform. Write the following stages into the purchase order instead of leaving them for the delivery meeting."
+          ],
+          "steps": [
+            "Attach the acceptance document to the quotation itself. List the preform drawing revision, resin grade and drying conditions, the target machine and the criteria that each of the 48 cavities must meet. A criterion added after the tool is built usually returns as a change order.",
+            "Run the factory trial with all 48 cavities active and number every sample by its cavity. Measure weight, neck dimensions and gate quality position by position, and decide in advance how many out-of-tolerance cavities, if any, will stop the tool from shipping.",
+            "Calculate output from accepted preforms rather than from the dry-cycle figure. Count blocked cavities and start-up rejects, because a tool running 46 good cavities delivers noticeably less than the volume on which the quotation was compared.",
+            "Blow samples from each cavity group into the final bottle and check closure fit and the pressure or top-load behaviour the product requires. A defect that only appears after blowing costs far less to correct before the tool leaves the maker’s workshop.",
+            "Tie the final payment to site acceptance on the plant’s own machine, repeating the same per-cavity measurements after installation. Record every open point in the acceptance protocol with a named owner and a closing date."
+          ]
+        },
+        {
+          "heading": "Published LIHE information relevant to a 48-cavity order",
+          "paragraphs": [
+            "LIHE Precision is the publisher of this guide, and its own molds are among the options a buyer may ask to quote; the checklist above applies to LIHE in the same way as to any other supplier. The figures below are published on lihe-preform.com and are included only where they affect a 48-cavity purchase."
+          ],
+          "list": [
+            "Cavitation: LIHE lists PET preform molds from 32 to 160 cavities, so a 48-cavity tool lies inside the published range. Whether a particular press can carry it still depends on its clamp force, platen size and shot capacity.",
+            "Machine platforms: preform molds are offered for HUSKY, NETSTAL, SIPA, KATA and other machines. Give the exact machine model and any earlier modifications in the enquiry so that the mold base is quoted for the right press.",
+            "Hot runners: valve-gate systems for up to 144 preform cavities, published with a 3-year leakage-proof guarantee. Ask how that guarantee is worded in the contract for the specific 48-drop hot half being quoted.",
+            "Lead times: standard PET molds 8 weeks and pilot molds 20 days. Clarify whether the period starts at order, at deposit or at drawing approval, and add factory trials and transport on top.",
+            "Quality evidence: tooling is published as reaching CPK ≥ 1.33, measured in an in-house Zeiss CMM lab, with inspection reports available on request. Ask for the reports of your own cavity set rather than a sample from another project."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Why is cavity count insufficient for a price?",
+          "answer": "It does not specify the preform geometry, machine interfaces, hot-runner scope, mold materials or acceptance work. Those items determine what the supplier must engineer, manufacture and validate."
+        },
+        {
+          "question": "Is a cold-half quotation a complete-mold price?",
+          "answer": "Only if the quotation explicitly says so. Identify the hot half and other retained assemblies and compare the complete required equipment scope rather than the title of the offer."
+        },
+        {
+          "question": "Can the lightweighting retrofit percentage price a new mold?",
+          "answer": "No. It is a comparison for suitable retrofit projects, not a published currency price for new tooling. Request separate, comparable quotations for the technically feasible routes."
+        },
+        {
+          "question": "What should be fixed before ordering?",
+          "answer": "The approved preform and neck drawing, actual machine interface, supplied assemblies, resin and test specification, delivery milestones and responsible parties. Resolve omissions before releasing manufacture."
+        }
+      ]
+    },
+    "ru": {
+      "category": "Технические статьи",
+      "title": "Сколько стоит новая форма для ПЭТ-преформ на 48 гнёзд для линии напитков?",
+      "summary": "Разберитесь в составе предложения и факторах стоимости новой формы на 48 гнёзд без неподтверждённых общих цен.",
+      "heroAlt": "Иллюстрация формы преформ, горячеканальной системы и образцов на стенде",
+      "detailAlt": "Иллюстрация вкладышей формы, сопел и соединений охлаждения",
+      "sections": [
+        {
+          "heading": "Точная цена требует полной спецификации проекта",
+          "paragraphs": [
+            "Форма для ПЭТ-преформ на 48 гнёзд — литьевая оснастка с указанным числом формующих полостей, а не полная линия напитков. Точная цена требует предложения по машине, конструкции преформы, горячеканальной системе, материалам и приёмочным работам, поэтому неподтверждённая цена или диапазон здесь не приводятся. Сначала отделите полную новую форму от замены холодной половины или конверсии с сохранением существующих узлов."
+          ]
+        },
+        {
+          "heading": "Факторы стоимости в запросе предложения",
+          "table": {
+            "head": [
+              "Фактор",
+              "Что указать",
+              "Почему меняется объём"
+            ],
+            "rows": [
+              [
+                "Гнёзда",
+                "Расположение и план работающих гнёзд",
+                "Машина и форма должны поддерживать схему"
+              ],
+              [
+                "Горячеканальная система",
+                "Новая, сохраняемая или восстанавливаемая",
+                "Включённые узлы существенно различаются"
+              ],
+              [
+                "Материалы формы",
+                "Сталь, формующие детали и обработка",
+                "Изготовление и контроль зависят от требований"
+              ],
+              [
+                "Горловина",
+                "Утверждённые размеры и сопряжение крышки",
+                "Различаются кольца и детали обращения"
+              ],
+              [
+                "Машина",
+                "Модель, интерфейс и изменения",
+                "Совместимость и конверсия индивидуальны"
+              ],
+              [
+                "Охлаждение",
+                "Контуры и ресурсы площадки",
+                "Условия испытаний и производства согласуются"
+              ],
+              [
+                "Валидация",
+                "Контроль, заводская проба и бутылочные тесты",
+                "Поставка только формы не включает квалификацию"
+              ],
+              [
+                "Поставка",
+                "Этапы утверждения, изготовления и монтажа",
+                "Перевозка и запуск имеют отдельный состав"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Определите, что включает новая форма",
+          "list": [
+            "Запросите перечень поставки с холодной и горячей половинами, основанием, контроллером и деталями конверсии. Предложение холодной половины с существующей горячеканальной системой нельзя прямо сравнивать с полной новой формой без обозначения сохраняемого оборудования.",
+            "Опишите преформу и готовую бутылку, а не только количество гнёзд. Горловина, опорное кольцо и распределение стенки влияют на формообразующие детали и испытания. Передайте утверждённую ревизию и обозначьте планируемое облегчение.",
+            "Подтвердите интерфейсы установленной машины и устройств извлечения. Уточните изменения соединений охлаждения, электрики, деталей извлечения и охлаждения после формы. Включите состав затрат по этим интерфейсам, даже если детали предоставляет другая сторона.",
+            "Определите приёмочные материалы: образцы, отчёты контроля, настройки, инструкции обслуживания и сведения о запчастях. Это позволяет сравнить пригодный производственный комплект, а не суммы предложений с разными обязанностями."
+          ]
+        },
+        {
+          "heading": "Сравнивайте новую форму и повторное использование при их пригодности",
+          "list": [
+            "Полная новая форма может понадобиться при непригодности действующей оснастки для целевой конструкции или машины. Установите техническую границу до запроса ремонта или конверсии. Повторное использование — вариант проекта, а не обязанность сохранять любой старый узел.",
+            "При конверсии опишите состояние и сохраняемую функцию используемых узлов. Требуйте ясного интерфейса новых и старых компонентов и определите ответственность за поиск дефекта, затрагивающего этот интерфейс.",
+            "Не используйте опубликованное отношение стоимости переделки как денежное предложение новой формы. Процент LIHE относится к подходящим переделкам для облегчения. Новая форма по-прежнему требует собственного состава и коммерческого предложения.",
+            "Учитывайте остановку производства и квалификацию. Минимальная начальная сумма не обязательно включает нужный полный инструмент, а дата поставки не подтверждает дату выпуска утверждённых бутылок на заводе."
+          ]
+        },
+        {
+          "heading": "Позиции, которые коммерческое предложение на 48-гнёздную форму должно показывать отдельно",
+          "list": [
+            "Холодная половина на 48 гнёзд: знаки, матричные вставки, горловинные кольца, запорные кольца и механизм привода горловинных колец. Попросите указать цену по комплекту на одно гнездо, чтобы повреждённая позиция в будущем означала заказ запасной части, а не решение по всей форме.",
+            "Горячая половина: коллектор, 48 сопел, нагреватели, термопары, а для конструкции с запорными иглами — сами иглы и их привод. Уточните, входит ли в предложение контроллер температуры или к новой горячей половине будет подключён уже имеющийся на заводе контроллер.",
+            "Плита и основание формы под конкретный термопластавтомат. Одна и та же 48-гнёздная раскладка на двух моделях машин может потребовать разных размеров плит, зазора между колоннами или хода выталкивателя, поэтому указывайте в запросе точную модель машины и её доработки.",
+            "Комплект запасных частей: рекомендуемый набор быстроизнашивающихся деталей, например половинок горловинных колец, литниковых вставок и наконечников сопел. Предложение без запасных частей выглядит дешевле на бумаге, но переносит эти расходы на первые месяцы производства, обычно с более срочной поставкой.",
+            "Инженерные работы и документация: проверка конструкции преформы, анализ охлаждения или течения расплава по запросу, итоговые чертежи и перечень деталей. Эти позиции часто включают в пакет без отдельной строки; попросите назвать их явно, чтобы они не исчезли незаметно в ходе переговоров.",
+            "Заводское испытание и условия поставки: пробное сырьё, отбор образцов, упаковка, перевозка и страхование. Письменно уточните, кто оплачивает повторное заводское испытание, если первое не выполнит согласованные критерии: этот вопрос гораздо проще решить до заказа."
+          ]
+        },
+        {
+          "heading": "Как условия приёмки меняют реальную стоимость 48-гнёздной формы",
+          "paragraphs": [
+            "В 48-гнёздной форме одна слабая позиция составляет около 2% выпуска инструмента, поэтому то, как приёмка оценивает отдельные гнёзда, напрямую влияет на затраты завода в расчёте на одну годную преформу. Пропишите следующие этапы в договоре поставки, а не оставляйте их на встречу при отгрузке."
+          ],
+          "steps": [
+            "Приложите документ о приёмке непосредственно к коммерческому предложению. Укажите ревизию чертежа преформы, марку сырья и режим сушки, целевую машину и критерии, которым должно соответствовать каждое из 48 гнёзд. Критерий, добавленный после изготовления формы, обычно возвращается в виде дополнительного заказа на изменения.",
+            "Проведите заводское испытание со всеми 48 активными гнёздами и пронумеруйте каждый образец по его гнезду. Измерьте массу, размеры горловины и качество литника по каждой позиции и заранее решите, сколько гнёзд с отклонениями, если они вообще допустимы, блокируют отгрузку формы.",
+            "Рассчитывайте выпуск по принятым преформам, а не по времени холостого цикла. Учитывайте заглушённые гнёзда и брак при запуске: форма, на которой годные преформы дают только 46 гнёзд, выпускает заметно меньше объёма, на основании которого сравнивались предложения.",
+            "Выдуйте образцы из каждой группы гнёзд в окончательную бутылку и проверьте посадку колпачка, а также поведение при давлении или осевой нагрузке, которого требует продукт. Дефект, проявляющийся только после выдува, гораздо дешевле устранить до того, как форма покинет цех изготовителя.",
+            "Привяжите окончательный платёж к приёмке на собственной машине завода и повторите после монтажа те же измерения по каждому гнезду. Внесите все открытые вопросы в протокол приёмки с указанием ответственного и срока закрытия."
+          ]
+        },
+        {
+          "heading": "Опубликованные сведения LIHE, относящиеся к заказу 48-гнёздной формы",
+          "paragraphs": [
+            "Это руководство издаёт LIHE Precision, и её собственные формы входят в число вариантов, по которым покупатель может запросить предложение; приведённый выше перечень проверок относится к LIHE так же, как к любому другому поставщику. Показатели ниже опубликованы на lihe-preform.com и приведены только там, где они влияют на покупку 48-гнёздной формы."
+          ],
+          "list": [
+            "Гнёздность: LIHE указывает пресс-формы для ПЭТ-преформ от 32 до 160 гнёзд, так что 48-гнёздная форма находится внутри опубликованного диапазона. Сможет ли её нести конкретная машина, по-прежнему зависит от усилия смыкания, размеров плит и объёма впрыска.",
+            "Платформы машин: формы для преформ предлагаются для HUSKY, NETSTAL, SIPA, KATA и других машин. Укажите в запросе точную модель и все прежние доработки, чтобы основание формы рассчитывалось под нужную машину.",
+            "Горячие каналы: системы с запорными иглами до 144 гнёзд для преформ, опубликованные с 3-летней гарантией от протечек. Уточните, как эта гарантия формулируется в договоре для конкретной горячей половины на 48 сопел, которая входит в предложение.",
+            "Сроки изготовления: стандартные формы для ПЭТ — 8 недель, пилотные формы — 20 дней. Уточните, отсчитывается ли срок от заказа, предоплаты или утверждения чертежей, и добавьте к нему заводские испытания и транспортировку.",
+            "Подтверждение качества: по опубликованным данным, оснастка достигает CPK ≥ 1,33, измерения выполняются в собственной лаборатории с КИМ Zeiss, отчёты контроля предоставляются по запросу. Запрашивайте отчёты по вашему комплекту гнёзд, а не образец из другого проекта."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Почему числа гнёзд недостаточно для цены?",
+          "answer": "Оно не описывает геометрию, интерфейсы машины, горячеканальную систему, материалы и приёмку. Эти позиции определяют инженерную работу, изготовление и валидацию поставщика."
+        },
+        {
+          "question": "Цена холодной половины равна цене полной формы?",
+          "answer": "Только при прямом указании этого в предложении. Обозначьте горячую половину и сохраняемые узлы и сравнивайте весь необходимый состав, а не название предложения."
+        },
+        {
+          "question": "Можно процент переделки использовать для цены новой формы?",
+          "answer": "Нет. Это сравнение подходящих переделок, а не денежная цена новой оснастки. Запросите отдельные сопоставимые предложения для технически возможных маршрутов."
+        },
+        {
+          "question": "Что зафиксировать до заказа?",
+          "answer": "Утверждённые чертежи преформы и горловины, фактический интерфейс, поставляемые узлы, сырьё, программу испытаний, этапы поставки и ответственных. Устраните пропуски до изготовления."
+        }
+      ]
+    },
+    "es": {
+      "category": "Artículos técnicos",
+      "title": "¿Cuánto cuesta un molde nuevo de preforma PET para una línea de bebidas de 48 cavidades?",
+      "summary": "Entienda el alcance y los factores de coste de un molde PET nuevo de 48 cavidades sin recurrir a precios genéricos sin verificar.",
+      "heroAlt": "Molde ilustrativo de preformas, canal caliente y muestras en un banco",
+      "detailAlt": "Insertos, boquillas y conexiones ilustrativos de refrigeración",
+      "sections": [
+        {
+          "heading": "El precio exacto requiere la especificación completa",
+          "paragraphs": [
+            "Un molde PET de 48 cavidades es una herramienta de inyección con ese número de espacios de conformación, no una línea completa de bebidas. Su precio exacto requiere una cotización para máquina, diseño de preforma, canal caliente, materiales y aceptación, por lo que aquí no se indica un precio ni un rango sin verificar. Empiece separando un molde nuevo completo de una mitad fría de sustitución o una conversión con conjuntos existentes."
+          ]
+        },
+        {
+          "heading": "Factores de coste para la solicitud de cotización",
+          "table": {
+            "head": [
+              "Factor",
+              "Qué especificar",
+              "Por qué cambia el alcance"
+            ],
+            "rows": [
+              [
+                "Cavidades",
+                "Distribución y plan de cavidades activas",
+                "La máquina y el molde deben admitirla"
+              ],
+              [
+                "Canal caliente",
+                "Mitad nueva, sistema conservado o reacondicionado",
+                "Los conjuntos incluidos cambian"
+              ],
+              [
+                "Materiales",
+                "Acero, componentes y tratamientos",
+                "Fabricación e inspección dependen del requisito"
+              ],
+              [
+                "Acabado de cuello",
+                "Dimensiones aprobadas e interfaz de cierre",
+                "Cambian anillos y piezas de manipulación"
+              ],
+              [
+                "Plataforma",
+                "Modelo, interfaz y modificaciones",
+                "El ajuste y la conversión son específicos"
+              ],
+              [
+                "Refrigeración",
+                "Circuitos y servicios de planta",
+                "Las condiciones de prueba deben corresponder"
+              ],
+              [
+                "Validación",
+                "Inspección, pruebas y ensayos de botella",
+                "Comprar solo el molde omite cualificación"
+              ],
+              [
+                "Entrega",
+                "Hitos de aprobación, fabricación e instalación",
+                "Transporte y arranque tienen alcance propio"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Defina qué incluye un molde nuevo",
+          "list": [
+            "Solicite una lista de suministro que identifique mitad fría, mitad caliente, base, controlador y piezas de conversión. Una oferta de mitad fría que reutilice un canal caliente existente no se compara directamente con un molde nuevo completo sin mostrar el equipo conservado.",
+            "Describa la preforma y su botella final, no solo las cavidades pedidas. La geometría del cuello, el anillo de soporte y la distribución de pared influyen en los componentes y las pruebas. Envíe la revisión aprobada e identifique cualquier aligeramiento previsto.",
+            "Confirme la interfaz con la máquina y los equipos de manipulación instalados. Pregunte si deben cambiar conexiones de refrigeración, electricidad, extracción o enfriamiento posterior. Incluya el alcance de esos costes aunque las piezas las suministre otro proveedor.",
+            "Identifique los entregables de aceptación: muestras, informes, ajustes, instrucciones de mantenimiento e información de repuestos. Sirven para comparar un paquete de producción utilizable y no importes finales que cubren obligaciones distintas."
+          ]
+        },
+        {
+          "heading": "Compare molde nuevo y reutilización cuando ambas sean viables",
+          "list": [
+            "Puede necesitarse un molde completo nuevo si el existente no es adecuado para el diseño o la configuración de máquina objetivo. Establezca ese límite técnico antes de solicitar reparación o conversión. Reutilizar es una opción y no una obligación de conservar todos los conjuntos.",
+            "Para convertir, documente el estado y la función restante de las partes conservadas. Exija una interfaz clara entre componentes nuevos y existentes y determine quién diagnosticará un defecto que cruce esa frontera.",
+            "No aplique una proporción publicada de adaptación a un molde nuevo como si fuera una cotización monetaria. La comparación porcentual de LIHE corresponde a adaptaciones de aligeramiento adecuadas. El precio del molde nuevo sigue necesitando alcance y cotización propios.",
+            "Incluya la interrupción productiva y la cualificación. El importe inicial más bajo no proporciona necesariamente el molde completo requerido, y una fecha nominal de entrega no establece cuándo podrá la planta liberar botellas aprobadas."
+          ]
+        },
+        {
+          "heading": "Partidas que una cotización de 48 cavidades debe desglosar",
+          "list": [
+            "Mitad fría para 48 cavidades: machos, insertos de cavidad, anillos de cuello, anillos de bloqueo y el mecanismo de accionamiento de los anillos de cuello. Pida que se coticen por juego de cavidad, para que una posición dañada se convierta más adelante en un pedido de repuesto y no en una decisión sobre todo el molde.",
+            "Mitad caliente: distribuidor, 48 boquillas, resistencias, termopares y, en un diseño de obturación por válvula, las agujas y su accionamiento. Indique si la oferta incluye un controlador de temperatura o si la nueva mitad caliente se conectará al controlador que ya tiene la planta.",
+            "Base del molde y placas adaptadas a la inyectora. La misma disposición de 48 cavidades puede requerir dimensiones de placa, paso entre columnas o carrera de expulsión distintos en dos modelos de máquina, así que indique en la solicitud el modelo exacto y sus modificaciones.",
+            "Paquete de repuestos: un juego recomendado de piezas de desgaste, como mitades de anillo de cuello, insertos de entrada y puntas de boquilla. Una oferta sin repuestos parece más baja en papel, pero traslada ese gasto a los primeros meses de producción, normalmente con plazos más urgentes.",
+            "Ingeniería y documentación: revisión del diseño de la preforma, análisis de refrigeración o de llenado cuando se solicite, planos finales y lista de piezas. Estas partidas suelen agruparse sin una línea propia; pida que se nombren para que no desaparezcan discretamente durante la negociación.",
+            "Prueba en fábrica y condiciones de entrega: resina de prueba, muestreo, embalaje, flete y seguro. Pregunte por escrito quién paga una segunda prueba en fábrica si la primera no cumple los criterios acordados, porque esa cuestión es mucho más fácil de resolver antes del pedido."
+          ]
+        },
+        {
+          "heading": "Cómo las condiciones de aceptación cambian el coste real de un molde de 48 cavidades",
+          "paragraphs": [
+            "En un molde de 48 cavidades, una sola posición débil representa aproximadamente el 2% de la producción de la herramienta, de modo que la forma en que la aceptación trata cada cavidad cambia directamente el coste de la planta por preforma buena. Incluya las siguientes etapas en el pedido de compra en lugar de dejarlas para la reunión de entrega."
+          ],
+          "steps": [
+            "Adjunte el documento de aceptación a la propia cotización. Indique la revisión del plano de la preforma, el grado de resina y las condiciones de secado, la máquina de destino y los criterios que debe cumplir cada una de las 48 cavidades. Un criterio añadido después de construir el molde suele volver en forma de orden de cambio.",
+            "Realice la prueba en fábrica con las 48 cavidades activas y numere cada muestra según su cavidad. Mida el peso, las dimensiones del cuello y la calidad del punto de inyección posición por posición, y decida de antemano cuántas cavidades fuera de tolerancia, si se admite alguna, impiden el envío del molde.",
+            "Calcule la producción a partir de las preformas aceptadas y no del ciclo en vacío. Cuente las cavidades bloqueadas y los rechazos de arranque, porque un molde que funciona con 46 cavidades buenas entrega bastante menos que el volumen con el que se compararon las ofertas.",
+            "Sople muestras de cada grupo de cavidades en la botella final y compruebe el ajuste del cierre y el comportamiento a presión o a carga vertical que exige el producto. Un defecto que solo aparece tras el soplado cuesta mucho menos de corregir antes de que el molde salga del taller del fabricante.",
+            "Vincule el pago final a la aceptación en la propia máquina de la planta, repitiendo tras la instalación las mismas mediciones por cavidad. Registre cada punto pendiente en el acta de aceptación con un responsable y una fecha de cierre."
+          ]
+        },
+        {
+          "heading": "Información publicada por LIHE relevante para un pedido de 48 cavidades",
+          "paragraphs": [
+            "LIHE Precision es quien publica esta guía, y sus propios moldes están entre las opciones que un comprador puede pedir cotizar; la lista de comprobaciones anterior se aplica a LIHE igual que a cualquier otro proveedor. Las cifras siguientes están publicadas en lihe-preform.com y se incluyen solo cuando influyen en la compra de un molde de 48 cavidades."
+          ],
+          "list": [
+            "Número de cavidades: LIHE ofrece moldes de preforma PET de 32 a 160 cavidades, por lo que un molde de 48 cavidades está dentro del rango publicado. Que una inyectora concreta pueda montarlo sigue dependiendo de su fuerza de cierre, el tamaño de los platos y la capacidad de inyección.",
+            "Plataformas de máquina: se ofrecen moldes de preforma para HUSKY, NETSTAL, SIPA, KATA y otras máquinas. Indique en la consulta el modelo exacto y cualquier modificación previa para que la base del molde se cotice para la inyectora correcta.",
+            "Canales calientes: sistemas de obturación por válvula de hasta 144 cavidades para preformas, publicados con una garantía de estanqueidad de 3 años. Pregunte cómo se redacta esa garantía en el contrato para la mitad caliente de 48 boquillas que se cotiza.",
+            "Plazos de entrega: moldes PET estándar en 8 semanas y moldes piloto en 20 días. Aclare si el plazo empieza con el pedido, con el anticipo o con la aprobación de planos, y súmele las pruebas en fábrica y el transporte.",
+            "Evidencia de calidad: LIHE publica que su utillaje alcanza un CPK ≥ 1,33, medido en un laboratorio propio con CMM Zeiss, y entrega informes de inspección a petición. Solicite los informes de su propio juego de cavidades y no una muestra de otro proyecto."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Por qué las cavidades no bastan para fijar el precio?",
+          "answer": "No especifican geometría, interfaces, canal caliente, materiales ni aceptación. Esos elementos determinan la ingeniería, fabricación y validación del proveedor."
+        },
+        {
+          "question": "¿Una oferta de mitad fría es el precio del molde completo?",
+          "answer": "Solo si lo indica expresamente. Identifique la mitad caliente y los conjuntos conservados y compare todo el equipo necesario en lugar del título de la oferta."
+        },
+        {
+          "question": "¿El porcentaje de adaptación permite calcular un molde nuevo?",
+          "answer": "No. Compara proyectos de adaptación adecuados y no publica un precio monetario de moldes nuevos. Solicite ofertas separadas y comparables para las opciones viables."
+        },
+        {
+          "question": "¿Qué debe fijarse antes del pedido?",
+          "answer": "Planos aprobados, interfaz real, conjuntos suministrados, resina y pruebas, hitos de entrega y responsables. Resuelva los elementos omitidos antes de autorizar fabricación."
+        }
+      ]
+    }
+  }
+}

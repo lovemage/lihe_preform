@@ -1,0 +1,451 @@
+{
+  "slug": "risks-of-switching-pet-mold-suppliers-mid-project",
+  "questionId": "q111",
+  "date": "2026-10-07",
+  "relatedProducts": [
+    19,
+    34,
+    18
+  ],
+  "images": {
+    "hero": "/images/news/risks-of-switching-pet-mold-suppliers-mid-project-hero.webp",
+    "detail": "/images/news/risks-of-switching-pet-mold-suppliers-mid-project-detail.webp",
+    "og": "/images/news/risks-of-switching-pet-mold-suppliers-mid-project-hero-og.jpg"
+  },
+  "sources": [
+    {
+      "label": "Wikipedia — injection moulding",
+      "url": "https://en.wikipedia.org/wiki/Injection_moulding"
+    },
+    {
+      "label": "Wikipedia — hot runner",
+      "url": "https://en.wikipedia.org/wiki/Hot_runner"
+    },
+    {
+      "label": "SIPA — PET preform injection moulds and tooling",
+      "url": "https://sipasolutions.com/products/moulds/preform-tooling"
+    }
+  ],
+  "locales": {
+    "en": {
+      "category": "Technical Insights",
+      "title": "What are the risks of switching PET mold suppliers in the middle of a beverage packaging project?",
+      "summary": "Control a PET mold supplier change through an approved design baseline, verified interfaces, transferred trial evidence and a clear acceptance plan.",
+      "heroAlt": "Illustrative controlled handover of PET preform molds and samples",
+      "detailAlt": "Illustrative metrology inspection of replacement mold inserts",
+      "sections": [
+        {
+          "heading": "The main risk is losing the approved technical baseline",
+          "paragraphs": [
+            "A supplier handover is the transfer of a defined tooling scope and its approved technical information to another manufacturer. The principal risks are mismatched drawing revisions, incomplete machine interfaces, lost trial evidence, unclear responsibility and a production schedule built on unconfirmed assumptions. A switch can be managed, but the new supplier must qualify the actual remaining work instead of treating the project as an unchanged repeat order."
+          ]
+        },
+        {
+          "heading": "A risk register for the supplier transition",
+          "table": {
+            "head": [
+              "Risk",
+              "Practical consequence",
+              "Control before release"
+            ],
+            "rows": [
+              [
+                "Drawing revision mismatch",
+                "Wrong neck, core or bottle geometry",
+                "Freeze and acknowledge the approved revision"
+              ],
+              [
+                "Incomplete interface data",
+                "Tool will not fit or operate correctly",
+                "Verify the actual machine and retained assemblies"
+              ],
+              [
+                "Missing trial history",
+                "Previous defects are repeated",
+                "Transfer samples, settings and unresolved findings"
+              ],
+              [
+                "Mixed component responsibility",
+                "Faults cross supplier boundaries",
+                "Name an integration and diagnosis owner"
+              ],
+              [
+                "Unconfirmed remaining scope",
+                "Purchased parts are missing or duplicated",
+                "Agree a bill of supply and retained parts"
+              ],
+              [
+                "Schedule assumptions",
+                "Delivery does not equal production readiness",
+                "Plan approval, trials, correction and installation"
+              ],
+              [
+                "Service discontinuity",
+                "Spares or maintenance no longer align",
+                "Approve current part numbers and instructions"
+              ],
+              [
+                "Package acceptance gap",
+                "Preform passes but bottle fails",
+                "Retain the approved finished-package tests"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Transfer the evidence that the next manufacturer will need",
+          "list": [
+            "Collect the current approved drawings and a record of changes already agreed. Separate drawings released for manufacture from working drafts. Identify outstanding design decisions and the person authorized to close them, so the new supplier does not manufacture from a superseded file.",
+            "Provide the actual machine configuration and list the tooling assemblies already built or installed. Preserve measurements of unresolved interfaces and document any deviation accepted earlier. A replacement manufacturer needs the configuration that will operate, not only the original project proposal.",
+            "Transfer identified trial samples, inspection reports, resin information, process settings and defect records. Include failed trials and corrective actions alongside successful samples. Without the unsuccessful evidence, the next supplier can repeat an earlier problem while appearing to follow the approved design.",
+            "Confirm which documents and parts are available for authorized use. Resolve missing technical information through agreed measurements or an interface audit. Do not assume that changing suppliers provides access to the previous manufacturer’s proprietary design files."
+          ]
+        },
+        {
+          "heading": "Decide whether to switch before the remaining work grows",
+          "list": [
+            "If manufacture has not started, the main task is to align the revised specification and responsibilities. If parts are already machined, first inspect what exists and define what the next manufacturer can retain. The later stage needs a condition-based handover rather than an assumption that all work is reusable.",
+            "For a mixed assembly, assign responsibility for the old-to-new interface. The new supplier should identify what it will inspect and what it accepts as customer-supplied equipment. Keep the complete mold acceptance separate from inspection of the newly supplied parts.",
+            "Revise the production plan to include engineering review, trials and corrective work. LIHE’s published lead times below are product information, not confirmation that a partly completed handover will meet the same schedule. Confirm a project-specific timeline after reviewing the transfer package.",
+            "LIHE publishes tooling conversion and support services, making it a candidate for a defined replacement scope. That does not establish the condition of unfinished components or transfer another supplier’s obligations. Choose the switch only after the remaining work, acceptance plan and fallback production route are clear."
+          ]
+        },
+        {
+          "heading": "Acceptance at the point of handover",
+          "paragraphs": [
+            "A mid-project switch needs two acceptances, not one: acceptance of what is handed over, and acceptance of the finished tool. Treating the second as sufficient leaves nobody responsible for parts that were faulty when they changed hands."
+          ],
+          "steps": [
+            "Hold a joint inspection before the previous supplier’s work is formally closed. Record every finished or half-finished component with its drawing revision and measured condition, and have the buyer and both suppliers sign the inventory.",
+            "Give the new supplier a defined period to inspect the transferred parts and either accept them as customer-supplied items or reject them with a written reason. Parts accepted at this stage become part of the new supplier’s integration responsibility.",
+            "Repeat at least one trial that the previous supplier already ran, using the same resin, machine and settings. Matching the earlier results shows that the technical baseline transferred correctly before any new change is introduced.",
+            "Qualify the mixed tool as a whole: preforms measured by cavity, finished bottles and an agreed production run. A pass on the newly supplied components alone does not prove that their interfaces with retained parts work.",
+            "Close the handover with a single document set: the drawing revision that now applies, the current parts list, process settings and a list of open items with an owner. Archive the previous supplier’s documents separately so that they are not reused by mistake."
+          ]
+        },
+        {
+          "heading": "Keep maintenance and spares continuous across the switch",
+          "list": [
+            "Map every spare part the plant holds to its supplier and drawing number. After the switch, some spares may no longer fit the revised tool; label them clearly before someone installs one by mistake during a breakdown.",
+            "Decide who maintains the parts still made by the previous supplier, for example an existing hot runner. If that supplier will no longer service them, ask the new supplier to quote refurbishment or replacement before the first failure occurs.",
+            "Ask the new supplier for its part numbering and a cross-reference to the previous numbers. A dual list kept during the transition period prevents wrong orders and duplicated stock.",
+            "Agree the date of the first on-site visit for installation and start-up, and what remote troubleshooting covers until then. Note what local staff must measure or photograph so that remote diagnosis is actually possible.",
+            "Keep the previously approved mold, if one exists, in running condition until the replacement has passed site acceptance. It is the plant’s only fallback if the new tool needs correction after delivery."
+          ]
+        },
+        {
+          "heading": "What LIHE publishes about taking over a tooling project",
+          "paragraphs": [
+            "LIHE Precision wrote this guide and may itself be the supplier a buyer is switching to, which is worth keeping in mind while reading it. Only the published items that matter for a handover are listed here; each of them appears on lihe-preform.com."
+          ],
+          "list": [
+            "Conversion parts: published as 100% interchangeable with Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps and Corvaglia systems, and replacement parts can be made from a customer’s existing Husky, SACMI or Otto parts. Confirm interchangeability on the actual parts being transferred.",
+            "Engineering: CAD/CAM, 3D simulation and flow analysis before production, which can help rebuild a design baseline when the transferred drawings are incomplete.",
+            "Measurement: an in-house Zeiss CMM lab, with inspection reports supplied on request, which is relevant when transferred parts have to be measured at the handover.",
+            "Preform molds: 32 to 160 cavities for HUSKY, NETSTAL, SIPA, KATA and other machines, so the takeover of a typical preform project falls within the published range.",
+            "Published lead times run from 20 days (pilot molds) through 4 weeks (replacement parts) to 8 weeks (standard PET molds). In a handover these are starting points only; the real schedule depends on what is transferred and in what condition.",
+            "After-sales: on-site machine interface audits, mold installation, start-up support, remote troubleshooting and refurbishment programs."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Is switching suppliers always the wrong choice?",
+          "answer": "No. The decision depends on the actual remaining scope and the evidence available for a controlled handover. Establish what can be retained and what must be requalified before committing."
+        },
+        {
+          "question": "Can the new supplier use the previous trial results?",
+          "answer": "They are useful if linked to identified drawings, resin, samples and settings. The new or mixed assembly still needs the agreed acceptance checks; previous evidence does not automatically qualify changed components."
+        },
+        {
+          "question": "What should happen to unfinished parts?",
+          "answer": "Inspect and identify them before defining reuse. Record drawing revision, dimensions and condition, then agree which parts the new supplier accepts and which require correction or replacement."
+        },
+        {
+          "question": "How should the plant protect production?",
+          "answer": "Maintain an approved existing tool or another agreed production route until the replacement qualifies. Plan the change around acceptance readiness, not merely the arrival of the new mold."
+        }
+      ]
+    },
+    "ru": {
+      "category": "Технические статьи",
+      "title": "Каковы риски смены поставщика форм ПЭТ в середине проекта упаковки напитков?",
+      "summary": "Управляйте сменой поставщика через утверждённую базу конструкции, проверенные интерфейсы, передачу результатов испытаний и ясную приёмку.",
+      "heroAlt": "Иллюстрация контролируемой передачи форм преформ и образцов",
+      "detailAlt": "Иллюстрация метрологического контроля заменяемых вкладышей формы",
+      "sections": [
+        {
+          "heading": "Главный риск — потеря утверждённой технической базы",
+          "paragraphs": [
+            "Передача поставщику — переход определённого объёма оснастки и утверждённых технических данных к другому изготовителю. Основные риски — несовпадение ревизий, неполные интерфейсы, потерянные результаты испытаний, неясная ответственность и график на неподтверждённых предположениях. Сменой можно управлять, но новый поставщик должен квалифицировать оставшуюся работу, а не считать проект неизменным повторным заказом."
+          ]
+        },
+        {
+          "heading": "Реестр рисков перехода",
+          "table": {
+            "head": [
+              "Риск",
+              "Последствие",
+              "Контроль до выпуска"
+            ],
+            "rows": [
+              [
+                "Разные ревизии",
+                "Неверная горловина, стержень или бутылка",
+                "Зафиксировать и подтвердить ревизию"
+              ],
+              [
+                "Неполный интерфейс",
+                "Форма не устанавливается или не работает",
+                "Проверить машину и сохраняемые узлы"
+              ],
+              [
+                "Нет истории испытаний",
+                "Повторяются прошлые дефекты",
+                "Передать образцы, настройки и замечания"
+              ],
+              [
+                "Смешанная ответственность",
+                "Неисправность между поставщиками",
+                "Назначить владельца интеграции и диагностики"
+              ],
+              [
+                "Неясный остаточный объём",
+                "Не хватает деталей или есть дубли",
+                "Согласовать поставку и сохраняемые части"
+              ],
+              [
+                "Допущения графика",
+                "Поставка не равна готовности производства",
+                "Планировать согласование, тесты и монтаж"
+              ],
+              [
+                "Разрыв обслуживания",
+                "Запчасти и инструкции не совпадают",
+                "Утвердить номера деталей и инструкции"
+              ],
+              [
+                "Пробел приёмки упаковки",
+                "Преформа проходит, бутылка не проходит",
+                "Сохранить утверждённые тесты упаковки"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Передайте доказательства для нового изготовителя",
+          "list": [
+            "Соберите актуальные утверждённые чертежи и записи согласованных изменений. Отделите выпущенные в производство документы от рабочих вариантов. Обозначьте незакрытые решения и лицо, имеющее право их утверждать, чтобы новый изготовитель не работал по устаревшему файлу.",
+            "Передайте фактическую конфигурацию машины и список уже изготовленных или установленных узлов. Сохраните измерения неизвестных интерфейсов и ранее принятые отклонения. Новому изготовителю нужна конфигурация будущей эксплуатации, а не только исходное предложение проекта.",
+            "Передайте идентифицированные образцы, отчёты, сведения о сырье, настройки и записи дефектов. Включите неудачные испытания и исправления вместе с удачными образцами. Иначе следующий поставщик повторит проблему, формально следуя утверждённой конструкции.",
+            "Подтвердите документы и детали, доступные для разрешённого использования. Недостающую информацию получите согласованными измерениями или аудитом интерфейса. Смена поставщика не даёт автоматически доступ к закрытым конструкторским файлам предыдущего изготовителя."
+          ]
+        },
+        {
+          "heading": "Решите вопрос смены до роста остаточной работы",
+          "list": [
+            "До начала изготовления основная задача — согласовать обновлённую спецификацию и обязанности. При уже обработанных деталях сначала осмотрите существующее и определите пригодность для сохранения. Поздняя передача должна учитывать состояние, а не предполагать пригодность всей работы.",
+            "Для смешанного узла назначьте ответственность за интерфейс старого и нового. Новый поставщик должен указать проверяемые позиции и принимаемое оборудование заказчика. Приёмку полной формы отделяйте от контроля только новых деталей.",
+            "Пересмотрите график с инженерной проверкой, испытаниями и исправлениями. Сроки LIHE ниже являются сведениями о продукции, а не подтверждением одинакового графика для частично выполненного проекта. Согласуйте сроки после изучения комплекта передачи.",
+            "LIHE публикует конверсию оснастки и поддержку, поэтому компанию можно рассмотреть для определённой замены. Это не подтверждает состояние незавершённых компонентов и не передаёт обязанности другой компании. Меняйте поставщика после определения работы, приёмки и резервного производства."
+          ]
+        },
+        {
+          "heading": "Приёмка в момент передачи проекта",
+          "paragraphs": [
+            "Смена поставщика посреди проекта требует двух приёмок, а не одной: приёмки того, что передаётся, и приёмки готовой формы. Если считать достаточной только вторую, никто не будет отвечать за детали, которые были неисправны уже в момент передачи."
+          ],
+          "steps": [
+            "Проведите совместный осмотр до официального закрытия работ прежнего поставщика. Зафиксируйте каждый готовый или незавершённый компонент с ревизией чертежа и измеренным состоянием, и пусть покупатель и оба поставщика подпишут эту опись.",
+            "Дайте новому поставщику определённый срок на осмотр переданных деталей, чтобы он либо принял их как предоставленные заказчиком, либо отклонил с письменным обоснованием. Детали, принятые на этом этапе, входят в зону ответственности нового поставщика за интеграцию.",
+            "Повторите хотя бы одно испытание, которое уже проводил прежний поставщик, с тем же сырьём, машиной и настройками. Совпадение с прежними результатами показывает, что техническая база передана правильно, ещё до внесения каких-либо новых изменений.",
+            "Квалифицируйте смешанную форму целиком: преформы с измерением по гнёздам, готовые бутылки и согласованный производственный прогон. Положительный результат только по вновь поставленным компонентам не доказывает, что их сопряжения с сохранёнными деталями работают.",
+            "Завершите передачу единым комплектом документов: действующая ревизия чертежей, текущий перечень деталей, настройки процесса и список открытых вопросов с ответственными. Документы прежнего поставщика храните отдельно, чтобы их не использовали повторно по ошибке."
+          ]
+        },
+        {
+          "heading": "Обеспечьте непрерывность обслуживания и запасных частей при смене поставщика",
+          "list": [
+            "Сопоставьте каждую запасную часть на складе завода с её поставщиком и номером чертежа. После смены поставщика часть запасных деталей может не подходить к доработанной форме; чётко промаркируйте их, пока кто-нибудь не установил такую деталь по ошибке во время аварийного ремонта.",
+            "Решите, кто будет обслуживать детали, по-прежнему изготовленные прежним поставщиком, например уже установленный горячий канал. Если этот поставщик больше не будет их обслуживать, попросите нового поставщика заранее, до первого отказа, рассчитать восстановление или замену.",
+            "Запросите у нового поставщика его систему нумерации деталей и таблицу соответствия прежним номерам. Двойной перечень на переходный период предотвращает ошибочные заказы и дублирование запасов.",
+            "Согласуйте дату первого выезда на площадку для монтажа и запуска, а также объём удалённой диагностики до этого момента. Отметьте, что местный персонал должен измерить или сфотографировать, чтобы удалённая диагностика была действительно возможна.",
+            "Сохраняйте ранее утверждённую форму, если она есть, в рабочем состоянии до тех пор, пока замена не пройдёт приёмку на площадке. Это единственный резерв завода, если новая форма потребует доработки после поставки."
+          ]
+        },
+        {
+          "heading": "Что LIHE публикует о передаче проекта оснастки",
+          "paragraphs": [
+            "Это руководство написала LIHE Precision, и она сама может оказаться тем поставщиком, к которому переходит покупатель; об этом стоит помнить при чтении. Здесь перечислены только опубликованные сведения, важные для передачи проекта; каждое из них приведено на lihe-preform.com."
+          ],
+          "list": [
+            "Детали для конверсии: по опубликованным данным, 100% взаимозаменяемы с системами Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps и Corvaglia, а запасные части могут изготавливаться на основе имеющихся у заказчика деталей Husky, SACMI или Otto. Подтвердите взаимозаменяемость на фактически передаваемых деталях.",
+            "Инженерия: CAD/CAM, 3D-моделирование и анализ течения расплава до начала производства, что помогает восстановить базовую конструкцию, если переданные чертежи неполны.",
+            "Измерения: собственная лаборатория с КИМ Zeiss, отчёты контроля предоставляются по запросу; это важно, когда переданные детали нужно измерить в момент передачи.",
+            "Формы для преформ: от 32 до 160 гнёзд для HUSKY, NETSTAL, SIPA, KATA и других машин, так что передача типичного проекта формы для преформ укладывается в опубликованный диапазон.",
+            "Сроки: 20 дней на пилотную форму, 8 недель на стандартную форму для ПЭТ и 4 недели на запасные части. При передаче проекта это лишь отправные точки; реальный график зависит от того, что передаётся и в каком состоянии.",
+            "Послепродажное обслуживание: аудит сопряжения с машиной на площадке, монтаж форм, поддержка при запуске, удалённая диагностика и программы восстановления."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Смена поставщика всегда ошибочна?",
+          "answer": "Нет. Решение зависит от оставшегося объёма и доказательств для контролируемой передачи. До обязательств определите сохраняемые позиции и нуждающиеся в повторной квалификации."
+        },
+        {
+          "question": "Можно использовать прежние результаты испытаний?",
+          "answer": "Они полезны при привязке к чертежам, сырью, образцам и настройкам. Новый или смешанный узел всё равно требует согласованной приёмки: старые данные не квалифицируют изменённые компоненты автоматически."
+        },
+        {
+          "question": "Что делать с незавершёнными деталями?",
+          "answer": "Осмотрите и идентифицируйте их до решения о повторном использовании. Запишите ревизию, размеры и состояние, затем согласуйте принятие, исправление или замену новым изготовителем."
+        },
+        {
+          "question": "Как защитить производство завода?",
+          "answer": "Сохраняйте утверждённую действующую форму или другой согласованный маршрут до квалификации замены. Планируйте смену по готовности к приёмке, а не только прибытию формы."
+        }
+      ]
+    },
+    "es": {
+      "category": "Artículos técnicos",
+      "title": "¿Qué riesgos tiene cambiar de proveedor de moldes PET en mitad de un proyecto de envases de bebidas?",
+      "summary": "Controle el cambio de proveedor con una referencia aprobada de diseño, interfaces verificadas, pruebas transferidas y un plan claro de aceptación.",
+      "heroAlt": "Entrega controlada ilustrativa de moldes de preforma y muestras",
+      "detailAlt": "Inspección metrológica ilustrativa de insertos de sustitución",
+      "sections": [
+        {
+          "heading": "El principal riesgo es perder la referencia técnica aprobada",
+          "paragraphs": [
+            "Un traspaso de proveedor transfiere un alcance de moldes definido y su información técnica aprobada a otro fabricante. Los principales riesgos son revisiones incompatibles, interfaces incompletas, pérdida de pruebas, responsabilidades poco claras y calendarios basados en supuestos. El cambio puede gestionarse, pero el nuevo proveedor debe cualificar el trabajo pendiente real en lugar de tratarlo como un pedido repetido sin cambios."
+          ]
+        },
+        {
+          "heading": "Registro de riesgos de la transición",
+          "table": {
+            "head": [
+              "Riesgo",
+              "Consecuencia",
+              "Control previo"
+            ],
+            "rows": [
+              [
+                "Revisiones distintas",
+                "Cuello, núcleo o botella incorrectos",
+                "Fijar y reconocer la revisión aprobada"
+              ],
+              [
+                "Datos de interfaz incompletos",
+                "Molde que no encaja o no funciona",
+                "Verificar máquina y conjuntos conservados"
+              ],
+              [
+                "Historial de pruebas ausente",
+                "Repetición de defectos anteriores",
+                "Transferir muestras, ajustes y pendientes"
+              ],
+              [
+                "Responsabilidad mezclada",
+                "Problemas entre proveedores",
+                "Designar responsable de integración y diagnóstico"
+              ],
+              [
+                "Alcance pendiente sin confirmar",
+                "Piezas ausentes o duplicadas",
+                "Acordar suministro y piezas conservadas"
+              ],
+              [
+                "Supuestos de calendario",
+                "Entrega sin preparación productiva",
+                "Planear aprobación, pruebas y montaje"
+              ],
+              [
+                "Discontinuidad de servicio",
+                "Repuestos e instrucciones no alineados",
+                "Aprobar referencias e instrucciones actuales"
+              ],
+              [
+                "Aceptación incompleta",
+                "Preforma aceptada pero botella defectuosa",
+                "Conservar pruebas del envase final"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Transfiera las pruebas necesarias al nuevo fabricante",
+          "list": [
+            "Recopile planos aprobados actuales y cambios acordados. Separe documentos liberados para fabricar de borradores. Identifique decisiones pendientes y quién puede cerrarlas para que el nuevo proveedor no fabrique a partir de un archivo obsoleto.",
+            "Entregue la configuración real de máquina y los conjuntos ya construidos o instalados. Conserve mediciones de interfaces pendientes y desviaciones aceptadas. El sustituto necesita la configuración que operará realmente y no solo la propuesta original.",
+            "Transfiera muestras identificadas, informes, información de resina, ajustes y registros de defectos. Incluya ensayos fallidos y correcciones junto con las muestras satisfactorias. Sin los fallos, el siguiente fabricante puede repetir problemas mientras aparenta seguir el diseño aprobado.",
+            "Confirme documentos y piezas disponibles para uso autorizado. Resuelva información ausente mediante mediciones o auditoría de interfaz acordadas. No suponga que cambiar de proveedor permite acceder a archivos propietarios del fabricante anterior."
+          ]
+        },
+        {
+          "heading": "Decida el cambio antes de ampliar el trabajo pendiente",
+          "list": [
+            "Si no ha empezado la fabricación, la tarea principal es alinear especificación y responsabilidades. Si hay piezas mecanizadas, inspeccione primero lo existente y defina qué puede conservar el nuevo fabricante. Una entrega tardía necesita basarse en el estado real y no en suponer reutilizable todo el trabajo.",
+            "En un conjunto mixto, asigne responsabilidad de la interfaz entre piezas antiguas y nuevas. El proveedor debe identificar lo que inspeccionará y lo que acepta como equipo del cliente. Separe la aceptación del molde completo de la inspección de las piezas recién suministradas.",
+            "Revise el plan incluyendo ingeniería, ensayos y correcciones. Los plazos publicados de LIHE son información de producto y no confirman el mismo calendario para un proyecto parcialmente ejecutado. Confirme fechas específicas después de revisar el traspaso.",
+            "LIHE publica conversión y soporte, por lo que puede considerarse para un alcance de sustitución definido. Eso no establece el estado de componentes incompletos ni transfiere obligaciones ajenas. Cambie cuando el trabajo restante, la aceptación y la producción alternativa estén claros."
+          ]
+        },
+        {
+          "heading": "Aceptación en el momento del traspaso",
+          "paragraphs": [
+            "Un cambio a mitad de proyecto necesita dos aceptaciones, no una: la aceptación de lo que se traspasa y la del molde terminado. Si se considera suficiente solo la segunda, nadie responde de las piezas que ya estaban defectuosas cuando cambiaron de manos."
+          ],
+          "steps": [
+            "Realice una inspección conjunta antes de cerrar formalmente el trabajo del proveedor anterior. Registre cada componente terminado o a medio terminar con su revisión de plano y su estado medido, y haga que el comprador y ambos proveedores firmen el inventario.",
+            "Conceda al nuevo proveedor un plazo definido para inspeccionar las piezas traspasadas y aceptarlas como suministro del cliente o rechazarlas con un motivo por escrito. Las piezas aceptadas en esta etapa pasan a formar parte de la responsabilidad de integración del nuevo proveedor.",
+            "Repita al menos una prueba que el proveedor anterior ya realizó, con la misma resina, máquina y ajustes. Obtener los mismos resultados demuestra que la referencia técnica se traspasó correctamente antes de introducir cualquier cambio nuevo.",
+            "Califique el molde mixto en su conjunto: preformas medidas por cavidad, botellas terminadas y una tirada de producción acordada. Que solo los componentes nuevos superen las pruebas no demuestra que funcionen sus interfaces con las piezas conservadas.",
+            "Cierre el traspaso con un único juego de documentos: la revisión de planos vigente, la lista de piezas actual, los ajustes del proceso y una lista de puntos abiertos con su responsable. Archive por separado los documentos del proveedor anterior para que no se reutilicen por error."
+          ]
+        },
+        {
+          "heading": "Mantenga la continuidad del mantenimiento y los repuestos durante el cambio",
+          "list": [
+            "Relacione cada repuesto que tiene la planta con su proveedor y su número de plano. Tras el cambio, algunos repuestos pueden dejar de encajar en el molde revisado; etiquételos claramente antes de que alguien instale uno por error durante una avería.",
+            "Decida quién mantiene las piezas que siguen siendo del proveedor anterior, por ejemplo un canal caliente existente. Si ese proveedor ya no va a darles servicio, pida al nuevo proveedor que cotice el reacondicionamiento o la sustitución antes de que se produzca el primer fallo.",
+            "Solicite al nuevo proveedor su numeración de piezas y una tabla de equivalencias con los números anteriores. Una lista doble durante el período de transición evita pedidos erróneos y existencias duplicadas.",
+            "Acuerde la fecha de la primera visita a planta para la instalación y la puesta en marcha, y qué cubre la asistencia remota hasta entonces. Anote qué debe medir o fotografiar el personal local para que el diagnóstico a distancia sea realmente posible.",
+            "Mantenga en condiciones de funcionamiento el molde aprobado anteriormente, si existe, hasta que el sustituto haya superado la aceptación en planta. Es la única alternativa de la planta si el nuevo molde necesita correcciones tras la entrega."
+          ]
+        },
+        {
+          "heading": "Lo que LIHE publica sobre asumir un proyecto de utillaje",
+          "paragraphs": [
+            "LIHE Precision ha escrito esta guía y puede ser ella misma el proveedor al que se cambia un comprador, algo que conviene tener presente al leerla. Aquí solo se enumeran los datos publicados que importan en un traspaso; todos figuran en lihe-preform.com."
+          ],
+          "list": [
+            "Piezas de conversión: publicadas como 100% intercambiables con sistemas Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps y Corvaglia, y los repuestos pueden fabricarse a partir de piezas Husky, SACMI u Otto que ya tiene el cliente. Confirme la intercambiabilidad con las piezas que realmente se traspasan.",
+            "Ingeniería: CAD/CAM, simulación 3D y análisis de flujo antes de la producción, lo que ayuda a reconstruir una referencia de diseño cuando los planos traspasados están incompletos.",
+            "Medición: laboratorio propio con CMM Zeiss e informes de inspección a petición, algo relevante cuando hay que medir las piezas traspasadas en el momento del traspaso.",
+            "Moldes de preforma: de 32 a 160 cavidades para HUSKY, NETSTAL, SIPA, KATA y otras máquinas, de modo que asumir un proyecto típico de preformas entra en el rango publicado.",
+            "Los plazos publicados van de 20 días (moldes piloto) a 4 semanas (repuestos) y 8 semanas (moldes PET estándar). En un traspaso son solo puntos de partida; el calendario real depende de qué se traspasa y en qué estado.",
+            "Posventa: auditorías in situ de la interfaz con la máquina, instalación de moldes, apoyo en la puesta en marcha, asistencia remota y programas de reacondicionamiento."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Cambiar de proveedor siempre es un error?",
+          "answer": "No. Depende del alcance pendiente y de las pruebas para un traspaso controlado. Defina qué se conserva y qué debe recualificarse antes de comprometerse."
+        },
+        {
+          "question": "¿Puede el sustituto utilizar pruebas anteriores?",
+          "answer": "Son útiles si están vinculadas a planos, resina, muestras y ajustes identificados. El conjunto nuevo o mixto sigue necesitando aceptación; las pruebas previas no cualifican automáticamente componentes cambiados."
+        },
+        {
+          "question": "¿Qué hacer con piezas sin terminar?",
+          "answer": "Inspecciónelas e identifíquelas antes de decidir reutilizarlas. Registre revisión, dimensiones y estado y acuerde qué acepta el nuevo fabricante y qué necesita corrección o sustitución."
+        },
+        {
+          "question": "¿Cómo proteger la producción?",
+          "answer": "Conserve un molde existente aprobado u otro proceso acordado hasta cualificar la sustitución. Planifique el cambio según la preparación para aceptar y no solo la llegada del molde."
+        }
+      ]
+    }
+  }
+}

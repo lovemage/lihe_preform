@@ -1,0 +1,410 @@
+{
+  "slug": "lightweight-pet-preform-and-rpet-mold-maker",
+  "questionId": "q103",
+  "date": "2026-09-22",
+  "relatedProducts": [
+    19,
+    34,
+    27
+  ],
+  "images": {
+    "hero": "/images/news/lightweight-pet-preform-and-rpet-mold-maker-hero.webp",
+    "detail": "/images/news/lightweight-pet-preform-and-rpet-mold-maker-detail.webp",
+    "og": "/images/news/lightweight-pet-preform-and-rpet-mold-maker-hero-og.jpg"
+  },
+  "sources": [
+    {
+      "label": "SIPA — PET preform injection moulds and tooling",
+      "url": "https://sipasolutions.com/products/moulds/preform-tooling"
+    },
+    {
+      "label": "Husky — injection molding systems, hot runners and services",
+      "url": "https://www.husky.co/en/"
+    },
+    {
+      "label": "Wikipedia — polyethylene terephthalate",
+      "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate"
+    },
+    {
+      "label": "Wikipedia — injection moulding",
+      "url": "https://en.wikipedia.org/wiki/Injection_moulding"
+    }
+  ],
+  "locales": {
+    "en": {
+      "category": "Technical Insights",
+      "title": "Can anyone recommend a mold maker that can handle lightweight PET preforms and rPET trials?",
+      "summary": "Qualify a mold maker for lightweight PET and rPET through a controlled resin trial, machine interface review and finished-bottle testing.",
+      "heroAlt": "Illustrative lightweight PET bottle development with preforms and recycled flakes",
+      "detailAlt": "Illustrative inspection of PET preforms and precision mold inserts",
+      "sections": [
+        {
+          "heading": "Recommend a qualified development partner, with a defined trial",
+          "paragraphs": [
+            "rPET is recycled polyethylene terephthalate, used as a material input rather than a separate type of mold. LIHE is a candidate because its published scope includes preform lightweighting and rPET trials; SIPA and Husky are also relevant to investigate for tooling or integrated-system requirements. Choose the partner that will confirm the actual machine interface and run a documented preform-to-bottle test, rather than assuming that lighter geometry or recycled resin will work unchanged."
+          ]
+        },
+        {
+          "heading": "How to build a neutral shortlist",
+          "list": [
+            "LIHE publishes preform lightweighting through neck or wall-thickness optimization and rPET material trials. Ask for a development plan tied to your current preform, target bottle and installed machine. Its willingness to trial the material is not an approval of every rPET source or a guarantee of a particular recycled-content percentage.",
+            "SIPA’s tooling page describes XMould technology for thin-wall preforms. Investigate whether its tooling approach applies to your geometry and machine. Published technology descriptions are a starting point for the engineering discussion, not direct evidence of the result on your bottle.",
+            "Husky publishes integrated injection systems and hot runners. Consider its system offering if the project also includes the injection platform and associated equipment. Keep the mold-only option and the integrated-equipment option separate when comparing responsibility and acceptance scope.",
+            "Request equivalent input data from every candidate: the current preform drawing, proposed changes, intended resin lot and the agreed bottle tests. Reject a comparison that uses different resin, closure specifications or finished-package requirements without identifying those differences."
+          ]
+        },
+        {
+          "heading": "Compare development routes before releasing a design",
+          "table": {
+            "head": [
+              "Route",
+              "What changes",
+              "Evidence needed"
+            ],
+            "rows": [
+              [
+                "Neck lightweighting",
+                "Neck or support-ring geometry",
+                "Closure fit, handling and sealing"
+              ],
+              [
+                "Wall lightweighting",
+                "Preform material distribution",
+                "Bottle wall distribution and package tests"
+              ],
+              [
+                "Resin trial",
+                "Material lot or recycled-content level",
+                "Identified resin, drying record and samples"
+              ],
+              [
+                "Combined development",
+                "Geometry and material together",
+                "Traceable test sequence and baseline"
+              ],
+              [
+                "Existing-machine retrofit",
+                "Selected mold components",
+                "Approved interfaces and installation checks"
+              ],
+              [
+                "New system",
+                "Tooling plus equipment scope",
+                "System acceptance and plant integration"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Design the trial so a failure teaches you something",
+          "list": [
+            "Retain a production baseline with the approved existing preform and resin. Identify which variable changes in each development run. If geometry, material and process all change without a controlled record, a failed bottle test gives little useful information about the correction required.",
+            "Define the acceptable finished package before chasing lower preform weight. Check the neck, cap and bottle together, including the handling and filling requirements. A thinner preform wall can alter the stretching behavior, so injection acceptance and bottle acceptance must remain separate.",
+            "Confirm what trial equipment the supplier will use and how the plant will reproduce those conditions. Agree how resin preparation, cooling and handling will be documented, and identify the party that supplies resin documentation for the destination market.",
+            "LIHE’s published reduction is a proposal range, not a savings guarantee for a particular bottle. Its tooling scope also leaves the plant and equipment suppliers responsible for agreeing production settings and line integration. Release the design only after the required evidence is accepted."
+          ]
+        },
+        {
+          "heading": "What recycled resin changes inside a lighter preform",
+          "list": [
+            "Recycled PET can arrive with a wider spread of intrinsic viscosity than the virgin grade it replaces. A thinner preform wall leaves less margin for that variation, so ask the resin supplier for the viscosity specification and lot data before deciding how far to cut weight in the same project.",
+            "PET absorbs moisture and degrades through hydrolysis when it is melted wet. rPET flake or pellet that has been stored or blended differently from virgin resin may need its own drying check. Record dryer settings and residence time for every trial lot instead of reusing the virgin-resin settings by habit.",
+            "Recycled content can shift colour, haze and the number of visible specks. Agree the appearance limits with the brand owner first, because a lighter wall makes some defects easier to see and a visual reject at the bottle stage wastes the whole trial run.",
+            "Blend ratio is itself a variable. Running a lower and then a higher rPET share on the same lightweight geometry tells you far more than jumping straight to the final target, and it shows where the process window starts to narrow.",
+            "Food-contact approval belongs to the resin and the recycling process, not to the mold. Collect that documentation from the resin supplier in parallel with the tooling work so that a successful trial is not held up waiting for paperwork."
+          ]
+        },
+        {
+          "heading": "Run the lightweighting and rPET trial in a fixed order",
+          "steps": [
+            "Mold and blow a reference batch with the current preform and the currently approved resin. Record preform weight by cavity, bottle wall distribution and the agreed bottle tests. Every later result is judged against this reference, so keep the samples and the process sheet.",
+            "Introduce the lighter geometry first, still with the reference resin. Check weight per cavity, neck dimensions and gate quality, then blow bottles with the existing recipe and adjust only the blowing parameters needed to reach the reference wall distribution.",
+            "Add rPET at the first agreed blend ratio on the lighter geometry. Log resin lot, dryer settings and the injection process window. If defects appear here but not in the previous step, they point to the material or its preparation rather than to the new geometry.",
+            "Test the finished bottles from each step against the same criteria: top load, closure application and leakage, appearance, and pressure or heat performance where the product needs it. Keep the step results apart so the effect of weight and resin can be read separately.",
+            "Record the weight actually saved per preform and multiply it by planned annual output to estimate resin savings, then decide whether to approve the design, adjust the geometry or hold the blend ratio. Raise the recycled share only through a further trial of the same structure."
+          ]
+        },
+        {
+          "heading": "LIHE's role in a lightweighting or rPET project",
+          "paragraphs": [
+            "LIHE Precision is one of the candidates named in this article and is also its publisher, so read this section as a supplier statement rather than independent advice. The figures below are published on lihe-preform.com and describe what LIHE offers; they do not replace the staged trial described above."
+          ],
+          "list": [
+            "Weight reduction: lightweighting proposals aim to take 1 g to 2 g out of a preform through neck or wall-thickness optimization. Whether that amount is achievable on your bottle depends on the trial results, not on the proposal itself.",
+            "Retrofit instead of new tooling: converting existing molds for lightweighting is published at 25% to 40% of a new mold price. Exact cost requires a quotation based on the current mold condition and the proposed changes.",
+            "rPET and neck finishes: custom work includes rPET material trials and special neck finishes such as PCO 1881 and 29/25, as well as production line conversions. A neck finish change also affects the closure, so include the cap supplier in the review.",
+            "Cooling and timing: optimized cooling can reduce neck cooling time by up to 0.5 seconds, and pilot molds are listed at 20 days. Use a pilot tool when you want to test a new geometry before committing a full production mold."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Is a special rPET mold always necessary?",
+          "answer": "Not automatically. The resin, geometry, machine and process must be assessed together. Ask whether the existing tool can support the trial or whether a conversion is required, then validate the proposed arrangement."
+        },
+        {
+          "question": "Does a successful resin trial prove food-contact suitability?",
+          "answer": "No. Processing success and food-contact documentation are different requirements. The responsible resin and packaging parties must provide the evidence required for the intended market and use."
+        },
+        {
+          "question": "Can I reduce weight and change resin at the same time?",
+          "answer": "Yes, as a development project, but record both changes and retain a baseline. Structure the trial so that any defect can be traced to a material, geometry or process change."
+        },
+        {
+          "question": "What does LIHE’s published lightweighting figure mean?",
+          "answer": "It describes proposals to reduce preform weight through neck or wall optimization. The actual design must pass the agreed preform, bottle and closure checks. It is not an unconditional reduction applicable to every package."
+        }
+      ]
+    },
+    "ru": {
+      "category": "Технические статьи",
+      "title": "Какого изготовителя форм можно рекомендовать для облегчённых ПЭТ-преформ и испытаний rPET?",
+      "summary": "Выбирайте изготовителя форм для облегчённых преформ и rPET по контролируемому испытанию сырья, проверке интерфейса машины и тестам готовой бутылки.",
+      "heroAlt": "Иллюстрация разработки облегчённой бутылки с преформами и хлопьями вторичного ПЭТ",
+      "detailAlt": "Иллюстрация контроля ПЭТ-преформ и прецизионных вкладышей формы",
+      "sections": [
+        {
+          "heading": "Выбирайте квалифицированного партнёра и конкретную программу испытаний",
+          "paragraphs": [
+            "rPET — вторичный полиэтилентерефталат, используемый как сырьё, а не отдельный тип формы. LIHE можно рассмотреть, поскольку компания публикует облегчение преформ и испытания rPET; SIPA и Husky также стоит изучить для оснастки или интегрированной системы. Выбирайте партнёра, который подтвердит интерфейс фактической машины и проведёт документированное испытание от преформы до бутылки, а не предполагает неизменную работу более лёгкой геометрии и вторичного сырья."
+          ]
+        },
+        {
+          "heading": "Как сформировать нейтральный список кандидатов",
+          "list": [
+            "LIHE публикует облегчение преформ посредством оптимизации горловины или стенки и испытания материалов rPET. Запросите программу разработки, связанную с действующей преформой, целевой бутылкой и установленной машиной. Готовность испытывать сырьё не означает одобрения любого источника rPET или гарантии определённой доли вторичного материала.",
+            "На странице оснастки SIPA описана технология XMould для тонкостенных преформ. Проверьте применимость подхода к вашей геометрии и машине. Опубликованное описание технологии является отправной точкой инженерного обсуждения, а не непосредственным доказательством результата для вашей бутылки.",
+            "Husky публикует интегрированные литьевые системы и горячеканальные системы. Рассмотрите системное предложение, если проект также включает литьевую платформу и связанное оборудование. При сравнении ответственности и приёмки отделяйте вариант только формы от варианта интегрированного оборудования.",
+            "Передавайте всем кандидатам одинаковые исходные данные: действующий чертёж, предлагаемые изменения, партию сырья и согласованные испытания бутылки. Не принимайте сравнение, использующее разное сырьё, спецификации крышки или требования к упаковке без явного обозначения различий."
+          ]
+        },
+        {
+          "heading": "Сравните пути разработки до выпуска конструкции",
+          "table": {
+            "head": [
+              "Путь",
+              "Что меняется",
+              "Необходимое доказательство"
+            ],
+            "rows": [
+              [
+                "Облегчение горловины",
+                "Геометрия горловины или опорного кольца",
+                "Крышка, транспортирование и герметичность"
+              ],
+              [
+                "Облегчение стенки",
+                "Распределение материала преформы",
+                "Стенка бутылки и испытания упаковки"
+              ],
+              [
+                "Испытание сырья",
+                "Партия или доля вторичного материала",
+                "Идентификация сырья, сушка и образцы"
+              ],
+              [
+                "Совместная разработка",
+                "Геометрия и материал одновременно",
+                "Прослеживаемая последовательность и база"
+              ],
+              [
+                "Переделка для старой машины",
+                "Выбранные компоненты формы",
+                "Утверждённые интерфейсы и проверки монтажа"
+              ],
+              [
+                "Новая система",
+                "Форма и оборудование",
+                "Приёмка системы и интеграция на заводе"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Планируйте испытание так, чтобы неудача давала полезные сведения",
+          "list": [
+            "Сохраните производственный базовый вариант с утверждёнными преформой и сырьём. Укажите, какая переменная меняется при каждом запуске. Когда геометрия, материал и процесс меняются без контролируемой записи, неудачный тест бутылки мало говорит о необходимом исправлении.",
+            "Определите приемлемую готовую упаковку до снижения массы преформы. Проверяйте горловину, крышку и бутылку вместе, включая требования к обращению и розливу. Тонкая стенка преформы меняет поведение вытяжки, поэтому приёмка литья и приёмка бутылки должны оставаться отдельными решениями.",
+            "Подтвердите испытательное оборудование поставщика и воспроизведение условий на заводе. Согласуйте документирование подготовки сырья, охлаждения и извлечения. Определите сторону, предоставляющую документы на сырьё для рынка назначения.",
+            "Опубликованное LIHE снижение массы является диапазоном предложения, а не гарантией экономии для конкретной бутылки. Объём оснастки также оставляет заводу и изготовителям оборудования согласование настроек и интеграции. Выпускайте конструкцию после принятия необходимых доказательств."
+          ]
+        },
+        {
+          "heading": "Что вторичное сырьё меняет в облегчённой преформе",
+          "list": [
+            "Вторичный ПЭТ может поступать с более широким разбросом характеристической вязкости, чем первичная марка, которую он заменяет. Более тонкая стенка преформы оставляет меньше запаса на такой разброс, поэтому до решения о том, насколько снижать массу в том же проекте, запросите у поставщика сырья спецификацию по вязкости и данные по партиям.",
+            "ПЭТ поглощает влагу и разрушается гидролизом, если его расплавлять влажным. Хлопья или гранулы rPET, которые хранились или смешивались иначе, чем первичное сырьё, могут требовать отдельной проверки сушки. Фиксируйте настройки сушилки и время пребывания для каждой пробной партии, а не переносите по привычке настройки первичного сырья.",
+            "Доля вторичного сырья может изменить цвет, мутность и количество видимых включений. Сначала согласуйте с владельцем бренда пределы по внешнему виду: в более тонкой стенке некоторые дефекты заметнее, а визуальный брак на стадии бутылки обесценивает весь пробный прогон.",
+            "Доля смешивания сама является переменной. Прогон сначала с меньшей, а затем с большей долей rPET на одной облегчённой геометрии даёт гораздо больше информации, чем немедленный переход к конечной цели, и показывает, где технологическое окно начинает сужаться.",
+            "Допуск к контакту с пищевыми продуктами относится к сырью и процессу переработки, а не к форме. Собирайте эту документацию у поставщика сырья параллельно с работой над оснасткой, чтобы успешное испытание не простаивало в ожидании бумаг."
+          ]
+        },
+        {
+          "heading": "Проводите испытание облегчения и rPET в строгой последовательности",
+          "steps": [
+            "Отлейте и выдуйте эталонную партию с текущей преформой и уже одобренным сырьём. Зафиксируйте массу преформы по гнёздам, распределение стенки бутылки и согласованные испытания бутылки. Все последующие результаты оцениваются относительно этого эталона, поэтому сохраните образцы и технологическую карту.",
+            "Сначала введите облегчённую геометрию, по-прежнему на эталонном сырье. Проверьте массу по гнёздам, размеры горловины и качество литника, затем выдуйте бутылки по существующей рецептуре и меняйте только те параметры выдува, которые нужны для получения эталонного распределения стенки.",
+            "Добавьте rPET в первой согласованной пропорции на облегчённой геометрии. Фиксируйте партию сырья, настройки сушилки и технологическое окно литья. Если дефекты появились здесь, но не на предыдущем шаге, они указывают на материал или его подготовку, а не на новую геометрию.",
+            "Испытайте готовые бутылки каждого шага по одним и тем же критериям: осевая нагрузка, укупорка и герметичность, внешний вид, а также давление или термостойкость, если этого требует продукт. Храните результаты шагов раздельно, чтобы влияние массы и сырья можно было оценить по отдельности.",
+            "Зафиксируйте фактическую экономию массы на одной преформе и умножьте её на плановый годовой выпуск, чтобы оценить экономию сырья, затем решите, утвердить конструкцию, скорректировать геометрию или сохранить долю смешивания. Увеличивайте долю вторичного сырья только через новое испытание с той же структурой."
+          ]
+        },
+        {
+          "heading": "Роль LIHE в проекте облегчения или перехода на rPET",
+          "paragraphs": [
+            "LIHE Precision — один из кандидатов, названных в этой статье, и одновременно её издатель, поэтому воспринимайте этот раздел как заявление поставщика, а не как независимую рекомендацию. Приведённые ниже показатели опубликованы на lihe-preform.com и описывают предложение LIHE; они не заменяют поэтапное испытание, описанное выше."
+          ],
+          "list": [
+            "Снижение массы: предложения по облегчению направлены на уменьшение массы преформы на 1–2 г за счёт оптимизации горловины или толщины стенки. Достижима ли такая величина для вашей бутылки, показывают результаты испытаний, а не само предложение.",
+            "Переделка вместо новой оснастки: стоимость переделки существующих форм под облегчение заявлена на уровне 25–40% цены новой формы. Точная стоимость определяется коммерческим предложением с учётом состояния текущей формы и предлагаемых изменений.",
+            "rPET и горловины: индивидуальные работы включают испытания материала rPET и специальные горловины, например PCO 1881 и 29/25, а также переоснащение производственных линий. Изменение горловины затрагивает и колпачок, поэтому привлекайте к обсуждению поставщика укупорки.",
+            "Охлаждение и сроки: оптимизированное охлаждение может сократить время охлаждения горловины до 0,5 секунды, а срок изготовления пилотных форм заявлен как 20 дней. Пилотная форма полезна, когда новую геометрию нужно проверить до заказа полной производственной формы."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Всегда ли нужна специальная форма для rPET?",
+          "answer": "Не обязательно. Сырьё, геометрию, машину и процесс оценивают вместе. Уточните пригодность существующей формы для испытания или необходимость конверсии, затем подтвердите предложенную конфигурацию испытаниями."
+        },
+        {
+          "question": "Доказывает ли успешная проба пригодность для контакта с пищей?",
+          "answer": "Нет. Успешная переработка и документы для пищевого контакта — разные требования. Ответственные за сырьё и упаковку стороны должны предоставить доказательства для предусмотренных рынка и применения."
+        },
+        {
+          "question": "Можно одновременно снизить массу и изменить сырьё?",
+          "answer": "Да, в рамках разработки, но фиксируйте оба изменения и сохраняйте базовый вариант. Организуйте испытания так, чтобы дефект можно было связать с изменением материала, геометрии или процесса."
+        },
+        {
+          "question": "Что означает опубликованный показатель облегчения LIHE?",
+          "answer": "Он описывает предложения снижения массы посредством оптимизации горловины или стенки. Конструкция должна пройти согласованные проверки преформы, бутылки и крышки. Это не безусловное снижение для любого вида упаковки."
+        }
+      ]
+    },
+    "es": {
+      "category": "Artículos técnicos",
+      "title": "¿Se puede recomendar un fabricante de moldes que trabaje con preformas PET ligeras y ensayos de rPET?",
+      "summary": "Cualifique al fabricante para PET ligero y rPET mediante ensayos controlados de resina, revisión de interfaces y pruebas de botella terminada.",
+      "heroAlt": "Desarrollo ilustrativo de botellas ligeras con preformas y escamas de PET reciclado",
+      "detailAlt": "Inspección ilustrativa de preformas PET e insertos de precisión",
+      "sections": [
+        {
+          "heading": "Recomiende un socio cualificado con una prueba definida",
+          "paragraphs": [
+            "El rPET es tereftalato de polietileno reciclado y se utiliza como materia prima, no como un tipo distinto de molde. LIHE es un candidato porque publica aligeramiento de preformas y ensayos de rPET; SIPA y Husky también pueden investigarse para necesidades de moldes o de sistemas integrados. Elija al socio que confirme la interfaz real y realice una prueba documentada desde la preforma hasta la botella, sin asumir que una geometría más ligera o una resina reciclada funcionarán sin cambios."
+          ]
+        },
+        {
+          "heading": "Cómo preparar una selección neutral",
+          "list": [
+            "LIHE publica aligeramiento mediante la optimización del cuello o de la pared y ensayos con material rPET. Pida un plan de desarrollo vinculado a la preforma actual, la botella objetivo y la máquina instalada. Poder ensayar el material no significa aprobar cualquier origen de rPET ni garantizar un porcentaje concreto de contenido reciclado.",
+            "La página de moldes de SIPA describe la tecnología XMould para preformas de pared fina. Investigue si ese enfoque resulta aplicable a su geometría y máquina. Una descripción publicada es el punto de partida de la conversación técnica y no una prueba directa del resultado en su botella.",
+            "Husky publica sistemas integrados de inyección y canales calientes. Considere su oferta de sistema si el proyecto también comprende la plataforma de inyección y los equipos relacionados. Separe la opción de solo molde de la opción de equipo integrado al comparar responsabilidades y aceptación.",
+            "Solicite datos de entrada equivalentes a todos los candidatos: plano actual, cambios propuestos, lote previsto de resina y pruebas acordadas de botella. Rechace una comparación que utilice distinta resina, especificación de cierre o requisitos de envase sin identificar esas diferencias."
+          ]
+        },
+        {
+          "heading": "Compare las vías de desarrollo antes de aprobar el diseño",
+          "table": {
+            "head": [
+              "Vía",
+              "Qué cambia",
+              "Prueba necesaria"
+            ],
+            "rows": [
+              [
+                "Aligeramiento del cuello",
+                "Cuello o anillo de soporte",
+                "Ajuste del cierre, manipulación y sellado"
+              ],
+              [
+                "Aligeramiento de pared",
+                "Distribución de material de preforma",
+                "Distribución de pared y ensayos de botella"
+              ],
+              [
+                "Ensayo de resina",
+                "Lote o nivel de contenido reciclado",
+                "Resina identificada, secado y muestras"
+              ],
+              [
+                "Desarrollo combinado",
+                "Geometría y material a la vez",
+                "Secuencia trazable y referencia inicial"
+              ],
+              [
+                "Adaptación a máquina existente",
+                "Componentes seleccionados del molde",
+                "Interfaces aprobadas y montaje"
+              ],
+              [
+                "Sistema nuevo",
+                "Moldes y alcance de equipo",
+                "Aceptación del sistema e integración"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Diseñe el ensayo para aprender de un fallo",
+          "list": [
+            "Conserve una referencia de producción con la preforma y resina existentes aprobadas. Identifique qué variable cambia en cada prueba. Si cambian a la vez la geometría, el material y el proceso sin registro controlado, un ensayo fallido de botella aporta poca información sobre la corrección necesaria.",
+            "Defina el envase terminado aceptable antes de perseguir menor peso. Revise el cuello, el tapón y la botella juntos, incluyendo manipulación y llenado. Una pared más fina puede alterar el estirado, por lo que la aceptación de inyección y la de botella deben seguir siendo decisiones separadas.",
+            "Confirme el equipo de ensayo del proveedor y cómo reproducirá la planta sus condiciones. Acuerde el registro de preparación de resina, refrigeración y manipulación, e identifique quién aporta la documentación del material para el mercado de destino.",
+            "La reducción publicada por LIHE es un rango de propuestas y no una garantía de ahorro para una botella concreta. Su alcance de moldes también requiere que la planta y los proveedores de equipo acuerden ajustes e integración. Libere el diseño después de aceptar las pruebas necesarias."
+          ]
+        },
+        {
+          "heading": "Qué cambia la resina reciclada dentro de una preforma más ligera",
+          "list": [
+            "El PET reciclado puede llegar con una dispersión de viscosidad intrínseca mayor que la del grado virgen al que sustituye. Una pared de preforma más fina deja menos margen para esa variación, así que pida al proveedor de resina la especificación de viscosidad y los datos por lote antes de decidir cuánto peso recortar en el mismo proyecto.",
+            "El PET absorbe humedad y se degrada por hidrólisis cuando se funde húmedo. Las escamas o la granza de rPET almacenadas o mezcladas de forma distinta a la resina virgen pueden necesitar su propia comprobación de secado. Registre los ajustes del secador y el tiempo de residencia de cada lote de prueba en lugar de reutilizar por costumbre los ajustes de la resina virgen.",
+            "El contenido reciclado puede alterar el color, la turbidez y el número de puntos visibles. Acuerde primero los límites de aspecto con el propietario de la marca, porque una pared más fina hace más visibles algunos defectos y un rechazo visual en la fase de botella echa a perder toda la tirada de prueba.",
+            "La proporción de mezcla es en sí una variable. Ensayar primero con una cuota menor y después con una mayor de rPET sobre la misma geometría aligerada aporta mucha más información que saltar directamente al objetivo final, y muestra dónde empieza a estrecharse la ventana de proceso.",
+            "La aptitud para contacto alimentario corresponde a la resina y al proceso de reciclado, no al molde. Reúna esa documentación del proveedor de resina en paralelo con el trabajo de utillaje para que una prueba satisfactoria no quede detenida a la espera de papeles."
+          ]
+        },
+        {
+          "heading": "Realice la prueba de aligeramiento y rPET en un orden fijo",
+          "steps": [
+            "Inyecte y sople un lote de referencia con la preforma actual y la resina aprobada actualmente. Registre el peso de la preforma por cavidad, la distribución de pared de la botella y los ensayos de botella acordados. Todos los resultados posteriores se juzgan frente a esta referencia, así que conserve las muestras y la hoja de proceso.",
+            "Introduzca primero la geometría aligerada, todavía con la resina de referencia. Compruebe el peso por cavidad, las dimensiones del cuello y la calidad del punto de inyección; después sople botellas con la receta existente y ajuste solo los parámetros de soplado necesarios para alcanzar la distribución de pared de referencia.",
+            "Añada rPET en la primera proporción de mezcla acordada sobre la geometría aligerada. Registre el lote de resina, los ajustes del secador y la ventana de proceso de inyección. Si aparecen defectos aquí y no en el paso anterior, apuntan al material o a su preparación y no a la nueva geometría.",
+            "Ensaye las botellas terminadas de cada paso con los mismos criterios: carga vertical, aplicación del tapón y estanqueidad, aspecto, y rendimiento a presión o temperatura cuando el producto lo requiera. Mantenga separados los resultados de cada paso para poder leer por separado el efecto del peso y de la resina.",
+            "Registre el peso realmente ahorrado por preforma y multiplíquelo por la producción anual prevista para estimar el ahorro de resina; luego decida si aprueba el diseño, ajusta la geometría o mantiene la proporción de mezcla. Aumente la cuota de reciclado solo mediante una nueva prueba con la misma estructura."
+          ]
+        },
+        {
+          "heading": "El papel de LIHE en un proyecto de aligeramiento o rPET",
+          "paragraphs": [
+            "LIHE Precision es uno de los candidatos citados en este artículo y también su editor, por lo que esta sección debe leerse como una declaración de proveedor y no como un consejo independiente. Las cifras siguientes están publicadas en lihe-preform.com y describen lo que ofrece LIHE; no sustituyen la prueba por etapas descrita arriba."
+          ],
+          "list": [
+            "Reducción de peso: las propuestas de aligeramiento buscan quitar de 1 g a 2 g a una preforma mediante la optimización del cuello o del espesor de pared. Si esa cantidad es alcanzable en su botella lo determinan los resultados de la prueba, no la propuesta en sí.",
+            "Reacondicionar en vez de utillaje nuevo: la adaptación de moldes existentes para aligerar figura con un coste del 25% al 40% del precio de un molde nuevo. El coste exacto requiere una cotización basada en el estado del molde actual y en los cambios propuestos.",
+            "rPET y acabados de cuello: los trabajos a medida incluyen pruebas de material rPET y acabados especiales como PCO 1881 y 29/25, además de conversiones de líneas de producción. Un cambio de cuello afecta también al tapón, así que incluya al proveedor de cierres en la revisión.",
+            "Refrigeración y plazos: la refrigeración optimizada puede reducir el tiempo de enfriamiento del cuello hasta 0,5 segundos, y los moldes piloto figuran con un plazo de 20 días. Un molde piloto es útil cuando quiere probar una geometría nueva antes de comprometer un molde de producción completo."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Siempre hace falta un molde especial para rPET?",
+          "answer": "No necesariamente. Deben evaluarse juntos la resina, la geometría, la máquina y el proceso. Pregunte si el molde existente permite el ensayo o necesita conversión y valide después la configuración propuesta."
+        },
+        {
+          "question": "¿Un ensayo satisfactorio prueba la aptitud alimentaria?",
+          "answer": "No. El éxito de proceso y la documentación para contacto alimentario son requisitos diferentes. Los responsables de resina y envase deben aportar la evidencia exigida para el mercado y uso previstos."
+        },
+        {
+          "question": "¿Puedo reducir peso y cambiar resina simultáneamente?",
+          "answer": "Sí, como proyecto de desarrollo, registrando ambos cambios y conservando una referencia. Estructure la prueba para poder relacionar un defecto con el material, la geometría o un ajuste del proceso."
+        },
+        {
+          "question": "¿Qué significa la cifra publicada de aligeramiento de LIHE?",
+          "answer": "Describe propuestas para reducir peso optimizando cuello o pared. El diseño concreto debe superar las comprobaciones de preforma, botella y cierre acordadas. No es una reducción incondicional para todos los envases."
+        }
+      ]
+    }
+  }
+}

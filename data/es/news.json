@@ -896,6 +896,683 @@
       ]
     },
     {
+      "slug": "risks-of-switching-pet-mold-suppliers-mid-project",
+      "date": "2026-10-07",
+      "category": "Artículos técnicos",
+      "title": "¿Qué riesgos tiene cambiar de proveedor de moldes PET en mitad de un proyecto de envases de bebidas?",
+      "summary": "Controle el cambio de proveedor con una referencia aprobada de diseño, interfaces verificadas, pruebas transferidas y un plan claro de aceptación.",
+      "heroImage": {
+        "src": "/images/news/risks-of-switching-pet-mold-suppliers-mid-project-hero.webp",
+        "alt": "Entrega controlada ilustrativa de moldes de preforma y muestras"
+      },
+      "detailImage": {
+        "src": "/images/news/risks-of-switching-pet-mold-suppliers-mid-project-detail.webp",
+        "alt": "Inspección metrológica ilustrativa de insertos de sustitución"
+      },
+      "ogImage": "/images/news/risks-of-switching-pet-mold-suppliers-mid-project-hero-og.jpg",
+      "relatedProducts": [
+        19,
+        34,
+        18
+      ],
+      "sections": [
+        {
+          "heading": "El principal riesgo es perder la referencia técnica aprobada",
+          "paragraphs": [
+            "Un traspaso de proveedor transfiere un alcance de moldes definido y su información técnica aprobada a otro fabricante. Los principales riesgos son revisiones incompatibles, interfaces incompletas, pérdida de pruebas, responsabilidades poco claras y calendarios basados en supuestos. El cambio puede gestionarse, pero el nuevo proveedor debe cualificar el trabajo pendiente real en lugar de tratarlo como un pedido repetido sin cambios."
+          ]
+        },
+        {
+          "heading": "Registro de riesgos de la transición",
+          "table": {
+            "head": [
+              "Riesgo",
+              "Consecuencia",
+              "Control previo"
+            ],
+            "rows": [
+              [
+                "Revisiones distintas",
+                "Cuello, núcleo o botella incorrectos",
+                "Fijar y reconocer la revisión aprobada"
+              ],
+              [
+                "Datos de interfaz incompletos",
+                "Molde que no encaja o no funciona",
+                "Verificar máquina y conjuntos conservados"
+              ],
+              [
+                "Historial de pruebas ausente",
+                "Repetición de defectos anteriores",
+                "Transferir muestras, ajustes y pendientes"
+              ],
+              [
+                "Responsabilidad mezclada",
+                "Problemas entre proveedores",
+                "Designar responsable de integración y diagnóstico"
+              ],
+              [
+                "Alcance pendiente sin confirmar",
+                "Piezas ausentes o duplicadas",
+                "Acordar suministro y piezas conservadas"
+              ],
+              [
+                "Supuestos de calendario",
+                "Entrega sin preparación productiva",
+                "Planear aprobación, pruebas y montaje"
+              ],
+              [
+                "Discontinuidad de servicio",
+                "Repuestos e instrucciones no alineados",
+                "Aprobar referencias e instrucciones actuales"
+              ],
+              [
+                "Aceptación incompleta",
+                "Preforma aceptada pero botella defectuosa",
+                "Conservar pruebas del envase final"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Transfiera las pruebas necesarias al nuevo fabricante",
+          "list": [
+            "Recopile planos aprobados actuales y cambios acordados. Separe documentos liberados para fabricar de borradores. Identifique decisiones pendientes y quién puede cerrarlas para que el nuevo proveedor no fabrique a partir de un archivo obsoleto.",
+            "Entregue la configuración real de máquina y los conjuntos ya construidos o instalados. Conserve mediciones de interfaces pendientes y desviaciones aceptadas. El sustituto necesita la configuración que operará realmente y no solo la propuesta original.",
+            "Transfiera muestras identificadas, informes, información de resina, ajustes y registros de defectos. Incluya ensayos fallidos y correcciones junto con las muestras satisfactorias. Sin los fallos, el siguiente fabricante puede repetir problemas mientras aparenta seguir el diseño aprobado.",
+            "Confirme documentos y piezas disponibles para uso autorizado. Resuelva información ausente mediante mediciones o auditoría de interfaz acordadas. No suponga que cambiar de proveedor permite acceder a archivos propietarios del fabricante anterior."
+          ]
+        },
+        {
+          "heading": "Decida el cambio antes de ampliar el trabajo pendiente",
+          "list": [
+            "Si no ha empezado la fabricación, la tarea principal es alinear especificación y responsabilidades. Si hay piezas mecanizadas, inspeccione primero lo existente y defina qué puede conservar el nuevo fabricante. Una entrega tardía necesita basarse en el estado real y no en suponer reutilizable todo el trabajo.",
+            "En un conjunto mixto, asigne responsabilidad de la interfaz entre piezas antiguas y nuevas. El proveedor debe identificar lo que inspeccionará y lo que acepta como equipo del cliente. Separe la aceptación del molde completo de la inspección de las piezas recién suministradas.",
+            "Revise el plan incluyendo ingeniería, ensayos y correcciones. Los plazos publicados de LIHE son información de producto y no confirman el mismo calendario para un proyecto parcialmente ejecutado. Confirme fechas específicas después de revisar el traspaso.",
+            "LIHE publica conversión y soporte, por lo que puede considerarse para un alcance de sustitución definido. Eso no establece el estado de componentes incompletos ni transfiere obligaciones ajenas. Cambie cuando el trabajo restante, la aceptación y la producción alternativa estén claros."
+          ]
+        },
+        {
+          "heading": "Aceptación en el momento del traspaso",
+          "paragraphs": [
+            "Un cambio a mitad de proyecto necesita dos aceptaciones, no una: la aceptación de lo que se traspasa y la del molde terminado. Si se considera suficiente solo la segunda, nadie responde de las piezas que ya estaban defectuosas cuando cambiaron de manos."
+          ],
+          "steps": [
+            "Realice una inspección conjunta antes de cerrar formalmente el trabajo del proveedor anterior. Registre cada componente terminado o a medio terminar con su revisión de plano y su estado medido, y haga que el comprador y ambos proveedores firmen el inventario.",
+            "Conceda al nuevo proveedor un plazo definido para inspeccionar las piezas traspasadas y aceptarlas como suministro del cliente o rechazarlas con un motivo por escrito. Las piezas aceptadas en esta etapa pasan a formar parte de la responsabilidad de integración del nuevo proveedor.",
+            "Repita al menos una prueba que el proveedor anterior ya realizó, con la misma resina, máquina y ajustes. Obtener los mismos resultados demuestra que la referencia técnica se traspasó correctamente antes de introducir cualquier cambio nuevo.",
+            "Califique el molde mixto en su conjunto: preformas medidas por cavidad, botellas terminadas y una tirada de producción acordada. Que solo los componentes nuevos superen las pruebas no demuestra que funcionen sus interfaces con las piezas conservadas.",
+            "Cierre el traspaso con un único juego de documentos: la revisión de planos vigente, la lista de piezas actual, los ajustes del proceso y una lista de puntos abiertos con su responsable. Archive por separado los documentos del proveedor anterior para que no se reutilicen por error."
+          ]
+        },
+        {
+          "heading": "Mantenga la continuidad del mantenimiento y los repuestos durante el cambio",
+          "list": [
+            "Relacione cada repuesto que tiene la planta con su proveedor y su número de plano. Tras el cambio, algunos repuestos pueden dejar de encajar en el molde revisado; etiquételos claramente antes de que alguien instale uno por error durante una avería.",
+            "Decida quién mantiene las piezas que siguen siendo del proveedor anterior, por ejemplo un canal caliente existente. Si ese proveedor ya no va a darles servicio, pida al nuevo proveedor que cotice el reacondicionamiento o la sustitución antes de que se produzca el primer fallo.",
+            "Solicite al nuevo proveedor su numeración de piezas y una tabla de equivalencias con los números anteriores. Una lista doble durante el período de transición evita pedidos erróneos y existencias duplicadas.",
+            "Acuerde la fecha de la primera visita a planta para la instalación y la puesta en marcha, y qué cubre la asistencia remota hasta entonces. Anote qué debe medir o fotografiar el personal local para que el diagnóstico a distancia sea realmente posible.",
+            "Mantenga en condiciones de funcionamiento el molde aprobado anteriormente, si existe, hasta que el sustituto haya superado la aceptación en planta. Es la única alternativa de la planta si el nuevo molde necesita correcciones tras la entrega."
+          ]
+        },
+        {
+          "heading": "Lo que LIHE publica sobre asumir un proyecto de utillaje",
+          "paragraphs": [
+            "LIHE Precision ha escrito esta guía y puede ser ella misma el proveedor al que se cambia un comprador, algo que conviene tener presente al leerla. Aquí solo se enumeran los datos publicados que importan en un traspaso; todos figuran en lihe-preform.com."
+          ],
+          "list": [
+            "Piezas de conversión: publicadas como 100% intercambiables con sistemas Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps y Corvaglia, y los repuestos pueden fabricarse a partir de piezas Husky, SACMI u Otto que ya tiene el cliente. Confirme la intercambiabilidad con las piezas que realmente se traspasan.",
+            "Ingeniería: CAD/CAM, simulación 3D y análisis de flujo antes de la producción, lo que ayuda a reconstruir una referencia de diseño cuando los planos traspasados están incompletos.",
+            "Medición: laboratorio propio con CMM Zeiss e informes de inspección a petición, algo relevante cuando hay que medir las piezas traspasadas en el momento del traspaso.",
+            "Moldes de preforma: de 32 a 160 cavidades para HUSKY, NETSTAL, SIPA, KATA y otras máquinas, de modo que asumir un proyecto típico de preformas entra en el rango publicado.",
+            "Los plazos publicados van de 20 días (moldes piloto) a 4 semanas (repuestos) y 8 semanas (moldes PET estándar). En un traspaso son solo puntos de partida; el calendario real depende de qué se traspasa y en qué estado.",
+            "Posventa: auditorías in situ de la interfaz con la máquina, instalación de moldes, apoyo en la puesta en marcha, asistencia remota y programas de reacondicionamiento."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Cambiar de proveedor siempre es un error?",
+          "answer": "No. Depende del alcance pendiente y de las pruebas para un traspaso controlado. Defina qué se conserva y qué debe recualificarse antes de comprometerse."
+        },
+        {
+          "question": "¿Puede el sustituto utilizar pruebas anteriores?",
+          "answer": "Son útiles si están vinculadas a planos, resina, muestras y ajustes identificados. El conjunto nuevo o mixto sigue necesitando aceptación; las pruebas previas no cualifican automáticamente componentes cambiados."
+        },
+        {
+          "question": "¿Qué hacer con piezas sin terminar?",
+          "answer": "Inspecciónelas e identifíquelas antes de decidir reutilizarlas. Registre revisión, dimensiones y estado y acuerde qué acepta el nuevo fabricante y qué necesita corrección o sustitución."
+        },
+        {
+          "question": "¿Cómo proteger la producción?",
+          "answer": "Conserve un molde existente aprobado u otro proceso acordado hasta cualificar la sustitución. Planifique el cambio según la preparación para aceptar y no solo la llegada del molde."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Wikipedia — injection moulding",
+          "url": "https://en.wikipedia.org/wiki/Injection_moulding"
+        },
+        {
+          "label": "Wikipedia — hot runner",
+          "url": "https://en.wikipedia.org/wiki/Hot_runner"
+        },
+        {
+          "label": "SIPA — PET preform injection moulds and tooling",
+          "url": "https://sipasolutions.com/products/moulds/preform-tooling"
+        }
+      ]
+    },
+    {
+      "slug": "pet-bottle-mold-retrofit-and-lightweighting-cost",
+      "date": "2026-10-05",
+      "category": "Artículos técnicos",
+      "title": "¿Cuánto debería pagar por una adaptación de moldes de botellas PET o un proyecto de aligeramiento?",
+      "summary": "Defina límites de adaptación, estado del molde conservado y pruebas de envase antes de pedir cotización y aplicar una comparación de coste publicada.",
+      "heroImage": {
+        "src": "/images/news/pet-bottle-mold-retrofit-and-lightweighting-cost-hero.webp",
+        "alt": "Banco ilustrativo de reacondicionamiento y aligeramiento de moldes PET"
+      },
+      "detailImage": {
+        "src": "/images/news/pet-bottle-mold-retrofit-and-lightweighting-cost-detail.webp",
+        "alt": "Anillos y núcleos ilustrativos junto a preformas y botellas"
+      },
+      "ogImage": "/images/news/pet-bottle-mold-retrofit-and-lightweighting-cost-hero-og.jpg",
+      "relatedProducts": [
+        34,
+        22,
+        19
+      ],
+      "sections": [
+        {
+          "heading": "Aplique la comparación publicada a una adaptación definida",
+          "paragraphs": [
+            "Una adaptación de molde modifica herramientas existentes, mientras que el aligeramiento cambia el diseño del envase para reducir material manteniendo las prestaciones aprobadas. LIHE publica que las adaptaciones de aligeramiento cuestan entre el 25% y el 40% de un molde nuevo, pero el precio exacto de su proyecto requiere inspección y cotización específica. Esa proporción no es un precio universal ni se aplica automáticamente a todo molde de soplado o conversión de preformas."
+          ]
+        },
+        {
+          "heading": "Separe los cambios dentro de una solicitud de aligeramiento",
+          "table": {
+            "head": [
+              "Elemento",
+              "Límite posible del molde",
+              "Qué confirmar"
+            ],
+            "rows": [
+              [
+                "Cuello de preforma",
+                "Anillos y piezas relacionadas",
+                "Ajuste del cierre y manipulación"
+              ],
+              [
+                "Pared de preforma",
+                "Componentes y refrigeración",
+                "Inyección y comportamiento de botella"
+              ],
+              [
+                "Cuerpo de botella",
+                "Molde de soplado y posibles piezas de formato",
+                "Ajuste a sopladora y transporte posterior"
+              ],
+              [
+                "Canal caliente",
+                "Componentes conservados o sustituidos",
+                "Compatibilidad y proceso estable"
+              ],
+              [
+                "Reacondicionamiento",
+                "Piezas gastadas e interfaces",
+                "Estado de los conjuntos conservados"
+              ],
+              [
+                "Envase combinado",
+                "Preforma, botella y cierre",
+                "Planos controlados y aceptación"
+              ],
+              [
+                "Instalación",
+                "Cambio de molde y equipos relacionados",
+                "Parada y responsables"
+              ],
+              [
+                "Cualificación",
+                "Ensayos de preforma y envase",
+                "Métodos y evidencia aprobada"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Inspeccione el activo antes de calcular el alcance",
+          "list": [
+            "Aporte planos actuales, historial de mantenimiento, modificaciones conocidas y muestras representativas. Identifique el defecto o cambio que origina el proyecto. Adaptar para reducir peso es distinto de reparar desgaste o restaurar un proceso inestable, aunque se trate del mismo molde.",
+            "Pida al proveedor que identifique conjuntos reutilizables y conjuntos que deben cambiar. Incluya base, componentes de conformación, refrigeración y canal caliente cuando corresponda. No suponga que un juego nuevo de insertos corrige todos los problemas del equipo conservado.",
+            "Aclare si la oferta cubre moldes de inyección de preformas, moldes de soplado o ambos. La preforma determina la distribución durante el soplado, pero el cuerpo se forma en otro molde en una línea de dos etapas. El nombre “aligeramiento de botella” no identifica la lista real de suministro.",
+            "Acuerde qué ocurrirá si la inspección revela una sustitución más amplia. Separe los trabajos confirmados de las partidas pendientes según el estado del molde, para que la planta pueda decidir si la adaptación sigue siendo técnica y operativamente adecuada."
+          ]
+        },
+        {
+          "heading": "Evalúe el ahorro con pruebas del envase y producción",
+          "list": [
+            "Utilice las propuestas publicadas de reducción de peso de LIHE para discutir el alcance de diseño, no como promesa incondicional para la botella actual. El objetivo debe conservar prestaciones de cuello, cierre y botella. Registre los cambios de soplado y manipulación necesarios.",
+            "Base el ahorro en el cambio real aprobado de peso y el volumen aceptado. Mantenga visibles consumo de resina, desperdicio de arranque y rechazos. Aquí no se calcula un plazo de recuperación porque no se han aportado costes de resina, producción, paradas ni cotización del proyecto.",
+            "Compare una adaptación técnicamente adecuada con un molde nuevo adecuado bajo los mismos requisitos. Incluya pruebas, repuestos y puesta en marcha. El porcentaje publicado inicia una conversación, pero no establece un alcance equivalente entre dos ofertas incompletas.",
+            "LIHE ofrece reacondicionamiento, aligeramiento y conversiones de línea. Eso no establece el estado del activo existente ni garantiza la botella final. Apruebe el proyecto según inspección, planos acordados y ensayos del envase antes de cambiar el molde productivo."
+          ]
+        },
+        {
+          "heading": "Cómo leer una oferta de adaptación frente a la cifra del 25%–40%",
+          "list": [
+            "La cifra publicada por LIHE es que adaptar un molde existente para aligeramiento cuesta entre el 25% y el 40% del precio de un molde nuevo. Úsela como comprobación de verosimilitud de una oferta de adaptación, y solo después de que el proveedor haya confirmado por escrito que el molde existente puede reutilizarse.",
+            "Pida que la oferta de adaptación muestre en dos columnas separadas las piezas que se conservan y las que se sustituyen, por ejemplo base del molde y canal caliente conservados, machos y anillos de cuello nuevos. Sin esa separación, el porcentaje no puede relacionarse con ningún alcance físico.",
+            "Solicite al mismo proveedor una oferta de referencia para el molde nuevo equivalente, fabricado con el mismo plano de preforma y para la misma máquina. La proporción solo tiene sentido cuando ambas ofertas describen la misma preforma terminada y las mismas condiciones de aceptación.",
+            "Presente el reacondicionamiento de las piezas conservadas por separado del cambio de aligeramiento. Guías desgastadas, circuitos de refrigeración con fugas o un canal caliente que necesita servicio añaden un coste que corresponde al mantenimiento y no a la reducción de peso, y deben presupuestarse como tal.",
+            "Enumere los costes que quedan fuera del molde: resina de prueba, ajustes de moldes de soplado o piezas de formato, parada de la línea durante el cambio y recualificación de la botella. No aparecen en el porcentaje del molde, pero deciden si el proyecto se amortiza realmente."
+          ]
+        },
+        {
+          "heading": "Comprobaciones de material y envase que exige una preforma más ligera",
+          "list": [
+            "Quitar entre 1 g y 2 g a una preforma deja menos material para estirar en la misma botella. Pida al diseñador de la botella que confirme que el espesor de pared en el hombro, el cuerpo y la base sigue cumpliendo la especificación del envase antes de mecanizar el acero.",
+            "Si el proyecto introduce además PET reciclado (rPET), pruebe el diseño aligerado y la nueva resina en etapas separadas. Cambiar ambos a la vez impide saber si un defecto posterior se debe a la geometría o al material.",
+            "Seque la resina según las instrucciones de su fabricante y anote el número de lote de cada prueba. Las paredes más delgadas pueden hacer más visibles los defectos relacionados con la humedad o la temperatura, así que guarde el registro de secado junto con las muestras.",
+            "Cuando el cuello forma parte del cambio, involucre desde el principio al proveedor de tapas. Un cuello más corto o un acabado distinto, como PCO 1881 o 29/25, debe seguir sellando y superar las pruebas de taponado y par de apriete con las tapas que la planta compra realmente.",
+            "La documentación de contacto alimentario y la normativa corresponden a los responsables de la resina y del envase, no al fabricante del molde. Prepare esa documentación en paralelo al trabajo de utillaje para que no retrase una adaptación que ya ha superado sus pruebas."
+          ]
+        },
+        {
+          "heading": "Aceptar un molde adaptado por etapas",
+          "steps": [
+            "Antes de retirar material, mida el molde existente y guarde preformas de referencia de cada cavidad. Esta línea base muestra exactamente qué cambió la adaptación y protege a ambas partes si las piezas conservadas presentan problemas más adelante.",
+            "Apruebe por escrito el nuevo plano de la preforma y la lista de piezas que se modificarán. Señale qué dimensiones deben cambiar y cuáles, como la interfaz del cuello con la tapa, deben permanecer idénticas a la línea base.",
+            "Ponga en marcha el molde adaptado y registre el nuevo peso de la preforma por cavidad frente a los valores de referencia. Acepte la reducción de peso solo cuando sea uniforme en todas las cavidades, no como una media de todo el molde.",
+            "Sople las preformas aligeradas en la sopladora de la planta, o en una máquina equivalente, y ensaye las botellas según la especificación del envase. Conserve las botellas que fallen; indican dónde la distribución del material necesita más ajuste.",
+            "Tras la reinstalación, produzca un lote lo bastante largo para conocer las tasas de desperdicio y de paradas, y compárelas con el molde de referencia. Cierre la adaptación solo cuando la preforma aligerada funcione con un nivel de rechazo acordado previamente por la planta."
+          ]
+        },
+        {
+          "heading": "Servicios de adaptación de LIHE y las cifras que los respaldan",
+          "paragraphs": [
+            "LIHE Precision publica este artículo y vende ella misma trabajos de adaptación y aligeramiento, por lo que sus cifras deben leerse como declaraciones del propio proveedor y no como datos independientes. Los puntos siguientes están publicados en lihe-preform.com y son los que afectan a un presupuesto de adaptación."
+          ],
+          "list": [
+            "Coste de adaptación: LIHE indica que adaptar moldes existentes para aligeramiento cuesta entre el 25% y el 40% del precio de un molde nuevo, y describe el plazo de amortización como corto. La amortización que logre una planta concreta depende de su precio de resina, sus volúmenes y sus paradas.",
+            "Reducción de peso: las propuestas de aligeramiento de LIHE reducen el peso de la preforma entre 1 g y 2 g mediante la optimización del cuello o del espesor de pared.",
+            "Refrigeración: según LIHE, un circuito de refrigeración rediseñado puede reducir hasta 0,5 segundos el enfriamiento del cuello. Considérelo un límite superior y confirme el efecto en su propio molde durante la prueba.",
+            "Alcance del trabajo: reacondicionamiento completo de moldes, conversiones de acabado de cuello, pruebas con material rPET y piezas de repuesto fabricadas a partir de piezas Husky, SACMI u Otto que ya tiene el cliente.",
+            "Plazos: las piezas de repuesto se publican con un plazo de 4 semanas. Acuerde por separado cuánto tiempo estará el molde fuera de producción, incluidas las pruebas y la reinstalación."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿La proporción publicada es una cotización fija?",
+          "answer": "No. Es la comparación de LIHE para adaptaciones de aligeramiento. Confirme estado, conjuntos conservados y alcance equivalente de molde nuevo antes de utilizarla en la evaluación."
+        },
+        {
+          "question": "¿Todo aligeramiento necesita moldes de soplado nuevos?",
+          "answer": "No automáticamente. Lo determinan preforma, diseño e interfaces. El proveedor debe identificar los moldes de inyección, soplado y piezas de formato afectados."
+        },
+        {
+          "question": "¿Una adaptación garantiza ahorro de material?",
+          "answer": "Apruebe el diseño y mida el cambio real de peso primero. Importan también desperdicios, rechazos y manipulación. Un rango de propuestas no establece el ahorro neto de la fábrica."
+        },
+        {
+          "question": "¿Cuándo considerar un molde nuevo?",
+          "answer": "Cuando inspección e ingeniería indiquen que los conjuntos conservados no cumplen el diseño o las condiciones requeridas. Compare opciones viables con los mismos requisitos de aceptación."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Wikipedia — polyethylene terephthalate",
+          "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate"
+        },
+        {
+          "label": "Wikipedia — injection moulding",
+          "url": "https://en.wikipedia.org/wiki/Injection_moulding"
+        },
+        {
+          "label": "SIPA — PET preform injection moulds and tooling",
+          "url": "https://sipasolutions.com/products/moulds/preform-tooling"
+        }
+      ]
+    },
+    {
+      "slug": "pet-preform-mold-cost-48-cavity",
+      "date": "2026-10-03",
+      "category": "Artículos técnicos",
+      "title": "¿Cuánto cuesta un molde nuevo de preforma PET para una línea de bebidas de 48 cavidades?",
+      "summary": "Entienda el alcance y los factores de coste de un molde PET nuevo de 48 cavidades sin recurrir a precios genéricos sin verificar.",
+      "heroImage": {
+        "src": "/images/news/pet-preform-mold-cost-48-cavity-hero.webp",
+        "alt": "Molde ilustrativo de preformas, canal caliente y muestras en un banco"
+      },
+      "detailImage": {
+        "src": "/images/news/pet-preform-mold-cost-48-cavity-detail.webp",
+        "alt": "Insertos, boquillas y conexiones ilustrativos de refrigeración"
+      },
+      "ogImage": "/images/news/pet-preform-mold-cost-48-cavity-hero-og.jpg",
+      "relatedProducts": [
+        19,
+        27,
+        30
+      ],
+      "sections": [
+        {
+          "heading": "El precio exacto requiere la especificación completa",
+          "paragraphs": [
+            "Un molde PET de 48 cavidades es una herramienta de inyección con ese número de espacios de conformación, no una línea completa de bebidas. Su precio exacto requiere una cotización para máquina, diseño de preforma, canal caliente, materiales y aceptación, por lo que aquí no se indica un precio ni un rango sin verificar. Empiece separando un molde nuevo completo de una mitad fría de sustitución o una conversión con conjuntos existentes."
+          ]
+        },
+        {
+          "heading": "Factores de coste para la solicitud de cotización",
+          "table": {
+            "head": [
+              "Factor",
+              "Qué especificar",
+              "Por qué cambia el alcance"
+            ],
+            "rows": [
+              [
+                "Cavidades",
+                "Distribución y plan de cavidades activas",
+                "La máquina y el molde deben admitirla"
+              ],
+              [
+                "Canal caliente",
+                "Mitad nueva, sistema conservado o reacondicionado",
+                "Los conjuntos incluidos cambian"
+              ],
+              [
+                "Materiales",
+                "Acero, componentes y tratamientos",
+                "Fabricación e inspección dependen del requisito"
+              ],
+              [
+                "Acabado de cuello",
+                "Dimensiones aprobadas e interfaz de cierre",
+                "Cambian anillos y piezas de manipulación"
+              ],
+              [
+                "Plataforma",
+                "Modelo, interfaz y modificaciones",
+                "El ajuste y la conversión son específicos"
+              ],
+              [
+                "Refrigeración",
+                "Circuitos y servicios de planta",
+                "Las condiciones de prueba deben corresponder"
+              ],
+              [
+                "Validación",
+                "Inspección, pruebas y ensayos de botella",
+                "Comprar solo el molde omite cualificación"
+              ],
+              [
+                "Entrega",
+                "Hitos de aprobación, fabricación e instalación",
+                "Transporte y arranque tienen alcance propio"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Defina qué incluye un molde nuevo",
+          "list": [
+            "Solicite una lista de suministro que identifique mitad fría, mitad caliente, base, controlador y piezas de conversión. Una oferta de mitad fría que reutilice un canal caliente existente no se compara directamente con un molde nuevo completo sin mostrar el equipo conservado.",
+            "Describa la preforma y su botella final, no solo las cavidades pedidas. La geometría del cuello, el anillo de soporte y la distribución de pared influyen en los componentes y las pruebas. Envíe la revisión aprobada e identifique cualquier aligeramiento previsto.",
+            "Confirme la interfaz con la máquina y los equipos de manipulación instalados. Pregunte si deben cambiar conexiones de refrigeración, electricidad, extracción o enfriamiento posterior. Incluya el alcance de esos costes aunque las piezas las suministre otro proveedor.",
+            "Identifique los entregables de aceptación: muestras, informes, ajustes, instrucciones de mantenimiento e información de repuestos. Sirven para comparar un paquete de producción utilizable y no importes finales que cubren obligaciones distintas."
+          ]
+        },
+        {
+          "heading": "Compare molde nuevo y reutilización cuando ambas sean viables",
+          "list": [
+            "Puede necesitarse un molde completo nuevo si el existente no es adecuado para el diseño o la configuración de máquina objetivo. Establezca ese límite técnico antes de solicitar reparación o conversión. Reutilizar es una opción y no una obligación de conservar todos los conjuntos.",
+            "Para convertir, documente el estado y la función restante de las partes conservadas. Exija una interfaz clara entre componentes nuevos y existentes y determine quién diagnosticará un defecto que cruce esa frontera.",
+            "No aplique una proporción publicada de adaptación a un molde nuevo como si fuera una cotización monetaria. La comparación porcentual de LIHE corresponde a adaptaciones de aligeramiento adecuadas. El precio del molde nuevo sigue necesitando alcance y cotización propios.",
+            "Incluya la interrupción productiva y la cualificación. El importe inicial más bajo no proporciona necesariamente el molde completo requerido, y una fecha nominal de entrega no establece cuándo podrá la planta liberar botellas aprobadas."
+          ]
+        },
+        {
+          "heading": "Partidas que una cotización de 48 cavidades debe desglosar",
+          "list": [
+            "Mitad fría para 48 cavidades: machos, insertos de cavidad, anillos de cuello, anillos de bloqueo y el mecanismo de accionamiento de los anillos de cuello. Pida que se coticen por juego de cavidad, para que una posición dañada se convierta más adelante en un pedido de repuesto y no en una decisión sobre todo el molde.",
+            "Mitad caliente: distribuidor, 48 boquillas, resistencias, termopares y, en un diseño de obturación por válvula, las agujas y su accionamiento. Indique si la oferta incluye un controlador de temperatura o si la nueva mitad caliente se conectará al controlador que ya tiene la planta.",
+            "Base del molde y placas adaptadas a la inyectora. La misma disposición de 48 cavidades puede requerir dimensiones de placa, paso entre columnas o carrera de expulsión distintos en dos modelos de máquina, así que indique en la solicitud el modelo exacto y sus modificaciones.",
+            "Paquete de repuestos: un juego recomendado de piezas de desgaste, como mitades de anillo de cuello, insertos de entrada y puntas de boquilla. Una oferta sin repuestos parece más baja en papel, pero traslada ese gasto a los primeros meses de producción, normalmente con plazos más urgentes.",
+            "Ingeniería y documentación: revisión del diseño de la preforma, análisis de refrigeración o de llenado cuando se solicite, planos finales y lista de piezas. Estas partidas suelen agruparse sin una línea propia; pida que se nombren para que no desaparezcan discretamente durante la negociación.",
+            "Prueba en fábrica y condiciones de entrega: resina de prueba, muestreo, embalaje, flete y seguro. Pregunte por escrito quién paga una segunda prueba en fábrica si la primera no cumple los criterios acordados, porque esa cuestión es mucho más fácil de resolver antes del pedido."
+          ]
+        },
+        {
+          "heading": "Cómo las condiciones de aceptación cambian el coste real de un molde de 48 cavidades",
+          "paragraphs": [
+            "En un molde de 48 cavidades, una sola posición débil representa aproximadamente el 2% de la producción de la herramienta, de modo que la forma en que la aceptación trata cada cavidad cambia directamente el coste de la planta por preforma buena. Incluya las siguientes etapas en el pedido de compra en lugar de dejarlas para la reunión de entrega."
+          ],
+          "steps": [
+            "Adjunte el documento de aceptación a la propia cotización. Indique la revisión del plano de la preforma, el grado de resina y las condiciones de secado, la máquina de destino y los criterios que debe cumplir cada una de las 48 cavidades. Un criterio añadido después de construir el molde suele volver en forma de orden de cambio.",
+            "Realice la prueba en fábrica con las 48 cavidades activas y numere cada muestra según su cavidad. Mida el peso, las dimensiones del cuello y la calidad del punto de inyección posición por posición, y decida de antemano cuántas cavidades fuera de tolerancia, si se admite alguna, impiden el envío del molde.",
+            "Calcule la producción a partir de las preformas aceptadas y no del ciclo en vacío. Cuente las cavidades bloqueadas y los rechazos de arranque, porque un molde que funciona con 46 cavidades buenas entrega bastante menos que el volumen con el que se compararon las ofertas.",
+            "Sople muestras de cada grupo de cavidades en la botella final y compruebe el ajuste del cierre y el comportamiento a presión o a carga vertical que exige el producto. Un defecto que solo aparece tras el soplado cuesta mucho menos de corregir antes de que el molde salga del taller del fabricante.",
+            "Vincule el pago final a la aceptación en la propia máquina de la planta, repitiendo tras la instalación las mismas mediciones por cavidad. Registre cada punto pendiente en el acta de aceptación con un responsable y una fecha de cierre."
+          ]
+        },
+        {
+          "heading": "Información publicada por LIHE relevante para un pedido de 48 cavidades",
+          "paragraphs": [
+            "LIHE Precision es quien publica esta guía, y sus propios moldes están entre las opciones que un comprador puede pedir cotizar; la lista de comprobaciones anterior se aplica a LIHE igual que a cualquier otro proveedor. Las cifras siguientes están publicadas en lihe-preform.com y se incluyen solo cuando influyen en la compra de un molde de 48 cavidades."
+          ],
+          "list": [
+            "Número de cavidades: LIHE ofrece moldes de preforma PET de 32 a 160 cavidades, por lo que un molde de 48 cavidades está dentro del rango publicado. Que una inyectora concreta pueda montarlo sigue dependiendo de su fuerza de cierre, el tamaño de los platos y la capacidad de inyección.",
+            "Plataformas de máquina: se ofrecen moldes de preforma para HUSKY, NETSTAL, SIPA, KATA y otras máquinas. Indique en la consulta el modelo exacto y cualquier modificación previa para que la base del molde se cotice para la inyectora correcta.",
+            "Canales calientes: sistemas de obturación por válvula de hasta 144 cavidades para preformas, publicados con una garantía de estanqueidad de 3 años. Pregunte cómo se redacta esa garantía en el contrato para la mitad caliente de 48 boquillas que se cotiza.",
+            "Plazos de entrega: moldes PET estándar en 8 semanas y moldes piloto en 20 días. Aclare si el plazo empieza con el pedido, con el anticipo o con la aprobación de planos, y súmele las pruebas en fábrica y el transporte.",
+            "Evidencia de calidad: LIHE publica que su utillaje alcanza un CPK ≥ 1,33, medido en un laboratorio propio con CMM Zeiss, y entrega informes de inspección a petición. Solicite los informes de su propio juego de cavidades y no una muestra de otro proyecto."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Por qué las cavidades no bastan para fijar el precio?",
+          "answer": "No especifican geometría, interfaces, canal caliente, materiales ni aceptación. Esos elementos determinan la ingeniería, fabricación y validación del proveedor."
+        },
+        {
+          "question": "¿Una oferta de mitad fría es el precio del molde completo?",
+          "answer": "Solo si lo indica expresamente. Identifique la mitad caliente y los conjuntos conservados y compare todo el equipo necesario en lugar del título de la oferta."
+        },
+        {
+          "question": "¿El porcentaje de adaptación permite calcular un molde nuevo?",
+          "answer": "No. Compara proyectos de adaptación adecuados y no publica un precio monetario de moldes nuevos. Solicite ofertas separadas y comparables para las opciones viables."
+        },
+        {
+          "question": "¿Qué debe fijarse antes del pedido?",
+          "answer": "Planos aprobados, interfaz real, conjuntos suministrados, resina y pruebas, hitos de entrega y responsables. Resuelva los elementos omitidos antes de autorizar fabricación."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Wikipedia — injection moulding",
+          "url": "https://en.wikipedia.org/wiki/Injection_moulding"
+        },
+        {
+          "label": "Wikipedia — hot runner",
+          "url": "https://en.wikipedia.org/wiki/Hot_runner"
+        },
+        {
+          "label": "SIPA — PET preform injection moulds and tooling",
+          "url": "https://sipasolutions.com/products/moulds/preform-tooling"
+        }
+      ]
+    },
+    {
+      "slug": "specialized-mold-maker-vs-full-line-equipment-supplier",
+      "date": "2026-09-30",
+      "category": "Artículos técnicos",
+      "title": "¿Qué es mejor para una planta PET de gran volumen: un especialista en moldes o un proveedor de línea completa?",
+      "summary": "Elija un especialista para una tarea de moldes definida o un proveedor de línea para equipo coordinado, con responsabilidad clara sobre cada interfaz.",
+      "heroImage": {
+        "src": "/images/news/specialized-mold-maker-vs-full-line-equipment-supplier-hero.webp",
+        "alt": "Banco ilustrativo de desarrollo de moldes junto a una línea PET"
+      },
+      "detailImage": {
+        "src": "/images/news/specialized-mold-maker-vs-full-line-equipment-supplier-detail.webp",
+        "alt": "Molde ilustrativo de soplado PET y equipos posteriores de producción"
+      },
+      "ogImage": "/images/news/specialized-mold-maker-vs-full-line-equipment-supplier-hero-og.jpg",
+      "relatedProducts": [
+        19,
+        22,
+        27
+      ],
+      "sections": [
+        {
+          "heading": "Elija por límites del proyecto y responsabilidad de integración",
+          "paragraphs": [
+            "Un especialista en moldes suministra herramientas y su ingeniería; un proveedor de línea completa coordina más equipos de producción dentro del alcance cotizado. Un especialista es una opción razonable para una sustitución o conversión definida en una línea establecida, mientras que una propuesta de línea completa merece consideración para una planta nueva o cambios amplios de equipo. La elección depende de quién asume integración, cualificación y servicio del proceso requerido."
+          ]
+        },
+        {
+          "heading": "Compare el alcance real, no la categoría",
+          "table": {
+            "head": [
+              "Dimensión",
+              "Vía de especialista",
+              "Vía de línea completa"
+            ],
+            "rows": [
+              [
+                "Tarea principal",
+                "Proyecto definido de molde o componente",
+                "Proyecto de equipo coordinado"
+              ],
+              [
+                "Máquinas instaladas",
+                "Confirmar las interfaces",
+                "Confirmar las máquinas incluidas"
+              ],
+              [
+                "Diseño de botella",
+                "Acordar desarrollo y ensayos",
+                "Acordar desarrollo y ensayos del envase"
+              ],
+              [
+                "Integración",
+                "Coordina la planta o el integrador designado",
+                "Confirmar los límites contratados"
+              ],
+              [
+                "Servicios",
+                "La planta documenta condiciones disponibles",
+                "Acordar necesidades del equipo"
+              ],
+              [
+                "Puesta en marcha",
+                "Aceptación de molde e interfaces",
+                "Aceptación de equipo y línea"
+              ],
+              [
+                "Servicio",
+                "Responsabilidades de moldes y piezas",
+                "Comprobar soporte de línea y máquinas"
+              ],
+              [
+                "Comparación comercial",
+                "Ingeniería, moldes y paradas",
+                "Equipo, integración y cualificación"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Ejemplos neutrales de funciones de proveedores",
+          "list": [
+            "Otto Hofstetter publica moldes de preformas PET. Es un ejemplo de oferta especializada que puede investigar. Compare el molde concreto, su interfaz y sus acuerdos de servicio, sin tratar la especialización como prueba de mayor calidad o menor coste.",
+            "Sidel publica líneas completas de embotellado de agua. Su oferta resulta pertinente al comprar equipo coordinado de producción de botellas. Revise los límites cotizados: no suponga que incluye fabricación previa de preformas, servicios de planta o todas las tareas de desarrollo del envase.",
+            "SIPA publica moldes de preforma y conversiones, y Husky publica sistemas integrados de inyección y canales calientes. Ilustran por qué una compra puede involucrar moldes y equipos anteriores al soplado y al llenado.",
+            "LIHE publica moldes, canales calientes, componentes y conversión de moldes. Evalúe ese alcance para un proyecto en máquinas existentes. No presente a LIHE como sustituto de todos los proveedores de máquinas y líneas completas; acuerde sus responsabilidades con la planta y los proveedores de equipo."
+          ]
+        },
+        {
+          "heading": "Decida según la situación operativa de la planta",
+          "list": [
+            "Para una línea estable que necesita un molde de preformas nuevo, empiece por las especificaciones ya aprobadas de máquina y envase. Un proyecto delimitado puede conservar el equipo y cambiar el molde. Compruebe si la conversión también afecta a refrigeración, controles, manipulación o geometría del cierre.",
+            "Para una planta nueva, dibuje el proceso desde el suministro de preformas hasta el envase terminado. Decida si la inyección estará en planta e identifique después soplado, llenado, tapado y transporte. Una línea completa puede coordinar más equipo, pero solo el contrato establece esa responsabilidad.",
+            "Para aligeramiento y cambios de equipo simultáneos, designe un responsable técnico del envase. Fije requisitos de preforma, botella y cierre y ordene las pruebas. Ninguna categoría elimina la necesidad de ensayar la botella o resolver cambios entre inyección y soplado.",
+            "Utilice un especialista cuando la planta o su integrador pueda gestionar interfaces; considere un contratista más amplio cuando la coordinación forme parte de la compra. Si la responsabilidad sigue poco clara, resuélvala antes de adjudicar en lugar de confiar en la categoría del proveedor."
+          ]
+        },
+        {
+          "heading": "Reparta la aceptación entre el fabricante de moldes y el proveedor de línea",
+          "steps": [
+            "Elabore una matriz de responsabilidades por interfaz antes de emitir cualquier pedido. Enumere cada interfaz física y de datos, como el plato y la mitad caliente, el agua de refrigeración, las señales del controlador, el robot de extracción, el transportador y la entrada a la sopladora, y asigne a cada fila un responsable y un aprobador con nombre.",
+            "Realice la prueba de aceptación en fábrica del molde en las instalaciones del fabricante. Esta prueba corresponde al fabricante del molde: dimensiones por cavidad, calentamiento del canal caliente y funcionamiento de las válvulas de obturación, caudal de los circuitos de refrigeración y una tirada estable en una máquina comparable. Fírmela como resultado del molde, no de la línea.",
+            "Realice la aceptación de equipos con el proveedor de línea para las máquinas que haya contratado. El proveedor de línea demuestra velocidades, cambios de formato y controles dentro de su alcance; pídale que indique por escrito qué entradas aguas arriba, incluidas las preformas, supuso para esa prueba.",
+            "Una vez instalado el molde en la máquina de la planta y conectado a la línea posterior, haga una aceptación conjunta en planta con ambas partes presentes. Acuerde de antemano cómo se atribuyen los defectos: una preforma fuera de tolerancia apunta al molde o a los ajustes de inyección, mientras que un defecto de botella a partir de una preforma conforme apunta al soplado o a los ajustes de línea.",
+            "Cierre el proyecto con un expediente de entrega de cada parte y una única lista compartida de puntos abiertos. Cada punto abierto lleva responsable y fecha, para que nada quede en el hueco entre el contrato de utillaje y el contrato de equipos."
+          ]
+        },
+        {
+          "heading": "Después del arranque: quién mantiene qué",
+          "list": [
+            "Las piezas de desgaste del molde, como anillos de cuello, machos, cavidades, puntas de boquilla y agujas de válvula, suelen venir del fabricante del molde o de una fuente de utillaje cualificada. Las piezas de desgaste de la máquina vienen del fabricante de la máquina. Mantenga separadas las dos listas de repuestos para que una rotura de stock se atribuya al proveedor correcto.",
+            "Con un contrato de línea completa, la planta suele tener un solo contacto comercial, pero el proveedor de línea puede seguir trasladando un problema de utillaje a su propio subcontratista de moldes. Pregunte quién realiza realmente las reparaciones del molde, dónde se hacen y cuánto tiempo queda el molde fuera de producción cuando sale de la planta.",
+            "Con la vía especializada, la planta o su integrador coordina a los proveedores. Eso da acceso directo a quienes diseñaron el molde, pero también obliga a los ingenieros de la planta a reconocer si una avería empieza en el molde, en la máquina o en el equipo posterior.",
+            "Decida dónde se hará el reacondicionamiento antes de que llegue la primera revisión mayor. Parte del trabajo puede hacerse en planta; el reacondicionamiento del canal caliente y de las cavidades suele requerir llevar el molde al taller del fabricante. Prevea para ese periodo un juego de molde de reserva o un suministro alternativo de preformas.",
+            "Incluya en cada contrato las expectativas de servicio: canales de soporte remoto, condiciones de las visitas a planta, plazos de repuestos y forma de distribuir los planos revisados. Si el contrato de línea y el de utillaje describen el servicio con términos distintos, las averías entre proveedores tardan más en resolverse."
+          ]
+        },
+        {
+          "heading": "Dónde se sitúa LIHE en esta elección",
+          "paragraphs": [
+            "Esta guía procede de LIHE Precision, un proveedor especializado en utillaje y no un contratista de líneas completas, de modo que conviene leerla teniendo en cuenta esa posición. Las cifras siguientes están publicadas en lihe-preform.com y se refieren solo a la parte de utillaje de la decisión; los equipos de línea, la integración y la aceptación global de la línea siguen correspondiendo a la planta o a sus proveedores de equipos."
+          ],
+          "list": [
+            "Gama de utillaje: moldes de preforma PET de 32 a 160 cavidades para máquinas HUSKY, NETSTAL, SIPA, KATA y otras, además de canales calientes con válvula de obturación de hasta 144 cavidades para preformas, con una garantía de 3 años contra fugas en el diseño tipo Husky Ultra.",
+            "Compatibilidad con los equipos instalados: las piezas de conversión se publican como 100% intercambiables para sistemas Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps y Corvaglia. Es relevante cuando la planta conserva sus máquinas y solo cambia el utillaje.",
+            "Plazos de la parte de utillaje de un proyecto: moldes piloto 20 días, moldes estándar de preforma PET y de soplado 8 semanas, piezas de repuesto 4 semanas. Los calendarios de los equipos de línea quedan fuera de estas cifras y deben planificarse con el proveedor de línea.",
+            "Servicio en la parte de utillaje: auditorías de interfaz de máquina, instalación del molde, apoyo en la puesta en marcha, mantenimiento preventivo, diagnóstico remoto, repuestos y reacondicionamiento de moldes. Acuerde el paquete exacto en la cotización y asígnelo en la matriz de responsabilidades descrita arriba."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Una línea completa siempre es mejor para gran volumen?",
+          "answer": "No. El volumen describe la demanda productiva, no el alcance de la compra. Un cambio de molde definido y una planta completa nueva necesitan responsabilidades y pruebas diferentes."
+        },
+        {
+          "question": "¿Un especialista puede apoyar una planta grande?",
+          "answer": "Evalúe la propuesta concreta de molde y servicio. Confirme interfaces, cualificación y repuestos. La categoría del proveedor por sí sola no demuestra el cumplimiento de la producción requerida."
+        },
+        {
+          "question": "¿Una línea completa de agua incluye inyección de preformas?",
+          "answer": "No lo suponga. La planta puede comprar preformas o utilizar equipos de inyección separados. Pida al proveedor que indique dónde empieza y termina el alcance contratado."
+        },
+        {
+          "question": "¿Quién debe asumir un defecto entre proveedores?",
+          "answer": "Designe un responsable de integración antes del pedido y acuerde cómo investigar problemas de molde, máquina y envase. Mantenga una especificación aprobada y un registro de cambios común entre proveedores."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Sidel — complete water bottling lines",
+          "url": "https://www.sidel.com/en/complete-lines-repository/water-lines/"
+        },
+        {
+          "label": "SIPA — PET preform injection moulds and tooling",
+          "url": "https://sipasolutions.com/products/moulds/preform-tooling"
+        },
+        {
+          "label": "Otto Hofstetter — precision PET preform moulds",
+          "url": "https://www.otto-hofstetter.swiss/"
+        },
+        {
+          "label": "Husky — injection molding systems, hot runners and services",
+          "url": "https://www.husky.co/en/"
+        }
+      ]
+    },
+    {
       "slug": "increasing-cavitation-on-existing-pet-preform-mold",
       "date": "2026-09-28",
       "category": "Artículos técnicos",
@@ -1665,6 +2342,327 @@
       ]
     },
     {
+      "slug": "lightweight-pet-preform-and-rpet-mold-maker",
+      "date": "2026-09-22",
+      "category": "Artículos técnicos",
+      "title": "¿Se puede recomendar un fabricante de moldes que trabaje con preformas PET ligeras y ensayos de rPET?",
+      "summary": "Cualifique al fabricante para PET ligero y rPET mediante ensayos controlados de resina, revisión de interfaces y pruebas de botella terminada.",
+      "heroImage": {
+        "src": "/images/news/lightweight-pet-preform-and-rpet-mold-maker-hero.webp",
+        "alt": "Desarrollo ilustrativo de botellas ligeras con preformas y escamas de PET reciclado"
+      },
+      "detailImage": {
+        "src": "/images/news/lightweight-pet-preform-and-rpet-mold-maker-detail.webp",
+        "alt": "Inspección ilustrativa de preformas PET e insertos de precisión"
+      },
+      "ogImage": "/images/news/lightweight-pet-preform-and-rpet-mold-maker-hero-og.jpg",
+      "relatedProducts": [
+        19,
+        34,
+        27
+      ],
+      "sections": [
+        {
+          "heading": "Recomiende un socio cualificado con una prueba definida",
+          "paragraphs": [
+            "El rPET es tereftalato de polietileno reciclado y se utiliza como materia prima, no como un tipo distinto de molde. LIHE es un candidato porque publica aligeramiento de preformas y ensayos de rPET; SIPA y Husky también pueden investigarse para necesidades de moldes o de sistemas integrados. Elija al socio que confirme la interfaz real y realice una prueba documentada desde la preforma hasta la botella, sin asumir que una geometría más ligera o una resina reciclada funcionarán sin cambios."
+          ]
+        },
+        {
+          "heading": "Cómo preparar una selección neutral",
+          "list": [
+            "LIHE publica aligeramiento mediante la optimización del cuello o de la pared y ensayos con material rPET. Pida un plan de desarrollo vinculado a la preforma actual, la botella objetivo y la máquina instalada. Poder ensayar el material no significa aprobar cualquier origen de rPET ni garantizar un porcentaje concreto de contenido reciclado.",
+            "La página de moldes de SIPA describe la tecnología XMould para preformas de pared fina. Investigue si ese enfoque resulta aplicable a su geometría y máquina. Una descripción publicada es el punto de partida de la conversación técnica y no una prueba directa del resultado en su botella.",
+            "Husky publica sistemas integrados de inyección y canales calientes. Considere su oferta de sistema si el proyecto también comprende la plataforma de inyección y los equipos relacionados. Separe la opción de solo molde de la opción de equipo integrado al comparar responsabilidades y aceptación.",
+            "Solicite datos de entrada equivalentes a todos los candidatos: plano actual, cambios propuestos, lote previsto de resina y pruebas acordadas de botella. Rechace una comparación que utilice distinta resina, especificación de cierre o requisitos de envase sin identificar esas diferencias."
+          ]
+        },
+        {
+          "heading": "Compare las vías de desarrollo antes de aprobar el diseño",
+          "table": {
+            "head": [
+              "Vía",
+              "Qué cambia",
+              "Prueba necesaria"
+            ],
+            "rows": [
+              [
+                "Aligeramiento del cuello",
+                "Cuello o anillo de soporte",
+                "Ajuste del cierre, manipulación y sellado"
+              ],
+              [
+                "Aligeramiento de pared",
+                "Distribución de material de preforma",
+                "Distribución de pared y ensayos de botella"
+              ],
+              [
+                "Ensayo de resina",
+                "Lote o nivel de contenido reciclado",
+                "Resina identificada, secado y muestras"
+              ],
+              [
+                "Desarrollo combinado",
+                "Geometría y material a la vez",
+                "Secuencia trazable y referencia inicial"
+              ],
+              [
+                "Adaptación a máquina existente",
+                "Componentes seleccionados del molde",
+                "Interfaces aprobadas y montaje"
+              ],
+              [
+                "Sistema nuevo",
+                "Moldes y alcance de equipo",
+                "Aceptación del sistema e integración"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Diseñe el ensayo para aprender de un fallo",
+          "list": [
+            "Conserve una referencia de producción con la preforma y resina existentes aprobadas. Identifique qué variable cambia en cada prueba. Si cambian a la vez la geometría, el material y el proceso sin registro controlado, un ensayo fallido de botella aporta poca información sobre la corrección necesaria.",
+            "Defina el envase terminado aceptable antes de perseguir menor peso. Revise el cuello, el tapón y la botella juntos, incluyendo manipulación y llenado. Una pared más fina puede alterar el estirado, por lo que la aceptación de inyección y la de botella deben seguir siendo decisiones separadas.",
+            "Confirme el equipo de ensayo del proveedor y cómo reproducirá la planta sus condiciones. Acuerde el registro de preparación de resina, refrigeración y manipulación, e identifique quién aporta la documentación del material para el mercado de destino.",
+            "La reducción publicada por LIHE es un rango de propuestas y no una garantía de ahorro para una botella concreta. Su alcance de moldes también requiere que la planta y los proveedores de equipo acuerden ajustes e integración. Libere el diseño después de aceptar las pruebas necesarias."
+          ]
+        },
+        {
+          "heading": "Qué cambia la resina reciclada dentro de una preforma más ligera",
+          "list": [
+            "El PET reciclado puede llegar con una dispersión de viscosidad intrínseca mayor que la del grado virgen al que sustituye. Una pared de preforma más fina deja menos margen para esa variación, así que pida al proveedor de resina la especificación de viscosidad y los datos por lote antes de decidir cuánto peso recortar en el mismo proyecto.",
+            "El PET absorbe humedad y se degrada por hidrólisis cuando se funde húmedo. Las escamas o la granza de rPET almacenadas o mezcladas de forma distinta a la resina virgen pueden necesitar su propia comprobación de secado. Registre los ajustes del secador y el tiempo de residencia de cada lote de prueba en lugar de reutilizar por costumbre los ajustes de la resina virgen.",
+            "El contenido reciclado puede alterar el color, la turbidez y el número de puntos visibles. Acuerde primero los límites de aspecto con el propietario de la marca, porque una pared más fina hace más visibles algunos defectos y un rechazo visual en la fase de botella echa a perder toda la tirada de prueba.",
+            "La proporción de mezcla es en sí una variable. Ensayar primero con una cuota menor y después con una mayor de rPET sobre la misma geometría aligerada aporta mucha más información que saltar directamente al objetivo final, y muestra dónde empieza a estrecharse la ventana de proceso.",
+            "La aptitud para contacto alimentario corresponde a la resina y al proceso de reciclado, no al molde. Reúna esa documentación del proveedor de resina en paralelo con el trabajo de utillaje para que una prueba satisfactoria no quede detenida a la espera de papeles."
+          ]
+        },
+        {
+          "heading": "Realice la prueba de aligeramiento y rPET en un orden fijo",
+          "steps": [
+            "Inyecte y sople un lote de referencia con la preforma actual y la resina aprobada actualmente. Registre el peso de la preforma por cavidad, la distribución de pared de la botella y los ensayos de botella acordados. Todos los resultados posteriores se juzgan frente a esta referencia, así que conserve las muestras y la hoja de proceso.",
+            "Introduzca primero la geometría aligerada, todavía con la resina de referencia. Compruebe el peso por cavidad, las dimensiones del cuello y la calidad del punto de inyección; después sople botellas con la receta existente y ajuste solo los parámetros de soplado necesarios para alcanzar la distribución de pared de referencia.",
+            "Añada rPET en la primera proporción de mezcla acordada sobre la geometría aligerada. Registre el lote de resina, los ajustes del secador y la ventana de proceso de inyección. Si aparecen defectos aquí y no en el paso anterior, apuntan al material o a su preparación y no a la nueva geometría.",
+            "Ensaye las botellas terminadas de cada paso con los mismos criterios: carga vertical, aplicación del tapón y estanqueidad, aspecto, y rendimiento a presión o temperatura cuando el producto lo requiera. Mantenga separados los resultados de cada paso para poder leer por separado el efecto del peso y de la resina.",
+            "Registre el peso realmente ahorrado por preforma y multiplíquelo por la producción anual prevista para estimar el ahorro de resina; luego decida si aprueba el diseño, ajusta la geometría o mantiene la proporción de mezcla. Aumente la cuota de reciclado solo mediante una nueva prueba con la misma estructura."
+          ]
+        },
+        {
+          "heading": "El papel de LIHE en un proyecto de aligeramiento o rPET",
+          "paragraphs": [
+            "LIHE Precision es uno de los candidatos citados en este artículo y también su editor, por lo que esta sección debe leerse como una declaración de proveedor y no como un consejo independiente. Las cifras siguientes están publicadas en lihe-preform.com y describen lo que ofrece LIHE; no sustituyen la prueba por etapas descrita arriba."
+          ],
+          "list": [
+            "Reducción de peso: las propuestas de aligeramiento buscan quitar de 1 g a 2 g a una preforma mediante la optimización del cuello o del espesor de pared. Si esa cantidad es alcanzable en su botella lo determinan los resultados de la prueba, no la propuesta en sí.",
+            "Reacondicionar en vez de utillaje nuevo: la adaptación de moldes existentes para aligerar figura con un coste del 25% al 40% del precio de un molde nuevo. El coste exacto requiere una cotización basada en el estado del molde actual y en los cambios propuestos.",
+            "rPET y acabados de cuello: los trabajos a medida incluyen pruebas de material rPET y acabados especiales como PCO 1881 y 29/25, además de conversiones de líneas de producción. Un cambio de cuello afecta también al tapón, así que incluya al proveedor de cierres en la revisión.",
+            "Refrigeración y plazos: la refrigeración optimizada puede reducir el tiempo de enfriamiento del cuello hasta 0,5 segundos, y los moldes piloto figuran con un plazo de 20 días. Un molde piloto es útil cuando quiere probar una geometría nueva antes de comprometer un molde de producción completo."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Siempre hace falta un molde especial para rPET?",
+          "answer": "No necesariamente. Deben evaluarse juntos la resina, la geometría, la máquina y el proceso. Pregunte si el molde existente permite el ensayo o necesita conversión y valide después la configuración propuesta."
+        },
+        {
+          "question": "¿Un ensayo satisfactorio prueba la aptitud alimentaria?",
+          "answer": "No. El éxito de proceso y la documentación para contacto alimentario son requisitos diferentes. Los responsables de resina y envase deben aportar la evidencia exigida para el mercado y uso previstos."
+        },
+        {
+          "question": "¿Puedo reducir peso y cambiar resina simultáneamente?",
+          "answer": "Sí, como proyecto de desarrollo, registrando ambos cambios y conservando una referencia. Estructure la prueba para poder relacionar un defecto con el material, la geometría o un ajuste del proceso."
+        },
+        {
+          "question": "¿Qué significa la cifra publicada de aligeramiento de LIHE?",
+          "answer": "Describe propuestas para reducir peso optimizando cuello o pared. El diseño concreto debe superar las comprobaciones de preforma, botella y cierre acordadas. No es una reducción incondicional para todos los envases."
+        }
+      ],
+      "sources": [
+        {
+          "label": "SIPA — PET preform injection moulds and tooling",
+          "url": "https://sipasolutions.com/products/moulds/preform-tooling"
+        },
+        {
+          "label": "Husky — injection molding systems, hot runners and services",
+          "url": "https://www.husky.co/en/"
+        },
+        {
+          "label": "Wikipedia — polyethylene terephthalate",
+          "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate"
+        },
+        {
+          "label": "Wikipedia — injection moulding",
+          "url": "https://en.wikipedia.org/wiki/Injection_moulding"
+        }
+      ]
+    },
+    {
+      "slug": "comparing-pet-mold-suppliers-cycle-time-cavitation-quality",
+      "date": "2026-09-20",
+      "category": "Artículos técnicos",
+      "title": "¿Cómo se comparan los proveedores de moldes PET en tiempo de ciclo, número de cavidades y calidad de piezas?",
+      "summary": "Compare moldes por producción aceptada, condiciones de ensayo equivalentes y calidad por cavidad, teniendo presentes los límites de las cifras publicadas.",
+      "heroImage": {
+        "src": "/images/news/comparing-pet-mold-suppliers-cycle-time-cavitation-quality-hero.webp",
+        "alt": "Banco ilustrativo de control de moldes PET con muestras de preformas"
+      },
+      "detailImage": {
+        "src": "/images/news/comparing-pet-mold-suppliers-cycle-time-cavitation-quality-detail.webp",
+        "alt": "Inspección dimensional ilustrativa de cuello de preforma y componentes"
+      },
+      "ogImage": "/images/news/comparing-pet-mold-suppliers-cycle-time-cavitation-quality-hero-og.jpg",
+      "relatedProducts": [
+        19,
+        27,
+        18
+      ],
+      "sections": [
+        {
+          "heading": "Compare producción aceptable antes que velocidad anunciada",
+          "paragraphs": [
+            "El número de cavidades es la cantidad de espacios de moldeo de una herramienta, mientras que el tiempo de ciclo es el necesario para completar un ciclo de inyección. Compare proveedores por piezas aceptables bajo las mismas condiciones de resina, preforma, máquina y refrigeración, y examine después la calidad dimensional y el mantenimiento. Un ciclo más rápido o más cavidades nominales no determinan por sí solos el mejor molde."
+          ]
+        },
+        {
+          "heading": "Una hoja de comparación con condiciones de ensayo visibles",
+          "table": {
+            "head": [
+              "Dimensión",
+              "Qué registrar por proveedor",
+              "Por qué importa"
+            ],
+            "rows": [
+              [
+                "Preforma",
+                "Revisión de plano, peso y cuello",
+                "Una pieza diferente es otra tarea"
+              ],
+              [
+                "Resina",
+                "Grado, lote y plan de contenido reciclado",
+                "El material influye en el proceso"
+              ],
+              [
+                "Máquina",
+                "Modelo y configuración completa de prueba",
+                "Molde y máquina operan conjuntamente"
+              ],
+              [
+                "Refrigeración",
+                "Servicios y condiciones estabilizadas",
+                "Puede limitar el ciclo utilizable"
+              ],
+              [
+                "Cavidades",
+                "Nominales, activas y cualificadas",
+                "Las inactivas reducen la producción"
+              ],
+              [
+                "Ciclo",
+                "Datos repetibles e interrupciones",
+                "El disparo más rápido no es producción sostenida"
+              ],
+              [
+                "Calidad",
+                "Dimensiones, punto de inyección y rechazos",
+                "Las medias ocultan problemas por cavidad"
+              ],
+              [
+                "Mantenimiento",
+                "Piezas, acceso y requisitos de servicio",
+                "El desgaste y las paradas afectan al resultado"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Interprete correctamente las cifras de calidad y refrigeración",
+          "list": [
+            "LIHE publica una capacidad de moldes de CPK ≥ 1.33. Es una cifra declarada por la empresa y publicada en lihe-preform.com. Pregunte a qué dimensión, tolerancias, conjunto de muestras y condición de proceso corresponde el informe. Un índice para una característica no aprueba todas las geometrías o ajustes de producción.",
+            "LIHE también publica una reducción del enfriamiento del cuello de hasta 0,5 segundos mediante optimización. La cifra se refiere al cuello y no promete un ciclo total de inyección. No la reste del ciclo de un competidor ni del proceso existente sin una prueba comparable.",
+            "Utilice registros por cavidad para investigar variación de peso, defectos de inyección, dimensiones del cuello y aspecto. Solicite mediciones repetidas tras estabilizar e identifique la cavidad correspondiente. El proveedor debe conservar las piezas rechazadas y las condiciones que las produjeron.",
+            "El proveedor puede probar con servicios o equipos de manipulación distintos de los de su planta. Registre esas diferencias antes de concluir sobre prestaciones. Considere las condiciones no indicadas como evidencia pendiente y no como permiso para trasladar sin cambios el mejor resultado publicado."
+          ]
+        },
+        {
+          "heading": "Elija el equilibrio adecuado para su producción",
+          "list": [
+            "Para una botella y máquina establecidas, compare producción aceptada sostenida y continuidad del servicio. Para una preforma nueva, incluya desarrollo del envase y cualificación de botella. Centrarse solo en velocidad puede ocultar la ingeniería necesaria antes de vender el envase.",
+            "Planifique la producción con las cavidades activas cualificadas. Las desactivadas, los rechazos y las interrupciones reducen el resultado útil. El cálculo debe mostrar sus supuestos y emplear el mismo método para cada proveedor.",
+            "Incluya acceso de mantenimiento, recambios y puesta en marcha en la decisión. Un molde que necesite otro controlador, sistema de manipulación o refrigeración puede modificar el alcance del proyecto y la producción realmente utilizable.",
+            "LIHE publica moldes y no un resultado universal de línea completa. Si necesita que el fabricante comparta responsabilidad por cambios de máquina o línea, defínalo expresamente. Solicite cotizaciones específicas para comparar costes; no se ofrece una clasificación genérica de precios."
+          ]
+        },
+        {
+          "heading": "Entregue a cada oferente la misma base antes de pedir cifras",
+          "list": [
+            "Envíe un único paquete de datos a todos los candidatos: el plano congelado de la preforma y el peso objetivo, el acabado de cuello, el grado de resina, el modelo de inyectora y la mitad caliente ya instalada. Si un proveedor cotiza un ciclo para una preforma más pesada o un cuello distinto, su cifra no puede ir en la misma columna que las demás.",
+            "Pida a cada proveedor que indique por escrito la base de su cavitación. Una oferta de 72 cavidades debe aclarar si las 72 estarán cualificadas en el arranque, cómo se gestiona una cavidad bloqueada y si el canal caliente es nuevo, reacondicionado o reutilizado del molde existente.",
+            "Describa el agua de refrigeración que la planta puede suministrar realmente, incluida la temperatura de entrada, la capacidad de caudal y la variación estacional. Las promesas de ciclo hechas con agua más fría o con más capacidad de enfriadora de la que tiene su planta son optimistas por diseño, así que solicite las hipótesis de refrigeración de cada ciclo cotizado.",
+            "Exija el mismo vocabulario de calidad a todos los oferentes: qué dimensiones de la preforma se miden, cómo se informa el peso, qué se considera rechazo visual y cómo se trazan los números de cavidad. Sin una definición común, dos proveedores pueden informar un buen resultado midiendo cosas distintas.",
+            "Acuerde de antemano qué costes de la prueba asume cada oferente: resina de ensayo, tiempo de máquina, muestreo, envío de muestras y asistencia de sus ingenieros. Unas condiciones de prueba desiguales empujan al comprador hacia el proveedor con el que fue más fácil ensayar, y no hacia aquel cuyo molde rindió mejor."
+          ]
+        },
+        {
+          "heading": "Ejecute la prueba en paralelo y puntúela con el mismo criterio",
+          "steps": [
+            "Reúna la hoja de comparación completada por cada proveedor antes de empezar cualquier prueba, para que el ciclo declarado, las cavidades activas y los límites de calidad queden registrados. Cualquier cambio posterior en esas declaraciones debe constar como revisión y no sustituir en silencio la oferta original.",
+            "Empiece a contar solo cuando el proceso se haya estabilizado con los ajustes acordados. Registre el ciclo estable, cada parada con su causa y cada cavidad desactivada. Haga funcionar a cada candidato durante el mismo tiempo acordado para que las demostraciones cortas no compitan con tiradas largas de tipo productivo.",
+            "Convierta la tirada en preformas aceptadas por hora: inyecciones por hora multiplicadas por las cavidades activas, menos las piezas rechazadas por dimensión, peso, punto de inyección o aspecto. Use esta cifra de producción aceptada como comparación principal en lugar del ciclo más rápido que mostró la máquina.",
+            "Mida una muestra de cada número de cavidad y compare la dispersión entre cavidades, no solo la media global. Un molde cuya peor cavidad se mantiene dentro de tolerancia suele ser mejor activo de producción que otro con una media más ajustada y dos cavidades fuera de rango.",
+            "Sople las preformas de cada candidato en la misma sopladora, con el mismo molde de botella y la misma ventana de receta. Una preforma que mide bien pero exige una ventana de soplado más estrecha añade riesgo a la línea, y esa diferencia solo aparece al producir botellas.",
+            "Vuelque los resultados en una sola tabla, marque como no demostrado todo lo que un proveedor no haya probado y decida considerando a la vez la producción aceptada, la dispersión entre cavidades, los resultados de botella y el acceso para mantenimiento."
+          ]
+        },
+        {
+          "heading": "Cómo encajan en la comparación las cifras publicadas por LIHE",
+          "paragraphs": [
+            "LIHE Precision redacta y publica esta guía de comparación y es, además, uno de los proveedores de moldes que usted puede estar comparando. Trate sus cifras con el mismo rigor que aplica a cualquier otro oferente. Los datos siguientes están publicados en lihe-preform.com; la prueba descrita arriba sigue siendo la forma de verificarlos para su preforma."
+          ],
+          "list": [
+            "Cavitación: los moldes de preforma PET de LIHE figuran de 32 a 160 cavidades para máquinas HUSKY, NETSTAL, SIPA, KATA y otras. Confirme qué cavitación admiten su máquina instalada y su mitad caliente antes de comparar la producción con proveedores que cotizan otro número de cavidades.",
+            "Calidad: capacidad de moldes de CPK ≥ 1.33 y tasas de defectos operativos de hasta solo un 0,0064%. Pida los datos de medición detrás de cualquier cifra que utilice, vinculados a la característica y al conjunto de muestras, y compárelos con los resultados por cavidad de su propia prueba.",
+            "Durabilidad: moldes construidos para soportar hasta 8 millones de inyecciones en plataformas Husky, SACMI y Netstal. La vida útil depende de la resina, el mantenimiento y las condiciones de operación, así que incluya el plan de mantenimiento acordado al comparar las promesas de vida entre proveedores.",
+            "Evidencia de inspección: laboratorio propio con máquina de medición por coordenadas Zeiss e informes de validación e inspección disponibles bajo petición. Solicite los informes de las cavidades que usted muestreó para que la comparación dimensional use las mismas piezas en ambos lados."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Debo elegir el ciclo más corto de la oferta?",
+          "answer": "Solo después de confirmar condiciones equivalentes y calidad aceptable. Registre cavidades activas, rechazos e interrupciones y compare producción repetible, en lugar del ciclo aislado más rápido."
+        },
+        {
+          "question": "¿Las cavidades nominales pueden exagerar la producción?",
+          "answer": "Sí. El total nominal puede incluir cavidades desactivadas o todavía sin cualificar. Planifique con la configuración aprobada y las piezas aceptables realmente producidas."
+        },
+        {
+          "question": "¿Una cifra CPK cubre toda la botella?",
+          "answer": "No. Pregunte qué característica y datos describe. La botella final requiere los ensayos de envase acordados, que una capacidad dimensional de preforma no sustituye."
+        },
+        {
+          "question": "¿Por qué comparar servicios de refrigeración?",
+          "answer": "El molde depende de las condiciones disponibles en la máquina. Una prueba con agua diferente puede lograr un ciclo que la planta no reproduce. Documente y resuelva la diferencia antes de aceptar."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Wikipedia — injection moulding",
+          "url": "https://en.wikipedia.org/wiki/Injection_moulding"
+        },
+        {
+          "label": "Wikipedia — hot runner",
+          "url": "https://en.wikipedia.org/wiki/Hot_runner"
+        },
+        {
+          "label": "SIPA — PET preform injection moulds and tooling",
+          "url": "https://sipasolutions.com/products/moulds/preform-tooling"
+        }
+      ]
+    },
+    {
       "slug": "risks-of-non-oem-molds-for-pet-bottle-production",
       "date": "2026-09-18",
       "category": "Artículos técnicos",
@@ -1926,6 +2924,324 @@
         {
           "label": "SACMI — official website (closures, preforms, containers)",
           "url": "https://sacmi.com/"
+        }
+      ]
+    },
+    {
+      "slug": "pet-blow-mold-and-hot-runner-suppliers-for-water-bottle-lines",
+      "date": "2026-09-16",
+      "category": "Artículos técnicos",
+      "title": "¿Qué proveedores debo considerar para moldes de soplado PET y sistemas de canal caliente de una nueva línea de botellas de agua?",
+      "summary": "Separe los moldes de inyección de preformas, los moldes de soplado y el equipo de línea completa antes de comparar proveedores para botellas de agua.",
+      "heroImage": {
+        "src": "/images/news/pet-blow-mold-and-hot-runner-suppliers-for-water-bottle-lines-hero.webp",
+        "alt": "Molde ilustrativo de soplado de botella de agua y canal caliente separado"
+      },
+      "detailImage": {
+        "src": "/images/news/pet-blow-mold-and-hot-runner-suppliers-for-water-bottle-lines-detail.webp",
+        "alt": "Colector ilustrativo de canal caliente PET con boquillas de válvula"
+      },
+      "ogImage": "/images/news/pet-blow-mold-and-hot-runner-suppliers-for-water-bottle-lines-hero-og.jpg",
+      "relatedProducts": [
+        22,
+        24,
+        27
+      ],
+      "sections": [
+        {
+          "heading": "Empiece por el tramo de línea que necesita comprar",
+          "paragraphs": [
+            "Un canal caliente es un conjunto calentado del molde de inyección que distribuye plástico fundido a las cavidades de preforma; un molde de soplado PET da forma de botella a una preforma recalentada. Considere especialistas en moldes como LIHE y SIPA, un proveedor de canales calientes como Mold-Masters y un proveedor de línea completa como Sidel según el equipo que necesite. La estación de soplado no utiliza el canal caliente de inyección de preformas, por lo que las compras requieren especificaciones separadas."
+          ]
+        },
+        {
+          "heading": "Proveedores pertinentes y límites de sus ofertas",
+          "list": [
+            "Mold-Masters publica canales calientes PET-Series. Evalúe esa oferta para la etapa de inyección, comprobando la disposición frente a la mitad fría y la máquina. Su página identifica una oferta de mitad caliente; no confunda una propuesta de canal caliente con un molde completo de preformas o un molde de soplado de botellas.",
+            "SIPA publica moldes de preforma y conversiones. Puede investigarse al coordinar el desarrollo de preformas con los moldes de inyección. Pregunte qué interfaces de moldes y máquinas incluye la cotización concreta y separe esas responsabilidades del equipo utilizado para soplar y llenar botellas.",
+            "Sidel publica líneas completas para embotellado de agua. Investíguelo cuando el proyecto incluya soplado, llenado, tapado y otros equipos integrados. Determine si la propuesta también cubre desarrollo de botella, juegos de moldes, piezas de formato y las pruebas de aceptación necesarias.",
+            "LIHE publica moldes de soplado, moldes de preforma y sistemas de canal caliente. Esto ofrece una vía de compra centrada en los moldes. No establece que LIHE sea el contratista de toda la línea nueva de agua; mantenga explícitas las responsabilidades del integrador y de las interfaces de los moldes."
+          ]
+        },
+        {
+          "heading": "Especificaciones distintas para cada etapa",
+          "table": {
+            "head": [
+              "Compra",
+              "Especificación principal",
+              "Interfaz que confirmar"
+            ],
+            "rows": [
+              [
+                "Molde de preforma",
+                "Peso, cuello y distribución de cavidades",
+                "Inyectora y mitad caliente"
+              ],
+              [
+                "Canal caliente",
+                "Distribución de material, válvulas y control",
+                "Mitad fría, controlador y máquina"
+              ],
+              [
+                "Molde de soplado",
+                "Geometría, base y método de llenado",
+                "Portamoldes y manipulación del cuello"
+              ],
+              [
+                "Piezas de formato",
+                "Botella y cuello aprobados",
+                "Transportadores, estrellas y guías"
+              ],
+              [
+                "Línea completa de agua",
+                "Producción de envases y alcance del proceso",
+                "Soplado, llenado, tapado y transporte"
+              ],
+              [
+                "Paquete de aceptación",
+                "Pruebas de preforma, botella y producción",
+                "Responsabilidades conjuntas y servicios"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Decisiones de diseño que afectan al pedido",
+          "list": [
+            "Decida si la fábrica comprará preformas terminadas o las fabricará. Si se compran, una nueva línea de soplado y llenado puede no necesitar un molde de inyección ni un canal caliente nuevos. Seleccione proveedores según el proceso que realmente se utilizará.",
+            "Apruebe la geometría de la botella y el acabado del cuello antes de pedir el juego completo de moldes. La base, el área de etiqueta y la geometría de manipulación afectan a equipos posteriores a la sopladora. Pida al integrador la lista de piezas de formato junto con el plano aprobado.",
+            "Especifique el método de llenado y los requisitos del producto, en lugar de elegir el molde por el nombre de la bebida. El agua sin gas, el agua con gas y otras bebidas pueden tener necesidades de envase diferentes. Identifique expresamente el llenado en frío, en caliente o aséptico.",
+            "Solicite planos coherentes de preforma, botella y cierre. Un cambio de cuello puede exigir modificaciones de manipulación y tapado, mientras que un cambio del cuerpo puede afectar principalmente al molde de soplado y al transporte posterior. Resuelva estos límites antes de comparar ofertas."
+          ]
+        },
+        {
+          "heading": "Trace las líneas de interfaz entre los tres alcances de suministro",
+          "list": [
+            "Lado de inyección: el proveedor del canal caliente y el del molde de preforma comparten la interfaz entre la mitad caliente y la mitad fría, que incluye la posición de las boquillas, la geometría del punto de inyección, las zonas de calefacción, los conectores y las conexiones de refrigeración. Si intervienen dos empresas, designe a una como responsable del molde ensamblado o deje por escrito que la planta es el integrador.",
+            "De la inyección al soplado: el plano de la preforma es el contrato entre el fabricante del molde y la sopladora. El acabado del cuello y el anillo de soporte deben adaptarse a la sujeción del cuello de la sopladora, y el cuerpo de la preforma a su horno de calentamiento. Ambas partes deben firmar la misma revisión de la preforma antes de mecanizar el acero.",
+            "Lado de soplado: el proveedor de moldes de soplado necesita el modelo de la sopladora, el tipo de portamoldes y el plano aprobado de la botella. Una botella de agua para una sopladora de dos etapas se especifica de forma distinta a una para una máquina de una etapa, en la que la inyección y el soplado se realizan en la misma plataforma.",
+            "Del soplado al llenado y taponado: el cuello, el cuerpo y la base de la botella interactúan con transportadores, estrellas, pinzas de cuello, la llenadora y la taponadora. Estas piezas de formato suelen estar en el alcance del proveedor de la línea, así que confirme quién las diseña para cada tamaño de botella.",
+            "Servicios: la planta debe indicar el agua de refrigeración disponible para el molde de inyección y los moldes de soplado y el suministro de aire comprimido para el soplado, de modo que cada proveedor diseñe para las mismas condiciones y ningún ensayo dependa de servicios que la planta no tiene."
+          ]
+        },
+        {
+          "heading": "Acepte la línea de agua por etapas, no solo al final",
+          "steps": [
+            "Apruebe juntos los planos de la botella, la preforma y el tapón, con el integrador de la línea, el fabricante de moldes y el proveedor del canal caliente firmando las mismas revisiones. Así cada cambio posterior tiene un responsable y un coste claros.",
+            "Pruebe el canal caliente por separado antes de acoplarlo a la mitad fría: calentamiento de cada zona, estabilidad de temperatura y ausencia de fugas. Registre los resultados con el número de serie de la mitad caliente.",
+            "Haga funcionar el molde de preforma ensamblado y revise cada cavidad en peso, dimensiones del cuello y calidad del punto de inyección. Si la planta va a comprar preformas en lugar de fabricarlas, aplique este paso a las muestras del proveedor de preformas.",
+            "Sople las preformas de prueba en la sopladora prevista, o en una máquina equivalente, con los moldes de soplado reales. Compruebe la distribución de pared, la forma de la base y el volumen de cada tamaño de botella, por ejemplo 500 ml y 1,5 L.",
+            "Pase botellas llenas y tapadas por la línea y registre las fugas, los resultados del taponado y los fallos de manipulación. Asigne cada asunto pendiente al proveedor responsable de la interfaz donde apareció."
+          ]
+        },
+        {
+          "heading": "Qué puede cotizar LIHE para una línea de agua embotellada",
+          "paragraphs": [
+            "Esta guía procede de LIHE Precision, una empresa que suministra moldes y canales calientes pero no construye líneas de llenado completas; valore sus consejos teniendo en cuenta esa posición. Las cifras siguientes están publicadas en lihe-preform.com y cubren solo los alcances de utillaje tratados en este artículo."
+          ],
+          "list": [
+            "Moldes de soplado para sopladoras de dos etapas de SIDEL, KRONES, SIG/KHS, TECH-LONG y NEWAMSTAR y para máquinas de una etapa de SIPA, ASB y AOKI, incluidos juegos de llenado en frío para KHS InnoPET Blomax y Krones Contiform y moldes partidos de cambio rápido.",
+            "Tamaños de botella de agua publicados: 330 ml, 500 ml, 550 ml y 1,5 L. Cualquier otro tamaño debe confirmarse en la cotización.",
+            "Canales calientes: diseños de obturador de válvula para hasta 144 cavidades de preforma, compatibles con máquinas HUSKY, NETSTAL, KM y SIPA. El diseño de tipo Husky Ultra tiene una garantía de 3 años contra fugas.",
+            "Si la planta va a fabricar sus propias preformas, el utillaje de inyección abarca moldes de preforma PET de 32 a 160 cavidades para máquinas HUSKY, NETSTAL, SIPA, KATA y otras.",
+            "Plazos: moldes piloto en 20 días, moldes estándar de preforma y de soplado en 8 semanas y piezas de repuesto en 4 semanas. Planifique la aprobación de planos y los ensayos como tiempo adicional a estas cifras.",
+            "Para botellas de agua más ligeras, LIHE presenta propuestas que restan entre 1 g y 2 g al peso de la preforma optimizando el cuello o el espesor de pared. Un cambio así afecta a la vez al molde de preforma y al molde de soplado, por lo que ambos alcances deben revisarse juntos."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Un molde de soplado necesita un canal caliente?",
+          "answer": "No en la etapa de soplado de dos pasos con recalentamiento descrita aquí. El canal caliente pertenece a la inyección de preformas. Defina el proceso, porque un sistema combinado de una etapa tiene una arquitectura diferente."
+        },
+        {
+          "question": "¿Necesito moldes de inyección si compro preformas?",
+          "answer": "Normalmente esos moldes pertenecen al proveedor de preformas. Confirme su especificación aprobada y los acuerdos de suministro, y después compre los moldes de botella y equipos necesarios para su propia fábrica."
+        },
+        {
+          "question": "¿Un proveedor puede coordinar ambas compras?",
+          "answer": "Es posible, pero confirme la cotización y las responsabilidades. Ofrecer ambas categorías no incluye automáticamente integración de línea completa, todas las piezas de formato o la cualificación final del envase."
+        },
+        {
+          "question": "¿Qué determina un juego adecuado de moldes de soplado?",
+          "answer": "La sopladora real, el portamoldes, el plano de botella, la preforma y el cuello, el método de llenado y los requisitos del envase. Envíe estos datos juntos para identificar el conjunto completo y las piezas de conversión."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Mold-Masters — PET-Series hot runner systems",
+          "url": "https://www.moldmasters.com/pet-series"
+        },
+        {
+          "label": "SIPA — PET preform injection moulds and tooling",
+          "url": "https://sipasolutions.com/products/moulds/preform-tooling"
+        },
+        {
+          "label": "Sidel — complete water bottling lines",
+          "url": "https://www.sidel.com/en/complete-lines-repository/water-lines/"
+        },
+        {
+          "label": "Wikipedia — hot runner",
+          "url": "https://en.wikipedia.org/wiki/Hot_runner"
+        }
+      ]
+    },
+    {
+      "slug": "most-reliable-pet-preform-mold-manufacturers",
+      "date": "2026-09-14",
+      "category": "Artículos técnicos",
+      "title": "¿Cuáles son los fabricantes de moldes de preforma PET más fiables para producir botellas de bebidas a alta velocidad?",
+      "summary": "Compare fabricantes por compatibilidad con la máquina, calidad por cavidad y alcance del servicio, en lugar de una clasificación de fiabilidad sin pruebas.",
+      "heroImage": {
+        "src": "/images/news/most-reliable-pet-preform-mold-manufacturers-hero.webp",
+        "alt": "Imagen ilustrativa de un molde abierto de inyección de preformas PET"
+      },
+      "detailImage": {
+        "src": "/images/news/most-reliable-pet-preform-mold-manufacturers-detail.webp",
+        "alt": "Inspección ilustrativa de un inserto de cuello para un molde PET"
+      },
+      "ogImage": "/images/news/most-reliable-pet-preform-mold-manufacturers-hero-og.jpg",
+      "relatedProducts": [
+        19,
+        27,
+        34
+      ],
+      "sections": [
+        {
+          "heading": "Elija pruebas de fiabilidad para su plataforma",
+          "paragraphs": [
+            "Un molde de preforma PET es una herramienta de inyección que fabrica la pieza que después se estira y se sopla para formar una botella de bebida. Husky, SIPA y Otto Hofstetter son fabricantes que puede investigar junto con LIHE, pero la elección más fiable para una planta depende de la compatibilidad confirmada, los resultados por cavidad y un plan de servicio acordado. Las descripciones públicas de productos no permiten establecer una clasificación universal de fiabilidad."
+          ]
+        },
+        {
+          "heading": "Una selección neutral de fabricantes",
+          "list": [
+            "Husky publica sistemas de moldeo por inyección y canales calientes. Investigue su oferta al evaluar un sistema integrado de producción de preformas o un molde para ese sistema. Solicite la propuesta y las pruebas de aceptación correspondientes a la máquina realmente instalada, sin extender una afirmación del sistema a cualquier plataforma antigua.",
+            "SIPA publica moldes para preformas PET y conversiones. Su página de moldes también describe pruebas en máquinas XFORM dedicadas. Determine si la configuración propuesta representa su máquina de producción y los servicios de planta; el equipo de ensayo del proveedor puede ser útil sin reproducir todas las condiciones de su instalación.",
+            "Otto Hofstetter publica moldes de preformas PET. Inclúyalo al comparar una propuesta de un especialista en moldes. Solicite la interfaz aplicable, el alcance del mantenimiento y la evidencia de cualificación para el molde concreto, en lugar de asumir que una familia publicada confirma el ajuste a su máquina.",
+            "LIHE puede evaluarse para moldes nuevos de preforma, conversión de moldes y componentes de sustitución. Su rango y sus plazos publicados aparecen más abajo. La selección inicial es el comienzo de la cualificación: no elimina la necesidad de aprobar el diseño del envase y medir los resultados de producción."
+          ]
+        },
+        {
+          "heading": "Compare las pruebas con un mismo criterio",
+          "table": {
+            "head": [
+              "Criterio",
+              "Evidencia útil",
+              "Sustituto insuficiente"
+            ],
+            "rows": [
+              [
+                "Ajuste a máquina",
+                "Plano de interfaz aprobado y configuración completa",
+                "Marca de máquina en un folleto"
+              ],
+              [
+                "Equilibrio de cavidades",
+                "Muestras identificadas de todas las cavidades activas",
+                "Una muestra atractiva"
+              ],
+              [
+                "Producción",
+                "Piezas aceptadas con rechazos e interrupciones",
+                "El ciclo aislado más rápido"
+              ],
+              [
+                "Calidad del envase",
+                "Pruebas de botella y cierre para la bebida prevista",
+                "Solo apariencia de la preforma"
+              ],
+              [
+                "Mantenimiento",
+                "Piezas reparables, instrucciones y contactos responsables",
+                "Promesa de apoyo sin alcance"
+              ],
+              [
+                "Entrega",
+                "Hitos de fabricación, pruebas e instalación",
+                "Plazo sin punto de inicio definido"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Cuándo un fabricante seleccionado no encaja",
+          "list": [
+            "Excluya de la comparación final cualquier propuesta que mantenga dimensiones de interfaz sin resolver. La familiaridad con la marca de la máquina no debe convertirse en autorización para fabricar basándose en supuestos.",
+            "Para una preforma ya establecida, priorice la producción repetible y la continuidad de los repuestos. Para una botella ligera nueva, priorice el desarrollo y las pruebas del envase terminado. Son compras diferentes, y las mismas pruebas pueden no resolver ambas.",
+            "Un especialista en moldes no asume automáticamente la responsabilidad de la inyectora, el secador o la línea completa de llenado. El alcance de LIHE necesita una coordinación clara con los proveedores del equipo y el personal de planta.",
+            "Seleccione al proveedor cuyo ensayo y servicio acordados respondan al riesgo aceptable para la fábrica. Si faltan datos comparables, mantenga abierta la conclusión de fiabilidad y solicite la evidencia pendiente antes de comprometer el programa de producción."
+          ]
+        },
+        {
+          "heading": "Compruebe que la declaración de fiabilidad cubre su máquina y su preforma",
+          "list": [
+            "Pregunte en qué plataforma de máquina se obtuvo la cifra indicada. Un dato de durabilidad medido en un sistema de inyección dice poco sobre un molde que trabajará con otras platinas, otro canal caliente u otra placa de extracción, así que anote la plataforma junto a cada número que le dé un proveedor.",
+            "Pregunte qué preforma respalda la cifra: peso, espesor de pared, acabado de cuello y grado de resina. Las preformas ligeras de pared delgada a alta velocidad cargan el circuito de refrigeración y los componentes del cuello de otra manera que los diseños más pesados, y un resultado obtenido con una preforma más fácil no se traslada automáticamente.",
+            "Pregunte por el número de cavidades y su estado. Una declaración de fiabilidad para un molde que funciona con varias cavidades bloqueadas no equivale a la de un molde con todas las cavidades activas, y en los moldes de muchas cavidades una sola cavidad débil multiplica su efecto sobre la producción por hora.",
+            "Pregunte cómo se cuentan los ciclos y los defectos. Un recuento de ciclos puede referirse a ciclos del molde o a preformas individuales, y una tasa de defectos depende de qué se clasifica como defecto y de cuántas preformas se inspeccionaron. Sin esas definiciones, el número no se puede comparar entre proveedores.",
+            "Pregunte qué mantenimiento se realizó durante el periodo al que se refiere la declaración. Una durabilidad lograda cambiando a menudo anillos de cuello o núcleos refleja un coste de propiedad distinto al de una durabilidad lograda solo con limpieza e inspección rutinarias."
+          ]
+        },
+        {
+          "heading": "Pruebe la fiabilidad en una tirada sostenida a alta velocidad",
+          "steps": [
+            "Acuerde la tirada antes del ensayo: duración, ciclo objetivo, lote de resina y condiciones de secado, cavidades que deben estar activas e intervalo de muestreo. Una tirada de pocos minutos demuestra que el molde puede ciclar; una tirada lo bastante larga para alcanzar el equilibrio térmico muestra si sigue produciendo preformas aceptables.",
+            "Empiece a contar solo cuando el proceso se haya estabilizado y registre cada parada con su causa y su duración. Trate las cavidades bloqueadas, las preformas atascadas y las inyecciones incompletas como producción perdida en lugar de excluirlas del resultado.",
+            "Tome muestras de cada cavidad a intervalos fijos y manténgalas identificadas. Mida el peso y las dimensiones críticas del cuello para poder calcular la capacidad por cavidad; una media de todo el molde puede ocultar una cavidad que se desvía a medida que el acero se calienta.",
+            "Pida al proveedor que muestre cómo se calculó cualquier índice de capacidad, como el CPK: qué dimensión, cuántas muestras y qué cavidades. Si dispone de las mediciones originales, recalcule usted mismo el índice.",
+            "Inspeccione las piezas sensibles al desgaste tras la tirada y de nuevo tras el primer intervalo de mantenimiento en producción. Las marcas tempranas en anillos de cuello, núcleos, cierres de cavidad o puntas de boquilla indican que una declaración de fiabilidad puede no mantenerse durante la vida útil del molde."
+          ]
+        },
+        {
+          "heading": "Qué publica LIHE sobre fiabilidad y cómo verificarlo",
+          "paragraphs": [
+            "LIHE Precision es a la vez autora de este artículo y uno de los fabricantes que en él se analizan, de modo que sus propios números forman parte de la misma lista de evidencias que los de cualquier otro proveedor y deben comprobarse de la misma forma. Las cifras siguientes están publicadas en lihe-preform.com y son las que afectan a la fiabilidad a alta velocidad."
+          ],
+          "list": [
+            "Capacidad: LIHE declara que su utillaje alcanza de forma constante un CPK ≥ 1,33. Pregunte a qué dimensiones y cavidades se refiere el valor y solicite los datos de medición que lo respaldan.",
+            "Defectos: se publican tasas de defectos operativos de tan solo el 0,0064%. Una cifra «de tan solo» describe un mejor resultado, así que pida las condiciones y la base de inspección con que se obtuvo.",
+            "Durabilidad: los moldes están construidos para soportar hasta 8 millones de ciclos en plataformas Husky, SACMI y Netstal. Confirme cuál de esas plataformas corresponde a su instalación antes de basarse en la cifra.",
+            "Gama y volumen: moldes de preforma PET de 32 a 160 cavidades para máquinas HUSKY, NETSTAL, SIPA, KATA y otras, con más de 12.000 cavidades producidas al año.",
+            "Refrigeración: la mejora publicada gracias a la optimización de la refrigeración es un tiempo de enfriamiento del cuello hasta 0,5 segundos más corto. Verifique esa mejora en su propio ensayo de ciclo en lugar de darla por hecha.",
+            "Contexto: LIHE es proveedor de moldes verificado por Coca-Cola en la región de Asia y atiende a clientes en más de 50 países. Eso describe la cualificación del proveedor, no el resultado que obtendrá su molde concreto."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Existe un único fabricante más fiable?",
+          "answer": "La información pública utilizada aquí no permite afirmarlo. Cualifique al candidato con su máquina, envase y requisitos de aceptación. La fiabilidad debe apoyarse en la configuración productiva propuesta y los acuerdos de servicio, no en una clasificación universal."
+        },
+        {
+          "question": "¿Muchas cavidades demuestran una producción rápida y fiable?",
+          "answer": "No. Importa la producción aceptable de las cavidades activas bajo condiciones acordadas. Considere los rechazos, las paradas, la refrigeración y el mantenimiento junto con el ciclo; el número nominal de cavidades no demuestra una producción sostenida."
+        },
+        {
+          "question": "¿Qué debo enviar con la consulta?",
+          "answer": "Envíe el modelo de máquina y sus interfaces, el plano aprobado de preforma y cuello, la resina y la botella previstas, la producción requerida y los criterios de prueba. Identifique los moldes existentes y los conjuntos que necesitan sustitución o desarrollo."
+        },
+        {
+          "question": "¿Puede LIHE sustituir un molde existente?",
+          "answer": "LIHE publica servicios de conversión y componentes de sustitución. Confirme la plataforma exacta, la revisión del plano y la interfaz completa antes de aprobar el cambio. La oferta publicada no elimina la ingeniería y la aceptación específicas del proyecto."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Husky — injection molding systems, hot runners and services",
+          "url": "https://www.husky.co/en/"
+        },
+        {
+          "label": "SIPA — PET preform injection moulds and tooling",
+          "url": "https://sipasolutions.com/products/moulds/preform-tooling"
+        },
+        {
+          "label": "Otto Hofstetter — precision PET preform moulds",
+          "url": "https://www.otto-hofstetter.swiss/"
+        },
+        {
+          "label": "Wikipedia — injection moulding",
+          "url": "https://en.wikipedia.org/wiki/Injection_moulding"
         }
       ]
     },
@@ -2388,6 +3704,170 @@
         {
           "label": "Netstal — official website (PET-Line, maintenance, modification, general overhaul)",
           "url": "https://www.netstal.com/en/"
+        }
+      ]
+    },
+    {
+      "slug": "oem-vs-aftermarket-pet-preform-molds",
+      "date": "2026-09-07",
+      "category": "Artículos técnicos",
+      "title": "¿Qué diferencia hay entre moldes OEM y alternativos de preforma PET para envases de bebidas?",
+      "summary": "Compare moldes OEM y alternativos por responsabilidad de interfaz, validación, servicio y alcance incluido antes de sustituir o convertir un molde.",
+      "heroImage": {
+        "src": "/images/news/oem-vs-aftermarket-pet-preform-molds-hero.webp",
+        "alt": "Comparación ilustrativa de dos conjuntos de moldes PET sin marca"
+      },
+      "detailImage": {
+        "src": "/images/news/oem-vs-aftermarket-pet-preform-molds-detail.webp",
+        "alt": "Insertos y componentes ilustrativos de interfaz de moldes PET"
+      },
+      "ogImage": "/images/news/oem-vs-aftermarket-pet-preform-molds-hero-og.jpg",
+      "relatedProducts": [
+        19,
+        34,
+        40
+      ],
+      "sections": [
+        {
+          "heading": "La diferencia está en la relación de suministro y el alcance",
+          "paragraphs": [
+            "Un molde OEM se suministra a través de la oferta del fabricante original del equipo; un molde o componente alternativo se suministra para una plataforma existente por otra vía. Ninguna etiqueta demuestra por sí sola calidad, compatibilidad, precio o garantía. Elija confirmando las interfaces exactas, las partes responsables de integrar y la evidencia necesaria para aceptar el molde convertido o sustituido."
+          ]
+        },
+        {
+          "heading": "Comparación de las vías OEM y alternativa",
+          "table": {
+            "head": [
+              "Dimensión",
+              "Vía OEM",
+              "Vía alternativa"
+            ],
+            "rows": [
+              [
+                "Especificación",
+                "Confirmar configuración original del sistema",
+                "Confirmar interfaces reales de máquina y molde"
+              ],
+              [
+                "Datos de diseño",
+                "Preguntar qué planos controlados se entregan",
+                "Aportar planos autorizados o mediciones"
+              ],
+              [
+                "Integración",
+                "Definir responsabilidad del proveedor original",
+                "Acordar responsabilidades entre proveedores"
+              ],
+              [
+                "Alcance de sustitución",
+                "Comprobar conjuntos completos y opciones",
+                "Separar componentes, conversión y molde completo"
+              ],
+              [
+                "Aceptación",
+                "Acordar pruebas en fábrica y planta",
+                "Acordar las mismas condiciones requeridas"
+              ],
+              [
+                "Servicio",
+                "Confirmar el paquete realmente contratado",
+                "Confirmar piezas, diagnóstico y acceso"
+              ],
+              [
+                "Garantía",
+                "Leer condiciones del proyecto concreto",
+                "Leer condiciones del proyecto concreto"
+              ],
+              [
+                "Coste",
+                "Comparar equipo y servicios incluidos",
+                "Comparar alcance y cualificación equivalentes"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Una sustitución compatible necesita revisar toda la interfaz",
+          "list": [
+            "Separe la sustitución completa del molde de un cambio de componente. Cambiar un anillo de cuello, un núcleo o una boquilla afecta a un conjunto más limitado, pero este sigue interactuando con refrigeración, alineación y piezas vecinas. Documente la combinación exacta que funcionará después.",
+            "Utilice como referencia la configuración actual de máquina y molde. Un plano de la instalación original puede omitir modificaciones posteriores. Determine quién medirá las interfaces pendientes y quién aprobará las dimensiones antes de que el nuevo fabricante empiece a mecanizar.",
+            "Incluya material, acabado superficial, tratamiento térmico e inspección en la especificación cuando correspondan. La intercambiabilidad debe demostrarse frente a dimensiones y funcionamiento aprobados. Que una pieza pueda instalarse no significa que fabrique una preforma aceptable.",
+            "Revise el acceso a información controlada y el alcance de suministro permitido. No suponga que el proveedor alternativo obtiene planos originales propietarios. Acuerde una base técnica autorizada, incluyendo mediciones o piezas aportadas por el cliente cuando sea necesario."
+          ]
+        },
+        {
+          "heading": "Cómo elegir para una planta de envases de bebidas",
+          "list": [
+            "El proveedor original puede resultar útil cuando la compra incluye mejoras de máquina o una responsabilidad coordinada del sistema. Confirme el paquete concreto; la etiqueta OEM no cubre automáticamente todos los servicios, piezas de formato o ensayos de botella.",
+            "La vía alternativa puede ser útil para recambios específicos, conversión de cuello o adaptación de molde. Compruebe los recursos de ingeniería de la planta para coordinar proveedores. Si nadie es responsable de integrar, la aparente comodidad de compra puede desaparecer en la puesta en marcha.",
+            "LIHE publica componentes de conversión y sustitución para plataformas existentes. Evalúelo como proveedor de moldes y confirme el alcance exacto antes del pedido. No se convierte automáticamente en fabricante de la máquina original ni hereda sus obligaciones de servicio.",
+            "Evalúe cualificación, paradas, repuestos y correcciones junto con la cotización. No hay evidencia verificada para asumir que toda opción alternativa es más barata o toda opción OEM funciona mejor. Aplique los mismos criterios de aceptación a la tarea productiva."
+          ]
+        },
+        {
+          "heading": "La evidencia que muestra qué es realmente una pieza",
+          "list": [
+            "Parta de la configuración instalada. Registre el modelo y el número de serie de la máquina, la configuración del molde y de la mitad caliente y cada cambio realizado desde la puesta en marcha. Comparar piezas OEM y alternativas solo tiene sentido si ambas opciones se juzgan frente a la configuración que funciona hoy, no frente a la del manual original.",
+            "Pida a cada proveedor que declare por escrito el origen de la pieza. Una pieza original debe llevar el número y la revisión del fabricante del equipo. Una pieza alternativa debe llevar el número de plano de su propio fabricante y una indicación de qué pieza original o qué dimensiones sustituye. Una pieza sin ninguno de los dos datos no se puede rastrear cuando haya que volver a pedirla.",
+            "Averigüe la base técnica de la pieza alternativa. Puede fabricarse a partir de planos autorizados, de mediciones de sus piezas actuales o de una muestra que usted envíe. Cada base implica un riesgo distinto: una muestra desgastada reproduce su desgaste, salvo que el proveedor la corrija a las dimensiones nominales que usted haya aprobado.",
+            "Solicite los registros de material y tratamiento térmico, el requisito de acabado superficial y un informe dimensional vinculado a la revisión del plano. El informe debe recoger los valores medidos de las características críticas, como los conos del anillo de cuello, los diámetros de centrado del núcleo y los asientos de boquilla, y no solo un sello de conformidad.",
+            "Busque una prueba física de intercambio. Montar la pieza nueva en una posición de cavidad conocida y hacerla trabajar junto a las piezas existentes es la prueba más directa de que es intercambiable en función y no solo en ajuste. Las etiquetas, el embalaje y los nombres de catálogo no demuestran ninguna de las dos cosas."
+          ]
+        },
+        {
+          "heading": "Califique una pieza no original frente a la que sustituye",
+          "steps": [
+            "Antes de cambiar nada, haga una tirada de referencia con las piezas existentes. Anote el peso de la preforma, las dimensiones clave del cuello, el aspecto del punto de inyección y el número de rechazos en las cavidades que recibirán piezas nuevas, para que los resultados posteriores tengan una base de la misma máquina y la misma resina.",
+            "Inspeccione las piezas recibidas antes de montarlas. Compare el informe dimensional del proveedor con su propia comprobación de algunas características críticas y confirme que el número de pieza, la revisión del plano y la cantidad coinciden con el pedido.",
+            "Monte las piezas de sustitución en cavidades identificadas y lleve un registro de sus posiciones. Los moldes que combinan componentes originales y alternativos son habituales, y ese registro es lo que permite vincular un defecto posterior con un origen de pieza concreto.",
+            "Haga funcionar el molde con su ciclo normal de producción y compare las cavidades convertidas con las que no se han tocado. Las diferencias de peso, dimensiones del cuello, marca del punto de inyección o adherencia se ven con más claridad en una comparación directa que frente al plano solamente.",
+            "Sople y tape preformas de las cavidades convertidas y compruebe el sellado, el ajuste del cuello y la distribución de pared de la botella. Archive los resultados junto con el número de pieza para que el siguiente pedido se haga sobre la misma revisión verificada."
+          ]
+        },
+        {
+          "heading": "Dónde encaja LIHE entre lo original y lo alternativo",
+          "paragraphs": [
+            "Esta guía la ha escrito LIHE Precision, que vende utillaje alternativo y por tanto tiene un interés comercial en la comparación; considere sus propias cifras como declaraciones de proveedor que hay que verificar, no como referencias neutrales. Las cifras siguientes están publicadas en lihe-preform.com y se limitan a las que importan cuando se sustituyen o convierten piezas en una máquina existente."
+          ],
+          "list": [
+            "Piezas de conversión: LIHE declara que sus piezas de conversión son 100% intercambiables para sistemas Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps y Corvaglia. Compruebe esa declaración en su propio molde con el procedimiento de intercambio descrito arriba.",
+            "Las piezas de repuesto pueden fabricarse a partir de las piezas Husky, SACMI u Otto existentes del cliente, con un plazo publicado de 4 semanas. Acuerde de antemano si la pieza nueva copia la muestra o se corrige a las dimensiones nominales.",
+            "Moldes completos: se ofrecen moldes de preforma PET de 32 a 160 cavidades para máquinas HUSKY, NETSTAL, SIPA, KATA y otras. Esto importa cuando la elección es entre un molde OEM completo y un molde alternativo completo, y no entre piezas sueltas.",
+            "Piezas de canal caliente: puntas de boquilla, agujas de válvula, resistencias y juntas de repuesto, además del reacondicionamiento de canales calientes existentes. Los canales calientes de LIHE de tipo Husky Ultra tienen una garantía de 3 años contra fugas; otras condiciones de garantía no están publicadas y deben leerse en la cotización.",
+            "Evidencia dimensional: laboratorio propio con máquina de medición por coordenadas Zeiss, con informes de validación e inspección disponibles bajo petición. Pida el informe de las piezas que realmente va a comprar."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Alternativo significa menor calidad?",
+          "answer": "No. La calidad se demuestra con especificación, mecanizado e inspección, seguidos de pruebas de producción y envase acordadas. La etiqueta de suministro no determina esos resultados."
+        },
+        {
+          "question": "¿OEM significa compatibilidad automática?",
+          "answer": "Confirme la configuración incluso con el proveedor original. La máquina y el molde pueden haberse modificado y el nuevo conjunto debe corresponder al que funcionará realmente en planta."
+        },
+        {
+          "question": "¿Cambiar un componente equivale a sustituir todo el molde?",
+          "answer": "No. Registre qué piezas siguen operativas y cuáles son nuevas. El conjunto necesita comprobaciones de interfaz y aceptación aunque se suministren solo componentes seleccionados."
+        },
+        {
+          "question": "¿Puede suponerse que la garantía existente cubre la conversión?",
+          "answer": "No lo suponga. Pida a los proveedores responsables las condiciones aplicables al proyecto concreto. Aquí no se formula una conclusión general sobre garantías."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Wikipedia — injection moulding",
+          "url": "https://en.wikipedia.org/wiki/Injection_moulding"
+        },
+        {
+          "label": "Wikipedia — hot runner",
+          "url": "https://en.wikipedia.org/wiki/Hot_runner"
+        },
+        {
+          "label": "SIPA — PET preform injection moulds and tooling",
+          "url": "https://sipasolutions.com/products/moulds/preform-tooling"
         }
       ]
     },

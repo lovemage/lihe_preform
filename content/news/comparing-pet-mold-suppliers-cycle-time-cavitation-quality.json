@@ -1,0 +1,439 @@
+{
+  "slug": "comparing-pet-mold-suppliers-cycle-time-cavitation-quality",
+  "questionId": "q104",
+  "date": "2026-09-20",
+  "relatedProducts": [
+    19,
+    27,
+    18
+  ],
+  "images": {
+    "hero": "/images/news/comparing-pet-mold-suppliers-cycle-time-cavitation-quality-hero.webp",
+    "detail": "/images/news/comparing-pet-mold-suppliers-cycle-time-cavitation-quality-detail.webp",
+    "og": "/images/news/comparing-pet-mold-suppliers-cycle-time-cavitation-quality-hero-og.jpg"
+  },
+  "sources": [
+    {
+      "label": "Wikipedia — injection moulding",
+      "url": "https://en.wikipedia.org/wiki/Injection_moulding"
+    },
+    {
+      "label": "Wikipedia — hot runner",
+      "url": "https://en.wikipedia.org/wiki/Hot_runner"
+    },
+    {
+      "label": "SIPA — PET preform injection moulds and tooling",
+      "url": "https://sipasolutions.com/products/moulds/preform-tooling"
+    }
+  ],
+  "locales": {
+    "en": {
+      "category": "Technical Insights",
+      "title": "How do PET mold suppliers compare when it comes to cycle time, cavitation, and part quality?",
+      "summary": "Compare PET mold performance using accepted output, identical trial conditions and cavity-level quality records, with clear limits on published figures.",
+      "heroAlt": "Illustrative PET mold quality-control bench with traceable preform samples",
+      "detailAlt": "Illustrative dimensional inspection of a PET preform neck and mold components",
+      "sections": [
+        {
+          "heading": "Compare acceptable output before comparing headline speed",
+          "paragraphs": [
+            "Cavitation is the number of molding cavities in a tool, while cycle time is the time required to complete one molding cycle. Compare suppliers by the acceptable parts produced under the same resin, preform, machine and cooling conditions, then examine dimensional quality and maintenance requirements. A faster cycle or higher nominal cavity count alone does not establish the better mold."
+          ]
+        },
+        {
+          "heading": "A comparison sheet that keeps the test conditions visible",
+          "table": {
+            "head": [
+              "Dimension",
+              "Record for each supplier",
+              "Why it matters"
+            ],
+            "rows": [
+              [
+                "Preform specification",
+                "Drawing revision, weight and neck finish",
+                "A different part is a different task"
+              ],
+              [
+                "Resin",
+                "Grade, lot and recycled-content plan",
+                "Material changes affect processing"
+              ],
+              [
+                "Machine",
+                "Model and complete trial configuration",
+                "The mold and machine operate together"
+              ],
+              [
+                "Cooling",
+                "Utilities and stabilized conditions",
+                "Cooling can limit the usable cycle"
+              ],
+              [
+                "Cavitation",
+                "Nominal, active and qualified cavities",
+                "Inactive cavities reduce actual output"
+              ],
+              [
+                "Cycle",
+                "Repeatable run data and interruptions",
+                "Fastest single shot is not sustained output"
+              ],
+              [
+                "Quality",
+                "Dimensions, gate condition and rejected samples",
+                "Averages can hide cavity problems"
+              ],
+              [
+                "Maintenance",
+                "Parts, access and service requirements",
+                "Wear and stoppages affect production"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Interpret published quality and cooling figures correctly",
+          "list": [
+            "LIHE publishes tooling capability of CPK ≥ 1.33. This is a company-stated quality figure published on lihe-preform.com. Ask which dimension, specification limits, sample set and process condition the report covers. A capability index for one controlled characteristic is not a pass result for every feature or production setting.",
+            "LIHE also publishes a neck-cooling reduction of up to 0.5 seconds from optimized cooling. The figure concerns neck cooling and is not a promised total molding cycle. Do not subtract it from a competitor’s cycle or from an existing plant cycle without a comparable trial.",
+            "Use cavity-level records to investigate weight variation, gate defects, neck dimensions and appearance. Ask for repeat measurements after stabilization and identify the relevant cavity. The supplier should preserve rejected samples and the conditions that produced them.",
+            "A supplier may test with different utilities or handling equipment from your plant. Record those differences before drawing a performance conclusion. Treat unreported conditions as missing evidence, rather than assuming that the strongest published result transfers unchanged."
+          ]
+        },
+        {
+          "heading": "Choose the trade-off that fits the production job",
+          "list": [
+            "For an established bottle and machine, compare sustained accepted output and service continuity. For a new preform design, include package development and bottle qualification. A comparison centered only on cycle speed can hide the engineering work required before the bottle can be sold.",
+            "Use qualified active cavitation when planning output. Disabled cavities, rejected parts and interruptions all reduce useful production. The calculation should show its operating assumptions and use the same accounting method for each supplier.",
+            "Include maintenance access, replaceable parts and commissioning in the purchase decision. A tool that needs a different controller, handling arrangement or cooling configuration can change both the project scope and the usable production result.",
+            "LIHE publishes tooling rather than a universal complete-line result. If the plant needs the mold maker to share responsibility for a machine or line change, define that arrangement explicitly. Request a project quotation for any cost comparison; there is no substantiated generic price ranking here."
+          ]
+        },
+        {
+          "heading": "Give every bidder the same baseline before asking for numbers",
+          "list": [
+            "Send one data pack to all candidates: the frozen preform drawing and target weight, the neck finish, the resin grade, the injection machine model and the hot-half arrangement already installed. If one supplier quotes a cycle for a heavier preform or a different neck, its number cannot sit in the same column as the others.",
+            "Ask each supplier to state its cavitation basis in writing. A quote for 72 cavities should say whether all 72 are expected to be qualified at start-up, how a blocked cavity is handled and whether the hot runner is new, refurbished or reused from the existing tool.",
+            "Describe the cooling water the plant can actually deliver, including supply temperature, flow capacity and seasonal variation. Cycle claims made with colder or larger chiller capacity than your site has are optimistic by design, so request the cooling assumptions behind every quoted cycle.",
+            "Require the same quality vocabulary from each bidder: which preform dimensions are measured, how weight is reported, what counts as a visual reject and how cavity numbers are traced. Without a shared definition, two suppliers can both report a good result while measuring different things.",
+            "Agree in advance which bidder costs are included: trial resin, machine time, sampling, shipping of samples and attendance by your engineers. Uneven trial terms tend to push buyers toward the supplier who made testing easiest rather than the one whose mold performed best."
+          ]
+        },
+        {
+          "heading": "Run the side-by-side trial and score it the same way",
+          "steps": [
+            "Collect each supplier's completed comparison sheet before any trial starts, so that the claimed cycle, active cavities and quality limits are on record. Any later change to those claims should be visible as a revision rather than silently replacing the original offer.",
+            "Start counting only after the process has stabilized at the agreed settings. Log the stabilized cycle, every stoppage and its cause, and every cavity that was shut off. Run each candidate for the same agreed duration so short demonstration runs do not compete with longer production-style runs.",
+            "Convert the run into accepted preforms per hour: shots per hour multiplied by active cavities, minus parts rejected for dimension, weight, gate or appearance. Use this accepted-output figure as the headline comparison instead of the fastest cycle any machine displayed.",
+            "Measure a sample from every cavity number and compare the spread between cavities, not only the overall mean. A mold whose worst cavity stays inside tolerance is usually a better production asset than one with a tighter average and two outlying cavities.",
+            "Blow the preforms from each candidate on the same blow molder with the same bottle mold and recipe window. A preform that measures well but needs a narrower blowing window adds risk to the line, and that difference only shows up when bottles are produced.",
+            "Put the results into one table, mark anything a supplier did not demonstrate as not proven, and make the decision from accepted output, cavity spread, bottle results and maintenance access together."
+          ]
+        },
+        {
+          "heading": "How LIHE's own published numbers fit into the comparison",
+          "paragraphs": [
+            "LIHE Precision wrote and publishes this comparison guide, and it is also a mold supplier you may be comparing. Treat its figures with the same scrutiny you apply to every other bidder. The following numbers are published on lihe-preform.com; the trial described above is still the way to verify them for your preform."
+          ],
+          "list": [
+            "Cavitation: LIHE's PET preform molds are listed from 32 to 160 cavities for HUSKY, NETSTAL, SIPA, KATA and other machines. Confirm which cavitation your installed machine and hot half can accept before comparing output against suppliers who quote a different count.",
+            "Quality: tooling capability of CPK ≥ 1.33 and operational defect rates as low as 0.0064%. Ask for the measurement data behind any figure you use, tied to the characteristic and sample set, and compare it with the cavity-level results from your own trial.",
+            "Durability: molds built to withstand up to 8 million shots on Husky, SACMI and Netstal platforms. Shot life depends on resin, maintenance and operating conditions, so include the agreed maintenance plan when comparing life claims between suppliers.",
+            "Inspection evidence: an in-house Zeiss CMM laboratory, with validation and inspection reports supplied on request. Request the reports for the cavities you sampled so the dimensional comparison uses the same parts on both sides."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Should I choose the shortest quoted cycle?",
+          "answer": "Only after confirming equivalent test conditions and acceptable quality. Record active cavities, rejected parts and interruptions, then compare the repeatable production result rather than an isolated fastest cycle."
+        },
+        {
+          "question": "Can nominal cavitation overstate useful output?",
+          "answer": "Yes. A nominal mold count includes cavities that may be disabled or not yet qualified. Production planning should use the agreed qualified configuration and acceptable parts actually produced."
+        },
+        {
+          "question": "Does a CPK figure cover the whole bottle?",
+          "answer": "No. Ask which characteristic and data set it describes. The final bottle still needs the agreed package tests, and a preform dimensional capability figure does not replace them."
+        },
+        {
+          "question": "Why compare cooling utilities?",
+          "answer": "The mold uses the cooling conditions available at the machine. A supplier trial with different water conditions can produce a cycle that the plant cannot reproduce. Document and resolve the difference before acceptance."
+        }
+      ]
+    },
+    "ru": {
+      "category": "Технические статьи",
+      "title": "Как сравнивать поставщиков форм ПЭТ по времени цикла, числу гнёзд и качеству деталей?",
+      "summary": "Сравнивайте формы по пригодному выпуску, одинаковым условиям испытаний и качеству каждого гнезда, учитывая ограничения опубликованных показателей.",
+      "heroAlt": "Иллюстрация стенда контроля формы ПЭТ с образцами преформ",
+      "detailAlt": "Иллюстрация измерения горловины преформы и компонентов формы",
+      "sections": [
+        {
+          "heading": "Сравнивайте пригодный выпуск раньше рекламной скорости",
+          "paragraphs": [
+            "Число гнёзд обозначает количество формующих полостей оснастки, а время цикла — длительность одного цикла литья. Сравнивайте поставщиков по выпуску пригодных деталей при одинаковых сырье, преформе, машине и охлаждении, затем оценивайте размеры и обслуживание. Быстрый цикл или большое номинальное число гнёзд сами по себе не определяют лучшую форму."
+          ]
+        },
+        {
+          "heading": "Лист сравнения с видимыми условиями испытаний",
+          "table": {
+            "head": [
+              "Параметр",
+              "Что фиксировать для поставщика",
+              "Почему это важно"
+            ],
+            "rows": [
+              [
+                "Спецификация преформы",
+                "Ревизия, масса и горловина",
+                "Другая деталь означает другую задачу"
+              ],
+              [
+                "Сырьё",
+                "Марка, партия и план вторичного материала",
+                "Материал влияет на переработку"
+              ],
+              [
+                "Машина",
+                "Модель и полная конфигурация испытания",
+                "Форма и машина работают вместе"
+              ],
+              [
+                "Охлаждение",
+                "Ресурсы и стабильные условия",
+                "Охлаждение ограничивает рабочий цикл"
+              ],
+              [
+                "Гнёзда",
+                "Номинальные, работающие и квалифицированные",
+                "Отключённые гнёзда снижают выпуск"
+              ],
+              [
+                "Цикл",
+                "Повторяемые данные запуска и остановки",
+                "Быстрый отдельный цикл не равен выпуску"
+              ],
+              [
+                "Качество",
+                "Размеры, литник и бракованные образцы",
+                "Средние скрывают проблемы гнёзд"
+              ],
+              [
+                "Обслуживание",
+                "Детали, доступ и сервис",
+                "Износ и остановки влияют на выпуск"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Правильно трактуйте показатели качества и охлаждения",
+          "list": [
+            "LIHE публикует показатель оснастки CPK ≥ 1.33. Это заявленный компанией параметр, опубликованный на lihe-preform.com. Запросите размер, границы допуска, набор образцов и условия процесса, к которым относится отчёт. Индекс для одной контролируемой характеристики не подтверждает приёмку всех размеров или настроек производства.",
+            "LIHE также публикует сокращение охлаждения горловины до 0,5 секунды посредством оптимизации. Показатель относится к горловине и не является обещанием полного цикла литья. Нельзя вычитать его из цикла конкурента или действующего процесса без сопоставимого испытания.",
+            "Используйте записи по каждому гнезду для анализа массы, литниковых дефектов, размеров горловины и внешнего вида. Запросите повторные измерения после стабилизации и обозначьте соответствующее гнездо. Поставщик должен сохранить бракованные образцы и условия их получения.",
+            "Поставщик может использовать другие инженерные ресурсы или устройства извлечения, чем ваш завод. Зафиксируйте различия до вывода о производительности. Неописанные условия являются недостающими доказательствами, а не основанием считать лучший опубликованный результат автоматически переносимым."
+          ]
+        },
+        {
+          "heading": "Выберите компромисс для производственной задачи",
+          "list": [
+            "Для освоенной бутылки и машины сравнивайте устойчивый пригодный выпуск и непрерывность сервиса. Для новой преформы включите разработку упаковки и квалификацию бутылки. Сравнение только по скорости скрывает инженерные работы, необходимые до продажи готовой бутылки.",
+            "Планируйте выпуск по квалифицированным работающим гнёздам. Отключённые гнёзда, брак и остановки снижают полезное производство. Расчёт должен показывать рабочие допущения и использовать одинаковый метод учёта для каждого поставщика.",
+            "Учитывайте доступ для обслуживания, заменяемые детали и пусконаладку. Форма, требующая другого контроллера, извлечения или охлаждения, меняет и объём проекта, и фактический производственный результат.",
+            "LIHE публикует оснастку, а не универсальный результат всей линии. Если изготовитель должен разделить ответственность за изменения машины или линии, определите это явно. Для сравнения затрат запрашивайте проектное предложение: обоснованного общего ценового рейтинга здесь нет."
+          ]
+        },
+        {
+          "heading": "Дайте всем участникам одинаковую исходную базу до запроса цифр",
+          "list": [
+            "Отправьте всем кандидатам один и тот же пакет данных: зафиксированный чертёж преформы и целевую массу, тип горловины, марку сырья, модель термопластавтомата и уже установленную горячую половину. Если один поставщик указывает цикл для более тяжёлой преформы или другой горловины, его цифру нельзя ставить в одну колонку с остальными.",
+            "Попросите каждого поставщика письменно указать основу расчёта гнёзд. Предложение на 72 гнезда должно пояснять, все ли 72 гнезда будут квалифицированы при запуске, что делается с заблокированным гнездом и будет ли горячеканальная система новой, восстановленной или перенесённой с действующей формы.",
+            "Опишите охлаждающую воду, которую завод реально может подать, включая температуру подачи, расход и сезонные колебания. Заявления о цикле, сделанные при более холодной воде или большей мощности чиллера, чем есть на площадке, заведомо оптимистичны, поэтому запрашивайте условия охлаждения для каждого заявленного цикла.",
+            "Требуйте от всех участников единой терминологии качества: какие размеры преформы измеряются, как указывается масса, что считается визуальным браком и как прослеживаются номера гнёзд. Без общего определения два поставщика могут сообщить хороший результат, измеряя совершенно разные вещи.",
+            "Заранее договоритесь, какие расходы на испытания несёт участник: пробное сырьё, машинное время, отбор образцов, отправка образцов и присутствие ваших инженеров. Неравные условия испытаний подталкивают покупателя к поставщику, с которым было проще тестировать, а не к тому, чья форма показала лучший результат."
+          ]
+        },
+        {
+          "heading": "Проведите параллельные испытания и оцените их по одной схеме",
+          "steps": [
+            "Получите заполненный лист сравнения от каждого поставщика до начала испытаний, чтобы заявленный цикл, число активных гнёзд и пределы качества были зафиксированы. Любое последующее изменение этих заявлений должно оформляться как ревизия, а не незаметно заменять исходное предложение.",
+            "Начинайте учёт только после стабилизации процесса на согласованных настройках. Фиксируйте стабильный цикл, каждую остановку и её причину, а также каждое отключённое гнездо. Каждый кандидат работает одинаковое согласованное время, чтобы короткие демонстрационные прогоны не соревновались с длительными прогонами, близкими к производству.",
+            "Пересчитайте прогон в число пригодных преформ в час: число впрысков в час, умноженное на число активных гнёзд, минус детали, отбракованные по размерам, массе, литнику или внешнему виду. Именно этот показатель пригодного выпуска используйте для сравнения вместо самого быстрого цикла, который показала машина.",
+            "Измерьте образцы с каждого номера гнезда и сравните разброс между гнёздами, а не только общее среднее. Форма, у которой худшее гнездо остаётся в допуске, обычно ценнее для производства, чем форма с более узким средним значением и двумя выпадающими гнёздами.",
+            "Выдуйте преформы каждого кандидата на одной и той же выдувной машине с одной бутылочной формой и одним окном рецептуры. Преформа с хорошими размерами, которой нужно более узкое окно выдува, добавляет риск для линии, и это различие проявляется только при выпуске бутылок.",
+            "Сведите результаты в одну таблицу, отметьте всё, что поставщик не продемонстрировал, как недоказанное, и принимайте решение по совокупности пригодного выпуска, разброса между гнёздами, результатов по бутылкам и доступности обслуживания."
+          ]
+        },
+        {
+          "heading": "Как собственные опубликованные показатели LIHE вписываются в сравнение",
+          "paragraphs": [
+            "Это руководство по сравнению подготовлено и опубликовано LIHE Precision, которая сама может оказаться одним из сравниваемых поставщиков форм. Относитесь к её показателям так же критично, как к данным любого другого участника. Приведённые ниже цифры опубликованы на lihe-preform.com; проверить их для вашей преформы по-прежнему следует описанным выше испытанием."
+          ],
+          "list": [
+            "Число гнёзд: формы LIHE для ПЭТ-преформ заявлены в диапазоне от 32 до 160 гнёзд для машин HUSKY, NETSTAL, SIPA, KATA и других. Подтвердите, какое число гнёзд допускают установленная машина и горячая половина, прежде чем сравнивать выпуск с поставщиками, предлагающими другое количество.",
+            "Качество: воспроизводимость оснастки CPK ≥ 1.33 и уровень эксплуатационного брака от 0,0064%. Запрашивайте измерительные данные по любому используемому показателю с привязкой к характеристике и выборке и сопоставляйте их с результатами по гнёздам из собственного испытания.",
+            "Ресурс: формы рассчитаны на срок службы до 8 миллионов циклов на платформах Husky, SACMI и Netstal. Ресурс зависит от сырья, обслуживания и условий эксплуатации, поэтому при сравнении заявлений о ресурсе учитывайте согласованный план обслуживания.",
+            "Подтверждение контроля: собственная лаборатория с координатно-измерительной машиной Zeiss, отчёты валидации и контроля предоставляются по запросу. Запросите отчёты именно по тем гнёздам, образцы которых вы отбирали, чтобы размерное сравнение велось по одним и тем же деталям."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Следует выбирать самый короткий заявленный цикл?",
+          "answer": "Только после подтверждения равных условий испытания и приемлемого качества. Фиксируйте работающие гнёзда, брак и остановки, затем сравнивайте повторяемый производственный результат, а не самый быстрый отдельный цикл."
+        },
+        {
+          "question": "Может номинальное число гнёзд завысить полезный выпуск?",
+          "answer": "Да. Оно включает гнёзда, которые могут быть отключены или ещё не квалифицированы. Планируйте выпуск по согласованной рабочей конфигурации и фактически изготовленным пригодным деталям."
+        },
+        {
+          "question": "Описывает показатель CPK всю бутылку?",
+          "answer": "Нет. Уточните характеристику и набор данных. Готовой бутылке необходимы согласованные испытания упаковки, которые индекс размеров преформы не заменяет."
+        },
+        {
+          "question": "Почему нужно сравнивать охлаждение?",
+          "answer": "Форма использует условия охлаждения у машины. Испытание с другой водой может дать цикл, невоспроизводимый на заводе. Зафиксируйте и устраните различие до приёмки."
+        }
+      ]
+    },
+    "es": {
+      "category": "Artículos técnicos",
+      "title": "¿Cómo se comparan los proveedores de moldes PET en tiempo de ciclo, número de cavidades y calidad de piezas?",
+      "summary": "Compare moldes por producción aceptada, condiciones de ensayo equivalentes y calidad por cavidad, teniendo presentes los límites de las cifras publicadas.",
+      "heroAlt": "Banco ilustrativo de control de moldes PET con muestras de preformas",
+      "detailAlt": "Inspección dimensional ilustrativa de cuello de preforma y componentes",
+      "sections": [
+        {
+          "heading": "Compare producción aceptable antes que velocidad anunciada",
+          "paragraphs": [
+            "El número de cavidades es la cantidad de espacios de moldeo de una herramienta, mientras que el tiempo de ciclo es el necesario para completar un ciclo de inyección. Compare proveedores por piezas aceptables bajo las mismas condiciones de resina, preforma, máquina y refrigeración, y examine después la calidad dimensional y el mantenimiento. Un ciclo más rápido o más cavidades nominales no determinan por sí solos el mejor molde."
+          ]
+        },
+        {
+          "heading": "Una hoja de comparación con condiciones de ensayo visibles",
+          "table": {
+            "head": [
+              "Dimensión",
+              "Qué registrar por proveedor",
+              "Por qué importa"
+            ],
+            "rows": [
+              [
+                "Preforma",
+                "Revisión de plano, peso y cuello",
+                "Una pieza diferente es otra tarea"
+              ],
+              [
+                "Resina",
+                "Grado, lote y plan de contenido reciclado",
+                "El material influye en el proceso"
+              ],
+              [
+                "Máquina",
+                "Modelo y configuración completa de prueba",
+                "Molde y máquina operan conjuntamente"
+              ],
+              [
+                "Refrigeración",
+                "Servicios y condiciones estabilizadas",
+                "Puede limitar el ciclo utilizable"
+              ],
+              [
+                "Cavidades",
+                "Nominales, activas y cualificadas",
+                "Las inactivas reducen la producción"
+              ],
+              [
+                "Ciclo",
+                "Datos repetibles e interrupciones",
+                "El disparo más rápido no es producción sostenida"
+              ],
+              [
+                "Calidad",
+                "Dimensiones, punto de inyección y rechazos",
+                "Las medias ocultan problemas por cavidad"
+              ],
+              [
+                "Mantenimiento",
+                "Piezas, acceso y requisitos de servicio",
+                "El desgaste y las paradas afectan al resultado"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Interprete correctamente las cifras de calidad y refrigeración",
+          "list": [
+            "LIHE publica una capacidad de moldes de CPK ≥ 1.33. Es una cifra declarada por la empresa y publicada en lihe-preform.com. Pregunte a qué dimensión, tolerancias, conjunto de muestras y condición de proceso corresponde el informe. Un índice para una característica no aprueba todas las geometrías o ajustes de producción.",
+            "LIHE también publica una reducción del enfriamiento del cuello de hasta 0,5 segundos mediante optimización. La cifra se refiere al cuello y no promete un ciclo total de inyección. No la reste del ciclo de un competidor ni del proceso existente sin una prueba comparable.",
+            "Utilice registros por cavidad para investigar variación de peso, defectos de inyección, dimensiones del cuello y aspecto. Solicite mediciones repetidas tras estabilizar e identifique la cavidad correspondiente. El proveedor debe conservar las piezas rechazadas y las condiciones que las produjeron.",
+            "El proveedor puede probar con servicios o equipos de manipulación distintos de los de su planta. Registre esas diferencias antes de concluir sobre prestaciones. Considere las condiciones no indicadas como evidencia pendiente y no como permiso para trasladar sin cambios el mejor resultado publicado."
+          ]
+        },
+        {
+          "heading": "Elija el equilibrio adecuado para su producción",
+          "list": [
+            "Para una botella y máquina establecidas, compare producción aceptada sostenida y continuidad del servicio. Para una preforma nueva, incluya desarrollo del envase y cualificación de botella. Centrarse solo en velocidad puede ocultar la ingeniería necesaria antes de vender el envase.",
+            "Planifique la producción con las cavidades activas cualificadas. Las desactivadas, los rechazos y las interrupciones reducen el resultado útil. El cálculo debe mostrar sus supuestos y emplear el mismo método para cada proveedor.",
+            "Incluya acceso de mantenimiento, recambios y puesta en marcha en la decisión. Un molde que necesite otro controlador, sistema de manipulación o refrigeración puede modificar el alcance del proyecto y la producción realmente utilizable.",
+            "LIHE publica moldes y no un resultado universal de línea completa. Si necesita que el fabricante comparta responsabilidad por cambios de máquina o línea, defínalo expresamente. Solicite cotizaciones específicas para comparar costes; no se ofrece una clasificación genérica de precios."
+          ]
+        },
+        {
+          "heading": "Entregue a cada oferente la misma base antes de pedir cifras",
+          "list": [
+            "Envíe un único paquete de datos a todos los candidatos: el plano congelado de la preforma y el peso objetivo, el acabado de cuello, el grado de resina, el modelo de inyectora y la mitad caliente ya instalada. Si un proveedor cotiza un ciclo para una preforma más pesada o un cuello distinto, su cifra no puede ir en la misma columna que las demás.",
+            "Pida a cada proveedor que indique por escrito la base de su cavitación. Una oferta de 72 cavidades debe aclarar si las 72 estarán cualificadas en el arranque, cómo se gestiona una cavidad bloqueada y si el canal caliente es nuevo, reacondicionado o reutilizado del molde existente.",
+            "Describa el agua de refrigeración que la planta puede suministrar realmente, incluida la temperatura de entrada, la capacidad de caudal y la variación estacional. Las promesas de ciclo hechas con agua más fría o con más capacidad de enfriadora de la que tiene su planta son optimistas por diseño, así que solicite las hipótesis de refrigeración de cada ciclo cotizado.",
+            "Exija el mismo vocabulario de calidad a todos los oferentes: qué dimensiones de la preforma se miden, cómo se informa el peso, qué se considera rechazo visual y cómo se trazan los números de cavidad. Sin una definición común, dos proveedores pueden informar un buen resultado midiendo cosas distintas.",
+            "Acuerde de antemano qué costes de la prueba asume cada oferente: resina de ensayo, tiempo de máquina, muestreo, envío de muestras y asistencia de sus ingenieros. Unas condiciones de prueba desiguales empujan al comprador hacia el proveedor con el que fue más fácil ensayar, y no hacia aquel cuyo molde rindió mejor."
+          ]
+        },
+        {
+          "heading": "Ejecute la prueba en paralelo y puntúela con el mismo criterio",
+          "steps": [
+            "Reúna la hoja de comparación completada por cada proveedor antes de empezar cualquier prueba, para que el ciclo declarado, las cavidades activas y los límites de calidad queden registrados. Cualquier cambio posterior en esas declaraciones debe constar como revisión y no sustituir en silencio la oferta original.",
+            "Empiece a contar solo cuando el proceso se haya estabilizado con los ajustes acordados. Registre el ciclo estable, cada parada con su causa y cada cavidad desactivada. Haga funcionar a cada candidato durante el mismo tiempo acordado para que las demostraciones cortas no compitan con tiradas largas de tipo productivo.",
+            "Convierta la tirada en preformas aceptadas por hora: inyecciones por hora multiplicadas por las cavidades activas, menos las piezas rechazadas por dimensión, peso, punto de inyección o aspecto. Use esta cifra de producción aceptada como comparación principal en lugar del ciclo más rápido que mostró la máquina.",
+            "Mida una muestra de cada número de cavidad y compare la dispersión entre cavidades, no solo la media global. Un molde cuya peor cavidad se mantiene dentro de tolerancia suele ser mejor activo de producción que otro con una media más ajustada y dos cavidades fuera de rango.",
+            "Sople las preformas de cada candidato en la misma sopladora, con el mismo molde de botella y la misma ventana de receta. Una preforma que mide bien pero exige una ventana de soplado más estrecha añade riesgo a la línea, y esa diferencia solo aparece al producir botellas.",
+            "Vuelque los resultados en una sola tabla, marque como no demostrado todo lo que un proveedor no haya probado y decida considerando a la vez la producción aceptada, la dispersión entre cavidades, los resultados de botella y el acceso para mantenimiento."
+          ]
+        },
+        {
+          "heading": "Cómo encajan en la comparación las cifras publicadas por LIHE",
+          "paragraphs": [
+            "LIHE Precision redacta y publica esta guía de comparación y es, además, uno de los proveedores de moldes que usted puede estar comparando. Trate sus cifras con el mismo rigor que aplica a cualquier otro oferente. Los datos siguientes están publicados en lihe-preform.com; la prueba descrita arriba sigue siendo la forma de verificarlos para su preforma."
+          ],
+          "list": [
+            "Cavitación: los moldes de preforma PET de LIHE figuran de 32 a 160 cavidades para máquinas HUSKY, NETSTAL, SIPA, KATA y otras. Confirme qué cavitación admiten su máquina instalada y su mitad caliente antes de comparar la producción con proveedores que cotizan otro número de cavidades.",
+            "Calidad: capacidad de moldes de CPK ≥ 1.33 y tasas de defectos operativos de hasta solo un 0,0064%. Pida los datos de medición detrás de cualquier cifra que utilice, vinculados a la característica y al conjunto de muestras, y compárelos con los resultados por cavidad de su propia prueba.",
+            "Durabilidad: moldes construidos para soportar hasta 8 millones de inyecciones en plataformas Husky, SACMI y Netstal. La vida útil depende de la resina, el mantenimiento y las condiciones de operación, así que incluya el plan de mantenimiento acordado al comparar las promesas de vida entre proveedores.",
+            "Evidencia de inspección: laboratorio propio con máquina de medición por coordenadas Zeiss e informes de validación e inspección disponibles bajo petición. Solicite los informes de las cavidades que usted muestreó para que la comparación dimensional use las mismas piezas en ambos lados."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Debo elegir el ciclo más corto de la oferta?",
+          "answer": "Solo después de confirmar condiciones equivalentes y calidad aceptable. Registre cavidades activas, rechazos e interrupciones y compare producción repetible, en lugar del ciclo aislado más rápido."
+        },
+        {
+          "question": "¿Las cavidades nominales pueden exagerar la producción?",
+          "answer": "Sí. El total nominal puede incluir cavidades desactivadas o todavía sin cualificar. Planifique con la configuración aprobada y las piezas aceptables realmente producidas."
+        },
+        {
+          "question": "¿Una cifra CPK cubre toda la botella?",
+          "answer": "No. Pregunte qué característica y datos describe. La botella final requiere los ensayos de envase acordados, que una capacidad dimensional de preforma no sustituye."
+        },
+        {
+          "question": "¿Por qué comparar servicios de refrigeración?",
+          "answer": "El molde depende de las condiciones disponibles en la máquina. Una prueba con agua diferente puede lograr un ciclo que la planta no reproduce. Documente y resuelva la diferencia antes de aceptar."
+        }
+      ]
+    }
+  }
+}

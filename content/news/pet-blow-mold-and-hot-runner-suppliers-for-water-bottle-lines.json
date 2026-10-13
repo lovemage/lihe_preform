@@ -1,0 +1,416 @@
+{
+  "slug": "pet-blow-mold-and-hot-runner-suppliers-for-water-bottle-lines",
+  "questionId": "q102",
+  "date": "2026-09-16",
+  "relatedProducts": [
+    22,
+    24,
+    27
+  ],
+  "images": {
+    "hero": "/images/news/pet-blow-mold-and-hot-runner-suppliers-for-water-bottle-lines-hero.webp",
+    "detail": "/images/news/pet-blow-mold-and-hot-runner-suppliers-for-water-bottle-lines-detail.webp",
+    "og": "/images/news/pet-blow-mold-and-hot-runner-suppliers-for-water-bottle-lines-hero-og.jpg"
+  },
+  "sources": [
+    {
+      "label": "Mold-Masters — PET-Series hot runner systems",
+      "url": "https://www.moldmasters.com/pet-series"
+    },
+    {
+      "label": "SIPA — PET preform injection moulds and tooling",
+      "url": "https://sipasolutions.com/products/moulds/preform-tooling"
+    },
+    {
+      "label": "Sidel — complete water bottling lines",
+      "url": "https://www.sidel.com/en/complete-lines-repository/water-lines/"
+    },
+    {
+      "label": "Wikipedia — hot runner",
+      "url": "https://en.wikipedia.org/wiki/Hot_runner"
+    }
+  ],
+  "locales": {
+    "en": {
+      "category": "Technical Insights",
+      "title": "What suppliers should I look at for PET blow molds and hot runner systems for a new water bottle line?",
+      "summary": "Separate preform injection tooling, blow molds and complete-line equipment before comparing suppliers for a new PET water bottle line.",
+      "heroAlt": "Illustrative PET water-bottle blow mold and separate injection hot runner",
+      "detailAlt": "Illustrative PET injection hot runner manifold with valve-gate nozzles",
+      "sections": [
+        {
+          "heading": "Start with the part of the line you are buying",
+          "paragraphs": [
+            "A hot runner is a heated injection-mold assembly that distributes molten plastic to the preform cavities; a PET blow mold shapes a reheated preform into a bottle. Consider specialist tooling suppliers such as LIHE and SIPA, a hot-runner supplier such as Mold-Masters, and a complete-line supplier such as Sidel according to the equipment scope you need. The blowing station does not use the preform injection hot runner, so these purchases need separate specifications."
+          ]
+        },
+        {
+          "heading": "Relevant suppliers and the boundaries of their offers",
+          "list": [
+            "Mold-Masters publishes PET-Series hot runners. Evaluate that offering for the injection stage, checking the layout against the cold half and machine. Its published product page identifies a hot-half offering; do not mistake a hot runner proposal for a complete preform mold or a bottle blow mold.",
+            "SIPA publishes preform tooling and conversions. It is a candidate to investigate when coordinating preform development with the upstream injection tooling. Ask which tooling and machine interfaces the specific quotation covers, and separate those responsibilities from the equipment used to blow and fill bottles.",
+            "Sidel publishes complete water bottling lines. Investigate it when the project includes integrated blowing, filling, capping and other line equipment. Determine whether the line proposal also includes bottle development, mold sets, format parts and the required acceptance tests.",
+            "LIHE publishes blow molds, preform molds and hot runner systems. This offers a tooling-centered procurement route. It does not establish that LIHE is the contractor for the entire new water line; keep the equipment integrator and the mold interface responsibilities explicit."
+          ]
+        },
+        {
+          "heading": "Separate specifications for separate production stages",
+          "table": {
+            "head": [
+              "Purchase",
+              "Primary specification",
+              "Interface to confirm"
+            ],
+            "rows": [
+              [
+                "Preform mold",
+                "Preform weight, neck finish and cavity layout",
+                "Injection machine and hot half"
+              ],
+              [
+                "Hot runner",
+                "Melt distribution, gating and control configuration",
+                "Cold half, controller and machine"
+              ],
+              [
+                "Blow mold",
+                "Bottle geometry, base and filling method",
+                "Blower mold carrier and neck handling"
+              ],
+              [
+                "Format parts",
+                "Approved bottle and neck geometry",
+                "Conveyors, star wheels and guides"
+              ],
+              [
+                "Complete water line",
+                "Finished-package output and process scope",
+                "Blowing, filling, capping and handling"
+              ],
+              [
+                "Acceptance package",
+                "Preform, bottle and production checks",
+                "Joint responsibilities and site utilities"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Water-bottle design decisions that affect the tooling order",
+          "list": [
+            "Decide whether the plant will buy finished preforms or manufacture them. If preforms are purchased, a new blowing and filling line may not require a new injection mold or hot runner at all. Keep supplier selection aligned with the actual production route.",
+            "Approve the water-bottle geometry and neck finish before ordering the complete mold set. The bottle base, label area and handling geometry affect equipment beyond the blower. Ask the integrator to confirm the full format-parts list alongside the approved bottle drawing.",
+            "Specify the filling method and product requirements instead of selecting tooling from the beverage name alone. Still water, sparkling water and other beverages can have different package requirements. Cold-fill, hot-fill and aseptic processes should be identified explicitly in the design brief.",
+            "Request consistent drawings across the preform, bottle and closure. A change to the preform neck may require changes to handling parts and capping, while a bottle-body change may primarily affect blow tooling and downstream transport. Resolve these boundaries before comparing commercial offers."
+          ]
+        },
+        {
+          "heading": "Draw the interface lines between the three supply scopes",
+          "list": [
+            "Injection side: the hot runner supplier and the preform mold supplier share the hot-half to cold-half interface, including nozzle positions, gate geometry, heater zones, connectors and cooling connections. If two companies are involved, name one of them as responsible for the assembled mold, or record in writing that the plant is the integrator.",
+            "Injection to blowing: the preform drawing is the contract between the mold maker and the blower. The neck finish and support ring must suit the blower’s neck handling, and the preform body must suit its heating oven. Both sides should sign the same preform revision before any steel is cut.",
+            "Blowing side: the blow mold supplier needs the blower model, the mold carrier type and the approved bottle drawing. A water bottle for a two-step blower is specified differently from one for a one-step machine, where injection and blowing take place on the same platform.",
+            "Blowing to filling and capping: the bottle neck, body and base interact with conveyors, star wheels, neck grippers, the filler and the capper. These format parts often belong to the line supplier’s scope, so confirm who designs them for each bottle size.",
+            "Utilities: the plant should state the cooling water available for the injection mold and the blow molds and the compressed-air supply for blowing, so that each supplier designs for the same conditions and no trial relies on utilities the site does not have."
+          ]
+        },
+        {
+          "heading": "Accept the water line stage by stage, not only at the end",
+          "steps": [
+            "Approve the bottle, preform and closure drawings together, with the line integrator, the mold maker and the hot runner supplier signing the same revisions. Every later change then has a clear owner and a clear cost.",
+            "Test the hot runner on its own before it is matched to the cold half: heating of every zone, temperature stability and freedom from leakage. Record the results against the serial number of the hot half.",
+            "Run the assembled preform mold and check each cavity for weight, neck dimensions and gate quality. If the plant will buy preforms instead of making them, apply this step to samples from the preform supplier.",
+            "Blow the trial preforms on the target blower, or an equivalent machine, with the actual blow molds. Check wall distribution, base shape and filled volume for each bottle size, for example 500 ml and 1.5 L.",
+            "Run filled and capped bottles through the line and record leaks, closure application results and handling faults. List each open item against the supplier responsible for the interface where it appeared."
+          ]
+        },
+        {
+          "heading": "What LIHE can quote for a water bottle line",
+          "paragraphs": [
+            "This guide comes from LIHE Precision, a company that supplies molds and hot runners but does not build complete filling lines; weigh its advice with that position in mind. The figures below are published on lihe-preform.com and cover only the tooling scopes discussed in this article."
+          ],
+          "list": [
+            "Blow molds for two-step blowers from SIDEL, KRONES, SIG/KHS, TECH-LONG and NEWAMSTAR and for one-step machines from SIPA, ASB and AOKI, including KHS InnoPET Blomax and Krones Contiform cold-fill sets and split-type quick-change molds.",
+            "Published water-bottle sizes: 330 ml, 500 ml, 550 ml and 1.5 L. Any other size has to be confirmed in the quotation.",
+            "Hot runners: valve-gate designs for up to 144 preform cavities, compatible with HUSKY, NETSTAL, KM and SIPA machines. The Husky Ultra-type design carries a 3-year leakage-proof guarantee.",
+            "If the plant will make its own preforms, the injection tooling covers PET preform molds of 32 to 160 cavities for HUSKY, NETSTAL, SIPA, KATA and other machines.",
+            "Lead times: pilot molds 20 days, standard preform and blow molds 8 weeks, replacement parts 4 weeks. Plan drawing approval and trials as separate time on top of these figures.",
+            "For lighter water bottles, LIHE makes proposals that take 1 g to 2 g off the preform weight by optimizing the neck or the wall thickness. Such a change affects the preform mold and the blow mold at the same time, so both scopes need to be reviewed together."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Does a bottle blow mold need a hot runner?",
+          "answer": "Not in the reheated two-step blowing stage described here. The hot runner belongs to preform injection. Define the production route carefully because a combined single-stage system has a different equipment architecture."
+        },
+        {
+          "question": "Do I need injection tooling if I buy preforms?",
+          "answer": "Usually the upstream preform supplier owns that tooling. Confirm its approved preform specification and supply arrangements, then order the bottle tooling and line equipment needed for your own plant."
+        },
+        {
+          "question": "Can one supplier coordinate both tooling purchases?",
+          "answer": "Potentially, but confirm the quotation and responsibilities. Supplying both product categories does not automatically include complete-line integration, every format part or final package qualification."
+        },
+        {
+          "question": "What determines a suitable blow-mold set?",
+          "answer": "The actual blower, mold carrier, bottle drawing, preform and neck finish, filling method and package requirements. Send these together so the supplier can identify the complete mold set and related conversion parts."
+        }
+      ]
+    },
+    "ru": {
+      "category": "Технические статьи",
+      "title": "Каких поставщиков рассмотреть для выдувных форм ПЭТ и горячеканальных систем новой линии бутылок для воды?",
+      "summary": "Разделите литьевую оснастку преформ, выдувные формы и оборудование всей линии перед сравнением поставщиков новой линии бутылок для воды.",
+      "heroAlt": "Иллюстрация выдувной формы бутылки для воды и отдельной горячеканальной системы",
+      "detailAlt": "Иллюстрация коллектора горячеканальной системы ПЭТ с клапанными соплами",
+      "sections": [
+        {
+          "heading": "Начните с определения покупаемого участка линии",
+          "paragraphs": [
+            "Горячеканальная система — это нагреваемый узел литьевой формы, распределяющий расплав по гнёздам преформ; выдувная форма ПЭТ превращает разогретую преформу в бутылку. В зависимости от состава оборудования рассматривайте изготовителей оснастки, например LIHE и SIPA, поставщика горячеканальных систем Mold-Masters и поставщика полной линии Sidel. Станция выдува не использует горячеканальную систему литья преформ, поэтому этим закупкам нужны отдельные спецификации."
+          ]
+        },
+        {
+          "heading": "Подходящие поставщики и границы их предложений",
+          "list": [
+            "Mold-Masters публикует горячеканальные системы PET-Series. Оценивайте предложение для стадии литья, проверяя расположение сопел относительно холодной половины и машины. На странице продукта описана горячая половина. Не принимайте предложение горячеканальной системы за полную форму преформ или выдувную форму бутылки.",
+            "SIPA публикует оснастку преформ и конверсии. Рассмотрите компанию при согласовании разработки преформы с литьевой оснасткой. Уточните, какие интерфейсы форм и машин входят в конкретное предложение, и отделите эти обязанности от оборудования для выдува и розлива.",
+            "Sidel публикует полные линии розлива воды. Рассматривайте компанию, когда проект включает объединённые выдув, розлив, укупорку и другое оборудование. Определите, включены ли также разработка бутылки, комплекты форм, форматные детали и необходимые приёмочные испытания.",
+            "LIHE публикует выдувные формы, формы преформ и горячеканальные системы. Это путь закупки с акцентом на оснастку. Он не означает, что LIHE является подрядчиком всей новой линии воды. Ответственность интегратора оборудования и обязанности по интерфейсам форм необходимо обозначить отдельно."
+          ]
+        },
+        {
+          "heading": "Отдельные спецификации для отдельных стадий",
+          "table": {
+            "head": [
+              "Покупка",
+              "Основная спецификация",
+              "Проверяемый интерфейс"
+            ],
+            "rows": [
+              [
+                "Форма преформ",
+                "Масса, горловина и расположение гнёзд",
+                "Литьевая машина и горячая половина"
+              ],
+              [
+                "Горячеканальная система",
+                "Распределение расплава, затворы и управление",
+                "Холодная половина, контроллер и машина"
+              ],
+              [
+                "Выдувная форма",
+                "Геометрия бутылки, дно и способ розлива",
+                "Держатель формы и обращение с горловиной"
+              ],
+              [
+                "Форматные детали",
+                "Утверждённая бутылка и горловина",
+                "Конвейеры, звёздочки и направляющие"
+              ],
+              [
+                "Полная линия воды",
+                "Выпуск готовой упаковки и состав процесса",
+                "Выдув, розлив, укупорка и транспорт"
+              ],
+              [
+                "Приёмочный комплект",
+                "Проверки преформы, бутылки и производства",
+                "Общие обязанности и ресурсы площадки"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Решения по бутылке, влияющие на заказ оснастки",
+          "list": [
+            "Определите, будет ли завод покупать готовые преформы или производить их сам. При покупных преформах новой линии выдува и розлива вообще могут не понадобиться новая литьевая форма и горячеканальная система. Выбор поставщиков должен соответствовать фактическому производственному маршруту.",
+            "Утвердите геометрию бутылки и горловины до заказа полного комплекта форм. Дно, зона этикетки и геометрия обращения влияют на оборудование за пределами выдувной машины. Попросите интегратора подтвердить перечень форматных деталей вместе с утверждённым чертежом бутылки.",
+            "Укажите способ розлива и требования к продукту, а не выбирайте оснастку только по названию напитка. Негазированная вода, газированная вода и другие напитки могут предъявлять разные требования к упаковке. Холодный, горячий и асептический розлив должны быть прямо обозначены в техническом задании.",
+            "Требуйте согласованных чертежей преформы, бутылки и крышки. Изменение горловины может потребовать изменения транспортных деталей и укупорки, а изменение корпуса бутылки — преимущественно выдувной оснастки и последующего транспорта. Определите границы до сравнения коммерческих предложений."
+          ]
+        },
+        {
+          "heading": "Проведите границы интерфейсов между тремя объёмами поставки",
+          "list": [
+            "Литьевая сторона: поставщик горячего канала и поставщик пресс-формы для преформ делят интерфейс между горячей и холодной половинами — расположение сопел, геометрию впуска, зоны нагрева, разъёмы и подключения охлаждения. Если участвуют две компании, назначьте одну из них ответственной за собранную форму или письменно зафиксируйте, что интегратором является завод.",
+            "От литья к выдуву: чертёж преформы — это договор между изготовителем пресс-формы и выдувной машиной. Горловина и опорное кольцо должны подходить к захватам горловины выдувной машины, а корпус преформы — к её печи нагрева. Обе стороны должны подписать одну и ту же ревизию преформы до начала обработки стали.",
+            "Выдувная сторона: поставщику выдувных форм нужны модель выдувной машины, тип формодержателя и утверждённый чертёж бутылки. Бутылка для воды под двухстадийную выдувную машину специфицируется иначе, чем под одностадийную машину, где литьё и выдув выполняются на одной платформе.",
+            "От выдува к розливу и укупорке: горловина, корпус и дно бутылки взаимодействуют с конвейерами, звёздочками, захватами горловины, разливочной машиной и укупорщиком. Эти форматные детали часто входят в объём поставщика линии, поэтому уточните, кто проектирует их для каждого размера бутылки.",
+            "Инженерные ресурсы: завод должен указать доступную охлаждающую воду для литьевой и выдувных форм и подачу сжатого воздуха для выдува, чтобы каждый поставщик проектировал под одни и те же условия, а ни одно испытание не опиралось на ресурсы, которых на площадке нет."
+          ]
+        },
+        {
+          "heading": "Принимайте линию для воды поэтапно, а не только в конце",
+          "steps": [
+            "Утвердите чертежи бутылки, преформы и колпачка вместе: интегратор линии, изготовитель форм и поставщик горячего канала подписывают одни и те же ревизии. Тогда у каждого последующего изменения есть понятный ответственный и понятная стоимость.",
+            "Испытайте горячий канал отдельно, до сопряжения с холодной половиной: нагрев каждой зоны, стабильность температуры и отсутствие протечек. Запишите результаты с привязкой к серийному номеру горячей половины.",
+            "Запустите собранную пресс-форму для преформ и проверьте каждое гнездо по массе, размерам горловины и качеству впуска. Если завод будет покупать преформы, а не производить их, примените этот шаг к образцам поставщика преформ.",
+            "Выдуйте пробные преформы на целевой выдувной машине или равноценной машине с фактическими выдувными формами. Проверьте распределение стенки, форму дна и объём для каждого размера бутылки, например 500 мл и 1,5 л.",
+            "Пропустите наполненные и укупоренные бутылки через линию и зафиксируйте протечки, результаты укупорки и сбои транспортировки. Каждый открытый вопрос закрепите за поставщиком, отвечающим за тот интерфейс, где он возник."
+          ]
+        },
+        {
+          "heading": "Что LIHE может предложить для линии розлива воды",
+          "paragraphs": [
+            "Это руководство подготовлено компанией LIHE Precision, которая поставляет пресс-формы и горячеканальные системы, но не строит комплектные линии розлива; учитывайте это при оценке её советов. Приведённые ниже данные опубликованы на lihe-preform.com и охватывают только те объёмы оснастки, которые рассматриваются в этой статье."
+          ],
+          "list": [
+            "Выдувные формы для двухстадийных машин SIDEL, KRONES, SIG/KHS, TECH-LONG и NEWAMSTAR и для одностадийных машин SIPA, ASB и AOKI, включая комплекты холодного розлива для KHS InnoPET Blomax и Krones Contiform, а также разъёмные быстросменные формы.",
+            "Опубликованные размеры бутылок для воды: 330 мл, 500 мл, 550 мл и 1,5 л. Любой другой размер необходимо подтвердить в коммерческом предложении.",
+            "Горячеканальные системы: конструкции с игольчатым запиранием на до 144 гнёзд для преформ, совместимые с машинами HUSKY, NETSTAL, KM и SIPA. На конструкцию типа Husky Ultra даётся 3-летняя гарантия от протечек.",
+            "Если завод будет сам производить преформы, литьевая оснастка включает пресс-формы для ПЭТ-преформ на 32–160 гнёзд для машин HUSKY, NETSTAL, SIPA, KATA и других.",
+            "Сроки поставки: пилотные формы — 20 дней, стандартные формы для преформ и выдувные формы — 8 недель, запасные части — 4 недели. Утверждение чертежей и испытания планируйте как отдельное время сверх этих сроков.",
+            "Для более лёгких бутылок для воды LIHE готовит предложения, снимающие 1–2 г с массы преформы за счёт оптимизации горловины или толщины стенки. Такое изменение затрагивает одновременно пресс-форму для преформ и выдувную форму, поэтому оба объёма нужно рассматривать вместе."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Нужна ли выдувной форме горячеканальная система?",
+          "answer": "Не на описанной стадии двухступенчатого выдува с повторным нагревом. Горячеканальная система относится к литью преформ. Чётко укажите маршрут: объединённая одноступенчатая система имеет другую архитектуру оборудования."
+        },
+        {
+          "question": "Нужна ли литьевая оснастка при покупке преформ?",
+          "answer": "Обычно она принадлежит поставщику преформ. Подтвердите утверждённую спецификацию и условия их поставки, затем закажите выдувную оснастку и оборудование, необходимые непосредственно вашему заводу."
+        },
+        {
+          "question": "Может ли один поставщик согласовать обе закупки?",
+          "answer": "Это возможно, но подтвердите состав предложения и обязанности. Поставка двух категорий продукции не включает автоматически интеграцию всей линии, все форматные детали или квалификацию готовой упаковки."
+        },
+        {
+          "question": "Что определяет подходящий комплект выдувных форм?",
+          "answer": "Фактическая выдувная машина, держатель формы, чертёж бутылки, преформа и горловина, способ розлива и требования к упаковке. Передайте сведения вместе для определения полного комплекта форм и связанных деталей конверсии."
+        }
+      ]
+    },
+    "es": {
+      "category": "Artículos técnicos",
+      "title": "¿Qué proveedores debo considerar para moldes de soplado PET y sistemas de canal caliente de una nueva línea de botellas de agua?",
+      "summary": "Separe los moldes de inyección de preformas, los moldes de soplado y el equipo de línea completa antes de comparar proveedores para botellas de agua.",
+      "heroAlt": "Molde ilustrativo de soplado de botella de agua y canal caliente separado",
+      "detailAlt": "Colector ilustrativo de canal caliente PET con boquillas de válvula",
+      "sections": [
+        {
+          "heading": "Empiece por el tramo de línea que necesita comprar",
+          "paragraphs": [
+            "Un canal caliente es un conjunto calentado del molde de inyección que distribuye plástico fundido a las cavidades de preforma; un molde de soplado PET da forma de botella a una preforma recalentada. Considere especialistas en moldes como LIHE y SIPA, un proveedor de canales calientes como Mold-Masters y un proveedor de línea completa como Sidel según el equipo que necesite. La estación de soplado no utiliza el canal caliente de inyección de preformas, por lo que las compras requieren especificaciones separadas."
+          ]
+        },
+        {
+          "heading": "Proveedores pertinentes y límites de sus ofertas",
+          "list": [
+            "Mold-Masters publica canales calientes PET-Series. Evalúe esa oferta para la etapa de inyección, comprobando la disposición frente a la mitad fría y la máquina. Su página identifica una oferta de mitad caliente; no confunda una propuesta de canal caliente con un molde completo de preformas o un molde de soplado de botellas.",
+            "SIPA publica moldes de preforma y conversiones. Puede investigarse al coordinar el desarrollo de preformas con los moldes de inyección. Pregunte qué interfaces de moldes y máquinas incluye la cotización concreta y separe esas responsabilidades del equipo utilizado para soplar y llenar botellas.",
+            "Sidel publica líneas completas para embotellado de agua. Investíguelo cuando el proyecto incluya soplado, llenado, tapado y otros equipos integrados. Determine si la propuesta también cubre desarrollo de botella, juegos de moldes, piezas de formato y las pruebas de aceptación necesarias.",
+            "LIHE publica moldes de soplado, moldes de preforma y sistemas de canal caliente. Esto ofrece una vía de compra centrada en los moldes. No establece que LIHE sea el contratista de toda la línea nueva de agua; mantenga explícitas las responsabilidades del integrador y de las interfaces de los moldes."
+          ]
+        },
+        {
+          "heading": "Especificaciones distintas para cada etapa",
+          "table": {
+            "head": [
+              "Compra",
+              "Especificación principal",
+              "Interfaz que confirmar"
+            ],
+            "rows": [
+              [
+                "Molde de preforma",
+                "Peso, cuello y distribución de cavidades",
+                "Inyectora y mitad caliente"
+              ],
+              [
+                "Canal caliente",
+                "Distribución de material, válvulas y control",
+                "Mitad fría, controlador y máquina"
+              ],
+              [
+                "Molde de soplado",
+                "Geometría, base y método de llenado",
+                "Portamoldes y manipulación del cuello"
+              ],
+              [
+                "Piezas de formato",
+                "Botella y cuello aprobados",
+                "Transportadores, estrellas y guías"
+              ],
+              [
+                "Línea completa de agua",
+                "Producción de envases y alcance del proceso",
+                "Soplado, llenado, tapado y transporte"
+              ],
+              [
+                "Paquete de aceptación",
+                "Pruebas de preforma, botella y producción",
+                "Responsabilidades conjuntas y servicios"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Decisiones de diseño que afectan al pedido",
+          "list": [
+            "Decida si la fábrica comprará preformas terminadas o las fabricará. Si se compran, una nueva línea de soplado y llenado puede no necesitar un molde de inyección ni un canal caliente nuevos. Seleccione proveedores según el proceso que realmente se utilizará.",
+            "Apruebe la geometría de la botella y el acabado del cuello antes de pedir el juego completo de moldes. La base, el área de etiqueta y la geometría de manipulación afectan a equipos posteriores a la sopladora. Pida al integrador la lista de piezas de formato junto con el plano aprobado.",
+            "Especifique el método de llenado y los requisitos del producto, en lugar de elegir el molde por el nombre de la bebida. El agua sin gas, el agua con gas y otras bebidas pueden tener necesidades de envase diferentes. Identifique expresamente el llenado en frío, en caliente o aséptico.",
+            "Solicite planos coherentes de preforma, botella y cierre. Un cambio de cuello puede exigir modificaciones de manipulación y tapado, mientras que un cambio del cuerpo puede afectar principalmente al molde de soplado y al transporte posterior. Resuelva estos límites antes de comparar ofertas."
+          ]
+        },
+        {
+          "heading": "Trace las líneas de interfaz entre los tres alcances de suministro",
+          "list": [
+            "Lado de inyección: el proveedor del canal caliente y el del molde de preforma comparten la interfaz entre la mitad caliente y la mitad fría, que incluye la posición de las boquillas, la geometría del punto de inyección, las zonas de calefacción, los conectores y las conexiones de refrigeración. Si intervienen dos empresas, designe a una como responsable del molde ensamblado o deje por escrito que la planta es el integrador.",
+            "De la inyección al soplado: el plano de la preforma es el contrato entre el fabricante del molde y la sopladora. El acabado del cuello y el anillo de soporte deben adaptarse a la sujeción del cuello de la sopladora, y el cuerpo de la preforma a su horno de calentamiento. Ambas partes deben firmar la misma revisión de la preforma antes de mecanizar el acero.",
+            "Lado de soplado: el proveedor de moldes de soplado necesita el modelo de la sopladora, el tipo de portamoldes y el plano aprobado de la botella. Una botella de agua para una sopladora de dos etapas se especifica de forma distinta a una para una máquina de una etapa, en la que la inyección y el soplado se realizan en la misma plataforma.",
+            "Del soplado al llenado y taponado: el cuello, el cuerpo y la base de la botella interactúan con transportadores, estrellas, pinzas de cuello, la llenadora y la taponadora. Estas piezas de formato suelen estar en el alcance del proveedor de la línea, así que confirme quién las diseña para cada tamaño de botella.",
+            "Servicios: la planta debe indicar el agua de refrigeración disponible para el molde de inyección y los moldes de soplado y el suministro de aire comprimido para el soplado, de modo que cada proveedor diseñe para las mismas condiciones y ningún ensayo dependa de servicios que la planta no tiene."
+          ]
+        },
+        {
+          "heading": "Acepte la línea de agua por etapas, no solo al final",
+          "steps": [
+            "Apruebe juntos los planos de la botella, la preforma y el tapón, con el integrador de la línea, el fabricante de moldes y el proveedor del canal caliente firmando las mismas revisiones. Así cada cambio posterior tiene un responsable y un coste claros.",
+            "Pruebe el canal caliente por separado antes de acoplarlo a la mitad fría: calentamiento de cada zona, estabilidad de temperatura y ausencia de fugas. Registre los resultados con el número de serie de la mitad caliente.",
+            "Haga funcionar el molde de preforma ensamblado y revise cada cavidad en peso, dimensiones del cuello y calidad del punto de inyección. Si la planta va a comprar preformas en lugar de fabricarlas, aplique este paso a las muestras del proveedor de preformas.",
+            "Sople las preformas de prueba en la sopladora prevista, o en una máquina equivalente, con los moldes de soplado reales. Compruebe la distribución de pared, la forma de la base y el volumen de cada tamaño de botella, por ejemplo 500 ml y 1,5 L.",
+            "Pase botellas llenas y tapadas por la línea y registre las fugas, los resultados del taponado y los fallos de manipulación. Asigne cada asunto pendiente al proveedor responsable de la interfaz donde apareció."
+          ]
+        },
+        {
+          "heading": "Qué puede cotizar LIHE para una línea de agua embotellada",
+          "paragraphs": [
+            "Esta guía procede de LIHE Precision, una empresa que suministra moldes y canales calientes pero no construye líneas de llenado completas; valore sus consejos teniendo en cuenta esa posición. Las cifras siguientes están publicadas en lihe-preform.com y cubren solo los alcances de utillaje tratados en este artículo."
+          ],
+          "list": [
+            "Moldes de soplado para sopladoras de dos etapas de SIDEL, KRONES, SIG/KHS, TECH-LONG y NEWAMSTAR y para máquinas de una etapa de SIPA, ASB y AOKI, incluidos juegos de llenado en frío para KHS InnoPET Blomax y Krones Contiform y moldes partidos de cambio rápido.",
+            "Tamaños de botella de agua publicados: 330 ml, 500 ml, 550 ml y 1,5 L. Cualquier otro tamaño debe confirmarse en la cotización.",
+            "Canales calientes: diseños de obturador de válvula para hasta 144 cavidades de preforma, compatibles con máquinas HUSKY, NETSTAL, KM y SIPA. El diseño de tipo Husky Ultra tiene una garantía de 3 años contra fugas.",
+            "Si la planta va a fabricar sus propias preformas, el utillaje de inyección abarca moldes de preforma PET de 32 a 160 cavidades para máquinas HUSKY, NETSTAL, SIPA, KATA y otras.",
+            "Plazos: moldes piloto en 20 días, moldes estándar de preforma y de soplado en 8 semanas y piezas de repuesto en 4 semanas. Planifique la aprobación de planos y los ensayos como tiempo adicional a estas cifras.",
+            "Para botellas de agua más ligeras, LIHE presenta propuestas que restan entre 1 g y 2 g al peso de la preforma optimizando el cuello o el espesor de pared. Un cambio así afecta a la vez al molde de preforma y al molde de soplado, por lo que ambos alcances deben revisarse juntos."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Un molde de soplado necesita un canal caliente?",
+          "answer": "No en la etapa de soplado de dos pasos con recalentamiento descrita aquí. El canal caliente pertenece a la inyección de preformas. Defina el proceso, porque un sistema combinado de una etapa tiene una arquitectura diferente."
+        },
+        {
+          "question": "¿Necesito moldes de inyección si compro preformas?",
+          "answer": "Normalmente esos moldes pertenecen al proveedor de preformas. Confirme su especificación aprobada y los acuerdos de suministro, y después compre los moldes de botella y equipos necesarios para su propia fábrica."
+        },
+        {
+          "question": "¿Un proveedor puede coordinar ambas compras?",
+          "answer": "Es posible, pero confirme la cotización y las responsabilidades. Ofrecer ambas categorías no incluye automáticamente integración de línea completa, todas las piezas de formato o la cualificación final del envase."
+        },
+        {
+          "question": "¿Qué determina un juego adecuado de moldes de soplado?",
+          "answer": "La sopladora real, el portamoldes, el plano de botella, la preforma y el cuello, el método de llenado y los requisitos del envase. Envíe estos datos juntos para identificar el conjunto completo y las piezas de conversión."
+        }
+      ]
+    }
+  }
+}

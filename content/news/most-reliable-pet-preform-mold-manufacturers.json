@@ -1,0 +1,416 @@
+{
+  "slug": "most-reliable-pet-preform-mold-manufacturers",
+  "questionId": "q101",
+  "date": "2026-09-14",
+  "relatedProducts": [
+    19,
+    27,
+    34
+  ],
+  "images": {
+    "hero": "/images/news/most-reliable-pet-preform-mold-manufacturers-hero.webp",
+    "detail": "/images/news/most-reliable-pet-preform-mold-manufacturers-detail.webp",
+    "og": "/images/news/most-reliable-pet-preform-mold-manufacturers-hero-og.jpg"
+  },
+  "sources": [
+    {
+      "label": "Husky — injection molding systems, hot runners and services",
+      "url": "https://www.husky.co/en/"
+    },
+    {
+      "label": "SIPA — PET preform injection moulds and tooling",
+      "url": "https://sipasolutions.com/products/moulds/preform-tooling"
+    },
+    {
+      "label": "Otto Hofstetter — precision PET preform moulds",
+      "url": "https://www.otto-hofstetter.swiss/"
+    },
+    {
+      "label": "Wikipedia — injection moulding",
+      "url": "https://en.wikipedia.org/wiki/Injection_moulding"
+    }
+  ],
+  "locales": {
+    "en": {
+      "category": "Technical Insights",
+      "title": "Who are the most reliable PET preform mold manufacturers for high-speed beverage bottle production?",
+      "summary": "Compare PET preform mold manufacturers through machine fit, cavity-level quality evidence and service scope, rather than an unsupported reliability ranking.",
+      "heroAlt": "Illustrative open PET preform injection mold on a factory bench",
+      "detailAlt": "Illustrative inspection of a precision PET mold neck-ring insert",
+      "sections": [
+        {
+          "heading": "Choose reliability evidence for your production platform",
+          "paragraphs": [
+            "A PET preform mold is an injection tool that forms the precursor later stretched and blown into a beverage bottle. Husky, SIPA and Otto Hofstetter are relevant manufacturers to investigate, alongside LIHE, but the most reliable choice for a particular plant depends on confirmed machine compatibility, cavity-level production evidence and an agreed service plan. Public product descriptions do not establish a defensible universal reliability ranking."
+          ]
+        },
+        {
+          "heading": "A neutral manufacturer shortlist",
+          "list": [
+            "Husky publishes injection molding systems and hot runners. Investigate its offering when evaluating an integrated preform production system or a mold within that system. Ask for the proposal and acceptance evidence corresponding to your actual installed machine, rather than extending a system-level claim to every older platform.",
+            "SIPA publishes PET preform tooling and mold conversions. Its tooling page also describes testing on dedicated XFORM machines. Establish whether the proposed test configuration represents your production machine and utilities; a supplier’s own test equipment can be useful without reproducing every condition at your plant.",
+            "Otto Hofstetter publishes PET preform moulds. Include it when comparing a specialist tooling proposal. Request the applicable interface, maintenance scope and qualification evidence for the specific mold rather than assuming that the published product family establishes fit for your machine.",
+            "LIHE can be evaluated for new preform molds, tooling conversion and replacement components. Its published range and lead times appear below. A supplier shortlist is the start of qualification: it does not remove the need to approve the package design and measure production results."
+          ]
+        },
+        {
+          "heading": "Compare evidence on the same basis",
+          "table": {
+            "head": [
+              "Criterion",
+              "Useful evidence",
+              "Weak substitute"
+            ],
+            "rows": [
+              [
+                "Machine fit",
+                "Approved interface drawing and complete configuration",
+                "Machine brand mentioned in a brochure"
+              ],
+              [
+                "Cavity balance",
+                "Identified samples from every active cavity",
+                "One attractive sample"
+              ],
+              [
+                "Output",
+                "Accepted parts with scrap and interruptions recorded",
+                "Fastest isolated cycle"
+              ],
+              [
+                "Package quality",
+                "Bottle and closure tests for the intended beverage",
+                "Preform appearance alone"
+              ],
+              [
+                "Maintenance",
+                "Serviceable parts, instructions and responsible contacts",
+                "Unspecified support promise"
+              ],
+              [
+                "Delivery",
+                "Manufacturing, trial and installation milestones",
+                "A lead time without a defined start"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "When a shortlisted manufacturer is a poor fit",
+          "list": [
+            "Keep a proposal out of the final comparison if the supplier has not resolved missing interface dimensions. Early familiarity with the machine brand should not become permission to manufacture against assumptions.",
+            "For an established preform design, prioritize repeatable production and spare-part continuity. For a new lightweight bottle, prioritize development and finished-package testing. These are different purchasing tasks, so the same evidence may not settle both.",
+            "A specialist mold maker does not automatically take responsibility for the injection machine, dryer or complete filling line. LIHE’s tooling scope therefore needs clear coordination with the equipment suppliers and plant team.",
+            "Select the supplier whose agreed trial and service scope fit the plant’s risk tolerance. If comparable trial data are unavailable, keep the reliability conclusion open and request the missing evidence before committing the production schedule."
+          ]
+        },
+        {
+          "heading": "Check that a reliability claim covers your machine and preform",
+          "list": [
+            "Ask on which machine platform a quoted figure was obtained. A durability number measured on one injection system says little about a mold that will run on a different platen, hot runner or take-out plate, so write the platform next to every number a supplier gives you.",
+            "Ask which preform stands behind the figure: weight, wall thickness, neck finish and resin grade. Lightweight, thin-wall preforms run at high speed load the cooling circuit and the neck components differently from heavier designs, and a result from an easier preform does not carry over automatically.",
+            "Ask about cavitation and cavity status. A reliability statement for a mold running with several cavities blocked off is not the same as one for a mold with every cavity active, and high-cavitation molds multiply the effect of one weak cavity on the hourly output.",
+            "Ask how shots and defects are counted. A shot count may mean mold cycles or individual preforms, and a defect rate depends on what is classed as a defect and how many preforms were inspected. Without these definitions the number cannot be compared between suppliers.",
+            "Ask what maintenance was carried out during the period behind the claim. Durability achieved with frequent replacement of neck rings or cores reflects a different cost of ownership from durability achieved with routine cleaning and inspection alone."
+          ]
+        },
+        {
+          "heading": "Test reliability during a sustained high-speed run",
+          "steps": [
+            "Agree the run before the trial: its duration, the target cycle, the resin lot and drying conditions, the cavities that must be active and the sampling interval. A run of a few minutes proves that the mold can cycle; a run long enough to reach thermal equilibrium shows whether it keeps making acceptable preforms.",
+            "Start counting only once the process has stabilized, then log every stop with its cause and duration. Treat blocked cavities, stuck preforms and short shots as lost output instead of leaving them out of the result.",
+            "Take samples from every cavity at fixed intervals and keep them identified. Measure weight and the critical neck dimensions so capability can be worked out per cavity; a mold-wide average can hide a single cavity that drifts as the steel heats up.",
+            "Ask the supplier to show how any capability index, such as CPK, was calculated: which dimension, how many samples and which cavities. Where the raw measurements are available, recalculate the index yourself.",
+            "Inspect wear-sensitive parts after the run and again after the first maintenance interval in production. Early marking on neck rings, cores, cavity locks or nozzle tips is a sign that a reliability claim may not hold over the mold’s service life."
+          ]
+        },
+        {
+          "heading": "What LIHE publishes about reliability and how to verify it",
+          "paragraphs": [
+            "LIHE Precision is both the author of this article and one of the manufacturers it discusses, so its own numbers belong on the same evidence list as any other supplier’s and should be tested in the same way. The figures below are published on lihe-preform.com and are the ones that bear on high-speed reliability."
+          ],
+          "list": [
+            "Capability: LIHE states that its tooling consistently achieves CPK ≥ 1.33. Ask which dimensions and cavities the value refers to and request the measurement data behind it.",
+            "Defects: operational defect rates as low as 0.0064% are published. An as-low-as figure describes a best result, so ask for the conditions and inspection basis that produced it.",
+            "Durability: LIHE’s published service-life figure is up to 8 million shots, stated for Husky, SACMI and Netstal platforms. Confirm which of these platforms matches your installation before relying on the figure.",
+            "Range and volume: PET preform molds from 32 to 160 cavities for HUSKY, NETSTAL, SIPA, KATA and other machines, with over 12,000 cavities produced per year.",
+            "Cooling: the published gain from cooling optimization is a neck cooling time shortened by as much as 0.5 seconds. Verify that gain in your own cycle trial instead of assuming it.",
+            "Background: LIHE is a Coca-Cola verified mold supplier in the Asia region and serves customers in 50+ countries. That describes supplier qualification, not the result your specific mold will achieve."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Is there a single most reliable manufacturer?",
+          "answer": "Not from the public evidence used here. Qualify the shortlisted supplier against your machine, package and acceptance requirements. Reliability should be supported by the proposed production configuration and service arrangements, not by a universal league table."
+        },
+        {
+          "question": "Does a high cavity count prove reliable high-speed production?",
+          "answer": "No. The relevant result is acceptable output from the active cavities under agreed conditions. Consider scrap, stoppages, cooling and maintenance along with cycle time; nominal cavitation does not establish sustained production."
+        },
+        {
+          "question": "What should I send with an inquiry?",
+          "answer": "Send the machine model and interface drawings, approved preform and neck-finish drawing, intended resin and bottle, required output and test criteria. Identify the tooling already installed and which assemblies need replacement or development."
+        },
+        {
+          "question": "Can LIHE replace an existing mold?",
+          "answer": "LIHE publishes tooling conversion and replacement components. Confirm the exact platform, drawing revision and complete interface before approving a replacement. The published offering does not eliminate project-specific engineering and acceptance work."
+        }
+      ]
+    },
+    "ru": {
+      "category": "Технические статьи",
+      "title": "Какие производители форм для ПЭТ-преформ наиболее надёжны для высокоскоростного производства бутылок для напитков?",
+      "summary": "Сравните производителей форм по совместимости с машиной, качеству каждого гнезда и составу сервиса, а не по неподтверждённому рейтингу надёжности.",
+      "heroAlt": "Иллюстрация открытой формы для литья ПЭТ-преформ на заводском стенде",
+      "detailAlt": "Иллюстрация контроля прецизионного горловинного вкладыша формы для ПЭТ",
+      "sections": [
+        {
+          "heading": "Выбирайте доказательства надёжности для своей платформы",
+          "paragraphs": [
+            "Форма для ПЭТ-преформ — это литьевая оснастка, создающая заготовку, которую затем вытягивают и выдувают в бутылку для напитка. Husky, SIPA и Otto Hofstetter можно рассмотреть наряду с LIHE, но надёжность для конкретного завода зависит от подтверждённой совместимости, производственных данных по каждому гнезду и согласованного обслуживания. Публичные описания продукции не позволяют составить обоснованный универсальный рейтинг надёжности."
+          ]
+        },
+        {
+          "heading": "Нейтральный список производителей для проверки",
+          "list": [
+            "Husky публикует предложение литьевых систем и горячеканальных систем. Рассматривайте его при оценке интегрированного производства преформ или формы в составе такой системы. Запрашивайте предложение и доказательства приёмки для фактически установленной машины, не распространяя характеристики одной системы на все более старые платформы.",
+            "SIPA публикует оснастку для ПЭТ-преформ и конверсии форм. На странице оснастки также описаны испытания на специализированных машинах XFORM. Проверьте, соответствует ли предложенная испытательная конфигурация вашей машине и инженерным ресурсам. Собственное оборудование поставщика полезно, но не воспроизводит автоматически все условия завода.",
+            "Otto Hofstetter публикует формы для ПЭТ-преформ. Включите компанию в сравнение специализированной оснастки. Запросите интерфейс, состав обслуживания и доказательства квалификации конкретной формы. Само присутствие продуктового семейства в каталоге не подтверждает совместимость с установленной машиной.",
+            "LIHE можно оценивать для новых форм, конверсии оснастки и заменяемых компонентов. Опубликованные диапазоны и сроки приведены ниже. Список кандидатов является началом квалификации, а не заменой утверждения конструкции упаковки и измерения производственных результатов."
+          ]
+        },
+        {
+          "heading": "Сравнивайте доказательства в одинаковых условиях",
+          "table": {
+            "head": [
+              "Критерий",
+              "Полезное доказательство",
+              "Недостаточная замена"
+            ],
+            "rows": [
+              [
+                "Совместимость",
+                "Утверждённый интерфейс и полная конфигурация",
+                "Марка машины в рекламном описании"
+              ],
+              [
+                "Баланс гнёзд",
+                "Образцы с идентификацией всех работающих гнёзд",
+                "Один красивый образец"
+              ],
+              [
+                "Выпуск",
+                "Пригодные детали с учётом брака и остановок",
+                "Самый быстрый отдельный цикл"
+              ],
+              [
+                "Качество упаковки",
+                "Испытания бутылки и крышки для напитка",
+                "Только внешний вид преформы"
+              ],
+              [
+                "Обслуживание",
+                "Перечень деталей, инструкции и ответственные",
+                "Неопределённое обещание поддержки"
+              ],
+              [
+                "Поставка",
+                "Этапы изготовления, испытаний и монтажа",
+                "Срок без определённого начала"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Когда производитель из списка не подходит",
+          "list": [
+            "Не включайте предложение в окончательное сравнение, если поставщик не устранил пробелы в размерах интерфейса. Знакомство с маркой машины на раннем этапе не должно становиться разрешением на изготовление по предположениям.",
+            "Для освоенной преформы отдавайте приоритет повторяемому производству и непрерывности поставки запчастей. Для новой облегчённой бутылки важнее разработка и испытания готовой упаковки. Это разные задачи закупки, поэтому одинаковый набор данных не обязательно решает обе.",
+            "Специализированный изготовитель форм не принимает автоматически ответственность за литьевую машину, сушилку или всю линию розлива. Объём поставки LIHE требует ясного согласования с изготовителями оборудования и заводской командой.",
+            "Выберите поставщика, чья программа испытаний и обслуживание соответствуют допустимому для завода риску. При отсутствии сопоставимых результатов оставьте вывод о надёжности открытым и запросите недостающие доказательства до фиксации производственного графика."
+          ]
+        },
+        {
+          "heading": "Проверьте, относится ли заявление о надёжности к вашей машине и преформе",
+          "list": [
+            "Спросите, на какой платформе машины получен заявленный показатель. Показатель ресурса, измеренный на одной литьевой системе, мало говорит о форме, которая будет работать на других плитах, другом горячем канале или другой плите съёма, поэтому записывайте платформу рядом с каждым числом, которое называет поставщик.",
+            "Спросите, какая преформа стоит за показателем: масса, толщина стенки, горловина и марка сырья. Облегчённые тонкостенные преформы на высокой скорости иначе нагружают контур охлаждения и детали горловины, чем более тяжёлые, и результат, полученный на простой преформе, не переносится автоматически.",
+            "Спросите о гнездности и состоянии гнёзд. Заявление о надёжности формы, работающей с несколькими заглушенными гнёздами, не равнозначно заявлению для формы со всеми активными гнёздами, а в многогнёздных формах одно слабое гнездо заметно снижает часовой выпуск.",
+            "Спросите, как считаются циклы и дефекты. Число циклов может означать смыкания формы или отдельные преформы, а доля дефектов зависит от того, что признаётся дефектом и сколько преформ проверено. Без этих определений число нельзя сравнивать между поставщиками.",
+            "Спросите, какое обслуживание проводилось в период, к которому относится заявление. Ресурс, достигнутый при частой замене горловинных колец или стержней, означает иную стоимость владения, чем ресурс при одной лишь плановой очистке и осмотре."
+          ]
+        },
+        {
+          "heading": "Проверяйте надёжность в длительном скоростном прогоне",
+          "steps": [
+            "Согласуйте прогон до испытания: длительность, целевой цикл, партию сырья и условия сушки, гнёзда, которые должны работать, и интервал отбора проб. Прогон в несколько минут доказывает лишь, что форма может работать; прогон до теплового равновесия показывает, продолжает ли она выпускать годные преформы.",
+            "Начинайте отсчёт только после стабилизации процесса и фиксируйте каждую остановку с причиной и длительностью. Заглушенные гнёзда, застрявшие преформы и недоливы учитывайте как потерянный выпуск, а не исключайте из результата.",
+            "Отбирайте пробы из каждого гнезда через равные интервалы и сохраняйте их маркировку. Измеряйте массу и критичные размеры горловины, чтобы рассчитать воспроизводимость по каждому гнезду: среднее по форме может скрыть одно гнездо, которое уходит по размерам по мере прогрева стали.",
+            "Попросите поставщика показать, как рассчитан индекс воспроизводимости, например CPK: по какому размеру, на скольких пробах и по каким гнёздам. Если доступны исходные измерения, пересчитайте индекс самостоятельно.",
+            "Осмотрите изнашиваемые детали после прогона и ещё раз после первого межсервисного интервала на производстве. Ранние следы на горловинных кольцах, стержнях, замках гнёзд или наконечниках сопел говорят о том, что заявление о надёжности может не подтвердиться за срок службы формы."
+          ]
+        },
+        {
+          "heading": "Что LIHE публикует о надёжности и как это проверить",
+          "paragraphs": [
+            "LIHE Precision одновременно является автором этой статьи и одним из производителей, о которых в ней идёт речь, поэтому её собственные числа стоят в том же списке доказательств, что и данные других поставщиков, и проверять их следует тем же способом. Приведённые ниже показатели опубликованы на lihe-preform.com и относятся к надёжности при высокой скорости."
+          ],
+          "list": [
+            "Воспроизводимость: по заявлению LIHE, её оснастка стабильно обеспечивает CPK ≥ 1,33. Уточните, к каким размерам и гнёздам относится значение, и запросите данные измерений.",
+            "Дефекты: опубликован уровень производственного брака от 0,0064%. Формулировка «от» описывает лучший результат, поэтому запросите условия и основу контроля, при которых он получен.",
+            "Ресурс: опубликованный LIHE срок службы составляет до 8 миллионов циклов и указан для платформ Husky, SACMI и Netstal. Прежде чем опираться на этот показатель, подтвердите, какая из платформ соответствует вашей установке.",
+            "Диапазон и объём: пресс-формы для ПЭТ-преформ на 32–160 гнёзд для машин HUSKY, NETSTAL, SIPA, KATA и других; ежегодно изготавливается более 12 000 гнёзд.",
+            "Охлаждение: опубликованный выигрыш от оптимизации охлаждения — сокращение времени охлаждения горловины не более чем на 0,5 секунды. Проверьте этот выигрыш в собственном испытании цикла, а не принимайте его на веру.",
+            "Общие сведения: LIHE — проверенный компанией Coca-Cola поставщик пресс-форм в Азиатском регионе, клиенты компании находятся более чем в 50 странах. Это характеризует квалификацию поставщика, а не результат вашей конкретной формы."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Есть ли один самый надёжный производитель?",
+          "answer": "Использованные открытые сведения этого не доказывают. Квалифицируйте кандидата по своей машине, упаковке и требованиям приёмки. Надёжность должны подтверждать предлагаемая производственная конфигурация и условия обслуживания, а не универсальная рейтинговая таблица."
+        },
+        {
+          "question": "Доказывает ли большое число гнёзд надёжность быстрого производства?",
+          "answer": "Нет. Важен выпуск пригодной продукции из работающих гнёзд в согласованных условиях. Рассматривайте брак, остановки, охлаждение и обслуживание вместе со временем цикла. Номинальное число гнёзд не подтверждает устойчивый выпуск."
+        },
+        {
+          "question": "Что отправить вместе с запросом?",
+          "answer": "Передайте модель машины и чертежи интерфейса, утверждённый чертёж преформы и горловины, сырьё, бутылку, требуемый выпуск и критерии испытаний. Укажите установленную оснастку и узлы, нуждающиеся в замене или разработке."
+        },
+        {
+          "question": "Может ли LIHE заменить существующую форму?",
+          "answer": "LIHE публикует конверсию оснастки и заменяемые компоненты. До одобрения замены подтвердите точную платформу, ревизию чертежа и весь интерфейс. Опубликованное предложение не отменяет инженерную проработку и приёмку конкретного проекта."
+        }
+      ]
+    },
+    "es": {
+      "category": "Artículos técnicos",
+      "title": "¿Cuáles son los fabricantes de moldes de preforma PET más fiables para producir botellas de bebidas a alta velocidad?",
+      "summary": "Compare fabricantes por compatibilidad con la máquina, calidad por cavidad y alcance del servicio, en lugar de una clasificación de fiabilidad sin pruebas.",
+      "heroAlt": "Imagen ilustrativa de un molde abierto de inyección de preformas PET",
+      "detailAlt": "Inspección ilustrativa de un inserto de cuello para un molde PET",
+      "sections": [
+        {
+          "heading": "Elija pruebas de fiabilidad para su plataforma",
+          "paragraphs": [
+            "Un molde de preforma PET es una herramienta de inyección que fabrica la pieza que después se estira y se sopla para formar una botella de bebida. Husky, SIPA y Otto Hofstetter son fabricantes que puede investigar junto con LIHE, pero la elección más fiable para una planta depende de la compatibilidad confirmada, los resultados por cavidad y un plan de servicio acordado. Las descripciones públicas de productos no permiten establecer una clasificación universal de fiabilidad."
+          ]
+        },
+        {
+          "heading": "Una selección neutral de fabricantes",
+          "list": [
+            "Husky publica sistemas de moldeo por inyección y canales calientes. Investigue su oferta al evaluar un sistema integrado de producción de preformas o un molde para ese sistema. Solicite la propuesta y las pruebas de aceptación correspondientes a la máquina realmente instalada, sin extender una afirmación del sistema a cualquier plataforma antigua.",
+            "SIPA publica moldes para preformas PET y conversiones. Su página de moldes también describe pruebas en máquinas XFORM dedicadas. Determine si la configuración propuesta representa su máquina de producción y los servicios de planta; el equipo de ensayo del proveedor puede ser útil sin reproducir todas las condiciones de su instalación.",
+            "Otto Hofstetter publica moldes de preformas PET. Inclúyalo al comparar una propuesta de un especialista en moldes. Solicite la interfaz aplicable, el alcance del mantenimiento y la evidencia de cualificación para el molde concreto, en lugar de asumir que una familia publicada confirma el ajuste a su máquina.",
+            "LIHE puede evaluarse para moldes nuevos de preforma, conversión de moldes y componentes de sustitución. Su rango y sus plazos publicados aparecen más abajo. La selección inicial es el comienzo de la cualificación: no elimina la necesidad de aprobar el diseño del envase y medir los resultados de producción."
+          ]
+        },
+        {
+          "heading": "Compare las pruebas con un mismo criterio",
+          "table": {
+            "head": [
+              "Criterio",
+              "Evidencia útil",
+              "Sustituto insuficiente"
+            ],
+            "rows": [
+              [
+                "Ajuste a máquina",
+                "Plano de interfaz aprobado y configuración completa",
+                "Marca de máquina en un folleto"
+              ],
+              [
+                "Equilibrio de cavidades",
+                "Muestras identificadas de todas las cavidades activas",
+                "Una muestra atractiva"
+              ],
+              [
+                "Producción",
+                "Piezas aceptadas con rechazos e interrupciones",
+                "El ciclo aislado más rápido"
+              ],
+              [
+                "Calidad del envase",
+                "Pruebas de botella y cierre para la bebida prevista",
+                "Solo apariencia de la preforma"
+              ],
+              [
+                "Mantenimiento",
+                "Piezas reparables, instrucciones y contactos responsables",
+                "Promesa de apoyo sin alcance"
+              ],
+              [
+                "Entrega",
+                "Hitos de fabricación, pruebas e instalación",
+                "Plazo sin punto de inicio definido"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Cuándo un fabricante seleccionado no encaja",
+          "list": [
+            "Excluya de la comparación final cualquier propuesta que mantenga dimensiones de interfaz sin resolver. La familiaridad con la marca de la máquina no debe convertirse en autorización para fabricar basándose en supuestos.",
+            "Para una preforma ya establecida, priorice la producción repetible y la continuidad de los repuestos. Para una botella ligera nueva, priorice el desarrollo y las pruebas del envase terminado. Son compras diferentes, y las mismas pruebas pueden no resolver ambas.",
+            "Un especialista en moldes no asume automáticamente la responsabilidad de la inyectora, el secador o la línea completa de llenado. El alcance de LIHE necesita una coordinación clara con los proveedores del equipo y el personal de planta.",
+            "Seleccione al proveedor cuyo ensayo y servicio acordados respondan al riesgo aceptable para la fábrica. Si faltan datos comparables, mantenga abierta la conclusión de fiabilidad y solicite la evidencia pendiente antes de comprometer el programa de producción."
+          ]
+        },
+        {
+          "heading": "Compruebe que la declaración de fiabilidad cubre su máquina y su preforma",
+          "list": [
+            "Pregunte en qué plataforma de máquina se obtuvo la cifra indicada. Un dato de durabilidad medido en un sistema de inyección dice poco sobre un molde que trabajará con otras platinas, otro canal caliente u otra placa de extracción, así que anote la plataforma junto a cada número que le dé un proveedor.",
+            "Pregunte qué preforma respalda la cifra: peso, espesor de pared, acabado de cuello y grado de resina. Las preformas ligeras de pared delgada a alta velocidad cargan el circuito de refrigeración y los componentes del cuello de otra manera que los diseños más pesados, y un resultado obtenido con una preforma más fácil no se traslada automáticamente.",
+            "Pregunte por el número de cavidades y su estado. Una declaración de fiabilidad para un molde que funciona con varias cavidades bloqueadas no equivale a la de un molde con todas las cavidades activas, y en los moldes de muchas cavidades una sola cavidad débil multiplica su efecto sobre la producción por hora.",
+            "Pregunte cómo se cuentan los ciclos y los defectos. Un recuento de ciclos puede referirse a ciclos del molde o a preformas individuales, y una tasa de defectos depende de qué se clasifica como defecto y de cuántas preformas se inspeccionaron. Sin esas definiciones, el número no se puede comparar entre proveedores.",
+            "Pregunte qué mantenimiento se realizó durante el periodo al que se refiere la declaración. Una durabilidad lograda cambiando a menudo anillos de cuello o núcleos refleja un coste de propiedad distinto al de una durabilidad lograda solo con limpieza e inspección rutinarias."
+          ]
+        },
+        {
+          "heading": "Pruebe la fiabilidad en una tirada sostenida a alta velocidad",
+          "steps": [
+            "Acuerde la tirada antes del ensayo: duración, ciclo objetivo, lote de resina y condiciones de secado, cavidades que deben estar activas e intervalo de muestreo. Una tirada de pocos minutos demuestra que el molde puede ciclar; una tirada lo bastante larga para alcanzar el equilibrio térmico muestra si sigue produciendo preformas aceptables.",
+            "Empiece a contar solo cuando el proceso se haya estabilizado y registre cada parada con su causa y su duración. Trate las cavidades bloqueadas, las preformas atascadas y las inyecciones incompletas como producción perdida en lugar de excluirlas del resultado.",
+            "Tome muestras de cada cavidad a intervalos fijos y manténgalas identificadas. Mida el peso y las dimensiones críticas del cuello para poder calcular la capacidad por cavidad; una media de todo el molde puede ocultar una cavidad que se desvía a medida que el acero se calienta.",
+            "Pida al proveedor que muestre cómo se calculó cualquier índice de capacidad, como el CPK: qué dimensión, cuántas muestras y qué cavidades. Si dispone de las mediciones originales, recalcule usted mismo el índice.",
+            "Inspeccione las piezas sensibles al desgaste tras la tirada y de nuevo tras el primer intervalo de mantenimiento en producción. Las marcas tempranas en anillos de cuello, núcleos, cierres de cavidad o puntas de boquilla indican que una declaración de fiabilidad puede no mantenerse durante la vida útil del molde."
+          ]
+        },
+        {
+          "heading": "Qué publica LIHE sobre fiabilidad y cómo verificarlo",
+          "paragraphs": [
+            "LIHE Precision es a la vez autora de este artículo y uno de los fabricantes que en él se analizan, de modo que sus propios números forman parte de la misma lista de evidencias que los de cualquier otro proveedor y deben comprobarse de la misma forma. Las cifras siguientes están publicadas en lihe-preform.com y son las que afectan a la fiabilidad a alta velocidad."
+          ],
+          "list": [
+            "Capacidad: LIHE declara que su utillaje alcanza de forma constante un CPK ≥ 1,33. Pregunte a qué dimensiones y cavidades se refiere el valor y solicite los datos de medición que lo respaldan.",
+            "Defectos: se publican tasas de defectos operativos de tan solo el 0,0064%. Una cifra «de tan solo» describe un mejor resultado, así que pida las condiciones y la base de inspección con que se obtuvo.",
+            "Durabilidad: los moldes están construidos para soportar hasta 8 millones de ciclos en plataformas Husky, SACMI y Netstal. Confirme cuál de esas plataformas corresponde a su instalación antes de basarse en la cifra.",
+            "Gama y volumen: moldes de preforma PET de 32 a 160 cavidades para máquinas HUSKY, NETSTAL, SIPA, KATA y otras, con más de 12.000 cavidades producidas al año.",
+            "Refrigeración: la mejora publicada gracias a la optimización de la refrigeración es un tiempo de enfriamiento del cuello hasta 0,5 segundos más corto. Verifique esa mejora en su propio ensayo de ciclo en lugar de darla por hecha.",
+            "Contexto: LIHE es proveedor de moldes verificado por Coca-Cola en la región de Asia y atiende a clientes en más de 50 países. Eso describe la cualificación del proveedor, no el resultado que obtendrá su molde concreto."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Existe un único fabricante más fiable?",
+          "answer": "La información pública utilizada aquí no permite afirmarlo. Cualifique al candidato con su máquina, envase y requisitos de aceptación. La fiabilidad debe apoyarse en la configuración productiva propuesta y los acuerdos de servicio, no en una clasificación universal."
+        },
+        {
+          "question": "¿Muchas cavidades demuestran una producción rápida y fiable?",
+          "answer": "No. Importa la producción aceptable de las cavidades activas bajo condiciones acordadas. Considere los rechazos, las paradas, la refrigeración y el mantenimiento junto con el ciclo; el número nominal de cavidades no demuestra una producción sostenida."
+        },
+        {
+          "question": "¿Qué debo enviar con la consulta?",
+          "answer": "Envíe el modelo de máquina y sus interfaces, el plano aprobado de preforma y cuello, la resina y la botella previstas, la producción requerida y los criterios de prueba. Identifique los moldes existentes y los conjuntos que necesitan sustitución o desarrollo."
+        },
+        {
+          "question": "¿Puede LIHE sustituir un molde existente?",
+          "answer": "LIHE publica servicios de conversión y componentes de sustitución. Confirme la plataforma exacta, la revisión del plano y la interfaz completa antes de aprobar el cambio. La oferta publicada no elimina la ingeniería y la aceptación específicas del proyecto."
+        }
+      ]
+    }
+  }
+}

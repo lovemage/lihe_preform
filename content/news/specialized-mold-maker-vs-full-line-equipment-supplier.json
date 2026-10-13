@@ -1,0 +1,440 @@
+{
+  "slug": "specialized-mold-maker-vs-full-line-equipment-supplier",
+  "questionId": "q106",
+  "date": "2026-09-30",
+  "relatedProducts": [
+    19,
+    22,
+    27
+  ],
+  "images": {
+    "hero": "/images/news/specialized-mold-maker-vs-full-line-equipment-supplier-hero.webp",
+    "detail": "/images/news/specialized-mold-maker-vs-full-line-equipment-supplier-detail.webp",
+    "og": "/images/news/specialized-mold-maker-vs-full-line-equipment-supplier-hero-og.jpg"
+  },
+  "sources": [
+    {
+      "label": "Sidel — complete water bottling lines",
+      "url": "https://www.sidel.com/en/complete-lines-repository/water-lines/"
+    },
+    {
+      "label": "SIPA — PET preform injection moulds and tooling",
+      "url": "https://sipasolutions.com/products/moulds/preform-tooling"
+    },
+    {
+      "label": "Otto Hofstetter — precision PET preform moulds",
+      "url": "https://www.otto-hofstetter.swiss/"
+    },
+    {
+      "label": "Husky — injection molding systems, hot runners and services",
+      "url": "https://www.husky.co/en/"
+    }
+  ],
+  "locales": {
+    "en": {
+      "category": "Technical Insights",
+      "title": "Which is better for a high-volume PET bottle plant: a specialized mold maker or a full-line equipment supplier?",
+      "summary": "Choose a specialist mold maker for a defined tooling task or a full-line supplier for coordinated equipment scope, with clear ownership of every interface.",
+      "heroAlt": "Illustrative mold development bench beside a PET beverage production line",
+      "detailAlt": "Illustrative PET blow mold and downstream bottle production equipment",
+      "sections": [
+        {
+          "heading": "Choose by project boundary and integration responsibility",
+          "paragraphs": [
+            "A specialized mold maker supplies tooling and related engineering; a full-line equipment supplier coordinates a broader set of production equipment within its quoted scope. A specialist is a sensible route for a defined mold replacement or conversion on an established line, while a full-line proposal deserves consideration for a new plant or extensive equipment changes. The better choice depends on who owns integration, qualification and service across the required process."
+          ]
+        },
+        {
+          "heading": "Compare the actual scope, not the supplier category",
+          "table": {
+            "head": [
+              "Dimension",
+              "Specialist tooling route",
+              "Full-line route"
+            ],
+            "rows": [
+              [
+                "Core task",
+                "A defined mold or component project",
+                "A coordinated equipment project"
+              ],
+              [
+                "Installed machines",
+                "Interfaces must be confirmed",
+                "Included machine scope must be confirmed"
+              ],
+              [
+                "Bottle design",
+                "Agree development and tests",
+                "Agree packaging development and tests"
+              ],
+              [
+                "Integration",
+                "Plant or named integrator coordinates",
+                "Confirm contracted integration boundary"
+              ],
+              [
+                "Utilities",
+                "Plant documents actual available conditions",
+                "Supplier and plant agree equipment requirements"
+              ],
+              [
+                "Commissioning",
+                "Mold and related interface acceptance",
+                "Equipment and line acceptance"
+              ],
+              [
+                "Service",
+                "Tooling and parts responsibilities",
+                "Check line and individual equipment support"
+              ],
+              [
+                "Commercial comparison",
+                "Engineering, tooling and downtime",
+                "Equipment, integration and qualification"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Neutral examples of different supplier roles",
+          "list": [
+            "Otto Hofstetter publishes PET preform moulds. It is an example of a specialist tooling offering to investigate. Compare the specific tool, machine interface and service arrangements rather than treating specialization as proof of better quality or lower cost.",
+            "Sidel publishes complete water bottling lines. Its offering is relevant when the purchase includes coordinated bottle-production equipment. The quoted line boundary still needs review: upstream preform manufacture, utilities and individual package-development tasks should not be assumed to be included.",
+            "SIPA publishes preform tooling and conversions, and Husky publishes integrated injection systems and hot runners. These illustrate why a procurement decision may involve both tooling and upstream equipment, even before the blowing and filling equipment is considered.",
+            "LIHE publishes molds, hot runners, components and tooling conversion. That scope is useful to evaluate for an established-machine project. LIHE should not be presented as a substitute for every machine and complete-line contractor; agree its responsibilities with the plant and equipment suppliers."
+          ]
+        },
+        {
+          "heading": "Decide using the plant’s actual operating situation",
+          "list": [
+            "For a stable line needing a replacement preform mold, begin with the machine and package specification already approved. A bounded tooling project can preserve established equipment while changing the mold. Check whether the proposed conversion also affects cooling, controls, handling or closure geometry.",
+            "For a new plant, map the whole process from preform supply to finished package. Decide whether injection is on site, then identify blowing, filling, capping and transport responsibilities. A complete-line proposal can coordinate more equipment, but only the contracted scope establishes that responsibility.",
+            "For simultaneous lightweighting and equipment changes, appoint an engineering owner for the package. Freeze the preform, bottle and closure requirements and sequence the trials. Neither supplier category removes the need to test the final bottle or resolve changes between the injection and blowing stages.",
+            "Use a specialist when the plant or its integrator can manage the interfaces; consider a broader equipment contractor when that coordination is part of the purchase requirement. Where responsibility remains unclear, resolve it before awarding the job instead of relying on the supplier’s category name."
+          ]
+        },
+        {
+          "heading": "Split acceptance between the mold maker and the line supplier",
+          "steps": [
+            "Draw up an interface responsibility matrix before any purchase order. List each physical and data interface, such as platen and hot half, cooling water, controller signals, take-out robot, conveyor and blow molder infeed, and give every row one named owner and one approver.",
+            "Hold a factory acceptance test for the mold at the mold maker's site. The mold maker owns this test: dimensions per cavity, hot-runner heating and valve-gate function, cooling-circuit flow and a stable molding run on a comparable machine. Sign it off as a mold result, not as a line result.",
+            "Hold the equipment acceptance with the line supplier for the machines it contracted. The line supplier demonstrates speeds, changeovers and controls for its own scope; ask it to state in writing which upstream inputs, including preforms, it assumed for that test.",
+            "Run a joint site acceptance with both parties present once the mold is installed on the plant's machine and connected to the downstream line. Agree in advance how defects are attributed: a preform out of tolerance points to mold or injection settings, while a bottle defect from a conforming preform points to blowing or line settings.",
+            "Close the project with a handover file from each party and one shared open-items list. Each open item carries an owner and a date, so that nothing falls into the gap between the tooling contract and the equipment contract."
+          ]
+        },
+        {
+          "heading": "After start-up: who services what",
+          "list": [
+            "Mold wear parts, including neck rings, cores, cavities, nozzle tips and valve pins, normally come from the mold maker or a qualified tooling source. Machine wear parts come from the machine builder. Keep the two spare-parts lists separate so a stock-out is traced to the right supplier.",
+            "With a full-line contract, the plant usually has one commercial contact, but the line supplier may still pass a tooling problem to its own mold subcontractor. Ask who actually performs mold repairs, where they are done and how long the tool is out of production when it leaves the site.",
+            "With a specialist route, the plant or its integrator coordinates between suppliers. That gives direct access to the people who designed the tool, but it also means the plant's engineers must recognize whether a fault starts in the mold, the machine or the downstream equipment.",
+            "Decide where refurbishment happens before the first major overhaul is due. Some work can be done on site; hot-runner and cavity refurbishment often needs the tool at the maker's workshop. Plan a spare mold set or an alternative supply of preforms for that period.",
+            "Write the service expectations into each contract: remote support channels, on-site visit terms, spare-parts lead times and how revised drawings are distributed. A line contract and a tooling contract that describe service in different terms make cross-supplier faults slower to solve."
+          ]
+        },
+        {
+          "heading": "Where LIHE sits in this choice",
+          "paragraphs": [
+            "This guide comes from LIHE Precision, a specialist tooling supplier rather than a full-line contractor, so read it with that position in mind. The figures below are published on lihe-preform.com and describe the tooling side of the decision only; line equipment, integration and overall line acceptance remain with the plant or its equipment suppliers."
+          ],
+          "list": [
+            "Tooling range: PET preform molds of 32 to 160 cavities for HUSKY, NETSTAL, SIPA, KATA and other machines, plus valve-gate hot runners up to 144 cavities for preforms, sold with a 3-year leakage-proof guarantee on the Husky Ultra-type design.",
+            "Compatibility with installed equipment: conversion parts are published as 100% interchangeable for Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps and Corvaglia systems. That is relevant when the plant keeps its machines and only changes tooling.",
+            "Lead times for the tooling share of a project: pilot molds 20 days, standard PET preform and blow molds 8 weeks, replacement parts 4 weeks. Line equipment schedules sit outside these figures and should be planned with the line supplier.",
+            "Service on the tooling side: machine interface audits, mold installation, machine start-up support, preventive maintenance, remote troubleshooting, spare parts and mold refurbishment. Agree the exact package in the quotation and map it onto the responsibility matrix above."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Is a complete-line supplier always better for high volume?",
+          "answer": "No. High volume describes production demand, not the scope of the purchase. A defined mold replacement and a new complete plant need different responsibilities and acceptance evidence."
+        },
+        {
+          "question": "Can a specialist supplier support a large plant?",
+          "answer": "Evaluate the specific tooling and service proposal. Confirm the machine interfaces, qualification plan and parts arrangements. Supplier category alone does not establish whether the project meets the plant’s production requirement."
+        },
+        {
+          "question": "Does a complete water line include preform injection?",
+          "answer": "Do not assume that. The plant may buy preforms or operate separate injection equipment. Ask the line supplier to identify exactly where its contracted scope begins and ends."
+        },
+        {
+          "question": "Who should own a cross-supplier defect?",
+          "answer": "Name an integration owner before ordering and agree how mold, machine and package issues will be investigated. Maintain one approved package specification and a record of design changes across the suppliers."
+        }
+      ]
+    },
+    "ru": {
+      "category": "Технические статьи",
+      "title": "Что лучше для крупносерийного завода бутылок ПЭТ: специализированный изготовитель форм или поставщик полной линии?",
+      "summary": "Выбирайте специалиста для определённой задачи оснастки или поставщика линии для согласованного оборудования, назначая ответственность за каждый интерфейс.",
+      "heroAlt": "Иллюстрация стенда разработки форм рядом с линией напитков ПЭТ",
+      "detailAlt": "Иллюстрация выдувной формы ПЭТ и последующего оборудования производства бутылок",
+      "sections": [
+        {
+          "heading": "Выбирайте по границе проекта и ответственности за интеграцию",
+          "paragraphs": [
+            "Специализированный изготовитель форм поставляет оснастку и связанную инженерную работу; поставщик полной линии согласует более широкий набор оборудования в пределах предложения. Специалист подходит для рассмотрения при определённой замене или конверсии формы на действующей линии, а предложение полной линии — при новом заводе или крупных изменениях оборудования. Выбор зависит от ответственности за интеграцию, квалификацию и обслуживание требуемого процесса."
+          ]
+        },
+        {
+          "heading": "Сравнивайте объём, а не категорию поставщика",
+          "table": {
+            "head": [
+              "Параметр",
+              "Специализированная оснастка",
+              "Полная линия"
+            ],
+            "rows": [
+              [
+                "Основная задача",
+                "Конкретная форма или компонент",
+                "Согласованный проект оборудования"
+              ],
+              [
+                "Установленные машины",
+                "Подтвердить интерфейсы",
+                "Подтвердить включённое оборудование"
+              ],
+              [
+                "Конструкция бутылки",
+                "Согласовать разработку и испытания",
+                "Согласовать разработку упаковки и тесты"
+              ],
+              [
+                "Интеграция",
+                "Координирует завод или интегратор",
+                "Подтвердить договорную границу"
+              ],
+              [
+                "Ресурсы площадки",
+                "Завод описывает доступные условия",
+                "Стороны согласуют потребности оборудования"
+              ],
+              [
+                "Пусконаладка",
+                "Приёмка формы и интерфейсов",
+                "Приёмка оборудования и линии"
+              ],
+              [
+                "Сервис",
+                "Ответственность за форму и детали",
+                "Проверить поддержку линии и отдельных машин"
+              ],
+              [
+                "Коммерческое сравнение",
+                "Инженерия, оснастка и простой",
+                "Оборудование, интеграция и квалификация"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Нейтральные примеры разных ролей поставщиков",
+          "list": [
+            "Otto Hofstetter публикует формы для ПЭТ-преформ. Это пример специализированного предложения оснастки для изучения. Сравнивайте конкретную форму, интерфейс машины и обслуживание. Специализация сама по себе не доказывает более высокое качество или меньшую цену.",
+            "Sidel публикует полные линии розлива воды. Предложение относится к закупке согласованного оборудования производства бутылок. Однако границы линии необходимо проверить: производство преформ, инженерные ресурсы и отдельные задачи разработки упаковки нельзя автоматически считать включёнными.",
+            "SIPA публикует оснастку преформ и конверсии, а Husky — интегрированные литьевые системы и горячеканальные системы. Эти примеры показывают, что закупка может включать оснастку и оборудование верхней стадии ещё до рассмотрения выдува и розлива.",
+            "LIHE публикует формы, горячеканальные системы, компоненты и конверсию оснастки. Рассмотрите этот объём для проекта на установленной машине. Нельзя представлять LIHE как замену всем изготовителям машин и подрядчикам полной линии. Согласуйте обязанности с заводом и поставщиками оборудования."
+          ]
+        },
+        {
+          "heading": "Решайте по реальным условиям работы завода",
+          "list": [
+            "Для стабильной линии с заменой формы начните с уже утверждённых машины и упаковки. Ограниченный проект позволяет сохранить оборудование и изменить форму. Проверьте, затрагивает ли конверсия охлаждение, управление, извлечение или геометрию крышки.",
+            "Для нового завода опишите процесс от поставки преформ до готовой упаковки. Решите, выполняется ли литьё на площадке, затем назначьте ответственность за выдув, розлив, укупорку и транспорт. Полная линия позволяет согласовать больше оборудования, но ответственность устанавливает договорный объём.",
+            "При одновременном облегчении и изменении оборудования назначьте ответственного инженера по упаковке. Зафиксируйте требования преформы, бутылки и крышки и последовательность испытаний. Ни одна категория поставщика не отменяет тесты готовой бутылки и согласование изменений между литьём и выдувом.",
+            "Рассматривайте специалиста, когда завод или интегратор способен управлять интерфейсами; более широкого подрядчика — когда такая координация входит в требования закупки. Неясную ответственность устраните до выбора подрядчика, не полагаясь на название его категории."
+          ]
+        },
+        {
+          "heading": "Разделите приёмку между изготовителем форм и поставщиком линии",
+          "steps": [
+            "Составьте матрицу ответственности за интерфейсы до оформления любого заказа. Перечислите каждый механический интерфейс и интерфейс данных, например плиту и горячую половину, охлаждающую воду, сигналы контроллера, робот съёма, конвейер и подачу в выдувную машину, и назначьте для каждой строки одного ответственного и одного утверждающего.",
+            "Проведите заводскую приёмку формы на площадке изготовителя. Эту проверку ведёт изготовитель формы: размеры по гнёздам, нагрев горячеканальной системы и работа игольчатых затворов, расход по контурам охлаждения и стабильный прогон на сопоставимой машине. Оформляйте её как результат по форме, а не по линии.",
+            "Проведите приёмку оборудования с поставщиком линии в объёме машин по его контракту. Поставщик линии подтверждает скорости, переналадки и управление в пределах своего объёма; попросите его письменно указать, какие исходные условия на входе, включая преформы, он принимал для этой проверки.",
+            "После установки формы на машину завода и подключения к последующей линии проведите совместную приёмку на площадке в присутствии обеих сторон. Заранее согласуйте правила отнесения дефектов: преформа вне допуска указывает на форму или настройки литья, а дефект бутылки из соответствующей преформы — на выдув или настройки линии.",
+            "Завершите проект передачей комплекта документов от каждой стороны и одним общим перечнем открытых вопросов. У каждого открытого вопроса есть ответственный и срок, чтобы ничего не потерялось между контрактом на оснастку и контрактом на оборудование."
+          ]
+        },
+        {
+          "heading": "После запуска: кто и что обслуживает",
+          "list": [
+            "Изнашиваемые детали формы, включая горловинные кольца, знаки, матрицы, наконечники сопел и запорные иглы, обычно поставляет изготовитель формы или квалифицированный поставщик оснастки. Изнашиваемые детали машины поставляет производитель машины. Ведите два перечня запасных частей раздельно, чтобы дефицит можно было отнести к нужному поставщику.",
+            "При контракте на полную линию у завода обычно один коммерческий контакт, но поставщик линии может всё равно передавать проблемы с оснасткой собственному субподрядчику по формам. Выясните, кто фактически ремонтирует формы, где выполняется ремонт и как долго форма будет вне производства после отправки с площадки.",
+            "При специализированном пути взаимодействие между поставщиками координирует завод или его интегратор. Это даёт прямой доступ к людям, которые проектировали форму, но означает, что инженеры завода должны сами определять, где начинается неисправность: в форме, в машине или в последующем оборудовании.",
+            "Решите, где будет выполняться восстановление, до наступления срока первого капитального ремонта. Часть работ можно выполнить на площадке; восстановление горячеканальной системы и гнёзд часто требует отправки формы в мастерскую изготовителя. Предусмотрите на этот период запасной комплект формы или альтернативное снабжение преформами.",
+            "Пропишите ожидания по сервису в каждом контракте: каналы удалённой поддержки, условия выездов на площадку, сроки поставки запасных частей и порядок рассылки обновлённых чертежей. Если контракт на линию и контракт на оснастку описывают сервис разными терминами, неисправности на стыке поставщиков устраняются медленнее."
+          ]
+        },
+        {
+          "heading": "Место LIHE в этом выборе",
+          "paragraphs": [
+            "Руководство подготовлено LIHE Precision — специализированным поставщиком оснастки, а не подрядчиком полных линий, и читать его стоит с учётом этой позиции. Приведённые ниже показатели опубликованы на lihe-preform.com и касаются только оснастки; оборудование линии, интеграция и общая приёмка линии остаются за заводом или поставщиками оборудования."
+          ],
+          "list": [
+            "Диапазон оснастки: формы для ПЭТ-преформ от 32 до 160 гнёзд для машин HUSKY, NETSTAL, SIPA, KATA и других, а также горячеканальные системы с игольчатыми затворами до 144 гнёзд для преформ с 3-летней гарантией от протечек на конструкцию типа Husky Ultra.",
+            "Совместимость с установленным оборудованием: детали для переоснащения заявлены как на 100% взаимозаменяемые для систем Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps и Corvaglia. Это важно, если завод сохраняет свои машины и меняет только оснастку.",
+            "Сроки по оснастке в составе проекта: пилотные формы — 20 дней, стандартные формы для ПЭТ-преформ и выдувные формы — 8 недель, запасные части — 4 недели. Графики оборудования линии в эти цифры не входят и планируются с поставщиком линии.",
+            "Сервис со стороны оснастки: аудит интерфейса машины, установка форм, поддержка при запуске машины, профилактическое обслуживание, удалённая диагностика, запасные части и восстановление форм. Конкретный пакет согласуйте в коммерческом предложении и внесите его в описанную выше матрицу ответственности."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Полная линия всегда лучше при большом объёме?",
+          "answer": "Нет. Объём описывает потребность производства, а не состав закупки. Замена определённой формы и новый завод требуют разных обязанностей и доказательств приёмки."
+        },
+        {
+          "question": "Может специалист обслуживать крупный завод?",
+          "answer": "Оцените конкретное предложение оснастки и сервиса. Подтвердите интерфейсы, квалификацию и запасные части. Категория поставщика сама по себе не устанавливает соответствие производственным требованиям."
+        },
+        {
+          "question": "Включает полная линия воды литьё преформ?",
+          "answer": "Не предполагайте этого. Завод может покупать преформы или использовать отдельную литьевую машину. Поставщик должен указать начало и конец договорного объёма."
+        },
+        {
+          "question": "Кто отвечает за дефект на стыке поставщиков?",
+          "answer": "До заказа назначьте ответственного за интеграцию и согласуйте исследование проблем формы, машины и упаковки. Сохраняйте общую утверждённую спецификацию и записи изменений конструкции у всех сторон."
+        }
+      ]
+    },
+    "es": {
+      "category": "Artículos técnicos",
+      "title": "¿Qué es mejor para una planta PET de gran volumen: un especialista en moldes o un proveedor de línea completa?",
+      "summary": "Elija un especialista para una tarea de moldes definida o un proveedor de línea para equipo coordinado, con responsabilidad clara sobre cada interfaz.",
+      "heroAlt": "Banco ilustrativo de desarrollo de moldes junto a una línea PET",
+      "detailAlt": "Molde ilustrativo de soplado PET y equipos posteriores de producción",
+      "sections": [
+        {
+          "heading": "Elija por límites del proyecto y responsabilidad de integración",
+          "paragraphs": [
+            "Un especialista en moldes suministra herramientas y su ingeniería; un proveedor de línea completa coordina más equipos de producción dentro del alcance cotizado. Un especialista es una opción razonable para una sustitución o conversión definida en una línea establecida, mientras que una propuesta de línea completa merece consideración para una planta nueva o cambios amplios de equipo. La elección depende de quién asume integración, cualificación y servicio del proceso requerido."
+          ]
+        },
+        {
+          "heading": "Compare el alcance real, no la categoría",
+          "table": {
+            "head": [
+              "Dimensión",
+              "Vía de especialista",
+              "Vía de línea completa"
+            ],
+            "rows": [
+              [
+                "Tarea principal",
+                "Proyecto definido de molde o componente",
+                "Proyecto de equipo coordinado"
+              ],
+              [
+                "Máquinas instaladas",
+                "Confirmar las interfaces",
+                "Confirmar las máquinas incluidas"
+              ],
+              [
+                "Diseño de botella",
+                "Acordar desarrollo y ensayos",
+                "Acordar desarrollo y ensayos del envase"
+              ],
+              [
+                "Integración",
+                "Coordina la planta o el integrador designado",
+                "Confirmar los límites contratados"
+              ],
+              [
+                "Servicios",
+                "La planta documenta condiciones disponibles",
+                "Acordar necesidades del equipo"
+              ],
+              [
+                "Puesta en marcha",
+                "Aceptación de molde e interfaces",
+                "Aceptación de equipo y línea"
+              ],
+              [
+                "Servicio",
+                "Responsabilidades de moldes y piezas",
+                "Comprobar soporte de línea y máquinas"
+              ],
+              [
+                "Comparación comercial",
+                "Ingeniería, moldes y paradas",
+                "Equipo, integración y cualificación"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Ejemplos neutrales de funciones de proveedores",
+          "list": [
+            "Otto Hofstetter publica moldes de preformas PET. Es un ejemplo de oferta especializada que puede investigar. Compare el molde concreto, su interfaz y sus acuerdos de servicio, sin tratar la especialización como prueba de mayor calidad o menor coste.",
+            "Sidel publica líneas completas de embotellado de agua. Su oferta resulta pertinente al comprar equipo coordinado de producción de botellas. Revise los límites cotizados: no suponga que incluye fabricación previa de preformas, servicios de planta o todas las tareas de desarrollo del envase.",
+            "SIPA publica moldes de preforma y conversiones, y Husky publica sistemas integrados de inyección y canales calientes. Ilustran por qué una compra puede involucrar moldes y equipos anteriores al soplado y al llenado.",
+            "LIHE publica moldes, canales calientes, componentes y conversión de moldes. Evalúe ese alcance para un proyecto en máquinas existentes. No presente a LIHE como sustituto de todos los proveedores de máquinas y líneas completas; acuerde sus responsabilidades con la planta y los proveedores de equipo."
+          ]
+        },
+        {
+          "heading": "Decida según la situación operativa de la planta",
+          "list": [
+            "Para una línea estable que necesita un molde de preformas nuevo, empiece por las especificaciones ya aprobadas de máquina y envase. Un proyecto delimitado puede conservar el equipo y cambiar el molde. Compruebe si la conversión también afecta a refrigeración, controles, manipulación o geometría del cierre.",
+            "Para una planta nueva, dibuje el proceso desde el suministro de preformas hasta el envase terminado. Decida si la inyección estará en planta e identifique después soplado, llenado, tapado y transporte. Una línea completa puede coordinar más equipo, pero solo el contrato establece esa responsabilidad.",
+            "Para aligeramiento y cambios de equipo simultáneos, designe un responsable técnico del envase. Fije requisitos de preforma, botella y cierre y ordene las pruebas. Ninguna categoría elimina la necesidad de ensayar la botella o resolver cambios entre inyección y soplado.",
+            "Utilice un especialista cuando la planta o su integrador pueda gestionar interfaces; considere un contratista más amplio cuando la coordinación forme parte de la compra. Si la responsabilidad sigue poco clara, resuélvala antes de adjudicar en lugar de confiar en la categoría del proveedor."
+          ]
+        },
+        {
+          "heading": "Reparta la aceptación entre el fabricante de moldes y el proveedor de línea",
+          "steps": [
+            "Elabore una matriz de responsabilidades por interfaz antes de emitir cualquier pedido. Enumere cada interfaz física y de datos, como el plato y la mitad caliente, el agua de refrigeración, las señales del controlador, el robot de extracción, el transportador y la entrada a la sopladora, y asigne a cada fila un responsable y un aprobador con nombre.",
+            "Realice la prueba de aceptación en fábrica del molde en las instalaciones del fabricante. Esta prueba corresponde al fabricante del molde: dimensiones por cavidad, calentamiento del canal caliente y funcionamiento de las válvulas de obturación, caudal de los circuitos de refrigeración y una tirada estable en una máquina comparable. Fírmela como resultado del molde, no de la línea.",
+            "Realice la aceptación de equipos con el proveedor de línea para las máquinas que haya contratado. El proveedor de línea demuestra velocidades, cambios de formato y controles dentro de su alcance; pídale que indique por escrito qué entradas aguas arriba, incluidas las preformas, supuso para esa prueba.",
+            "Una vez instalado el molde en la máquina de la planta y conectado a la línea posterior, haga una aceptación conjunta en planta con ambas partes presentes. Acuerde de antemano cómo se atribuyen los defectos: una preforma fuera de tolerancia apunta al molde o a los ajustes de inyección, mientras que un defecto de botella a partir de una preforma conforme apunta al soplado o a los ajustes de línea.",
+            "Cierre el proyecto con un expediente de entrega de cada parte y una única lista compartida de puntos abiertos. Cada punto abierto lleva responsable y fecha, para que nada quede en el hueco entre el contrato de utillaje y el contrato de equipos."
+          ]
+        },
+        {
+          "heading": "Después del arranque: quién mantiene qué",
+          "list": [
+            "Las piezas de desgaste del molde, como anillos de cuello, machos, cavidades, puntas de boquilla y agujas de válvula, suelen venir del fabricante del molde o de una fuente de utillaje cualificada. Las piezas de desgaste de la máquina vienen del fabricante de la máquina. Mantenga separadas las dos listas de repuestos para que una rotura de stock se atribuya al proveedor correcto.",
+            "Con un contrato de línea completa, la planta suele tener un solo contacto comercial, pero el proveedor de línea puede seguir trasladando un problema de utillaje a su propio subcontratista de moldes. Pregunte quién realiza realmente las reparaciones del molde, dónde se hacen y cuánto tiempo queda el molde fuera de producción cuando sale de la planta.",
+            "Con la vía especializada, la planta o su integrador coordina a los proveedores. Eso da acceso directo a quienes diseñaron el molde, pero también obliga a los ingenieros de la planta a reconocer si una avería empieza en el molde, en la máquina o en el equipo posterior.",
+            "Decida dónde se hará el reacondicionamiento antes de que llegue la primera revisión mayor. Parte del trabajo puede hacerse en planta; el reacondicionamiento del canal caliente y de las cavidades suele requerir llevar el molde al taller del fabricante. Prevea para ese periodo un juego de molde de reserva o un suministro alternativo de preformas.",
+            "Incluya en cada contrato las expectativas de servicio: canales de soporte remoto, condiciones de las visitas a planta, plazos de repuestos y forma de distribuir los planos revisados. Si el contrato de línea y el de utillaje describen el servicio con términos distintos, las averías entre proveedores tardan más en resolverse."
+          ]
+        },
+        {
+          "heading": "Dónde se sitúa LIHE en esta elección",
+          "paragraphs": [
+            "Esta guía procede de LIHE Precision, un proveedor especializado en utillaje y no un contratista de líneas completas, de modo que conviene leerla teniendo en cuenta esa posición. Las cifras siguientes están publicadas en lihe-preform.com y se refieren solo a la parte de utillaje de la decisión; los equipos de línea, la integración y la aceptación global de la línea siguen correspondiendo a la planta o a sus proveedores de equipos."
+          ],
+          "list": [
+            "Gama de utillaje: moldes de preforma PET de 32 a 160 cavidades para máquinas HUSKY, NETSTAL, SIPA, KATA y otras, además de canales calientes con válvula de obturación de hasta 144 cavidades para preformas, con una garantía de 3 años contra fugas en el diseño tipo Husky Ultra.",
+            "Compatibilidad con los equipos instalados: las piezas de conversión se publican como 100% intercambiables para sistemas Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps y Corvaglia. Es relevante cuando la planta conserva sus máquinas y solo cambia el utillaje.",
+            "Plazos de la parte de utillaje de un proyecto: moldes piloto 20 días, moldes estándar de preforma PET y de soplado 8 semanas, piezas de repuesto 4 semanas. Los calendarios de los equipos de línea quedan fuera de estas cifras y deben planificarse con el proveedor de línea.",
+            "Servicio en la parte de utillaje: auditorías de interfaz de máquina, instalación del molde, apoyo en la puesta en marcha, mantenimiento preventivo, diagnóstico remoto, repuestos y reacondicionamiento de moldes. Acuerde el paquete exacto en la cotización y asígnelo en la matriz de responsabilidades descrita arriba."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Una línea completa siempre es mejor para gran volumen?",
+          "answer": "No. El volumen describe la demanda productiva, no el alcance de la compra. Un cambio de molde definido y una planta completa nueva necesitan responsabilidades y pruebas diferentes."
+        },
+        {
+          "question": "¿Un especialista puede apoyar una planta grande?",
+          "answer": "Evalúe la propuesta concreta de molde y servicio. Confirme interfaces, cualificación y repuestos. La categoría del proveedor por sí sola no demuestra el cumplimiento de la producción requerida."
+        },
+        {
+          "question": "¿Una línea completa de agua incluye inyección de preformas?",
+          "answer": "No lo suponga. La planta puede comprar preformas o utilizar equipos de inyección separados. Pida al proveedor que indique dónde empieza y termina el alcance contratado."
+        },
+        {
+          "question": "¿Quién debe asumir un defecto entre proveedores?",
+          "answer": "Designe un responsable de integración antes del pedido y acuerde cómo investigar problemas de molde, máquina y envase. Mantenga una especificación aprobada y un registro de cambios común entre proveedores."
+        }
+      ]
+    }
+  }
+}

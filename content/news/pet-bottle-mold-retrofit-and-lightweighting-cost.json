@@ -1,0 +1,469 @@
+{
+  "slug": "pet-bottle-mold-retrofit-and-lightweighting-cost",
+  "questionId": "q110",
+  "date": "2026-10-05",
+  "relatedProducts": [
+    34,
+    22,
+    19
+  ],
+  "images": {
+    "hero": "/images/news/pet-bottle-mold-retrofit-and-lightweighting-cost-hero.webp",
+    "detail": "/images/news/pet-bottle-mold-retrofit-and-lightweighting-cost-detail.webp",
+    "og": "/images/news/pet-bottle-mold-retrofit-and-lightweighting-cost-hero-og.jpg"
+  },
+  "sources": [
+    {
+      "label": "Wikipedia — polyethylene terephthalate",
+      "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate"
+    },
+    {
+      "label": "Wikipedia — injection moulding",
+      "url": "https://en.wikipedia.org/wiki/Injection_moulding"
+    },
+    {
+      "label": "SIPA — PET preform injection moulds and tooling",
+      "url": "https://sipasolutions.com/products/moulds/preform-tooling"
+    }
+  ],
+  "locales": {
+    "en": {
+      "category": "Technical Insights",
+      "title": "How much should I expect to pay for a PET bottle mold retrofit or lightweighting project?",
+      "summary": "Define the retrofit boundary, retained-tool condition and package tests before requesting a lightweighting quotation and using a published cost comparison.",
+      "heroAlt": "Illustrative PET mold refurbishment and lightweighting inspection bench",
+      "detailAlt": "Illustrative replacement neck rings and cores beside preforms and bottles",
+      "sections": [
+        {
+          "heading": "Use the published comparison only for a suitable defined retrofit",
+          "paragraphs": [
+            "A mold retrofit is a modification of existing tooling, while lightweighting changes the package design to reduce material use without abandoning the approved performance requirements. LIHE publishes that lightweighting retrofits cost 25%–40% of a new mold price, but an exact price for your project requires an inspection and a scope-specific quotation. That published ratio is not a universal market price and does not apply automatically to every bottle blow mold or preform conversion."
+          ]
+        },
+        {
+          "heading": "Separate the changes hidden inside a lightweighting brief",
+          "table": {
+            "head": [
+              "Project element",
+              "Possible tooling boundary",
+              "What must be confirmed"
+            ],
+            "rows": [
+              [
+                "Preform neck change",
+                "Neck rings and related conversion parts",
+                "Closure fit and handling"
+              ],
+              [
+                "Preform wall change",
+                "Forming components and cooling interfaces",
+                "Injection and bottle performance"
+              ],
+              [
+                "Bottle-body change",
+                "Blow mold and possibly format parts",
+                "Blower fit and downstream transport"
+              ],
+              [
+                "Hot-runner work",
+                "Retained, serviced or replaced components",
+                "Compatibility and stable molding"
+              ],
+              [
+                "Refurbishment",
+                "Worn components and affected interfaces",
+                "Condition of retained assemblies"
+              ],
+              [
+                "Combined package project",
+                "Preform, bottle and closure together",
+                "Controlled drawings and acceptance"
+              ],
+              [
+                "Installation",
+                "Mold change and associated equipment",
+                "Downtime and responsible parties"
+              ],
+              [
+                "Qualification",
+                "Preform and finished-package trials",
+                "Test methods and approved evidence"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Inspect the existing asset before calculating the project scope",
+          "list": [
+            "Provide the current mold drawings, service history, known modifications and representative samples. Identify the defect or design change that triggered the project. A retrofit intended to reduce weight is a different task from repairing wear or restoring an unstable process, even when the same mold is involved.",
+            "Ask the supplier to identify which assemblies remain usable and which must change. Include the condition of the mold base, shaping components, cooling circuits and hot runner where relevant. Do not assume that a new set of inserts corrects every problem in the retained equipment.",
+            "Clarify whether the quotation covers preform injection tooling, bottle blow tooling or both. The preform determines material distribution during blowing, but the bottle body is formed in separate blow tooling on a two-step line. A project name such as “bottle lightweighting” does not identify the actual bill of supply.",
+            "Agree what happens if inspection reveals a wider replacement requirement. The commercial proposal should distinguish the confirmed work from unresolved condition-dependent items, so the plant can decide whether the retrofit remains technically and operationally suitable."
+          ]
+        },
+        {
+          "heading": "Evaluate the saving with package and production evidence",
+          "list": [
+            "Use LIHE’s published weight-reduction proposals as a discussion of achievable design scope, not an unconditional promise for the current bottle. The target must retain the required neck, closure and bottle performance. Record any changes needed to the blowing process and handling parts.",
+            "Base material savings on the approved actual weight change and accepted production volume. Keep resin consumption, startup scrap and rejected bottles visible. No payback period is calculated here because the plant’s resin costs, output, downtime and project quotation have not been supplied.",
+            "Compare a technically suitable retrofit with a technically suitable new tool under the same package requirements. Include trial work, spare parts and commissioning. The published percentage can start a discussion, but it cannot establish equivalent scope between two incomplete quotations.",
+            "LIHE’s offering includes mold overhauls, lightweighting and line conversions. This does not establish the condition of your existing asset or guarantee the finished bottle. Approve the project on inspection findings, agreed drawings and package tests before changing the production tool."
+          ]
+        },
+        {
+          "heading": "Reading a retrofit offer against the 25%–40% figure",
+          "list": [
+            "LIHE’s published figure is that a lightweighting retrofit of an existing mold costs 25%–40% of the price of a new mold. Use it as a plausibility check on a retrofit offer, and only after the supplier has confirmed in writing that the existing mold is fit for reuse.",
+            "Ask for the retrofit offer to show retained parts and replaced parts in two separate columns, for example mold base and hot runner retained, cores and neck rings new. Without that split the percentage cannot be related to any physical scope.",
+            "Request a reference offer for the equivalent new mold from the same supplier, built to the same preform drawing and for the same machine. The ratio only means something when both offers describe the same finished preform and the same acceptance terms.",
+            "Show refurbishment of the retained parts separately from the lightweighting change itself. Worn guide elements, leaking cooling circuits or a hot runner that needs servicing add cost that belongs to maintenance, not to the weight reduction, and should be budgeted as such.",
+            "List the costs that sit outside the mold: trial resin, blow-mold or format-part adjustments, line downtime for the change-over and requalification of the bottle. They do not appear in the mold percentage, yet they decide whether the project actually pays back."
+          ]
+        },
+        {
+          "heading": "Material and package checks that a lighter preform triggers",
+          "list": [
+            "Removing 1 g to 2 g from a preform leaves less material to stretch into the same bottle. Ask the bottle designer to confirm that wall thickness at the shoulder, panel and base still meets the package specification before any steel is cut.",
+            "If the project also introduces recycled PET (rPET), run the lighter design and the new resin as separate trial steps. Changing both at once makes it impossible to tell whether a later defect comes from the geometry or from the material.",
+            "Dry the resin according to the resin producer’s instructions and log the lot number of every trial run. Thinner walls can make moisture- or temperature-related defects more visible, so keep the drying record together with the samples.",
+            "When the neck is part of the change, involve the closure supplier from the start. A shorter neck or a different finish, such as PCO 1881 or 29/25, must still seal and pass capping and torque checks with the closures the plant actually buys.",
+            "Food-contact and regulatory documentation belongs to the resin and packaging owners, not to the mold maker. Prepare that paperwork in parallel with the tooling work so that it does not hold up a retrofit that has otherwise passed its trials."
+          ]
+        },
+        {
+          "heading": "Accepting a retrofitted mold in stages",
+          "steps": [
+            "Before any steel is removed, measure the existing mold and keep reference preforms from every cavity. This baseline shows exactly what the retrofit changed and protects both sides if the retained parts later develop problems.",
+            "Approve the new preform drawing and the list of parts to be changed in writing. Mark which dimensions are expected to move and which, such as the neck interface with the closure, must remain identical to the baseline.",
+            "Run the retrofitted tool and record the new preform weight per cavity against the baseline values. Accept the weight reduction only when it is consistent across all cavities, not as an average over the whole mold.",
+            "Blow the lighter preforms on the plant’s blow molder, or an equivalent machine, and test the bottles against the package specification. Keep the bottles that fail; they show where the material distribution needs further adjustment.",
+            "After reinstallation, run a production lot long enough to reveal scrap and stoppage rates, and compare them with the baseline mold. Close the retrofit only when the lighter preform runs at a reject level the plant has agreed in advance."
+          ]
+        },
+        {
+          "heading": "LIHE retrofit services and the figures behind them",
+          "paragraphs": [
+            "LIHE Precision publishes this article and sells retrofit and lightweighting work itself, so its figures should be read as a supplier’s own statements rather than independent data. The points below are published on lihe-preform.com and are the ones that bear on a retrofit budget."
+          ],
+          "list": [
+            "Retrofit cost: LIHE states that lightweighting retrofits of existing molds cost 25%–40% of a new mold price and describes the payback period as short. The payback a particular plant achieves depends on its own resin price, volumes and downtime.",
+            "Weight reduction: LIHE’s lightweighting proposals reduce preform weight by 1 g to 2 g through neck or wall-thickness optimization.",
+            "Cooling: LIHE says a reworked cooling layout can cut the neck’s cooling time by as much as 0.5 seconds. Treat this as an upper bound and confirm the effect on your own tool during the trial.",
+            "Scope of work: complete mold overhauls, neck-finish conversions, rPET material trials and replacement parts made from customers’ existing Husky, SACMI or Otto parts.",
+            "Timing: replacement parts are published with a 4-week lead time. Agree separately how long the mold will be out of production, including trials and reinstallation."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Is the published retrofit ratio a fixed quotation?",
+          "answer": "No. It is LIHE’s published comparison for lightweighting retrofits. Confirm the existing mold’s condition, the retained assemblies and the equivalent new-tool scope before using it in a project evaluation."
+        },
+        {
+          "question": "Does every lightweighting project need new blow molds?",
+          "answer": "Not automatically. The preform, bottle design and machine interfaces determine what changes. The supplier must identify the affected injection tooling, blow tooling and format parts in the proposed scope."
+        },
+        {
+          "question": "Can a retrofit guarantee material savings?",
+          "answer": "Approve the actual package design and measure the weight change first. Production scrap, rejected bottles and handling performance also matter. A proposal range does not establish net savings for the plant."
+        },
+        {
+          "question": "When should I consider a new tool instead?",
+          "answer": "When the inspection and engineering review show that the retained assemblies cannot meet the required design or production conditions. Compare technically suitable routes with the same acceptance requirements."
+        }
+      ]
+    },
+    "ru": {
+      "category": "Технические статьи",
+      "title": "Сколько следует ожидать за переделку формы бутылки ПЭТ или проект облегчения?",
+      "summary": "Определите границы переделки, состояние сохраняемой оснастки и тесты упаковки до запроса цены облегчения и применения опубликованного сравнения.",
+      "heroAlt": "Иллюстрация стенда восстановления формы ПЭТ и разработки облегчения",
+      "detailAlt": "Иллюстрация заменяемых колец и стержней рядом с преформами и бутылками",
+      "sections": [
+        {
+          "heading": "Используйте опубликованное сравнение для определённой подходящей переделки",
+          "paragraphs": [
+            "Переделка формы — изменение существующей оснастки, а облегчение — изменение упаковки для снижения расхода материала с сохранением утверждённых требований. LIHE публикует стоимость переделки для облегчения в 25–40% цены новой формы, но точная цена проекта требует осмотра и предложения по конкретному объёму. Это не универсальная рыночная цена и не автоматическое правило для любой выдувной формы или конверсии преформы."
+          ]
+        },
+        {
+          "heading": "Разделите изменения внутри задания на облегчение",
+          "table": {
+            "head": [
+              "Элемент проекта",
+              "Граница оснастки",
+              "Что подтвердить"
+            ],
+            "rows": [
+              [
+                "Горловина преформы",
+                "Кольца и детали конверсии",
+                "Крышка и транспортирование"
+              ],
+              [
+                "Стенка преформы",
+                "Формующие детали и охлаждение",
+                "Литьё и свойства бутылки"
+              ],
+              [
+                "Корпус бутылки",
+                "Выдувная форма и форматные детали",
+                "Выдувная машина и последующий транспорт"
+              ],
+              [
+                "Горячеканальная система",
+                "Сохраняемые или заменяемые компоненты",
+                "Совместимость и стабильное литьё"
+              ],
+              [
+                "Восстановление",
+                "Изношенные детали и интерфейсы",
+                "Состояние сохраняемых узлов"
+              ],
+              [
+                "Комплексная упаковка",
+                "Преформа, бутылка и крышка",
+                "Контролируемые чертежи и приёмка"
+              ],
+              [
+                "Установка",
+                "Смена формы и связанное оборудование",
+                "Остановка и ответственные"
+              ],
+              [
+                "Квалификация",
+                "Испытания преформы и упаковки",
+                "Методы и утверждённые результаты"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Осмотрите существующий актив до расчёта объёма",
+          "list": [
+            "Передайте актуальные чертежи, историю обслуживания, известные изменения и характерные образцы. Определите дефект или изменение конструкции, вызвавшее проект. Снижение массы является другой задачей, чем устранение износа или восстановление нестабильного процесса, даже на одной форме.",
+            "Поставщик должен определить пригодные и заменяемые узлы. Учитывайте основание, формообразующие детали, контуры охлаждения и горячеканальную систему, если она затронута. Не предполагайте, что новые вкладыши устраняют любые проблемы сохраняемого оборудования.",
+            "Уточните, включает предложение литьевую оснастку преформы, выдувную оснастку бутылки или обе. Преформа определяет распределение материала при выдуве, но корпус двухступенчатой бутылки формируется отдельно. Название «облегчение бутылки» не определяет перечень поставки.",
+            "Согласуйте действия при обнаружении необходимости более широкой замены. В предложении нужно разделить подтверждённые работы и вопросы, зависящие от состояния оснастки. Это позволяет заводу оценить техническую и эксплуатационную пригодность переделки."
+          ]
+        },
+        {
+          "heading": "Оценивайте экономию по упаковке и производственным данным",
+          "list": [
+            "Рассматривайте опубликованное LIHE снижение массы как обсуждение объёма разработки, а не безусловное обещание для действующей бутылки. Цель должна сохранять требования к горловине, крышке и бутылке. Фиксируйте необходимые изменения выдува и транспортных деталей.",
+            "Считайте экономию сырья по утверждённому фактическому изменению массы и пригодному выпуску. Учитывайте расход, пусковой брак и отбракованные бутылки. Срок окупаемости здесь не рассчитан: затраты на сырьё, выпуск, простой и предложение проекта не предоставлены.",
+            "Сравнивайте технически подходящую переделку с подходящей новой формой при одинаковых требованиях к упаковке. Включите испытания, запасные части и запуск. Процентное сравнение начинает обсуждение, но не доказывает равенство состава неполных предложений.",
+            "LIHE предлагает восстановление форм, облегчение и конверсии линий. Это не устанавливает состояние вашего актива и не гарантирует готовую бутылку. Одобряйте проект по осмотру, согласованным чертежам и испытаниям упаковки до смены производственной оснастки."
+          ]
+        },
+        {
+          "heading": "Как читать предложение на переделку с учётом показателя 25–40%",
+          "list": [
+            "Опубликованный LIHE показатель: переделка существующей формы для облегчения стоит 25–40% цены новой формы. Используйте его как проверку правдоподобности предложения на переделку и только после того, как поставщик письменно подтвердит пригодность существующей формы к дальнейшему использованию.",
+            "Попросите показать в предложении на переделку сохраняемые и заменяемые детали в двух отдельных столбцах, например основание формы и горячий канал сохраняются, знаки и горловинные кольца новые. Без такого разделения процент невозможно соотнести с каким-либо физическим объёмом работ.",
+            "Запросите у того же поставщика справочное предложение на равноценную новую форму, изготовленную по тому же чертежу преформы и для той же машины. Соотношение имеет смысл только тогда, когда оба предложения описывают одну и ту же готовую преформу и одинаковые условия приёмки.",
+            "Выделите восстановление сохраняемых деталей отдельно от самого изменения для облегчения. Изношенные направляющие, протекающие контуры охлаждения или горячий канал, требующий обслуживания, добавляют затраты, которые относятся к техническому обслуживанию, а не к снижению массы, и планировать их нужно соответственно.",
+            "Перечислите затраты за пределами формы: пробное сырьё, доработку выдувных форм или форматных деталей, простой линии на время переналадки и повторную квалификацию бутылки. В процент от цены формы они не входят, но именно они определяют, окупится ли проект на самом деле."
+          ]
+        },
+        {
+          "heading": "Проверки материала и упаковки, которых требует облегчённая преформа",
+          "list": [
+            "Снижение массы преформы на 1–2 г оставляет меньше материала для вытяжки в ту же бутылку. Попросите конструктора бутылки подтвердить, что толщина стенки в плечах, на боковой поверхности и в донышке по-прежнему соответствует спецификации упаковки, до начала механической обработки.",
+            "Если проект одновременно вводит вторичный ПЭТ (rPET), проводите испытания облегчённой конструкции и нового сырья как отдельные этапы. При одновременном изменении обоих факторов невозможно определить, вызван ли последующий дефект геометрией или материалом.",
+            "Сушите сырьё по инструкции его производителя и фиксируйте номер партии для каждого пробного запуска. Более тонкие стенки могут сделать дефекты, связанные с влажностью или температурой, заметнее, поэтому храните журнал сушки вместе с образцами.",
+            "Если изменение затрагивает горловину, с самого начала привлекайте поставщика колпачков. Укороченная горловина или другой тип, например PCO 1881 или 29/25, должна по-прежнему обеспечивать герметичность и проходить проверки укупорки и момента затяжки с теми колпачками, которые завод действительно закупает.",
+            "Документация о пригодности для контакта с пищевыми продуктами и нормативная документация относятся к компетенции владельцев сырья и упаковки, а не изготовителя форм. Готовьте эти документы параллельно с работами по оснастке, чтобы они не задерживали переделку, которая в остальном уже прошла испытания."
+          ]
+        },
+        {
+          "heading": "Поэтапная приёмка переделанной формы",
+          "steps": [
+            "До снятия металла измерьте существующую форму и сохраните контрольные преформы с каждого гнезда. Эта исходная точка показывает, что именно изменила переделка, и защищает обе стороны, если у сохраняемых деталей позже появятся проблемы.",
+            "Письменно утвердите новый чертёж преформы и перечень изменяемых деталей. Отметьте, какие размеры должны измениться, а какие, например сопряжение горловины с колпачком, должны остаться такими же, как в исходном состоянии.",
+            "Запустите переделанную форму и зафиксируйте новую массу преформы по каждому гнезду в сравнении с исходными значениями. Принимайте снижение массы только тогда, когда оно стабильно по всем гнёздам, а не как среднее по всей форме.",
+            "Выдуйте облегчённые преформы на выдувной машине завода или равноценной машине и испытайте бутылки на соответствие спецификации упаковки. Сохраните бутылки, не прошедшие испытания: они показывают, где распределение материала требует дальнейшей корректировки.",
+            "После повторного монтажа проведите производственную партию, достаточную для оценки брака и простоев, и сравните результаты с исходной формой. Закрывайте проект переделки только тогда, когда облегчённая преформа выпускается с уровнем брака, заранее согласованным заводом."
+          ]
+        },
+        {
+          "heading": "Услуги LIHE по переделке и стоящие за ними показатели",
+          "paragraphs": [
+            "Эту статью публикует LIHE Precision, которая сама выполняет переделку и облегчение форм, поэтому её показатели следует рассматривать как заявления поставщика, а не как независимые данные. Приведённые ниже сведения опубликованы на lihe-preform.com и именно они влияют на бюджет переделки."
+          ],
+          "list": [
+            "Стоимость переделки: LIHE указывает, что переделка существующих форм для облегчения стоит 25–40% цены новой формы, и называет срок окупаемости коротким. Фактическая окупаемость для конкретного завода зависит от его цены на сырьё, объёмов и простоев.",
+            "Снижение массы: предложения LIHE по облегчению уменьшают массу преформы на 1–2 г за счёт оптимизации горловины или толщины стенки.",
+            "Охлаждение: оптимизированное охлаждение может сократить время охлаждения горловины до 0,5 секунды. Рассматривайте это как верхнюю границу и подтверждайте эффект на собственной форме во время испытаний.",
+            "Объём работ: полное восстановление форм, конверсии типа горловины, испытания материала rPET и запасные части, изготовленные на основе имеющихся у заказчика деталей Husky, SACMI или Otto.",
+            "Сроки: для запасных частей опубликован срок 4 недели. Отдельно согласуйте, сколько времени форма будет выведена из производства, включая испытания и повторный монтаж."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Опубликованный процент является фиксированным предложением?",
+          "answer": "Нет. Это сравнение LIHE для переделок облегчения. Перед использованием оцените состояние формы, сохраняемые узлы и сопоставимый состав новой оснастки."
+        },
+        {
+          "question": "Любое облегчение требует новых выдувных форм?",
+          "answer": "Не автоматически. Изменения определяют преформа, бутылка и интерфейсы машины. Поставщик должен указать затронутые литьевые и выдувные формы и форматные детали."
+        },
+        {
+          "question": "Переделка гарантирует экономию материала?",
+          "answer": "Сначала утвердите упаковку и измерьте изменение массы. Также важны производственный брак, отбракованные бутылки и транспортирование. Диапазон предложения не устанавливает чистую экономию завода."
+        },
+        {
+          "question": "Когда рассматривать новую форму?",
+          "answer": "Когда осмотр и инженерная оценка показывают, что сохраняемые узлы не обеспечат нужные конструкцию или условия. Сравнивайте подходящие маршруты с одинаковыми требованиями приёмки."
+        }
+      ]
+    },
+    "es": {
+      "category": "Artículos técnicos",
+      "title": "¿Cuánto debería pagar por una adaptación de moldes de botellas PET o un proyecto de aligeramiento?",
+      "summary": "Defina límites de adaptación, estado del molde conservado y pruebas de envase antes de pedir cotización y aplicar una comparación de coste publicada.",
+      "heroAlt": "Banco ilustrativo de reacondicionamiento y aligeramiento de moldes PET",
+      "detailAlt": "Anillos y núcleos ilustrativos junto a preformas y botellas",
+      "sections": [
+        {
+          "heading": "Aplique la comparación publicada a una adaptación definida",
+          "paragraphs": [
+            "Una adaptación de molde modifica herramientas existentes, mientras que el aligeramiento cambia el diseño del envase para reducir material manteniendo las prestaciones aprobadas. LIHE publica que las adaptaciones de aligeramiento cuestan entre el 25% y el 40% de un molde nuevo, pero el precio exacto de su proyecto requiere inspección y cotización específica. Esa proporción no es un precio universal ni se aplica automáticamente a todo molde de soplado o conversión de preformas."
+          ]
+        },
+        {
+          "heading": "Separe los cambios dentro de una solicitud de aligeramiento",
+          "table": {
+            "head": [
+              "Elemento",
+              "Límite posible del molde",
+              "Qué confirmar"
+            ],
+            "rows": [
+              [
+                "Cuello de preforma",
+                "Anillos y piezas relacionadas",
+                "Ajuste del cierre y manipulación"
+              ],
+              [
+                "Pared de preforma",
+                "Componentes y refrigeración",
+                "Inyección y comportamiento de botella"
+              ],
+              [
+                "Cuerpo de botella",
+                "Molde de soplado y posibles piezas de formato",
+                "Ajuste a sopladora y transporte posterior"
+              ],
+              [
+                "Canal caliente",
+                "Componentes conservados o sustituidos",
+                "Compatibilidad y proceso estable"
+              ],
+              [
+                "Reacondicionamiento",
+                "Piezas gastadas e interfaces",
+                "Estado de los conjuntos conservados"
+              ],
+              [
+                "Envase combinado",
+                "Preforma, botella y cierre",
+                "Planos controlados y aceptación"
+              ],
+              [
+                "Instalación",
+                "Cambio de molde y equipos relacionados",
+                "Parada y responsables"
+              ],
+              [
+                "Cualificación",
+                "Ensayos de preforma y envase",
+                "Métodos y evidencia aprobada"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Inspeccione el activo antes de calcular el alcance",
+          "list": [
+            "Aporte planos actuales, historial de mantenimiento, modificaciones conocidas y muestras representativas. Identifique el defecto o cambio que origina el proyecto. Adaptar para reducir peso es distinto de reparar desgaste o restaurar un proceso inestable, aunque se trate del mismo molde.",
+            "Pida al proveedor que identifique conjuntos reutilizables y conjuntos que deben cambiar. Incluya base, componentes de conformación, refrigeración y canal caliente cuando corresponda. No suponga que un juego nuevo de insertos corrige todos los problemas del equipo conservado.",
+            "Aclare si la oferta cubre moldes de inyección de preformas, moldes de soplado o ambos. La preforma determina la distribución durante el soplado, pero el cuerpo se forma en otro molde en una línea de dos etapas. El nombre “aligeramiento de botella” no identifica la lista real de suministro.",
+            "Acuerde qué ocurrirá si la inspección revela una sustitución más amplia. Separe los trabajos confirmados de las partidas pendientes según el estado del molde, para que la planta pueda decidir si la adaptación sigue siendo técnica y operativamente adecuada."
+          ]
+        },
+        {
+          "heading": "Evalúe el ahorro con pruebas del envase y producción",
+          "list": [
+            "Utilice las propuestas publicadas de reducción de peso de LIHE para discutir el alcance de diseño, no como promesa incondicional para la botella actual. El objetivo debe conservar prestaciones de cuello, cierre y botella. Registre los cambios de soplado y manipulación necesarios.",
+            "Base el ahorro en el cambio real aprobado de peso y el volumen aceptado. Mantenga visibles consumo de resina, desperdicio de arranque y rechazos. Aquí no se calcula un plazo de recuperación porque no se han aportado costes de resina, producción, paradas ni cotización del proyecto.",
+            "Compare una adaptación técnicamente adecuada con un molde nuevo adecuado bajo los mismos requisitos. Incluya pruebas, repuestos y puesta en marcha. El porcentaje publicado inicia una conversación, pero no establece un alcance equivalente entre dos ofertas incompletas.",
+            "LIHE ofrece reacondicionamiento, aligeramiento y conversiones de línea. Eso no establece el estado del activo existente ni garantiza la botella final. Apruebe el proyecto según inspección, planos acordados y ensayos del envase antes de cambiar el molde productivo."
+          ]
+        },
+        {
+          "heading": "Cómo leer una oferta de adaptación frente a la cifra del 25%–40%",
+          "list": [
+            "La cifra publicada por LIHE es que adaptar un molde existente para aligeramiento cuesta entre el 25% y el 40% del precio de un molde nuevo. Úsela como comprobación de verosimilitud de una oferta de adaptación, y solo después de que el proveedor haya confirmado por escrito que el molde existente puede reutilizarse.",
+            "Pida que la oferta de adaptación muestre en dos columnas separadas las piezas que se conservan y las que se sustituyen, por ejemplo base del molde y canal caliente conservados, machos y anillos de cuello nuevos. Sin esa separación, el porcentaje no puede relacionarse con ningún alcance físico.",
+            "Solicite al mismo proveedor una oferta de referencia para el molde nuevo equivalente, fabricado con el mismo plano de preforma y para la misma máquina. La proporción solo tiene sentido cuando ambas ofertas describen la misma preforma terminada y las mismas condiciones de aceptación.",
+            "Presente el reacondicionamiento de las piezas conservadas por separado del cambio de aligeramiento. Guías desgastadas, circuitos de refrigeración con fugas o un canal caliente que necesita servicio añaden un coste que corresponde al mantenimiento y no a la reducción de peso, y deben presupuestarse como tal.",
+            "Enumere los costes que quedan fuera del molde: resina de prueba, ajustes de moldes de soplado o piezas de formato, parada de la línea durante el cambio y recualificación de la botella. No aparecen en el porcentaje del molde, pero deciden si el proyecto se amortiza realmente."
+          ]
+        },
+        {
+          "heading": "Comprobaciones de material y envase que exige una preforma más ligera",
+          "list": [
+            "Quitar entre 1 g y 2 g a una preforma deja menos material para estirar en la misma botella. Pida al diseñador de la botella que confirme que el espesor de pared en el hombro, el cuerpo y la base sigue cumpliendo la especificación del envase antes de mecanizar el acero.",
+            "Si el proyecto introduce además PET reciclado (rPET), pruebe el diseño aligerado y la nueva resina en etapas separadas. Cambiar ambos a la vez impide saber si un defecto posterior se debe a la geometría o al material.",
+            "Seque la resina según las instrucciones de su fabricante y anote el número de lote de cada prueba. Las paredes más delgadas pueden hacer más visibles los defectos relacionados con la humedad o la temperatura, así que guarde el registro de secado junto con las muestras.",
+            "Cuando el cuello forma parte del cambio, involucre desde el principio al proveedor de tapas. Un cuello más corto o un acabado distinto, como PCO 1881 o 29/25, debe seguir sellando y superar las pruebas de taponado y par de apriete con las tapas que la planta compra realmente.",
+            "La documentación de contacto alimentario y la normativa corresponden a los responsables de la resina y del envase, no al fabricante del molde. Prepare esa documentación en paralelo al trabajo de utillaje para que no retrase una adaptación que ya ha superado sus pruebas."
+          ]
+        },
+        {
+          "heading": "Aceptar un molde adaptado por etapas",
+          "steps": [
+            "Antes de retirar material, mida el molde existente y guarde preformas de referencia de cada cavidad. Esta línea base muestra exactamente qué cambió la adaptación y protege a ambas partes si las piezas conservadas presentan problemas más adelante.",
+            "Apruebe por escrito el nuevo plano de la preforma y la lista de piezas que se modificarán. Señale qué dimensiones deben cambiar y cuáles, como la interfaz del cuello con la tapa, deben permanecer idénticas a la línea base.",
+            "Ponga en marcha el molde adaptado y registre el nuevo peso de la preforma por cavidad frente a los valores de referencia. Acepte la reducción de peso solo cuando sea uniforme en todas las cavidades, no como una media de todo el molde.",
+            "Sople las preformas aligeradas en la sopladora de la planta, o en una máquina equivalente, y ensaye las botellas según la especificación del envase. Conserve las botellas que fallen; indican dónde la distribución del material necesita más ajuste.",
+            "Tras la reinstalación, produzca un lote lo bastante largo para conocer las tasas de desperdicio y de paradas, y compárelas con el molde de referencia. Cierre la adaptación solo cuando la preforma aligerada funcione con un nivel de rechazo acordado previamente por la planta."
+          ]
+        },
+        {
+          "heading": "Servicios de adaptación de LIHE y las cifras que los respaldan",
+          "paragraphs": [
+            "LIHE Precision publica este artículo y vende ella misma trabajos de adaptación y aligeramiento, por lo que sus cifras deben leerse como declaraciones del propio proveedor y no como datos independientes. Los puntos siguientes están publicados en lihe-preform.com y son los que afectan a un presupuesto de adaptación."
+          ],
+          "list": [
+            "Coste de adaptación: LIHE indica que adaptar moldes existentes para aligeramiento cuesta entre el 25% y el 40% del precio de un molde nuevo, y describe el plazo de amortización como corto. La amortización que logre una planta concreta depende de su precio de resina, sus volúmenes y sus paradas.",
+            "Reducción de peso: las propuestas de aligeramiento de LIHE reducen el peso de la preforma entre 1 g y 2 g mediante la optimización del cuello o del espesor de pared.",
+            "Refrigeración: según LIHE, un circuito de refrigeración rediseñado puede reducir hasta 0,5 segundos el enfriamiento del cuello. Considérelo un límite superior y confirme el efecto en su propio molde durante la prueba.",
+            "Alcance del trabajo: reacondicionamiento completo de moldes, conversiones de acabado de cuello, pruebas con material rPET y piezas de repuesto fabricadas a partir de piezas Husky, SACMI u Otto que ya tiene el cliente.",
+            "Plazos: las piezas de repuesto se publican con un plazo de 4 semanas. Acuerde por separado cuánto tiempo estará el molde fuera de producción, incluidas las pruebas y la reinstalación."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿La proporción publicada es una cotización fija?",
+          "answer": "No. Es la comparación de LIHE para adaptaciones de aligeramiento. Confirme estado, conjuntos conservados y alcance equivalente de molde nuevo antes de utilizarla en la evaluación."
+        },
+        {
+          "question": "¿Todo aligeramiento necesita moldes de soplado nuevos?",
+          "answer": "No automáticamente. Lo determinan preforma, diseño e interfaces. El proveedor debe identificar los moldes de inyección, soplado y piezas de formato afectados."
+        },
+        {
+          "question": "¿Una adaptación garantiza ahorro de material?",
+          "answer": "Apruebe el diseño y mida el cambio real de peso primero. Importan también desperdicios, rechazos y manipulación. Un rango de propuestas no establece el ahorro neto de la fábrica."
+        },
+        {
+          "question": "¿Cuándo considerar un molde nuevo?",
+          "answer": "Cuando inspección e ingeniería indiquen que los conjuntos conservados no cumplen el diseño o las condiciones requeridas. Compare opciones viables con los mismos requisitos de aceptación."
+        }
+      ]
+    }
+  }
+}
