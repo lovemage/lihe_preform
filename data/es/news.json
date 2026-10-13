@@ -24,6 +24,7 @@
         {
           "heading": "Respuesta corta: ¿cómo se compara LIHE con los proveedores OEM?",
           "paragraphs": [
+            "Un proveedor OEM es una empresa que suministra utillaje para las máquinas que fabrica ella misma.",
             "LIHE es un fabricante independiente de utillaje que suministra moldes de tapas, moldes de soplado y modernizaciones para varias marcas de máquinas, mientras que proveedores OEM como Husky, SACMI, SIPA y Sidel diseñan el utillaje en torno a sus propias máquinas y publican tecnologías propias y programas de servicio. LIHE publica plazos concretos (4 semanas para piezas de moldes de tapas, 8 semanas para moldes PET estándar) y un costo de modernización del 25%–40% del precio de un molde nuevo; los OEM publican cifras de su plataforma, como el objetivo de Husky HyCAP 4.0 de más de 50 millones de ciclos de vida del conjunto de moldeo. Ninguna de las partes publica precios en las páginas citadas.",
             "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) es un fabricante de moldes de preforma PET, moldes de soplado, moldes de tapas y de compresión, sistemas de canal caliente y componentes de molde para la industria de bebidas y envases, con fabricación en Foshan, China.",
             "Aviso: este artículo está publicado por LIHE. La información de los OEM procede solo de las páginas oficiales indicadas en las referencias. LIHE no tiene relación con ninguno de los fabricantes de máquinas mencionados."
@@ -919,6 +920,7 @@
         {
           "heading": "El principal riesgo es perder la referencia técnica aprobada",
           "paragraphs": [
+            "Un cambio de proveedor a mitad de proyecto es un cambio de fabricante de moldes cuando el diseño, el acero o las pruebas ya han comenzado.",
             "Un traspaso de proveedor transfiere un alcance de moldes definido y su información técnica aprobada a otro fabricante. Los principales riesgos son revisiones incompatibles, interfaces incompletas, pérdida de pruebas, responsabilidades poco claras y calendarios basados en supuestos. El cambio puede gestionarse, pero el nuevo proveedor debe cualificar el trabajo pendiente real en lugar de tratarlo como un pedido repetido sin cambios."
           ]
         },
@@ -1087,6 +1089,7 @@
         {
           "heading": "Aplique la comparación publicada a una adaptación definida",
           "paragraphs": [
+            "La modernización de un molde es una reconstrucción de un molde existente en la que se sustituyen o modifican piezas concretas en lugar de comprar una herramienta nueva.",
             "Una adaptación de molde modifica herramientas existentes, mientras que el aligeramiento cambia el diseño del envase para reducir material manteniendo las prestaciones aprobadas. LIHE publica que las adaptaciones de aligeramiento cuestan entre el 25% y el 40% de un molde nuevo, pero el precio exacto de su proyecto requiere inspección y cotización específica. Esa proporción no es un precio universal ni se aplica automáticamente a todo molde de soplado o conversión de preformas."
           ]
         },
@@ -1853,7 +1856,8 @@
             "Referencia de defectos: tasas de defectos operativos de tan solo 0,0064% en el utillaje de LIHE.",
             "Durabilidad: construidos para soportar hasta 8 millones de ciclos en plataformas Husky, SACMI y Netstal; los moldes antiguos cerca de ese nivel o por encima necesitan una auditoría de desgaste.",
             "Refrigeración: una refrigeración optimizada puede reducir el enfriamiento del cuello hasta 0,5 s.",
-            "Plazo de piezas de repuesto: 4 semanas, así que pida las piezas de desgaste antes de que fallen."
+            "Plazo de piezas de repuesto: 4 semanas, así que pida las piezas de desgaste antes de que fallen.",
+            "Cifras de referencia de LIHE: repuestos en 4 semanas, refrigeración optimizada que reduce el enfriamiento del cuello hasta 0,5 segundos y canales calientes de válvula para hasta 144 cavidades."
           ]
         },
         {
@@ -4116,6 +4120,7 @@
         {
           "heading": "¿Qué es el moldeo por compresión de tapas?",
           "paragraphs": [
+            "El moldeo por compresión es un proceso en el que una dosis medida de plástico fundido se conforma a presión dentro de la cavidad del molde.",
             "En el moldeo por compresión, cada cavidad recibe una dosis de resina fundida de peso exacto que se conforma en tapa a alta presión. El proceso se realiza en máquinas de moldeo por compresión continua, como las líneas SACMI CCM.",
             "En el moldeo por inyección, el material fundido llena todas las cavidades a través de un sistema de alimentación. En moldes de tapas multicavidad, un canal caliente mantiene la temperatura del material y equilibra el llenado de todas las cavidades."
           ]
@@ -4206,7 +4211,7 @@
           ]
         },
         {
-          "heading": "Cuellos y aplicaciones",
+          "heading": "Cuellos de botella y aplicaciones en bebidas",
           "list": [
             "Cuellos: 26 mm, 28 mm, 2925, 3025, 38 mm y especificaciones a medida.",
             "Aplicaciones: agua, jugos y bebidas de té, aceite comestible, condimentos y salsa de soja, cosméticos, productos de salud, farmacéuticos y envases alimentarios.",
@@ -4242,7 +4247,7 @@
           ]
         },
         {
-          "heading": "Cómo decidir",
+          "heading": "Cómo elegir el molde de tapas para su línea de bebidas",
           "steps": [
             "Parta de sus máquinas: el herramental de compresión se fabrica para líneas SACMI CCM y los moldes de inyección para inyectoras de tapas.",
             "Evalúe volumen y costo energético: las líneas de alto volumen son las que más aprovechan los ciclos cortos y el menor consumo por tapa de la compresión.",
@@ -4343,6 +4348,7 @@
         {
           "heading": "¿Qué diferencia hay entre un molde de soplado para llenado en caliente y uno para llenado en frío?",
           "paragraphs": [
+            "El llenado en caliente es un método de envasado en el que la bebida entra en la botella PET a unos 85–95 °C.",
             "Un molde para llenado en frío produce botellas PET que se llenan a temperatura ambiente, como agua sin gas, bebidas carbonatadas (CSD), jugos y lácteos. Un molde para llenado en caliente (heat-set) produce botellas que se llenan en caliente, a unos 85–95°C, para productos como jugos, bebidas de té e isotónicas.",
             "La diferencia es importante porque una botella PET estándar empieza a deformarse por encima de unos 60°C. Un molde para llenado en caliente usa paredes calefactadas que cristalizan y estabilizan la botella durante el soplado, de modo que conserva su forma al recibir el producto caliente."
           ]

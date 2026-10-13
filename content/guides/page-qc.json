@@ -2,11 +2,26 @@
   "key": "page-qc",
   "updated": "2026-10-13",
   "sources": [
-    { "label": "Wikipedia — Coordinate-measuring machine", "url": "https://en.wikipedia.org/wiki/Coordinate-measuring_machine" },
-    { "label": "Wikipedia — First article inspection", "url": "https://en.wikipedia.org/wiki/First_article_inspection" },
-    { "label": "Wikipedia — Optical comparator", "url": "https://en.wikipedia.org/wiki/Optical_comparator" },
-    { "label": "Wikipedia — Process capability index", "url": "https://en.wikipedia.org/wiki/Process_capability_index" },
-    { "label": "Wikipedia — Measurement system analysis", "url": "https://en.wikipedia.org/wiki/Measurement_system_analysis" }
+    {
+      "label": "Wikipedia — Coordinate-measuring machine",
+      "url": "https://en.wikipedia.org/wiki/Coordinate-measuring_machine"
+    },
+    {
+      "label": "Wikipedia — First article inspection",
+      "url": "https://en.wikipedia.org/wiki/First_article_inspection"
+    },
+    {
+      "label": "Wikipedia — Optical comparator",
+      "url": "https://en.wikipedia.org/wiki/Optical_comparator"
+    },
+    {
+      "label": "Wikipedia — Process capability index",
+      "url": "https://en.wikipedia.org/wiki/Process_capability_index"
+    },
+    {
+      "label": "Wikipedia — Measurement system analysis",
+      "url": "https://en.wikipedia.org/wiki/Measurement_system_analysis"
+    }
   ],
   "locales": {
     "en": {
@@ -22,7 +37,8 @@
             "Incoming material: is the steel the right grade and condition before machining starts?",
             "Machined components: does each core, cavity, neck ring and insert match the drawing?",
             "Assembly: do the parts fit together, align and interchange across all cavities?",
-            "Sample parts: do the preforms or bottles the mold produces meet the product specification?"
+            "Sample parts: do the preforms or bottles the mold produces meet the product specification?",
+            "Reference figures: tooling capability of CPK ≥ 1.33, defect rates as low as 0.0064%, mold bases for preform molds up to 160 cavities and replacement parts in 4 weeks."
           ]
         },
         {
@@ -78,13 +94,43 @@
         {
           "heading": "Inspection stages compared",
           "table": {
-            "head": ["Stage", "What is measured", "Typical instrument", "Record produced"],
+            "head": [
+              "Stage",
+              "What is measured",
+              "Typical instrument",
+              "Record produced"
+            ],
             "rows": [
-              ["Incoming steel", "Grade, hardness, blank size", "Certificate review, hardness tester, gauges", "Material record per batch"],
-              ["Machined components", "Diameters, lengths, concentricity, profiles, positions", "Zeiss CMM, optical projector, 3D profile scanner", "Dimensional report per part"],
-              ["Assembly", "Fit, alignment, interchangeability, cooling circuits", "Assembly checks, CMM for critical features", "Assembly checklist"],
-              ["Sample preforms", "Weight, wall thickness, neck finish, length", "Bottle and preform sample inspection", "Sample inspection report"],
-              ["Sample bottles", "Dimensions, wall distribution, capacity", "Bottle sample inspection, 3D profile scanner", "Sample inspection report"]
+              [
+                "Incoming steel",
+                "Grade, hardness, blank size",
+                "Certificate review, hardness tester, gauges",
+                "Material record per batch"
+              ],
+              [
+                "Machined components",
+                "Diameters, lengths, concentricity, profiles, positions",
+                "Zeiss CMM, optical projector, 3D profile scanner",
+                "Dimensional report per part"
+              ],
+              [
+                "Assembly",
+                "Fit, alignment, interchangeability, cooling circuits",
+                "Assembly checks, CMM for critical features",
+                "Assembly checklist"
+              ],
+              [
+                "Sample preforms",
+                "Weight, wall thickness, neck finish, length",
+                "Bottle and preform sample inspection",
+                "Sample inspection report"
+              ],
+              [
+                "Sample bottles",
+                "Dimensions, wall distribution, capacity",
+                "Bottle sample inspection, 3D profile scanner",
+                "Sample inspection report"
+              ]
             ]
           }
         },
@@ -136,7 +182,7 @@
     },
     "ru": {
       "heading": "Процесс контроля качества пресс-форм для ПЭТ-преформ: проверки от стали до образцов преформ и бутылок",
-      "intro": "Процесс контроля пресс-формы — это последовательность измерений, которые изготовитель выполняет от сырья до готовой формы, чтобы каждый этап проверялся до того, как следующий добавит затраты. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) — производитель пресс-форм для ПЭТ-преформ, выдувных форм, форм для колпачков и компрессионных форм, горячеканальных систем и комплектующих для производства напитков и упаковки, с производством в Фошане, Китай. В этом руководстве описано, что измеряется на каждом этапе — входящая сталь, обработанные детали, сборка и образцы преформ или бутылок, — и что должен содержать протокол контроля.",
+      "intro": "Процесс контроля пресс-формы — это последовательность измерений, которые изготовитель выполняет от сырья до готовой формы, чтобы каждый этап проверялся до того, как следующий добавит затраты. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) — это производитель пресс-форм для ПЭТ-преформ, выдувных форм, форм для колпачков и компрессионных форм, горячеканальных систем и комплектующих для производства напитков и упаковки, с производством в Фошане, Китай. В этом руководстве описано, что измеряется на каждом этапе — входящая сталь, обработанные детали, сборка и образцы преформ или бутылок, — и что должен содержать протокол контроля.",
       "sections": [
         {
           "heading": "Что включает процесс контроля пресс-формы ПЭТ",
@@ -147,7 +193,8 @@
             "Входящий материал: правильная ли марка и состояние стали до начала обработки?",
             "Обработанные детали: соответствует ли каждый пуансон, матрица, горловое кольцо и вставка чертежу?",
             "Сборка: сопрягаются ли детали, совпадают ли оси и взаимозаменяемы ли они во всех гнёздах?",
-            "Образцы изделий: соответствуют ли преформы или бутылки, выпущенные формой, спецификации продукта?"
+            "Образцы изделий: соответствуют ли преформы или бутылки, выпущенные формой, спецификации продукта?",
+            "Ориентиры: воспроизводимость оснастки CPK ≥ 1,33, уровень брака до 0,0064%, плиты для пресс-форм преформ до 160 гнёзд и запасные части за 4 недели."
           ]
         },
         {
@@ -203,13 +250,43 @@
         {
           "heading": "Сравнение этапов контроля",
           "table": {
-            "head": ["Этап", "Что измеряется", "Типичный прибор", "Создаваемая запись"],
+            "head": [
+              "Этап",
+              "Что измеряется",
+              "Типичный прибор",
+              "Создаваемая запись"
+            ],
             "rows": [
-              ["Входящая сталь", "Марка, твёрдость, размер заготовки", "Проверка сертификата, твердомер, калибры", "Запись о материале по партии"],
-              ["Обработанные детали", "Диаметры, длины, соосность, профили, положения", "КИМ Zeiss, оптический проектор, 3D-сканер профиля", "Размерный протокол на деталь"],
-              ["Сборка", "Посадки, центрирование, взаимозаменяемость, охлаждение", "Сборочные проверки, КИМ для критичных элементов", "Контрольный лист сборки"],
-              ["Образцы преформ", "Масса, толщина стенки, горловина, длина", "Контроль образцов преформ и бутылок", "Протокол контроля образцов"],
-              ["Образцы бутылок", "Размеры, распределение стенки, объём", "Контроль образцов бутылок, 3D-сканер профиля", "Протокол контроля образцов"]
+              [
+                "Входящая сталь",
+                "Марка, твёрдость, размер заготовки",
+                "Проверка сертификата, твердомер, калибры",
+                "Запись о материале по партии"
+              ],
+              [
+                "Обработанные детали",
+                "Диаметры, длины, соосность, профили, положения",
+                "КИМ Zeiss, оптический проектор, 3D-сканер профиля",
+                "Размерный протокол на деталь"
+              ],
+              [
+                "Сборка",
+                "Посадки, центрирование, взаимозаменяемость, охлаждение",
+                "Сборочные проверки, КИМ для критичных элементов",
+                "Контрольный лист сборки"
+              ],
+              [
+                "Образцы преформ",
+                "Масса, толщина стенки, горловина, длина",
+                "Контроль образцов преформ и бутылок",
+                "Протокол контроля образцов"
+              ],
+              [
+                "Образцы бутылок",
+                "Размеры, распределение стенки, объём",
+                "Контроль образцов бутылок, 3D-сканер профиля",
+                "Протокол контроля образцов"
+              ]
             ]
           }
         },
@@ -272,7 +349,8 @@
             "Material de entrada: ¿es el acero del grado y estado correctos antes de empezar a mecanizar?",
             "Componentes mecanizados: ¿coincide cada macho, cavidad, anillo de cuello e inserto con el plano?",
             "Montaje: ¿encajan las piezas, se alinean y son intercambiables entre todas las cavidades?",
-            "Piezas de muestra: ¿cumplen las preformas o botellas producidas por el molde la especificación del producto?"
+            "Piezas de muestra: ¿cumplen las preformas o botellas producidas por el molde la especificación del producto?",
+            "Cifras de referencia: capacidad del utillaje CPK ≥ 1,33, tasas de defectos de apenas 0,0064%, bases de molde para moldes de preforma de hasta 160 cavidades y repuestos en 4 semanas."
           ]
         },
         {
@@ -328,13 +406,43 @@
         {
           "heading": "Comparación de las etapas de inspección",
           "table": {
-            "head": ["Etapa", "Qué se mide", "Instrumento habitual", "Registro generado"],
+            "head": [
+              "Etapa",
+              "Qué se mide",
+              "Instrumento habitual",
+              "Registro generado"
+            ],
             "rows": [
-              ["Acero de entrada", "Grado, dureza, tamaño del bloque", "Revisión de certificado, durómetro, calibres", "Registro de material por lote"],
-              ["Componentes mecanizados", "Diámetros, longitudes, concentricidad, perfiles, posiciones", "CMM Zeiss, proyector óptico, escáner de perfil 3D", "Informe dimensional por pieza"],
-              ["Montaje", "Ajuste, alineación, intercambiabilidad, refrigeración", "Comprobaciones de montaje, CMM para cotas críticas", "Lista de verificación de montaje"],
-              ["Muestras de preformas", "Peso, espesor de pared, cuello, longitud", "Inspección de muestras de preformas y botellas", "Informe de inspección de muestras"],
-              ["Muestras de botellas", "Dimensiones, distribución de pared, capacidad", "Inspección de muestras de botellas, escáner de perfil 3D", "Informe de inspección de muestras"]
+              [
+                "Acero de entrada",
+                "Grado, dureza, tamaño del bloque",
+                "Revisión de certificado, durómetro, calibres",
+                "Registro de material por lote"
+              ],
+              [
+                "Componentes mecanizados",
+                "Diámetros, longitudes, concentricidad, perfiles, posiciones",
+                "CMM Zeiss, proyector óptico, escáner de perfil 3D",
+                "Informe dimensional por pieza"
+              ],
+              [
+                "Montaje",
+                "Ajuste, alineación, intercambiabilidad, refrigeración",
+                "Comprobaciones de montaje, CMM para cotas críticas",
+                "Lista de verificación de montaje"
+              ],
+              [
+                "Muestras de preformas",
+                "Peso, espesor de pared, cuello, longitud",
+                "Inspección de muestras de preformas y botellas",
+                "Informe de inspección de muestras"
+              ],
+              [
+                "Muestras de botellas",
+                "Dimensiones, distribución de pared, capacidad",
+                "Inspección de muestras de botellas, escáner de perfil 3D",
+                "Informe de inspección de muestras"
+              ]
             ]
           }
         },

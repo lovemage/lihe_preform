@@ -49,6 +49,7 @@
         {
           "heading": "What is compression molding for closures?",
           "paragraphs": [
+            "Compression molding is a process in which a measured dose of molten plastic is pressed into shape inside the mold cavity.",
             "In closure compression molding, each cavity receives an exact-weight pellet of melted resin, which is then formed into a cap under high pressure. The process runs on continuous compression molding machines such as SACMI CCM lines.",
             "Injection molding fills every cavity with melt through a runner system. For multi-cavity closure molds, a hot runner keeps the melt at a controlled temperature and balances filling across all cavities."
           ]
@@ -235,6 +236,7 @@
         {
           "heading": "Что такое компрессионное формование колпачков?",
           "paragraphs": [
+            "Компрессионное формование — это процесс, при котором отмеренная доза расплава формуется под давлением в гнезде формы.",
             "При компрессионном формовании в каждое гнездо подаётся доза расплава точного веса, которая формуется в колпачок под высоким давлением. Процесс идёт на машинах непрерывного компрессионного формования, например на линиях SACMI CCM.",
             "При литье под давлением расплав заполняет все гнёзда через литниковую систему. В многогнёздных формах для колпачков горячеканальная система поддерживает заданную температуру расплава и балансирует заполнение всех гнёзд."
           ]
@@ -277,7 +279,7 @@
           ]
         },
         {
-          "heading": "Сравнение компрессионных и литьевых форм для колпачков",
+          "heading": "Сравнение компрессионных и литьевых пресс-форм для колпачков бутылок напитков",
           "table": {
             "head": [
               "",
@@ -361,7 +363,7 @@
           ]
         },
         {
-          "heading": "Как сделать выбор",
+          "heading": "Как выбрать пресс-форму для колпачков на линии напитков",
           "steps": [
             "Начните с оборудования: компрессионная оснастка делается для линий SACMI CCM, литьевые формы — для термопластавтоматов для колпачков.",
             "Оцените объёмы и стоимость энергии: высокопроизводительные линии больше всего выигрывают от короткого цикла и меньшего энергопотребления компрессионного формования.",
@@ -421,6 +423,7 @@
         {
           "heading": "¿Qué es el moldeo por compresión de tapas?",
           "paragraphs": [
+            "El moldeo por compresión es un proceso en el que una dosis medida de plástico fundido se conforma a presión dentro de la cavidad del molde.",
             "En el moldeo por compresión, cada cavidad recibe una dosis de resina fundida de peso exacto que se conforma en tapa a alta presión. El proceso se realiza en máquinas de moldeo por compresión continua, como las líneas SACMI CCM.",
             "En el moldeo por inyección, el material fundido llena todas las cavidades a través de un sistema de alimentación. En moldes de tapas multicavidad, un canal caliente mantiene la temperatura del material y equilibra el llenado de todas las cavidades."
           ]
@@ -511,7 +514,7 @@
           ]
         },
         {
-          "heading": "Cuellos y aplicaciones",
+          "heading": "Cuellos de botella y aplicaciones en bebidas",
           "list": [
             "Cuellos: 26 mm, 28 mm, 2925, 3025, 38 mm y especificaciones a medida.",
             "Aplicaciones: agua, jugos y bebidas de té, aceite comestible, condimentos y salsa de soja, cosméticos, productos de salud, farmacéuticos y envases alimentarios.",
@@ -547,7 +550,7 @@
           ]
         },
         {
-          "heading": "Cómo decidir",
+          "heading": "Cómo elegir el molde de tapas para su línea de bebidas",
           "steps": [
             "Parta de sus máquinas: el herramental de compresión se fabrica para líneas SACMI CCM y los moldes de inyección para inyectoras de tapas.",
             "Evalúe volumen y costo energético: las líneas de alto volumen son las que más aprovechan los ciclos cortos y el menor consumo por tapa de la compresión.",

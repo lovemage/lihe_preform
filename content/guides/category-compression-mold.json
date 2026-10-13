@@ -2,16 +2,34 @@
   "key": "category-compression-mold",
   "updated": "2026-10-13",
   "sources": [
-    { "label": "Wikipedia — Compression molding", "url": "https://en.wikipedia.org/wiki/Compression_molding" },
-    { "label": "SACMI — Systems for caps, closures, preforms and containers (CCM continuous compression molders)", "url": "https://www.sacmi.com/en-US/closures-preforms-containers" },
-    { "label": "SACMI — Compression molding", "url": "https://www.sacmi.com/en-US/closures-preforms-containers/Compression-Molding" },
-    { "label": "Wikipedia — Extrusion", "url": "https://en.wikipedia.org/wiki/Extrusion" },
-    { "label": "Wikipedia — Bottle cap", "url": "https://en.wikipedia.org/wiki/Bottle_cap" },
-    { "label": "Wikipedia — High-density polyethylene", "url": "https://en.wikipedia.org/wiki/High-density_polyethylene" }
+    {
+      "label": "Wikipedia — Compression molding",
+      "url": "https://en.wikipedia.org/wiki/Compression_molding"
+    },
+    {
+      "label": "SACMI — Systems for caps, closures, preforms and containers (CCM continuous compression molders)",
+      "url": "https://www.sacmi.com/en-US/closures-preforms-containers"
+    },
+    {
+      "label": "SACMI — Compression molding",
+      "url": "https://www.sacmi.com/en-US/closures-preforms-containers/Compression-Molding"
+    },
+    {
+      "label": "Wikipedia — Extrusion",
+      "url": "https://en.wikipedia.org/wiki/Extrusion"
+    },
+    {
+      "label": "Wikipedia — Bottle cap",
+      "url": "https://en.wikipedia.org/wiki/Bottle_cap"
+    },
+    {
+      "label": "Wikipedia — High-density polyethylene",
+      "url": "https://en.wikipedia.org/wiki/High-density_polyethylene"
+    }
   ],
   "locales": {
     "en": {
-      "heading": "Continuous compression molding for caps: how a SACMI CCM line works and how to plan the tooling",
+      "heading": "Compression molds for caps on beverage bottle lines: how a SACMI CCM line works and how to plan replacement tooling",
       "intro": "Continuous compression molding (CCM) is a cap-making process in which an extruder supplies a steady stream of molten plastic that is cut into single doses, dropped into open molds on a rotating carousel and pressed into finished closures. This page explains the process step by step, where it fits in a closure plant, which tooling a CCM line needs and how to plan a compression tooling project. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China.",
       "sections": [
         {
@@ -50,14 +68,42 @@
             "On a CCM machine the term mold usually means one tooling station on the carousel. Each station is a set of parts that work together, and the whole carousel must be equipped with identical sets."
           ],
           "table": {
-            "head": ["Tooling item", "Function in the CCM process", "What a buyer should specify"],
+            "head": [
+              "Tooling item",
+              "Function in the CCM process",
+              "What a buyer should specify"
+            ],
             "rows": [
-              ["Punch and core", "Forms the inside of the cap: thread, sealing features and band area", "Cap drawing, neck finish, thread and seal geometry"],
-              ["Die (cavity)", "Receives the dose and forms the outside of the cap: top panel and skirt", "Outer cap dimensions, knurling, top panel finish"],
-              ["Cooling inserts", "Carry cooling water close to the forming surfaces", "Cooling layout of the existing machine, water conditions"],
-              ["Extraction parts", "Release the cap from the punch and hand it to the outfeed", "Machine model and extraction system"],
-              ["Wear parts", "Seals, sleeves and contact parts that wear with each cycle", "Spare quantities per carousel"],
-              ["Downstream tooling", "Slitting and folding of the band, lining, handling parts", "Band design: standard tamper-evident or EU tethered"]
+              [
+                "Punch and core",
+                "Forms the inside of the cap: thread, sealing features and band area",
+                "Cap drawing, neck finish, thread and seal geometry"
+              ],
+              [
+                "Die (cavity)",
+                "Receives the dose and forms the outside of the cap: top panel and skirt",
+                "Outer cap dimensions, knurling, top panel finish"
+              ],
+              [
+                "Cooling inserts",
+                "Carry cooling water close to the forming surfaces",
+                "Cooling layout of the existing machine, water conditions"
+              ],
+              [
+                "Extraction parts",
+                "Release the cap from the punch and hand it to the outfeed",
+                "Machine model and extraction system"
+              ],
+              [
+                "Wear parts",
+                "Seals, sleeves and contact parts that wear with each cycle",
+                "Spare quantities per carousel"
+              ],
+              [
+                "Downstream tooling",
+                "Slitting and folding of the band, lining, handling parts",
+                "Band design: standard tamper-evident or EU tethered"
+              ]
             ]
           }
         },
@@ -104,7 +150,7 @@
     },
     "ru": {
       "heading": "Непрерывное компрессионное формование колпачков: как работает линия SACMI CCM и как планировать оснастку",
-      "intro": "Непрерывное компрессионное формование (CCM) — это процесс производства колпачков, при котором экструдер подаёт постоянный поток расплава, который разрезается на отдельные дозы, укладывается в открытые формы на вращающейся карусели и прессуется в готовые колпачки. На этой странице процесс описан пошагово: где он применяется на заводе колпачков, какая оснастка нужна линии CCM и как планировать проект компрессионной оснастки. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) — производитель пресс-форм для ПЭТ-преформ, выдувных форм, форм для колпачков и компрессионных форм, горячеканальных систем и комплектующих для производства напитков и упаковки, с производством в Фошане, Китай.",
+      "intro": "Непрерывное компрессионное формование (CCM) — это процесс производства колпачков, при котором экструдер подаёт постоянный поток расплава, который разрезается на отдельные дозы, укладывается в открытые формы на вращающейся карусели и прессуется в готовые колпачки. На этой странице процесс описан пошагово: где он применяется на заводе колпачков, какая оснастка нужна линии CCM и как планировать проект компрессионной оснастки. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) — это производитель пресс-форм для ПЭТ-преформ, выдувных форм, форм для колпачков и компрессионных форм, горячеканальных систем и комплектующих для производства напитков и упаковки, с производством в Фошане, Китай.",
       "sections": [
         {
           "heading": "Что такое непрерывное компрессионное формование",
@@ -142,14 +188,42 @@
             "На машине CCM под формой обычно понимают одну станцию оснастки на карусели. Каждая станция — это комплект совместно работающих деталей, и вся карусель должна быть укомплектована одинаковыми комплектами."
           ],
           "table": {
-            "head": ["Элемент оснастки", "Функция в процессе CCM", "Что указать покупателю"],
+            "head": [
+              "Элемент оснастки",
+              "Функция в процессе CCM",
+              "Что указать покупателю"
+            ],
             "rows": [
-              ["Пуансон и знак", "Формует внутреннюю часть колпачка: резьбу, уплотнение и зону кольца", "Чертёж колпачка, горловина, геометрия резьбы и уплотнения"],
-              ["Матрица", "Принимает дозу и формует наружную часть колпачка: верхнюю панель и юбку", "Наружные размеры, рифление, отделка верхней панели"],
-              ["Охлаждающие вставки", "Подводят охлаждающую воду близко к формующим поверхностям", "Схема охлаждения машины, параметры воды"],
-              ["Детали извлечения", "Снимают колпачок с пуансона и передают на вывод", "Модель машины и система извлечения"],
-              ["Изнашиваемые детали", "Уплотнения, втулки и контактные детали, изнашивающиеся с каждым циклом", "Количество запасных на карусель"],
-              ["Оснастка последующих операций", "Надрез и подгибка кольца, установка вкладыша, детали транспортировки", "Тип кольца: стандартное или привязанный колпачок ЕС"]
+              [
+                "Пуансон и знак",
+                "Формует внутреннюю часть колпачка: резьбу, уплотнение и зону кольца",
+                "Чертёж колпачка, горловина, геометрия резьбы и уплотнения"
+              ],
+              [
+                "Матрица",
+                "Принимает дозу и формует наружную часть колпачка: верхнюю панель и юбку",
+                "Наружные размеры, рифление, отделка верхней панели"
+              ],
+              [
+                "Охлаждающие вставки",
+                "Подводят охлаждающую воду близко к формующим поверхностям",
+                "Схема охлаждения машины, параметры воды"
+              ],
+              [
+                "Детали извлечения",
+                "Снимают колпачок с пуансона и передают на вывод",
+                "Модель машины и система извлечения"
+              ],
+              [
+                "Изнашиваемые детали",
+                "Уплотнения, втулки и контактные детали, изнашивающиеся с каждым циклом",
+                "Количество запасных на карусель"
+              ],
+              [
+                "Оснастка последующих операций",
+                "Надрез и подгибка кольца, установка вкладыша, детали транспортировки",
+                "Тип кольца: стандартное или привязанный колпачок ЕС"
+              ]
             ]
           }
         },
@@ -195,7 +269,7 @@
       ]
     },
     "es": {
-      "heading": "Moldeo por compresión continuo de tapas: cómo funciona una línea SACMI CCM y cómo planificar el utillaje",
+      "heading": "Moldes de compresión para tapas en líneas de botellas de bebidas: cómo funciona una línea SACMI CCM y cómo planificar el utillaje de reemplazo",
       "intro": "El moldeo por compresión continuo (CCM) es un proceso de fabricación de tapas en el que una extrusora suministra un flujo constante de plástico fundido que se corta en dosis individuales, se deposita en moldes abiertos sobre un carrusel giratorio y se prensa hasta obtener tapas terminadas. Esta página explica el proceso paso a paso, dónde encaja en una planta de tapas, qué utillaje necesita una línea CCM y cómo planificar un proyecto de utillaje de compresión. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) es un fabricante de moldes de preforma PET, moldes de soplado, moldes de tapas y de compresión, sistemas de canal caliente y componentes de molde para la industria de bebidas y envases, con fabricación en Foshan, China.",
       "sections": [
         {
@@ -234,14 +308,42 @@
             "En una máquina CCM, el término molde suele referirse a una estación de utillaje del carrusel. Cada estación es un conjunto de piezas que trabajan juntas, y todo el carrusel debe equiparse con conjuntos idénticos."
           ],
           "table": {
-            "head": ["Elemento de utillaje", "Función en el proceso CCM", "Qué debe especificar el comprador"],
+            "head": [
+              "Elemento de utillaje",
+              "Función en el proceso CCM",
+              "Qué debe especificar el comprador"
+            ],
             "rows": [
-              ["Punzón y macho", "Forma el interior de la tapa: rosca, sellado y zona de la banda", "Plano de la tapa, acabado de cuello, geometría de rosca y sello"],
-              ["Matriz (cavidad)", "Recibe la dosis y forma el exterior de la tapa: panel superior y falda", "Cotas exteriores, moleteado, acabado del panel superior"],
-              ["Insertos de refrigeración", "Llevan el agua de refrigeración cerca de las superficies de formado", "Esquema de refrigeración de la máquina, condiciones del agua"],
-              ["Piezas de extracción", "Liberan la tapa del punzón y la pasan a la salida", "Modelo de máquina y sistema de extracción"],
-              ["Piezas de desgaste", "Juntas, casquillos y piezas de contacto que se desgastan en cada ciclo", "Cantidad de repuestos por carrusel"],
-              ["Utillaje posterior", "Corte y plegado de la banda, liner, piezas de manipulación", "Tipo de banda: garantía estándar o tapa sujeta UE"]
+              [
+                "Punzón y macho",
+                "Forma el interior de la tapa: rosca, sellado y zona de la banda",
+                "Plano de la tapa, acabado de cuello, geometría de rosca y sello"
+              ],
+              [
+                "Matriz (cavidad)",
+                "Recibe la dosis y forma el exterior de la tapa: panel superior y falda",
+                "Cotas exteriores, moleteado, acabado del panel superior"
+              ],
+              [
+                "Insertos de refrigeración",
+                "Llevan el agua de refrigeración cerca de las superficies de formado",
+                "Esquema de refrigeración de la máquina, condiciones del agua"
+              ],
+              [
+                "Piezas de extracción",
+                "Liberan la tapa del punzón y la pasan a la salida",
+                "Modelo de máquina y sistema de extracción"
+              ],
+              [
+                "Piezas de desgaste",
+                "Juntas, casquillos y piezas de contacto que se desgastan en cada ciclo",
+                "Cantidad de repuestos por carrusel"
+              ],
+              [
+                "Utillaje posterior",
+                "Corte y plegado de la banda, liner, piezas de manipulación",
+                "Tipo de banda: garantía estándar o tapa sujeta UE"
+              ]
             ]
           }
         },

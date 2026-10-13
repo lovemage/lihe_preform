@@ -37,6 +37,7 @@
         {
           "heading": "The main risk is losing the approved technical baseline",
           "paragraphs": [
+            "A mid-project supplier switch is a change of mold supplier after design, steel or trial work has already started.",
             "A supplier handover is the transfer of a defined tooling scope and its approved technical information to another manufacturer. The principal risks are mismatched drawing revisions, incomplete machine interfaces, lost trial evidence, unclear responsibility and a production schedule built on unconfirmed assumptions. A switch can be managed, but the new supplier must qualify the actual remaining work instead of treating the project as an unchanged repeat order."
           ]
         },
@@ -177,6 +178,7 @@
         {
           "heading": "Главный риск — потеря утверждённой технической базы",
           "paragraphs": [
+            "Смена поставщика в середине проекта — это переход к другому производителю пресс-форм после того, как проектирование, закупка стали или пробные отливки уже начаты.",
             "Передача поставщику — переход определённого объёма оснастки и утверждённых технических данных к другому изготовителю. Основные риски — несовпадение ревизий, неполные интерфейсы, потерянные результаты испытаний, неясная ответственность и график на неподтверждённых предположениях. Сменой можно управлять, но новый поставщик должен квалифицировать оставшуюся работу, а не считать проект неизменным повторным заказом."
           ]
         },
@@ -317,6 +319,7 @@
         {
           "heading": "El principal riesgo es perder la referencia técnica aprobada",
           "paragraphs": [
+            "Un cambio de proveedor a mitad de proyecto es un cambio de fabricante de moldes cuando el diseño, el acero o las pruebas ya han comenzado.",
             "Un traspaso de proveedor transfiere un alcance de moldes definido y su información técnica aprobada a otro fabricante. Los principales riesgos son revisiones incompatibles, interfaces incompletas, pérdida de pruebas, responsabilidades poco claras y calendarios basados en supuestos. El cambio puede gestionarse, pero el nuevo proveedor debe cualificar el trabajo pendiente real en lugar de tratarlo como un pedido repetido sin cambios."
           ]
         },

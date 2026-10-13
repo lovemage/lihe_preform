@@ -2,17 +2,35 @@
   "key": "category-accessories",
   "updated": "2026-10-13",
   "sources": [
-    { "label": "Wikipedia — Blow molding", "url": "https://en.wikipedia.org/wiki/Blow_molding" },
-    { "label": "Wikipedia — Preform", "url": "https://en.wikipedia.org/wiki/Preform" },
-    { "label": "Wikipedia — Single-minute exchange of die", "url": "https://en.wikipedia.org/wiki/Single-minute_exchange_of_die" },
-    { "label": "Wikipedia — Preventive maintenance", "url": "https://en.wikipedia.org/wiki/Preventive_maintenance" },
-    { "label": "Wikipedia — Bottling line", "url": "https://en.wikipedia.org/wiki/Bottling_line" },
-    { "label": "Wikipedia — Aluminium alloy", "url": "https://en.wikipedia.org/wiki/Aluminium_alloy" }
+    {
+      "label": "Wikipedia — Blow molding",
+      "url": "https://en.wikipedia.org/wiki/Blow_molding"
+    },
+    {
+      "label": "Wikipedia — Preform",
+      "url": "https://en.wikipedia.org/wiki/Preform"
+    },
+    {
+      "label": "Wikipedia — Single-minute exchange of die",
+      "url": "https://en.wikipedia.org/wiki/Single-minute_exchange_of_die"
+    },
+    {
+      "label": "Wikipedia — Preventive maintenance",
+      "url": "https://en.wikipedia.org/wiki/Preventive_maintenance"
+    },
+    {
+      "label": "Wikipedia — Bottling line",
+      "url": "https://en.wikipedia.org/wiki/Bottling_line"
+    },
+    {
+      "label": "Wikipedia — Aluminium alloy",
+      "url": "https://en.wikipedia.org/wiki/Aluminium_alloy"
+    }
   ],
   "locales": {
     "en": {
       "heading": "Blow molding accessories and conversion parts: blowing pins, stretch rods, mold shells, clamping bases and change parts, and when to replace them",
-      "intro": "Blow molding accessories are the machine-side parts that hold, seal, stretch and transport the preform and the blow mold in a PET stretch blow molding machine, as opposed to the cavity that gives the bottle its shape. They are replaced for two reasons: wear during production, or a format change to a new bottle, preform or neck finish. This guide gives an overview of each part group, the signs that it needs replacement, and how to plan a spare parts or format change package for SIDEL, KRONES, KHS and other blowing machines.",
+      "intro": "A blow molding accessory is a machine-side part, such as a blowing pin, stretch rod or mold shell, that is replaced for wear or for a format change. Blow molding accessories are the machine-side parts that hold, seal, stretch and transport the preform and the blow mold in a PET stretch blow molding machine, as opposed to the cavity that gives the bottle its shape. They are replaced for two reasons: wear during production, or a format change to a new bottle, preform or neck finish. This guide gives an overview of each part group, the signs that it needs replacement, and how to plan a spare parts or format change package for SIDEL, KRONES, KHS and other blowing machines.",
       "sections": [
         {
           "heading": "Main groups of blow molding accessories and conversion parts",
@@ -28,13 +46,43 @@
         {
           "heading": "Blow molding accessories replacement table",
           "table": {
-            "head": ["Part", "Function", "Replace when (wear)", "Replace when (format change)"],
+            "head": [
+              "Part",
+              "Function",
+              "Replace when (wear)",
+              "Replace when (format change)"
+            ],
             "rows": [
-              ["Blowing nozzle / blowing pin", "Seals the neck and supplies blowing air", "Air leaks at the neck, marks on the neck finish, damaged sealing surface", "New neck finish or preform"],
-              ["Stretch rod and tip", "Stretches the preform to the base", "Bent rod, worn tip, off-center gate on the bottle base", "New bottle height or preform length"],
-              ["Mold shell", "Holds cavity halves, carries cooling water", "Worn fit surfaces, cooling leaks, cavity halves no longer seat firmly", "Different machine or shell system"],
-              ["Clamping base", "Locates shells and base mold in the carrier", "Damaged locating faces, parting line marks, misalignment after mold changes", "Different machine or mold carrier"],
-              ["Star wheels, guides, neck grippers", "Transport preforms and bottles", "Worn pockets or grippers, transfer jams, scuffed bottles", "New bottle diameter, shape, capacity or neck finish"]
+              [
+                "Blowing nozzle / blowing pin",
+                "Seals the neck and supplies blowing air",
+                "Air leaks at the neck, marks on the neck finish, damaged sealing surface",
+                "New neck finish or preform"
+              ],
+              [
+                "Stretch rod and tip",
+                "Stretches the preform to the base",
+                "Bent rod, worn tip, off-center gate on the bottle base",
+                "New bottle height or preform length"
+              ],
+              [
+                "Mold shell",
+                "Holds cavity halves, carries cooling water",
+                "Worn fit surfaces, cooling leaks, cavity halves no longer seat firmly",
+                "Different machine or shell system"
+              ],
+              [
+                "Clamping base",
+                "Locates shells and base mold in the carrier",
+                "Damaged locating faces, parting line marks, misalignment after mold changes",
+                "Different machine or mold carrier"
+              ],
+              [
+                "Star wheels, guides, neck grippers",
+                "Transport preforms and bottles",
+                "Worn pockets or grippers, transfer jams, scuffed bottles",
+                "New bottle diameter, shape, capacity or neck finish"
+              ]
             ]
           }
         },
@@ -112,8 +160,8 @@
       ]
     },
     "ru": {
-      "heading": "Комплектующие и переходные детали для выдува: выдувные дорны, вытяжные штоки, кожухи форм, монтажные основания и форматные детали — когда их менять",
-      "intro": "Комплектующие для выдува — это детали машины, которые удерживают, уплотняют, вытягивают и перемещают преформу и выдувную форму в машине для раздувного формования ПЭТ, в отличие от матрицы, которая задаёт форму бутылки. Их меняют по двум причинам: из-за износа в производстве или при переходе на новый формат — новую бутылку, преформу или горловину. В этом руководстве описана каждая группа деталей, признаки необходимости замены и порядок планирования пакета запчастей или форматных деталей для машин SIDEL, KRONES, KHS и других.",
+      "heading": "Комплектующие для выдувных форм на линии ПЭТ-бутылок: дорны, вытяжные штоки, кожухи форм, основания и форматные детали — когда их менять",
+      "intro": "Комплектующая для выдува — это деталь машины, например дутьевой ниппель, вытяжной шток или корпус формы, которая заменяется при износе или смене формата. Комплектующие для выдува — это детали машины, которые удерживают, уплотняют, вытягивают и перемещают преформу и выдувную форму в машине для раздувного формования ПЭТ, в отличие от матрицы, которая задаёт форму бутылки. Их меняют по двум причинам: из-за износа в производстве или при переходе на новый формат — новую бутылку, преформу или горловину. В этом руководстве описана каждая группа деталей, признаки необходимости замены и порядок планирования пакета запчастей или форматных деталей для машин SIDEL, KRONES, KHS и других.",
       "sections": [
         {
           "heading": "Основные группы комплектующих и переходных деталей для выдува",
@@ -129,13 +177,43 @@
         {
           "heading": "Таблица замены комплектующих для выдува",
           "table": {
-            "head": ["Деталь", "Функция", "Когда менять (износ)", "Когда менять (смена формата)"],
+            "head": [
+              "Деталь",
+              "Функция",
+              "Когда менять (износ)",
+              "Когда менять (смена формата)"
+            ],
             "rows": [
-              ["Выдувное сопло / дорн", "Уплотняет горловину и подаёт воздух", "Утечки воздуха на горловине, следы на горловине, повреждённая уплотняющая поверхность", "Новая горловина или преформа"],
-              ["Вытяжной шток и наконечник", "Вытягивает преформу до дна", "Изогнутый шток, изношенный наконечник, смещённая точка литника на дне бутылки", "Новая высота бутылки или длина преформы"],
-              ["Кожух формы", "Удерживает половины матрицы, подводит охлаждающую воду", "Изношенные посадочные поверхности, протечки охлаждения, половины матрицы сидят неплотно", "Другая машина или система кожухов"],
-              ["Монтажное основание", "Центрирует кожухи и донную форму в формодержателе", "Повреждённые базовые поверхности, следы на линии разъёма, несоосность после смены формы", "Другая машина или формодержатель"],
-              ["Звёзды, направляющие, захваты горловины", "Транспортируют преформы и бутылки", "Изношенные гнёзда или захваты, заторы при передаче, потёртости на бутылках", "Новый диаметр, форма, объём бутылки или горловина"]
+              [
+                "Выдувное сопло / дорн",
+                "Уплотняет горловину и подаёт воздух",
+                "Утечки воздуха на горловине, следы на горловине, повреждённая уплотняющая поверхность",
+                "Новая горловина или преформа"
+              ],
+              [
+                "Вытяжной шток и наконечник",
+                "Вытягивает преформу до дна",
+                "Изогнутый шток, изношенный наконечник, смещённая точка литника на дне бутылки",
+                "Новая высота бутылки или длина преформы"
+              ],
+              [
+                "Кожух формы",
+                "Удерживает половины матрицы, подводит охлаждающую воду",
+                "Изношенные посадочные поверхности, протечки охлаждения, половины матрицы сидят неплотно",
+                "Другая машина или система кожухов"
+              ],
+              [
+                "Монтажное основание",
+                "Центрирует кожухи и донную форму в формодержателе",
+                "Повреждённые базовые поверхности, следы на линии разъёма, несоосность после смены формы",
+                "Другая машина или формодержатель"
+              ],
+              [
+                "Звёзды, направляющие, захваты горловины",
+                "Транспортируют преформы и бутылки",
+                "Изношенные гнёзда или захваты, заторы при передаче, потёртости на бутылках",
+                "Новый диаметр, форма, объём бутылки или горловина"
+              ]
             ]
           }
         },
@@ -214,7 +292,7 @@
     },
     "es": {
       "heading": "Accesorios y piezas de conversión para soplado: pernos de soplado, varillas de estiramiento, carcasas de molde, bases de sujeción y piezas de cambio, y cuándo sustituirlos",
-      "intro": "Los accesorios de soplado son las piezas del lado de la máquina que sujetan, sellan, estiran y transportan la preforma y el molde de soplado en una sopladora de estirado-soplado de PET, a diferencia de la cavidad, que da forma a la botella. Se sustituyen por dos motivos: el desgaste durante la producción o un cambio de formato a una botella, preforma o cuello nuevos. Esta guía resume cada grupo de piezas, las señales de que necesita sustitución y cómo planificar un paquete de repuestos o de cambio de formato para sopladoras SIDEL, KRONES, KHS y otras.",
+      "intro": "Un accesorio de soplado es una pieza del lado de la máquina, como una boquilla de soplado, una varilla de estirado o un portamolde, que se sustituye por desgaste o por cambio de formato. Los accesorios de soplado son las piezas del lado de la máquina que sujetan, sellan, estiran y transportan la preforma y el molde de soplado en una sopladora de estirado-soplado de PET, a diferencia de la cavidad, que da forma a la botella. Se sustituyen por dos motivos: el desgaste durante la producción o un cambio de formato a una botella, preforma o cuello nuevos. Esta guía resume cada grupo de piezas, las señales de que necesita sustitución y cómo planificar un paquete de repuestos o de cambio de formato para sopladoras SIDEL, KRONES, KHS y otras.",
       "sections": [
         {
           "heading": "Grupos principales de accesorios y piezas de conversión para soplado",
@@ -230,13 +308,43 @@
         {
           "heading": "Tabla de sustitución de accesorios de soplado",
           "table": {
-            "head": ["Pieza", "Función", "Sustituir cuando (desgaste)", "Sustituir cuando (cambio de formato)"],
+            "head": [
+              "Pieza",
+              "Función",
+              "Sustituir cuando (desgaste)",
+              "Sustituir cuando (cambio de formato)"
+            ],
             "rows": [
-              ["Tobera / perno de soplado", "Sella el cuello y aporta el aire de soplado", "Fugas de aire en el cuello, marcas en el cuello, superficie de sellado dañada", "Cuello o preforma nuevos"],
-              ["Varilla de estiramiento y punta", "Estira la preforma hasta el fondo", "Varilla doblada, punta desgastada, punto de inyección descentrado en el fondo de la botella", "Nueva altura de botella o longitud de preforma"],
-              ["Carcasa de molde", "Sujeta las mitades de cavidad, lleva el agua de refrigeración", "Superficies de ajuste desgastadas, fugas de refrigeración, las mitades de cavidad ya no asientan firmes", "Otra máquina u otro sistema de carcasas"],
-              ["Base de sujeción", "Centra carcasas y fondo en el portamoldes", "Caras de centrado dañadas, marcas en la línea de partición, desalineación tras cambiar el molde", "Otra máquina u otro portamoldes"],
-              ["Estrellas, guías, pinzas de cuello", "Transportan preformas y botellas", "Alojamientos o pinzas desgastados, atascos en la transferencia, botellas rayadas", "Nuevo diámetro, forma, capacidad de botella o cuello"]
+              [
+                "Tobera / perno de soplado",
+                "Sella el cuello y aporta el aire de soplado",
+                "Fugas de aire en el cuello, marcas en el cuello, superficie de sellado dañada",
+                "Cuello o preforma nuevos"
+              ],
+              [
+                "Varilla de estiramiento y punta",
+                "Estira la preforma hasta el fondo",
+                "Varilla doblada, punta desgastada, punto de inyección descentrado en el fondo de la botella",
+                "Nueva altura de botella o longitud de preforma"
+              ],
+              [
+                "Carcasa de molde",
+                "Sujeta las mitades de cavidad, lleva el agua de refrigeración",
+                "Superficies de ajuste desgastadas, fugas de refrigeración, las mitades de cavidad ya no asientan firmes",
+                "Otra máquina u otro sistema de carcasas"
+              ],
+              [
+                "Base de sujeción",
+                "Centra carcasas y fondo en el portamoldes",
+                "Caras de centrado dañadas, marcas en la línea de partición, desalineación tras cambiar el molde",
+                "Otra máquina u otro portamoldes"
+              ],
+              [
+                "Estrellas, guías, pinzas de cuello",
+                "Transportan preformas y botellas",
+                "Alojamientos o pinzas desgastados, atascos en la transferencia, botellas rayadas",
+                "Nuevo diámetro, forma, capacidad de botella o cuello"
+              ]
             ]
           }
         },

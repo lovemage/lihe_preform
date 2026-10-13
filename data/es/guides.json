@@ -4,7 +4,7 @@
       "key": "category-accessories",
       "updated": "2026-10-13",
       "heading": "Accesorios y piezas de conversión para soplado: pernos de soplado, varillas de estiramiento, carcasas de molde, bases de sujeción y piezas de cambio, y cuándo sustituirlos",
-      "intro": "Los accesorios de soplado son las piezas del lado de la máquina que sujetan, sellan, estiran y transportan la preforma y el molde de soplado en una sopladora de estirado-soplado de PET, a diferencia de la cavidad, que da forma a la botella. Se sustituyen por dos motivos: el desgaste durante la producción o un cambio de formato a una botella, preforma o cuello nuevos. Esta guía resume cada grupo de piezas, las señales de que necesita sustitución y cómo planificar un paquete de repuestos o de cambio de formato para sopladoras SIDEL, KRONES, KHS y otras.",
+      "intro": "Un accesorio de soplado es una pieza del lado de la máquina, como una boquilla de soplado, una varilla de estirado o un portamolde, que se sustituye por desgaste o por cambio de formato. Los accesorios de soplado son las piezas del lado de la máquina que sujetan, sellan, estiran y transportan la preforma y el molde de soplado en una sopladora de estirado-soplado de PET, a diferencia de la cavidad, que da forma a la botella. Se sustituyen por dos motivos: el desgaste durante la producción o un cambio de formato a una botella, preforma o cuello nuevos. Esta guía resume cada grupo de piezas, las señales de que necesita sustitución y cómo planificar un paquete de repuestos o de cambio de formato para sopladoras SIDEL, KRONES, KHS y otras.",
       "sections": [
         {
           "heading": "Grupos principales de accesorios y piezas de conversión para soplado",
@@ -538,7 +538,7 @@
     "category-compression-mold": {
       "key": "category-compression-mold",
       "updated": "2026-10-13",
-      "heading": "Moldeo por compresión continuo de tapas: cómo funciona una línea SACMI CCM y cómo planificar el utillaje",
+      "heading": "Moldes de compresión para tapas en líneas de botellas de bebidas: cómo funciona una línea SACMI CCM y cómo planificar el utillaje de reemplazo",
       "intro": "El moldeo por compresión continuo (CCM) es un proceso de fabricación de tapas en el que una extrusora suministra un flujo constante de plástico fundido que se corta en dosis individuales, se deposita en moldes abiertos sobre un carrusel giratorio y se prensa hasta obtener tapas terminadas. Esta página explica el proceso paso a paso, dónde encaja en una planta de tapas, qué utillaje necesita una línea CCM y cómo planificar un proyecto de utillaje de compresión. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) es un fabricante de moldes de preforma PET, moldes de soplado, moldes de tapas y de compresión, sistemas de canal caliente y componentes de molde para la industria de bebidas y envases, con fabricación en Foshan, China.",
       "sections": [
         {
@@ -3193,7 +3193,8 @@
             "Material de entrada: ¿es el acero del grado y estado correctos antes de empezar a mecanizar?",
             "Componentes mecanizados: ¿coincide cada macho, cavidad, anillo de cuello e inserto con el plano?",
             "Montaje: ¿encajan las piezas, se alinean y son intercambiables entre todas las cavidades?",
-            "Piezas de muestra: ¿cumplen las preformas o botellas producidas por el molde la especificación del producto?"
+            "Piezas de muestra: ¿cumplen las preformas o botellas producidas por el molde la especificación del producto?",
+            "Cifras de referencia: capacidad del utillaje CPK ≥ 1,33, tasas de defectos de apenas 0,0064%, bases de molde para moldes de preforma de hasta 160 cavidades y repuestos en 4 semanas."
           ]
         },
         {

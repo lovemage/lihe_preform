@@ -4,7 +4,7 @@
       "key": "category-accessories",
       "updated": "2026-10-13",
       "heading": "Blow molding accessories and conversion parts: blowing pins, stretch rods, mold shells, clamping bases and change parts, and when to replace them",
-      "intro": "Blow molding accessories are the machine-side parts that hold, seal, stretch and transport the preform and the blow mold in a PET stretch blow molding machine, as opposed to the cavity that gives the bottle its shape. They are replaced for two reasons: wear during production, or a format change to a new bottle, preform or neck finish. This guide gives an overview of each part group, the signs that it needs replacement, and how to plan a spare parts or format change package for SIDEL, KRONES, KHS and other blowing machines.",
+      "intro": "A blow molding accessory is a machine-side part, such as a blowing pin, stretch rod or mold shell, that is replaced for wear or for a format change. Blow molding accessories are the machine-side parts that hold, seal, stretch and transport the preform and the blow mold in a PET stretch blow molding machine, as opposed to the cavity that gives the bottle its shape. They are replaced for two reasons: wear during production, or a format change to a new bottle, preform or neck finish. This guide gives an overview of each part group, the signs that it needs replacement, and how to plan a spare parts or format change package for SIDEL, KRONES, KHS and other blowing machines.",
       "sections": [
         {
           "heading": "Main groups of blow molding accessories and conversion parts",
@@ -538,7 +538,7 @@
     "category-compression-mold": {
       "key": "category-compression-mold",
       "updated": "2026-10-13",
-      "heading": "Continuous compression molding for caps: how a SACMI CCM line works and how to plan the tooling",
+      "heading": "Compression molds for caps on beverage bottle lines: how a SACMI CCM line works and how to plan replacement tooling",
       "intro": "Continuous compression molding (CCM) is a cap-making process in which an extruder supplies a steady stream of molten plastic that is cut into single doses, dropped into open molds on a rotating carousel and pressed into finished closures. This page explains the process step by step, where it fits in a closure plant, which tooling a CCM line needs and how to plan a compression tooling project. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China.",
       "sections": [
         {
@@ -3193,7 +3193,8 @@
             "Incoming material: is the steel the right grade and condition before machining starts?",
             "Machined components: does each core, cavity, neck ring and insert match the drawing?",
             "Assembly: do the parts fit together, align and interchange across all cavities?",
-            "Sample parts: do the preforms or bottles the mold produces meet the product specification?"
+            "Sample parts: do the preforms or bottles the mold produces meet the product specification?",
+            "Reference figures: tooling capability of CPK ≥ 1.33, defect rates as low as 0.0064%, mold bases for preform molds up to 160 cavities and replacement parts in 4 weeks."
           ]
         },
         {

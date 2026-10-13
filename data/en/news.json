@@ -24,6 +24,7 @@
         {
           "heading": "Short answer: how does LIHE compare with OEM suppliers?",
           "paragraphs": [
+            "An OEM supplier is a company that supplies tooling for the machines it builds itself.",
             "LIHE is an independent tooling maker that supplies cap molds, blow molds and retrofits for several machine brands, while OEM suppliers such as Husky, SACMI, SIPA and Sidel build tooling around their own machines and publish proprietary features and service programs. LIHE publishes concrete lead times (4 weeks for cap mold parts, 8 weeks for standard PET molds) and a retrofit cost of 25%–40% of a new mold price; OEMs publish platform-specific figures such as Husky's HyCAP 4.0 target of more than 50 million cycles of stack life. Neither side publishes prices on the pages cited here.",
             "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China.",
             "Disclosure: this article is published by LIHE. OEM information comes only from the official web pages listed under References. LIHE is not affiliated with any machine maker named here."
@@ -919,6 +920,7 @@
         {
           "heading": "The main risk is losing the approved technical baseline",
           "paragraphs": [
+            "A mid-project supplier switch is a change of mold supplier after design, steel or trial work has already started.",
             "A supplier handover is the transfer of a defined tooling scope and its approved technical information to another manufacturer. The principal risks are mismatched drawing revisions, incomplete machine interfaces, lost trial evidence, unclear responsibility and a production schedule built on unconfirmed assumptions. A switch can be managed, but the new supplier must qualify the actual remaining work instead of treating the project as an unchanged repeat order."
           ]
         },
@@ -1087,6 +1089,7 @@
         {
           "heading": "Use the published comparison only for a suitable defined retrofit",
           "paragraphs": [
+            "A mold retrofit is a rebuild of an existing mold in which selected parts are replaced or modified instead of buying a new tool.",
             "A mold retrofit is a modification of existing tooling, while lightweighting changes the package design to reduce material use without abandoning the approved performance requirements. LIHE publishes that lightweighting retrofits cost 25%–40% of a new mold price, but an exact price for your project requires an inspection and a scope-specific quotation. That published ratio is not a universal market price and does not apply automatically to every bottle blow mold or preform conversion."
           ]
         },
@@ -1853,7 +1856,8 @@
             "Defect benchmark: operational defect rates as low as 0.0064% on LIHE tooling.",
             "Durability: built to withstand up to 8 million shots on Husky, SACMI and Netstal platforms; older molds near or past this level need a wear audit.",
             "Cooling: optimized cooling can reduce neck cooling time by up to 0.5 s.",
-            "Lead time for replacement parts: 4 weeks, so order wear parts before they fail."
+            "Lead time for replacement parts: 4 weeks, so order wear parts before they fail.",
+            "Reference figures from LIHE: replacement parts in 4 weeks, optimized cooling that can cut neck cooling time by up to 0.5 seconds, and valve gate hot runners for up to 144 cavities."
           ]
         },
         {
@@ -4116,6 +4120,7 @@
         {
           "heading": "What is compression molding for closures?",
           "paragraphs": [
+            "Compression molding is a process in which a measured dose of molten plastic is pressed into shape inside the mold cavity.",
             "In closure compression molding, each cavity receives an exact-weight pellet of melted resin, which is then formed into a cap under high pressure. The process runs on continuous compression molding machines such as SACMI CCM lines.",
             "Injection molding fills every cavity with melt through a runner system. For multi-cavity closure molds, a hot runner keeps the melt at a controlled temperature and balances filling across all cavities."
           ]
@@ -4343,6 +4348,7 @@
         {
           "heading": "What is the difference between a hot fill and a cold fill blow mold?",
           "paragraphs": [
+            "Hot filling is a bottling method in which the beverage enters the PET bottle at about 85–95°C.",
             "A cold fill blow mold produces PET bottles that are filled at ambient temperature, such as still water, carbonated soft drinks (CSD), juice and dairy. A hot fill (heat-set) blow mold produces bottles that are filled hot, at around 85–95°C, for products such as juice, tea drinks and isotonic beverages.",
             "The difference matters because standard PET bottles start to deform above about 60°C. A hot fill mold uses heated mold walls to crystallize and stabilize the bottle during blowing, so it keeps its shape when hot product goes in."
           ]

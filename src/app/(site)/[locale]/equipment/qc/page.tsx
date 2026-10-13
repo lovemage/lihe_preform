@@ -26,7 +26,7 @@ export async function generateMetadata({
   const category = data.categories[0];
 
   return {
-    title: `${category.name} | Lihe Precision`,
+    title: `${category.name} — ${t("qcTitleSuffix")} | Lihe Precision`,
     description: clampDescription(t("metaDescriptionQc")),
     alternates: getLocaleAlternates(locale, "/equipment/qc"),
   };

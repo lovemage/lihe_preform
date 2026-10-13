@@ -38,9 +38,10 @@ export async function generateMetadata({
   if (!category) {
     return { title: "Category Not Found", robots: { index: false, follow: false } };
   }
+  const t = await getTranslations("products");
 
   return {
-    title: `${capitalize(category.name)} | Lihe Precision`,
+    title: `${capitalize(category.name)} — ${t("categoryTitleSuffix")} | Lihe Precision`,
     description: clampDescription(category.description || category.short),
     alternates: getLocaleAlternates(locale, getCategoryPath(slug)),
   };
