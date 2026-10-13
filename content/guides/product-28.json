@@ -2,12 +2,30 @@
   "key": "product-28",
   "updated": "2026-10-13",
   "sources": [
-    { "label": "Wikipedia — Stretch blow molding", "url": "https://en.wikipedia.org/wiki/Stretch_blow_molding" },
-    { "label": "Wikipedia — Blow molding", "url": "https://en.wikipedia.org/wiki/Blow_molding" },
-    { "label": "Wikipedia — Preform", "url": "https://en.wikipedia.org/wiki/Preform" },
-    { "label": "Wikipedia — O-ring", "url": "https://en.wikipedia.org/wiki/O-ring" },
-    { "label": "Wikipedia — Preventive maintenance", "url": "https://en.wikipedia.org/wiki/Preventive_maintenance" },
-    { "label": "Wikipedia — Compressed air", "url": "https://en.wikipedia.org/wiki/Compressed_air" }
+    {
+      "label": "Wikipedia — Stretch blow molding",
+      "url": "https://en.wikipedia.org/wiki/Stretch_blow_molding"
+    },
+    {
+      "label": "Wikipedia — Blow molding",
+      "url": "https://en.wikipedia.org/wiki/Blow_molding"
+    },
+    {
+      "label": "Wikipedia — Preform",
+      "url": "https://en.wikipedia.org/wiki/Preform"
+    },
+    {
+      "label": "Wikipedia — O-ring",
+      "url": "https://en.wikipedia.org/wiki/O-ring"
+    },
+    {
+      "label": "Wikipedia — Preventive maintenance",
+      "url": "https://en.wikipedia.org/wiki/Preventive_maintenance"
+    },
+    {
+      "label": "Wikipedia — Compressed air",
+      "url": "https://en.wikipedia.org/wiki/Compressed_air"
+    }
   ],
   "locales": {
     "en": {
@@ -43,13 +61,43 @@
         {
           "heading": "Wear symptom comparison table",
           "table": {
-            "head": ["Symptom", "Likely worn part", "What to check", "Typical action"],
+            "head": [
+              "Symptom",
+              "Likely worn part",
+              "What to check",
+              "Typical action"
+            ],
             "rows": [
-              ["Hissing during blowing, underblown bottles", "Blowing pin seal or sealing face", "Seal condition, sealing face scratches, nozzle-to-neck contact", "Replace seal; rework or replace the blowing pin"],
-              ["Gate off center in the bottle base", "Stretch rod or guide bushing", "Rod straightness, bushing play, rod-to-mold alignment", "Replace bent rod or worn bushing; realign the station"],
-              ["Marks or pinholes at the base center", "Stretch rod tip", "Tip shape, scratches, adhesion of PET residue", "Polish or replace the tip"],
-              ["Damaged neck finish top surface", "Blowing pin", "Nozzle alignment and stroke, contact surface condition", "Correct alignment; replace the nozzle if damaged"],
-              ["Defects in one station only", "Parts of that station", "Swap parts between stations to confirm", "Replace the confirmed worn part"]
+              [
+                "Hissing during blowing, underblown bottles",
+                "Blowing pin seal or sealing face",
+                "Seal condition, sealing face scratches, nozzle-to-neck contact",
+                "Replace seal; rework or replace the blowing pin"
+              ],
+              [
+                "Gate off center in the bottle base",
+                "Stretch rod or guide bushing",
+                "Rod straightness, bushing play, rod-to-mold alignment",
+                "Replace bent rod or worn bushing; realign the station"
+              ],
+              [
+                "Marks or pinholes at the base center",
+                "Stretch rod tip",
+                "Tip shape, scratches, adhesion of PET residue",
+                "Polish or replace the tip"
+              ],
+              [
+                "Damaged neck finish top surface",
+                "Blowing pin",
+                "Nozzle alignment and stroke, contact surface condition",
+                "Correct alignment; replace the nozzle if damaged"
+              ],
+              [
+                "Defects in one station only",
+                "Parts of that station",
+                "Swap parts between stations to confirm",
+                "Replace the confirmed worn part"
+              ]
             ]
           }
         },
@@ -114,7 +162,7 @@
       ]
     },
     "ru": {
-      "heading": "Износ дутьевых ниппелей и вытяжных штоков: контроль, планирование замены и соответствие горловине",
+      "heading": "Износ дутьевых ниппелей и вытяжных штоков выдувных форм для ПЭТ-бутылок на линии напитков: контроль, замена и соответствие горловине",
       "intro": "Вытяжной шток — это прецизионный стержень, который перед выдувом и во время него вытягивает нагретую ПЭТ-преформу до дна выдувной формы, а дутьевой ниппель (дутьевое сопло) герметизирует горловину преформы и подаёт воздух для выдува. Обе детали работают в каждом цикле, поэтому изнашиваются постепенно, и первые признаки износа обычно видны по бутылкам и расходу воздуха, а не по самим деталям. В этом руководстве описано, как распознать износ, как проверять дутьевые ниппели и вытяжные штоки и как планировать запасные части, чтобы выдувная машина стабильно выпускала качественные бутылки.",
       "sections": [
         {
@@ -146,13 +194,43 @@
         {
           "heading": "Таблица сравнения признаков износа",
           "table": {
-            "head": ["Признак", "Вероятно изношенная деталь", "Что проверить", "Типичное действие"],
+            "head": [
+              "Признак",
+              "Вероятно изношенная деталь",
+              "Что проверить",
+              "Типичное действие"
+            ],
             "rows": [
-              ["Шипение при выдуве, недодутые бутылки", "Уплотнение или торец ниппеля", "Состояние уплотнения, царапины на торце, контакт сопла с горловиной", "Заменить уплотнение; доработать или заменить ниппель"],
-              ["Литник смещён от центра дна", "Вытяжной шток или втулка", "Прямолинейность штока, люфт втулки, соосность штока и формы", "Заменить погнутый шток или изношенную втулку; выставить станцию"],
-              ["Следы или проколы в центре дна", "Наконечник штока", "Форма наконечника, царапины, налипание ПЭТ", "Отполировать или заменить наконечник"],
-              ["Повреждена верхняя поверхность горловины", "Дутьевой ниппель", "Соосность и ход сопла, состояние контактной поверхности", "Исправить соосность; заменить повреждённое сопло"],
-              ["Дефекты только на одной станции", "Детали этой станции", "Переставить детали между станциями для проверки", "Заменить подтверждённую изношенную деталь"]
+              [
+                "Шипение при выдуве, недодутые бутылки",
+                "Уплотнение или торец ниппеля",
+                "Состояние уплотнения, царапины на торце, контакт сопла с горловиной",
+                "Заменить уплотнение; доработать или заменить ниппель"
+              ],
+              [
+                "Литник смещён от центра дна",
+                "Вытяжной шток или втулка",
+                "Прямолинейность штока, люфт втулки, соосность штока и формы",
+                "Заменить погнутый шток или изношенную втулку; выставить станцию"
+              ],
+              [
+                "Следы или проколы в центре дна",
+                "Наконечник штока",
+                "Форма наконечника, царапины, налипание ПЭТ",
+                "Отполировать или заменить наконечник"
+              ],
+              [
+                "Повреждена верхняя поверхность горловины",
+                "Дутьевой ниппель",
+                "Соосность и ход сопла, состояние контактной поверхности",
+                "Исправить соосность; заменить повреждённое сопло"
+              ],
+              [
+                "Дефекты только на одной станции",
+                "Детали этой станции",
+                "Переставить детали между станциями для проверки",
+                "Заменить подтверждённую изношенную деталь"
+              ]
             ]
           }
         },
@@ -249,13 +327,43 @@
         {
           "heading": "Tabla comparativa de síntomas de desgaste",
           "table": {
-            "head": ["Síntoma", "Pieza probablemente gastada", "Qué revisar", "Acción habitual"],
+            "head": [
+              "Síntoma",
+              "Pieza probablemente gastada",
+              "Qué revisar",
+              "Acción habitual"
+            ],
             "rows": [
-              ["Silbido al soplar, botellas mal sopladas", "Junta o cara de sellado de la tobera", "Estado de la junta, rayas en la cara, contacto tobera-cuello", "Cambiar la junta; reparar o sustituir la tobera"],
-              ["Punto de inyección descentrado en el fondo", "Varilla o casquillo guía", "Rectitud de la varilla, holgura del casquillo, alineación varilla-molde", "Sustituir varilla doblada o casquillo gastado; realinear la estación"],
-              ["Marcas o poros en el centro del fondo", "Punta de la varilla", "Forma de la punta, rayas, restos de PET adheridos", "Pulir o sustituir la punta"],
-              ["Superficie superior del cuello dañada", "Tobera de soplado", "Alineación y carrera de la tobera, estado de la superficie de contacto", "Corregir la alineación; sustituir la tobera dañada"],
-              ["Defectos solo en una estación", "Piezas de esa estación", "Intercambiar piezas entre estaciones para confirmar", "Sustituir la pieza gastada confirmada"]
+              [
+                "Silbido al soplar, botellas mal sopladas",
+                "Junta o cara de sellado de la tobera",
+                "Estado de la junta, rayas en la cara, contacto tobera-cuello",
+                "Cambiar la junta; reparar o sustituir la tobera"
+              ],
+              [
+                "Punto de inyección descentrado en el fondo",
+                "Varilla o casquillo guía",
+                "Rectitud de la varilla, holgura del casquillo, alineación varilla-molde",
+                "Sustituir varilla doblada o casquillo gastado; realinear la estación"
+              ],
+              [
+                "Marcas o poros en el centro del fondo",
+                "Punta de la varilla",
+                "Forma de la punta, rayas, restos de PET adheridos",
+                "Pulir o sustituir la punta"
+              ],
+              [
+                "Superficie superior del cuello dañada",
+                "Tobera de soplado",
+                "Alineación y carrera de la tobera, estado de la superficie de contacto",
+                "Corregir la alineación; sustituir la tobera dañada"
+              ],
+              [
+                "Defectos solo en una estación",
+                "Piezas de esa estación",
+                "Intercambiar piezas entre estaciones para confirmar",
+                "Sustituir la pieza gastada confirmada"
+              ]
             ]
           }
         },

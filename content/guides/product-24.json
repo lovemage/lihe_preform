@@ -2,16 +2,34 @@
   "key": "product-24",
   "updated": "2026-10-13",
   "sources": [
-    { "label": "Wikipedia — Blow molding", "url": "https://en.wikipedia.org/wiki/Blow_molding" },
-    { "label": "Wikipedia — Bottled water", "url": "https://en.wikipedia.org/wiki/Bottled_water" },
-    { "label": "Wikipedia — Polyethylene terephthalate", "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate" },
-    { "label": "Wikipedia — Plastic bottle", "url": "https://en.wikipedia.org/wiki/Plastic_bottle" },
-    { "label": "ISBT — International Society of Beverage Technologists", "url": "https://www.isbt.com/" },
-    { "label": "Sidel — PET packaging and blow moulding equipment", "url": "https://www.sidel.com/en" }
+    {
+      "label": "Wikipedia — Blow molding",
+      "url": "https://en.wikipedia.org/wiki/Blow_molding"
+    },
+    {
+      "label": "Wikipedia — Bottled water",
+      "url": "https://en.wikipedia.org/wiki/Bottled_water"
+    },
+    {
+      "label": "Wikipedia — Polyethylene terephthalate",
+      "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate"
+    },
+    {
+      "label": "Wikipedia — Plastic bottle",
+      "url": "https://en.wikipedia.org/wiki/Plastic_bottle"
+    },
+    {
+      "label": "ISBT — International Society of Beverage Technologists",
+      "url": "https://www.isbt.com/"
+    },
+    {
+      "label": "Sidel — PET packaging and blow moulding equipment",
+      "url": "https://www.sidel.com/en"
+    }
   ],
   "locales": {
     "en": {
-      "heading": "Lightweight water bottle blow mold design: base, grip panels, top-load and neck finish",
+      "heading": "Lightweight PET water bottle blow mold design for beverage production lines: base, grip panels, top-load and neck finish",
       "intro": "A blow mold for disposable bottled water is a set of cavity halves and a base insert that stretch-blows a heated PET preform into a single-use still water bottle. This guide explains the design choices that decide how light a water bottle can be and still survive the line and the pallet: base shape, grip panels, top-load strength, neck finish and bottle size. It ends with the development steps from bottle drawing to approved samples.",
       "sections": [
         {
@@ -34,13 +52,37 @@
             "The base is where blow molding is hardest: material stretches least near the gate, and the base must stand stable on fast conveyors. The right base depends on whether the product is still or carbonated."
           ],
           "table": {
-            "head": ["", "Petaloid base", "Flat / push-up (champagne-style) base"],
+            "head": [
+              "",
+              "Petaloid base",
+              "Flat / push-up (champagne-style) base"
+            ],
             "rows": [
-              ["Shape", "Several feet (\"petals\") around a central gate area", "Flat standing ring with a domed push-up in the center"],
-              ["Main purpose", "Resists internal pressure from carbonation", "Stable standing for non-pressurized products"],
-              ["Typical water use", "Sparkling water and some nitrogen-dosed still water lines", "Most still water and mineral water bottles"],
-              ["Material needs", "More material in the feet and valleys", "Can be blown thinner because there is no internal pressure"],
-              ["Main risks", "Thin or stress-cracked feet if material is short", "Base roll-out or rocking if the push-up is too shallow"]
+              [
+                "Shape",
+                "Several feet (\"petals\") around a central gate area",
+                "Flat standing ring with a domed push-up in the center"
+              ],
+              [
+                "Main purpose",
+                "Resists internal pressure from carbonation",
+                "Stable standing for non-pressurized products"
+              ],
+              [
+                "Typical water use",
+                "Sparkling water and some nitrogen-dosed still water lines",
+                "Most still water and mineral water bottles"
+              ],
+              [
+                "Material needs",
+                "More material in the feet and valleys",
+                "Can be blown thinner because there is no internal pressure"
+              ],
+              [
+                "Main risks",
+                "Thin or stress-cracked feet if material is short",
+                "Base roll-out or rocking if the push-up is too shallow"
+              ]
             ]
           },
           "list": [
@@ -69,11 +111,31 @@
             "The neck finish fixes the closure, the preform weight in the threaded area and the neck handling parts on the blow molder and filler. Changing it later affects the preform mold, the closure supply and the conveyor parts, so it is decided at the start."
           ],
           "table": {
-            "head": ["Neck finish", "Nominal size", "Typical water use", "Points to check"],
+            "head": [
+              "Neck finish",
+              "Nominal size",
+              "Typical water use",
+              "Points to check"
+            ],
             "rows": [
-              ["PCO 1881", "28 mm", "Still and sparkling water; shared with carbonated soft drink lines", "Heavier than short water necks; useful when one line runs both still and carbonated products"],
-              ["2925 (29/25)", "29 mm", "Still water with short, lightweight closures", "Closure supply and capping heads must match the 29 mm finish"],
-              ["2622 (26/22)", "26 mm", "Still water where the lightest neck is wanted", "Smaller opening; check closure availability and capper tooling"]
+              [
+                "PCO 1881",
+                "28 mm",
+                "Still and sparkling water; shared with carbonated soft drink lines",
+                "Heavier than short water necks; useful when one line runs both still and carbonated products"
+              ],
+              [
+                "2925 (29/25)",
+                "29 mm",
+                "Still water with short, lightweight closures",
+                "Closure supply and capping heads must match the 29 mm finish"
+              ],
+              [
+                "2622 (26/22)",
+                "26 mm",
+                "Still water where the lightest neck is wanted",
+                "Smaller opening; check closure availability and capper tooling"
+              ]
             ]
           },
           "list": [
@@ -163,13 +225,37 @@
             "Дно — самая сложная зона при выдуве: возле точки литника материал вытягивается меньше всего, а бутылка должна устойчиво стоять на быстрых конвейерах. Выбор дна зависит от того, газированный продукт или нет."
           ],
           "table": {
-            "head": ["", "Петалоидное дно", "Плоское дно с вогнутым центром (типа «шампань»)"],
+            "head": [
+              "",
+              "Петалоидное дно",
+              "Плоское дно с вогнутым центром (типа «шампань»)"
+            ],
             "rows": [
-              ["Форма", "Несколько «лепестков»-опор вокруг центральной зоны литника", "Плоское опорное кольцо с куполом в центре"],
-              ["Основное назначение", "Выдерживает внутреннее давление газированного продукта", "Устойчивость для продуктов без давления"],
-              ["Типичное применение для воды", "Газированная вода и часть линий негазированной воды с дозированием азота", "Большинство бутылок негазированной и минеральной воды"],
-              ["Потребность в материале", "Больше материала в опорах и впадинах", "Можно выдувать тоньше, так как давления нет"],
-              ["Основные риски", "Тонкие опоры или растрескивание под напряжением при нехватке материала", "Выдавливание или качание дна при слишком мелком куполе"]
+              [
+                "Форма",
+                "Несколько «лепестков»-опор вокруг центральной зоны литника",
+                "Плоское опорное кольцо с куполом в центре"
+              ],
+              [
+                "Основное назначение",
+                "Выдерживает внутреннее давление газированного продукта",
+                "Устойчивость для продуктов без давления"
+              ],
+              [
+                "Типичное применение для воды",
+                "Газированная вода и часть линий негазированной воды с дозированием азота",
+                "Большинство бутылок негазированной и минеральной воды"
+              ],
+              [
+                "Потребность в материале",
+                "Больше материала в опорах и впадинах",
+                "Можно выдувать тоньше, так как давления нет"
+              ],
+              [
+                "Основные риски",
+                "Тонкие опоры или растрескивание под напряжением при нехватке материала",
+                "Выдавливание или качание дна при слишком мелком куполе"
+              ]
             ]
           },
           "list": [
@@ -198,11 +284,31 @@
             "Горло определяет колпачок, массу преформы в резьбовой зоне и узлы захвата горла на выдувной машине и наполнителе. Позднее изменение затрагивает пресс-форму преформы, поставки колпачков и детали конвейера, поэтому решение принимается в самом начале."
           ],
           "table": {
-            "head": ["Горло", "Номинальный размер", "Типичное применение для воды", "Что проверить"],
+            "head": [
+              "Горло",
+              "Номинальный размер",
+              "Типичное применение для воды",
+              "Что проверить"
+            ],
             "rows": [
-              ["PCO 1881", "28 мм", "Негазированная и газированная вода; общее с линиями газированных напитков", "Тяжелее коротких «водных» горл; удобно, если одна линия выпускает и газированные, и негазированные продукты"],
-              ["2925 (29/25)", "29 мм", "Негазированная вода с короткими лёгкими колпачками", "Поставка колпачков и укупорочные головки должны соответствовать горлу 29 мм"],
-              ["2622 (26/22)", "26 мм", "Негазированная вода, когда нужно самое лёгкое горло", "Меньшее отверстие; проверьте наличие колпачков и оснастку укупорщика"]
+              [
+                "PCO 1881",
+                "28 мм",
+                "Негазированная и газированная вода; общее с линиями газированных напитков",
+                "Тяжелее коротких «водных» горл; удобно, если одна линия выпускает и газированные, и негазированные продукты"
+              ],
+              [
+                "2925 (29/25)",
+                "29 мм",
+                "Негазированная вода с короткими лёгкими колпачками",
+                "Поставка колпачков и укупорочные головки должны соответствовать горлу 29 мм"
+              ],
+              [
+                "2622 (26/22)",
+                "26 мм",
+                "Негазированная вода, когда нужно самое лёгкое горло",
+                "Меньшее отверстие; проверьте наличие колпачков и оснастку укупорщика"
+              ]
             ]
           },
           "list": [
@@ -292,13 +398,37 @@
             "La base es la zona más difícil del soplado: cerca del punto de inyección el material se estira menos y la botella debe mantenerse estable en transportadores rápidos. La base adecuada depende de si el producto es sin gas o carbonatado."
           ],
           "table": {
-            "head": ["", "Base petaloide", "Base plana con fondo cóncavo (tipo champán)"],
+            "head": [
+              "",
+              "Base petaloide",
+              "Base plana con fondo cóncavo (tipo champán)"
+            ],
             "rows": [
-              ["Forma", "Varios pies (\"pétalos\") alrededor de una zona central de inyección", "Anillo de apoyo plano con una cúpula cóncava en el centro"],
-              ["Función principal", "Resiste la presión interna de la carbonatación", "Estabilidad para productos sin presión"],
-              ["Uso típico en agua", "Agua con gas y algunas líneas de agua sin gas con dosificación de nitrógeno", "La mayoría de botellas de agua sin gas y agua mineral"],
-              ["Necesidad de material", "Más material en los pies y valles", "Puede soplarse más delgada porque no hay presión interna"],
-              ["Riesgos principales", "Pies delgados o agrietados por tensión si falta material", "Deformación o balanceo de la base si la cúpula es poco profunda"]
+              [
+                "Forma",
+                "Varios pies (\"pétalos\") alrededor de una zona central de inyección",
+                "Anillo de apoyo plano con una cúpula cóncava en el centro"
+              ],
+              [
+                "Función principal",
+                "Resiste la presión interna de la carbonatación",
+                "Estabilidad para productos sin presión"
+              ],
+              [
+                "Uso típico en agua",
+                "Agua con gas y algunas líneas de agua sin gas con dosificación de nitrógeno",
+                "La mayoría de botellas de agua sin gas y agua mineral"
+              ],
+              [
+                "Necesidad de material",
+                "Más material en los pies y valles",
+                "Puede soplarse más delgada porque no hay presión interna"
+              ],
+              [
+                "Riesgos principales",
+                "Pies delgados o agrietados por tensión si falta material",
+                "Deformación o balanceo de la base si la cúpula es poco profunda"
+              ]
             ]
           },
           "list": [
@@ -327,11 +457,31 @@
             "El acabado de cuello define el tapón, el peso de la preforma en la zona roscada y las piezas de manipulación del cuello en la sopladora y la llenadora. Cambiarlo después afecta al molde de preforma, al suministro de tapones y a las piezas del transportador, por lo que se decide al inicio."
           ],
           "table": {
-            "head": ["Cuello", "Tamaño nominal", "Uso típico en agua", "Puntos a revisar"],
+            "head": [
+              "Cuello",
+              "Tamaño nominal",
+              "Uso típico en agua",
+              "Puntos a revisar"
+            ],
             "rows": [
-              ["PCO 1881", "28 mm", "Agua sin gas y con gas; compartido con líneas de refrescos carbonatados", "Más pesado que los cuellos cortos de agua; útil cuando una línea produce productos con y sin gas"],
-              ["2925 (29/25)", "29 mm", "Agua sin gas con tapones cortos y ligeros", "El suministro de tapones y los cabezales de taponado deben corresponder al cuello de 29 mm"],
-              ["2622 (26/22)", "26 mm", "Agua sin gas cuando se busca el cuello más ligero", "Abertura menor; verificar disponibilidad de tapones y utillaje de la taponadora"]
+              [
+                "PCO 1881",
+                "28 mm",
+                "Agua sin gas y con gas; compartido con líneas de refrescos carbonatados",
+                "Más pesado que los cuellos cortos de agua; útil cuando una línea produce productos con y sin gas"
+              ],
+              [
+                "2925 (29/25)",
+                "29 mm",
+                "Agua sin gas con tapones cortos y ligeros",
+                "El suministro de tapones y los cabezales de taponado deben corresponder al cuello de 29 mm"
+              ],
+              [
+                "2622 (26/22)",
+                "26 mm",
+                "Agua sin gas cuando se busca el cuello más ligero",
+                "Abertura menor; verificar disponibilidad de tapones y utillaje de la taponadora"
+              ]
             ]
           },
           "list": [

@@ -2,17 +2,35 @@
   "key": "product-40",
   "updated": "2026-10-13",
   "sources": [
-    { "label": "Wikipedia — Bottling line", "url": "https://en.wikipedia.org/wiki/Bottling_line" },
-    { "label": "Wikipedia — Single-minute exchange of die", "url": "https://en.wikipedia.org/wiki/Single-minute_exchange_of_die" },
-    { "label": "Wikipedia — Changeover", "url": "https://en.wikipedia.org/wiki/Changeover" },
-    { "label": "Wikipedia — Bottle cap", "url": "https://en.wikipedia.org/wiki/Bottle_cap" },
-    { "label": "Wikipedia — Preform", "url": "https://en.wikipedia.org/wiki/Preform" },
-    { "label": "KHS — official website", "url": "https://www.khs.com/en" }
+    {
+      "label": "Wikipedia — Bottling line",
+      "url": "https://en.wikipedia.org/wiki/Bottling_line"
+    },
+    {
+      "label": "Wikipedia — Single-minute exchange of die",
+      "url": "https://en.wikipedia.org/wiki/Single-minute_exchange_of_die"
+    },
+    {
+      "label": "Wikipedia — Changeover",
+      "url": "https://en.wikipedia.org/wiki/Changeover"
+    },
+    {
+      "label": "Wikipedia — Bottle cap",
+      "url": "https://en.wikipedia.org/wiki/Bottle_cap"
+    },
+    {
+      "label": "Wikipedia — Preform",
+      "url": "https://en.wikipedia.org/wiki/Preform"
+    },
+    {
+      "label": "KHS — official website",
+      "url": "https://www.khs.com/en"
+    }
   ],
   "locales": {
     "en": {
       "heading": "Format change parts for PET bottle lines: star wheels, guides and neck grippers for bottle, neck finish and preform changes",
-      "intro": "Format change parts are the bottle- and preform-specific parts of a blowing or bottle handling line, such as star wheels, transfer guides and neck grippers, that are exchanged when the line switches to a different bottle, neck finish or preform. They decide whether preforms and bottles move through the line without jams, scratches or falls. This guide explains which parts change for each type of format change, what measurement data a supplier needs, and how to run the changeover in a controlled order.",
+      "intro": "A format change part is a bottle- or preform-specific part of a blowing or bottle handling line, such as a star wheel, transfer guide or neck gripper, that is exchanged when the line switches to a different bottle, neck finish or preform. They decide whether preforms and bottles move through the line without jams, scratches or falls. This guide explains which parts change for each type of format change, what measurement data a supplier needs, and how to run the changeover in a controlled order.",
       "sections": [
         {
           "heading": "What changes with a new bottle, neck finish or preform",
@@ -30,12 +48,42 @@
         {
           "heading": "Format change parts comparison table",
           "table": {
-            "head": ["Type of change", "Star wheels", "Guides", "Neck grippers", "Blow mold and blowing parts"],
+            "head": [
+              "Type of change",
+              "Star wheels",
+              "Guides",
+              "Neck grippers",
+              "Blow mold and blowing parts"
+            ],
             "rows": [
-              ["New bottle body (diameter, height, shape)", "Usually new pockets", "Usually new or adjusted", "Usually unchanged if neck is the same", "New cavity inserts or mold"],
-              ["New neck finish", "Check neck-handling stars", "Neck guides change", "New grippers", "New blowing pins; check stretch rods"],
-              ["New preform, same neck", "Usually unchanged", "Check infeed rails", "Usually unchanged", "Check stretch rod stroke and heating settings"],
-              ["Same mold on another blowing machine", "Machine-specific parts", "Machine-specific parts", "Machine-specific parts", "Conversion parts for the mold mounting"]
+              [
+                "New bottle body (diameter, height, shape)",
+                "Usually new pockets",
+                "Usually new or adjusted",
+                "Usually unchanged if neck is the same",
+                "New cavity inserts or mold"
+              ],
+              [
+                "New neck finish",
+                "Check neck-handling stars",
+                "Neck guides change",
+                "New grippers",
+                "New blowing pins; check stretch rods"
+              ],
+              [
+                "New preform, same neck",
+                "Usually unchanged",
+                "Check infeed rails",
+                "Usually unchanged",
+                "Check stretch rod stroke and heating settings"
+              ],
+              [
+                "Same mold on another blowing machine",
+                "Machine-specific parts",
+                "Machine-specific parts",
+                "Machine-specific parts",
+                "Conversion parts for the mold mounting"
+              ]
             ]
           }
         },
@@ -130,12 +178,42 @@
         {
           "heading": "Таблица сравнения сменных деталей формата",
           "table": {
-            "head": ["Вид изменения", "Звёздочки", "Направляющие", "Захваты горловины", "Выдувная форма и дутьевые детали"],
+            "head": [
+              "Вид изменения",
+              "Звёздочки",
+              "Направляющие",
+              "Захваты горловины",
+              "Выдувная форма и дутьевые детали"
+            ],
             "rows": [
-              ["Новый корпус бутылки (диаметр, высота, форма)", "Обычно новые гнёзда", "Обычно новые или перенастроенные", "Обычно без изменений при той же горловине", "Новые вставки или форма"],
-              ["Новая горловина", "Проверить звёздочки, работающие за горловину", "Меняются направляющие горловины", "Новые захваты", "Новые дутьевые ниппели; проверить штоки"],
-              ["Новая преформа, та же горловина", "Обычно без изменений", "Проверить входные направляющие", "Обычно без изменений", "Проверить ход штока и режим нагрева"],
-              ["Та же форма на другой выдувной машине", "Детали под машину", "Детали под машину", "Детали под машину", "Сменные детали для крепления формы"]
+              [
+                "Новый корпус бутылки (диаметр, высота, форма)",
+                "Обычно новые гнёзда",
+                "Обычно новые или перенастроенные",
+                "Обычно без изменений при той же горловине",
+                "Новые вставки или форма"
+              ],
+              [
+                "Новая горловина",
+                "Проверить звёздочки, работающие за горловину",
+                "Меняются направляющие горловины",
+                "Новые захваты",
+                "Новые дутьевые ниппели; проверить штоки"
+              ],
+              [
+                "Новая преформа, та же горловина",
+                "Обычно без изменений",
+                "Проверить входные направляющие",
+                "Обычно без изменений",
+                "Проверить ход штока и режим нагрева"
+              ],
+              [
+                "Та же форма на другой выдувной машине",
+                "Детали под машину",
+                "Детали под машину",
+                "Детали под машину",
+                "Сменные детали для крепления формы"
+              ]
             ]
           }
         },
@@ -230,12 +308,42 @@
         {
           "heading": "Tabla comparativa de piezas de cambio de formato",
           "table": {
-            "head": ["Tipo de cambio", "Estrellas", "Guías", "Pinzas de cuello", "Molde de soplado y piezas de soplado"],
+            "head": [
+              "Tipo de cambio",
+              "Estrellas",
+              "Guías",
+              "Pinzas de cuello",
+              "Molde de soplado y piezas de soplado"
+            ],
             "rows": [
-              ["Nuevo cuerpo de botella (diámetro, altura, forma)", "Normalmente alvéolos nuevos", "Normalmente nuevas o reajustadas", "Normalmente sin cambio si el cuello es el mismo", "Nuevos insertos o molde"],
-              ["Nuevo acabado de cuello", "Revisar estrellas que sujetan por el cuello", "Cambian las guías de cuello", "Pinzas nuevas", "Toberas nuevas; revisar varillas"],
-              ["Nueva preforma, mismo cuello", "Normalmente sin cambio", "Revisar carriles de entrada", "Normalmente sin cambio", "Revisar carrera de la varilla y ajustes de calentamiento"],
-              ["Mismo molde en otra sopladora", "Piezas propias de la máquina", "Piezas propias de la máquina", "Piezas propias de la máquina", "Piezas de conversión para el montaje del molde"]
+              [
+                "Nuevo cuerpo de botella (diámetro, altura, forma)",
+                "Normalmente alvéolos nuevos",
+                "Normalmente nuevas o reajustadas",
+                "Normalmente sin cambio si el cuello es el mismo",
+                "Nuevos insertos o molde"
+              ],
+              [
+                "Nuevo acabado de cuello",
+                "Revisar estrellas que sujetan por el cuello",
+                "Cambian las guías de cuello",
+                "Pinzas nuevas",
+                "Toberas nuevas; revisar varillas"
+              ],
+              [
+                "Nueva preforma, mismo cuello",
+                "Normalmente sin cambio",
+                "Revisar carriles de entrada",
+                "Normalmente sin cambio",
+                "Revisar carrera de la varilla y ajustes de calentamiento"
+              ],
+              [
+                "Mismo molde en otra sopladora",
+                "Piezas propias de la máquina",
+                "Piezas propias de la máquina",
+                "Piezas propias de la máquina",
+                "Piezas de conversión para el montaje del molde"
+              ]
             ]
           }
         },

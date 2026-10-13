@@ -2,15 +2,30 @@
   "key": "page-about",
   "updated": "2026-10-13",
   "sources": [
-    { "label": "Wikipedia — Process capability index", "url": "https://en.wikipedia.org/wiki/Process_capability_index" },
-    { "label": "Wikipedia — Coordinate-measuring machine", "url": "https://en.wikipedia.org/wiki/Coordinate-measuring_machine" },
-    { "label": "Wikipedia — Supplier evaluation", "url": "https://en.wikipedia.org/wiki/Supplier_evaluation" },
-    { "label": "Wikipedia — Polyethylene terephthalate", "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate" },
-    { "label": "Wikipedia — Factory acceptance test", "url": "https://en.wikipedia.org/wiki/Factory_acceptance_test" }
+    {
+      "label": "Wikipedia — Process capability index",
+      "url": "https://en.wikipedia.org/wiki/Process_capability_index"
+    },
+    {
+      "label": "Wikipedia — Coordinate-measuring machine",
+      "url": "https://en.wikipedia.org/wiki/Coordinate-measuring_machine"
+    },
+    {
+      "label": "Wikipedia — Supplier evaluation",
+      "url": "https://en.wikipedia.org/wiki/Supplier_evaluation"
+    },
+    {
+      "label": "Wikipedia — Polyethylene terephthalate",
+      "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate"
+    },
+    {
+      "label": "Wikipedia — Factory acceptance test",
+      "url": "https://en.wikipedia.org/wiki/Factory_acceptance_test"
+    }
   ],
   "locales": {
     "en": {
-      "heading": "About LIHE Precision: PET mold manufacturer background, quality system and Coca-Cola verified supplier status",
+      "heading": "About LIHE Precision: PET preform and blow mold supplier for beverage packaging — quality system and Coca-Cola verified status",
       "intro": "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China. This guide is for buyers who are qualifying LIHE as a supplier: it explains how the company is organised, how its quality figures are defined and checked, what the Coca-Cola verified supplier status means and does not mean, and which projects LIHE is and is not a good fit for.",
       "sections": [
         {
@@ -33,13 +48,43 @@
             "Quality claims are only useful if you know what they measure. CPK, the process capability index, compares the distance between the process mean and the nearest tolerance limit with three standard deviations of the process. A CPK of 1.33 means the nearest limit is four standard deviations away from the mean, which leaves a margin for normal variation. A defect rate of 0.0064% equals about 64 defective parts per million. A coordinate measuring machine (CMM) probes the actual geometry of a part and compares it with the CAD model, which is how core, cavity and neck ring dimensions are verified."
           ],
           "table": {
-            "head": ["Quality metric", "LIHE figure", "What it measures", "How a buyer can check it"],
+            "head": [
+              "Quality metric",
+              "LIHE figure",
+              "What it measures",
+              "How a buyer can check it"
+            ],
             "rows": [
-              ["Process capability", "CPK ≥ 1.33", "How well critical dimensions stay centred in their tolerance", "Ask for capability data on the critical dimensions of your mold"],
-              ["Operational defect rate", "As low as 0.0064% (about 64 per million)", "Share of defective parts in production", "Compare with your own reject counts after start-up"],
-              ["Mold durability", "Up to 8 million shots", "Service life on Husky, SACMI and Netstal platforms", "Track the shot counter and wear-part condition"],
-              ["Dimensional inspection", "In-house Zeiss CMM lab", "Measured geometry of cores, cavities, neck rings and mold bases", "Request the validation and inspection report with delivery"],
-              ["Hot runner sealing", "3-year leakage-proof guarantee", "Leak-free operation of Husky Ultra-type hot runners", "Keep the guarantee terms with the purchase documents"]
+              [
+                "Process capability",
+                "CPK ≥ 1.33",
+                "How well critical dimensions stay centred in their tolerance",
+                "Ask for capability data on the critical dimensions of your mold"
+              ],
+              [
+                "Operational defect rate",
+                "As low as 0.0064% (about 64 per million)",
+                "Share of defective parts in production",
+                "Compare with your own reject counts after start-up"
+              ],
+              [
+                "Mold durability",
+                "Up to 8 million shots",
+                "Service life on Husky, SACMI and Netstal platforms",
+                "Track the shot counter and wear-part condition"
+              ],
+              [
+                "Dimensional inspection",
+                "In-house Zeiss CMM lab",
+                "Measured geometry of cores, cavities, neck rings and mold bases",
+                "Request the validation and inspection report with delivery"
+              ],
+              [
+                "Hot runner sealing",
+                "3-year leakage-proof guarantee",
+                "Leak-free operation of Husky Ultra-type hot runners",
+                "Keep the guarantee terms with the purchase documents"
+              ]
             ]
           }
         },
@@ -140,13 +185,43 @@
             "Заявления о качестве полезны, только если понятно, что именно измеряется. CPK, индекс воспроизводимости процесса, сравнивает расстояние от среднего значения процесса до ближайшей границы допуска с тремя стандартными отклонениями процесса. CPK 1,33 означает, что ближайшая граница находится на расстоянии четырёх стандартных отклонений от среднего, что оставляет запас на обычный разброс. Уровень брака 0,0064% соответствует примерно 64 дефектным изделиям на миллион. Координатно-измерительная машина (КИМ) ощупывает фактическую геометрию детали и сравнивает её с CAD-моделью — так проверяются размеры знаков, матриц и горловых колец."
           ],
           "table": {
-            "head": ["Показатель качества", "Значение LIHE", "Что измеряет", "Как покупатель может проверить"],
+            "head": [
+              "Показатель качества",
+              "Значение LIHE",
+              "Что измеряет",
+              "Как покупатель может проверить"
+            ],
             "rows": [
-              ["Воспроизводимость процесса", "CPK ≥ 1,33", "Насколько стабильно критические размеры держатся в центре допуска", "Запросить данные воспроизводимости по критическим размерам вашей формы"],
-              ["Уровень брака в эксплуатации", "Всего 0,0064% (около 64 на миллион)", "Доля дефектных изделий в производстве", "Сравнить со своей статистикой брака после пуска"],
-              ["Ресурс пресс-формы", "До 8 млн циклов", "Срок службы на платформах Husky, SACMI и Netstal", "Отслеживать счётчик циклов и состояние изнашиваемых деталей"],
-              ["Контроль размеров", "Собственная лаборатория с КИМ Zeiss", "Фактическая геометрия знаков, матриц, горловых колец и плит", "Запросить протокол валидации и контроля вместе с поставкой"],
-              ["Герметичность горячих каналов", "Гарантия 3 года от протечек", "Работа без протечек горячих каналов типа Husky Ultra", "Хранить условия гарантии вместе с документами о покупке"]
+              [
+                "Воспроизводимость процесса",
+                "CPK ≥ 1,33",
+                "Насколько стабильно критические размеры держатся в центре допуска",
+                "Запросить данные воспроизводимости по критическим размерам вашей формы"
+              ],
+              [
+                "Уровень брака в эксплуатации",
+                "Всего 0,0064% (около 64 на миллион)",
+                "Доля дефектных изделий в производстве",
+                "Сравнить со своей статистикой брака после пуска"
+              ],
+              [
+                "Ресурс пресс-формы",
+                "До 8 млн циклов",
+                "Срок службы на платформах Husky, SACMI и Netstal",
+                "Отслеживать счётчик циклов и состояние изнашиваемых деталей"
+              ],
+              [
+                "Контроль размеров",
+                "Собственная лаборатория с КИМ Zeiss",
+                "Фактическая геометрия знаков, матриц, горловых колец и плит",
+                "Запросить протокол валидации и контроля вместе с поставкой"
+              ],
+              [
+                "Герметичность горячих каналов",
+                "Гарантия 3 года от протечек",
+                "Работа без протечек горячих каналов типа Husky Ultra",
+                "Хранить условия гарантии вместе с документами о покупке"
+              ]
             ]
           }
         },
@@ -247,13 +322,43 @@
             "Una afirmación de calidad solo es útil si se sabe qué mide. El CPK, índice de capacidad de proceso, compara la distancia entre la media del proceso y el límite de tolerancia más cercano con tres desviaciones estándar del proceso. Un CPK de 1,33 significa que el límite más cercano está a cuatro desviaciones estándar de la media, lo que deja margen para la variación normal. Una tasa de defectos del 0,0064% equivale a unas 64 piezas defectuosas por millón. Una máquina de medición por coordenadas (MMC) palpa la geometría real de una pieza y la compara con el modelo CAD; así se verifican las cotas de machos, cavidades y anillos de cuello."
           ],
           "table": {
-            "head": ["Indicador de calidad", "Cifra de LIHE", "Qué mide", "Cómo puede comprobarlo el comprador"],
+            "head": [
+              "Indicador de calidad",
+              "Cifra de LIHE",
+              "Qué mide",
+              "Cómo puede comprobarlo el comprador"
+            ],
             "rows": [
-              ["Capacidad de proceso", "CPK ≥ 1,33", "Lo bien centradas que se mantienen las cotas críticas dentro de su tolerancia", "Pedir los datos de capacidad de las cotas críticas de su molde"],
-              ["Tasa de defectos en operación", "Tan baja como 0,0064% (unas 64 por millón)", "Proporción de piezas defectuosas en producción", "Compararla con sus propios rechazos tras la puesta en marcha"],
-              ["Durabilidad del molde", "Hasta 8 millones de ciclos", "Vida útil en plataformas Husky, SACMI y Netstal", "Seguir el contador de ciclos y el estado de las piezas de desgaste"],
-              ["Inspección dimensional", "Laboratorio propio con MMC Zeiss", "Geometría medida de machos, cavidades, anillos de cuello y bases de molde", "Pedir el informe de validación e inspección con la entrega"],
-              ["Estanqueidad del canal caliente", "Garantía de 3 años contra fugas", "Funcionamiento sin fugas de los canales calientes tipo Husky Ultra", "Guardar las condiciones de garantía con los documentos de compra"]
+              [
+                "Capacidad de proceso",
+                "CPK ≥ 1,33",
+                "Lo bien centradas que se mantienen las cotas críticas dentro de su tolerancia",
+                "Pedir los datos de capacidad de las cotas críticas de su molde"
+              ],
+              [
+                "Tasa de defectos en operación",
+                "Tan baja como 0,0064% (unas 64 por millón)",
+                "Proporción de piezas defectuosas en producción",
+                "Compararla con sus propios rechazos tras la puesta en marcha"
+              ],
+              [
+                "Durabilidad del molde",
+                "Hasta 8 millones de ciclos",
+                "Vida útil en plataformas Husky, SACMI y Netstal",
+                "Seguir el contador de ciclos y el estado de las piezas de desgaste"
+              ],
+              [
+                "Inspección dimensional",
+                "Laboratorio propio con MMC Zeiss",
+                "Geometría medida de machos, cavidades, anillos de cuello y bases de molde",
+                "Pedir el informe de validación e inspección con la entrega"
+              ],
+              [
+                "Estanqueidad del canal caliente",
+                "Garantía de 3 años contra fugas",
+                "Funcionamiento sin fugas de los canales calientes tipo Husky Ultra",
+                "Guardar las condiciones de garantía con los documentos de compra"
+              ]
             ]
           }
         },

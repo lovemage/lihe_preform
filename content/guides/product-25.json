@@ -2,16 +2,34 @@
   "key": "product-25",
   "updated": "2026-10-13",
   "sources": [
-    { "label": "Wikipedia — Single-minute exchange of die (SMED)", "url": "https://en.wikipedia.org/wiki/Single-minute_exchange_of_die" },
-    { "label": "Wikipedia — Blow molding", "url": "https://en.wikipedia.org/wiki/Blow_molding" },
-    { "label": "Wikipedia — Stock keeping unit", "url": "https://en.wikipedia.org/wiki/Stock_keeping_unit" },
-    { "label": "Wikipedia — Overall equipment effectiveness", "url": "https://en.wikipedia.org/wiki/Overall_equipment_effectiveness" },
-    { "label": "Wikipedia — Lean manufacturing", "url": "https://en.wikipedia.org/wiki/Lean_manufacturing" },
-    { "label": "Sidel — PET packaging and blow moulding equipment", "url": "https://www.sidel.com/en" }
+    {
+      "label": "Wikipedia — Single-minute exchange of die (SMED)",
+      "url": "https://en.wikipedia.org/wiki/Single-minute_exchange_of_die"
+    },
+    {
+      "label": "Wikipedia — Blow molding",
+      "url": "https://en.wikipedia.org/wiki/Blow_molding"
+    },
+    {
+      "label": "Wikipedia — Stock keeping unit",
+      "url": "https://en.wikipedia.org/wiki/Stock_keeping_unit"
+    },
+    {
+      "label": "Wikipedia — Overall equipment effectiveness",
+      "url": "https://en.wikipedia.org/wiki/Overall_equipment_effectiveness"
+    },
+    {
+      "label": "Wikipedia — Lean manufacturing",
+      "url": "https://en.wikipedia.org/wiki/Lean_manufacturing"
+    },
+    {
+      "label": "Sidel — PET packaging and blow moulding equipment",
+      "url": "https://www.sidel.com/en"
+    }
   ],
   "locales": {
     "en": {
-      "heading": "Blow mold changeover cost: when a split-type quick-change system pays off vs full mold sets",
+      "heading": "Blow mold changeover cost for PET bottle lines: when a split-type quick-change system pays off vs full mold sets",
       "intro": "A split-type quick-change blow mold is a blow mold in which the bottle-shaped cavity inserts and the base are separate from mold shells that stay mounted in the machine, so a format change replaces only the inserts. This guide looks at the full cost of changeovers on a rotary blow molder and shows when a split-type system pays off compared with buying a complete mold set for every bottle. It also gives a changeover procedure and a method for planning SKUs around shared shells.",
       "sections": [
         {
@@ -31,15 +49,47 @@
         {
           "heading": "Full mold set vs split-type quick-change blow mold: comparison",
           "table": {
-            "head": ["", "Full mold set per format", "Split-type quick-change mold"],
+            "head": [
+              "",
+              "Full mold set per format",
+              "Split-type quick-change mold"
+            ],
             "rows": [
-              ["What is changed", "Complete mold halves, shells and base for every cavity", "Cavity inserts and base only; shells stay in the mold carrier"],
-              ["Tooling for a new bottle shape", "New complete mold set", "New inserts and base (shells reused if the bottle fits the shell envelope)"],
-              ["Weight handled during changeover", "Higher; lifting aids often needed", "Lower; inserts are lighter parts"],
-              ["Changeover downtime", "Longer, because more parts are disconnected and aligned", "Shorter, because shells and their connections stay in place"],
-              ["Storage per format", "Full sets per cavity", "Inserts and bases per cavity"],
-              ["Best fit", "Few formats, long runs, very different bottle sizes", "Many SKUs, frequent changes, bottles within one size family"],
-              ["Limits", "Higher cost per new shape", "New shape must fit the existing shell size; shells must be in good condition"]
+              [
+                "What is changed",
+                "Complete mold halves, shells and base for every cavity",
+                "Cavity inserts and base only; shells stay in the mold carrier"
+              ],
+              [
+                "Tooling for a new bottle shape",
+                "New complete mold set",
+                "New inserts and base (shells reused if the bottle fits the shell envelope)"
+              ],
+              [
+                "Weight handled during changeover",
+                "Higher; lifting aids often needed",
+                "Lower; inserts are lighter parts"
+              ],
+              [
+                "Changeover downtime",
+                "Longer, because more parts are disconnected and aligned",
+                "Shorter, because shells and their connections stay in place"
+              ],
+              [
+                "Storage per format",
+                "Full sets per cavity",
+                "Inserts and bases per cavity"
+              ],
+              [
+                "Best fit",
+                "Few formats, long runs, very different bottle sizes",
+                "Many SKUs, frequent changes, bottles within one size family"
+              ],
+              [
+                "Limits",
+                "Higher cost per new shape",
+                "New shape must fit the existing shell size; shells must be in good condition"
+              ]
             ]
           }
         },
@@ -132,7 +182,7 @@
       ]
     },
     "ru": {
-      "heading": "Стоимость переналадки выдувных форм: когда окупается разъёмная форма быстрой смены, а когда полный комплект",
+      "heading": "Стоимость переналадки выдувных форм на линии ПЭТ-бутылок: когда окупается разъёмная форма быстрой смены, а когда полный комплект",
       "intro": "Разъёмная выдувная форма быстрой смены — это выдувная форма, в которой вставки с формой бутылки и дно отделены от корпусов (оболочек), остающихся установленными в машине, поэтому при смене формата меняются только вставки. В этом руководстве разобрана полная стоимость переналадок на ротационной выдувной машине и показано, когда разъёмная система окупается по сравнению с покупкой полного комплекта форм для каждой бутылки. Также приведены порядок переналадки и метод планирования ассортимента (SKU) вокруг общих корпусов.",
       "sections": [
         {
@@ -152,15 +202,47 @@
         {
           "heading": "Полный комплект или разъёмная форма быстрой смены: сравнение",
           "table": {
-            "head": ["", "Полный комплект на формат", "Разъёмная форма быстрой смены"],
+            "head": [
+              "",
+              "Полный комплект на формат",
+              "Разъёмная форма быстрой смены"
+            ],
             "rows": [
-              ["Что меняется", "Полуформы целиком, корпуса и дно для каждого гнезда", "Только вставки и дно; корпуса остаются в формодержателе"],
-              ["Оснастка для новой формы бутылки", "Новый полный комплект", "Новые вставки и дно (корпуса используются повторно, если бутылка вписывается в габарит корпуса)"],
-              ["Масса деталей при переналадке", "Больше; часто нужны подъёмные средства", "Меньше; вставки — более лёгкие детали"],
-              ["Простой при переналадке", "Дольше, так как отсоединяется и выравнивается больше деталей", "Короче, так как корпуса и их подключения остаются на месте"],
-              ["Хранение на формат", "Полные комплекты на гнёзда", "Вставки и донья на гнёзда"],
-              ["Когда лучше всего", "Мало форматов, длинные партии, сильно различающиеся объёмы", "Много SKU, частые смены, бутылки одного размерного ряда"],
-              ["Ограничения", "Выше стоимость каждой новой формы", "Новая форма должна вписываться в существующий корпус; корпуса должны быть в хорошем состоянии"]
+              [
+                "Что меняется",
+                "Полуформы целиком, корпуса и дно для каждого гнезда",
+                "Только вставки и дно; корпуса остаются в формодержателе"
+              ],
+              [
+                "Оснастка для новой формы бутылки",
+                "Новый полный комплект",
+                "Новые вставки и дно (корпуса используются повторно, если бутылка вписывается в габарит корпуса)"
+              ],
+              [
+                "Масса деталей при переналадке",
+                "Больше; часто нужны подъёмные средства",
+                "Меньше; вставки — более лёгкие детали"
+              ],
+              [
+                "Простой при переналадке",
+                "Дольше, так как отсоединяется и выравнивается больше деталей",
+                "Короче, так как корпуса и их подключения остаются на месте"
+              ],
+              [
+                "Хранение на формат",
+                "Полные комплекты на гнёзда",
+                "Вставки и донья на гнёзда"
+              ],
+              [
+                "Когда лучше всего",
+                "Мало форматов, длинные партии, сильно различающиеся объёмы",
+                "Много SKU, частые смены, бутылки одного размерного ряда"
+              ],
+              [
+                "Ограничения",
+                "Выше стоимость каждой новой формы",
+                "Новая форма должна вписываться в существующий корпус; корпуса должны быть в хорошем состоянии"
+              ]
             ]
           }
         },
@@ -273,15 +355,47 @@
         {
           "heading": "Juego completo frente a molde de soplado partido de cambio rápido: comparación",
           "table": {
-            "head": ["", "Juego completo por formato", "Molde partido de cambio rápido"],
+            "head": [
+              "",
+              "Juego completo por formato",
+              "Molde partido de cambio rápido"
+            ],
             "rows": [
-              ["Qué se cambia", "Semimoldes completos, carcasas y base de cada cavidad", "Solo insertos y base; las carcasas quedan en el portamoldes"],
-              ["Utillaje para una nueva forma de botella", "Nuevo juego completo", "Nuevos insertos y base (las carcasas se reutilizan si la botella cabe en su envolvente)"],
-              ["Peso manipulado en el cambio", "Mayor; a menudo se necesitan ayudas de elevación", "Menor; los insertos son piezas más ligeras"],
-              ["Tiempo de parada por cambio", "Más largo, porque se desconectan y alinean más piezas", "Más corto, porque las carcasas y sus conexiones permanecen en su sitio"],
-              ["Almacenamiento por formato", "Juegos completos por cavidad", "Insertos y bases por cavidad"],
-              ["Mejor uso", "Pocos formatos, tiradas largas, tamaños de botella muy distintos", "Muchos SKU, cambios frecuentes, botellas de una misma familia de tamaños"],
-              ["Límites", "Mayor costo por cada nueva forma", "La nueva forma debe caber en la carcasa existente; las carcasas deben estar en buen estado"]
+              [
+                "Qué se cambia",
+                "Semimoldes completos, carcasas y base de cada cavidad",
+                "Solo insertos y base; las carcasas quedan en el portamoldes"
+              ],
+              [
+                "Utillaje para una nueva forma de botella",
+                "Nuevo juego completo",
+                "Nuevos insertos y base (las carcasas se reutilizan si la botella cabe en su envolvente)"
+              ],
+              [
+                "Peso manipulado en el cambio",
+                "Mayor; a menudo se necesitan ayudas de elevación",
+                "Menor; los insertos son piezas más ligeras"
+              ],
+              [
+                "Tiempo de parada por cambio",
+                "Más largo, porque se desconectan y alinean más piezas",
+                "Más corto, porque las carcasas y sus conexiones permanecen en su sitio"
+              ],
+              [
+                "Almacenamiento por formato",
+                "Juegos completos por cavidad",
+                "Insertos y bases por cavidad"
+              ],
+              [
+                "Mejor uso",
+                "Pocos formatos, tiradas largas, tamaños de botella muy distintos",
+                "Muchos SKU, cambios frecuentes, botellas de una misma familia de tamaños"
+              ],
+              [
+                "Límites",
+                "Mayor costo por cada nueva forma",
+                "La nueva forma debe caber en la carcasa existente; las carcasas deben estar en buen estado"
+              ]
             ]
           }
         },

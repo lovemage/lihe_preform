@@ -2,15 +2,30 @@
   "key": "product-26",
   "updated": "2026-10-13",
   "sources": [
-    { "label": "Krones — official website", "url": "https://www.krones.com/en/" },
-    { "label": "Wikipedia — Blow molding", "url": "https://en.wikipedia.org/wiki/Blow_molding" },
-    { "label": "Wikipedia — Single-minute exchange of die", "url": "https://en.wikipedia.org/wiki/Single-minute_exchange_of_die" },
-    { "label": "Wikipedia — Polyethylene terephthalate", "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate" },
-    { "label": "Wikipedia — Soft drink", "url": "https://en.wikipedia.org/wiki/Soft_drink" }
+    {
+      "label": "Krones — official website",
+      "url": "https://www.krones.com/en/"
+    },
+    {
+      "label": "Wikipedia — Blow molding",
+      "url": "https://en.wikipedia.org/wiki/Blow_molding"
+    },
+    {
+      "label": "Wikipedia — Single-minute exchange of die",
+      "url": "https://en.wikipedia.org/wiki/Single-minute_exchange_of_die"
+    },
+    {
+      "label": "Wikipedia — Polyethylene terephthalate",
+      "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate"
+    },
+    {
+      "label": "Wikipedia — Soft drink",
+      "url": "https://en.wikipedia.org/wiki/Soft_drink"
+    }
   ],
   "locales": {
     "en": {
-      "heading": "Krones Contiform cold fill blow mold guide: mold carrier, quick-change locking, quote data and changeover",
+      "heading": "Krones Contiform cold fill PET blow mold: compatible replacement molds, quick-change locking and changeover for beverage bottle lines",
       "intro": "A Krones cold fill blow mold is a matched set of mold shells, base mold and neck plate built to fit the mold carrier and quick-change locking system of a Krones Contiform stretch blow molder, for bottles filled at ambient temperature. This guide focuses on the Contiform interface: how manual and tool-free quick-change carriers affect the mold, what to send for a quote, how to plan sets and spares for frequent format changes, and the steps of a quick changeover.",
       "sections": [
         {
@@ -33,13 +48,37 @@
             "LIHE's Contiform sets are compatible with both manual and tool-free quick-change mold carriers. The two systems ask different things of the mold, so the carrier type must be known before design starts."
           ],
           "table": {
-            "head": ["", "Manual mold carrier", "Tool-free quick-change carrier"],
+            "head": [
+              "",
+              "Manual mold carrier",
+              "Tool-free quick-change carrier"
+            ],
             "rows": [
-              ["How the shells are fixed", "With fasteners released using hand tools", "With the carrier's own locking elements, operated by hand"],
-              ["What the mold must match", "Mounting faces and fastener positions", "Locking and locating features of the quick-change interface"],
-              ["Changeover work per station", "Longer: fasteners and connections are handled one by one", "Shorter: mainly unlocking, handling and checking"],
-              ["Typical line profile", "Few format changes, long production runs", "Frequent format changes, many bottle sizes"],
-              ["Critical check after mounting", "Fastener torque and seating", "Locking element fully engaged and seating"]
+              [
+                "How the shells are fixed",
+                "With fasteners released using hand tools",
+                "With the carrier's own locking elements, operated by hand"
+              ],
+              [
+                "What the mold must match",
+                "Mounting faces and fastener positions",
+                "Locking and locating features of the quick-change interface"
+              ],
+              [
+                "Changeover work per station",
+                "Longer: fasteners and connections are handled one by one",
+                "Shorter: mainly unlocking, handling and checking"
+              ],
+              [
+                "Typical line profile",
+                "Few format changes, long production runs",
+                "Frequent format changes, many bottle sizes"
+              ],
+              [
+                "Critical check after mounting",
+                "Fastener torque and seating",
+                "Locking element fully engaged and seating"
+              ]
             ]
           }
         },
@@ -120,7 +159,7 @@
       ]
     },
     "ru": {
-      "heading": "Выдувные формы холодного розлива для Krones Contiform: формодержатель, быстросменная фиксация, данные для расчёта и смена формата",
+      "heading": "Выдувные формы холодного розлива для ПЭТ-бутылок напитков на Krones Contiform: формодержатель, быстросменная фиксация и смена формата",
       "intro": "Выдувная форма холодного розлива для Krones — это согласованный комплект полуформ, донной формы и плиты горла, изготовленный под формодержатель и систему быстросменной фиксации выдувной машины Krones Contiform, для бутылок, разливаемых при комнатной температуре. Руководство посвящено интерфейсу Contiform: как ручные и бесинструментальные быстросменные формодержатели влияют на форму, что отправить для расчёта, как планировать комплекты и запасные части при частой смене форматов и как выполнять быструю смену.",
       "sections": [
         {
@@ -143,13 +182,37 @@
             "Комплекты LIHE для Contiform совместимы как с ручными, так и с бесинструментальными быстросменными формодержателями. Эти системы предъявляют к форме разные требования, поэтому тип формодержателя нужно знать до начала проектирования."
           ],
           "table": {
-            "head": ["", "Ручной формодержатель", "Бесинструментальный быстросменный формодержатель"],
+            "head": [
+              "",
+              "Ручной формодержатель",
+              "Бесинструментальный быстросменный формодержатель"
+            ],
             "rows": [
-              ["Как крепятся полуформы", "Крепёжными деталями, которые отпускаются ручным инструментом", "Собственными запорными элементами формодержателя, вручную"],
-              ["Чему должна соответствовать форма", "Посадочным поверхностям и положению крепежа", "Запорным и базирующим элементам быстросменного интерфейса"],
-              ["Работа по смене на одну станцию", "Дольше: крепёж и подключения обрабатываются по одному", "Быстрее: в основном разблокировка, перенос и проверка"],
-              ["Типичный профиль линии", "Редкая смена форматов, длинные серии", "Частая смена форматов, много размеров бутылок"],
-              ["Ключевая проверка после установки", "Момент затяжки крепежа и посадка", "Полное зацепление запорного элемента и посадка"]
+              [
+                "Как крепятся полуформы",
+                "Крепёжными деталями, которые отпускаются ручным инструментом",
+                "Собственными запорными элементами формодержателя, вручную"
+              ],
+              [
+                "Чему должна соответствовать форма",
+                "Посадочным поверхностям и положению крепежа",
+                "Запорным и базирующим элементам быстросменного интерфейса"
+              ],
+              [
+                "Работа по смене на одну станцию",
+                "Дольше: крепёж и подключения обрабатываются по одному",
+                "Быстрее: в основном разблокировка, перенос и проверка"
+              ],
+              [
+                "Типичный профиль линии",
+                "Редкая смена форматов, длинные серии",
+                "Частая смена форматов, много размеров бутылок"
+              ],
+              [
+                "Ключевая проверка после установки",
+                "Момент затяжки крепежа и посадка",
+                "Полное зацепление запорного элемента и посадка"
+              ]
             ]
           }
         },
@@ -253,13 +316,37 @@
             "Los juegos LIHE para Contiform son compatibles con portamoldes de cambio rápido manual y sin herramientas. Los dos sistemas exigen cosas distintas al molde, por lo que hay que conocer el tipo de portamoldes antes de empezar el diseño."
           ],
           "table": {
-            "head": ["", "Portamoldes manual", "Portamoldes de cambio rápido sin herramientas"],
+            "head": [
+              "",
+              "Portamoldes manual",
+              "Portamoldes de cambio rápido sin herramientas"
+            ],
             "rows": [
-              ["Cómo se fijan las carcasas", "Con tornillería que se suelta con herramientas manuales", "Con los elementos de bloqueo propios del portamoldes, accionados a mano"],
-              ["Con qué debe coincidir el molde", "Caras de montaje y posiciones de la tornillería", "Elementos de bloqueo y de posicionamiento de la interfaz de cambio rápido"],
-              ["Trabajo de cambio por estación", "Más largo: tornillería y conexiones se manejan una a una", "Más corto: sobre todo desbloquear, manipular y comprobar"],
-              ["Perfil típico de línea", "Pocos cambios de formato, series largas", "Cambios de formato frecuentes, muchos tamaños de botella"],
-              ["Control clave tras el montaje", "Par de apriete y asiento", "Elemento de bloqueo totalmente enclavado y asiento"]
+              [
+                "Cómo se fijan las carcasas",
+                "Con tornillería que se suelta con herramientas manuales",
+                "Con los elementos de bloqueo propios del portamoldes, accionados a mano"
+              ],
+              [
+                "Con qué debe coincidir el molde",
+                "Caras de montaje y posiciones de la tornillería",
+                "Elementos de bloqueo y de posicionamiento de la interfaz de cambio rápido"
+              ],
+              [
+                "Trabajo de cambio por estación",
+                "Más largo: tornillería y conexiones se manejan una a una",
+                "Más corto: sobre todo desbloquear, manipular y comprobar"
+              ],
+              [
+                "Perfil típico de línea",
+                "Pocos cambios de formato, series largas",
+                "Cambios de formato frecuentes, muchos tamaños de botella"
+              ],
+              [
+                "Control clave tras el montaje",
+                "Par de apriete y asiento",
+                "Elemento de bloqueo totalmente enclavado y asiento"
+              ]
             ]
           }
         },

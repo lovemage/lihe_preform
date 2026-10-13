@@ -2,16 +2,34 @@
   "key": "product-21",
   "updated": "2026-10-13",
   "sources": [
-    { "label": "SACMI — Compression molding", "url": "https://www.sacmi.com/en-US/closures-preforms-containers/Compression-Molding" },
-    { "label": "SACMI — Systems for caps, closures, preforms and containers", "url": "https://www.sacmi.com/en-US/closures-preforms-containers" },
-    { "label": "Wikipedia — Compression molding", "url": "https://en.wikipedia.org/wiki/Compression_molding" },
-    { "label": "Wikipedia — Coordinate-measuring machine", "url": "https://en.wikipedia.org/wiki/Coordinate-measuring_machine" },
-    { "label": "Wikipedia — Tool steel", "url": "https://en.wikipedia.org/wiki/Tool_steel" },
-    { "label": "Wikipedia — Process capability index", "url": "https://en.wikipedia.org/wiki/Process_capability_index" }
+    {
+      "label": "SACMI — Compression molding",
+      "url": "https://www.sacmi.com/en-US/closures-preforms-containers/Compression-Molding"
+    },
+    {
+      "label": "SACMI — Systems for caps, closures, preforms and containers",
+      "url": "https://www.sacmi.com/en-US/closures-preforms-containers"
+    },
+    {
+      "label": "Wikipedia — Compression molding",
+      "url": "https://en.wikipedia.org/wiki/Compression_molding"
+    },
+    {
+      "label": "Wikipedia — Coordinate-measuring machine",
+      "url": "https://en.wikipedia.org/wiki/Coordinate-measuring_machine"
+    },
+    {
+      "label": "Wikipedia — Tool steel",
+      "url": "https://en.wikipedia.org/wiki/Tool_steel"
+    },
+    {
+      "label": "Wikipedia — Process capability index",
+      "url": "https://en.wikipedia.org/wiki/Process_capability_index"
+    }
   ],
   "locales": {
     "en": {
-      "heading": "SACMI CCM replacement tooling: punches, dies, cores, cooling inserts and wear parts",
+      "heading": "Compression mold replacement tooling for SACMI CCM cap production lines: punches, dies, cores, cooling inserts and wear parts",
       "intro": "Replacement compression tooling refers to the punches, dies, cores, cooling inserts and wear parts that are remade to the same dimensions as the originals so that a SACMI CCM continuous compression molding line can keep running after its tooling wears. This page is a practical reference for maintenance and purchasing teams: which parts wear and how to recognise it, how to send existing parts to LIHE so they can be reproduced, how replacement parts are inspected and how to maintain tooling between replacements. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China.",
       "sections": [
         {
@@ -29,13 +47,43 @@
         {
           "heading": "Compression tooling parts: what wears and what to look for",
           "table": {
-            "head": ["Part", "Where wear appears", "Typical symptom on the cap or line", "Usual action"],
+            "head": [
+              "Part",
+              "Where wear appears",
+              "Typical symptom on the cap or line",
+              "Usual action"
+            ],
             "rows": [
-              ["Punch", "Forming surface, thread area, sealing features", "Thread or seal dimensions out of tolerance, cap sticking on the punch", "Replace or remake from the existing part"],
-              ["Die (cavity)", "Top panel surface, entry edge", "Surface marks on the top panel, flash at the parting area", "Polish if minor; replace if dimensions are lost"],
-              ["Core", "Thread and band forming edges", "Weak or uneven tamper-evident band, poor thread form", "Replace as a set with matching parts"],
-              ["Cooling inserts", "Water passages, seal faces", "Uneven cap dimensions between stations, water leaks", "Clean passages; replace inserts and seals"],
-              ["Wear parts (sleeves, seals, contact parts)", "Sliding and sealing faces", "Misalignment, leaks, irregular extraction", "Replace at planned intervals"]
+              [
+                "Punch",
+                "Forming surface, thread area, sealing features",
+                "Thread or seal dimensions out of tolerance, cap sticking on the punch",
+                "Replace or remake from the existing part"
+              ],
+              [
+                "Die (cavity)",
+                "Top panel surface, entry edge",
+                "Surface marks on the top panel, flash at the parting area",
+                "Polish if minor; replace if dimensions are lost"
+              ],
+              [
+                "Core",
+                "Thread and band forming edges",
+                "Weak or uneven tamper-evident band, poor thread form",
+                "Replace as a set with matching parts"
+              ],
+              [
+                "Cooling inserts",
+                "Water passages, seal faces",
+                "Uneven cap dimensions between stations, water leaks",
+                "Clean passages; replace inserts and seals"
+              ],
+              [
+                "Wear parts (sleeves, seals, contact parts)",
+                "Sliding and sealing faces",
+                "Misalignment, leaks, irregular extraction",
+                "Replace at planned intervals"
+              ]
             ]
           }
         },
@@ -110,7 +158,7 @@
       ]
     },
     "ru": {
-      "heading": "Сменная оснастка для SACMI CCM: пуансоны, матрицы, знаки, охлаждающие вставки и изнашиваемые детали",
+      "heading": "Сменная оснастка компрессионных пресс-форм SACMI CCM для колпачков бутылок напитков: пуансоны, матрицы, знаки и изнашиваемые детали",
       "intro": "Сменная компрессионная оснастка — это пуансоны, матрицы, знаки, охлаждающие вставки и изнашиваемые детали, которые изготавливаются заново в размерах оригинала, чтобы линия непрерывного компрессионного формования SACMI CCM продолжала работать после износа оснастки. Эта страница — практический справочник для служб обслуживания и закупок: какие детали изнашиваются и как это распознать, как отправить существующие детали в LIHE для воспроизведения, как контролируются сменные детали и как обслуживать оснастку между заменами. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) — производитель пресс-форм для ПЭТ-преформ, выдувных форм, форм для колпачков и компрессионных форм, горячеканальных систем и комплектующих для производства напитков и упаковки, с производством в Фошане, Китай.",
       "sections": [
         {
@@ -128,13 +176,43 @@
         {
           "heading": "Детали компрессионной оснастки: что изнашивается и на что смотреть",
           "table": {
-            "head": ["Деталь", "Где проявляется износ", "Типичный признак на колпачке или линии", "Обычное действие"],
+            "head": [
+              "Деталь",
+              "Где проявляется износ",
+              "Типичный признак на колпачке или линии",
+              "Обычное действие"
+            ],
             "rows": [
-              ["Пуансон", "Формующая поверхность, зона резьбы, элементы уплотнения", "Размеры резьбы или уплотнения вне допуска, залипание колпачка на пуансоне", "Замена или изготовление по существующей детали"],
-              ["Матрица", "Поверхность верхней панели, входная кромка", "Следы на верхней панели, облой в зоне разъёма", "Полировка при небольшом износе; замена при потере размеров"],
-              ["Знак", "Кромки, формующие резьбу и кольцо", "Слабое или неравномерное кольцо контроля вскрытия, плохая резьба", "Замена комплектом с сопряжёнными деталями"],
-              ["Охлаждающие вставки", "Водяные каналы, поверхности уплотнений", "Разные размеры колпачков по станциям, протечки воды", "Очистка каналов; замена вставок и уплотнений"],
-              ["Изнашиваемые детали (втулки, уплотнения, контактные детали)", "Поверхности скольжения и уплотнения", "Несоосность, протечки, нестабильное извлечение", "Замена с плановой периодичностью"]
+              [
+                "Пуансон",
+                "Формующая поверхность, зона резьбы, элементы уплотнения",
+                "Размеры резьбы или уплотнения вне допуска, залипание колпачка на пуансоне",
+                "Замена или изготовление по существующей детали"
+              ],
+              [
+                "Матрица",
+                "Поверхность верхней панели, входная кромка",
+                "Следы на верхней панели, облой в зоне разъёма",
+                "Полировка при небольшом износе; замена при потере размеров"
+              ],
+              [
+                "Знак",
+                "Кромки, формующие резьбу и кольцо",
+                "Слабое или неравномерное кольцо контроля вскрытия, плохая резьба",
+                "Замена комплектом с сопряжёнными деталями"
+              ],
+              [
+                "Охлаждающие вставки",
+                "Водяные каналы, поверхности уплотнений",
+                "Разные размеры колпачков по станциям, протечки воды",
+                "Очистка каналов; замена вставок и уплотнений"
+              ],
+              [
+                "Изнашиваемые детали (втулки, уплотнения, контактные детали)",
+                "Поверхности скольжения и уплотнения",
+                "Несоосность, протечки, нестабильное извлечение",
+                "Замена с плановой периодичностью"
+              ]
             ]
           }
         },
@@ -227,13 +305,43 @@
         {
           "heading": "Piezas del utillaje de compresión: qué se desgasta y qué observar",
           "table": {
-            "head": ["Pieza", "Dónde aparece el desgaste", "Síntoma típico en la tapa o la línea", "Acción habitual"],
+            "head": [
+              "Pieza",
+              "Dónde aparece el desgaste",
+              "Síntoma típico en la tapa o la línea",
+              "Acción habitual"
+            ],
             "rows": [
-              ["Punzón", "Superficie de formado, zona de rosca, elementos de sellado", "Cotas de rosca o sello fuera de tolerancia, tapa pegada al punzón", "Sustituir o fabricar a partir de la pieza existente"],
-              ["Matriz (cavidad)", "Superficie del panel superior, borde de entrada", "Marcas en el panel superior, rebaba en la zona de cierre", "Pulir si es leve; sustituir si se pierden cotas"],
-              ["Macho", "Bordes que forman la rosca y la banda", "Banda de garantía débil o irregular, rosca mal formada", "Sustituir en juego con las piezas que acoplan"],
-              ["Insertos de refrigeración", "Conductos de agua, caras de las juntas", "Cotas desiguales entre estaciones, fugas de agua", "Limpiar conductos; sustituir insertos y juntas"],
-              ["Piezas de desgaste (casquillos, juntas, piezas de contacto)", "Caras de deslizamiento y sellado", "Desalineación, fugas, extracción irregular", "Sustituir a intervalos planificados"]
+              [
+                "Punzón",
+                "Superficie de formado, zona de rosca, elementos de sellado",
+                "Cotas de rosca o sello fuera de tolerancia, tapa pegada al punzón",
+                "Sustituir o fabricar a partir de la pieza existente"
+              ],
+              [
+                "Matriz (cavidad)",
+                "Superficie del panel superior, borde de entrada",
+                "Marcas en el panel superior, rebaba en la zona de cierre",
+                "Pulir si es leve; sustituir si se pierden cotas"
+              ],
+              [
+                "Macho",
+                "Bordes que forman la rosca y la banda",
+                "Banda de garantía débil o irregular, rosca mal formada",
+                "Sustituir en juego con las piezas que acoplan"
+              ],
+              [
+                "Insertos de refrigeración",
+                "Conductos de agua, caras de las juntas",
+                "Cotas desiguales entre estaciones, fugas de agua",
+                "Limpiar conductos; sustituir insertos y juntas"
+              ],
+              [
+                "Piezas de desgaste (casquillos, juntas, piezas de contacto)",
+                "Caras de deslizamiento y sellado",
+                "Desalineación, fugas, extracción irregular",
+                "Sustituir a intervalos planificados"
+              ]
             ]
           }
         },

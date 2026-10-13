@@ -2,16 +2,34 @@
   "key": "product-23",
   "updated": "2026-10-13",
   "sources": [
-    { "label": "KHS — official website", "url": "https://www.khs.com/en/" },
-    { "label": "KHS — products overview", "url": "https://www.khs.com/en/products" },
-    { "label": "Wikipedia — Blow molding", "url": "https://en.wikipedia.org/wiki/Blow_molding" },
-    { "label": "Wikipedia — Carbonated water", "url": "https://en.wikipedia.org/wiki/Carbonated_water" },
-    { "label": "Wikipedia — Bottled water", "url": "https://en.wikipedia.org/wiki/Bottled_water" },
-    { "label": "Wikipedia — Polyethylene terephthalate", "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate" }
+    {
+      "label": "KHS — official website",
+      "url": "https://www.khs.com/en/"
+    },
+    {
+      "label": "KHS — products overview",
+      "url": "https://www.khs.com/en/products"
+    },
+    {
+      "label": "Wikipedia — Blow molding",
+      "url": "https://en.wikipedia.org/wiki/Blow_molding"
+    },
+    {
+      "label": "Wikipedia — Carbonated water",
+      "url": "https://en.wikipedia.org/wiki/Carbonated_water"
+    },
+    {
+      "label": "Wikipedia — Bottled water",
+      "url": "https://en.wikipedia.org/wiki/Bottled_water"
+    },
+    {
+      "label": "Wikipedia — Polyethylene terephthalate",
+      "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate"
+    }
   ],
   "locales": {
     "en": {
-      "heading": "KHS InnoPET Blomax cold fill blow mold guide: mold carrier fit, lightweight still water and CSD bottles, changeover",
+      "heading": "KHS InnoPET Blomax cold fill PET blow mold: compatible replacement molds for beverage bottle lines — mold carrier fit, still water and CSD",
       "intro": "A KHS cold fill blow mold is a set of mold shells, a base mold and a neck plate machined to the mold carrier of a KHS (formerly SIG) InnoPET Blomax stretch blow molder, for bottles filled at ambient temperature. This guide covers what has to match the Blomax mold carrier, the information to send for a quote, design points for lightweight still water and carbonated soft drink (CSD) bottles, and the steps of a format changeover on a Blomax line.",
       "sections": [
         {
@@ -34,13 +52,37 @@
             "The same Blomax machine often runs both still water and carbonated products, but the bottles behave differently in use, so the mold design priorities differ."
           ],
           "table": {
-            "head": ["", "Lightweight still water bottle", "CSD bottle"],
+            "head": [
+              "",
+              "Lightweight still water bottle",
+              "CSD bottle"
+            ],
             "rows": [
-              ["Pressure inside the filled bottle", "None, or a small pressure from nitrogen dosing", "Carbonation pressure throughout shelf life"],
-              ["Typical base", "Flat or champagne-style base", "Petaloid base with feet"],
-              ["Main design goal", "Minimum PET weight while keeping top load and handling strength", "Resistance to pressure, creep and base stress cracking"],
-              ["Critical bottle tests", "Top load, volume, wall thickness distribution", "Burst pressure, volume expansion under pressure, base material distribution"],
-              ["Mold focus", "Even wall distribution, ribs and shoulder shape for stiffness", "Petaloid base geometry and strong base cooling"]
+              [
+                "Pressure inside the filled bottle",
+                "None, or a small pressure from nitrogen dosing",
+                "Carbonation pressure throughout shelf life"
+              ],
+              [
+                "Typical base",
+                "Flat or champagne-style base",
+                "Petaloid base with feet"
+              ],
+              [
+                "Main design goal",
+                "Minimum PET weight while keeping top load and handling strength",
+                "Resistance to pressure, creep and base stress cracking"
+              ],
+              [
+                "Critical bottle tests",
+                "Top load, volume, wall thickness distribution",
+                "Burst pressure, volume expansion under pressure, base material distribution"
+              ],
+              [
+                "Mold focus",
+                "Even wall distribution, ribs and shoulder shape for stiffness",
+                "Petaloid base geometry and strong base cooling"
+              ]
             ]
           }
         },
@@ -139,13 +181,37 @@
             "Одна и та же машина Blomax часто выпускает и негазированную воду, и газированные напитки, но бутылки ведут себя по-разному, поэтому приоритеты при проектировании формы различаются."
           ],
           "table": {
-            "head": ["", "Лёгкая бутылка для негазированной воды", "Бутылка CSD"],
+            "head": [
+              "",
+              "Лёгкая бутылка для негазированной воды",
+              "Бутылка CSD"
+            ],
             "rows": [
-              ["Давление в наполненной бутылке", "Отсутствует или небольшое при дозировании азота", "Давление углекислоты в течение всего срока хранения"],
-              ["Типичное дно", "Плоское дно или дно типа «шампань»", "Лепестковое дно с ножками"],
-              ["Главная задача конструкции", "Минимальный вес ПЭТ при сохранении осевой прочности и удобства обращения", "Стойкость к давлению, ползучести и растрескиванию дна"],
-              ["Ключевые испытания бутылки", "Осевая нагрузка, объём, распределение толщины стенки", "Давление разрыва, увеличение объёма под давлением, распределение материала в дне"],
-              ["Акцент в форме", "Равномерная стенка, рёбра и форма плечиков для жёсткости", "Геометрия лепесткового дна и интенсивное охлаждение дна"]
+              [
+                "Давление в наполненной бутылке",
+                "Отсутствует или небольшое при дозировании азота",
+                "Давление углекислоты в течение всего срока хранения"
+              ],
+              [
+                "Типичное дно",
+                "Плоское дно или дно типа «шампань»",
+                "Лепестковое дно с ножками"
+              ],
+              [
+                "Главная задача конструкции",
+                "Минимальный вес ПЭТ при сохранении осевой прочности и удобства обращения",
+                "Стойкость к давлению, ползучести и растрескиванию дна"
+              ],
+              [
+                "Ключевые испытания бутылки",
+                "Осевая нагрузка, объём, распределение толщины стенки",
+                "Давление разрыва, увеличение объёма под давлением, распределение материала в дне"
+              ],
+              [
+                "Акцент в форме",
+                "Равномерная стенка, рёбра и форма плечиков для жёсткости",
+                "Геометрия лепесткового дна и интенсивное охлаждение дна"
+              ]
             ]
           }
         },
@@ -244,13 +310,37 @@
             "La misma máquina Blomax suele producir agua sin gas y bebidas carbonatadas, pero las botellas se comportan de forma distinta en uso, por lo que las prioridades de diseño del molde cambian."
           ],
           "table": {
-            "head": ["", "Botella ligera de agua sin gas", "Botella CSD"],
+            "head": [
+              "",
+              "Botella ligera de agua sin gas",
+              "Botella CSD"
+            ],
             "rows": [
-              ["Presión dentro de la botella llena", "Ninguna, o una presión pequeña por dosificación de nitrógeno", "Presión de carbonatación durante toda la vida útil"],
-              ["Base típica", "Base plana o tipo champán", "Base petaloide con pies"],
-              ["Objetivo principal del diseño", "Mínimo peso de PET manteniendo la carga vertical y la resistencia en manipulación", "Resistencia a la presión, a la fluencia y al agrietamiento de la base"],
-              ["Ensayos críticos de la botella", "Carga vertical, volumen, distribución del espesor de pared", "Presión de estallido, expansión de volumen bajo presión, distribución de material en la base"],
-              ["Prioridad en el molde", "Pared uniforme, nervios y forma del hombro para dar rigidez", "Geometría de la base petaloide y fuerte refrigeración de la base"]
+              [
+                "Presión dentro de la botella llena",
+                "Ninguna, o una presión pequeña por dosificación de nitrógeno",
+                "Presión de carbonatación durante toda la vida útil"
+              ],
+              [
+                "Base típica",
+                "Base plana o tipo champán",
+                "Base petaloide con pies"
+              ],
+              [
+                "Objetivo principal del diseño",
+                "Mínimo peso de PET manteniendo la carga vertical y la resistencia en manipulación",
+                "Resistencia a la presión, a la fluencia y al agrietamiento de la base"
+              ],
+              [
+                "Ensayos críticos de la botella",
+                "Carga vertical, volumen, distribución del espesor de pared",
+                "Presión de estallido, expansión de volumen bajo presión, distribución de material en la base"
+              ],
+              [
+                "Prioridad en el molde",
+                "Pared uniforme, nervios y forma del hombro para dar rigidez",
+                "Geometría de la base petaloide y fuerte refrigeración de la base"
+              ]
             ]
           }
         },

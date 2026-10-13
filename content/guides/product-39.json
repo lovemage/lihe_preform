@@ -2,17 +2,35 @@
   "key": "product-39",
   "updated": "2026-10-13",
   "sources": [
-    { "label": "Wikipedia — Blow molding", "url": "https://en.wikipedia.org/wiki/Blow_molding" },
-    { "label": "Wikipedia — Parting line", "url": "https://en.wikipedia.org/wiki/Parting_line" },
-    { "label": "Wikipedia — Aluminium alloy", "url": "https://en.wikipedia.org/wiki/Aluminium_alloy" },
-    { "label": "Wikipedia — Tool steel", "url": "https://en.wikipedia.org/wiki/Tool_steel" },
-    { "label": "Wikipedia — Engineering tolerance", "url": "https://en.wikipedia.org/wiki/Engineering_tolerance" },
-    { "label": "Wikipedia — Coordinate-measuring machine", "url": "https://en.wikipedia.org/wiki/Coordinate-measuring_machine" }
+    {
+      "label": "Wikipedia — Blow molding",
+      "url": "https://en.wikipedia.org/wiki/Blow_molding"
+    },
+    {
+      "label": "Wikipedia — Parting line",
+      "url": "https://en.wikipedia.org/wiki/Parting_line"
+    },
+    {
+      "label": "Wikipedia — Aluminium alloy",
+      "url": "https://en.wikipedia.org/wiki/Aluminium_alloy"
+    },
+    {
+      "label": "Wikipedia — Tool steel",
+      "url": "https://en.wikipedia.org/wiki/Tool_steel"
+    },
+    {
+      "label": "Wikipedia — Engineering tolerance",
+      "url": "https://en.wikipedia.org/wiki/Engineering_tolerance"
+    },
+    {
+      "label": "Wikipedia — Coordinate-measuring machine",
+      "url": "https://en.wikipedia.org/wiki/Coordinate-measuring_machine"
+    }
   ],
   "locales": {
     "en": {
       "heading": "Blow mold clamping base alignment: parting line quality, remounting and aluminum vs steel",
-      "intro": "A clamping base is the machined base plate that connects the blow mold halves and the base mold to the mold carrier of a stretch blow molding machine and fixes their position. Because every mold change starts and ends at the clamping base, its mounting faces and locating features decide whether the two bottle halves meet exactly at the parting line. This guide explains what misalignment does to bottles, how to inspect and remount a clamping base, and how aluminum and steel bases compare in general terms.",
+      "intro": "A clamping base is a machined base plate that connects the blow mold halves and the base mold to the mold carrier of a stretch blow molding machine and fixes their position. Because every mold change starts and ends at the clamping base, its mounting faces and locating features decide whether the two bottle halves meet exactly at the parting line. This guide explains what misalignment does to bottles, how to inspect and remount a clamping base, and how aluminum and steel bases compare in general terms.",
       "sections": [
         {
           "heading": "What clamping base misalignment causes in PET blow molds",
@@ -25,7 +43,8 @@
             "Base mismatch: an off-center or stepped base when the base mold is not concentric with the side halves.",
             "Dimensional variation: bottle diameter, ovality or height that differs between stations of the same machine.",
             "Accelerated wear: uneven contact concentrates load on part of the parting face, which wears shells and inserts faster.",
-            "Cooling problems: shifted mounting can strain water connections and cause leaks or reduced flow in one mold half."
+            "Cooling problems: shifted mounting can strain water connections and cause leaks or reduced flow in one mold half.",
+            "Heat-set (hot fill) molds run with heated walls for bottles filled at about 85–95°C, and standard PET deforms above about 60°C, so a clamping base for a heat-set mold must hold alignment while the mold is hot."
           ]
         },
         {
@@ -44,14 +63,42 @@
             "LIHE machines clamping bases from high-strength aluminum alloy or steel according to machine requirements. The table compares the two materials in general terms; the right choice depends on the machine design, not on a single property."
           ],
           "table": {
-            "head": ["Property", "Aluminum alloy base", "Steel base"],
+            "head": [
+              "Property",
+              "Aluminum alloy base",
+              "Steel base"
+            ],
             "rows": [
-              ["Density", "About 2.7 g/cm³, so parts are light and easier to handle during mold changes", "About 7.8 g/cm³, so parts are heavier and may need lifting aids"],
-              ["Thermal conductivity", "High; heat moves quickly between mold and cooling circuit", "Lower; temperature changes more slowly"],
-              ["Wear and dent resistance", "Softer surfaces; locating features may need hardened inserts or bushings", "Harder surfaces; locating features hold their size longer"],
-              ["Machinability", "Fast to machine to tight tolerances", "Slower to machine; may need heat treatment and grinding"],
-              ["Corrosion in water channels", "Depends on alloy and surface treatment; water quality matters", "Carbon steel can rust unless protected or made from corrosion-resistant grade"],
-              ["Typical use", "Machines that require light mold carrier parts and fast changes", "Machines or positions that require high stiffness and wear resistance"]
+              [
+                "Density",
+                "About 2.7 g/cm³, so parts are light and easier to handle during mold changes",
+                "About 7.8 g/cm³, so parts are heavier and may need lifting aids"
+              ],
+              [
+                "Thermal conductivity",
+                "High; heat moves quickly between mold and cooling circuit",
+                "Lower; temperature changes more slowly"
+              ],
+              [
+                "Wear and dent resistance",
+                "Softer surfaces; locating features may need hardened inserts or bushings",
+                "Harder surfaces; locating features hold their size longer"
+              ],
+              [
+                "Machinability",
+                "Fast to machine to tight tolerances",
+                "Slower to machine; may need heat treatment and grinding"
+              ],
+              [
+                "Corrosion in water channels",
+                "Depends on alloy and surface treatment; water quality matters",
+                "Carbon steel can rust unless protected or made from corrosion-resistant grade"
+              ],
+              [
+                "Typical use",
+                "Machines that require light mold carrier parts and fast changes",
+                "Machines or positions that require high stiffness and wear resistance"
+              ]
             ]
           }
         },
@@ -129,7 +176,8 @@
             "Смещение дна: дно не по центру или со ступенькой, если донная форма не соосна с боковыми половинами.",
             "Разброс размеров: диаметр, овальность или высота бутылки различаются между станциями одной машины.",
             "Ускоренный износ: неравномерный контакт нагружает часть поверхности разъёма, и корпуса и вставки изнашиваются быстрее.",
-            "Проблемы охлаждения: смещённый монтаж нагружает водяные соединения и вызывает протечки или снижение расхода в одной половине."
+            "Проблемы охлаждения: смещённый монтаж нагружает водяные соединения и вызывает протечки или снижение расхода в одной половине.",
+            "Формы heat-set (горячий розлив) работают с нагретыми стенками для бутылок, заполняемых примерно при 85–95 °C, а стандартный ПЭТ деформируется выше примерно 60 °C, поэтому основание формы для heat-set должно сохранять соосность в нагретом состоянии."
           ]
         },
         {
@@ -148,14 +196,42 @@
             "LIHE изготавливает прижимные основания из высокопрочного алюминиевого сплава или стали в зависимости от требований машины. Таблица сравнивает материалы в общих чертах; выбор определяется конструкцией машины, а не одним свойством."
           ],
           "table": {
-            "head": ["Свойство", "Основание из алюминиевого сплава", "Стальное основание"],
+            "head": [
+              "Свойство",
+              "Основание из алюминиевого сплава",
+              "Стальное основание"
+            ],
             "rows": [
-              ["Плотность", "Около 2,7 г/см³: детали лёгкие и удобны при смене форм", "Около 7,8 г/см³: детали тяжелее, могут понадобиться подъёмные приспособления"],
-              ["Теплопроводность", "Высокая; тепло быстро передаётся между формой и контуром охлаждения", "Ниже; температура меняется медленнее"],
-              ["Стойкость к износу и вмятинам", "Поверхности мягче; для фиксаторов могут понадобиться закалённые вставки или втулки", "Поверхности твёрже; фиксирующие элементы дольше сохраняют размер"],
-              ["Обрабатываемость", "Быстрая обработка с жёсткими допусками", "Обработка медленнее; может потребоваться термообработка и шлифование"],
-              ["Коррозия в каналах охлаждения", "Зависит от сплава и покрытия; важно качество воды", "Углеродистая сталь ржавеет без защиты или коррозионностойкой марки"],
-              ["Типичное применение", "Машины, где нужны лёгкие детали формодержателя и быстрая смена", "Машины или позиции, где нужны высокая жёсткость и износостойкость"]
+              [
+                "Плотность",
+                "Около 2,7 г/см³: детали лёгкие и удобны при смене форм",
+                "Около 7,8 г/см³: детали тяжелее, могут понадобиться подъёмные приспособления"
+              ],
+              [
+                "Теплопроводность",
+                "Высокая; тепло быстро передаётся между формой и контуром охлаждения",
+                "Ниже; температура меняется медленнее"
+              ],
+              [
+                "Стойкость к износу и вмятинам",
+                "Поверхности мягче; для фиксаторов могут понадобиться закалённые вставки или втулки",
+                "Поверхности твёрже; фиксирующие элементы дольше сохраняют размер"
+              ],
+              [
+                "Обрабатываемость",
+                "Быстрая обработка с жёсткими допусками",
+                "Обработка медленнее; может потребоваться термообработка и шлифование"
+              ],
+              [
+                "Коррозия в каналах охлаждения",
+                "Зависит от сплава и покрытия; важно качество воды",
+                "Углеродистая сталь ржавеет без защиты или коррозионностойкой марки"
+              ],
+              [
+                "Типичное применение",
+                "Машины, где нужны лёгкие детали формодержателя и быстрая смена",
+                "Машины или позиции, где нужны высокая жёсткость и износостойкость"
+              ]
             ]
           }
         },
@@ -233,7 +309,8 @@
             "Desajuste del fondo: fondo descentrado o con escalón cuando el molde de fondo no es concéntrico con las mitades laterales.",
             "Variación dimensional: diámetro, ovalidad o altura de la botella que difieren entre estaciones de la misma máquina.",
             "Desgaste acelerado: un contacto desigual concentra la carga en parte de la cara de partición y desgasta antes carcasas e insertos.",
-            "Problemas de refrigeración: un montaje desplazado puede forzar las conexiones de agua y causar fugas o menos caudal en una mitad."
+            "Problemas de refrigeración: un montaje desplazado puede forzar las conexiones de agua y causar fugas o menos caudal en una mitad.",
+            "Los moldes heat-set (llenado en caliente) trabajan con paredes calefactadas para botellas llenadas a unos 85–95 °C, y el PET estándar se deforma por encima de unos 60 °C, por lo que una base de cierre para un molde heat-set debe mantener la alineación con el molde caliente."
           ]
         },
         {
@@ -252,14 +329,42 @@
             "LIHE mecaniza las bases de cierre en aleación de aluminio de alta resistencia o en acero según los requisitos de la máquina. La tabla compara ambos materiales en términos generales; la elección depende del diseño de la máquina, no de una sola propiedad."
           ],
           "table": {
-            "head": ["Propiedad", "Base de aleación de aluminio", "Base de acero"],
+            "head": [
+              "Propiedad",
+              "Base de aleación de aluminio",
+              "Base de acero"
+            ],
             "rows": [
-              ["Densidad", "Unos 2,7 g/cm³: piezas ligeras y fáciles de manipular en los cambios", "Unos 7,8 g/cm³: piezas más pesadas que pueden requerir medios de elevación"],
-              ["Conductividad térmica", "Alta; el calor pasa rápido entre el molde y el circuito de refrigeración", "Menor; la temperatura cambia más despacio"],
-              ["Resistencia al desgaste y a golpes", "Superficies más blandas; los posicionadores pueden requerir insertos o casquillos templados", "Superficies más duras; los posicionadores mantienen la medida más tiempo"],
-              ["Mecanizado", "Rápido de mecanizar con tolerancias estrechas", "Más lento; puede requerir tratamiento térmico y rectificado"],
-              ["Corrosión en canales de agua", "Depende de la aleación y del tratamiento superficial; importa la calidad del agua", "El acero al carbono se oxida si no se protege o no es de grado resistente a la corrosión"],
-              ["Uso típico", "Máquinas que requieren piezas de portamoldes ligeras y cambios rápidos", "Máquinas o posiciones que requieren alta rigidez y resistencia al desgaste"]
+              [
+                "Densidad",
+                "Unos 2,7 g/cm³: piezas ligeras y fáciles de manipular en los cambios",
+                "Unos 7,8 g/cm³: piezas más pesadas que pueden requerir medios de elevación"
+              ],
+              [
+                "Conductividad térmica",
+                "Alta; el calor pasa rápido entre el molde y el circuito de refrigeración",
+                "Menor; la temperatura cambia más despacio"
+              ],
+              [
+                "Resistencia al desgaste y a golpes",
+                "Superficies más blandas; los posicionadores pueden requerir insertos o casquillos templados",
+                "Superficies más duras; los posicionadores mantienen la medida más tiempo"
+              ],
+              [
+                "Mecanizado",
+                "Rápido de mecanizar con tolerancias estrechas",
+                "Más lento; puede requerir tratamiento térmico y rectificado"
+              ],
+              [
+                "Corrosión en canales de agua",
+                "Depende de la aleación y del tratamiento superficial; importa la calidad del agua",
+                "El acero al carbono se oxida si no se protege o no es de grado resistente a la corrosión"
+              ],
+              [
+                "Uso típico",
+                "Máquinas que requieren piezas de portamoldes ligeras y cambios rápidos",
+                "Máquinas o posiciones que requieren alta rigidez y resistencia al desgaste"
+              ]
             ]
           }
         },

@@ -2,16 +2,34 @@
   "key": "product-27",
   "updated": "2026-10-13",
   "sources": [
-    { "label": "Wikipedia — Hot runner", "url": "https://en.wikipedia.org/wiki/Hot_runner" },
-    { "label": "Wikipedia — Injection moulding", "url": "https://en.wikipedia.org/wiki/Injection_moulding" },
-    { "label": "Wikipedia — Preventive maintenance", "url": "https://en.wikipedia.org/wiki/Preventive_maintenance" },
-    { "label": "Wikipedia — Polymer degradation", "url": "https://en.wikipedia.org/wiki/Polymer_degradation" },
-    { "label": "Husky Technologies", "url": "https://www.husky.co/" },
-    { "label": "Mold-Masters — hot runner systems", "url": "https://www.moldmasters.com/" }
+    {
+      "label": "Wikipedia — Hot runner",
+      "url": "https://en.wikipedia.org/wiki/Hot_runner"
+    },
+    {
+      "label": "Wikipedia — Injection moulding",
+      "url": "https://en.wikipedia.org/wiki/Injection_moulding"
+    },
+    {
+      "label": "Wikipedia — Preventive maintenance",
+      "url": "https://en.wikipedia.org/wiki/Preventive_maintenance"
+    },
+    {
+      "label": "Wikipedia — Polymer degradation",
+      "url": "https://en.wikipedia.org/wiki/Polymer_degradation"
+    },
+    {
+      "label": "Husky Technologies",
+      "url": "https://www.husky.co/"
+    },
+    {
+      "label": "Mold-Masters — hot runner systems",
+      "url": "https://www.moldmasters.com/"
+    }
   ],
   "locales": {
     "en": {
-      "heading": "Hot runner system specification and service reference: cavitation, Husky and Netstal compatibility, spare parts, refurbishment and troubleshooting",
+      "heading": "Hot runner system for PET preform molds: cavitation, compatible Husky and Netstal replacement, spare parts, refurbishment and troubleshooting",
       "intro": "A valve gate hot runner system is the heated manifold, nozzle and valve pin assembly that delivers PET or closure resin to every cavity of a multi-cavity mold and closes each gate with a pin. This page is a working reference for buyers and maintenance teams: what the LIHE hot runner covers, which spare parts to stock, when to refurbish and how to troubleshoot common hot runner faults. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China.",
       "sections": [
         {
@@ -42,11 +60,31 @@
         {
           "heading": "Repair, refurbish or replace a hot runner",
           "table": {
-            "head": ["Option", "When it fits", "Typical scope", "What to send or prepare"],
+            "head": [
+              "Option",
+              "When it fits",
+              "Typical scope",
+              "What to send or prepare"
+            ],
             "rows": [
-              ["Spot repair", "One or a few cavities or zones show faults", "Replace a tip, valve pin, heater or seal", "Cavity and zone numbers, photos of defects"],
-              ["Refurbishment", "General wear after long service, leaks or several weak zones", "Strip, clean, inspect, replace wear parts and seals, test and reassemble", "Hot runner and its history, controller data"],
-              ["Replacement", "Cavitation, pitch or machine changes, or damage beyond repair", "New hot runner built to the mold and machine", "Mold drawings, machine model, cavitation"]
+              [
+                "Spot repair",
+                "One or a few cavities or zones show faults",
+                "Replace a tip, valve pin, heater or seal",
+                "Cavity and zone numbers, photos of defects"
+              ],
+              [
+                "Refurbishment",
+                "General wear after long service, leaks or several weak zones",
+                "Strip, clean, inspect, replace wear parts and seals, test and reassemble",
+                "Hot runner and its history, controller data"
+              ],
+              [
+                "Replacement",
+                "Cavitation, pitch or machine changes, or damage beyond repair",
+                "New hot runner built to the mold and machine",
+                "Mold drawings, machine model, cavitation"
+              ]
             ]
           }
         },
@@ -78,13 +116,37 @@
         {
           "heading": "Common hot runner symptoms and where to look",
           "table": {
-            "head": ["Symptom", "Possible causes", "First checks"],
+            "head": [
+              "Symptom",
+              "Possible causes",
+              "First checks"
+            ],
             "rows": [
-              ["Short shot in one cavity", "Cold zone, failed heater, blocked tip, valve pin not opening", "Zone temperature, heater circuit, pin movement"],
-              ["Heavy or light preform in some cavities", "Temperature differences between zones, worn tips", "Zone readings, cavity-by-cavity weights"],
-              ["Gate defects or stringing", "Worn valve pin or tip, gate too hot, pin timing", "Pin tip condition, gate insert, timing settings"],
-              ["Resin leak", "Worn or damaged seals, incorrect heat-up sequence", "Seal condition, assembly, start-up procedure"],
-              ["Yellowing or black specks", "Degraded resin in dead spots, overheating", "Set temperatures, cleaning history"]
+              [
+                "Short shot in one cavity",
+                "Cold zone, failed heater, blocked tip, valve pin not opening",
+                "Zone temperature, heater circuit, pin movement"
+              ],
+              [
+                "Heavy or light preform in some cavities",
+                "Temperature differences between zones, worn tips",
+                "Zone readings, cavity-by-cavity weights"
+              ],
+              [
+                "Gate defects or stringing",
+                "Worn valve pin or tip, gate too hot, pin timing",
+                "Pin tip condition, gate insert, timing settings"
+              ],
+              [
+                "Resin leak",
+                "Worn or damaged seals, incorrect heat-up sequence",
+                "Seal condition, assembly, start-up procedure"
+              ],
+              [
+                "Yellowing or black specks",
+                "Degraded resin in dead spots, overheating",
+                "Set temperatures, cleaning history"
+              ]
             ]
           }
         },
@@ -154,11 +216,31 @@
         {
           "heading": "Ремонт, восстановление или замена горячеканальной системы",
           "table": {
-            "head": ["Вариант", "Когда подходит", "Типичный объём работ", "Что отправить или подготовить"],
+            "head": [
+              "Вариант",
+              "Когда подходит",
+              "Типичный объём работ",
+              "Что отправить или подготовить"
+            ],
             "rows": [
-              ["Точечный ремонт", "Неисправности в одном или нескольких гнёздах или зонах", "Замена наконечника, иглы, нагревателя или уплотнения", "Номера гнёзд и зон, фото дефектов"],
-              ["Восстановление", "Общий износ после долгой эксплуатации, протечки или несколько слабых зон", "Разборка, очистка, осмотр, замена изнашиваемых деталей и уплотнений, испытания и сборка", "Горячеканальная система и её история, данные контроллера"],
-              ["Замена", "Изменение гнездности, шага или машины, либо повреждения без возможности ремонта", "Новая система под форму и машину", "Чертежи формы, модель машины, гнездность"]
+              [
+                "Точечный ремонт",
+                "Неисправности в одном или нескольких гнёздах или зонах",
+                "Замена наконечника, иглы, нагревателя или уплотнения",
+                "Номера гнёзд и зон, фото дефектов"
+              ],
+              [
+                "Восстановление",
+                "Общий износ после долгой эксплуатации, протечки или несколько слабых зон",
+                "Разборка, очистка, осмотр, замена изнашиваемых деталей и уплотнений, испытания и сборка",
+                "Горячеканальная система и её история, данные контроллера"
+              ],
+              [
+                "Замена",
+                "Изменение гнездности, шага или машины, либо повреждения без возможности ремонта",
+                "Новая система под форму и машину",
+                "Чертежи формы, модель машины, гнездность"
+              ]
             ]
           }
         },
@@ -190,13 +272,37 @@
         {
           "heading": "Типичные симптомы неисправностей и где искать причину",
           "table": {
-            "head": ["Симптом", "Возможные причины", "Первые проверки"],
+            "head": [
+              "Симптом",
+              "Возможные причины",
+              "Первые проверки"
+            ],
             "rows": [
-              ["Недолив в одном гнезде", "Холодная зона, отказ нагревателя, засорённый наконечник, игла не открывается", "Температура зоны, цепь нагревателя, ход иглы"],
-              ["Тяжёлые или лёгкие преформы в части гнёзд", "Разница температур между зонами, изношенные наконечники", "Показания зон, вес по каждому гнезду"],
-              ["Дефекты литника или нити", "Изношенная игла или наконечник, перегрев впуска, тайминг иглы", "Состояние иглы, литниковая вставка, настройки тайминга"],
-              ["Протечка смолы", "Изношенные или повреждённые уплотнения, неправильный порядок разогрева", "Состояние уплотнений, сборка, порядок запуска"],
-              ["Пожелтение или чёрные точки", "Деградировавший материал в застойных зонах, перегрев", "Заданные температуры, история очистки"]
+              [
+                "Недолив в одном гнезде",
+                "Холодная зона, отказ нагревателя, засорённый наконечник, игла не открывается",
+                "Температура зоны, цепь нагревателя, ход иглы"
+              ],
+              [
+                "Тяжёлые или лёгкие преформы в части гнёзд",
+                "Разница температур между зонами, изношенные наконечники",
+                "Показания зон, вес по каждому гнезду"
+              ],
+              [
+                "Дефекты литника или нити",
+                "Изношенная игла или наконечник, перегрев впуска, тайминг иглы",
+                "Состояние иглы, литниковая вставка, настройки тайминга"
+              ],
+              [
+                "Протечка смолы",
+                "Изношенные или повреждённые уплотнения, неправильный порядок разогрева",
+                "Состояние уплотнений, сборка, порядок запуска"
+              ],
+              [
+                "Пожелтение или чёрные точки",
+                "Деградировавший материал в застойных зонах, перегрев",
+                "Заданные температуры, история очистки"
+              ]
             ]
           }
         },
@@ -235,7 +341,7 @@
       ]
     },
     "es": {
-      "heading": "Sistema de canal caliente: especificación y referencia de servicio — cavidades, compatibilidad con Husky y Netstal, repuestos, reacondicionamiento y diagnóstico",
+      "heading": "Sistema de canal caliente para moldes de preforma PET: cavidades, compatibles con Husky y Netstal, repuestos, reacondicionamiento y diagnóstico",
       "intro": "Un sistema de canal caliente con válvula es el conjunto calefactado de colector, boquillas y agujas de válvula que lleva la resina PET o de tapas a cada cavidad de un molde multicavidad y cierra cada entrada con una aguja. Esta página es una referencia de trabajo para compradores y equipos de mantenimiento: qué incluye el canal caliente de LIHE, qué repuestos conviene tener, cuándo reacondicionar y cómo diagnosticar las averías más comunes. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) es un fabricante de moldes de preforma PET, moldes de soplado, moldes de tapas y de compresión, sistemas de canal caliente y componentes de molde para la industria de bebidas y envases, con fabricación en Foshan, China.",
       "sections": [
         {
@@ -266,11 +372,31 @@
         {
           "heading": "Reparar, reacondicionar o sustituir un canal caliente",
           "table": {
-            "head": ["Opción", "Cuándo conviene", "Alcance típico", "Qué enviar o preparar"],
+            "head": [
+              "Opción",
+              "Cuándo conviene",
+              "Alcance típico",
+              "Qué enviar o preparar"
+            ],
             "rows": [
-              ["Reparación puntual", "Una o pocas cavidades o zonas con fallos", "Cambiar una punta, aguja, resistencia o junta", "Números de cavidad y zona, fotos de los defectos"],
-              ["Reacondicionamiento", "Desgaste general tras largo servicio, fugas o varias zonas débiles", "Desmontar, limpiar, inspeccionar, cambiar piezas de desgaste y juntas, probar y montar", "El canal caliente y su historial, datos del controlador"],
-              ["Sustitución", "Cambio de cavidades, paso o máquina, o daños irreparables", "Canal caliente nuevo para el molde y la máquina", "Planos del molde, modelo de máquina, número de cavidades"]
+              [
+                "Reparación puntual",
+                "Una o pocas cavidades o zonas con fallos",
+                "Cambiar una punta, aguja, resistencia o junta",
+                "Números de cavidad y zona, fotos de los defectos"
+              ],
+              [
+                "Reacondicionamiento",
+                "Desgaste general tras largo servicio, fugas o varias zonas débiles",
+                "Desmontar, limpiar, inspeccionar, cambiar piezas de desgaste y juntas, probar y montar",
+                "El canal caliente y su historial, datos del controlador"
+              ],
+              [
+                "Sustitución",
+                "Cambio de cavidades, paso o máquina, o daños irreparables",
+                "Canal caliente nuevo para el molde y la máquina",
+                "Planos del molde, modelo de máquina, número de cavidades"
+              ]
             ]
           }
         },
@@ -302,13 +428,37 @@
         {
           "heading": "Síntomas comunes del canal caliente y dónde buscar",
           "table": {
-            "head": ["Síntoma", "Causas posibles", "Primeras comprobaciones"],
+            "head": [
+              "Síntoma",
+              "Causas posibles",
+              "Primeras comprobaciones"
+            ],
             "rows": [
-              ["Llenado incompleto en una cavidad", "Zona fría, resistencia averiada, punta obstruida, aguja que no abre", "Temperatura de la zona, circuito de la resistencia, movimiento de la aguja"],
-              ["Preformas pesadas o ligeras en algunas cavidades", "Diferencias de temperatura entre zonas, puntas gastadas", "Lecturas de zona, pesos por cavidad"],
-              ["Defectos de entrada o hilos", "Aguja o punta gastada, entrada demasiado caliente, temporización de aguja", "Estado de la aguja, inserto de entrada, ajustes de temporización"],
-              ["Fuga de resina", "Juntas gastadas o dañadas, secuencia de calentamiento incorrecta", "Estado de las juntas, montaje, procedimiento de arranque"],
-              ["Amarilleo o puntos negros", "Resina degradada en zonas muertas, sobrecalentamiento", "Temperaturas de consigna, historial de limpieza"]
+              [
+                "Llenado incompleto en una cavidad",
+                "Zona fría, resistencia averiada, punta obstruida, aguja que no abre",
+                "Temperatura de la zona, circuito de la resistencia, movimiento de la aguja"
+              ],
+              [
+                "Preformas pesadas o ligeras en algunas cavidades",
+                "Diferencias de temperatura entre zonas, puntas gastadas",
+                "Lecturas de zona, pesos por cavidad"
+              ],
+              [
+                "Defectos de entrada o hilos",
+                "Aguja o punta gastada, entrada demasiado caliente, temporización de aguja",
+                "Estado de la aguja, inserto de entrada, ajustes de temporización"
+              ],
+              [
+                "Fuga de resina",
+                "Juntas gastadas o dañadas, secuencia de calentamiento incorrecta",
+                "Estado de las juntas, montaje, procedimiento de arranque"
+              ],
+              [
+                "Amarilleo o puntos negros",
+                "Resina degradada en zonas muertas, sobrecalentamiento",
+                "Temperaturas de consigna, historial de limpieza"
+              ]
             ]
           }
         },

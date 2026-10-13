@@ -5079,7 +5079,7 @@
     "product-27": {
       "key": "product-27",
       "updated": "2026-10-13",
-      "heading": "Sistema de canal caliente: especificación y referencia de servicio — cavidades, compatibilidad con Husky y Netstal, repuestos, reacondicionamiento y diagnóstico",
+      "heading": "Sistema de canal caliente para moldes de preforma PET: cavidades, compatibles con Husky y Netstal, repuestos, reacondicionamiento y diagnóstico",
       "intro": "Un sistema de canal caliente con válvula es el conjunto calefactado de colector, boquillas y agujas de válvula que lleva la resina PET o de tapas a cada cavidad de un molde multicavidad y cierra cada entrada con una aguja. Esta página es una referencia de trabajo para compradores y equipos de mantenimiento: qué incluye el canal caliente de LIHE, qué repuestos conviene tener, cuándo reacondicionar y cómo diagnosticar las averías más comunes. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) es un fabricante de moldes de preforma PET, moldes de soplado, moldes de tapas y de compresión, sistemas de canal caliente y componentes de molde para la industria de bebidas y envases, con fabricación en Foshan, China.",
       "sections": [
         {
@@ -6125,7 +6125,8 @@
             "Desajuste del fondo: fondo descentrado o con escalón cuando el molde de fondo no es concéntrico con las mitades laterales.",
             "Variación dimensional: diámetro, ovalidad o altura de la botella que difieren entre estaciones de la misma máquina.",
             "Desgaste acelerado: un contacto desigual concentra la carga en parte de la cara de partición y desgasta antes carcasas e insertos.",
-            "Problemas de refrigeración: un montaje desplazado puede forzar las conexiones de agua y causar fugas o menos caudal en una mitad."
+            "Problemas de refrigeración: un montaje desplazado puede forzar las conexiones de agua y causar fugas o menos caudal en una mitad.",
+            "Los moldes heat-set (llenado en caliente) trabajan con paredes calefactadas para botellas llenadas a unos 85–95 °C, y el PET estándar se deforma por encima de unos 60 °C, por lo que una base de cierre para un molde heat-set debe mantener la alineación con el molde caliente."
           ]
         },
         {
@@ -6442,7 +6443,8 @@
             "Piezas que tocan el cuerpo y la base: carcasas de molde, bases de cierre y portabases.",
             "Piezas que se mueven dentro de la preforma: varillas de estirado, cuya longitud y punta corresponden a la altura y la base de la botella.",
             "Piezas después de la sopladora: guías de transportador y estrellas dimensionadas para el nuevo diámetro de botella.",
-            "LIHE suministra toberas de soplado, varillas de estirado, bases de cierre, carcasas de molde y piezas de conversión como estrellas, guías y pinzas de cuello, y puede entregarlas junto con el molde de soplado."
+            "LIHE suministra toberas de soplado, varillas de estirado, bases de cierre, carcasas de molde y piezas de conversión como estrellas, guías y pinzas de cuello, y puede entregarlas junto con el molde de soplado.",
+            "Las piezas de reemplazo y conversión fabricadas a partir de piezas o planos existentes del cliente tienen un plazo de 4 semanas para repuestos, y los formatos heat-set deben respetar el punto de deformación del PET estándar, unos 60 °C."
           ]
         },
         {

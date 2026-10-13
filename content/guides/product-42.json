@@ -2,12 +2,30 @@
   "key": "product-42",
   "updated": "2026-10-13",
   "sources": [
-    { "label": "Wikipedia — Blow molding", "url": "https://en.wikipedia.org/wiki/Blow_molding" },
-    { "label": "Wikipedia — Preform", "url": "https://en.wikipedia.org/wiki/Preform" },
-    { "label": "Wikipedia — Plastic bottle", "url": "https://en.wikipedia.org/wiki/Plastic_bottle" },
-    { "label": "Wikipedia — New product development", "url": "https://en.wikipedia.org/wiki/New_product_development" },
-    { "label": "KHS — filling and packaging systems", "url": "https://www.khs.com/en/" },
-    { "label": "Sidel — PET packaging and blow moulding equipment", "url": "https://www.sidel.com/en" }
+    {
+      "label": "Wikipedia — Blow molding",
+      "url": "https://en.wikipedia.org/wiki/Blow_molding"
+    },
+    {
+      "label": "Wikipedia — Preform",
+      "url": "https://en.wikipedia.org/wiki/Preform"
+    },
+    {
+      "label": "Wikipedia — Plastic bottle",
+      "url": "https://en.wikipedia.org/wiki/Plastic_bottle"
+    },
+    {
+      "label": "Wikipedia — New product development",
+      "url": "https://en.wikipedia.org/wiki/New_product_development"
+    },
+    {
+      "label": "KHS — filling and packaging systems",
+      "url": "https://www.khs.com/en/"
+    },
+    {
+      "label": "Sidel — PET packaging and blow moulding equipment",
+      "url": "https://www.sidel.com/en"
+    }
   ],
   "locales": {
     "en": {
@@ -24,7 +42,8 @@
             "Parts that touch the body and base: mold shells, clamping bases and base mold holders.",
             "Parts that move inside the preform: stretch rods, whose length and tip suit the bottle height and base.",
             "Parts downstream of the blower: conveyor guides and star wheels sized for the new bottle diameter.",
-            "LIHE supplies blowing pins, stretch rods, clamping bases, mold shells and conversion parts such as star wheels, guides and neck grippers, and can deliver them together with the blow mold."
+            "LIHE supplies blowing pins, stretch rods, clamping bases, mold shells and conversion parts such as star wheels, guides and neck grippers, and can deliver them together with the blow mold.",
+            "Replacement and conversion parts made from customers' existing parts or drawings are quoted with a 4-week lead time for replacement parts, and heat-set formats must respect the 60°C deformation point of standard PET."
           ]
         },
         {
@@ -33,13 +52,49 @@
             "The table shows typical scope. The exact list depends on the machine model and the old and new bottle, so it is confirmed against drawings."
           ],
           "table": {
-            "head": ["Change", "Blow mold", "Preform side", "Blow molder accessories", "Other line parts to check"],
+            "head": [
+              "Change",
+              "Blow mold",
+              "Preform side",
+              "Blow molder accessories",
+              "Other line parts to check"
+            ],
             "rows": [
-              ["Neck finish change (for example PCO 1810 to PCO 1881)", "Neck area may change; body can often stay", "New preform, new preform mold or neck conversion", "Blowing pins, neck grippers, star wheels and guides at the neck", "Capper heads, closure supply, filler neck handling"],
-              ["New shape, same capacity and neck", "New mold or new inserts", "Usually unchanged", "Base mold or clamping base if the base changes", "Labeler and conveyor guides if the profile changes"],
-              ["New capacity (for example 330ml to 1.5L)", "New mold set", "New preform weight and often new preform", "Stretch rods for the new height, base molds, possibly mold shells", "Star wheels, guides and filler parts for the new diameter and height"],
-              ["Cross-machine conversion", "Existing mold reused", "Unchanged", "Conversion parts: mold shells or adapters, clamping bases, blowing pins, stretch rods for the target machine", "Machine interface, cooling connections, recipe"],
-              ["Lightweighting, same bottle", "Same mold or minor adjustment", "Lighter preform (LIHE proposals: 1g to 2g lighter)", "Usually none; check stretch rod if preform length changes", "Usually none"]
+              [
+                "Neck finish change (for example PCO 1810 to PCO 1881)",
+                "Neck area may change; body can often stay",
+                "New preform, new preform mold or neck conversion",
+                "Blowing pins, neck grippers, star wheels and guides at the neck",
+                "Capper heads, closure supply, filler neck handling"
+              ],
+              [
+                "New shape, same capacity and neck",
+                "New mold or new inserts",
+                "Usually unchanged",
+                "Base mold or clamping base if the base changes",
+                "Labeler and conveyor guides if the profile changes"
+              ],
+              [
+                "New capacity (for example 330ml to 1.5L)",
+                "New mold set",
+                "New preform weight and often new preform",
+                "Stretch rods for the new height, base molds, possibly mold shells",
+                "Star wheels, guides and filler parts for the new diameter and height"
+              ],
+              [
+                "Cross-machine conversion",
+                "Existing mold reused",
+                "Unchanged",
+                "Conversion parts: mold shells or adapters, clamping bases, blowing pins, stretch rods for the target machine",
+                "Machine interface, cooling connections, recipe"
+              ],
+              [
+                "Lightweighting, same bottle",
+                "Same mold or minor adjustment",
+                "Lighter preform (LIHE proposals: 1g to 2g lighter)",
+                "Usually none; check stretch rod if preform length changes",
+                "Usually none"
+              ]
             ]
           }
         },
@@ -122,7 +177,7 @@
       ]
     },
     "ru": {
-      "heading": "Планирование смены формата бутылки: какие комплектующие и переходные детали для выдувной машины нужны",
+      "heading": "Смена формата ПЭТ-бутылок на линии напитков: какие комплектующие и переходные детали для выдувной машины нужны",
       "intro": "Комплект комплектующих для выдувного формования — это набор деталей со стороны машины, таких как дутьевые сопла, вытяжные штоки, прижимные основания, корпуса форм и переходные детали, который позволяет выдувной машине выпускать бутылку с новым горлом, новой формой или объёмом либо работать с формой от другой машины. В руководстве показано, какие детали обычно требуются при каждом типе изменения, и приведены контрольный список и пошаговый план, чтобы детали пришли вместе с выдувной формой и запуск не задержался из-за одной недостающей позиции.",
       "sections": [
         {
@@ -135,7 +190,8 @@
             "Детали, касающиеся корпуса и дна: корпуса форм, прижимные основания и держатели донных форм.",
             "Детали, движущиеся внутри преформы: вытяжные штоки, длина и наконечник которых соответствуют высоте и дну бутылки.",
             "Детали после выдувной машины: направляющие конвейера и звёзды под новый диаметр бутылки.",
-            "LIHE поставляет дутьевые сопла, вытяжные штоки, прижимные основания, корпуса форм и переходные детали — звёзды, направляющие и захваты горла — и может отгрузить их вместе с выдувной формой."
+            "LIHE поставляет дутьевые сопла, вытяжные штоки, прижимные основания, корпуса форм и переходные детали — звёзды, направляющие и захваты горла — и может отгрузить их вместе с выдувной формой.",
+            "Сменные и переходные детали по существующим деталям или чертежам заказчика изготавливаются со сроком поставки запасных частей 4 недели, а для форматов heat-set нужно учитывать порог деформации стандартного ПЭТ около 60 °C."
           ]
         },
         {
@@ -144,13 +200,49 @@
             "Таблица показывает типичный объём. Точный перечень зависит от модели машины, старой и новой бутылки и подтверждается по чертежам."
           ],
           "table": {
-            "head": ["Изменение", "Выдувная форма", "Сторона преформы", "Комплектующие выдувной машины", "Что проверить на линии"],
+            "head": [
+              "Изменение",
+              "Выдувная форма",
+              "Сторона преформы",
+              "Комплектующие выдувной машины",
+              "Что проверить на линии"
+            ],
             "rows": [
-              ["Смена горла (например, PCO 1810 на PCO 1881)", "Может измениться зона горла; корпус часто остаётся", "Новая преформа, новая пресс-форма преформы или переделка горла", "Дутьевые сопла, захваты горла, звёзды и направляющие по горлу", "Укупорочные головки, поставка колпачков, захват горла в наполнителе"],
-              ["Новая форма при том же объёме и горле", "Новая форма или новые вставки", "Обычно без изменений", "Донная форма или прижимное основание, если меняется дно", "Направляющие этикетировщика и конвейера при изменении профиля"],
-              ["Новый объём (например, 330 мл на 1,5 л)", "Новый комплект форм", "Новая масса и часто новая преформа", "Вытяжные штоки под новую высоту, донные формы, возможно корпуса форм", "Звёзды, направляющие и детали наполнителя под новый диаметр и высоту"],
-              ["Переход на другую машину", "Используется существующая форма", "Без изменений", "Переходные детали: корпуса форм или адаптеры, прижимные основания, дутьевые сопла, вытяжные штоки для целевой машины", "Интерфейс машины, подключения охлаждения, рецептура"],
-              ["Облегчение той же бутылки", "Та же форма или небольшая доработка", "Более лёгкая преформа (предложения LIHE: на 1–2 г легче)", "Обычно ничего; проверить шток при изменении длины преформы", "Обычно ничего"]
+              [
+                "Смена горла (например, PCO 1810 на PCO 1881)",
+                "Может измениться зона горла; корпус часто остаётся",
+                "Новая преформа, новая пресс-форма преформы или переделка горла",
+                "Дутьевые сопла, захваты горла, звёзды и направляющие по горлу",
+                "Укупорочные головки, поставка колпачков, захват горла в наполнителе"
+              ],
+              [
+                "Новая форма при том же объёме и горле",
+                "Новая форма или новые вставки",
+                "Обычно без изменений",
+                "Донная форма или прижимное основание, если меняется дно",
+                "Направляющие этикетировщика и конвейера при изменении профиля"
+              ],
+              [
+                "Новый объём (например, 330 мл на 1,5 л)",
+                "Новый комплект форм",
+                "Новая масса и часто новая преформа",
+                "Вытяжные штоки под новую высоту, донные формы, возможно корпуса форм",
+                "Звёзды, направляющие и детали наполнителя под новый диаметр и высоту"
+              ],
+              [
+                "Переход на другую машину",
+                "Используется существующая форма",
+                "Без изменений",
+                "Переходные детали: корпуса форм или адаптеры, прижимные основания, дутьевые сопла, вытяжные штоки для целевой машины",
+                "Интерфейс машины, подключения охлаждения, рецептура"
+              ],
+              [
+                "Облегчение той же бутылки",
+                "Та же форма или небольшая доработка",
+                "Более лёгкая преформа (предложения LIHE: на 1–2 г легче)",
+                "Обычно ничего; проверить шток при изменении длины преформы",
+                "Обычно ничего"
+              ]
             ]
           }
         },
@@ -246,7 +338,8 @@
             "Piezas que tocan el cuerpo y la base: carcasas de molde, bases de cierre y portabases.",
             "Piezas que se mueven dentro de la preforma: varillas de estirado, cuya longitud y punta corresponden a la altura y la base de la botella.",
             "Piezas después de la sopladora: guías de transportador y estrellas dimensionadas para el nuevo diámetro de botella.",
-            "LIHE suministra toberas de soplado, varillas de estirado, bases de cierre, carcasas de molde y piezas de conversión como estrellas, guías y pinzas de cuello, y puede entregarlas junto con el molde de soplado."
+            "LIHE suministra toberas de soplado, varillas de estirado, bases de cierre, carcasas de molde y piezas de conversión como estrellas, guías y pinzas de cuello, y puede entregarlas junto con el molde de soplado.",
+            "Las piezas de reemplazo y conversión fabricadas a partir de piezas o planos existentes del cliente tienen un plazo de 4 semanas para repuestos, y los formatos heat-set deben respetar el punto de deformación del PET estándar, unos 60 °C."
           ]
         },
         {
@@ -255,13 +348,49 @@
             "La tabla muestra el alcance típico. La lista exacta depende del modelo de máquina y de la botella anterior y la nueva, y se confirma con los planos."
           ],
           "table": {
-            "head": ["Cambio", "Molde de soplado", "Lado de la preforma", "Accesorios de la sopladora", "Otras piezas de línea a revisar"],
+            "head": [
+              "Cambio",
+              "Molde de soplado",
+              "Lado de la preforma",
+              "Accesorios de la sopladora",
+              "Otras piezas de línea a revisar"
+            ],
             "rows": [
-              ["Cambio de cuello (por ejemplo de PCO 1810 a PCO 1881)", "Puede cambiar la zona del cuello; el cuerpo a menudo se mantiene", "Nueva preforma, nuevo molde de preforma o conversión del cuello", "Toberas de soplado, pinzas de cuello, estrellas y guías en el cuello", "Cabezales de taponado, suministro de tapones, manipulación del cuello en la llenadora"],
-              ["Nueva forma, misma capacidad y cuello", "Nuevo molde o nuevos insertos", "Normalmente sin cambios", "Molde de fondo o base de cierre si cambia la base", "Guías de etiquetadora y transportador si cambia el perfil"],
-              ["Nueva capacidad (por ejemplo de 330 ml a 1,5 L)", "Nuevo juego de moldes", "Nuevo peso y a menudo nueva preforma", "Varillas de estirado para la nueva altura, moldes de fondo y posiblemente carcasas", "Estrellas, guías y piezas de llenadora para el nuevo diámetro y altura"],
-              ["Conversión a otra máquina", "Se reutiliza el molde existente", "Sin cambios", "Piezas de conversión: carcasas o adaptadores, bases de cierre, toberas de soplado y varillas de estirado para la máquina destino", "Interfaz de la máquina, conexiones de refrigeración, receta"],
-              ["Aligeramiento de la misma botella", "El mismo molde o un ajuste menor", "Preforma más ligera (propuestas de LIHE: entre 1 g y 2 g menos)", "Normalmente ninguno; revisar la varilla si cambia la longitud de la preforma", "Normalmente ninguna"]
+              [
+                "Cambio de cuello (por ejemplo de PCO 1810 a PCO 1881)",
+                "Puede cambiar la zona del cuello; el cuerpo a menudo se mantiene",
+                "Nueva preforma, nuevo molde de preforma o conversión del cuello",
+                "Toberas de soplado, pinzas de cuello, estrellas y guías en el cuello",
+                "Cabezales de taponado, suministro de tapones, manipulación del cuello en la llenadora"
+              ],
+              [
+                "Nueva forma, misma capacidad y cuello",
+                "Nuevo molde o nuevos insertos",
+                "Normalmente sin cambios",
+                "Molde de fondo o base de cierre si cambia la base",
+                "Guías de etiquetadora y transportador si cambia el perfil"
+              ],
+              [
+                "Nueva capacidad (por ejemplo de 330 ml a 1,5 L)",
+                "Nuevo juego de moldes",
+                "Nuevo peso y a menudo nueva preforma",
+                "Varillas de estirado para la nueva altura, moldes de fondo y posiblemente carcasas",
+                "Estrellas, guías y piezas de llenadora para el nuevo diámetro y altura"
+              ],
+              [
+                "Conversión a otra máquina",
+                "Se reutiliza el molde existente",
+                "Sin cambios",
+                "Piezas de conversión: carcasas o adaptadores, bases de cierre, toberas de soplado y varillas de estirado para la máquina destino",
+                "Interfaz de la máquina, conexiones de refrigeración, receta"
+              ],
+              [
+                "Aligeramiento de la misma botella",
+                "El mismo molde o un ajuste menor",
+                "Preforma más ligera (propuestas de LIHE: entre 1 g y 2 g menos)",
+                "Normalmente ninguno; revisar la varilla si cambia la longitud de la preforma",
+                "Normalmente ninguna"
+              ]
             ]
           }
         },
