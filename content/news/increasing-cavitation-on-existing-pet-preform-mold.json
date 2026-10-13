@@ -1,0 +1,479 @@
+{
+  "slug": "increasing-cavitation-on-existing-pet-preform-mold",
+  "questionId": "q118",
+  "date": "2026-10-13",
+  "relatedProducts": [19, 27, 30],
+  "images": {
+    "hero": "/images/news/increasing-cavitation-on-existing-pet-preform-mold-hero.webp",
+    "detail": "/images/news/increasing-cavitation-on-existing-pet-preform-mold-detail.webp",
+    "og": "/images/news/increasing-cavitation-on-existing-pet-preform-mold-hero-og.jpg"
+  },
+  "sources": [
+    { "label": "Wikipedia — Injection moulding", "url": "https://en.wikipedia.org/wiki/Injection_moulding" },
+    { "label": "Wikipedia — Hot runner", "url": "https://en.wikipedia.org/wiki/Hot_runner" },
+    { "label": "Wikipedia — Coordinate-measuring machine", "url": "https://en.wikipedia.org/wiki/Coordinate-measuring_machine" },
+    { "label": "Wikipedia — Polyethylene terephthalate", "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate" },
+    { "label": "Wikipedia — Process capability index", "url": "https://en.wikipedia.org/wiki/Process_capability_index" }
+  ],
+  "locales": {
+    "en": {
+      "category": "Technical Insights",
+      "title": "We Need to Increase Cavitation on an Existing PET Preform Mold—What's the Best Way to Upgrade It?",
+      "summary": "How to raise the cavity count of an existing PET preform mold: checking machine limits, choosing between re-cavitating the mold, building a new mold base and hot runner around reused stack parts, or ordering a new mold, plus a step-by-step plan and common problems after the upgrade.",
+      "heroAlt": "Large steel mold base with many evenly spaced cavity bores on a CNC machining center table",
+      "detailAlt": "Coordinate measuring machine probe inspecting a machined mold plate with a grid of cavity bores",
+      "sections": [
+        {
+          "heading": "What is the best way to increase cavitation on an existing preform mold?",
+          "paragraphs": [
+            "Cavitation is the number of cavities in a mold, which means the number of preforms produced in each shot. The best way to increase it depends first on the injection molding machine: if clamp force, shot capacity, platen space, post-mold cooling and auxiliary equipment can handle more cavities, the usual route is a new mold base and a new, balanced hot runner, reusing stack components (cores, cavities, neck rings) where the preform design stays the same.",
+            "Adding cavities inside the original mold plates is rarely possible, because the plates, cooling layout and hot runner manifold are designed for a fixed pitch and cavity count. If the machine itself is the limit, more cavities on the same machine will not work, and the decision becomes a question of a larger machine or a second line."
+          ]
+        },
+        {
+          "heading": "Key numbers for a cavitation upgrade",
+          "list": [
+            "LIHE preform molds are built from 2 to 160 cavities.",
+            "LIHE mold bases are made for preform molds up to 160 cavities, machined on Mazak, Makino and Haas, ground on Okamoto and verified on a Zeiss CMM.",
+            "LIHE valve gate hot runners are available for up to 144 preform cavities, with a 3-year leakage-proof guarantee on the Husky Ultra-type design.",
+            "Published lead times: pilot molds 20 days, standard PET molds 8 weeks, replacement parts 4 weeks.",
+            "Over 12,000 cavities are produced per year at LIHE."
+          ]
+        },
+        {
+          "heading": "Upgrade options compared",
+          "table": {
+            "head": ["Option", "What changes", "What can be reused", "When it fits"],
+            "rows": [
+              ["Re-cavitate in existing plates", "New cavity bores and cooling in the old plates, new manifold", "Mold base frame, sometimes stack parts", "Rare; only if the plates have enough space and the pitch allows it"],
+              ["New mold base and hot runner, reused stack", "New plates, cooling layout and balanced hot runner", "Cores, cavities, neck rings, gate inserts in good condition", "Same preform design, machine has spare capacity"],
+              ["Complete new mold", "Everything", "Nothing, or only spare parts", "Old stack is worn or preform design changes"],
+              ["New mold with preform redesign", "Everything, plus new preform geometry", "Nothing", "You also want lightweighting or a new neck finish"]
+            ]
+          }
+        },
+        {
+          "heading": "Check the machine and line capacity first",
+          "list": [
+            "Clamp force: more cavities increase the projected area and the clamp force needed to keep the mold closed.",
+            "Shot size and plasticizing rate: the extruder must melt more PET per cycle without raising melt temperature and AA.",
+            "Platen and tie-bar space: the larger mold must fit between the tie bars and on the platens, including the hot runner and water connections.",
+            "Mold height and opening stroke: confirm the new stack height and the stroke needed for ejection.",
+            "Post-mold cooling and take-out plate: the robot or take-out plate must have matching positions for every new cavity.",
+            "Hot runner controller: one zone per drop plus manifold zones; the controller may need more zones.",
+            "Chiller, dryer and material handling: water flow, cooling capacity and dried-resin throughput rise with cavitation.",
+            "Downstream capacity: blow molders, conveyors and packing must absorb the extra preforms."
+          ]
+        },
+        {
+          "heading": "What to prepare before you request a proposal",
+          "list": [
+            "Machine brand, model, clamp force, tie-bar spacing, platen drawing and screw size.",
+            "The current mold drawings, cavity count, pitch and the hot runner make and model.",
+            "The preform drawing, weight and neck finish, and whether any of these should change.",
+            "The condition of the existing stack components: shot count, wear, and recent inspection results.",
+            "Take-out plate and post-mold cooling details, and the hot runner controller zone count.",
+            "Target output per hour and the current cycle time, so that the new cavitation can be compared with the alternatives."
+          ]
+        },
+        {
+          "heading": "Step-by-step: upgrading cavitation",
+          "steps": [
+            "Audit the machine and line capacity against the target cavitation and decide whether the current machine can run it.",
+            "Inspect the existing stack components and decide which can be reused; measure critical dimensions on a CMM.",
+            "Choose the upgrade option: new mold base and hot runner around reused parts, or a complete new mold.",
+            "Design the new cavity layout and pitch, the cooling circuits and a naturally balanced hot runner, and check them with flow analysis.",
+            "Confirm interfaces: take-out plate positions, hot runner controller zones, water manifolds and machine connections.",
+            "Manufacture the mold base and hot runner, refurbish reused stack parts and inspect every component.",
+            "Assemble and test the mold, then run a trial to check weight balance, preform quality and cycle time on every cavity.",
+            "Install and start up on the production machine, and validate the process with per-cavity data before full production."
+          ]
+        },
+        {
+          "heading": "Hot runner and balance considerations",
+          "list": [
+            "Every additional cavity adds a drop to the manifold; flow paths to each drop must have the same length and pressure drop for equal fill.",
+            "A naturally balanced layout is preferred to one that relies on temperature tuning to compensate for unequal flow paths.",
+            "More cavities mean more heater zones and thermocouples, so plan the controller and wiring as part of the upgrade.",
+            "Valve gates give consistent gate quality across many cavities; check that valve actuation is synchronised across the whole layout.",
+            "A larger manifold holds more melt; keep residence time in mind, because longer residence raises AA."
+          ]
+        },
+        {
+          "heading": "Common problems after a cavitation upgrade",
+          "table": {
+            "head": ["Problem", "Likely cause", "What to check or change"],
+            "rows": [
+              ["Weight imbalance between cavities", "Unbalanced manifold or uneven zone temperatures", "Check zone temperatures; verify the manifold design is naturally balanced"],
+              ["Short shots in outer cavities", "Longer flow path or cold manifold zones", "Inspect heaters and thermocouples; review flow analysis"],
+              ["Longer cycle than expected", "Chiller or water flow too small for the larger mold", "Measure flow per circuit; upgrade chiller or water supply"],
+              ["Flash at neck rings", "Clamp force too low for the new projected area", "Check clamp force against the mold requirement"],
+              ["Wall eccentricity in some cavities", "Reused cores or tapers worn, misalignment", "Measure reused parts; replace worn components"],
+              ["Higher AA", "Larger manifold volume and longer residence time", "Lower melt temperature; check shot size versus barrel"],
+              ["Preforms dropped or damaged at take-out", "Take-out plate not matched to the new layout", "Confirm take-out plate positions and timing"]
+            ]
+          }
+        },
+        {
+          "heading": "Advanced tips",
+          "list": [
+            "Combine the cavitation upgrade with lightweighting: LIHE proposals reduce preform weight by 1 g to 2 g through neck or wall-thickness optimization.",
+            "Use the redesign to improve cooling; optimized cooling can reduce neck cooling time by up to 0.5 s.",
+            "Consider a neck finish conversion at the same time if the market is moving to a lighter finish such as PCO 1881 or 29/25.",
+            "Test a new preform design with a pilot mold first; pilot molds have a 20-day lead time.",
+            "Specify capability targets in the order; LIHE tooling consistently achieves CPK ≥ 1.33.",
+            "Plan the change around downtime: a standard PET mold has an 8-week lead time, so order before the peak season."
+          ]
+        },
+        {
+          "heading": "Related concepts",
+          "list": [
+            "Pitch: the center-to-center distance between cavities, which limits how many cavities fit on a plate.",
+            "Projected area: the area of all cavities and runners seen from the clamp direction, which drives required clamp force.",
+            "Stack components: the core, cavity, neck rings and gate insert that form one preform.",
+            "Naturally balanced hot runner: a manifold in which every drop has the same flow length and geometry.",
+            "Coordinate measuring machine (CMM): a device that measures geometry with a probe to verify parts against the drawing."
+          ]
+        },
+        {
+          "heading": "How LIHE supports cavitation upgrades",
+          "list": [
+            "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China.",
+            "Engineering and design center with CAD/CAM, 3D simulation and flow analysis before production.",
+            "Project retrofitting: complete mold overhauls and performance upgrades to restore aging assets to OEM-level efficiency.",
+            "Conversion parts that are 100% interchangeable with Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps and Corvaglia systems.",
+            "Molds for HUSKY, NETSTAL, SACMI, SIPA, Milacron and other machines, with on-site installation and start-up support."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Can we just add cavities to our existing mold plates?",
+          "answer": "Rarely. The plates, cooling layout and manifold are designed for a fixed pitch and cavity count. In most cases a new mold base and hot runner are needed, and stack parts in good condition can be reused."
+        },
+        {
+          "question": "Can we reuse our existing cores, cavities and neck rings?",
+          "answer": "Yes, if the preform design stays the same and the parts pass inspection. Worn parts should be refurbished or replaced, because they cause flash and wall eccentricity in the new mold."
+        },
+        {
+          "question": "How do we know if our machine can handle more cavities?",
+          "answer": "Check clamp force, shot size and plasticizing rate, tie-bar spacing, mold height, take-out plate positions, hot runner controller zones, chiller and dryer capacity. If any of these is too small, the machine is the limit."
+        },
+        {
+          "question": "What is the maximum cavitation LIHE can build?",
+          "answer": "LIHE preform molds range from 2 to 160 cavities and mold bases are made for up to 160 cavities. LIHE valve gate hot runners are available for up to 144 preform cavities."
+        },
+        {
+          "question": "Is a cavitation upgrade cheaper than a new mold?",
+          "answer": "It depends on how much can be reused. Cost drivers are the new mold base, the hot runner, refurbishment of reused stack parts and any machine-side changes. Exact prices require a quote based on your drawings."
+        }
+      ]
+    },
+    "ru": {
+      "category": "Технические статьи",
+      "title": "Нам нужно увеличить число гнёзд в существующей пресс-форме для ПЭТ-преформ — как лучше её модернизировать?",
+      "summary": "Как увеличить количество гнёзд существующей пресс-формы для ПЭТ-преформ: проверка ограничений машины, выбор между доработкой формы, новой плитой и горячим каналом с повторным использованием деталей пакета или новой формой, а также пошаговый план и типичные проблемы после модернизации.",
+      "heroAlt": "Крупная стальная плита пресс-формы с множеством равномерно расположенных гнёзд на столе обрабатывающего центра",
+      "detailAlt": "Щуп координатно-измерительной машины проверяет обработанную плиту формы с сеткой гнёзд",
+      "sections": [
+        {
+          "heading": "Как лучше увеличить число гнёзд в существующей пресс-форме для преформ?",
+          "paragraphs": [
+            "Гнёздность — это количество гнёзд в пресс-форме, то есть число преформ, получаемых за один цикл. Лучший способ её увеличить зависит прежде всего от литьевой машины: если усилие смыкания, объём впрыска, размеры плит, послеформовочное охлаждение и вспомогательное оборудование выдерживают больше гнёзд, обычный путь — новая плита формы и новая сбалансированная горячеканальная система с повторным использованием деталей пакета (пуансонов, матриц, горловых колец), если конструкция преформы не меняется.",
+            "Добавить гнёзда в исходные плиты формы удаётся редко, потому что плиты, схема охлаждения и коллектор горячего канала рассчитаны на фиксированный шаг и число гнёзд. Если ограничением является сама машина, больше гнёзд на ней работать не будет, и решение сводится к выбору более крупной машины или второй линии."
+          ]
+        },
+        {
+          "heading": "Ключевые цифры для увеличения гнёздности",
+          "list": [
+            "Пресс-формы LIHE для преформ выпускаются на 2–160 гнёзд.",
+            "Плиты форм LIHE изготавливаются для форм на количество гнёзд до 160, обрабатываются на Mazak, Makino и Haas, шлифуются на Okamoto и проверяются на КИМ Zeiss.",
+            "Клапанные горячие каналы LIHE выпускаются на количество гнёзд до 144 для преформ, с 3-летней гарантией от протечек для конструкции типа Husky Ultra.",
+            "Опубликованные сроки: пилотные формы — 20 дней, стандартные ПЭТ-формы — 8 недель, запасные части — 4 недели.",
+            "LIHE производит более 12 000 гнёзд в год."
+          ]
+        },
+        {
+          "heading": "Сравнение вариантов модернизации",
+          "table": {
+            "head": ["Вариант", "Что меняется", "Что можно использовать повторно", "Когда подходит"],
+            "rows": [
+              ["Добавить гнёзда в существующие плиты", "Новые гнёзда и охлаждение в старых плитах, новый коллектор", "Каркас плиты, иногда детали пакета", "Редко; только если в плитах достаточно места и шаг позволяет"],
+              ["Новая плита и горячий канал с прежним пакетом", "Новые плиты, схема охлаждения и сбалансированный горячий канал", "Пуансоны, матрицы, горловые кольца, литниковые вставки в хорошем состоянии", "Та же преформа, у машины есть запас мощности"],
+              ["Полностью новая форма", "Всё", "Ничего или только запасные части", "Старый пакет изношен или меняется конструкция преформы"],
+              ["Новая форма с переработкой преформы", "Всё, плюс новая геометрия преформы", "Ничего", "Нужно также облегчение или новая горловина"]
+            ]
+          }
+        },
+        {
+          "heading": "Сначала проверьте возможности машины и линии",
+          "list": [
+            "Усилие смыкания: больше гнёзд — больше площадь проекции и усилие, необходимое для удержания формы закрытой.",
+            "Объём впрыска и производительность пластикации: экструдер должен расплавлять больше ПЭТ за цикл без роста температуры расплава и AA.",
+            "Расстояние между колоннами и размер плит: более крупная форма должна поместиться между колоннами и на плитах вместе с горячим каналом и подключениями воды.",
+            "Высота формы и ход раскрытия: подтвердите новую высоту пакета и ход, необходимый для съёма.",
+            "Послеформовочное охлаждение и плита съёма: у робота или плиты съёма должны быть позиции под каждое новое гнездо.",
+            "Контроллер горячего канала: по одной зоне на сопло плюс зоны коллектора; контроллеру может понадобиться больше зон.",
+            "Чиллер, сушилка и подача материала: расход воды, мощность охлаждения и производительность по сухой смоле растут с гнёздностью.",
+            "Производительность после формы: выдувные машины, конвейеры и упаковка должны принять дополнительные преформы."
+          ]
+        },
+        {
+          "heading": "Что подготовить перед запросом предложения",
+          "list": [
+            "Марку и модель машины, усилие смыкания, расстояние между колоннами, чертёж плит и размер шнека.",
+            "Чертежи текущей формы, количество гнёзд, шаг, а также марку и модель горячего канала.",
+            "Чертёж преформы, вес и горловину, а также нужно ли что-то из этого изменить.",
+            "Состояние существующих деталей пакета: счётчик циклов, износ и результаты последнего контроля.",
+            "Данные плиты съёма и послеформовочного охлаждения, число зон контроллера горячего канала.",
+            "Целевую производительность в час и текущее время цикла, чтобы сравнить новую гнёздность с альтернативами."
+          ]
+        },
+        {
+          "heading": "Пошаговое увеличение гнёздности",
+          "steps": [
+            "Проведите аудит возможностей машины и линии относительно целевой гнёздности и решите, сможет ли текущая машина работать с ней.",
+            "Осмотрите существующие детали пакета и решите, какие можно использовать повторно; измерьте критические размеры на КИМ.",
+            "Выберите вариант модернизации: новая плита и горячий канал с прежними деталями или полностью новая форма.",
+            "Спроектируйте новую раскладку гнёзд и шаг, контуры охлаждения и естественно сбалансированный горячий канал и проверьте их анализом течения.",
+            "Подтвердите интерфейсы: позиции плиты съёма, зоны контроллера горячего канала, водяные коллекторы и подключения машины.",
+            "Изготовьте плиту формы и горячий канал, восстановите повторно используемые детали пакета и проконтролируйте каждую деталь.",
+            "Соберите и испытайте форму, затем проведите пробный запуск для проверки баланса веса, качества преформ и времени цикла по каждому гнезду.",
+            "Установите форму на производственную машину, запустите и валидируйте процесс по данным каждого гнезда перед полным производством."
+          ]
+        },
+        {
+          "heading": "Горячий канал и балансировка",
+          "list": [
+            "Каждое дополнительное гнездо добавляет сопло в коллектор; пути течения к каждому соплу должны иметь одинаковую длину и потерю давления для равного заполнения.",
+            "Естественно сбалансированная схема предпочтительнее схемы, где неравные пути течения компенсируются подстройкой температур.",
+            "Больше гнёзд — больше зон нагрева и термопар, поэтому контроллер и проводку нужно планировать как часть модернизации.",
+            "Клапанные литники обеспечивают стабильное качество литника на многих гнёздах; проверьте синхронность срабатывания игл по всей схеме.",
+            "Больший коллектор вмещает больше расплава; учитывайте время пребывания, так как его рост повышает AA."
+          ]
+        },
+        {
+          "heading": "Типичные проблемы после увеличения гнёздности",
+          "table": {
+            "head": ["Проблема", "Вероятная причина", "Что проверить или изменить"],
+            "rows": [
+              ["Разброс веса между гнёздами", "Несбалансированный коллектор или неравные температуры зон", "Проверить температуры зон; убедиться, что коллектор естественно сбалансирован"],
+              ["Недоливы во внешних гнёздах", "Более длинный путь течения или холодные зоны коллектора", "Осмотреть нагреватели и термопары; пересмотреть анализ течения"],
+              ["Цикл длиннее ожидаемого", "Чиллер или расход воды малы для более крупной формы", "Измерить расход по контурам; усилить чиллер или подачу воды"],
+              ["Облой на горловых кольцах", "Усилие смыкания мало для новой площади проекции", "Сверить усилие смыкания с требованием формы"],
+              ["Разностенность в части гнёзд", "Изношенные повторно используемые пуансоны или конусы, несоосность", "Измерить повторно используемые детали; заменить изношенные"],
+              ["Повышенный AA", "Больший объём коллектора и более долгое пребывание", "Снизить температуру расплава; проверить дозу относительно цилиндра"],
+              ["Падение или повреждение преформ при съёме", "Плита съёма не соответствует новой раскладке", "Подтвердить позиции и синхронизацию плиты съёма"]
+            ]
+          }
+        },
+        {
+          "heading": "Практические советы",
+          "list": [
+            "Совмещайте увеличение гнёздности с облегчением: предложения LIHE снижают вес преформы на 1–2 г за счёт оптимизации горловины или толщины стенки.",
+            "Используйте перепроектирование для улучшения охлаждения; оптимизированное охлаждение может сократить время охлаждения горловины до 0,5 с.",
+            "Рассмотрите одновременную смену горловины, если рынок переходит на более лёгкую, например PCO 1881 или 29/25.",
+            "Сначала испытайте новую конструкцию преформы на пилотной форме; срок изготовления пилотной формы — 20 дней.",
+            "Указывайте целевые показатели воспроизводимости в заказе; оснастка LIHE стабильно обеспечивает CPK ≥ 1,33.",
+            "Планируйте замену с учётом простоя: срок изготовления стандартной ПЭТ-формы — 8 недель, поэтому заказывайте до пикового сезона."
+          ]
+        },
+        {
+          "heading": "Связанные понятия",
+          "list": [
+            "Шаг: расстояние между центрами гнёзд, ограничивающее число гнёзд на плите.",
+            "Площадь проекции: площадь всех гнёзд и каналов в направлении смыкания, определяющая необходимое усилие смыкания.",
+            "Детали пакета (stack): пуансон, матрица, горловые кольца и литниковая вставка, формирующие одну преформу.",
+            "Естественно сбалансированный горячий канал: коллектор, в котором у каждого сопла одинаковая длина и геометрия пути течения.",
+            "Координатно-измерительная машина (КИМ): прибор, измеряющий геометрию щупом для проверки деталей по чертежу."
+          ]
+        },
+        {
+          "heading": "Как LIHE поддерживает увеличение гнёздности",
+          "list": [
+            "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) — производитель пресс-форм для ПЭТ-преформ, выдувных форм, форм для колпачков и компрессионных форм, горячеканальных систем и комплектующих для производства напитков и упаковки, с производством в Фошане, Китай.",
+            "Инженерно-конструкторский центр с CAD/CAM, 3D-моделированием и анализом течения до начала производства.",
+            "Модернизация проектов: полный капитальный ремонт форм и улучшение характеристик, возвращающие стареющей оснастке эффективность уровня OEM.",
+            "Конверсионные детали, на 100% взаимозаменяемые с системами Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps и Corvaglia.",
+            "Формы для машин HUSKY, NETSTAL, SACMI, SIPA, Milacron и других, с установкой и поддержкой пуска на месте."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Можно ли просто добавить гнёзда в существующие плиты формы?",
+          "answer": "Редко. Плиты, схема охлаждения и коллектор рассчитаны на фиксированный шаг и число гнёзд. В большинстве случаев нужны новая плита и горячий канал, а детали пакета в хорошем состоянии можно использовать повторно."
+        },
+        {
+          "question": "Можно ли повторно использовать наши пуансоны, матрицы и горловые кольца?",
+          "answer": "Да, если конструкция преформы не меняется и детали проходят контроль. Изношенные детали нужно восстановить или заменить, так как они вызывают облой и разностенность в новой форме."
+        },
+        {
+          "question": "Как понять, выдержит ли наша машина больше гнёзд?",
+          "answer": "Проверьте усилие смыкания, объём впрыска и производительность пластикации, расстояние между колоннами, высоту формы, позиции плиты съёма, зоны контроллера горячего канала, мощность чиллера и сушилки. Если что-то из этого недостаточно, ограничением является машина."
+        },
+        {
+          "question": "Какую максимальную гнёздность может изготовить LIHE?",
+          "answer": "Пресс-формы LIHE для преформ выпускаются на 2–160 гнёзд, плиты форм — для форм до 160 гнёзд. Клапанные горячие каналы LIHE выпускаются на количество гнёзд до 144 для преформ."
+        },
+        {
+          "question": "Дешевле ли увеличение гнёздности, чем новая форма?",
+          "answer": "Зависит от того, сколько можно использовать повторно. Основные статьи затрат — новая плита формы, горячий канал, восстановление повторно используемых деталей пакета и изменения на стороне машины. Точная цена требует расчёта по вашим чертежам."
+        }
+      ]
+    },
+    "es": {
+      "category": "Artículos técnicos",
+      "title": "Necesitamos aumentar el número de cavidades de un molde de preformas PET existente: ¿cuál es la mejor forma de mejorarlo?",
+      "summary": "Cómo aumentar el número de cavidades de un molde de preformas PET existente: comprobar los límites de la máquina, elegir entre recavitar el molde, construir una nueva base de molde y canal caliente reutilizando el conjunto, o pedir un molde nuevo, con un plan paso a paso y los problemas comunes tras la mejora.",
+      "heroAlt": "Gran base de molde de acero con muchos alojamientos de cavidad espaciados de forma uniforme sobre la mesa de un centro de mecanizado CNC",
+      "detailAlt": "Palpador de una máquina de medición por coordenadas inspeccionando una placa de molde mecanizada con una cuadrícula de cavidades",
+      "sections": [
+        {
+          "heading": "¿Cuál es la mejor forma de aumentar las cavidades de un molde de preformas existente?",
+          "paragraphs": [
+            "La cavitación es el número de cavidades de un molde, es decir, el número de preformas que se producen en cada inyección. La mejor forma de aumentarla depende primero de la máquina de inyección: si la fuerza de cierre, la capacidad de inyección, el espacio entre platos, el post-enfriamiento y los equipos auxiliares admiten más cavidades, la vía habitual es una nueva base de molde y un nuevo canal caliente equilibrado, reutilizando componentes del conjunto (machos, cavidades, anillos de cuello) si el diseño de la preforma no cambia.",
+            "Añadir cavidades dentro de las placas originales del molde rara vez es posible, porque las placas, la disposición de refrigeración y el distribuidor del canal caliente están diseñados para un paso y un número de cavidades fijos. Si el límite es la propia máquina, más cavidades en esa máquina no funcionarán y la decisión pasa a ser una máquina mayor o una segunda línea."
+          ]
+        },
+        {
+          "heading": "Cifras clave para un aumento de cavidades",
+          "list": [
+            "Los moldes de preforma de LIHE se fabrican de 2 a 160 cavidades.",
+            "Las bases de molde de LIHE se fabrican para moldes de preforma de hasta 160 cavidades, mecanizadas en Mazak, Makino y Haas, rectificadas en Okamoto y verificadas en una MMC Zeiss.",
+            "Los canales calientes de válvula de LIHE están disponibles hasta 144 cavidades de preforma, con una garantía de 3 años contra fugas en el diseño tipo Husky Ultra.",
+            "Plazos publicados: moldes piloto 20 días, moldes PET estándar 8 semanas, piezas de repuesto 4 semanas.",
+            "LIHE produce más de 12.000 cavidades al año."
+          ]
+        },
+        {
+          "heading": "Comparación de opciones de mejora",
+          "table": {
+            "head": ["Opción", "Qué cambia", "Qué se puede reutilizar", "Cuándo encaja"],
+            "rows": [
+              ["Recavitar en las placas existentes", "Nuevos alojamientos y refrigeración en las placas antiguas, nuevo distribuidor", "Estructura de la base, a veces piezas del conjunto", "Raro; solo si las placas tienen espacio y el paso lo permite"],
+              ["Nueva base de molde y canal caliente, conjunto reutilizado", "Nuevas placas, refrigeración y canal caliente equilibrado", "Machos, cavidades, anillos de cuello e insertos en buen estado", "Mismo diseño de preforma y la máquina tiene capacidad sobrante"],
+              ["Molde completamente nuevo", "Todo", "Nada, o solo repuestos", "El conjunto antiguo está desgastado o cambia el diseño de la preforma"],
+              ["Molde nuevo con rediseño de preforma", "Todo, más una nueva geometría de preforma", "Nada", "También se busca aligerar o cambiar el acabado de cuello"]
+            ]
+          }
+        },
+        {
+          "heading": "Compruebe primero la capacidad de la máquina y de la línea",
+          "list": [
+            "Fuerza de cierre: más cavidades aumentan el área proyectada y la fuerza necesaria para mantener el molde cerrado.",
+            "Capacidad de inyección y de plastificación: la extrusora debe fundir más PET por ciclo sin subir la temperatura del fundido ni el AA.",
+            "Espacio entre columnas y platos: el molde más grande debe caber entre las columnas y sobre los platos, con el canal caliente y las conexiones de agua.",
+            "Altura de molde y carrera de apertura: confirme la nueva altura del conjunto y la carrera necesaria para la expulsión.",
+            "Post-enfriamiento y placa de extracción: el robot o la placa de extracción deben tener posiciones para cada nueva cavidad.",
+            "Controlador del canal caliente: una zona por boquilla más las zonas del distribuidor; puede necesitar más zonas.",
+            "Enfriador, secador y manejo de material: el caudal de agua, la capacidad de refrigeración y el caudal de resina seca aumentan con la cavitación.",
+            "Capacidad aguas abajo: sopladoras, transportadores y embalaje deben absorber las preformas adicionales."
+          ]
+        },
+        {
+          "heading": "Qué preparar antes de pedir una propuesta",
+          "list": [
+            "Marca y modelo de la máquina, fuerza de cierre, distancia entre columnas, plano de platos y tamaño del husillo.",
+            "Los planos del molde actual, número de cavidades, paso y la marca y modelo del canal caliente.",
+            "El plano de la preforma, su peso y acabado de cuello, y si alguno de ellos debe cambiar.",
+            "El estado de los componentes del conjunto existentes: número de ciclos, desgaste y resultados de la última inspección.",
+            "Los datos de la placa de extracción y del post-enfriamiento, y el número de zonas del controlador del canal caliente.",
+            "La producción objetivo por hora y el tiempo de ciclo actual, para comparar la nueva cavitación con las alternativas."
+          ]
+        },
+        {
+          "heading": "Paso a paso: aumentar la cavitación",
+          "steps": [
+            "Audite la capacidad de la máquina y de la línea frente a la cavitación objetivo y decida si la máquina actual puede trabajar con ella.",
+            "Inspeccione los componentes del conjunto existentes y decida cuáles se pueden reutilizar; mida las cotas críticas en una MMC.",
+            "Elija la opción de mejora: nueva base de molde y canal caliente con piezas reutilizadas, o un molde completamente nuevo.",
+            "Diseñe la nueva disposición de cavidades y el paso, los circuitos de refrigeración y un canal caliente equilibrado de forma natural, y verifíquelos con análisis de flujo.",
+            "Confirme las interfaces: posiciones de la placa de extracción, zonas del controlador del canal caliente, distribuidores de agua y conexiones de la máquina.",
+            "Fabrique la base de molde y el canal caliente, reacondicione las piezas reutilizadas e inspeccione cada componente.",
+            "Monte y pruebe el molde y haga una prueba para comprobar el equilibrio de peso, la calidad de la preforma y el tiempo de ciclo en cada cavidad.",
+            "Instale y ponga en marcha en la máquina de producción y valide el proceso con datos por cavidad antes de la producción plena."
+          ]
+        },
+        {
+          "heading": "Canal caliente y equilibrio",
+          "list": [
+            "Cada cavidad adicional añade una boquilla al distribuidor; los recorridos de flujo a cada boquilla deben tener la misma longitud y caída de presión para un llenado igual.",
+            "Es preferible una disposición equilibrada de forma natural a una que dependa del ajuste de temperaturas para compensar recorridos desiguales.",
+            "Más cavidades significan más zonas de calefacción y termopares, así que planifique el controlador y el cableado como parte de la mejora.",
+            "Los puntos de válvula dan una calidad de punto de inyección constante en muchas cavidades; compruebe que el accionamiento de las agujas está sincronizado en toda la disposición.",
+            "Un distribuidor mayor contiene más fundido; tenga en cuenta el tiempo de residencia, porque una residencia más larga eleva el AA."
+          ]
+        },
+        {
+          "heading": "Problemas comunes tras aumentar la cavitación",
+          "table": {
+            "head": ["Problema", "Causa probable", "Qué revisar o cambiar"],
+            "rows": [
+              ["Desequilibrio de peso entre cavidades", "Distribuidor desequilibrado o temperaturas de zona desiguales", "Revisar temperaturas de zona; verificar que el distribuidor esté equilibrado de forma natural"],
+              ["Inyecciones incompletas en cavidades exteriores", "Recorrido de flujo más largo o zonas frías del distribuidor", "Inspeccionar resistencias y termopares; revisar el análisis de flujo"],
+              ["Ciclo más largo de lo previsto", "Enfriador o caudal de agua insuficientes para el molde mayor", "Medir caudal por circuito; ampliar enfriador o suministro de agua"],
+              ["Rebaba en los anillos de cuello", "Fuerza de cierre insuficiente para la nueva área proyectada", "Comparar la fuerza de cierre con la necesidad del molde"],
+              ["Excentricidad de pared en algunas cavidades", "Machos o conos reutilizados desgastados, desalineación", "Medir las piezas reutilizadas; sustituir las desgastadas"],
+              ["AA más alto", "Mayor volumen del distribuidor y residencia más larga", "Bajar la temperatura del fundido; revisar dosis frente a cilindro"],
+              ["Preformas caídas o dañadas en la extracción", "Placa de extracción no adaptada a la nueva disposición", "Confirmar posiciones y sincronización de la placa de extracción"]
+            ]
+          }
+        },
+        {
+          "heading": "Consejos avanzados",
+          "list": [
+            "Combine el aumento de cavidades con el aligeramiento: las propuestas de LIHE reducen el peso de la preforma entre 1 g y 2 g optimizando el cuello o el espesor de pared.",
+            "Aproveche el rediseño para mejorar la refrigeración; una refrigeración optimizada puede reducir el enfriamiento del cuello hasta 0,5 s.",
+            "Considere a la vez un cambio de acabado de cuello si el mercado se mueve hacia uno más ligero, como PCO 1881 o 29/25.",
+            "Pruebe primero un nuevo diseño de preforma con un molde piloto; los moldes piloto tienen un plazo de 20 días.",
+            "Especifique objetivos de capacidad en el pedido; el utillaje de LIHE alcanza de forma constante un CPK ≥ 1,33.",
+            "Planifique el cambio en torno a las paradas: un molde PET estándar tiene un plazo de 8 semanas, así que haga el pedido antes de la temporada alta."
+          ]
+        },
+        {
+          "heading": "Conceptos relacionados",
+          "list": [
+            "Paso: distancia entre centros de cavidades, que limita cuántas cavidades caben en una placa.",
+            "Área proyectada: área de todas las cavidades y canales vista en la dirección de cierre, que determina la fuerza de cierre necesaria.",
+            "Componentes del conjunto (stack): macho, cavidad, anillos de cuello e inserto de punto de inyección que forman una preforma.",
+            "Canal caliente equilibrado de forma natural: distribuidor en el que cada boquilla tiene la misma longitud y geometría de recorrido.",
+            "Máquina de medición por coordenadas (MMC): equipo que mide la geometría con un palpador para verificar las piezas frente al plano."
+          ]
+        },
+        {
+          "heading": "Cómo apoya LIHE los aumentos de cavitación",
+          "list": [
+            "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) es un fabricante de moldes de preforma PET, moldes de soplado, moldes de tapas y de compresión, sistemas de canal caliente y componentes de molde para la industria de bebidas y envases, con fabricación en Foshan, China.",
+            "Centro de ingeniería y diseño con CAD/CAM, simulación 3D y análisis de flujo antes de la producción.",
+            "Reacondicionamiento de proyectos: revisiones completas de moldes y mejoras de rendimiento para devolver a los equipos antiguos una eficiencia de nivel OEM.",
+            "Piezas de conversión 100% intercambiables con sistemas Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps y Corvaglia.",
+            "Moldes para máquinas HUSKY, NETSTAL, SACMI, SIPA, Milacron y otras, con instalación y apoyo en la puesta en marcha en planta."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Podemos simplemente añadir cavidades a las placas de nuestro molde actual?",
+          "answer": "Rara vez. Las placas, la refrigeración y el distribuidor están diseñados para un paso y un número de cavidades fijos. En la mayoría de los casos se necesitan una nueva base de molde y un nuevo canal caliente, y se pueden reutilizar las piezas del conjunto en buen estado."
+        },
+        {
+          "question": "¿Podemos reutilizar nuestros machos, cavidades y anillos de cuello?",
+          "answer": "Sí, si el diseño de la preforma no cambia y las piezas superan la inspección. Las piezas desgastadas deben reacondicionarse o sustituirse, porque causan rebabas y excentricidad de pared en el nuevo molde."
+        },
+        {
+          "question": "¿Cómo sabemos si nuestra máquina admite más cavidades?",
+          "answer": "Revise la fuerza de cierre, la capacidad de inyección y de plastificación, la distancia entre columnas, la altura de molde, las posiciones de la placa de extracción, las zonas del controlador del canal caliente y la capacidad del enfriador y del secador. Si alguno se queda corto, el límite es la máquina."
+        },
+        {
+          "question": "¿Cuál es la cavitación máxima que puede fabricar LIHE?",
+          "answer": "Los moldes de preforma de LIHE van de 2 a 160 cavidades y las bases de molde se fabrican para hasta 160 cavidades. Los canales calientes de válvula de LIHE están disponibles hasta 144 cavidades de preforma."
+        },
+        {
+          "question": "¿Es más barato aumentar cavidades que comprar un molde nuevo?",
+          "answer": "Depende de cuánto se pueda reutilizar. Los factores de coste son la nueva base de molde, el canal caliente, el reacondicionamiento de las piezas reutilizadas y los cambios en la máquina. Los precios exactos requieren una cotización basada en sus planos."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "key": "product-19",
+  "updated": "2026-10-13",
+  "sources": [
+    { "label": "Wikipedia — Injection mold construction", "url": "https://en.wikipedia.org/wiki/Injection_mold_construction" },
+    { "label": "Wikipedia — Injection moulding", "url": "https://en.wikipedia.org/wiki/Injection_moulding" },
+    { "label": "Wikipedia — Preform", "url": "https://en.wikipedia.org/wiki/Preform" },
+    { "label": "Wikipedia — Conformal cooling channel", "url": "https://en.wikipedia.org/wiki/Conformal_cooling_channel" },
+    { "label": "Wikipedia — Preventive maintenance", "url": "https://en.wikipedia.org/wiki/Preventive_maintenance" },
+    { "label": "Husky Technologies", "url": "https://www.husky.co/" }
+  ],
+  "locales": {
+    "en": {
+      "heading": "PET preform mold technical reference: mold stack, cooling, venting, wear parts and maintenance",
+      "intro": "A PET preform mold stack is the set of precision components — core, cavity, neck ring, gate insert and lock ring — that together form one preform in each cavity of the mold. This reference explains what each stack component does, how cooling and venting affect preform quality, which parts wear, how maintenance is usually planned and what to include when ordering a mold or spare stack parts. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China.",
+      "sections": [
+        {
+          "heading": "Anatomy of a PET preform mold stack",
+          "paragraphs": [
+            "A multi-cavity preform mold repeats the same stack in every cavity, from 2 up to 160 cavities in LIHE molds. The stacks sit between the core plate, stripper plate, cavity plate and the hot runner. Every stack part must be interchangeable between cavities so that a worn part can be replaced without rework."
+          ],
+          "list": [
+            "Core — forms the inside of the preform. It is cooled from the inside by a central cooling tube and its length and diameter set the preform's inner shape.",
+            "Cavity — forms the outside of the preform body. It is surrounded by cooling channels and determines the outer diameter and wall thickness together with the core.",
+            "Neck ring (thread splits) — two halves that form the neck finish and support ring. They open sideways on slides to release the threads and then push the preform off the core.",
+            "Gate insert — forms the preform base and the gate area where the hot runner nozzle injects melt. It needs strong cooling because the gate is the last area to freeze.",
+            "Lock ring and tapers — the cavity lock ring holds the cavity and gate insert in the cavity plate; matching tapers on core, neck ring and cavity align the stack so the core is concentric with the cavity.",
+            "Core lock ring / stripper parts — locate the neck ring on the core side and transfer the ejection movement."
+          ]
+        },
+        {
+          "heading": "Cooling layout and its effect on cycle time",
+          "paragraphs": [
+            "In most preform molds the cooling time is the largest part of the cycle, so cooling design decides how fast the mold can run. Heat has to be removed evenly from core, cavity, neck and gate; if one area stays hot, the whole cycle has to wait for it, or the preform will show defects such as ovality, gate crystallinity or sticking.",
+            "LIHE optimizes cooling as part of its design work; optimized cooling can reduce neck cooling time by up to 0.5 seconds. Detailed cycle times depend on the preform and machine and are not quoted as general figures."
+          ],
+          "list": [
+            "Core cooling: a bubbler or cooling tube delivers water to the tip of the core and returns it along the core wall.",
+            "Cavity cooling: annular or spiral channels around the cavity, sealed with O-rings.",
+            "Gate cooling: dedicated channels in the gate insert, critical for a clean, clear gate area.",
+            "Neck ring cooling: channels in the neck ring halves; the thick neck finish is often a limiting area.",
+            "Water quality: scale and corrosion inside channels reduce heat transfer, so treated, filtered water and regular flow checks protect cycle time."
+          ]
+        },
+        {
+          "heading": "Venting in preform molds",
+          "paragraphs": [
+            "As melt fills a cavity, the air inside must escape through very shallow vents, mainly at the neck ring split line and at the top of the neck finish. Vents are shallow enough to let air out but not plastic.",
+            "Blocked vents trap air, which can cause short shots on the thread, burn marks or incomplete support rings. Vents slowly fill with residue during production, so vent cleaning is one of the most frequent maintenance tasks on a preform mold."
+          ]
+        },
+        {
+          "heading": "Wear parts in a preform mold and typical failure signs",
+          "table": {
+            "head": ["Component", "Main function", "Typical sign of wear", "Usual action"],
+            "rows": [
+              ["Neck ring", "Forms thread and support ring", "Flash on the thread or split line, damaged faces, vent wear", "Clean, polish faces or replace the pair"],
+              ["Core", "Forms preform inside", "Scratches, worn taper, uneven wall thickness", "Polish or replace; check concentricity"],
+              ["Cavity", "Forms preform outside", "Surface marks, worn taper, cooling leaks", "Polish, reseal or replace"],
+              ["Gate insert", "Forms base and gate", "Gate defects, worn nozzle seat", "Repair seat or replace insert"],
+              ["Lock ring and tapers", "Hold and align the stack", "Wear marks, loss of alignment", "Measure and replace worn rings"],
+              ["O-rings and seals", "Seal cooling circuits", "Water leaks, reduced flow", "Replace at every stack service"]
+            ]
+          }
+        },
+        {
+          "heading": "Preventive maintenance planning for a preform mold",
+          "paragraphs": [
+            "Preform mold maintenance is normally planned by shot count, not by calendar time, because wear depends on how many cycles the mold has run. Exact intervals depend on the preform, resin, machine and the mold maker's manual. LIHE molds are built to withstand up to 8 million shots on Husky/SACMI/Netstal platforms, and LIHE's technical team provides regular preventive maintenance and mold refurbishment programs."
+          ],
+          "list": [
+            "Every shift: visual check of preforms and the mold surface, cooling leaks and lubrication of moving parts.",
+            "At planned short stops: clean vents and parting surfaces, check neck ring slides and ejection movement.",
+            "At scheduled stack services: dismantle stacks, measure tapers and critical diameters, replace O-rings, descale cooling channels.",
+            "At major overhauls: refurbish or replace worn cores, cavities and neck rings and verify alignment of the full mold.",
+            "Record every action against the shot counter so wear trends can be seen early."
+          ]
+        },
+        {
+          "heading": "Ordering checklist for a PET preform mold",
+          "steps": [
+            "Send the preform drawing or bottle drawing, target preform weight and resin type (virgin PET or rPET content).",
+            "Specify the neck finish (for example PCO 1881, PCO 1810, 2925, 38mm or wide mouth) with the closure drawing.",
+            "State the cavitation and injection machine model (HUSKY, NETSTAL, SACMI, SIPA, Milacron or other) and its interface data.",
+            "Define the hot runner: new hot runner, reuse of an existing one, or replacement parts only.",
+            "Agree the inspection plan: critical dimensions, CPK target and the measurement report format.",
+            "Confirm the spare parts package and the start-up support needed at your plant.",
+            "Agree lead time: LIHE standard PET molds take 8 weeks, pilot molds 20 days and replacement parts 4 weeks."
+          ]
+        },
+        {
+          "heading": "Inspection and documentation supplied with a LIHE preform mold",
+          "list": [
+            "Critical stack dimensions are measured in LIHE's in-house Zeiss CMM lab; validation and inspection reports are supplied on request.",
+            "Tooling consistently achieves CPK ≥ 1.33, with operational defect rates as low as 0.0064%.",
+            "Design is completed with CAD/CAM, 3D simulation and flow analysis before production.",
+            "After delivery, LIHE can support mold installation and machine start-up and offers remote troubleshooting."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Which preform mold parts wear out first?",
+          "answer": "Neck rings and their vents usually need attention first because they slide, open and close every cycle and carry the thread detail. Seals and O-rings in the cooling circuits are also replaced at every stack service."
+        },
+        {
+          "question": "Can I order single stack components instead of a complete mold?",
+          "answer": "Yes. Cores, cavities, neck rings, gate insert and lock rings can be ordered as replacement parts. LIHE's lead time for replacement parts is 4 weeks."
+        },
+        {
+          "question": "How long does a LIHE PET preform mold last?",
+          "answer": "LIHE molds are built to withstand up to 8 million shots on Husky/SACMI/Netstal platforms. Actual life depends on maintenance, water quality and operating conditions."
+        },
+        {
+          "question": "Why does cooling matter so much in preform molds?",
+          "answer": "Cooling is usually the longest part of the cycle. Even cooling of core, cavity, neck and gate lets the mold run faster without defects. LIHE's optimized cooling can reduce neck cooling time by up to 0.5 seconds."
+        },
+        {
+          "question": "What information do I need to send for a quotation?",
+          "answer": "Preform or bottle drawing, preform weight, neck finish, cavitation, machine model and hot runner requirement. Contact sales@lihe-preform.com."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "Технический справочник по пресс-форме для ПЭТ-преформ: формообразующий пакет, охлаждение, вентиляция, изнашиваемые детали и обслуживание",
+      "intro": "Формообразующий пакет пресс-формы для ПЭТ-преформ — это набор прецизионных деталей (пуансон, матрица, горловое кольцо, литниковая вставка и запорное кольцо), которые вместе формируют одну преформу в каждом гнезде формы. В справочнике описано назначение каждой детали пакета, влияние охлаждения и вентиляции на качество преформы, изнашиваемые детали, принципы планирования обслуживания и то, что нужно указать при заказе формы или запасных деталей. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) — производитель пресс-форм для ПЭТ-преформ, выдувных форм, форм для колпачков и компрессионных форм, горячеканальных систем и комплектующих для производства напитков и упаковки, с производством в Фошане, Китай.",
+      "sections": [
+        {
+          "heading": "Устройство формообразующего пакета пресс-формы для ПЭТ-преформ",
+          "paragraphs": [
+            "Многогнёздная пресс-форма повторяет один и тот же пакет в каждом гнезде — в формах LIHE от 2 до 160 гнёзд. Пакеты располагаются между плитой пуансонов, плитой съёма, плитой матриц и горячеканальной системой. Все детали пакета должны быть взаимозаменяемыми между гнёздами, чтобы изношенную деталь можно было заменить без доработки."
+          ],
+          "list": [
+            "Пуансон (знак) — формирует внутреннюю поверхность преформы. Он охлаждается изнутри через центральную трубку, а его длина и диаметр задают внутреннюю форму преформы.",
+            "Матрица — формирует наружную поверхность корпуса преформы. Она окружена каналами охлаждения и вместе с пуансоном определяет наружный диаметр и толщину стенки.",
+            "Горловое кольцо (резьбовые полуформы) — две половины, которые формируют горловину и опорное кольцо. Они раздвигаются в стороны на слайдерах, освобождая резьбу, и снимают преформу с пуансона.",
+            "Литниковая вставка — формирует дно преформы и зону впуска, куда сопло горячеканальной системы подаёт расплав. Ей нужно интенсивное охлаждение, так как зона литника застывает последней.",
+            "Запорное кольцо и конусы — запорное кольцо матрицы удерживает матрицу и литниковую вставку в плите; сопряжённые конусы на пуансоне, горловом кольце и матрице центрируют пакет, обеспечивая соосность пуансона и матрицы.",
+            "Запорное кольцо пуансона и детали съёма — фиксируют горловое кольцо со стороны пуансона и передают движение выталкивания."
+          ]
+        },
+        {
+          "heading": "Схема охлаждения и её влияние на время цикла",
+          "paragraphs": [
+            "В большинстве форм для преформ охлаждение занимает самую большую часть цикла, поэтому именно конструкция охлаждения определяет, насколько быстро может работать форма. Тепло нужно отводить равномерно от пуансона, матрицы, горловины и литника; если одна зона остаётся горячей, весь цикл вынужден её ждать, иначе появятся дефекты — овальность, кристалличность в зоне литника или прилипание.",
+            "LIHE оптимизирует охлаждение в ходе проектирования; оптимизированное охлаждение позволяет сократить время охлаждения горловины до 0,5 секунды. Конкретное время цикла зависит от преформы и машины и не приводится как общая цифра."
+          ],
+          "list": [
+            "Охлаждение пуансона: трубка подаёт воду к вершине пуансона, и вода возвращается вдоль его стенки.",
+            "Охлаждение матрицы: кольцевые или спиральные каналы вокруг матрицы, уплотнённые кольцами.",
+            "Охлаждение литника: отдельные каналы в литниковой вставке, важные для чистой и прозрачной зоны литника.",
+            "Охлаждение горлового кольца: каналы в полуформах; толстая горловина часто является лимитирующей зоной.",
+            "Качество воды: накипь и коррозия в каналах ухудшают теплоотвод, поэтому подготовленная, фильтрованная вода и регулярная проверка расхода сохраняют время цикла."
+          ]
+        },
+        {
+          "heading": "Вентиляция в пресс-формах для преформ",
+          "paragraphs": [
+            "Когда расплав заполняет гнездо, воздух должен выходить через очень неглубокие вентиляционные каналы, в основном по линии разъёма горлового кольца и у верхнего торца горловины. Глубина каналов достаточна для выхода воздуха, но не пластика.",
+            "Засорённые каналы задерживают воздух, что вызывает недолив резьбы, подгары или неполное опорное кольцо. В процессе производства каналы постепенно забиваются отложениями, поэтому их чистка — одна из самых частых операций обслуживания формы."
+          ]
+        },
+        {
+          "heading": "Изнашиваемые детали пресс-формы и типичные признаки износа",
+          "table": {
+            "head": ["Деталь", "Основная функция", "Типичный признак износа", "Обычное действие"],
+            "rows": [
+              ["Горловое кольцо", "Формирует резьбу и опорное кольцо", "Облой на резьбе или линии разъёма, повреждённые поверхности, износ вентиляции", "Очистка, полировка или замена пары"],
+              ["Пуансон", "Формирует внутреннюю поверхность", "Царапины, износ конуса, неравномерная толщина стенки", "Полировка или замена; проверка соосности"],
+              ["Матрица", "Формирует наружную поверхность", "Следы на поверхности, износ конуса, протечки охлаждения", "Полировка, замена уплотнений или детали"],
+              ["Литниковая вставка", "Формирует дно и литник", "Дефекты литника, износ посадки сопла", "Ремонт посадки или замена вставки"],
+              ["Запорное кольцо и конусы", "Фиксация и центрирование пакета", "Следы износа, нарушение центровки", "Измерение и замена изношенных колец"],
+              ["Уплотнительные кольца", "Герметизация контуров охлаждения", "Протечки воды, снижение расхода", "Замена при каждом обслуживании пакета"]
+            ]
+          }
+        },
+        {
+          "heading": "Планирование технического обслуживания пресс-формы",
+          "paragraphs": [
+            "Обслуживание формы для преформ обычно планируется по счётчику циклов, а не по календарю, так как износ зависит от числа отработанных циклов. Точные интервалы зависят от преформы, сырья, машины и руководства изготовителя формы. Формы LIHE рассчитаны на срок службы до 8 млн циклов на платформах Husky/SACMI/Netstal, а техническая команда LIHE выполняет плановое техническое обслуживание и программы восстановления форм."
+          ],
+          "list": [
+            "Каждую смену: визуальный контроль преформ и поверхности формы, протечек охлаждения и смазки подвижных деталей.",
+            "При плановых коротких остановках: чистка вентиляции и поверхностей разъёма, проверка слайдеров горловых колец и выталкивания.",
+            "При плановом обслуживании пакетов: разборка пакетов, измерение конусов и критичных диаметров, замена уплотнений, удаление накипи из каналов.",
+            "При капитальном ремонте: восстановление или замена изношенных пуансонов, матриц и горловых колец, проверка центровки всей формы.",
+            "Фиксируйте каждое действие вместе с показанием счётчика циклов, чтобы рано увидеть тенденции износа."
+          ]
+        },
+        {
+          "heading": "Чек-лист заказа пресс-формы для ПЭТ-преформ",
+          "steps": [
+            "Отправьте чертёж преформы или бутылки, целевой вес преформы и тип сырья (первичный ПЭТ или доля rPET).",
+            "Укажите горловину (например, PCO 1881, PCO 1810, 2925, 38 мм или широкое горло) и приложите чертёж колпачка.",
+            "Укажите гнездность и модель литьевой машины (HUSKY, NETSTAL, SACMI, SIPA, Milacron или другая) с данными интерфейса.",
+            "Определите горячеканальную систему: новая, использование существующей или только запасные части.",
+            "Согласуйте план контроля: критичные размеры, целевой CPK и формат отчёта об измерениях.",
+            "Подтвердите комплект запчастей и необходимую поддержку при запуске на вашем заводе.",
+            "Согласуйте срок: стандартные ПЭТ-формы LIHE — 8 недель, пилотные формы — 20 дней, запасные части — 4 недели."
+          ]
+        },
+        {
+          "heading": "Контроль и документация к пресс-форме LIHE",
+          "list": [
+            "Критичные размеры пакетов измеряются в собственной лаборатории LIHE на КИМ Zeiss; отчёты о валидации и контроле предоставляются по запросу.",
+            "Оснастка стабильно обеспечивает CPK ≥ 1,33, уровень брака в эксплуатации — до 0,0064%.",
+            "Проектирование выполняется с использованием CAD/CAM, 3D-моделирования и анализа течения расплава до начала производства.",
+            "После поставки LIHE может помочь с установкой формы и запуском машины, а также предлагает удалённую диагностику."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Какие детали пресс-формы изнашиваются первыми?",
+          "answer": "Обычно первыми требуют внимания горловые кольца и их вентиляция, так как они каждый цикл раздвигаются и смыкаются и формируют резьбу. Уплотнения контуров охлаждения также меняют при каждом обслуживании пакета."
+        },
+        {
+          "question": "Можно ли заказать отдельные детали пакета вместо всей формы?",
+          "answer": "Да. Пуансоны, матрицы, горловые кольца, литниковые вставки и запорные кольца можно заказать как запасные части. Срок изготовления запасных частей в LIHE — 4 недели."
+        },
+        {
+          "question": "Какой ресурс у пресс-формы LIHE для ПЭТ-преформ?",
+          "answer": "Формы LIHE рассчитаны на срок службы до 8 млн циклов на платформах Husky/SACMI/Netstal. Фактический ресурс зависит от обслуживания, качества воды и условий эксплуатации."
+        },
+        {
+          "question": "Почему охлаждение так важно в формах для преформ?",
+          "answer": "Охлаждение обычно занимает самую длинную часть цикла. Равномерное охлаждение пуансона, матрицы, горловины и литника позволяет форме работать быстрее без дефектов. Оптимизированное охлаждение LIHE сокращает время охлаждения горловины до 0,5 секунды."
+        },
+        {
+          "question": "Какие данные нужно отправить для расчёта стоимости?",
+          "answer": "Чертёж преформы или бутылки, вес преформы, горловину, гнездность, модель машины и требования к горячеканальной системе. Пишите на sales@lihe-preform.com."
+        }
+      ]
+    },
+    "es": {
+      "heading": "Referencia técnica del molde de preforma PET: conjunto de moldeo, refrigeración, venteo, piezas de desgaste y mantenimiento",
+      "intro": "El conjunto de moldeo (stack) de un molde de preforma PET es el grupo de componentes de precisión —macho, cavidad, anillo de cuello, inserto de entrada y anillo de bloqueo— que forma una preforma en cada cavidad del molde. Esta referencia explica la función de cada componente, cómo la refrigeración y el venteo afectan a la calidad de la preforma, qué piezas se desgastan, cómo se planifica el mantenimiento y qué incluir al pedir un molde o piezas de recambio. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) es un fabricante de moldes de preforma PET, moldes de soplado, moldes de tapas y de compresión, sistemas de canal caliente y componentes de molde para la industria de bebidas y envases, con fabricación en Foshan, China.",
+      "sections": [
+        {
+          "heading": "Anatomía del conjunto de moldeo de un molde de preforma PET",
+          "paragraphs": [
+            "Un molde de preforma multicavidad repite el mismo conjunto en cada cavidad, de 2 a 160 cavidades en los moldes de LIHE. Los conjuntos se sitúan entre la placa de machos, la placa extractora, la placa de cavidades y el canal caliente. Cada pieza del conjunto debe ser intercambiable entre cavidades para poder sustituir una pieza gastada sin retrabajos."
+          ],
+          "list": [
+            "Macho (core): forma el interior de la preforma. Se refrigera por dentro mediante un tubo central, y su longitud y diámetro definen la forma interior de la preforma.",
+            "Cavidad: forma el exterior del cuerpo de la preforma. Está rodeada de canales de refrigeración y, junto con el macho, determina el diámetro exterior y el espesor de pared.",
+            "Anillo de cuello (mitades de rosca): dos mitades que forman el acabado de cuello y el anillo de soporte. Se abren lateralmente sobre correderas para liberar la rosca y empujan la preforma fuera del macho.",
+            "Inserto de entrada (gate insert): forma el fondo de la preforma y la zona de entrada, donde la boquilla del canal caliente inyecta el material fundido. Necesita una refrigeración intensa porque es la última zona en solidificar.",
+            "Anillo de bloqueo y conos: el anillo de bloqueo de la cavidad sujeta la cavidad y el inserto de entrada en la placa; los conos de ajuste del macho, el anillo de cuello y la cavidad alinean el conjunto para que el macho quede concéntrico con la cavidad.",
+            "Anillo de bloqueo del macho y piezas de extracción: posicionan el anillo de cuello en el lado del macho y transmiten el movimiento de expulsión."
+          ]
+        },
+        {
+          "heading": "Distribución de la refrigeración y su efecto en el tiempo de ciclo",
+          "paragraphs": [
+            "En la mayoría de los moldes de preforma, el enfriamiento es la parte más larga del ciclo, así que el diseño de la refrigeración decide la velocidad a la que puede trabajar el molde. El calor debe extraerse de forma uniforme del macho, la cavidad, el cuello y la entrada; si una zona queda caliente, todo el ciclo tiene que esperarla o la preforma presentará defectos como ovalidad, cristalinidad en la entrada o adherencia.",
+            "LIHE optimiza la refrigeración como parte del diseño; una refrigeración optimizada puede reducir el tiempo de enfriamiento del cuello hasta 0,5 segundos. Los tiempos de ciclo concretos dependen de la preforma y de la máquina y no se indican como cifras generales."
+          ],
+          "list": [
+            "Refrigeración del macho: un tubo lleva el agua hasta la punta del macho y la devuelve a lo largo de su pared.",
+            "Refrigeración de la cavidad: canales anulares o en espiral alrededor de la cavidad, sellados con juntas tóricas.",
+            "Refrigeración de la entrada: canales propios en el inserto de entrada, clave para una zona de entrada limpia y transparente.",
+            "Refrigeración del anillo de cuello: canales en las mitades del anillo; el cuello grueso suele ser la zona limitante.",
+            "Calidad del agua: la cal y la corrosión en los canales reducen la transferencia de calor, por lo que el agua tratada y filtrada y las comprobaciones periódicas de caudal protegen el tiempo de ciclo."
+          ]
+        },
+        {
+          "heading": "Venteo en moldes de preforma",
+          "paragraphs": [
+            "Cuando el material fundido llena la cavidad, el aire debe salir por respiraderos muy poco profundos, sobre todo en la línea de partición del anillo de cuello y en la parte superior del acabado de cuello. Los respiraderos dejan salir el aire, pero no el plástico.",
+            "Los respiraderos obstruidos atrapan aire, lo que puede causar llenado incompleto de la rosca, quemaduras o anillos de soporte incompletos. Durante la producción se llenan poco a poco de residuos, por lo que su limpieza es una de las tareas de mantenimiento más frecuentes en un molde de preforma."
+          ]
+        },
+        {
+          "heading": "Piezas de desgaste del molde de preforma y señales típicas de fallo",
+          "table": {
+            "head": ["Componente", "Función principal", "Señal típica de desgaste", "Acción habitual"],
+            "rows": [
+              ["Anillo de cuello", "Forma la rosca y el anillo de soporte", "Rebaba en la rosca o en la línea de partición, caras dañadas, respiraderos gastados", "Limpiar, pulir las caras o sustituir el par"],
+              ["Macho", "Forma el interior de la preforma", "Rayas, cono gastado, espesor de pared irregular", "Pulir o sustituir; comprobar concentricidad"],
+              ["Cavidad", "Forma el exterior de la preforma", "Marcas superficiales, cono gastado, fugas de refrigeración", "Pulir, cambiar juntas o sustituir"],
+              ["Inserto de entrada", "Forma el fondo y la entrada", "Defectos en la entrada, asiento de boquilla gastado", "Reparar el asiento o sustituir el inserto"],
+              ["Anillo de bloqueo y conos", "Sujetan y alinean el conjunto", "Marcas de desgaste, pérdida de alineación", "Medir y sustituir los anillos gastados"],
+              ["Juntas tóricas", "Sellan los circuitos de refrigeración", "Fugas de agua, menor caudal", "Sustituir en cada revisión del conjunto"]
+            ]
+          }
+        },
+        {
+          "heading": "Planificación del mantenimiento preventivo del molde de preforma",
+          "paragraphs": [
+            "El mantenimiento de un molde de preforma se planifica normalmente por número de inyecciones y no por calendario, porque el desgaste depende de los ciclos realizados. Los intervalos exactos dependen de la preforma, la resina, la máquina y el manual del fabricante del molde. Los moldes de LIHE están construidos para soportar hasta 8 millones de inyecciones en plataformas Husky/SACMI/Netstal, y el equipo técnico de LIHE ofrece mantenimiento preventivo periódico y programas de reacondicionamiento de moldes."
+          ],
+          "list": [
+            "En cada turno: inspección visual de las preformas y de la superficie del molde, fugas de refrigeración y lubricación de las piezas móviles.",
+            "En paradas cortas planificadas: limpiar respiraderos y superficies de cierre, revisar las correderas de los anillos de cuello y la expulsión.",
+            "En las revisiones programadas del conjunto: desmontar, medir conos y diámetros críticos, cambiar juntas tóricas y desincrustar los canales.",
+            "En las revisiones generales: reacondicionar o sustituir machos, cavidades y anillos de cuello gastados y verificar la alineación de todo el molde.",
+            "Registre cada intervención junto con el contador de inyecciones para detectar pronto las tendencias de desgaste."
+          ]
+        },
+        {
+          "heading": "Lista de comprobación para pedir un molde de preforma PET",
+          "steps": [
+            "Envíe el plano de la preforma o de la botella, el peso objetivo de la preforma y el tipo de resina (PET virgen o contenido de rPET).",
+            "Indique el acabado de cuello (por ejemplo PCO 1881, PCO 1810, 2925, 38 mm o boca ancha) con el plano de la tapa.",
+            "Indique el número de cavidades y el modelo de máquina de inyección (HUSKY, NETSTAL, SACMI, SIPA, Milacron u otra) con sus datos de interfaz.",
+            "Defina el canal caliente: nuevo, reutilización del existente o solo piezas de recambio.",
+            "Acuerde el plan de inspección: dimensiones críticas, objetivo de CPK y formato del informe de medición.",
+            "Confirme el paquete de repuestos y el apoyo en la puesta en marcha que necesita su planta.",
+            "Acuerde el plazo: los moldes PET estándar de LIHE tardan 8 semanas, los moldes piloto 20 días y las piezas de recambio 4 semanas."
+          ]
+        },
+        {
+          "heading": "Inspección y documentación de un molde de preforma LIHE",
+          "list": [
+            "Las dimensiones críticas del conjunto se miden en el laboratorio propio de LIHE con MMC Zeiss; los informes de validación e inspección se entregan bajo petición.",
+            "El utillaje alcanza de forma constante un CPK ≥ 1,33, con tasas de defectos operativos de tan solo el 0,0064%.",
+            "El diseño se completa con CAD/CAM, simulación 3D y análisis de flujo antes de la producción.",
+            "Tras la entrega, LIHE puede apoyar la instalación del molde y la puesta en marcha de la máquina, y ofrece diagnóstico remoto."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Qué piezas del molde de preforma se desgastan primero?",
+          "answer": "Los anillos de cuello y sus respiraderos suelen necesitar atención primero, porque se abren y cierran en cada ciclo y forman el detalle de la rosca. Las juntas tóricas de los circuitos de refrigeración también se cambian en cada revisión del conjunto."
+        },
+        {
+          "question": "¿Puedo pedir componentes sueltos del conjunto en lugar de un molde completo?",
+          "answer": "Sí. Machos, cavidades, anillos de cuello, insertos de entrada y anillos de bloqueo se pueden pedir como piezas de recambio. El plazo de LIHE para piezas de recambio es de 4 semanas."
+        },
+        {
+          "question": "¿Cuánto dura un molde de preforma PET de LIHE?",
+          "answer": "Los moldes de LIHE están construidos para soportar hasta 8 millones de inyecciones en plataformas Husky/SACMI/Netstal. La vida real depende del mantenimiento, de la calidad del agua y de las condiciones de operación."
+        },
+        {
+          "question": "¿Por qué es tan importante la refrigeración en los moldes de preforma?",
+          "answer": "El enfriamiento suele ser la parte más larga del ciclo. Una refrigeración uniforme del macho, la cavidad, el cuello y la entrada permite trabajar más rápido sin defectos. La refrigeración optimizada de LIHE puede reducir el tiempo de enfriamiento del cuello hasta 0,5 segundos."
+        },
+        {
+          "question": "¿Qué información debo enviar para pedir una cotización?",
+          "answer": "Plano de la preforma o de la botella, peso de la preforma, acabado de cuello, número de cavidades, modelo de máquina y necesidades de canal caliente. Escriba a sales@lihe-preform.com."
+        }
+      ]
+    }
+  }
+}

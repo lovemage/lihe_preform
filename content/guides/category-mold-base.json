@@ -1,0 +1,332 @@
+{
+  "key": "category-mold-base",
+  "updated": "2026-10-13",
+  "sources": [
+    { "label": "Wikipedia — Geometric dimensioning and tolerancing", "url": "https://en.wikipedia.org/wiki/Geometric_dimensioning_and_tolerancing" },
+    { "label": "Wikipedia — Engineering tolerance", "url": "https://en.wikipedia.org/wiki/Engineering_tolerance" },
+    { "label": "Wikipedia — Surface grinding", "url": "https://en.wikipedia.org/wiki/Surface_grinding" },
+    { "label": "Wikipedia — Coordinate-measuring machine", "url": "https://en.wikipedia.org/wiki/Coordinate-measuring_machine" },
+    { "label": "Wikipedia — Injection moulding", "url": "https://en.wikipedia.org/wiki/Injection_moulding" },
+    { "label": "Wikipedia — Hot runner", "url": "https://en.wikipedia.org/wiki/Hot_runner" }
+  ],
+  "locales": {
+    "en": {
+      "heading": "Mold base for high-cavitation PET preform molds: flatness, parallelism, hole position and refurbished plates",
+      "intro": "A mold base is the assembly of steel plates, guide elements and connections that holds the cores, cavities, neck rings and hot runner of an injection or blow mold in exact position and connects them to the machine. In a high-cavitation PET preform mold the same plate carries dozens of identical stacks, so the geometry of the plates decides whether every cavity produces the same preform. This guide explains what the plates do, why flatness, parallelism and hole position matter, and when a refurbished plate is a sensible alternative to a new one.",
+      "sections": [
+        {
+          "heading": "What a mold base does in a PET preform mold",
+          "paragraphs": [
+            "In a preform mold the mold base is divided into a hot half and a cold half. Each half is a stack of plates, and each plate has a clear job. The cavity components, cores and neck rings are the parts that touch the plastic; the mold base keeps them aligned with each other and with the machine during every cycle."
+          ],
+          "list": [
+            "Hot half: the manifold plate and backing plate hold the hot runner manifold and nozzles, which feed melt to each cavity.",
+            "Cavity plate: holds the cavity inserts and gate inserts; nozzles from the hot runner seal against the gate area.",
+            "Core plate: carries the cores, which form the inside of the preform, and the cooling water supply for them.",
+            "Stripper plate and slides: carry the neck ring halves, which form the neck finish and open to release the preform.",
+            "Guide pins, bushings and locating elements: bring the two halves together in the same position every cycle.",
+            "Cooling channels: drilled through the plates to supply water to every cavity and core."
+          ]
+        },
+        {
+          "heading": "Why flatness, parallelism and hole position matter for high-cavitation molds",
+          "paragraphs": [
+            "Geometric tolerances such as flatness, parallelism and position are defined on drawings using geometric dimensioning and tolerancing (GD&T). On a small mold a small error affects a few parts; on a 72-cavity or 160-cavity preform mold, the same error is repeated or accumulates across the whole plate."
+          ],
+          "table": {
+            "head": ["Plate feature", "What it controls", "Typical symptom if it is out of tolerance", "How it is produced and checked"],
+            "rows": [
+              ["Flatness of plate faces", "Even contact at the parting line and between stacked plates", "Flash at some cavities, uneven clamp load, hot runner nozzle leakage", "Precision surface grinding, measured on a CMM"],
+              ["Parallelism between faces", "Equal height of all stacks when the mold closes", "Cavities at one side of the mold close tighter than at the other, uneven wear", "Grinding both faces in one reference, CMM check"],
+              ["Hole position of cavity and core bores", "Concentricity of each core inside its cavity", "Uneven wall thickness of the preform, poor bottle blowing, off-center gates", "CNC machining in one setup, CMM position check"],
+              ["Guide and locating bores", "Repeatable alignment of the two mold halves", "Wear of neck rings and taper locks, misalignment after maintenance", "CNC machining and CMM measurement"],
+              ["Cooling channel position", "Even cooling of every cavity and core", "Different preform temperatures across the mold, longer cooling", "Deep-hole drilling to the drawing"]
+            ]
+          }
+        },
+        {
+          "heading": "Hole position and wall thickness: the link buyers notice in the bottle",
+          "paragraphs": [
+            "A preform is blown into a bottle in a second step, so any variation in preform wall thickness shows up later as uneven bottle walls, weak spots or thin areas near the base. Wall thickness is set by the gap between core and cavity, and that gap is only uniform when the core and cavity bores are in the correct position relative to each other."
+          ],
+          "list": [
+            "Hole positions in the cavity plate and core plate must match each other, not only the drawing, so both plates are measured against the same reference.",
+            "Hot runner nozzle positions must match the gate positions at operating temperature, because the manifold expands when it is heated; the design allows for this expansion.",
+            "Taper locks and neck ring locks help to center the stack, but they wear faster when the bores they rely on are out of position.",
+            "For molds built to withstand up to 8 million shots, as LIHE tooling on Husky, SACMI and Netstal platforms is, small position errors turn into wear over many cycles."
+          ]
+        },
+        {
+          "heading": "New mold base vs refurbished plates",
+          "paragraphs": [
+            "LIHE supplies complete mold bases, individual plates, and replacement or refurbished plates for existing molds. The right choice depends on the condition of the existing plates and on whether the mold is being changed."
+          ],
+          "table": {
+            "head": ["Situation", "New mold base or plate", "Refurbished plate"],
+            "rows": [
+              ["New mold or new cavitation", "Required: hole pattern and cooling are new", "Not applicable"],
+              ["Worn guide bores, damaged faces, otherwise sound plate", "Possible, but often not necessary", "Usually suitable: faces reground, bores repaired and remeasured"],
+              ["Cracked plate or corrosion in cooling channels", "Recommended", "Usually not suitable"],
+              ["Neck finish conversion or lightweighting on the same machine", "Needed only if the stack layout changes", "Suitable if the existing hole pattern can be kept"],
+              ["Retrofitting an aging mold to OEM-level efficiency", "Used for plates that cannot be restored", "Used for plates that can be restored"]
+            ]
+          }
+        },
+        {
+          "heading": "How to decide between a new and a refurbished mold base plate",
+          "steps": [
+            "Collect the mold data: machine, cavitation, mold number and any original plate drawings.",
+            "Measure or have the plates measured on a CMM for flatness, parallelism, bore position and bore wear.",
+            "Check the cooling channels for blockage or corrosion and the plates for cracks, especially around high-load areas.",
+            "Decide whether the mold layout will change (new neck finish, new cavitation, new preform); a changed layout usually needs new plates.",
+            "Compare the scope: plates that can be restored to drawing are refurbished, plates that cannot are replaced, and the whole mold is remeasured before it goes back into production."
+          ]
+        },
+        {
+          "heading": "Mold base support for preform, closure and blow molds",
+          "list": [
+            "Preform molds: mold bases and plates for preform molds up to 160 cavities.",
+            "Closure and blow molds: mold bases and plates are also produced for closure molds and blow molds.",
+            "Retrofitting: complete mold overhauls and performance upgrades to restore aging molds to OEM-level efficiency.",
+            "Lead times published by LIHE: replacement parts 4 weeks, standard PET molds 8 weeks; plate and mold base delivery is confirmed in the quotation.",
+            "Inspection: validation and inspection reports from the in-house Zeiss CMM lab are supplied on request."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Is the mold base the same as the mold?",
+          "answer": "No. The mold base is the frame of plates, guides and connections. The cores, cavities, neck rings and gate inserts that form the preform are mounted in it, and the hot runner sits in the hot half."
+        },
+        {
+          "question": "Why is plate accuracy more critical on a high-cavitation mold?",
+          "answer": "Because one plate carries many identical stacks. An error in flatness, parallelism or hole position is repeated across all cavities, causing differences in wall thickness, flash or wear between cavities."
+        },
+        {
+          "question": "Can worn mold base plates be refurbished instead of replaced?",
+          "answer": "Often yes, if the plate is not cracked and the cooling channels are sound. Faces can be reground and bores repaired, followed by a CMM check. Cracked or heavily corroded plates are normally replaced."
+        },
+        {
+          "question": "Do I need a new mold base for a neck finish conversion?",
+          "answer": "Not always. If the stack layout and cavitation stay the same, the existing plates can often be kept and only the neck rings and related parts are changed. A different cavitation or stack layout needs new plates."
+        },
+        {
+          "question": "How is mold base accuracy verified?",
+          "answer": "Plates are measured on a coordinate-measuring machine (CMM). LIHE uses an in-house Zeiss CMM lab and supplies inspection reports on request."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "Плиты пресс-формы для многогнёздных форм ПЭТ-преформ: плоскостность, параллельность, позиция отверстий и восстановленные плиты",
+      "intro": "Пакет плит пресс-формы — это сборка стальных плит, направляющих элементов и подключений, которая удерживает пуансоны, матрицы, горловые кольца и горячий канал литьевой или выдувной формы в точном положении и соединяет их с машиной. В многогнёздной пресс-форме для ПЭТ-преформ одна плита несёт десятки одинаковых пакетов, поэтому именно геометрия плит определяет, будет ли каждое гнездо давать одинаковую преформу. В этом руководстве объясняется, какие функции выполняют плиты, почему важны плоскостность, параллельность и позиция отверстий и когда восстановленная плита — разумная альтернатива новой.",
+      "sections": [
+        {
+          "heading": "Что делает пакет плит в пресс-форме для ПЭТ-преформ",
+          "paragraphs": [
+            "В форме для преформ пакет плит делится на горячую и холодную половины. Каждая половина — это набор плит, и у каждой плиты своя задача. Детали матрицы, пуансоны и горловые кольца контактируют с пластиком; пакет плит удерживает их соосно друг с другом и с машиной в каждом цикле."
+          ],
+          "list": [
+            "Горячая половина: плита коллектора и опорная плита удерживают горячеканальный коллектор и сопла, подающие расплав в каждое гнездо.",
+            "Плита матриц: удерживает вставки матриц и литниковые вставки; сопла горячего канала уплотняются по зоне литника.",
+            "Плита пуансонов: несёт пуансоны, формирующие внутреннюю поверхность преформы, и подачу охлаждающей воды к ним.",
+            "Съёмная плита и ползуны: несут половины горловых колец, которые формируют горловину и раскрываются для съёма преформы.",
+            "Направляющие колонки, втулки и центрирующие элементы: сводят половины формы в одно и то же положение в каждом цикле.",
+            "Каналы охлаждения: просверлены в плитах для подачи воды к каждой матрице и пуансону."
+          ]
+        },
+        {
+          "heading": "Почему плоскостность, параллельность и позиция отверстий важны для многогнёздных форм",
+          "paragraphs": [
+            "Геометрические допуски, такие как плоскостность, параллельность и позиционный допуск, задаются на чертежах по системе GD&T. В небольшой форме малая ошибка затрагивает несколько изделий; в форме для преформ на 72 или 160 гнёзд та же ошибка повторяется или накапливается по всей плите."
+          ],
+          "table": {
+            "head": ["Элемент плиты", "Что он определяет", "Типичный признак выхода за допуск", "Как изготавливается и проверяется"],
+            "rows": [
+              ["Плоскостность поверхностей плиты", "Равномерный контакт по линии разъёма и между плитами пакета", "Облой в отдельных гнёздах, неравномерное усилие смыкания, протечки сопел горячего канала", "Прецизионное плоское шлифование, измерение на КИМ"],
+              ["Параллельность поверхностей", "Одинаковая высота всех пакетов при смыкании формы", "Гнёзда с одной стороны формы смыкаются плотнее, чем с другой, неравномерный износ", "Шлифование обеих сторон от одной базы, проверка на КИМ"],
+              ["Позиция отверстий под матрицы и пуансоны", "Соосность каждого пуансона в своей матрице", "Разнотолщинность стенки преформы, плохая выдувка бутылки, смещённый литник", "Обработка на ЧПУ за один установ, проверка позиции на КИМ"],
+              ["Отверстия под направляющие и центрирование", "Повторяемое совмещение половин формы", "Износ горловых колец и конических замков, несоосность после обслуживания", "Обработка на ЧПУ и измерение на КИМ"],
+              ["Положение каналов охлаждения", "Равномерное охлаждение каждой матрицы и пуансона", "Разная температура преформ по форме, более долгое охлаждение", "Глубокое сверление по чертежу"]
+            ]
+          }
+        },
+        {
+          "heading": "Позиция отверстий и толщина стенки: связь, которую покупатель видит в бутылке",
+          "paragraphs": [
+            "Преформа выдувается в бутылку на втором этапе, поэтому любая разнотолщинность стенки преформы позже проявляется как неравномерная стенка бутылки, слабые места или тонкие участки у дна. Толщина стенки задаётся зазором между пуансоном и матрицей, а этот зазор равномерен только тогда, когда отверстия под пуансон и матрицу правильно расположены относительно друг друга."
+          ],
+          "list": [
+            "Позиции отверстий в плите матриц и плите пуансонов должны совпадать друг с другом, а не только с чертежом, поэтому обе плиты измеряются от одной базы.",
+            "Позиции сопел горячего канала должны совпадать с позициями литников при рабочей температуре, потому что коллектор при нагреве расширяется; конструкция учитывает это расширение.",
+            "Конические замки и замки горловых колец помогают центрировать пакет, но изнашиваются быстрее, если отверстия, на которые они опираются, смещены.",
+            "Для форм, рассчитанных на ресурс до 8 миллионов циклов, как оснастка LIHE для платформ Husky, SACMI и Netstal, малые ошибки позиции за множество циклов превращаются в износ."
+          ]
+        },
+        {
+          "heading": "Новый пакет плит или восстановленные плиты",
+          "paragraphs": [
+            "LIHE поставляет полные пакеты плит, отдельные плиты, а также сменные или восстановленные плиты для существующих форм. Правильный выбор зависит от состояния существующих плит и от того, меняется ли конструкция формы."
+          ],
+          "table": {
+            "head": ["Ситуация", "Новый пакет плит или плита", "Восстановленная плита"],
+            "rows": [
+              ["Новая форма или новое число гнёзд", "Обязательно: новая схема отверстий и охлаждения", "Не применяется"],
+              ["Изношенные направляющие отверстия, повреждённые поверхности при целой плите", "Возможно, но часто не требуется", "Обычно подходит: поверхности перешлифовываются, отверстия ремонтируются и перемеряются"],
+              ["Трещина в плите или коррозия в каналах охлаждения", "Рекомендуется", "Обычно не подходит"],
+              ["Смена горловины или облегчение преформы на той же машине", "Нужен, только если меняется компоновка пакетов", "Подходит, если существующую схему отверстий можно сохранить"],
+              ["Модернизация старой формы до уровня эффективности OEM", "Для плит, которые нельзя восстановить", "Для плит, которые можно восстановить"]
+            ]
+          }
+        },
+        {
+          "heading": "Как выбрать между новой и восстановленной плитой пресс-формы",
+          "steps": [
+            "Соберите данные о форме: машина, число гнёзд, номер формы и, если есть, оригинальные чертежи плит.",
+            "Измерьте плиты на КИМ или закажите измерение: плоскостность, параллельность, позиция и износ отверстий.",
+            "Проверьте каналы охлаждения на засорение и коррозию, а плиты — на трещины, особенно в зонах высокой нагрузки.",
+            "Определите, изменится ли компоновка формы (новая горловина, новое число гнёзд, новая преформа); при изменении компоновки обычно нужны новые плиты.",
+            "Сравните объём работ: плиты, которые можно вернуть к чертежу, восстанавливаются, остальные заменяются, а вся форма перемеряется перед возвратом в производство."
+          ]
+        },
+        {
+          "heading": "Пакеты плит для форм преформ, колпачков и выдувных форм",
+          "list": [
+            "Формы для преформ: пакеты и плиты для форм до 160 гнёзд.",
+            "Формы для колпачков и выдувные формы: пакеты и плиты изготавливаются и для них.",
+            "Модернизация: полный капитальный ремонт и улучшение характеристик, чтобы вернуть старые формы к эффективности уровня OEM.",
+            "Сроки, опубликованные LIHE: запасные части 4 недели, стандартные ПЭТ-формы 8 недель; срок поставки плит и пакетов подтверждается в предложении.",
+            "Контроль: отчёты о валидации и контроле из собственной лаборатории КИМ Zeiss предоставляются по запросу."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Пакет плит — это то же самое, что пресс-форма?",
+          "answer": "Нет. Пакет плит — это каркас из плит, направляющих и подключений. В нём устанавливаются пуансоны, матрицы, горловые кольца и литниковые вставки, формирующие преформу, а горячий канал находится в горячей половине."
+        },
+        {
+          "question": "Почему точность плит важнее в многогнёздной форме?",
+          "answer": "Потому что одна плита несёт множество одинаковых пакетов. Ошибка плоскостности, параллельности или позиции отверстий повторяется во всех гнёздах и вызывает разницу в толщине стенки, облой или износ между гнёздами."
+        },
+        {
+          "question": "Можно ли восстановить изношенные плиты вместо замены?",
+          "answer": "Часто да, если плита без трещин, а каналы охлаждения в порядке. Поверхности перешлифовывают, отверстия ремонтируют, затем проверяют на КИМ. Плиты с трещинами или сильной коррозией обычно заменяют."
+        },
+        {
+          "question": "Нужен ли новый пакет плит при смене горловины?",
+          "answer": "Не всегда. Если компоновка пакетов и число гнёзд остаются прежними, существующие плиты часто можно сохранить и заменить только горловые кольца и связанные детали. При другом числе гнёзд или компоновке нужны новые плиты."
+        },
+        {
+          "question": "Как проверяется точность пакета плит?",
+          "answer": "Плиты измеряются на координатно-измерительной машине (КИМ). LIHE использует собственную лабораторию КИМ Zeiss и предоставляет протоколы контроля по запросу."
+        }
+      ]
+    },
+    "es": {
+      "heading": "Base de molde para moldes de preforma PET de alta cavitación: planitud, paralelismo, posición de agujeros y placas reacondicionadas",
+      "intro": "Una base de molde es el conjunto de placas de acero, elementos de guía y conexiones que mantiene en posición exacta los núcleos, cavidades, anillos de cuello y el canal caliente de un molde de inyección o de soplado, y los une a la máquina. En un molde de preforma PET de alta cavitación, una misma placa lleva decenas de conjuntos idénticos, así que la geometría de las placas decide si cada cavidad produce la misma preforma. Esta guía explica qué hacen las placas, por qué importan la planitud, el paralelismo y la posición de los agujeros, y cuándo una placa reacondicionada es una alternativa razonable a una nueva.",
+      "sections": [
+        {
+          "heading": "Qué hace la base de molde en un molde de preforma PET",
+          "paragraphs": [
+            "En un molde de preforma, la base se divide en un lado caliente y un lado frío. Cada lado es un apilamiento de placas, y cada placa tiene una función clara. Los componentes de cavidad, los núcleos y los anillos de cuello son las piezas que tocan el plástico; la base de molde los mantiene alineados entre sí y con la máquina en cada ciclo."
+          ],
+          "list": [
+            "Lado caliente: la placa del distribuidor y la placa de respaldo alojan el distribuidor y las boquillas del canal caliente, que llevan el material fundido a cada cavidad.",
+            "Placa de cavidades: aloja los insertos de cavidad y de entrada; las boquillas del canal caliente sellan contra la zona de entrada.",
+            "Placa de núcleos: lleva los núcleos, que forman el interior de la preforma, y su suministro de agua de refrigeración.",
+            "Placa extractora y correderas: llevan las mitades de los anillos de cuello, que forman el acabado del cuello y se abren para liberar la preforma.",
+            "Columnas guía, casquillos y elementos de centrado: juntan las dos mitades en la misma posición en cada ciclo.",
+            "Canales de refrigeración: taladrados a través de las placas para llevar agua a cada cavidad y núcleo."
+          ]
+        },
+        {
+          "heading": "Por qué la planitud, el paralelismo y la posición de agujeros importan en moldes de alta cavitación",
+          "paragraphs": [
+            "Las tolerancias geométricas como planitud, paralelismo y posición se definen en los planos mediante el dimensionamiento y tolerado geométrico (GD&T). En un molde pequeño, un error pequeño afecta a pocas piezas; en un molde de preforma de 72 o 160 cavidades, el mismo error se repite o se acumula en toda la placa."
+          ],
+          "table": {
+            "head": ["Característica de la placa", "Qué controla", "Síntoma típico si está fuera de tolerancia", "Cómo se fabrica y se comprueba"],
+            "rows": [
+              ["Planitud de las caras", "Contacto uniforme en la línea de partición y entre placas apiladas", "Rebaba en algunas cavidades, carga de cierre desigual, fugas en boquillas del canal caliente", "Rectificado plano de precisión, medición en MMC"],
+              ["Paralelismo entre caras", "Altura igual de todos los conjuntos al cerrar el molde", "Las cavidades de un lado cierran más apretadas que las del otro, desgaste desigual", "Rectificado de ambas caras desde una referencia, control en MMC"],
+              ["Posición de los agujeros de cavidad y núcleo", "Concentricidad de cada núcleo dentro de su cavidad", "Espesor de pared desigual en la preforma, mal soplado de la botella, entradas descentradas", "Mecanizado CNC en una sola sujeción, control de posición en MMC"],
+              ["Agujeros de guía y centrado", "Alineación repetible de las dos mitades del molde", "Desgaste de anillos de cuello y conos de centrado, desalineación tras el mantenimiento", "Mecanizado CNC y medición en MMC"],
+              ["Posición de los canales de refrigeración", "Refrigeración uniforme de cada cavidad y núcleo", "Temperaturas de preforma distintas en el molde, enfriamiento más largo", "Taladrado profundo según plano"]
+            ]
+          }
+        },
+        {
+          "heading": "Posición de agujeros y espesor de pared: el vínculo que el comprador ve en la botella",
+          "paragraphs": [
+            "La preforma se sopla para obtener la botella en un segundo paso, por lo que cualquier variación del espesor de pared de la preforma aparece después como paredes desiguales, puntos débiles o zonas delgadas cerca del fondo. El espesor de pared lo fija la holgura entre núcleo y cavidad, y esa holgura solo es uniforme cuando los agujeros de núcleo y de cavidad están en la posición correcta uno respecto al otro."
+          ],
+          "list": [
+            "Las posiciones de los agujeros de la placa de cavidades y de la placa de núcleos deben coincidir entre sí, no solo con el plano, por lo que ambas placas se miden desde la misma referencia.",
+            "Las posiciones de las boquillas del canal caliente deben coincidir con las entradas a temperatura de trabajo, porque el distribuidor se dilata al calentarse; el diseño tiene en cuenta esa dilatación.",
+            "Los conos de centrado y los cierres de los anillos de cuello ayudan a centrar el conjunto, pero se desgastan antes cuando los agujeros en los que se apoyan están fuera de posición.",
+            "En moldes construidos para soportar hasta 8 millones de ciclos, como el utillaje de LIHE en plataformas Husky, SACMI y Netstal, los pequeños errores de posición se convierten en desgaste a lo largo de muchos ciclos."
+          ]
+        },
+        {
+          "heading": "Base de molde nueva frente a placas reacondicionadas",
+          "paragraphs": [
+            "LIHE suministra bases de molde completas, placas individuales y placas de sustitución o reacondicionadas para moldes existentes. La elección correcta depende del estado de las placas existentes y de si el molde va a cambiar."
+          ],
+          "table": {
+            "head": ["Situación", "Base de molde o placa nueva", "Placa reacondicionada"],
+            "rows": [
+              ["Molde nuevo o nueva cavitación", "Necesaria: el patrón de agujeros y la refrigeración son nuevos", "No aplica"],
+              ["Agujeros guía desgastados, caras dañadas, placa sana en lo demás", "Posible, pero a menudo innecesaria", "Suele ser adecuada: caras rectificadas, agujeros reparados y medidos de nuevo"],
+              ["Placa agrietada o corrosión en los canales de refrigeración", "Recomendada", "Normalmente no adecuada"],
+              ["Conversión de cuello o aligeramiento en la misma máquina", "Solo si cambia la disposición de los conjuntos", "Adecuada si se puede mantener el patrón de agujeros existente"],
+              ["Modernización de un molde antiguo a la eficiencia de nivel OEM", "Para placas que no se pueden recuperar", "Para placas que se pueden recuperar"]
+            ]
+          }
+        },
+        {
+          "heading": "Cómo decidir entre una placa de base de molde nueva o reacondicionada",
+          "steps": [
+            "Reúna los datos del molde: máquina, cavidades, número de molde y, si existen, los planos originales de las placas.",
+            "Mida o haga medir las placas en una MMC: planitud, paralelismo, posición de los agujeros y desgaste de los agujeros.",
+            "Revise los canales de refrigeración por obstrucción o corrosión y las placas por grietas, sobre todo en las zonas de mayor carga.",
+            "Decida si cambiará la disposición del molde (cuello nuevo, nueva cavitación, preforma nueva); una disposición distinta suele requerir placas nuevas.",
+            "Compare el alcance: las placas que pueden volver al plano se reacondicionan, las que no se sustituyen, y todo el molde se mide de nuevo antes de volver a producción."
+          ]
+        },
+        {
+          "heading": "Bases de molde para moldes de preforma, tapas y soplado",
+          "list": [
+            "Moldes de preforma: bases y placas para moldes de preforma de hasta 160 cavidades.",
+            "Moldes de tapas y de soplado: también se fabrican bases y placas para ellos.",
+            "Modernización: revisiones completas del molde y mejoras de rendimiento para devolver moldes antiguos a la eficiencia de nivel OEM.",
+            "Plazos publicados por LIHE: repuestos 4 semanas, moldes PET estándar 8 semanas; la entrega de placas y bases se confirma en la cotización.",
+            "Inspección: los informes de validación e inspección del laboratorio propio con MMC Zeiss se entregan bajo solicitud."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿La base de molde es lo mismo que el molde?",
+          "answer": "No. La base de molde es el armazón de placas, guías y conexiones. En ella se montan los núcleos, cavidades, anillos de cuello e insertos de entrada que forman la preforma, y el canal caliente se aloja en el lado caliente."
+        },
+        {
+          "question": "¿Por qué la precisión de las placas es más crítica en un molde de alta cavitación?",
+          "answer": "Porque una sola placa lleva muchos conjuntos idénticos. Un error de planitud, paralelismo o posición de agujeros se repite en todas las cavidades y provoca diferencias de espesor de pared, rebaba o desgaste entre cavidades."
+        },
+        {
+          "question": "¿Se pueden reacondicionar las placas desgastadas en lugar de sustituirlas?",
+          "answer": "A menudo sí, si la placa no está agrietada y los canales de refrigeración están en buen estado. Las caras se rectifican y los agujeros se reparan, y después se controlan en MMC. Las placas agrietadas o muy corroídas normalmente se sustituyen."
+        },
+        {
+          "question": "¿Necesito una base de molde nueva para una conversión de cuello?",
+          "answer": "No siempre. Si la disposición de los conjuntos y la cavitación se mantienen, a menudo se conservan las placas existentes y solo se cambian los anillos de cuello y las piezas relacionadas. Otra cavitación u otra disposición requiere placas nuevas."
+        },
+        {
+          "question": "¿Cómo se verifica la precisión de una base de molde?",
+          "answer": "Las placas se miden en una máquina de medición por coordenadas (MMC). LIHE dispone de un laboratorio propio con MMC Zeiss y entrega informes de inspección bajo solicitud."
+        }
+      ]
+    }
+  }
+}

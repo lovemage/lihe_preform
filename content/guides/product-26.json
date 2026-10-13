@@ -1,0 +1,343 @@
+{
+  "key": "product-26",
+  "updated": "2026-10-13",
+  "sources": [
+    { "label": "Krones — official website", "url": "https://www.krones.com/en/" },
+    { "label": "Wikipedia — Blow molding", "url": "https://en.wikipedia.org/wiki/Blow_molding" },
+    { "label": "Wikipedia — Single-minute exchange of die", "url": "https://en.wikipedia.org/wiki/Single-minute_exchange_of_die" },
+    { "label": "Wikipedia — Polyethylene terephthalate", "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate" },
+    { "label": "Wikipedia — Soft drink", "url": "https://en.wikipedia.org/wiki/Soft_drink" }
+  ],
+  "locales": {
+    "en": {
+      "heading": "Krones Contiform cold fill blow mold guide: mold carrier, quick-change locking, quote data and changeover",
+      "intro": "A Krones cold fill blow mold is a matched set of mold shells, base mold and neck plate built to fit the mold carrier and quick-change locking system of a Krones Contiform stretch blow molder, for bottles filled at ambient temperature. This guide focuses on the Contiform interface: how manual and tool-free quick-change carriers affect the mold, what to send for a quote, how to plan sets and spares for frequent format changes, and the steps of a quick changeover.",
+      "sections": [
+        {
+          "heading": "The Contiform mold carrier: what the blow mold must fit",
+          "paragraphs": [
+            "On a Contiform, each blowing station has a mold carrier that opens and closes the shells, holds the base mold and connects the mold to the machine's cooling circuit. A replacement mold is accepted by the machine only when its outside matches the carrier exactly; the bottle cavity inside can be a new design."
+          ],
+          "list": [
+            "Shell back faces and locating features, so the shells sit in the carrier in the same position as the original parts.",
+            "Locking features for the carrier's quick-change system, whether the shells are fixed with fasteners or with tool-free locking elements.",
+            "Cooling connections in the positions the carrier expects, so the water circuit connects without adapters.",
+            "Base mold fit to the base unit, including its locating diameter and height, so the base closes against the shells correctly.",
+            "Neck plate seat for the preform support ring, centered on the stretch rod.",
+            "Machine model and generation, read from the nameplate, because carrier details can differ between Contiform versions."
+          ]
+        },
+        {
+          "heading": "Manual vs tool-free quick-change mold carriers on Krones Contiform",
+          "paragraphs": [
+            "LIHE's Contiform sets are compatible with both manual and tool-free quick-change mold carriers. The two systems ask different things of the mold, so the carrier type must be known before design starts."
+          ],
+          "table": {
+            "head": ["", "Manual mold carrier", "Tool-free quick-change carrier"],
+            "rows": [
+              ["How the shells are fixed", "With fasteners released using hand tools", "With the carrier's own locking elements, operated by hand"],
+              ["What the mold must match", "Mounting faces and fastener positions", "Locking and locating features of the quick-change interface"],
+              ["Changeover work per station", "Longer: fasteners and connections are handled one by one", "Shorter: mainly unlocking, handling and checking"],
+              ["Typical line profile", "Few format changes, long production runs", "Frequent format changes, many bottle sizes"],
+              ["Critical check after mounting", "Fastener torque and seating", "Locking element fully engaged and seating"]
+            ]
+          }
+        },
+        {
+          "heading": "Why quick-change compatibility matters for the blow mold design",
+          "list": [
+            "Locating features on the shells must be machined to tight tolerances, because the carrier relies on them instead of manual alignment.",
+            "Shell weight affects how easily an operator handles parts during a fast change, so material and wall sections are chosen with handling in mind.",
+            "Base molds must center themselves on the base unit, so a quick change does not need adjustment of the base position.",
+            "Identical outer dimensions across all sets mean any set can go into any station without sorting or shimming.",
+            "Split-type quick-change molds can reduce the parts to be changed further: only cavity inserts and base molds are exchanged while the outer shells stay in the carrier.",
+            "Each set is inspected on the in-house Zeiss CMM so locating and locking dimensions match across the full set."
+          ]
+        },
+        {
+          "heading": "Planning sets and spare parts for frequent format changes",
+          "paragraphs": [
+            "Contiform lines that run several products often switch between bottle sizes such as 330ml, 500ml, 550ml and 1.5L. Planning the mold sets as a system makes these changes predictable."
+          ],
+          "list": [
+            "One identical set per blowing station for each bottle format, so the full machine can run every format.",
+            "Spare base molds and neck plates for the formats that run most, because these parts see the most handling during changes.",
+            "A labelled storage rack or trolley per format, so a complete set can be moved to the machine at once.",
+            "Common neck plates across formats with the same neck finish, which reduces the number of parts touched in a change.",
+            "Replacement parts have a published lead time of 4 weeks; plan stock for parts that would stop a station if damaged."
+          ]
+        },
+        {
+          "heading": "Information to send for a Krones Contiform blow mold quote",
+          "list": [
+            "Machine: Krones Contiform model and generation from the nameplate, number of blowing stations, and carrier type (manual or tool-free quick-change).",
+            "Bottle: drawing or sample, capacity, target weight, product (still water, CSD, juice or another ambient-filled beverage) and base type.",
+            "Preform: drawing or sample, weight and neck finish, or a request to design a matched preform.",
+            "Existing parts: photos of a current shell, base mold and neck plate with their markings, which help confirm the carrier interface.",
+            "Scope: complete sets for all stations, split-type quick-change inserts, or spare parts only.",
+            "Timing: published lead times are 20 days for pilot molds and 8 weeks for standard PET molds."
+          ]
+        },
+        {
+          "heading": "Quick changeover steps for a Krones Contiform mold set",
+          "paragraphs": [
+            "Follow the Krones operating manual for machine-specific procedures and safety; the sequence below shows how to organize a quick change so the machine is stopped for as little time as possible."
+          ],
+          "steps": [
+            "Before the stop, stage the new sets by station number next to the machine, with the preforms, recipe and any neck-related change parts ready.",
+            "Run the machine empty of preforms and bottles, stop it according to the Krones manual and secure it against restart.",
+            "Shut off the mold cooling water and release the pressure in the circuit.",
+            "Open each carrier, release the manual fasteners or the tool-free locking elements, and remove shells, base mold and neck plate.",
+            "Fit the new parts, engage the locking elements or tighten the fasteners, and check that every part is fully seated.",
+            "Restore cooling water and check each station for leaks.",
+            "Load the recipe and adjust the oven heating profile for the new preform.",
+            "Blow sample bottles and check each station for volume, wall distribution, base shape and appearance before releasing production.",
+            "Clean, check and store the removed sets on their own rack so they are ready for the next change."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Are LIHE Contiform molds compatible with tool-free quick-change carriers?",
+          "answer": "Yes. The cold fill sets are built for Contiform manual and tool-free quick-change mold carriers. Tell us which type your machine has so the locking and locating features are machined for it."
+        },
+        {
+          "question": "Can I mix LIHE sets and original sets on the same machine?",
+          "answer": "Sets are built to fit the same carrier interface, but all stations should run the same bottle design so bottles are identical. For a new bottle design, supply sets for every station; for an existing design, replacement parts can be built to your current drawing or sample."
+        },
+        {
+          "question": "What should we stock as spare parts for a Contiform line?",
+          "answer": "Base molds and neck plates for the highest-volume formats are the usual priority, because they see the most handling and wear. Replacement parts have a published lead time of 4 weeks."
+        },
+        {
+          "question": "Can a Contiform mold be converted to run on a KHS machine?",
+          "answer": "The bottle design can be reused, but the parts must fit the KHS mold carrier. LIHE supplies conversion parts or builds a separate set for the KHS InnoPET Blomax platform."
+        },
+        {
+          "question": "Is a split-type quick-change mold worth it on a Contiform?",
+          "answer": "It is most useful when the line changes formats often: only cavity inserts and base molds are exchanged, so fewer and lighter parts are handled at each station. For lines with few format changes, complete sets are usually simpler."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "Выдувные формы холодного розлива для Krones Contiform: формодержатель, быстросменная фиксация, данные для расчёта и смена формата",
+      "intro": "Выдувная форма холодного розлива для Krones — это согласованный комплект полуформ, донной формы и плиты горла, изготовленный под формодержатель и систему быстросменной фиксации выдувной машины Krones Contiform, для бутылок, разливаемых при комнатной температуре. Руководство посвящено интерфейсу Contiform: как ручные и бесинструментальные быстросменные формодержатели влияют на форму, что отправить для расчёта, как планировать комплекты и запасные части при частой смене форматов и как выполнять быструю смену.",
+      "sections": [
+        {
+          "heading": "Формодержатель Contiform: к чему должна подходить выдувная форма",
+          "paragraphs": [
+            "На Contiform каждая выдувная станция имеет формодержатель, который открывает и закрывает полуформы, удерживает донную форму и подключает форму к контуру охлаждения машины. Машина принимает сменную форму, только если её наружная часть точно соответствует формодержателю; полость бутылки внутри может быть новой конструкции."
+          ],
+          "list": [
+            "Тыльные поверхности и базирующие элементы полуформ, чтобы полуформы занимали в формодержателе то же положение, что и оригинальные детали.",
+            "Элементы фиксации под быстросменную систему формодержателя — с крепёжными деталями или с бесинструментальными запорными элементами.",
+            "Подключения охлаждения в тех местах, где их ожидает формодержатель, чтобы водяной контур подключался без переходников.",
+            "Посадка донной формы на донный узел, включая базовый диаметр и высоту, чтобы дно правильно смыкалось с полуформами.",
+            "Посадка плиты горла под опорное кольцо преформы с центровкой по вытягивающему штоку.",
+            "Модель и поколение машины по заводской табличке, так как детали формодержателя различаются в разных версиях Contiform."
+          ]
+        },
+        {
+          "heading": "Ручные и бесинструментальные быстросменные формодержатели Krones Contiform",
+          "paragraphs": [
+            "Комплекты LIHE для Contiform совместимы как с ручными, так и с бесинструментальными быстросменными формодержателями. Эти системы предъявляют к форме разные требования, поэтому тип формодержателя нужно знать до начала проектирования."
+          ],
+          "table": {
+            "head": ["", "Ручной формодержатель", "Бесинструментальный быстросменный формодержатель"],
+            "rows": [
+              ["Как крепятся полуформы", "Крепёжными деталями, которые отпускаются ручным инструментом", "Собственными запорными элементами формодержателя, вручную"],
+              ["Чему должна соответствовать форма", "Посадочным поверхностям и положению крепежа", "Запорным и базирующим элементам быстросменного интерфейса"],
+              ["Работа по смене на одну станцию", "Дольше: крепёж и подключения обрабатываются по одному", "Быстрее: в основном разблокировка, перенос и проверка"],
+              ["Типичный профиль линии", "Редкая смена форматов, длинные серии", "Частая смена форматов, много размеров бутылок"],
+              ["Ключевая проверка после установки", "Момент затяжки крепежа и посадка", "Полное зацепление запорного элемента и посадка"]
+            ]
+          }
+        },
+        {
+          "heading": "Почему совместимость с быстрой сменой важна для конструкции выдувной формы",
+          "list": [
+            "Базирующие элементы полуформ обрабатываются с жёсткими допусками, так как формодержатель опирается на них вместо ручной выверки.",
+            "Вес полуформ влияет на удобство работы оператора при быстрой смене, поэтому материал и сечения стенок выбираются с учётом переноски.",
+            "Донные формы должны самоцентрироваться на донном узле, чтобы быстрая смена не требовала регулировки положения дна.",
+            "Одинаковые наружные размеры всех комплектов позволяют ставить любой комплект в любую станцию без сортировки и прокладок.",
+            "Разъёмные формы быстрой смены ещё больше сокращают число сменяемых деталей: меняются только вставки полостей и донные формы, а наружные полуформы остаются в формодержателе.",
+            "Каждый комплект проверяется на собственной КИМ Zeiss, чтобы базирующие и запорные размеры совпадали во всём комплекте."
+          ]
+        },
+        {
+          "heading": "Планирование комплектов и запасных частей при частой смене форматов",
+          "paragraphs": [
+            "Линии Contiform, выпускающие несколько продуктов, часто переходят между бутылками 330ml, 500ml, 550ml и 1.5L. Планирование комплектов форм как единой системы делает такие переходы предсказуемыми."
+          ],
+          "list": [
+            "Один одинаковый комплект на каждую выдувную станцию для каждого формата, чтобы вся машина могла выпускать любой формат.",
+            "Запасные донные формы и плиты горла для самых ходовых форматов, так как эти детали чаще всего переносятся при смене.",
+            "Промаркированный стеллаж или тележка для каждого формата, чтобы полный комплект можно было подать к машине за один раз.",
+            "Общие плиты горла для форматов с одинаковым горлом, что уменьшает число деталей, затрагиваемых при смене.",
+            "Опубликованный срок поставки запасных частей — 4 недели; держите запас деталей, повреждение которых остановило бы станцию."
+          ]
+        },
+        {
+          "heading": "Какие данные отправить для расчёта выдувной формы Krones Contiform",
+          "list": [
+            "Машина: модель и поколение Krones Contiform по заводской табличке, количество выдувных станций и тип формодержателя (ручной или бесинструментальный быстросменный).",
+            "Бутылка: чертёж или образец, объём, целевой вес, продукт (негазированная вода, CSD, сок или другой напиток холодного розлива) и тип дна.",
+            "Преформа: чертёж или образец, вес и горло, либо запрос на разработку подходящей преформы.",
+            "Имеющиеся детали: фотографии текущей полуформы, донной формы и плиты горла с маркировкой, которые помогают подтвердить интерфейс формодержателя.",
+            "Объём поставки: полные комплекты для всех станций, сменные вставки разъёмной формы или только запасные части.",
+            "Сроки: опубликованные сроки — 20 дней для пилотных форм и 8 недель для стандартных ПЭТ-форм."
+          ]
+        },
+        {
+          "heading": "Этапы быстрой смены комплекта форм на Krones Contiform",
+          "paragraphs": [
+            "Соблюдайте руководство по эксплуатации Krones в части порядка работ и безопасности; ниже показано, как организовать быструю смену, чтобы машина простаивала как можно меньше."
+          ],
+          "steps": [
+            "До остановки разложите новые комплекты по номерам станций рядом с машиной, подготовив преформы, рецепт и детали, связанные с горлом, если они меняются.",
+            "Освободите машину от преформ и бутылок, остановите её согласно руководству Krones и заблокируйте от повторного пуска.",
+            "Перекройте охлаждающую воду форм и сбросьте давление в контуре.",
+            "Откройте каждый формодержатель, отпустите крепёж или бесинструментальные запорные элементы и снимите полуформы, донную форму и плиту горла.",
+            "Установите новые детали, зафиксируйте запорные элементы или затяните крепёж и проверьте полную посадку каждой детали.",
+            "Восстановите подачу охлаждающей воды и проверьте каждую станцию на утечки.",
+            "Загрузите рецепт и настройте профиль нагрева печи под новую преформу.",
+            "Выдуйте пробные бутылки и проверьте каждую станцию по объёму, распределению стенки, форме дна и внешнему виду до выпуска продукции.",
+            "Очистите, проверьте и уберите снятые комплекты на их стеллаж, чтобы они были готовы к следующей смене."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Совместимы ли формы LIHE для Contiform с бесинструментальными быстросменными формодержателями?",
+          "answer": "Да. Комплекты холодного розлива изготавливаются для ручных и бесинструментальных быстросменных формодержателей Contiform. Сообщите тип формодержателя вашей машины, чтобы запорные и базирующие элементы были обработаны под него."
+        },
+        {
+          "question": "Можно ли использовать на одной машине комплекты LIHE и оригинальные комплекты?",
+          "answer": "Комплекты изготавливаются под тот же интерфейс формодержателя, но все станции должны работать с одной конструкцией бутылки, чтобы бутылки были одинаковыми. Для новой бутылки поставляются комплекты на все станции; для существующей запасные части изготавливаются по вашему текущему чертежу или образцу."
+        },
+        {
+          "question": "Какие запасные части держать для линии Contiform?",
+          "answer": "Обычно в приоритете донные формы и плиты горла для самых массовых форматов, так как они чаще всего переносятся и изнашиваются. Опубликованный срок поставки запасных частей — 4 недели."
+        },
+        {
+          "question": "Можно ли переоснастить форму Contiform для работы на машине KHS?",
+          "answer": "Конструкцию бутылки можно использовать повторно, но детали должны подходить к формодержателю KHS. LIHE поставляет переходные детали или изготавливает отдельный комплект для платформы KHS InnoPET Blomax."
+        },
+        {
+          "question": "Имеет ли смысл разъёмная форма быстрой смены на Contiform?",
+          "answer": "Она наиболее полезна при частой смене форматов: меняются только вставки полостей и донные формы, поэтому на каждой станции переносится меньше деталей и они легче. Для линий с редкой сменой форматов полные комплекты обычно проще."
+        }
+      ]
+    },
+    "es": {
+      "heading": "Moldes de soplado para llenado en frío Krones Contiform: portamoldes, bloqueo de cambio rápido, datos para cotizar y cambio de formato",
+      "intro": "Un molde de soplado para llenado en frío Krones es un juego adaptado de carcasas, molde de fondo y placa de cuello fabricado para encajar en el portamoldes y en el sistema de bloqueo de cambio rápido de una sopladora Krones Contiform, destinado a botellas llenadas a temperatura ambiente. Esta guía se centra en la interfaz Contiform: cómo afectan al molde los portamoldes de cambio rápido manual y sin herramientas, qué enviar para una cotización, cómo planificar juegos y repuestos para cambios de formato frecuentes y los pasos de un cambio rápido.",
+      "sections": [
+        {
+          "heading": "El portamoldes Contiform: a qué debe ajustarse el molde de soplado",
+          "paragraphs": [
+            "En una Contiform, cada estación de soplado tiene un portamoldes que abre y cierra las carcasas, sujeta el molde de fondo y conecta el molde al circuito de refrigeración de la máquina. La máquina solo acepta un molde de reemplazo cuando su exterior coincide exactamente con el portamoldes; la cavidad de la botella en el interior puede ser un diseño nuevo."
+          ],
+          "list": [
+            "Caras posteriores y elementos de posicionamiento de las carcasas, para que queden en el portamoldes en la misma posición que las piezas originales.",
+            "Elementos de bloqueo para el sistema de cambio rápido del portamoldes, tanto si las carcasas se fijan con tornillería como con elementos de bloqueo sin herramientas.",
+            "Conexiones de refrigeración en las posiciones que espera el portamoldes, para que el circuito de agua se conecte sin adaptadores.",
+            "Ajuste del molde de fondo a la unidad de fondo, incluido su diámetro de centrado y su altura, para que la base cierre correctamente contra las carcasas.",
+            "Asiento de la placa de cuello para el anillo de soporte de la preforma, centrado en la varilla de estirado.",
+            "Modelo y generación de la máquina según la placa de características, porque los detalles del portamoldes pueden variar entre versiones de Contiform."
+          ]
+        },
+        {
+          "heading": "Portamoldes de cambio rápido manual frente a sin herramientas en Krones Contiform",
+          "paragraphs": [
+            "Los juegos LIHE para Contiform son compatibles con portamoldes de cambio rápido manual y sin herramientas. Los dos sistemas exigen cosas distintas al molde, por lo que hay que conocer el tipo de portamoldes antes de empezar el diseño."
+          ],
+          "table": {
+            "head": ["", "Portamoldes manual", "Portamoldes de cambio rápido sin herramientas"],
+            "rows": [
+              ["Cómo se fijan las carcasas", "Con tornillería que se suelta con herramientas manuales", "Con los elementos de bloqueo propios del portamoldes, accionados a mano"],
+              ["Con qué debe coincidir el molde", "Caras de montaje y posiciones de la tornillería", "Elementos de bloqueo y de posicionamiento de la interfaz de cambio rápido"],
+              ["Trabajo de cambio por estación", "Más largo: tornillería y conexiones se manejan una a una", "Más corto: sobre todo desbloquear, manipular y comprobar"],
+              ["Perfil típico de línea", "Pocos cambios de formato, series largas", "Cambios de formato frecuentes, muchos tamaños de botella"],
+              ["Control clave tras el montaje", "Par de apriete y asiento", "Elemento de bloqueo totalmente enclavado y asiento"]
+            ]
+          }
+        },
+        {
+          "heading": "Por qué la compatibilidad con el cambio rápido influye en el diseño del molde de soplado",
+          "list": [
+            "Los elementos de posicionamiento de las carcasas deben mecanizarse con tolerancias estrechas, porque el portamoldes se apoya en ellos en lugar de en una alineación manual.",
+            "El peso de las carcasas influye en la facilidad con que un operario las maneja en un cambio rápido, por eso el material y las secciones se eligen pensando en la manipulación.",
+            "Los moldes de fondo deben centrarse solos en la unidad de fondo, para que un cambio rápido no requiera ajustar la posición de la base.",
+            "Unas dimensiones exteriores idénticas en todos los juegos permiten montar cualquier juego en cualquier estación sin clasificar ni suplementar.",
+            "Los moldes de cambio rápido tipo partido reducen aún más las piezas a cambiar: solo se sustituyen los insertos de cavidad y los moldes de fondo, mientras las carcasas exteriores permanecen en el portamoldes.",
+            "Cada juego se inspecciona en la MMC Zeiss propia para que las cotas de posicionamiento y bloqueo coincidan en todo el juego."
+          ]
+        },
+        {
+          "heading": "Planificación de juegos y repuestos para cambios de formato frecuentes",
+          "paragraphs": [
+            "Las líneas Contiform que producen varios productos cambian a menudo entre tamaños de botella como 330ml, 500ml, 550ml y 1.5L. Planificar los juegos de moldes como un sistema hace que estos cambios sean previsibles."
+          ],
+          "list": [
+            "Un juego idéntico por estación de soplado para cada formato, para que toda la máquina pueda producir cualquier formato.",
+            "Moldes de fondo y placas de cuello de repuesto para los formatos que más se producen, porque son las piezas que más se manipulan en los cambios.",
+            "Un estante o carro identificado por formato, para llevar un juego completo a la máquina de una sola vez.",
+            "Placas de cuello comunes para formatos con el mismo acabado de cuello, lo que reduce el número de piezas que se tocan en un cambio.",
+            "Las piezas de repuesto tienen un plazo publicado de 4 semanas; planifique existencias de las piezas cuya rotura pararía una estación."
+          ]
+        },
+        {
+          "heading": "Información que enviar para cotizar un molde de soplado Krones Contiform",
+          "list": [
+            "Máquina: modelo y generación de Krones Contiform según la placa de características, número de estaciones de soplado y tipo de portamoldes (manual o de cambio rápido sin herramientas).",
+            "Botella: plano o muestra, capacidad, peso objetivo, producto (agua sin gas, CSD, zumo u otra bebida de llenado en frío) y tipo de base.",
+            "Preforma: plano o muestra, peso y acabado de cuello, o la solicitud de diseñar una preforma adaptada.",
+            "Piezas existentes: fotos de una carcasa, un molde de fondo y una placa de cuello actuales con sus marcas, que ayudan a confirmar la interfaz del portamoldes.",
+            "Alcance: juegos completos para todas las estaciones, insertos de cambio rápido tipo partido o solo piezas de repuesto.",
+            "Plazos: los plazos publicados son 20 días para moldes piloto y 8 semanas para moldes PET estándar."
+          ]
+        },
+        {
+          "heading": "Pasos de un cambio rápido de juego de moldes en Krones Contiform",
+          "paragraphs": [
+            "Siga el manual de operación de Krones para los procedimientos específicos de la máquina y la seguridad; la secuencia siguiente muestra cómo organizar un cambio rápido para que la máquina esté parada el menor tiempo posible."
+          ],
+          "steps": [
+            "Antes de la parada, coloque los juegos nuevos junto a la máquina ordenados por número de estación, con las preformas, la receta y las piezas de cuello necesarias preparadas.",
+            "Vacíe la máquina de preformas y botellas, deténgala según el manual de Krones y asegúrela contra un rearranque.",
+            "Cierre el agua de refrigeración de los moldes y libere la presión del circuito.",
+            "Abra cada portamoldes, suelte la tornillería o los elementos de bloqueo sin herramientas y retire carcasas, molde de fondo y placa de cuello.",
+            "Monte las piezas nuevas, enclave los elementos de bloqueo o apriete la tornillería y compruebe que cada pieza está bien asentada.",
+            "Restablezca el agua de refrigeración y revise cada estación por si hay fugas.",
+            "Cargue la receta y ajuste el perfil de calentamiento del horno a la nueva preforma.",
+            "Sople botellas de muestra y revise cada estación en volumen, distribución de pared, forma de la base y aspecto antes de liberar la producción.",
+            "Limpie, revise y guarde los juegos retirados en su propio estante para que estén listos para el siguiente cambio."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Son compatibles los moldes LIHE para Contiform con portamoldes de cambio rápido sin herramientas?",
+          "answer": "Sí. Los juegos de llenado en frío se fabrican para portamoldes Contiform de cambio rápido manual y sin herramientas. Indíquenos qué tipo tiene su máquina para mecanizar los elementos de bloqueo y posicionamiento correspondientes."
+        },
+        {
+          "question": "¿Puedo combinar juegos LIHE y juegos originales en la misma máquina?",
+          "answer": "Los juegos se fabrican para la misma interfaz de portamoldes, pero todas las estaciones deben trabajar con el mismo diseño de botella para que las botellas sean idénticas. Para un diseño nuevo se suministran juegos para todas las estaciones; para un diseño existente, los repuestos se fabrican según su plano o muestra actual."
+        },
+        {
+          "question": "¿Qué repuestos conviene tener para una línea Contiform?",
+          "answer": "Lo habitual es dar prioridad a moldes de fondo y placas de cuello de los formatos de mayor volumen, porque son las piezas que más se manipulan y desgastan. Las piezas de repuesto tienen un plazo publicado de 4 semanas."
+        },
+        {
+          "question": "¿Se puede convertir un molde Contiform para trabajar en una máquina KHS?",
+          "answer": "El diseño de la botella puede reutilizarse, pero las piezas deben encajar en el portamoldes KHS. LIHE suministra piezas de conversión o fabrica un juego separado para la plataforma KHS InnoPET Blomax."
+        },
+        {
+          "question": "¿Vale la pena un molde de cambio rápido tipo partido en una Contiform?",
+          "answer": "Es más útil cuando la línea cambia de formato con frecuencia: solo se sustituyen los insertos de cavidad y los moldes de fondo, por lo que en cada estación se manipulan menos piezas y más ligeras. En líneas con pocos cambios de formato, los juegos completos suelen ser más sencillos."
+        }
+      ]
+    }
+  }
+}

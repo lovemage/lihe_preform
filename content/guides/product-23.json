@@ -1,0 +1,329 @@
+{
+  "key": "product-23",
+  "updated": "2026-10-13",
+  "sources": [
+    { "label": "KHS — official website", "url": "https://www.khs.com/en/" },
+    { "label": "KHS — products overview", "url": "https://www.khs.com/en/products" },
+    { "label": "Wikipedia — Blow molding", "url": "https://en.wikipedia.org/wiki/Blow_molding" },
+    { "label": "Wikipedia — Carbonated water", "url": "https://en.wikipedia.org/wiki/Carbonated_water" },
+    { "label": "Wikipedia — Bottled water", "url": "https://en.wikipedia.org/wiki/Bottled_water" },
+    { "label": "Wikipedia — Polyethylene terephthalate", "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate" }
+  ],
+  "locales": {
+    "en": {
+      "heading": "KHS InnoPET Blomax cold fill blow mold guide: mold carrier fit, lightweight still water and CSD bottles, changeover",
+      "intro": "A KHS cold fill blow mold is a set of mold shells, a base mold and a neck plate machined to the mold carrier of a KHS (formerly SIG) InnoPET Blomax stretch blow molder, for bottles filled at ambient temperature. This guide covers what has to match the Blomax mold carrier, the information to send for a quote, design points for lightweight still water and carbonated soft drink (CSD) bottles, and the steps of a format changeover on a Blomax line.",
+      "sections": [
+        {
+          "heading": "What a KHS Blomax blow mold must match on the mold carrier",
+          "paragraphs": [
+            "A Blomax mold set only works if it seats, locks and connects exactly like the original KHS parts. The bottle cavity can be new, but the outside of each part follows the machine. Because the InnoPET Blomax series has been built over several machine generations under the SIG and KHS names, the details are confirmed from the machine nameplate and documentation for each project."
+          ],
+          "list": [
+            "Mold shell outer geometry and mounting faces, so the shells sit in the shell holders of the mold carrier without shims or modification.",
+            "Clamping and locking interface of the mold carrier, so the mold closes and locks under blowing pressure.",
+            "Position and type of the cooling water connections, so shells and base mold connect to the machine circuit directly.",
+            "Base mold mounting and height, matched to the base unit and its stroke so the base closes against the shells at the right point.",
+            "Neck plate seat, matched to the preform support ring and centered on the stretch rod axis.",
+            "Number of blowing stations, because every station needs an identical set."
+          ]
+        },
+        {
+          "heading": "Lightweight still water vs CSD bottles on a KHS Blomax",
+          "paragraphs": [
+            "The same Blomax machine often runs both still water and carbonated products, but the bottles behave differently in use, so the mold design priorities differ."
+          ],
+          "table": {
+            "head": ["", "Lightweight still water bottle", "CSD bottle"],
+            "rows": [
+              ["Pressure inside the filled bottle", "None, or a small pressure from nitrogen dosing", "Carbonation pressure throughout shelf life"],
+              ["Typical base", "Flat or champagne-style base", "Petaloid base with feet"],
+              ["Main design goal", "Minimum PET weight while keeping top load and handling strength", "Resistance to pressure, creep and base stress cracking"],
+              ["Critical bottle tests", "Top load, volume, wall thickness distribution", "Burst pressure, volume expansion under pressure, base material distribution"],
+              ["Mold focus", "Even wall distribution, ribs and shoulder shape for stiffness", "Petaloid base geometry and strong base cooling"]
+            ]
+          }
+        },
+        {
+          "heading": "Design considerations for lightweight still water bottles",
+          "list": [
+            "Lightweighting starts with the preform: preform lightweighting proposals reduce preform weight by 1g to 2g through neck or wall-thickness optimization, and the bottle geometry is then adjusted to the new preform.",
+            "Material must reach the shoulder and the label panel evenly, because thin areas buckle first under top load on the filler and capper.",
+            "Horizontal ribs and shoulder shape add stiffness without adding PET, but they must also be easy to vent so they form sharply.",
+            "Very light bottles are often filled with nitrogen dosing, which gives a small internal pressure and makes the bottle firmer for stacking and handling.",
+            "Common water bottle formats are 330ml, 500ml, 550ml and 1.5L; each format is matched to its own preform."
+          ]
+        },
+        {
+          "heading": "Design considerations for CSD bottles on KHS machines",
+          "list": [
+            "The petaloid base carries the carbonation pressure; its feet, valleys and center must receive enough oriented material.",
+            "The base center stays thicker and less oriented than the wall, so the base mold has its own cooling circuit to cool this area well.",
+            "Base geometry and material distribution together decide resistance to stress cracking, so the base is checked on trial bottles before the full set is built.",
+            "CSD bottles expand slightly under pressure over their shelf life; the design allows for this so the fill level and label fit stay acceptable.",
+            "Cooling channels in shells and base molds keep bottle quality stable at production speed, as listed in the product specification above."
+          ]
+        },
+        {
+          "heading": "Information to send for a KHS Blomax blow mold quote",
+          "list": [
+            "Machine data: KHS or SIG InnoPET Blomax model and generation from the nameplate, number of blowing stations and the mold carrier type.",
+            "Bottle data: drawing or sample, capacity, target weight, product (still water, CSD, juice or dairy) and base type.",
+            "Preform data: drawing or sample, weight and neck finish, or a request to match a new preform.",
+            "Scope: complete sets of shells, base molds and neck plates for all stations, or spare base molds and replacement parts only.",
+            "Photos of the existing mold parts and their markings, which help confirm the carrier interface.",
+            "Target dates; published lead times are 20 days for pilot molds, 8 weeks for standard PET molds and 4 weeks for replacement parts."
+          ]
+        },
+        {
+          "heading": "Changeover steps for a KHS Blomax blow mold set",
+          "paragraphs": [
+            "A format change on a Blomax line replaces the set in every blowing station. Always follow the KHS operating manual for the machine-specific procedure and safety lock-out; the sequence below shows the general order of work."
+          ],
+          "steps": [
+            "Prepare the new sets: clean, inspected and numbered for each station, with the matching preforms and the bottle recipe ready.",
+            "Empty the machine of preforms and bottles, stop it according to the KHS manual and secure it against restart.",
+            "Shut off and drain the cooling water to the molds before disconnecting the hoses or couplings.",
+            "Open the mold carriers and remove the shells, base molds and neck plates station by station; if the neck finish changes, change the neck-related parts as well.",
+            "Install the new parts, check that each shell and base mold is fully seated and locked, and reconnect the cooling water.",
+            "Restore cooling flow and check every connection for leaks before the machine is restarted.",
+            "Load the recipe, adjust the oven heating profile to the new preform, and blow the first bottles.",
+            "Check bottles from each station for volume, wall thickness, base shape and appearance before releasing the line to production."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Can LIHE build molds for older SIG-branded Blomax machines?",
+          "answer": "The cold fill sets are built for the KHS / SIG InnoPET Blomax series. Send the nameplate data and photos of the existing mold parts so the exact carrier interface of your machine generation is matched."
+        },
+        {
+          "question": "Can a mold for a still water bottle also run CSD?",
+          "answer": "Usually not. A CSD bottle needs a petaloid base and a material distribution designed for carbonation pressure, while a still water bottle is designed for minimum weight with a flat or champagne-style base. A separate base mold, and often a separate cavity, is needed."
+        },
+        {
+          "question": "Can the same bottle design run on both KHS and Krones machines?",
+          "answer": "The bottle design can be shared, but each machine needs parts that fit its own mold carrier. LIHE supplies conversion parts or a separate set for each platform."
+        },
+        {
+          "question": "How many mold sets do we need for a KHS Blomax?",
+          "answer": "One identical set per blowing station, plus spare parts for the parts that wear or get damaged most often, such as base molds. The station count comes from the machine model."
+        },
+        {
+          "question": "Do you supply hot fill molds for KHS machines?",
+          "answer": "This product is the cold fill set for ambient-filled still water, CSD, juice and dairy. Hot fill requires a heat-set machine and a heat-set mold; see the Hot Fill Blow Mold page and send your machine data so compatibility can be checked."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "Выдувные формы холодного розлива для KHS InnoPET Blomax: посадка в формодержатель, лёгкие бутылки для воды и газированных напитков, смена формата",
+      "intro": "Выдувная форма холодного розлива для KHS — это комплект полуформ, донной формы и плиты горла, обработанный под формодержатель выдувной машины KHS (ранее SIG) InnoPET Blomax, для бутылок, разливаемых при комнатной температуре. В руководстве описано, что должно совпадать с формодержателем Blomax, какие данные отправить для расчёта, особенности конструкции лёгких бутылок для негазированной воды и газированных напитков (CSD), а также этапы смены формата на линии Blomax.",
+      "sections": [
+        {
+          "heading": "Что в выдувной форме KHS Blomax должно совпадать с формодержателем",
+          "paragraphs": [
+            "Комплект для Blomax работает, только если он садится, фиксируется и подключается точно так же, как оригинальные детали KHS. Полость бутылки может быть новой, но наружная часть каждой детали следует машине. Серия InnoPET Blomax выпускалась в нескольких поколениях под марками SIG и KHS, поэтому детали подтверждаются по заводской табличке и документации машины в каждом проекте."
+          ],
+          "list": [
+            "Наружная геометрия и посадочные поверхности полуформ, чтобы они вставали в держатели формодержателя без прокладок и доработки.",
+            "Интерфейс зажима и фиксации формодержателя, чтобы форма закрывалась и запиралась под давлением выдува.",
+            "Расположение и тип подключений охлаждающей воды, чтобы полуформы и донная форма подключались к контуру машины напрямую.",
+            "Крепление и высота донной формы с учётом донного узла и его хода, чтобы дно смыкалось с полуформами в нужной точке.",
+            "Посадка плиты горла под опорное кольцо преформы с центровкой по оси вытягивающего штока.",
+            "Количество выдувных станций, так как каждой станции нужен одинаковый комплект."
+          ]
+        },
+        {
+          "heading": "Лёгкие бутылки для негазированной воды и бутылки CSD на KHS Blomax",
+          "paragraphs": [
+            "Одна и та же машина Blomax часто выпускает и негазированную воду, и газированные напитки, но бутылки ведут себя по-разному, поэтому приоритеты при проектировании формы различаются."
+          ],
+          "table": {
+            "head": ["", "Лёгкая бутылка для негазированной воды", "Бутылка CSD"],
+            "rows": [
+              ["Давление в наполненной бутылке", "Отсутствует или небольшое при дозировании азота", "Давление углекислоты в течение всего срока хранения"],
+              ["Типичное дно", "Плоское дно или дно типа «шампань»", "Лепестковое дно с ножками"],
+              ["Главная задача конструкции", "Минимальный вес ПЭТ при сохранении осевой прочности и удобства обращения", "Стойкость к давлению, ползучести и растрескиванию дна"],
+              ["Ключевые испытания бутылки", "Осевая нагрузка, объём, распределение толщины стенки", "Давление разрыва, увеличение объёма под давлением, распределение материала в дне"],
+              ["Акцент в форме", "Равномерная стенка, рёбра и форма плечиков для жёсткости", "Геометрия лепесткового дна и интенсивное охлаждение дна"]
+            ]
+          }
+        },
+        {
+          "heading": "Особенности конструкции лёгких бутылок для негазированной воды",
+          "list": [
+            "Облегчение начинается с преформы: предложения по облегчению снижают вес преформы на 1g–2g за счёт оптимизации горла или толщины стенки, после чего геометрия бутылки подстраивается под новую преформу.",
+            "Материал должен равномерно доходить до плечиков и зоны этикетки, так как тонкие места первыми теряют устойчивость под осевой нагрузкой в разливочной и укупорочной машинах.",
+            "Горизонтальные рёбра и форма плечиков добавляют жёсткость без добавления ПЭТ, но их нужно хорошо вентилировать, чтобы они формировались чётко.",
+            "Очень лёгкие бутылки часто наполняют с дозированием азота, что создаёт небольшое внутреннее давление и делает бутылку твёрже при штабелировании и обращении.",
+            "Типовые форматы бутылок для воды — 330ml, 500ml, 550ml и 1.5L; для каждого формата подбирается своя преформа."
+          ]
+        },
+        {
+          "heading": "Особенности конструкции бутылок CSD на машинах KHS",
+          "list": [
+            "Лепестковое дно воспринимает давление углекислоты; его ножки, впадины и центр должны получить достаточно ориентированного материала.",
+            "Центр дна остаётся толще и менее ориентированным, чем стенка, поэтому донная форма имеет собственный контур охлаждения для хорошего охлаждения этой зоны.",
+            "Геометрия дна и распределение материала вместе определяют стойкость к растрескиванию, поэтому дно проверяют на пробных бутылках до изготовления полного комплекта.",
+            "Бутылки CSD немного расширяются под давлением в течение срока хранения; конструкция учитывает это, чтобы уровень налива и посадка этикетки оставались допустимыми.",
+            "Каналы охлаждения в полуформах и донных формах обеспечивают стабильное качество бутылки на рабочей скорости, как указано в спецификации продукта выше."
+          ]
+        },
+        {
+          "heading": "Какие данные отправить для расчёта выдувной формы KHS Blomax",
+          "list": [
+            "Данные машины: модель и поколение KHS или SIG InnoPET Blomax по заводской табличке, количество выдувных станций и тип формодержателя.",
+            "Данные бутылки: чертёж или образец, объём, целевой вес, продукт (негазированная вода, CSD, сок или молочная продукция) и тип дна.",
+            "Данные преформы: чертёж или образец, вес и горло, либо запрос на подбор новой преформы.",
+            "Объём поставки: полные комплекты полуформ, донных форм и плит горла для всех станций или только запасные донные формы и запчасти.",
+            "Фотографии имеющихся деталей формы и их маркировки, которые помогают подтвердить интерфейс формодержателя.",
+            "Желаемые сроки; опубликованные сроки — 20 дней для пилотных форм, 8 недель для стандартных ПЭТ-форм и 4 недели для запасных частей."
+          ]
+        },
+        {
+          "heading": "Этапы смены комплекта выдувных форм на KHS Blomax",
+          "paragraphs": [
+            "При смене формата на линии Blomax комплект меняется в каждой выдувной станции. Всегда следуйте руководству по эксплуатации KHS в части порядка работ и блокировки машины; ниже приведена общая последовательность."
+          ],
+          "steps": [
+            "Подготовьте новые комплекты: очищенные, проверенные и пронумерованные по станциям, вместе с подходящими преформами и рецептом бутылки.",
+            "Освободите машину от преформ и бутылок, остановите её согласно руководству KHS и заблокируйте от повторного пуска.",
+            "Перекройте и слейте охлаждающую воду форм перед отсоединением шлангов или муфт.",
+            "Откройте формодержатели и снимите полуформы, донные формы и плиты горла по станциям; при смене горла замените также связанные с горлом детали.",
+            "Установите новые детали, проверьте полную посадку и фиксацию каждой полуформы и донной формы и подключите охлаждающую воду.",
+            "Восстановите подачу охлаждения и проверьте все соединения на утечки до пуска машины.",
+            "Загрузите рецепт, настройте профиль нагрева печи под новую преформу и выдуйте первые бутылки.",
+            "Проверьте бутылки с каждой станции по объёму, толщине стенки, форме дна и внешнему виду до передачи линии в производство."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Изготавливает ли LIHE формы для старых машин Blomax под маркой SIG?",
+          "answer": "Комплекты холодного розлива изготавливаются для серии KHS / SIG InnoPET Blomax. Отправьте данные заводской таблички и фотографии имеющихся деталей формы, чтобы точно подобрать интерфейс формодержателя вашего поколения машины."
+        },
+        {
+          "question": "Подойдёт ли форма для бутылки негазированной воды для CSD?",
+          "answer": "Обычно нет. Бутылке CSD нужны лепестковое дно и распределение материала под давление углекислоты, а бутылка для негазированной воды рассчитана на минимальный вес с плоским дном или дном типа «шампань». Требуется отдельная донная форма, а часто и отдельная полость."
+        },
+        {
+          "question": "Можно ли выпускать одну бутылку на машинах KHS и Krones?",
+          "answer": "Конструкцию бутылки можно использовать для обеих машин, но каждой машине нужны детали под её формодержатель. LIHE поставляет переходные детали или отдельный комплект для каждой платформы."
+        },
+        {
+          "question": "Сколько комплектов форм нужно для KHS Blomax?",
+          "answer": "По одному одинаковому комплекту на каждую выдувную станцию, плюс запас деталей, которые чаще всего изнашиваются или повреждаются, например донных форм. Количество станций определяется моделью машины."
+        },
+        {
+          "question": "Поставляете ли вы формы горячего розлива для машин KHS?",
+          "answer": "Этот продукт — комплект холодного розлива для негазированной воды, CSD, соков и молочной продукции, разливаемых при комнатной температуре. Для горячего розлива нужны машина и форма с термофиксацией; см. страницу Hot Fill Blow Mold и отправьте данные машины для проверки совместимости."
+        }
+      ]
+    },
+    "es": {
+      "heading": "Moldes de soplado para llenado en frío KHS InnoPET Blomax: ajuste al portamoldes, botellas ligeras de agua y bebidas carbonatadas, cambio de formato",
+      "intro": "Un molde de soplado para llenado en frío KHS es un juego de carcasas, molde de fondo y placa de cuello mecanizado para el portamoldes de una sopladora KHS (antes SIG) InnoPET Blomax, destinado a botellas llenadas a temperatura ambiente. Esta guía explica qué debe coincidir con el portamoldes Blomax, qué información enviar para una cotización, los puntos de diseño de botellas ligeras de agua sin gas y de bebidas carbonatadas (CSD), y los pasos de un cambio de formato en una línea Blomax.",
+      "sections": [
+        {
+          "heading": "Qué debe coincidir entre el molde de soplado y el portamoldes KHS Blomax",
+          "paragraphs": [
+            "Un juego para Blomax solo funciona si asienta, se bloquea y se conecta exactamente como las piezas originales de KHS. La cavidad de la botella puede ser nueva, pero el exterior de cada pieza sigue a la máquina. Como la serie InnoPET Blomax se ha fabricado en varias generaciones con las marcas SIG y KHS, los detalles se confirman en cada proyecto con la placa de características y la documentación de la máquina."
+          ],
+          "list": [
+            "Geometría exterior y caras de montaje de las carcasas, para que asienten en los portacarcasas del portamoldes sin suplementos ni modificaciones.",
+            "Interfaz de cierre y bloqueo del portamoldes, para que el molde cierre y quede bloqueado bajo la presión de soplado.",
+            "Posición y tipo de las conexiones de agua de refrigeración, para que carcasas y molde de fondo se conecten directamente al circuito de la máquina.",
+            "Montaje y altura del molde de fondo, adaptados a la unidad de fondo y a su carrera para que la base cierre contra las carcasas en el punto correcto.",
+            "Asiento de la placa de cuello, adaptado al anillo de soporte de la preforma y centrado en el eje de la varilla de estirado.",
+            "Número de estaciones de soplado, porque cada estación necesita un juego idéntico."
+          ]
+        },
+        {
+          "heading": "Botellas ligeras de agua sin gas frente a botellas CSD en una KHS Blomax",
+          "paragraphs": [
+            "La misma máquina Blomax suele producir agua sin gas y bebidas carbonatadas, pero las botellas se comportan de forma distinta en uso, por lo que las prioridades de diseño del molde cambian."
+          ],
+          "table": {
+            "head": ["", "Botella ligera de agua sin gas", "Botella CSD"],
+            "rows": [
+              ["Presión dentro de la botella llena", "Ninguna, o una presión pequeña por dosificación de nitrógeno", "Presión de carbonatación durante toda la vida útil"],
+              ["Base típica", "Base plana o tipo champán", "Base petaloide con pies"],
+              ["Objetivo principal del diseño", "Mínimo peso de PET manteniendo la carga vertical y la resistencia en manipulación", "Resistencia a la presión, a la fluencia y al agrietamiento de la base"],
+              ["Ensayos críticos de la botella", "Carga vertical, volumen, distribución del espesor de pared", "Presión de estallido, expansión de volumen bajo presión, distribución de material en la base"],
+              ["Prioridad en el molde", "Pared uniforme, nervios y forma del hombro para dar rigidez", "Geometría de la base petaloide y fuerte refrigeración de la base"]
+            ]
+          }
+        },
+        {
+          "heading": "Consideraciones de diseño para botellas ligeras de agua sin gas",
+          "list": [
+            "El aligeramiento empieza en la preforma: las propuestas de aligeramiento reducen su peso de 1g a 2g optimizando el cuello o el espesor de pared, y después la geometría de la botella se ajusta a la nueva preforma.",
+            "El material debe llegar de forma uniforme al hombro y a la zona de etiqueta, porque las zonas finas son las primeras en ceder bajo la carga vertical en la llenadora y la taponadora.",
+            "Los nervios horizontales y la forma del hombro aportan rigidez sin añadir PET, pero deben tener buen venteo para formarse con nitidez.",
+            "Las botellas muy ligeras se llenan a menudo con dosificación de nitrógeno, que crea una pequeña presión interna y hace la botella más firme para apilado y manipulación.",
+            "Los formatos habituales de botellas de agua son 330ml, 500ml, 550ml y 1.5L; cada formato se adapta a su propia preforma."
+          ]
+        },
+        {
+          "heading": "Consideraciones de diseño para botellas CSD en máquinas KHS",
+          "list": [
+            "La base petaloide soporta la presión de carbonatación; sus pies, valles y centro deben recibir suficiente material orientado.",
+            "El centro de la base queda más grueso y menos orientado que la pared, por eso el molde de fondo tiene su propio circuito de refrigeración para enfriar bien esa zona.",
+            "La geometría de la base y la distribución del material deciden juntas la resistencia al agrietamiento, por lo que la base se verifica en botellas de prueba antes de fabricar el juego completo.",
+            "Las botellas CSD se expanden ligeramente bajo presión durante su vida útil; el diseño lo tiene en cuenta para que el nivel de llenado y el ajuste de la etiqueta sigan siendo aceptables.",
+            "Los canales de refrigeración en carcasas y moldes de fondo mantienen estable la calidad de la botella a velocidad de producción, como indica la especificación del producto."
+          ]
+        },
+        {
+          "heading": "Información que enviar para cotizar un molde de soplado KHS Blomax",
+          "list": [
+            "Datos de la máquina: modelo y generación KHS o SIG InnoPET Blomax según la placa de características, número de estaciones de soplado y tipo de portamoldes.",
+            "Datos de la botella: plano o muestra, capacidad, peso objetivo, producto (agua sin gas, CSD, zumo o lácteo) y tipo de base.",
+            "Datos de la preforma: plano o muestra, peso y acabado de cuello, o la solicitud de ajustar una preforma nueva.",
+            "Alcance: juegos completos de carcasas, moldes de fondo y placas de cuello para todas las estaciones, o solo moldes de fondo de repuesto y piezas de recambio.",
+            "Fotos de las piezas de molde existentes y sus marcas, que ayudan a confirmar la interfaz del portamoldes.",
+            "Fechas objetivo; los plazos publicados son 20 días para moldes piloto, 8 semanas para moldes PET estándar y 4 semanas para piezas de repuesto."
+          ]
+        },
+        {
+          "heading": "Pasos del cambio de formato de un juego de moldes KHS Blomax",
+          "paragraphs": [
+            "Un cambio de formato en una línea Blomax sustituye el juego de cada estación de soplado. Siga siempre el manual de operación de KHS para el procedimiento específico de la máquina y el bloqueo de seguridad; la secuencia siguiente muestra el orden general del trabajo."
+          ],
+          "steps": [
+            "Prepare los juegos nuevos: limpios, revisados y numerados por estación, con las preformas correspondientes y la receta de la botella lista.",
+            "Vacíe la máquina de preformas y botellas, deténgala según el manual de KHS y asegúrela contra un rearranque.",
+            "Cierre y vacíe el agua de refrigeración de los moldes antes de desconectar mangueras o acoplamientos.",
+            "Abra los portamoldes y retire carcasas, moldes de fondo y placas de cuello estación por estación; si cambia el acabado de cuello, cambie también las piezas relacionadas con el cuello.",
+            "Instale las piezas nuevas, compruebe que cada carcasa y cada molde de fondo están bien asentados y bloqueados, y vuelva a conectar el agua de refrigeración.",
+            "Restablezca el caudal de refrigeración y revise todas las conexiones por si hay fugas antes de arrancar la máquina.",
+            "Cargue la receta, ajuste el perfil de calentamiento del horno a la nueva preforma y sople las primeras botellas.",
+            "Revise las botellas de cada estación en volumen, espesor de pared, forma de la base y aspecto antes de liberar la línea para producción."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Fabrica LIHE moldes para máquinas Blomax antiguas con marca SIG?",
+          "answer": "Los juegos de llenado en frío se fabrican para la serie KHS / SIG InnoPET Blomax. Envíe los datos de la placa de características y fotos de las piezas de molde existentes para ajustar con exactitud la interfaz del portamoldes de su generación de máquina."
+        },
+        {
+          "question": "¿Un molde para botella de agua sin gas sirve también para CSD?",
+          "answer": "Normalmente no. Una botella CSD necesita una base petaloide y una distribución de material pensada para la presión de carbonatación, mientras que una botella de agua sin gas se diseña para el mínimo peso con base plana o tipo champán. Se necesita un molde de fondo distinto y, a menudo, una cavidad distinta."
+        },
+        {
+          "question": "¿Se puede fabricar el mismo diseño de botella en máquinas KHS y Krones?",
+          "answer": "El diseño de la botella se puede compartir, pero cada máquina necesita piezas que encajen en su propio portamoldes. LIHE suministra piezas de conversión o un juego separado para cada plataforma."
+        },
+        {
+          "question": "¿Cuántos juegos de moldes necesitamos para una KHS Blomax?",
+          "answer": "Un juego idéntico por estación de soplado, más repuestos de las piezas que más se desgastan o dañan, como los moldes de fondo. El número de estaciones depende del modelo de la máquina."
+        },
+        {
+          "question": "¿Suministran moldes de llenado en caliente para máquinas KHS?",
+          "answer": "Este producto es el juego de llenado en frío para agua sin gas, CSD, zumos y lácteos llenados a temperatura ambiente. El llenado en caliente requiere una máquina y un molde de termofijado; consulte la página Hot Fill Blow Mold y envíe los datos de su máquina para comprobar la compatibilidad."
+        }
+      ]
+    }
+  }
+}

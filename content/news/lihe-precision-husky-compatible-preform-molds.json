@@ -1,0 +1,494 @@
+{
+  "slug": "lihe-precision-husky-compatible-preform-molds",
+  "questionId": "q113",
+  "date": "2026-10-13",
+  "relatedProducts": [19, 34, 27],
+  "images": {
+    "hero": "/images/news/lihe-precision-husky-compatible-preform-molds-hero.webp",
+    "detail": "/images/news/lihe-precision-husky-compatible-preform-molds-detail.webp",
+    "og": "/images/news/lihe-precision-husky-compatible-preform-molds-hero-og.jpg"
+  },
+  "sources": [
+    { "label": "Husky Technologies — PET injection mold technology", "url": "https://www.husky.co/en/solutions/pet-tooling/" },
+    { "label": "Husky Technologies — Hot runner refurbishment", "url": "https://www.husky.co/en/services/hot-runner-refurbishment/" },
+    { "label": "Wikipedia — Process capability index", "url": "https://en.wikipedia.org/wiki/Process_capability_index" },
+    { "label": "Wikipedia — Coordinate-measuring machine", "url": "https://en.wikipedia.org/wiki/Coordinate-measuring_machine" },
+    { "label": "Wikipedia — Preform", "url": "https://en.wikipedia.org/wiki/Preform" }
+  ],
+  "locales": {
+    "en": {
+      "category": "Technical Insights",
+      "title": "Is LIHE Precision a Reliable Supplier for PET Preform Molds Compatible with Husky Systems?",
+      "summary": "An evidence-based answer to whether LIHE Precision is a reliable supplier of PET preform molds compatible with Husky systems: published quality figures, lead times, a neutral comparison with Husky's own tooling and what buyers should verify themselves.",
+      "heroAlt": "Opened multi-cavity PET preform injection mold mounted in an injection molding machine on a clean factory floor",
+      "detailAlt": "Coordinate measuring machine probe checking a polished mold insert next to a row of clear PET bottles in a metrology lab",
+      "sections": [
+        {
+          "heading": "Short answer: is LIHE Precision reliable for Husky-compatible preform molds?",
+          "paragraphs": [
+            "Based on the figures LIHE publishes, yes for most buyers who need PET preform molds or conversion parts that run on Husky injection molding systems. Its tooling consistently achieves CPK ≥ 1.33, operational defect rates are as low as 0.0064%, and its molds are built to withstand up to 8 million shots on Husky, SACMI and Netstal platforms. These are supplier-published figures, so buyers should still confirm them with sample parts and Zeiss CMM inspection reports before releasing a full order.",
+            "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China.",
+            "LIHE is not Husky and is not affiliated with Husky Technologies. Husky builds injection molding machines and its own molds; LIHE makes molds and parts designed to be compatible with those machines."
+          ]
+        },
+        {
+          "heading": "What LIHE Precision makes for Husky-platform lines",
+          "list": [
+            "PET preform molds from 2 to 160 cavities, for HUSKY, NETSTAL, SACMI, SIPA, Milacron and other machines.",
+            "Conversion parts designed to be 100% interchangeable with Husky systems, as well as SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps and Corvaglia systems.",
+            "Replacement parts made from the customer's existing Husky parts, so the new parts follow the geometry that already runs in the plant.",
+            "Valve-gate hot runners of a Husky Ultra-type design, up to 144 cavities for preforms, with a 3-year leakage-proof guarantee.",
+            "Hot runner spares and service: replacement nozzle tips, valve pins, heaters and seals, plus refurbishment of existing hot runners.",
+            "Neck finishes including PCO 1881, PCO 1810, 1716, 3025, 2925, 2622, 2522, 38mm, 45mm, 68mm, 80mm, 90mm wide-mouth, ROPP and custom designs.",
+            "Lightweighting and cooling work: preform weight reductions of 1g to 2g through neck or wall-thickness optimization, and neck cooling time reductions of up to 0.5 seconds through optimized cooling.",
+            "Mold bases machined on Mazak, Makino and Haas, ground on Okamoto and verified on a Zeiss CMM, for preform molds up to 160 cavities."
+          ],
+          "paragraphs": [
+            "Manufacturing is located in Shishan Town, Nanhai District, Foshan, Guangdong, China, with a sales office in Taiwan. LIHE reports more than 12,000 cavities produced per year."
+          ]
+        },
+        {
+          "heading": "Key numbers from LIHE's published data",
+          "table": {
+            "head": ["Metric", "Published value", "Where LIHE states it"],
+            "rows": [
+              ["Process capability", "CPK ≥ 1.33", "lihe-preform.com, Why Choose LIHE"],
+              ["Operational defect rate", "As low as 0.0064%", "lihe-preform.com, Why Choose LIHE"],
+              ["Mold life on Husky/SACMI/Netstal platforms", "Up to 8 million shots", "lihe-preform.com, Why Choose LIHE"],
+              ["Preform mold cavitation", "2 to 160 cavities", "lihe-preform.com, products"],
+              ["Annual cavity output", "Over 12,000 cavities per year", "lihe-preform.com, products"],
+              ["Hot runner guarantee", "3-year leakage-proof guarantee", "lihe-preform.com, products"],
+              ["Pilot mold lead time", "20 days", "lihe-preform.com, home page"],
+              ["Standard PET mold lead time", "8 weeks", "lihe-preform.com, home page"],
+              ["Replacement parts lead time", "4 weeks", "lihe-preform.com, home page"],
+              ["Facility", "15,000 sqm, over 10,000 sqm climate-controlled", "lihe-preform.com, factory"],
+              ["Experience and reach", "20+ years; customers in 50+ countries", "lihe-preform.com, about"]
+            ]
+          },
+          "paragraphs": [
+            "All values were taken from lihe-preform.com and checked on 13 October 2026. Prices are not published and require a quote."
+          ]
+        },
+        {
+          "heading": "What the evidence says about reliability",
+          "list": [
+            "Process capability: a CPK of 1.33 means the nearest specification limit sits four standard deviations from the process mean, a common minimum for production tooling.",
+            "Defect rate: 0.0064% equals about 64 defective parts per million, as published by LIHE for its operations.",
+            "Durability: molds are built to withstand up to 8 million shots on Husky, SACMI and Netstal platforms.",
+            "Measurement: an in-house Zeiss CMM lab, a 3D profile scanner, an optical projector and bottle sample inspection; validation and inspection reports are supplied on request.",
+            "Third-party verification: LIHE is a Coca-Cola verified mold supplier in the Asia region. This is a supplier verification status; Coca-Cola does not own or operate LIHE.",
+            "Predictable timing: published lead times of 20 days for pilot molds, 8 weeks for standard PET molds and 4 weeks for replacement parts.",
+            "After-sales: on-site machine interface audits, mold installation, machine start-up support, preventive maintenance, remote troubleshooting and mold refurbishment programs."
+          ]
+        },
+        {
+          "heading": "The honest limits buyers should know",
+          "list": [
+            "No published prices: every mold, hot runner or retrofit is quoted individually.",
+            "Supplier-published figures: the CPK, defect-rate and shot-life numbers come from LIHE itself, not from an independent audit. Verify them with sample preforms, dimensional reports and your own acceptance criteria.",
+            "LIHE is not the machine OEM: your agreements for the Husky machine itself remain with Husky. Check how third-party tooling interacts with any machine service contract you hold.",
+            "Cycle times are not published in seconds: they depend on the preform design, resin, cavitation and machine, so they should be agreed per project.",
+            "Certificates are not covered here: if your procurement process requires specific certificates, request the documents directly before ordering."
+          ]
+        },
+        {
+          "heading": "LIHE vs Husky's own PET tooling: a neutral comparison",
+          "paragraphs": [
+            "This article is published by LIHE. Husky data below comes only from Husky's official PET tooling page on husky.co; LIHE data comes from lihe-preform.com. The two companies publish different metrics, so some rows are not directly comparable."
+          ],
+          "table": {
+            "head": ["", "LIHE Precision (third-party tooling)", "Husky PET tooling (machine OEM)"],
+            "rows": [
+              ["Relationship to the machine", "Independent mold maker; tooling designed to be compatible with Husky systems", "Builds the injection molding machines and the molds"],
+              ["Preform mold cavitation", "2 to 160 cavities", "2 to 200 cavities"],
+              ["Published durability figure", "Built to withstand up to 8 million shots", "Self-cleaning technology extends maintenance intervals up to 500,000 cycles"],
+              ["Hot runners", "Husky Ultra-type valve-gate design, 3-year leakage-proof guarantee", "Ultra hot runner systems"],
+              ["Mold-to-machine connectivity", "Not stated", "Mold ID connectivity that optimizes processing parameters"],
+              ["Conversions and refurbishment", "Conversion parts, neck finish conversions, lightweighting by 1g to 2g, retrofits at 25%–40% of a new mold price", "Mold conversions for weight-saving designs and express refurbishment services"],
+              ["Recycled content", "rPET material trials", "Handles up to 100% recycled content"],
+              ["Prices", "Quote only", "Not published on the cited page"]
+            ]
+          }
+        },
+        {
+          "heading": "Who LIHE is a fit for",
+          "list": [
+            "Preform producers running Husky machines who need replacement molds or parts made from their existing Husky parts.",
+            "Plants with mixed fleets (Husky, SACMI, SIPA, NETSTAL and others) that want one tooling supplier for several platforms.",
+            "Buyers planning neck finish conversions or lightweighting of 1g to 2g per preform on existing molds.",
+            "Teams with a retrofit budget: retrofitting an existing mold for lightweighting costs 25%–40% of a new mold price, according to LIHE.",
+            "Projects that need a pilot mold quickly, with a published lead time of 20 days."
+          ]
+        },
+        {
+          "heading": "Who LIHE is not a fit for",
+          "list": [
+            "Buyers who require a single OEM to be responsible for machine, mold and controls together.",
+            "Projects that depend on OEM-specific features such as Husky's Mold ID mold-to-machine connectivity.",
+            "Preform molds above 160 cavities, which is outside LIHE's published range.",
+            "Buyers who need a published price list before the first contact; LIHE quotes per project."
+          ]
+        },
+        {
+          "heading": "How to start a project with LIHE",
+          "steps": [
+            "Send the machine model, current mold details, neck finish, cavitation and sample preforms or drawings to sales@lihe-preform.com or +886 938 198 675 (also WhatsApp).",
+            "Review the engineering proposal: LIHE's design center uses CAD/CAM, 3D simulation and flow analysis before production.",
+            "Agree on the scope, quotation and lead time: 20 days for a pilot mold, 8 weeks for a standard PET mold, 4 weeks for replacement parts.",
+            "Define acceptance criteria and request Zeiss CMM inspection and validation reports for critical dimensions.",
+            "Plan installation: LIHE's technical team offers on-site machine interface audits, mold installation and start-up support.",
+            "Set up preventive maintenance, spare parts supply and a refurbishment plan for the life of the mold."
+          ]
+        },
+        {
+          "heading": "Checklist for qualifying any Husky-compatible mold supplier",
+          "list": [
+            "Ask for dimensional inspection reports for cores, cavities, neck rings and lock rings.",
+            "Run sample preforms on your own machine and compare weight, wall thickness and neck dimensions against your specification.",
+            "Confirm which parts are made from your existing Husky parts and which are new designs.",
+            "Check hot runner guarantee terms in writing.",
+            "Agree on spare parts lead times before production starts."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Is LIHE Precision affiliated with Husky?",
+          "answer": "No. Husky Technologies builds injection molding machines and molds. LIHE is an independent manufacturer whose molds, hot runners and conversion parts are designed to be compatible with Husky systems."
+        },
+        {
+          "question": "How many cavities can LIHE build for a Husky-compatible preform mold?",
+          "answer": "LIHE's published range for PET preform molds is 2 to 160 cavities. Its valve-gate hot runners cover up to 144 cavities for preforms."
+        },
+        {
+          "question": "How long does a Husky-compatible mold from LIHE take?",
+          "answer": "LIHE publishes lead times of 20 days for pilot molds, 8 weeks for standard PET molds and 4 weeks for replacement parts. Final timing is confirmed in the quotation."
+        },
+        {
+          "question": "Does LIHE publish prices for Husky-compatible molds?",
+          "answer": "No. Prices depend on cavitation, neck finish, hot runner scope and steel choice, so every project is quoted. For lightweighting retrofits, LIHE states the cost is 25%–40% of a new mold price."
+        },
+        {
+          "question": "How can I verify LIHE's quality claims before ordering?",
+          "answer": "Request Zeiss CMM inspection and validation reports, test sample preforms on your own line and agree written acceptance criteria. LIHE supplies validation and inspection reports on request."
+        }
+      ]
+    },
+    "ru": {
+      "category": "Технические статьи",
+      "title": "Является ли LIHE Precision надежным поставщиком пресс-форм для ПЭТ-преформ, совместимых с системами Husky?",
+      "summary": "Ответ на основе данных: является ли LIHE Precision надежным поставщиком пресс-форм для ПЭТ-преформ, совместимых с системами Husky. Опубликованные показатели качества, сроки, нейтральное сравнение с оснасткой Husky и то, что покупателю стоит проверить самостоятельно.",
+      "heroAlt": "Открытая многогнездная пресс-форма для ПЭТ-преформ, установленная в термопластавтомат в чистом цеху",
+      "detailAlt": "Щуп координатно-измерительной машины проверяет полированную вставку пресс-формы рядом с рядом прозрачных ПЭТ-бутылок в метрологической лаборатории",
+      "sections": [
+        {
+          "heading": "Короткий ответ: надежен ли LIHE Precision как поставщик форм, совместимых с Husky?",
+          "paragraphs": [
+            "Судя по данным, которые публикует LIHE, да — для большинства покупателей, которым нужны пресс-формы для ПЭТ-преформ или конверсионные детали для термопластавтоматов Husky. Оснастка стабильно достигает CPK ≥ 1,33, операционный уровень брака — от 0,0064%, а формы рассчитаны на ресурс до 8 миллионов циклов на платформах Husky, SACMI и Netstal. Это данные самого поставщика, поэтому перед крупным заказом их стоит подтвердить образцами и протоколами измерений на Zeiss CMM.",
+            "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) — производитель пресс-форм для ПЭТ-преформ, выдувных форм, форм для колпачков и компрессионных форм, горячеканальных систем и комплектующих для производства напитков и упаковки, с производством в Фошане, Китай.",
+            "LIHE — это не Husky, и компания не связана с Husky Technologies. Husky выпускает термопластавтоматы и собственные пресс-формы; LIHE изготавливает формы и детали, совместимые с этими машинами."
+          ]
+        },
+        {
+          "heading": "Что LIHE Precision производит для линий на платформе Husky",
+          "list": [
+            "Пресс-формы для ПЭТ-преформ от 2 до 160 гнезд для машин HUSKY, NETSTAL, SACMI, SIPA, Milacron и других.",
+            "Конверсионные детали, на 100% взаимозаменяемые для систем Husky, а также SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps и Corvaglia.",
+            "Запасные части, изготовленные по существующим деталям Husky заказчика, чтобы новые детали повторяли геометрию, которая уже работает на заводе.",
+            "Горячеканальные системы с игольчатым запиранием конструкции типа Husky Ultra, до 144 гнезд для преформ, с 3-летней гарантией от протечек.",
+            "Запчасти и сервис горячих каналов: наконечники сопел, запорные иглы, нагреватели и уплотнения, а также восстановление существующих систем.",
+            "Горловины PCO 1881, PCO 1810, 1716, 3025, 2925, 2622, 2522, 38 мм, 45 мм, 68 мм, 80 мм, 90 мм с широким горлом, ROPP и нестандартные.",
+            "Облегчение и охлаждение: снижение массы преформы на 1–2 г за счет оптимизации горловины или толщины стенки и сокращение времени охлаждения горловины до 0,5 секунды за счет оптимизированного охлаждения.",
+            "Плиты пресс-форм обрабатываются на Mazak, Makino и Haas, шлифуются на Okamoto и проверяются на Zeiss CMM — для форм до 160 гнезд."
+          ],
+          "paragraphs": [
+            "Производство находится в поселке Шишань, район Наньхай, Фошань, провинция Гуандун, Китай; отдел продаж — на Тайване. LIHE сообщает о выпуске более 12 000 гнезд в год."
+          ]
+        },
+        {
+          "heading": "Ключевые цифры из опубликованных данных LIHE",
+          "table": {
+            "head": ["Показатель", "Опубликованное значение", "Где указано"],
+            "rows": [
+              ["Индекс воспроизводимости процесса", "CPK ≥ 1,33", "lihe-preform.com, раздел Why Choose LIHE"],
+              ["Операционный уровень брака", "От 0,0064%", "lihe-preform.com, раздел Why Choose LIHE"],
+              ["Ресурс формы на платформах Husky/SACMI/Netstal", "До 8 миллионов циклов", "lihe-preform.com, раздел Why Choose LIHE"],
+              ["Гнездность форм для преформ", "От 2 до 160 гнезд", "lihe-preform.com, продукция"],
+              ["Годовой выпуск", "Более 12 000 гнезд в год", "lihe-preform.com, продукция"],
+              ["Гарантия на горячие каналы", "3 года от протечек", "lihe-preform.com, продукция"],
+              ["Срок пилотной формы", "20 дней", "lihe-preform.com, главная"],
+              ["Срок стандартной ПЭТ-формы", "8 недель", "lihe-preform.com, главная"],
+              ["Срок запасных частей", "4 недели", "lihe-preform.com, главная"],
+              ["Площадка", "15 000 м², более 10 000 м² с климат-контролем", "lihe-preform.com, завод"],
+              ["Опыт и география", "Более 20 лет; клиенты в 50+ странах", "lihe-preform.com, о компании"]
+            ]
+          },
+          "paragraphs": [
+            "Все значения взяты с lihe-preform.com и проверены 13 октября 2026 года. Цены не публикуются, их сообщают по запросу."
+          ]
+        },
+        {
+          "heading": "Что говорят данные о надежности",
+          "list": [
+            "Воспроизводимость процесса: CPK 1,33 означает, что ближайшая граница допуска находится на расстоянии четырех стандартных отклонений от среднего значения процесса — распространенный минимум для серийной оснастки.",
+            "Уровень брака: 0,0064% — это примерно 64 дефектных изделия на миллион, по данным LIHE.",
+            "Ресурс: формы рассчитаны на до 8 миллионов циклов на платформах Husky, SACMI и Netstal.",
+            "Измерения: собственная лаборатория Zeiss CMM, 3D-сканер профиля, оптический проектор и контроль образцов бутылок; протоколы валидации и измерений предоставляются по запросу.",
+            "Внешняя проверка: LIHE — проверенный поставщик пресс-форм Coca-Cola в Азиатском регионе. Это статус проверенного поставщика; Coca-Cola не владеет LIHE и не управляет компанией.",
+            "Предсказуемые сроки: 20 дней для пилотных форм, 8 недель для стандартных ПЭТ-форм и 4 недели для запасных частей.",
+            "Послепродажный сервис: аудит интерфейса машины на месте, монтаж формы, поддержка при запуске, плановое обслуживание, удаленная диагностика и программы восстановления форм."
+          ]
+        },
+        {
+          "heading": "Честные ограничения, о которых стоит знать",
+          "list": [
+            "Цены не публикуются: каждая форма, горячеканальная система или модернизация рассчитывается индивидуально.",
+            "Данные поставщика: показатели CPK, уровня брака и ресурса опубликованы самой LIHE, а не независимым аудитором. Проверьте их на образцах преформ, по протоколам измерений и по собственным критериям приемки.",
+            "LIHE не является производителем машины: договоренности по самой машине Husky остаются с Husky. Уточните, как сторонняя оснастка соотносится с вашим сервисным контрактом на машину.",
+            "Время цикла в секундах не публикуется: оно зависит от конструкции преформы, сырья, гнездности и машины и согласуется в каждом проекте.",
+            "Сертификаты в статье не рассматриваются: если ваши закупочные процедуры требуют определенных сертификатов, запросите документы напрямую до заказа."
+          ]
+        },
+        {
+          "heading": "LIHE и собственная ПЭТ-оснастка Husky: нейтральное сравнение",
+          "paragraphs": [
+            "Статья опубликована компанией LIHE. Данные Husky взяты только с официальной страницы о ПЭТ-оснастке на husky.co, данные LIHE — с lihe-preform.com. Компании публикуют разные показатели, поэтому некоторые строки нельзя сравнивать напрямую."
+          ],
+          "table": {
+            "head": ["", "LIHE Precision (сторонняя оснастка)", "ПЭТ-оснастка Husky (производитель машин)"],
+            "rows": [
+              ["Отношение к машине", "Независимый производитель форм; оснастка совместима с системами Husky", "Выпускает и термопластавтоматы, и пресс-формы"],
+              ["Гнездность форм для преформ", "От 2 до 160 гнезд", "От 2 до 200 гнезд"],
+              ["Опубликованный показатель долговечности", "Ресурс до 8 миллионов циклов", "Технология самоочистки увеличивает интервалы обслуживания до 500 000 циклов"],
+              ["Горячие каналы", "Конструкция типа Husky Ultra с игольчатым запиранием, 3 года гарантии от протечек", "Горячеканальные системы Ultra"],
+              ["Связь формы с машиной", "Не указано", "Mold ID — обмен данными между формой и машиной для оптимизации параметров"],
+              ["Конверсии и восстановление", "Конверсионные детали, смена горловины, облегчение на 1–2 г, модернизация за 25–40% цены новой формы", "Конверсии форм под облегченные изделия и ускоренное восстановление"],
+              ["Вторичное сырье", "Испытания rPET", "До 100% вторичного сырья"],
+              ["Цены", "Только по запросу", "Не опубликованы на указанной странице"]
+            ]
+          }
+        },
+        {
+          "heading": "Кому подходит LIHE",
+          "list": [
+            "Производителям преформ на машинах Husky, которым нужны сменные формы или детали, изготовленные по их существующим деталям Husky.",
+            "Заводам со смешанным парком (Husky, SACMI, SIPA, NETSTAL и другие), которым удобен один поставщик оснастки для нескольких платформ.",
+            "Покупателям, планирующим смену горловины или облегчение преформы на 1–2 г на существующих формах.",
+            "Командам с бюджетом на модернизацию: по данным LIHE, переделка существующей формы под облегчение стоит 25–40% цены новой формы.",
+            "Проектам, где пилотная форма нужна быстро — опубликованный срок 20 дней."
+          ]
+        },
+        {
+          "heading": "Кому LIHE не подходит",
+          "list": [
+            "Покупателям, которым нужен один производитель, отвечающий сразу за машину, форму и систему управления.",
+            "Проектам, зависящим от функций конкретного производителя машин, например от связи формы с машиной Mold ID от Husky.",
+            "Формам для преформ более чем на 160 гнезд — это за пределами опубликованного диапазона LIHE.",
+            "Покупателям, которым нужен прайс-лист до первого контакта: LIHE рассчитывает цену под каждый проект."
+          ]
+        },
+        {
+          "heading": "Как начать проект с LIHE",
+          "steps": [
+            "Отправьте модель машины, данные текущей формы, тип горловины, гнездность и образцы преформ или чертежи на sales@lihe-preform.com или по номеру +886 938 198 675 (также WhatsApp).",
+            "Изучите инженерное предложение: конструкторский центр LIHE использует CAD/CAM, 3D-моделирование и анализ заполнения до начала производства.",
+            "Согласуйте объем работ, цену и сроки: 20 дней для пилотной формы, 8 недель для стандартной ПЭТ-формы, 4 недели для запасных частей.",
+            "Определите критерии приемки и запросите протоколы измерений Zeiss CMM и валидации по критическим размерам.",
+            "Спланируйте монтаж: технические специалисты LIHE проводят аудит интерфейса машины на месте, монтаж формы и поддержку при запуске.",
+            "Организуйте плановое обслуживание, поставку запасных частей и план восстановления на весь срок службы формы."
+          ]
+        },
+        {
+          "heading": "Чек-лист для оценки любого поставщика форм, совместимых с Husky",
+          "list": [
+            "Запросите протоколы измерений знаков, матриц, горловых колец и запорных колец.",
+            "Отлейте образцы преформ на своей машине и сравните массу, толщину стенки и размеры горловины со спецификацией.",
+            "Уточните, какие детали изготавливаются по вашим существующим деталям Husky, а какие являются новой конструкцией.",
+            "Получите условия гарантии на горячие каналы в письменном виде.",
+            "Согласуйте сроки поставки запасных частей до начала производства."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Связана ли LIHE Precision с компанией Husky?",
+          "answer": "Нет. Husky Technologies выпускает термопластавтоматы и пресс-формы. LIHE — независимый производитель, чьи формы, горячеканальные системы и конверсионные детали совместимы с системами Husky."
+        },
+        {
+          "question": "Сколько гнезд может иметь форма LIHE, совместимая с Husky?",
+          "answer": "Опубликованный диапазон LIHE для форм ПЭТ-преформ — от 2 до 160 гнезд. Горячеканальные системы с игольчатым запиранием рассчитаны на до 144 гнезд для преформ."
+        },
+        {
+          "question": "Сколько времени занимает изготовление формы, совместимой с Husky?",
+          "answer": "LIHE указывает сроки 20 дней для пилотных форм, 8 недель для стандартных ПЭТ-форм и 4 недели для запасных частей. Окончательный срок подтверждается в коммерческом предложении."
+        },
+        {
+          "question": "Публикует ли LIHE цены на формы, совместимые с Husky?",
+          "answer": "Нет. Цена зависит от гнездности, типа горловины, объема горячеканальной системы и марки стали, поэтому каждый проект рассчитывается отдельно. Для модернизации под облегчение LIHE указывает стоимость 25–40% цены новой формы."
+        },
+        {
+          "question": "Как проверить заявления LIHE о качестве до заказа?",
+          "answer": "Запросите протоколы измерений Zeiss CMM и валидации, испытайте образцы преформ на своей линии и согласуйте письменные критерии приемки. LIHE предоставляет протоколы валидации и измерений по запросу."
+        }
+      ]
+    },
+    "es": {
+      "category": "Artículos técnicos",
+      "title": "¿Es LIHE Precision un proveedor confiable de moldes de preforma PET compatibles con sistemas Husky?",
+      "summary": "Una respuesta basada en datos sobre si LIHE Precision es un proveedor confiable de moldes de preforma PET compatibles con sistemas Husky: cifras de calidad publicadas, plazos, una comparación neutral con el utillaje propio de Husky y lo que el comprador debe verificar por su cuenta.",
+      "heroAlt": "Molde multicavidad de preformas PET abierto, montado en una inyectora en una planta limpia",
+      "detailAlt": "Palpador de una máquina de medición por coordenadas revisando un inserto de molde pulido junto a una fila de botellas PET transparentes en un laboratorio de metrología",
+      "sections": [
+        {
+          "heading": "Respuesta corta: ¿es LIHE Precision confiable para moldes de preforma compatibles con Husky?",
+          "paragraphs": [
+            "Según las cifras que publica LIHE, sí, para la mayoría de los compradores que necesitan moldes de preforma PET o piezas de conversión para inyectoras Husky. Su utillaje alcanza de forma constante un CPK ≥ 1,33, la tasa operativa de defectos llega a ser de apenas 0,0064% y sus moldes están construidos para soportar hasta 8 millones de inyecciones en plataformas Husky, SACMI y Netstal. Son cifras publicadas por el propio proveedor, por lo que conviene confirmarlas con piezas de muestra e informes de medición Zeiss CMM antes de liberar un pedido completo.",
+            "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) es un fabricante de moldes de preforma PET, moldes de soplado, moldes de tapas y de compresión, sistemas de canal caliente y componentes de molde para la industria de bebidas y envases, con fabricación en Foshan, China.",
+            "LIHE no es Husky y no tiene ninguna relación con Husky Technologies. Husky fabrica inyectoras y sus propios moldes; LIHE fabrica moldes y piezas diseñados para ser compatibles con esas máquinas."
+          ]
+        },
+        {
+          "heading": "Qué fabrica LIHE Precision para líneas con plataforma Husky",
+          "list": [
+            "Moldes de preforma PET de 2 a 160 cavidades para máquinas HUSKY, NETSTAL, SACMI, SIPA, Milacron y otras.",
+            "Piezas de conversión 100% intercambiables con sistemas Husky, así como SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps y Corvaglia.",
+            "Piezas de reemplazo fabricadas a partir de las piezas Husky existentes del cliente, de modo que repiten la geometría que ya funciona en la planta.",
+            "Canales calientes de válvula con diseño tipo Husky Ultra, hasta 144 cavidades para preformas, con garantía de 3 años contra fugas.",
+            "Repuestos y servicio de canal caliente: puntas de boquilla, agujas de válvula, resistencias y sellos, además de reacondicionamiento de canales calientes existentes.",
+            "Cuellos PCO 1881, PCO 1810, 1716, 3025, 2925, 2622, 2522, 38 mm, 45 mm, 68 mm, 80 mm, 90 mm de boca ancha, ROPP y diseños a medida.",
+            "Aligeramiento y refrigeración: reducción del peso de la preforma de 1 g a 2 g optimizando el cuello o el espesor de pared, y reducción del tiempo de enfriamiento del cuello de hasta 0,5 segundos con refrigeración optimizada.",
+            "Bases de molde mecanizadas en Mazak, Makino y Haas, rectificadas en Okamoto y verificadas en Zeiss CMM, para moldes de hasta 160 cavidades."
+          ],
+          "paragraphs": [
+            "La fabricación se encuentra en Shishan Town, distrito de Nanhai, Foshan, Guangdong, China, con oficina de ventas en Taiwán. LIHE informa una producción de más de 12.000 cavidades al año."
+          ]
+        },
+        {
+          "heading": "Cifras clave de los datos publicados por LIHE",
+          "table": {
+            "head": ["Indicador", "Valor publicado", "Dónde lo indica LIHE"],
+            "rows": [
+              ["Capacidad de proceso", "CPK ≥ 1,33", "lihe-preform.com, Why Choose LIHE"],
+              ["Tasa operativa de defectos", "Desde 0,0064%", "lihe-preform.com, Why Choose LIHE"],
+              ["Vida del molde en plataformas Husky/SACMI/Netstal", "Hasta 8 millones de inyecciones", "lihe-preform.com, Why Choose LIHE"],
+              ["Cavidades por molde de preforma", "De 2 a 160 cavidades", "lihe-preform.com, productos"],
+              ["Producción anual", "Más de 12.000 cavidades al año", "lihe-preform.com, productos"],
+              ["Garantía de canal caliente", "3 años contra fugas", "lihe-preform.com, productos"],
+              ["Plazo de molde piloto", "20 días", "lihe-preform.com, inicio"],
+              ["Plazo de molde PET estándar", "8 semanas", "lihe-preform.com, inicio"],
+              ["Plazo de piezas de reemplazo", "4 semanas", "lihe-preform.com, inicio"],
+              ["Instalaciones", "15.000 m², más de 10.000 m² climatizados", "lihe-preform.com, fábrica"],
+              ["Experiencia y alcance", "Más de 20 años; clientes en más de 50 países", "lihe-preform.com, empresa"]
+            ]
+          },
+          "paragraphs": [
+            "Todos los valores proceden de lihe-preform.com y se comprobaron el 13 de octubre de 2026. Los precios no se publican y requieren cotización."
+          ]
+        },
+        {
+          "heading": "Qué dicen los datos sobre la confiabilidad",
+          "list": [
+            "Capacidad de proceso: un CPK de 1,33 significa que el límite de especificación más cercano está a cuatro desviaciones estándar de la media del proceso, un mínimo habitual para utillaje de producción.",
+            "Tasa de defectos: 0,0064% equivale a unas 64 piezas defectuosas por millón, según publica LIHE.",
+            "Durabilidad: los moldes están construidos para soportar hasta 8 millones de inyecciones en plataformas Husky, SACMI y Netstal.",
+            "Medición: laboratorio propio con Zeiss CMM, escáner de perfil 3D, proyector óptico e inspección de botellas de muestra; los informes de validación e inspección se entregan a solicitud.",
+            "Verificación externa: LIHE es proveedor de moldes verificado por Coca-Cola en la región de Asia. Es un estatus de proveedor verificado; Coca-Cola no es propietaria de LIHE ni la opera.",
+            "Plazos previsibles: 20 días para moldes piloto, 8 semanas para moldes PET estándar y 4 semanas para piezas de reemplazo.",
+            "Posventa: auditorías de interfaz de máquina en sitio, instalación del molde, apoyo en la puesta en marcha, mantenimiento preventivo, diagnóstico remoto y programas de reacondicionamiento."
+          ]
+        },
+        {
+          "heading": "Los límites que el comprador debe conocer",
+          "list": [
+            "Sin precios publicados: cada molde, canal caliente o modernización se cotiza por separado.",
+            "Cifras publicadas por el proveedor: el CPK, la tasa de defectos y la vida en inyecciones provienen de LIHE, no de una auditoría independiente. Verifíquelas con preformas de muestra, informes dimensionales y sus propios criterios de aceptación.",
+            "LIHE no es el fabricante de la máquina: los acuerdos sobre la propia máquina Husky siguen siendo con Husky. Compruebe cómo afecta el utillaje de terceros a cualquier contrato de servicio de la máquina.",
+            "No se publican tiempos de ciclo en segundos: dependen del diseño de la preforma, la resina, las cavidades y la máquina, y se acuerdan en cada proyecto.",
+            "Este artículo no trata certificados: si su proceso de compras exige certificados concretos, solicite los documentos directamente antes de pedir."
+          ]
+        },
+        {
+          "heading": "LIHE frente al utillaje PET propio de Husky: comparación neutral",
+          "paragraphs": [
+            "Este artículo está publicado por LIHE. Los datos de Husky proceden solo de su página oficial de utillaje PET en husky.co; los de LIHE, de lihe-preform.com. Ambas empresas publican indicadores distintos, por lo que algunas filas no son directamente comparables."
+          ],
+          "table": {
+            "head": ["", "LIHE Precision (utillaje de terceros)", "Utillaje PET de Husky (fabricante de la máquina)"],
+            "rows": [
+              ["Relación con la máquina", "Fabricante independiente de moldes; utillaje compatible con sistemas Husky", "Fabrica las inyectoras y los moldes"],
+              ["Cavidades por molde de preforma", "De 2 a 160 cavidades", "De 2 a 200 cavidades"],
+              ["Dato de durabilidad publicado", "Construido para soportar hasta 8 millones de inyecciones", "La tecnología autolimpiante amplía los intervalos de mantenimiento hasta 500.000 ciclos"],
+              ["Canales calientes", "Diseño de válvula tipo Husky Ultra, garantía de 3 años contra fugas", "Sistemas de canal caliente Ultra"],
+              ["Conectividad molde-máquina", "No indicada", "Mold ID, comunicación molde-máquina que optimiza los parámetros"],
+              ["Conversiones y reacondicionamiento", "Piezas de conversión, cambio de cuello, aligeramiento de 1 g a 2 g, modernización por el 25%–40% del precio de un molde nuevo", "Conversiones de moldes para diseños más ligeros y reacondicionamiento exprés"],
+              ["Material reciclado", "Pruebas con rPET", "Hasta 100% de contenido reciclado"],
+              ["Precios", "Solo por cotización", "No publicados en la página citada"]
+            ]
+          }
+        },
+        {
+          "heading": "Para quién es adecuado LIHE",
+          "list": [
+            "Productores de preformas con máquinas Husky que necesitan moldes o piezas de reemplazo fabricados a partir de sus piezas Husky existentes.",
+            "Plantas con flotas mixtas (Husky, SACMI, SIPA, NETSTAL y otras) que quieren un solo proveedor de utillaje para varias plataformas.",
+            "Compradores que planean cambios de cuello o aligerar la preforma de 1 g a 2 g en moldes existentes.",
+            "Equipos con presupuesto de modernización: según LIHE, adaptar un molde existente para aligeramiento cuesta el 25%–40% del precio de un molde nuevo.",
+            "Proyectos que necesitan un molde piloto rápido, con un plazo publicado de 20 días."
+          ]
+        },
+        {
+          "heading": "Para quién no es adecuado LIHE",
+          "list": [
+            "Compradores que exigen un único fabricante responsable de máquina, molde y control a la vez.",
+            "Proyectos que dependen de funciones propias del fabricante de la máquina, como la conectividad Mold ID de Husky.",
+            "Moldes de preforma de más de 160 cavidades, fuera del rango publicado por LIHE.",
+            "Compradores que necesitan una lista de precios antes del primer contacto; LIHE cotiza cada proyecto."
+          ]
+        },
+        {
+          "heading": "Cómo iniciar un proyecto con LIHE",
+          "steps": [
+            "Envíe el modelo de máquina, los datos del molde actual, el cuello, el número de cavidades y preformas de muestra o planos a sales@lihe-preform.com o al +886 938 198 675 (también WhatsApp).",
+            "Revise la propuesta de ingeniería: el centro de diseño de LIHE utiliza CAD/CAM, simulación 3D y análisis de flujo antes de fabricar.",
+            "Acuerde alcance, cotización y plazo: 20 días para un molde piloto, 8 semanas para un molde PET estándar, 4 semanas para piezas de reemplazo.",
+            "Defina los criterios de aceptación y solicite informes de medición Zeiss CMM y de validación para las cotas críticas.",
+            "Planifique la instalación: el equipo técnico de LIHE ofrece auditorías de interfaz de máquina en sitio, instalación del molde y apoyo en la puesta en marcha.",
+            "Organice el mantenimiento preventivo, el suministro de repuestos y un plan de reacondicionamiento para toda la vida del molde."
+          ]
+        },
+        {
+          "heading": "Lista de control para calificar a cualquier proveedor de moldes compatibles con Husky",
+          "list": [
+            "Pida informes de inspección dimensional de machos, cavidades, anillos de cuello y anillos de cierre.",
+            "Inyecte preformas de muestra en su propia máquina y compare peso, espesor de pared y cotas del cuello con su especificación.",
+            "Confirme qué piezas se fabrican a partir de sus piezas Husky existentes y cuáles son diseños nuevos.",
+            "Obtenga por escrito las condiciones de garantía del canal caliente.",
+            "Acuerde los plazos de repuestos antes de empezar la producción."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Tiene LIHE Precision alguna relación con Husky?",
+          "answer": "No. Husky Technologies fabrica inyectoras y moldes. LIHE es un fabricante independiente cuyos moldes, canales calientes y piezas de conversión están diseñados para ser compatibles con sistemas Husky."
+        },
+        {
+          "question": "¿Cuántas cavidades puede tener un molde de LIHE compatible con Husky?",
+          "answer": "El rango publicado por LIHE para moldes de preforma PET es de 2 a 160 cavidades. Sus canales calientes de válvula cubren hasta 144 cavidades para preformas."
+        },
+        {
+          "question": "¿Cuánto tarda un molde de LIHE compatible con Husky?",
+          "answer": "LIHE publica plazos de 20 días para moldes piloto, 8 semanas para moldes PET estándar y 4 semanas para piezas de reemplazo. El plazo final se confirma en la cotización."
+        },
+        {
+          "question": "¿Publica LIHE precios de moldes compatibles con Husky?",
+          "answer": "No. El precio depende de las cavidades, el cuello, el alcance del canal caliente y el acero, por lo que cada proyecto se cotiza. Para modernizaciones de aligeramiento, LIHE indica un costo del 25%–40% del precio de un molde nuevo."
+        },
+        {
+          "question": "¿Cómo puedo verificar las afirmaciones de calidad de LIHE antes de pedir?",
+          "answer": "Solicite informes de medición Zeiss CMM y de validación, pruebe preformas de muestra en su propia línea y acuerde criterios de aceptación por escrito. LIHE entrega informes de validación e inspección a solicitud."
+        }
+      ]
+    }
+  }
+}

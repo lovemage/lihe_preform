@@ -12,7 +12,32 @@
     "detail": "/images/news/compression-vs-injection-molding-for-plastic-closures-detail.webp",
     "og": "/images/news/compression-vs-injection-molding-for-plastic-closures-hero-og.jpg"
   },
-  "sources": [],
+  "sources": [
+    {
+      "label": "Wikipedia — Compression molding",
+      "url": "https://en.wikipedia.org/wiki/Compression_molding"
+    },
+    {
+      "label": "Wikipedia — Injection moulding",
+      "url": "https://en.wikipedia.org/wiki/Injection_moulding"
+    },
+    {
+      "label": "Wikipedia — Hot runner",
+      "url": "https://en.wikipedia.org/wiki/Hot_runner"
+    },
+    {
+      "label": "Wikipedia — Bottle cap (tethered caps)",
+      "url": "https://en.wikipedia.org/wiki/Bottle_cap"
+    },
+    {
+      "label": "European Commission — Single-use plastics (Directive (EU) 2019/904)",
+      "url": "https://environment.ec.europa.eu/topics/plastics/single-use-plastics_en"
+    },
+    {
+      "label": "SACMI — official website",
+      "url": "https://www.sacmi.com"
+    }
+  ],
   "locales": {
     "en": {
       "category": "Technical Insights",
@@ -29,9 +54,40 @@
           ]
         },
         {
+          "heading": "Key terms",
+          "list": [
+            "Compression molding: a process in which a measured dose of molten plastic is placed in an open mold cavity and shaped by closing the mold under pressure.",
+            "Continuous compression molding (CCM): a rotary compression machine, such as a SACMI CCM line, that cuts, places and forms doses in a continuous cycle.",
+            "Injection molding: a process in which molten plastic is injected through a runner system into a closed mold, held under pressure, cooled and ejected.",
+            "Hot runner: a heated manifold and nozzle system that keeps the plastic molten on its way to each cavity, so there is no cold runner to cool, cut off or regrind.",
+            "Tamper-evident (TE) band: a ring at the bottom of the cap that breaks or separates on first opening, showing the consumer that the bottle has been opened.",
+            "Tethered cap: a cap that stays attached to the bottle after opening, as required for many beverage containers in the EU.",
+            "One-piece and two-piece caps: a one-piece cap seals with features molded into the cap itself, while a two-piece cap combines a shell with a separate liner or seal.",
+            "Cavitation: the number of cavities in a mold, which together with the cycle time sets the output of the line."
+          ]
+        },
+        {
           "heading": "Why compression molding runs faster",
           "paragraphs": [
             "Because compression molding works at a lower processing temperature, the cap needs less cooling time. Shorter cooling means shorter cycles, higher output and lower energy use per cap than conventional injection."
+          ]
+        },
+        {
+          "heading": "How each process works",
+          "paragraphs": [
+            "The sequences below describe the general process for each technology. Machine makers set the actual process parameters, and they depend on the resin, the cap design and the machine."
+          ],
+          "steps": [
+            "Compression: an extruder melts the resin continuously and delivers it to the dosing system.",
+            "Compression: a cutter separates a dose of exact weight and places it into the open cavity.",
+            "Compression: the punch and die close and form the cap under high pressure, including the thread and the tamper-evident band.",
+            "Compression: the cap cools in the closed tooling and is then ejected; cutting or folding of the tamper-evident band can be done as a separate downstream step."
+          ],
+          "list": [
+            "Injection: the resin is melted in the barrel of the injection molding machine.",
+            "Injection: the melt is injected through a hot runner into all cavities of the mold at the same time.",
+            "Injection: holding pressure compensates for shrinkage while the caps cool against the cooled cores and cavities.",
+            "Injection: the mold opens and the caps are ejected, for example by stripping or unscrewing them from the cores."
           ]
         },
         {
@@ -72,6 +128,17 @@
           }
         },
         {
+          "heading": "Strengths and limits of each process",
+          "list": [
+            "Compression strength: lower processing temperature, which shortens cooling, shortens cycles and reduces energy per cap.",
+            "Compression strength: no runner system, because each cavity receives its own dose.",
+            "Compression limit: it needs a dedicated compression line such as a SACMI CCM machine, so it suits producers that already run, or plan to invest in, that platform.",
+            "Injection strength: runs on mainstream closure injection molding machines, which many converters already own.",
+            "Injection strength: a hot runner balances filling across many cavities; LIHE closure injection molds range from 12 to 72 cavities.",
+            "Injection limit: the higher melt temperature means more heat must be removed from every cap, which is why cooling design matters for cycle time."
+          ]
+        },
+        {
           "heading": "Neck finishes and applications",
           "list": [
             "Neck finishes: 26mm, 28mm, 2925, 3025, 38mm and custom specifications.",
@@ -80,12 +147,54 @@
           ]
         },
         {
+          "heading": "EU tethered caps and what they mean for tooling",
+          "paragraphs": [
+            "Directive (EU) 2019/904 on single-use plastics requires caps and lids of plastic beverage containers of up to 3 litres to stay attached to the container during use, with the requirement applying from July 2024. For closure producers this means the cap design includes a tether that links the cap to the tamper-evident band or neck ring after opening.",
+            "A tethered cap can be produced by compression molding or by injection molding. The tether is usually formed by the cap geometry and by cutting or slitting the band, so the cavity, core and band details must be designed together with the downstream equipment. LIHE builds both compression molds and closure injection molds for EU tethered cap designs."
+          ]
+        },
+        {
+          "heading": "Common closure defects and what usually causes them",
+          "list": [
+            "Flash on the cap edge or thread: worn or damaged shut-off surfaces, or excessive pressure or material for the cavity.",
+            "Short shots or incomplete threads: too little material in the cavity, blocked venting, or uneven filling between cavities.",
+            "Cap weight or dimension variation between cavities: hot runner imbalance in injection molds, or dose weight variation in compression lines.",
+            "Ovality of the cap: insufficient or uneven cooling before ejection.",
+            "TE band that breaks too early or does not break on opening: band geometry, bridge dimensions or slitting are out of specification.",
+            "Leaking caps: worn sealing features on cores or punches, or a mismatch between the cap and the bottle neck finish."
+          ]
+        },
+        {
+          "heading": "Maintenance considerations",
+          "list": [
+            "Compression tooling: inspect punches, dies, cores, cooling inserts and wear parts at fixed intervals and replace worn parts before they affect cap dimensions.",
+            "Injection molds: check hot runner nozzle tips, valve pins, heaters and seals, because these parts control balanced filling across all cavities.",
+            "Both: keep cooling channels clean, since scale reduces heat removal and lengthens the cycle.",
+            "Both: keep venting clear and protect sealing surfaces and polished cores during cleaning.",
+            "Hold spare sets of high-wear parts for your main cap formats, so a single damaged part does not stop a multi-cavity mold."
+          ]
+        },
+        {
           "heading": "How to decide",
           "steps": [
             "Start from your machines: compression tooling is built for SACMI CCM lines, while injection molds run on closure injection molding machines.",
             "Look at volume and energy cost: high-volume lines benefit most from the shorter cycles and lower energy per cap of compression molding.",
             "Confirm the cap design: one-piece or two-piece, tamper-evident band, tethered cap and neck finish.",
-            "For an existing line, send your current parts or drawings; replacement compression tooling can be made from existing parts."
+            "For an existing line, send your current parts or drawings; replacement compression tooling can be made from existing parts.",
+            "Set the output target and cavitation, then compare the number of cavities your machine can carry with the volume you need.",
+            "Ask for inspection reports and plan spare parts for high-wear components before the mold goes into production."
+          ]
+        },
+        {
+          "heading": "LIHE closure tooling capabilities",
+          "list": [
+            "Closure injection molds from 12 to 72 cavities for one-piece and two-piece caps, tamper-evident bands and EU tethered caps.",
+            "Valve gate hot runners for closures up to 96 cavities, compatible with HUSKY, NETSTAL, KM and SIPA; hot runners of Husky Ultra-type design carry a 3-year leakage-proof guarantee.",
+            "Compression molds for SACMI CCM lines, plus replacement compression tooling made from your existing parts.",
+            "Neck finishes 26mm, 28mm, 2925, 3025, 38mm and custom specifications.",
+            "Tooling consistently achieves CPK ≥ 1.33 and is built to withstand up to 8 million shots on Husky, SACMI and Netstal platforms.",
+            "Parts inspected on an in-house Zeiss CMM; inspection reports are available on request.",
+            "Published lead time for cap mold parts: 4 weeks."
           ]
         }
       ],
@@ -101,6 +210,18 @@
         {
           "question": "Do LIHE closure molds support EU tethered caps?",
           "answer": "Yes. Both compression molds and closure injection molds can be built for EU tethered cap designs, as well as one-piece and two-piece caps with tamper-evident bands."
+        },
+        {
+          "question": "Is compression molding always cheaper than injection molding for caps?",
+          "answer": "Not automatically. Compression molding offers shorter cycles and lower energy per cap, but it requires a compression line such as a SACMI CCM machine. The better choice depends on the machines you own, your volume and your cap design; an exact tooling price requires a quotation."
+        },
+        {
+          "question": "Which bottles need tethered caps in the EU?",
+          "answer": "Under Directive (EU) 2019/904, caps and lids of single-use plastic beverage containers of up to 3 litres must stay attached to the container during use. The requirement has applied since July 2024."
+        },
+        {
+          "question": "How long does it take to get replacement cap mold parts?",
+          "answer": "LIHE's published lead time for cap mold parts is 4 weeks. Sending your existing parts or drawings helps confirm the scope quickly."
         }
       ]
     },
@@ -119,9 +240,40 @@
           ]
         },
         {
+          "heading": "Основные термины",
+          "list": [
+            "Компрессионное формование: процесс, при котором отмеренная доза расплавленного пластика помещается в открытое гнездо формы и формуется при смыкании формы под давлением.",
+            "Непрерывное компрессионное формование (CCM): роторная компрессионная машина, например линия SACMI CCM, которая отрезает, укладывает и формует дозы в непрерывном цикле.",
+            "Литьё под давлением: процесс, при котором расплав впрыскивается через литниковую систему в закрытую форму, выдерживается под давлением, охлаждается и извлекается.",
+            "Горячеканальная система: обогреваемый коллектор и сопла, которые поддерживают пластик в расплавленном состоянии на пути к каждому гнезду, поэтому нет холодного литника, который нужно охлаждать, отделять или перерабатывать.",
+            "Кольцо контроля первого вскрытия (TE): кольцо в нижней части колпачка, которое разрывается или отделяется при первом открытии и показывает потребителю, что бутылка вскрывалась.",
+            "Привязанный колпачок (tethered cap): колпачок, который остаётся прикреплённым к бутылке после открытия, как требуется для многих ёмкостей для напитков в ЕС.",
+            "Однокомпонентные и двухкомпонентные колпачки: однокомпонентный колпачок герметизирует за счёт элементов, отлитых в самом колпачке, а двухкомпонентный сочетает корпус с отдельной прокладкой или уплотнением.",
+            "Гнёздность: количество гнёзд в форме, которое вместе со временем цикла определяет производительность линии."
+          ]
+        },
+        {
           "heading": "Почему компрессионное формование быстрее",
           "paragraphs": [
             "Компрессионное формование работает при более низкой температуре, поэтому колпачку нужно меньше времени на охлаждение. Более короткое охлаждение означает более короткий цикл, более высокую производительность и меньшее энергопотребление на колпачок по сравнению с обычным литьём под давлением."
+          ]
+        },
+        {
+          "heading": "Как работает каждый процесс",
+          "paragraphs": [
+            "Ниже описана общая последовательность для каждой технологии. Фактические параметры процесса задаёт производитель машины, и они зависят от сырья, конструкции колпачка и оборудования."
+          ],
+          "steps": [
+            "Компрессия: экструдер непрерывно плавит сырьё и подаёт его в систему дозирования.",
+            "Компрессия: нож отделяет дозу точного веса и помещает её в открытое гнездо.",
+            "Компрессия: пуансон и матрица смыкаются и формуют колпачок под высоким давлением, включая резьбу и кольцо контроля первого вскрытия.",
+            "Компрессия: колпачок охлаждается в сомкнутой оснастке и затем извлекается; надрезка или загибание кольца контроля первого вскрытия может выполняться отдельной операцией после формования."
+          ],
+          "list": [
+            "Литьё: сырьё плавится в материальном цилиндре литьевой машины.",
+            "Литьё: расплав одновременно впрыскивается через горячеканальную систему во все гнёзда формы.",
+            "Литьё: давление выдержки компенсирует усадку, пока колпачки охлаждаются на охлаждаемых знаках и матрицах.",
+            "Литьё: форма раскрывается и колпачки извлекаются, например сталкиванием или свинчиванием со знаков."
           ]
         },
         {
@@ -162,6 +314,17 @@
           }
         },
         {
+          "heading": "Сильные стороны и ограничения каждого процесса",
+          "list": [
+            "Преимущество компрессии: более низкая температура переработки, что сокращает охлаждение, сокращает цикл и снижает расход энергии на колпачок.",
+            "Преимущество компрессии: нет литниковой системы, так как каждое гнездо получает свою дозу.",
+            "Ограничение компрессии: нужна специальная компрессионная линия, например машина SACMI CCM, поэтому технология подходит производителям, которые уже работают на этой платформе или планируют инвестировать в неё.",
+            "Преимущество литья: работает на распространённых литьевых машинах для колпачков, которые уже есть у многих переработчиков.",
+            "Преимущество литья: горячеканальная система балансирует заполнение многих гнёзд; литьевые формы LIHE для колпачков имеют от 12 до 72 гнёзд.",
+            "Ограничение литья: более высокая температура расплава означает, что из каждого колпачка нужно отвести больше тепла, поэтому конструкция охлаждения так важна для времени цикла."
+          ]
+        },
+        {
           "heading": "Горловины и области применения",
           "list": [
             "Горловины: 26 мм, 28 мм, 2925, 3025, 38 мм и нестандартные спецификации.",
@@ -170,12 +333,54 @@
           ]
         },
         {
+          "heading": "Привязанные колпачки в ЕС и что это значит для оснастки",
+          "paragraphs": [
+            "Директива (ЕС) 2019/904 об одноразовых пластиковых изделиях требует, чтобы колпачки и крышки пластиковых ёмкостей для напитков объёмом до 3 литров оставались прикреплёнными к ёмкости во время использования; требование действует с июля 2024 года. Для производителей колпачков это означает, что конструкция колпачка включает перемычку, которая после открытия соединяет колпачок с кольцом контроля первого вскрытия или горловиной.",
+            "Привязанный колпачок можно изготавливать как компрессионным формованием, так и литьём под давлением. Перемычка обычно образуется геометрией колпачка и надрезкой кольца, поэтому гнездо, знак и элементы кольца должны проектироваться вместе с оборудованием последующих операций. LIHE изготавливает и компрессионные, и литьевые формы для привязанных колпачков по требованиям ЕС."
+          ]
+        },
+        {
+          "heading": "Типичные дефекты колпачков и их обычные причины",
+          "list": [
+            "Облой по краю колпачка или резьбе: изношенные или повреждённые запорные поверхности либо избыточное давление или количество материала для гнезда.",
+            "Недоливы или неполная резьба: недостаточно материала в гнезде, засорённая вентиляция или неравномерное заполнение гнёзд.",
+            "Разброс веса или размеров колпачков между гнёздами: дисбаланс горячеканальной системы в литьевых формах или колебания веса дозы на компрессионных линиях.",
+            "Овальность колпачка: недостаточное или неравномерное охлаждение перед извлечением.",
+            "Кольцо контроля первого вскрытия разрывается слишком рано или не разрывается при открытии: геометрия кольца, размеры перемычек или надрезка вне допуска.",
+            "Протекающие колпачки: изношенные уплотнительные элементы на знаках или пуансонах либо несоответствие колпачка горловине бутылки."
+          ]
+        },
+        {
+          "heading": "Особенности обслуживания",
+          "list": [
+            "Компрессионная оснастка: через установленные интервалы проверяйте пуансоны, матрицы, знаки, охлаждающие вставки и быстроизнашивающиеся детали и заменяйте изношенные детали до того, как они повлияют на размеры колпачка.",
+            "Литьевые формы: проверяйте наконечники сопел, запорные иглы, нагреватели и уплотнения горячеканальной системы, так как эти детали обеспечивают сбалансированное заполнение всех гнёзд.",
+            "Оба типа: поддерживайте охлаждающие каналы в чистоте, так как накипь снижает теплоотвод и удлиняет цикл.",
+            "Оба типа: держите вентиляцию открытой и берегите уплотнительные поверхности и полированные знаки при чистке.",
+            "Держите запасные комплекты быстроизнашивающихся деталей для основных форматов колпачков, чтобы одна повреждённая деталь не останавливала многогнёздную форму."
+          ]
+        },
+        {
           "heading": "Как сделать выбор",
           "steps": [
             "Начните с оборудования: компрессионная оснастка делается для линий SACMI CCM, литьевые формы — для термопластавтоматов для колпачков.",
             "Оцените объёмы и стоимость энергии: высокопроизводительные линии больше всего выигрывают от короткого цикла и меньшего энергопотребления компрессионного формования.",
             "Уточните конструкцию колпачка: одно- или двухкомпонентный, контрольное кольцо, привязной колпачок, тип горловины.",
-            "Для действующей линии пришлите текущие детали или чертежи — сменную компрессионную оснастку можно изготовить по имеющимся деталям."
+            "Для действующей линии пришлите текущие детали или чертежи — сменную компрессионную оснастку можно изготовить по имеющимся деталям.",
+            "Определите целевую производительность и гнёздность, затем сравните, сколько гнёзд может нести ваша машина и какой объём вам нужен.",
+            "Запросите протоколы контроля и спланируйте запасные части для быстроизнашивающихся деталей до запуска формы в производство."
+          ]
+        },
+        {
+          "heading": "Возможности LIHE в области оснастки для колпачков",
+          "list": [
+            "Литьевые формы для колпачков от 12 до 72 гнёзд для однокомпонентных и двухкомпонентных колпачков, колец контроля первого вскрытия и привязанных колпачков по требованиям ЕС.",
+            "Горячеканальные системы с запорными соплами для колпачков до 96 гнёзд, совместимые с HUSKY, NETSTAL, KM и SIPA; на горячеканальные системы конструкции типа Husky Ultra предоставляется 3-летняя гарантия от протечек.",
+            "Компрессионные формы для линий SACMI CCM, а также сменная компрессионная оснастка, изготовленная по вашим существующим деталям.",
+            "Горловины 26 мм, 28 мм, 2925, 3025, 38 мм и специальные исполнения.",
+            "Оснастка стабильно обеспечивает CPK ≥ 1,33 и рассчитана на ресурс до 8 миллионов циклов на платформах Husky, SACMI и Netstal.",
+            "Детали проверяются на собственной КИМ Zeiss; протоколы контроля предоставляются по запросу.",
+            "Опубликованный срок изготовления деталей форм для колпачков: 4 недели."
           ]
         }
       ],
@@ -191,6 +396,18 @@
         {
           "question": "Поддерживают ли формы LIHE привязные колпачки ЕС?",
           "answer": "Да. Компрессионные и литьевые формы могут изготавливаться под привязные колпачки ЕС, а также под одно- и двухкомпонентные колпачки с контрольным кольцом."
+        },
+        {
+          "question": "Всегда ли компрессионное формование дешевле литья для колпачков?",
+          "answer": "Не обязательно. Компрессионное формование даёт более короткий цикл и меньший расход энергии на колпачок, но требует компрессионной линии, например машины SACMI CCM. Лучший вариант зависит от имеющегося оборудования, объёма и конструкции колпачка; точная цена оснастки определяется коммерческим предложением."
+        },
+        {
+          "question": "Каким бутылкам в ЕС нужны привязанные колпачки?",
+          "answer": "Согласно Директиве (ЕС) 2019/904, колпачки и крышки одноразовых пластиковых ёмкостей для напитков объёмом до 3 литров должны оставаться прикреплёнными к ёмкости во время использования. Требование действует с июля 2024 года."
+        },
+        {
+          "question": "Сколько времени занимает изготовление сменных деталей форм для колпачков?",
+          "answer": "Опубликованный срок LIHE для деталей форм для колпачков — 4 недели. Если прислать существующие детали или чертежи, объём работ можно подтвердить быстрее."
         }
       ]
     },
@@ -209,9 +426,40 @@
           ]
         },
         {
+          "heading": "Términos clave",
+          "list": [
+            "Moldeo por compresión: proceso en el que una dosis medida de plástico fundido se coloca en una cavidad abierta y se conforma al cerrar el molde bajo presión.",
+            "Moldeo por compresión continuo (CCM): máquina rotativa de compresión, como una línea SACMI CCM, que corta, coloca y conforma las dosis en un ciclo continuo.",
+            "Moldeo por inyección: proceso en el que el plástico fundido se inyecta a través de un sistema de alimentación en un molde cerrado, se mantiene bajo presión, se enfría y se expulsa.",
+            "Canal caliente: sistema de distribuidor y boquillas calefactados que mantiene el plástico fundido hasta cada cavidad, de modo que no hay colada fría que enfriar, cortar o remoler.",
+            "Banda de garantía (TE): anillo en la parte inferior de la tapa que se rompe o se separa en la primera apertura e indica al consumidor que la botella ya se ha abierto.",
+            "Tapa unida (tethered cap): tapa que permanece sujeta a la botella después de abrirla, como exige la UE para muchos envases de bebidas.",
+            "Tapas de una y dos piezas: la tapa de una pieza sella con elementos moldeados en la propia tapa, mientras que la de dos piezas combina una carcasa con un liner o sello independiente.",
+            "Número de cavidades: cantidad de cavidades del molde que, junto con el tiempo de ciclo, determina la producción de la línea."
+          ]
+        },
+        {
           "heading": "Por qué el moldeo por compresión es más rápido",
           "paragraphs": [
             "Como el moldeo por compresión trabaja a menor temperatura de proceso, la tapa necesita menos tiempo de enfriamiento. Menos enfriamiento significa ciclos más cortos, mayor producción y menor consumo energético por tapa que la inyección convencional."
+          ]
+        },
+        {
+          "heading": "Cómo funciona cada proceso",
+          "paragraphs": [
+            "Las secuencias siguientes describen el proceso general de cada tecnología. Los parámetros reales los fija el fabricante de la máquina y dependen de la resina, del diseño de la tapa y del equipo."
+          ],
+          "steps": [
+            "Compresión: una extrusora funde la resina de forma continua y la entrega al sistema de dosificación.",
+            "Compresión: una cuchilla separa una dosis de peso exacto y la coloca en la cavidad abierta.",
+            "Compresión: el punzón y la matriz se cierran y conforman la tapa a alta presión, incluida la rosca y la banda de garantía.",
+            "Compresión: la tapa se enfría en el utillaje cerrado y después se expulsa; el corte o plegado de la banda de garantía puede hacerse como una operación posterior independiente."
+          ],
+          "list": [
+            "Inyección: la resina se funde en el cilindro de la inyectora.",
+            "Inyección: el material fundido se inyecta a través de un canal caliente en todas las cavidades del molde al mismo tiempo.",
+            "Inyección: la presión de mantenimiento compensa la contracción mientras las tapas se enfrían contra los machos y cavidades refrigerados.",
+            "Inyección: el molde se abre y las tapas se expulsan, por ejemplo extrayéndolas por desmoldeo forzado o desenroscándolas de los machos."
           ]
         },
         {
@@ -252,6 +500,17 @@
           }
         },
         {
+          "heading": "Ventajas y límites de cada proceso",
+          "list": [
+            "Ventaja de la compresión: menor temperatura de proceso, lo que acorta el enfriamiento, acorta los ciclos y reduce la energía por tapa.",
+            "Ventaja de la compresión: no hay sistema de alimentación, porque cada cavidad recibe su propia dosis.",
+            "Límite de la compresión: necesita una línea de compresión específica, como una máquina SACMI CCM, por lo que conviene a productores que ya trabajan con esa plataforma o planean invertir en ella.",
+            "Ventaja de la inyección: funciona en inyectoras de tapas convencionales, que muchos transformadores ya tienen.",
+            "Ventaja de la inyección: el canal caliente equilibra el llenado de muchas cavidades; los moldes de inyección de tapas de LIHE van de 12 a 72 cavidades.",
+            "Límite de la inyección: la mayor temperatura del material fundido obliga a extraer más calor de cada tapa, por lo que el diseño de la refrigeración es clave para el tiempo de ciclo."
+          ]
+        },
+        {
           "heading": "Cuellos y aplicaciones",
           "list": [
             "Cuellos: 26 mm, 28 mm, 2925, 3025, 38 mm y especificaciones a medida.",
@@ -260,12 +519,54 @@
           ]
         },
         {
+          "heading": "Tapas unidas en la UE y lo que implican para el utillaje",
+          "paragraphs": [
+            "La Directiva (UE) 2019/904 sobre plásticos de un solo uso exige que las tapas y tapones de los envases de bebidas de plástico de hasta 3 litros permanezcan unidos al envase durante su uso, y el requisito se aplica desde julio de 2024. Para los fabricantes de tapas, esto significa que el diseño incluye una unión que conecta la tapa con la banda de garantía o el anillo del cuello después de abrirla.",
+            "Una tapa unida puede fabricarse por compresión o por inyección. La unión suele formarse mediante la geometría de la tapa y el corte de la banda, por lo que la cavidad, el macho y los detalles de la banda deben diseñarse junto con el equipo de las operaciones posteriores. LIHE fabrica moldes de compresión y moldes de inyección de tapas para diseños de tapa unida de la UE."
+          ]
+        },
+        {
+          "heading": "Defectos habituales en tapas y sus causas más frecuentes",
+          "list": [
+            "Rebaba en el borde o en la rosca: superficies de cierre desgastadas o dañadas, o exceso de presión o de material para la cavidad.",
+            "Llenado incompleto o roscas incompletas: falta de material en la cavidad, venteo obstruido o llenado desigual entre cavidades.",
+            "Variación de peso o dimensiones entre cavidades: desequilibrio del canal caliente en moldes de inyección, o variación del peso de la dosis en líneas de compresión.",
+            "Ovalización de la tapa: refrigeración insuficiente o irregular antes de la expulsión.",
+            "Banda de garantía que se rompe antes de tiempo o no se rompe al abrir: geometría de la banda, dimensiones de los puentes o corte fuera de especificación.",
+            "Tapas con fugas: elementos de sellado desgastados en machos o punzones, o falta de correspondencia entre la tapa y el acabado del cuello de la botella."
+          ]
+        },
+        {
+          "heading": "Consideraciones de mantenimiento",
+          "list": [
+            "Utillaje de compresión: inspeccione punzones, matrices, machos, insertos de refrigeración y piezas de desgaste a intervalos fijos y sustituya las piezas desgastadas antes de que afecten a las dimensiones de la tapa.",
+            "Moldes de inyección: revise las puntas de boquilla, las agujas de obturación, las resistencias y las juntas del canal caliente, porque estas piezas controlan el llenado equilibrado de todas las cavidades.",
+            "Ambos: mantenga limpios los canales de refrigeración, ya que la cal reduce la extracción de calor y alarga el ciclo.",
+            "Ambos: mantenga despejado el venteo y proteja las superficies de sellado y los machos pulidos durante la limpieza.",
+            "Disponga de juegos de repuesto de las piezas de mayor desgaste para sus formatos de tapa principales, para que una sola pieza dañada no detenga un molde multicavidad."
+          ]
+        },
+        {
           "heading": "Cómo decidir",
           "steps": [
             "Parta de sus máquinas: el herramental de compresión se fabrica para líneas SACMI CCM y los moldes de inyección para inyectoras de tapas.",
             "Evalúe volumen y costo energético: las líneas de alto volumen son las que más aprovechan los ciclos cortos y el menor consumo por tapa de la compresión.",
             "Confirme el diseño de la tapa: una o dos piezas, banda de garantía, tapa unida y tipo de cuello.",
-            "Para una línea existente, envíe sus piezas o planos actuales; el herramental de compresión de reemplazo puede fabricarse a partir de piezas existentes."
+            "Para una línea existente, envíe sus piezas o planos actuales; el herramental de compresión de reemplazo puede fabricarse a partir de piezas existentes.",
+            "Defina el objetivo de producción y el número de cavidades, y compare las cavidades que admite su máquina con el volumen que necesita.",
+            "Solicite informes de inspección y planifique repuestos para las piezas de mayor desgaste antes de que el molde entre en producción."
+          ]
+        },
+        {
+          "heading": "Capacidades de LIHE en utillaje para tapas",
+          "list": [
+            "Moldes de inyección de tapas de 12 a 72 cavidades para tapas de una y dos piezas, bandas de garantía y tapas unidas de la UE.",
+            "Canales calientes con obturador para tapas de hasta 96 cavidades, compatibles con HUSKY, NETSTAL, KM y SIPA; los canales calientes de diseño tipo Husky Ultra tienen una garantía de 3 años contra fugas.",
+            "Moldes de compresión para líneas SACMI CCM, además de utillaje de compresión de repuesto fabricado a partir de sus piezas existentes.",
+            "Acabados de cuello de 26 mm, 28 mm, 2925, 3025, 38 mm y especificaciones a medida.",
+            "El utillaje alcanza de forma constante un CPK ≥ 1,33 y está construido para soportar hasta 8 millones de ciclos en plataformas Husky, SACMI y Netstal.",
+            "Piezas inspeccionadas en una MMC Zeiss propia; informes de inspección disponibles bajo solicitud.",
+            "Plazo publicado para piezas de moldes de tapas: 4 semanas."
           ]
         }
       ],
@@ -281,6 +582,18 @@
         {
           "question": "¿Los moldes de tapas de LIHE admiten tapas unidas UE?",
           "answer": "Sí. Tanto los moldes de compresión como los de inyección pueden fabricarse para tapas unidas UE, además de tapas de una y dos piezas con banda de garantía."
+        },
+        {
+          "question": "¿El moldeo por compresión es siempre más barato que la inyección para tapas?",
+          "answer": "No necesariamente. La compresión ofrece ciclos más cortos y menos energía por tapa, pero requiere una línea de compresión como una máquina SACMI CCM. La mejor opción depende de las máquinas que tenga, de su volumen y del diseño de la tapa; el precio exacto del utillaje requiere una cotización."
+        },
+        {
+          "question": "¿Qué botellas necesitan tapas unidas en la UE?",
+          "answer": "Según la Directiva (UE) 2019/904, las tapas y tapones de los envases de bebidas de plástico de un solo uso de hasta 3 litros deben permanecer unidos al envase durante su uso. El requisito se aplica desde julio de 2024."
+        },
+        {
+          "question": "¿Cuánto se tarda en obtener piezas de repuesto para moldes de tapas?",
+          "answer": "El plazo publicado por LIHE para piezas de moldes de tapas es de 4 semanas. Enviar sus piezas o planos existentes ayuda a confirmar el alcance con rapidez."
         }
       ]
     }

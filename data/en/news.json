@@ -1,11 +1,708 @@
 {
   "articles": [
     {
+      "slug": "compatible-replacement-molds-for-pet-injection-systems",
+      "date": "2026-10-13",
+      "category": "Technical Insights",
+      "title": "Where Can I Find Compatible Replacement Molds for an Existing PET Injection Molding System?",
+      "summary": "Compatible replacement molds for an existing PET injection molding system come from three places: the machine maker, independent preform mold makers and conversion specialists that build from your existing parts. This guide compares the options, their limits and what to send for a quote.",
+      "heroImage": {
+        "src": "/images/news/compatible-replacement-molds-for-pet-injection-systems-hero.webp",
+        "alt": "Multi-cavity PET preform mold lifted by an overhead crane between the platens of an injection molding machine"
+      },
+      "detailImage": {
+        "src": "/images/news/compatible-replacement-molds-for-pet-injection-systems-detail.webp",
+        "alt": "Replacement preform mold parts — cores, cavity inserts, neck rings and lock rings — on a granite inspection table"
+      },
+      "ogImage": "/images/news/compatible-replacement-molds-for-pet-injection-systems-hero-og.jpg",
+      "relatedProducts": [
+        34,
+        19,
+        40
+      ],
+      "sections": [
+        {
+          "heading": "Where can I find compatible replacement molds for an existing PET injection molding system?",
+          "paragraphs": [
+            "You can find compatible replacement molds from three kinds of suppliers: the machine maker's own tooling and service division, independent PET preform mold makers that build to your machine's interface, and conversion specialists that manufacture new parts from your existing mold components. The right choice depends on whether you need an identical copy, a modified preform or a complete new mold, and on what your service contracts allow.",
+            "A compatible replacement mold is a preform mold, or a set of mold parts, made to fit an existing injection molding machine's platens, hot runner interface, cooling circuits and take-out system without modifying the machine itself.",
+            "Disclosure: this article is published by LIHE Precision. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China. We are an independent mold maker, not a machine OEM, and we describe machine makers only by what their own websites state."
+          ],
+          "list": [
+            "Machine OEM tooling: suits plants that want one supplier for machine and mold, or whose service agreement specifies OEM tooling.",
+            "Independent mold maker: suits plants that want a new mold, a different cavity count, a new neck finish or a lighter preform on a machine they already own.",
+            "Conversion from existing parts: suits plants that need worn cores, cavities, neck rings or lock rings replaced so they match the current mold exactly."
+          ]
+        },
+        {
+          "heading": "What “compatible” has to cover",
+          "paragraphs": [
+            "In injection molding the mold is only one part of a system. A replacement mold must work with every machine-side element it touches, and each of the points below should be checked against the real machine, not only against a catalogue model name."
+          ],
+          "list": [
+            "Machine interface: platen mounting pattern, locating ring, clamp stroke and mold shut height.",
+            "Hot runner interface: nozzle pitch, gate design, manifold layout, and heater and thermocouple wiring to the existing controller.",
+            "Cooling: water circuit layout, connectors and flow capacity for cores, cavities and neck rings.",
+            "Post-mold handling: cavity pitch and geometry that match the robot take-out plate and its cooling tubes.",
+            "Preform specification: neck finish (for example PCO 1881, 1716, 2925 or 38mm), wall thickness, weight and length.",
+            "Cavitation: the same cavity count as before, or a change that the machine's shot size and clamp force can support."
+          ]
+        },
+        {
+          "heading": "How we compare the options",
+          "paragraphs": [
+            "We compare the three sources on the same eight dimensions. Where a value is a LIHE figure, it comes from LIHE's published product and company pages. Where it concerns a machine OEM, we only repeat what the OEM's own website lists, and we cite that site in the references. Anything that is quoted per project is marked as such instead of estimated."
+          ],
+          "list": [
+            "Interface fit: how the supplier gets the machine data it designs against.",
+            "Input needed: what you must send before design work can start.",
+            "Lead time: published or quoted delivery time.",
+            "Cavity range and platforms: which machines and cavity counts are covered.",
+            "Quality evidence: capability data and inspection reports available to the buyer.",
+            "Hot runners: whether the supplier can also supply or refurbish the hot runner.",
+            "After-sales: installation, start-up and maintenance support.",
+            "Pricing: whether prices are published or quoted."
+          ]
+        },
+        {
+          "heading": "Replacement mold sources compared",
+          "table": {
+            "head": [
+              "",
+              "Machine OEM tooling",
+              "Independent mold maker (general)",
+              "LIHE Precision (published figures)"
+            ],
+            "rows": [
+              [
+                "Interface fit",
+                "Designed against the OEM's own machine data",
+                "Depends on the maker's data and machine audits",
+                "Built to the customer's machine; on-site machine interface audits offered"
+              ],
+              [
+                "Input needed",
+                "Machine details and preform drawing",
+                "Preform drawing, machine data, often sample parts",
+                "Preform drawing or sample, machine data, existing parts for conversions"
+              ],
+              [
+                "Lead time",
+                "Quoted per project",
+                "Varies by supplier",
+                "Pilot molds 20 days; standard PET molds 8 weeks; replacement parts 4 weeks"
+              ],
+              [
+                "Cavity range",
+                "According to the OEM's product range",
+                "Varies by supplier",
+                "2 to 160 cavities"
+              ],
+              [
+                "Platforms covered",
+                "Mainly the OEM's own machines",
+                "Varies by supplier",
+                "Husky, Netstal, SACMI, SIPA, Milacron and others"
+              ],
+              [
+                "Quality evidence",
+                "According to OEM documentation",
+                "Ask for capability data and CMM reports",
+                "CPK ≥ 1.33; Zeiss CMM inspection reports on request"
+              ],
+              [
+                "Hot runners",
+                "OEM hot runners and refurbishment, as listed on husky.co and sipasolutions.com",
+                "Some makers build hot runners, many do not",
+                "Valve gate hot runners up to 144 cavities; 3-year leakage-proof guarantee on the Husky Ultra-type design"
+              ],
+              [
+                "Pricing",
+                "Quoted per project",
+                "Quoted per project",
+                "No public price list; quoted per project"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "What the machine makers list on their own websites",
+          "paragraphs": [
+            "Machine makers are a legitimate first stop for replacement tooling. The summary below repeats only what each company's official website lists in its navigation as of October 2026; for details, go to the source."
+          ],
+          "list": [
+            "Husky (husky.co) lists beverage preform systems, PET tooling lifecycle solutions, Ultra hot runners, a parts ordering portal, hot runner refurbishment and upgrades.",
+            "SIPA (sipasolutions.com) lists preform tooling, blowing moulds, mould refurbishment and conversion, original spare parts and hot runner refurbishment.",
+            "Netstal (netstal.com) lists PET-Line preform machines and services including maintenance, process optimization, modification and general overhaul.",
+            "If your machine is under an OEM service contract, ask the OEM whether third-party tooling affects that contract. Only the OEM and your own agreement can answer that question."
+          ]
+        },
+        {
+          "heading": "Limitations of each option, including LIHE's",
+          "list": [
+            "OEM tooling: usually focused on the OEM's own platform, so a plant running machines from several brands may deal with several tooling suppliers.",
+            "Independent makers in general: quality and documentation vary widely, and the buyer carries the work of checking capability data, steel certificates and inspection reports.",
+            "Copying from worn parts: a part copied from a worn component can reproduce the wear. The original drawing or an unworn reference part gives a better result.",
+            "LIHE is a mold and tooling maker, not a machine OEM. We do not build injection molding machines and cannot supply machine-side spare parts, machine software or OEM machine warranties.",
+            "LIHE does not publish a price list. Every mold and conversion is quoted per project.",
+            "LIHE's standard PET mold lead time is 8 weeks. If a line is down today, a spare part already in stock somewhere may be faster than any new mold.",
+            "LIHE conversion parts are 100% interchangeable for Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps and Corvaglia systems. Platforms outside that list need a separate feasibility check before we can commit."
+          ]
+        },
+        {
+          "heading": "How to choose: a simple decision path",
+          "list": [
+            "Is the machine under an OEM contract that requires OEM tooling? If yes, start with the OEM.",
+            "Do you only need worn parts replaced to the current design? Use a conversion supplier that makes parts from your existing Husky, SACMI or Otto parts; LIHE's published lead time for replacement parts is 4 weeks.",
+            "Do you need a new neck finish, a lighter preform or a different cavity count? Use a maker with design and flow-analysis capability; LIHE lightweighting proposals reduce preform weight by 1g to 2g through neck or wall-thickness optimization.",
+            "Is the mold old but the machine still sound? Consider a retrofit before buying new; LIHE retrofits for lightweighting cost 25%–40% of a new mold price.",
+            "Do you want to test a new preform before committing to full cavitation? A pilot mold, which LIHE delivers in 20 days, lets you validate the design first."
+          ]
+        },
+        {
+          "heading": "Price and total cost of ownership",
+          "paragraphs": [
+            "No supplier can give a firm price without the preform drawing and machine data, so compare quotes on total cost over the mold's life rather than on mold price alone. These are the main cost drivers."
+          ],
+          "list": [
+            "Cavity count and pitch: more cavities mean more cores, cavities, neck rings and hot runner nozzles.",
+            "Hot runner: reusing and refurbishing the existing hot runner costs less than a new one if its condition allows.",
+            "Steel and wear life: steel is chosen for the resin, including rPET, and for the expected shot count. LIHE tooling is built to withstand up to 8 million shots on Husky, SACMI and Netstal platforms.",
+            "Cooling design: optimized cooling can reduce neck cooling time by up to 0.5 seconds, which affects output over the whole life of the mold.",
+            "Downtime: installation and start-up support shorten the time a machine is not producing.",
+            "Resin per preform: a 1g to 2g weight reduction is multiplied across every preform the mold makes."
+          ]
+        },
+        {
+          "heading": "How to request a compatible replacement mold",
+          "steps": [
+            "Collect machine data: brand, model, serial number, clamp force and the current mold's cavity count.",
+            "Send the preform drawing or a sample preform, including neck finish, target weight and any rPET content.",
+            "Share existing mold drawings, or send worn and unworn sample parts if you want parts made from existing components.",
+            "Describe the hot runner: make, nozzle count, controller, and whether it should be reused, refurbished or replaced.",
+            "Review the supplier's design, 3D simulation and flow analysis, and agree on acceptance criteria such as CPK values and CMM reports.",
+            "Plan installation and start-up with the supplier's technical team, and set a preventive maintenance schedule from the first production run."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Can a non-OEM preform mold run on a Husky, SACMI or Netstal machine?",
+          "answer": "Yes, if it is designed against the machine's actual interface, hot runner and take-out system. LIHE builds preform molds for Husky, Netstal, SACMI, SIPA, Milacron and other machines, and its tooling is built to withstand up to 8 million shots on Husky, SACMI and Netstal platforms. Check your service contract with the machine maker before ordering."
+        },
+        {
+          "question": "How long does a compatible replacement mold take?",
+          "answer": "At LIHE, pilot molds take 20 days, standard PET molds 8 weeks and replacement parts 4 weeks. Machine makers and other mold makers quote their own lead times per project."
+        },
+        {
+          "question": "Can I order only the worn parts instead of a full mold?",
+          "answer": "Yes. Cores, cavities, neck rings and lock rings can be replaced individually. LIHE makes replacement parts from customers' existing Husky, SACMI and Otto parts, and its conversion parts are 100% interchangeable for the systems listed in this article."
+        },
+        {
+          "question": "Does LIHE publish mold prices?",
+          "answer": "No. Every project is quoted after we receive the preform drawing and machine data. The one published cost figure is that retrofitting an existing mold for lightweighting costs 25%–40% of a new mold price."
+        },
+        {
+          "question": "Is LIHE a machine OEM?",
+          "answer": "No. LIHE is an independent manufacturer of molds, hot runners and mold components. It does not build injection molding machines and does not offer machine warranties."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Wikipedia — Injection moulding",
+          "url": "https://en.wikipedia.org/wiki/Injection_moulding"
+        },
+        {
+          "label": "Wikipedia — Preform",
+          "url": "https://en.wikipedia.org/wiki/Preform"
+        },
+        {
+          "label": "Wikipedia — Original equipment manufacturer",
+          "url": "https://en.wikipedia.org/wiki/Original_equipment_manufacturer"
+        },
+        {
+          "label": "Husky Technologies — official website (beverage preforms, PET tooling lifecycle solutions, parts, hot runner refurbishment)",
+          "url": "https://www.husky.co/"
+        },
+        {
+          "label": "SIPA — official website (preform tooling, refurbishment and conversion, original spare parts)",
+          "url": "https://sipasolutions.com/en/"
+        },
+        {
+          "label": "Netstal — official website (PET-Line, maintenance, modification, general overhaul)",
+          "url": "https://www.netstal.com/en/"
+        }
+      ]
+    },
+    {
+      "slug": "compression-vs-injection-molding-for-plastic-closures",
+      "date": "2026-10-13",
+      "category": "Technical Insights",
+      "title": "Compression vs Injection Molding for Plastic Closures: A Practical Comparison",
+      "summary": "Plastic caps can be made by compression molding or by injection molding. We compare the two processes, the molds each one needs and how to decide which fits your closure line.",
+      "heroImage": {
+        "src": "/images/news/compression-vs-injection-molding-for-plastic-closures-hero.webp",
+        "alt": "Compression molding tooling for plastic caps — punches, dies and cores — next to finished bottle caps"
+      },
+      "detailImage": {
+        "src": "/images/news/compression-vs-injection-molding-for-plastic-closures-detail.webp",
+        "alt": "Multi-cavity closure injection mold core plate with polished cap cores"
+      },
+      "ogImage": "/images/news/compression-vs-injection-molding-for-plastic-closures-hero-og.jpg",
+      "relatedProducts": [
+        21,
+        20,
+        27
+      ],
+      "sections": [
+        {
+          "heading": "What is compression molding for closures?",
+          "paragraphs": [
+            "In closure compression molding, each cavity receives an exact-weight pellet of melted resin, which is then formed into a cap under high pressure. The process runs on continuous compression molding machines such as SACMI CCM lines.",
+            "Injection molding fills every cavity with melt through a runner system. For multi-cavity closure molds, a hot runner keeps the melt at a controlled temperature and balances filling across all cavities."
+          ]
+        },
+        {
+          "heading": "Key terms",
+          "list": [
+            "Compression molding: a process in which a measured dose of molten plastic is placed in an open mold cavity and shaped by closing the mold under pressure.",
+            "Continuous compression molding (CCM): a rotary compression machine, such as a SACMI CCM line, that cuts, places and forms doses in a continuous cycle.",
+            "Injection molding: a process in which molten plastic is injected through a runner system into a closed mold, held under pressure, cooled and ejected.",
+            "Hot runner: a heated manifold and nozzle system that keeps the plastic molten on its way to each cavity, so there is no cold runner to cool, cut off or regrind.",
+            "Tamper-evident (TE) band: a ring at the bottom of the cap that breaks or separates on first opening, showing the consumer that the bottle has been opened.",
+            "Tethered cap: a cap that stays attached to the bottle after opening, as required for many beverage containers in the EU.",
+            "One-piece and two-piece caps: a one-piece cap seals with features molded into the cap itself, while a two-piece cap combines a shell with a separate liner or seal.",
+            "Cavitation: the number of cavities in a mold, which together with the cycle time sets the output of the line."
+          ]
+        },
+        {
+          "heading": "Why compression molding runs faster",
+          "paragraphs": [
+            "Because compression molding works at a lower processing temperature, the cap needs less cooling time. Shorter cooling means shorter cycles, higher output and lower energy use per cap than conventional injection."
+          ]
+        },
+        {
+          "heading": "How each process works",
+          "paragraphs": [
+            "The sequences below describe the general process for each technology. Machine makers set the actual process parameters, and they depend on the resin, the cap design and the machine."
+          ],
+          "steps": [
+            "Compression: an extruder melts the resin continuously and delivers it to the dosing system.",
+            "Compression: a cutter separates a dose of exact weight and places it into the open cavity.",
+            "Compression: the punch and die close and form the cap under high pressure, including the thread and the tamper-evident band.",
+            "Compression: the cap cools in the closed tooling and is then ejected; cutting or folding of the tamper-evident band can be done as a separate downstream step."
+          ],
+          "list": [
+            "Injection: the resin is melted in the barrel of the injection molding machine.",
+            "Injection: the melt is injected through a hot runner into all cavities of the mold at the same time.",
+            "Injection: holding pressure compensates for shrinkage while the caps cool against the cooled cores and cavities.",
+            "Injection: the mold opens and the caps are ejected, for example by stripping or unscrewing them from the cores."
+          ]
+        },
+        {
+          "heading": "Compression vs injection closure molds compared",
+          "table": {
+            "head": [
+              "",
+              "Compression mold",
+              "Injection closure mold"
+            ],
+            "rows": [
+              [
+                "How the cavity is filled",
+                "Exact-weight pellet of melted resin, formed under high pressure",
+                "Melt injected through a runner or hot runner system"
+              ],
+              [
+                "Processing temperature",
+                "Lower, so cooling time is shorter",
+                "Higher melt temperature"
+              ],
+              [
+                "Typical machines",
+                "SACMI CCM continuous compression molding lines",
+                "Mainstream closure injection molding machines"
+              ],
+              [
+                "Cavitation (LIHE range)",
+                "Matched to the SACMI CCM platform",
+                "12 to 72 cavities; closure hot runners up to 96 cavities"
+              ],
+              [
+                "Cap types",
+                "One-piece and two-piece, tamper-evident band, EU tethered caps",
+                "One-piece and two-piece, tamper-evident band, EU tethered caps"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Strengths and limits of each process",
+          "list": [
+            "Compression strength: lower processing temperature, which shortens cooling, shortens cycles and reduces energy per cap.",
+            "Compression strength: no runner system, because each cavity receives its own dose.",
+            "Compression limit: it needs a dedicated compression line such as a SACMI CCM machine, so it suits producers that already run, or plan to invest in, that platform.",
+            "Injection strength: runs on mainstream closure injection molding machines, which many converters already own.",
+            "Injection strength: a hot runner balances filling across many cavities; LIHE closure injection molds range from 12 to 72 cavities.",
+            "Injection limit: the higher melt temperature means more heat must be removed from every cap, which is why cooling design matters for cycle time."
+          ]
+        },
+        {
+          "heading": "Neck finishes and applications",
+          "list": [
+            "Neck finishes: 26mm, 28mm, 2925, 3025, 38mm and custom specifications.",
+            "Applications: water, juice and tea drinks, edible oil, condiments and soy sauce, cosmetics, health-care products, pharmaceuticals and food packaging.",
+            "EU tethered caps: both compression and injection closure molds can be built for tethered cap designs."
+          ]
+        },
+        {
+          "heading": "EU tethered caps and what they mean for tooling",
+          "paragraphs": [
+            "Directive (EU) 2019/904 on single-use plastics requires caps and lids of plastic beverage containers of up to 3 litres to stay attached to the container during use, with the requirement applying from July 2024. For closure producers this means the cap design includes a tether that links the cap to the tamper-evident band or neck ring after opening.",
+            "A tethered cap can be produced by compression molding or by injection molding. The tether is usually formed by the cap geometry and by cutting or slitting the band, so the cavity, core and band details must be designed together with the downstream equipment. LIHE builds both compression molds and closure injection molds for EU tethered cap designs."
+          ]
+        },
+        {
+          "heading": "Common closure defects and what usually causes them",
+          "list": [
+            "Flash on the cap edge or thread: worn or damaged shut-off surfaces, or excessive pressure or material for the cavity.",
+            "Short shots or incomplete threads: too little material in the cavity, blocked venting, or uneven filling between cavities.",
+            "Cap weight or dimension variation between cavities: hot runner imbalance in injection molds, or dose weight variation in compression lines.",
+            "Ovality of the cap: insufficient or uneven cooling before ejection.",
+            "TE band that breaks too early or does not break on opening: band geometry, bridge dimensions or slitting are out of specification.",
+            "Leaking caps: worn sealing features on cores or punches, or a mismatch between the cap and the bottle neck finish."
+          ]
+        },
+        {
+          "heading": "Maintenance considerations",
+          "list": [
+            "Compression tooling: inspect punches, dies, cores, cooling inserts and wear parts at fixed intervals and replace worn parts before they affect cap dimensions.",
+            "Injection molds: check hot runner nozzle tips, valve pins, heaters and seals, because these parts control balanced filling across all cavities.",
+            "Both: keep cooling channels clean, since scale reduces heat removal and lengthens the cycle.",
+            "Both: keep venting clear and protect sealing surfaces and polished cores during cleaning.",
+            "Hold spare sets of high-wear parts for your main cap formats, so a single damaged part does not stop a multi-cavity mold."
+          ]
+        },
+        {
+          "heading": "How to decide",
+          "steps": [
+            "Start from your machines: compression tooling is built for SACMI CCM lines, while injection molds run on closure injection molding machines.",
+            "Look at volume and energy cost: high-volume lines benefit most from the shorter cycles and lower energy per cap of compression molding.",
+            "Confirm the cap design: one-piece or two-piece, tamper-evident band, tethered cap and neck finish.",
+            "For an existing line, send your current parts or drawings; replacement compression tooling can be made from existing parts.",
+            "Set the output target and cavitation, then compare the number of cavities your machine can carry with the volume you need.",
+            "Ask for inspection reports and plan spare parts for high-wear components before the mold goes into production."
+          ]
+        },
+        {
+          "heading": "LIHE closure tooling capabilities",
+          "list": [
+            "Closure injection molds from 12 to 72 cavities for one-piece and two-piece caps, tamper-evident bands and EU tethered caps.",
+            "Valve gate hot runners for closures up to 96 cavities, compatible with HUSKY, NETSTAL, KM and SIPA; hot runners of Husky Ultra-type design carry a 3-year leakage-proof guarantee.",
+            "Compression molds for SACMI CCM lines, plus replacement compression tooling made from your existing parts.",
+            "Neck finishes 26mm, 28mm, 2925, 3025, 38mm and custom specifications.",
+            "Tooling consistently achieves CPK ≥ 1.33 and is built to withstand up to 8 million shots on Husky, SACMI and Netstal platforms.",
+            "Parts inspected on an in-house Zeiss CMM; inspection reports are available on request.",
+            "Published lead time for cap mold parts: 4 weeks."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Can LIHE make replacement tooling for an existing SACMI compression line?",
+          "answer": "Yes. Replacement compression tooling — punches, dies, cores, cooling inserts and wear parts — can be made from your existing parts and is machined and inspected in-house."
+        },
+        {
+          "question": "How many cavities can a LIHE closure injection mold have?",
+          "answer": "LIHE closure injection molds are available from 12 to 72 cavities, and closure hot runner systems support up to 96 cavities."
+        },
+        {
+          "question": "Do LIHE closure molds support EU tethered caps?",
+          "answer": "Yes. Both compression molds and closure injection molds can be built for EU tethered cap designs, as well as one-piece and two-piece caps with tamper-evident bands."
+        },
+        {
+          "question": "Is compression molding always cheaper than injection molding for caps?",
+          "answer": "Not automatically. Compression molding offers shorter cycles and lower energy per cap, but it requires a compression line such as a SACMI CCM machine. The better choice depends on the machines you own, your volume and your cap design; an exact tooling price requires a quotation."
+        },
+        {
+          "question": "Which bottles need tethered caps in the EU?",
+          "answer": "Under Directive (EU) 2019/904, caps and lids of single-use plastic beverage containers of up to 3 litres must stay attached to the container during use. The requirement has applied since July 2024."
+        },
+        {
+          "question": "How long does it take to get replacement cap mold parts?",
+          "answer": "LIHE's published lead time for cap mold parts is 4 weeks. Sending your existing parts or drawings helps confirm the scope quickly."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Wikipedia — Compression molding",
+          "url": "https://en.wikipedia.org/wiki/Compression_molding"
+        },
+        {
+          "label": "Wikipedia — Injection moulding",
+          "url": "https://en.wikipedia.org/wiki/Injection_moulding"
+        },
+        {
+          "label": "Wikipedia — Hot runner",
+          "url": "https://en.wikipedia.org/wiki/Hot_runner"
+        },
+        {
+          "label": "Wikipedia — Bottle cap (tethered caps)",
+          "url": "https://en.wikipedia.org/wiki/Bottle_cap"
+        },
+        {
+          "label": "European Commission — Single-use plastics (Directive (EU) 2019/904)",
+          "url": "https://environment.ec.europa.eu/topics/plastics/single-use-plastics_en"
+        },
+        {
+          "label": "SACMI — official website",
+          "url": "https://www.sacmi.com"
+        }
+      ]
+    },
+    {
+      "slug": "drop-in-replacement-hot-runner-for-pet-preform-mold",
+      "date": "2026-10-13",
+      "category": "Technical Insights",
+      "title": "What Are My Options If I Need a Drop-in Replacement Hot Runner for a PET Preform Mold?",
+      "summary": "If you need a drop-in replacement hot runner for a PET preform mold, you can refurbish the existing system, buy new from the original hot runner maker, order a compatible system from an independent supplier, or replace only the worn components. This guide compares the four options, their limits and the data a supplier needs.",
+      "heroImage": {
+        "src": "/images/news/drop-in-replacement-hot-runner-for-pet-preform-mold-hero.webp",
+        "alt": "Hot runner manifold plate for a multi-cavity PET preform mold with rows of nozzles and bundled wiring on a workbench"
+      },
+      "detailImage": {
+        "src": "/images/news/drop-in-replacement-hot-runner-for-pet-preform-mold-detail.webp",
+        "alt": "Hot runner nozzle tips, valve pins and coil heaters arranged on a steel tray"
+      },
+      "ogImage": "/images/news/drop-in-replacement-hot-runner-for-pet-preform-mold-hero-og.jpg",
+      "relatedProducts": [
+        27,
+        34,
+        19
+      ],
+      "sections": [
+        {
+          "heading": "What are my options if I need a drop-in replacement hot runner for a PET preform mold?",
+          "paragraphs": [
+            "You have four options: refurbish the hot runner you already have, buy a new system from the original hot runner maker, order a compatible system from an independent supplier, or replace only the worn components such as nozzle tips, valve pins, heaters and seals. The right option depends on the condition of the manifold and plates, how long the mold must keep running and how much downtime you can accept.",
+            "A drop-in replacement hot runner is a hot runner system — manifold, nozzles, heaters and valve gates — built to fit the existing mold plates, gate positions, wiring and temperature controller of a PET preform mold, so it can be installed without redesigning the mold.",
+            "Disclosure: this article is published by LIHE Precision. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China. We are one of the independent suppliers described below, not a machine OEM."
+          ],
+          "list": [
+            "Refurbishment: best when the manifold and plates are sound and the problems are wear, leaks or heater failures.",
+            "New from the original hot runner maker: best when you want the same design, documentation and service channel as before.",
+            "Compatible system from an independent supplier: best when you want a new system for an existing mold at a separately quoted price, or the original design is no longer supported.",
+            "Component replacement only: best when a few nozzles or heaters fail and the rest of the system performs well."
+          ]
+        },
+        {
+          "heading": "What “drop-in” must match",
+          "paragraphs": [
+            "A hot runner keeps PET molten from the machine nozzle to each gate. In a preform mold it sits between the machine and the cavity plate, so a replacement has to match several interfaces at once. Each item below should be confirmed with drawings or measurements from the actual mold."
+          ],
+          "list": [
+            "Plate dimensions and stack height, so the mold closes and clamps exactly as before.",
+            "Nozzle pitch and gate positions, which must line up with every cavity.",
+            "Gate type: most preform hot runners use valve gates, where a valve pin opens and closes each gate.",
+            "Valve pin actuation and air supply, matched to the mold's existing pneumatic circuit.",
+            "Heater zones, wattage and thermocouple type, matched to the existing controller and its cable connectors.",
+            "Melt channel design, so the melt is balanced across all cavities and residence time stays short; PET is sensitive to heat history, and uneven melt temperature shows up as variation between cavities."
+          ]
+        },
+        {
+          "heading": "How we compare the options",
+          "paragraphs": [
+            "We compare the four options on the same dimensions. LIHE values come from LIHE's published product and company pages. For hot runner makers we only repeat what their official websites list and cite those sites in the references. Values that depend on a quote are marked as quoted, not estimated."
+          ],
+          "list": [
+            "Scope: what is actually replaced.",
+            "Fit risk: how likely the result is to need adjustment at installation.",
+            "Lead time: published or quoted.",
+            "Cavity and platform coverage.",
+            "Guarantee: what the supplier states in writing.",
+            "Typical use case."
+          ]
+        },
+        {
+          "heading": "Drop-in replacement hot runner options compared",
+          "table": {
+            "head": [
+              "",
+              "Refurbish existing",
+              "New from original maker",
+              "Compatible system from independent supplier",
+              "Replace components only"
+            ],
+            "rows": [
+              [
+                "Scope",
+                "Clean, inspect, replace worn parts, re-test",
+                "Complete new system to the original design",
+                "Complete new system built to the existing mold",
+                "Nozzle tips, valve pins, heaters, seals"
+              ],
+              [
+                "Fit risk",
+                "Low, same plates and pitch",
+                "Low if the design is still current",
+                "Depends on drawings and measurements supplied",
+                "Low if parts match the original specification"
+              ],
+              [
+                "Lead time",
+                "Quoted per job",
+                "Quoted per project",
+                "Quoted per project",
+                "At LIHE, replacement parts 4 weeks"
+              ],
+              [
+                "Coverage",
+                "Depends on the service provider",
+                "That maker's own designs",
+                "At LIHE: valve gate, up to 144 cavities (preform) and 96 cavities (closure); compatible with HUSKY, NETSTAL, KM, SIPA",
+                "At LIHE: replacement nozzle tips, valve pins, heaters and seals"
+              ],
+              [
+                "Guarantee",
+                "As stated by the provider",
+                "As stated by the maker",
+                "At LIHE: 3-year leakage-proof guarantee on the Husky Ultra-type design",
+                "As stated by the supplier"
+              ],
+              [
+                "When it makes sense",
+                "Sound manifold, recurring small failures",
+                "Want to stay with the original design and service",
+                "Original design unavailable, or a second source wanted",
+                "Isolated failures in a healthy system"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "What hot runner makers list on their own websites",
+          "paragraphs": [
+            "The original maker of your hot runner is a natural first contact. The summary below repeats only what each company's official website lists in its navigation as of October 2026."
+          ],
+          "list": [
+            "Husky (husky.co) lists Ultra hot runners, Altanium mold controllers, a Hot Runner Care program, hot runner refurbishment and a parts ordering portal.",
+            "Mold-Masters (moldmasters.com) lists PET-Series hot runners, TempMaster controllers and MasterCARE aftermarket services including spare parts, service and repairs, refurbishment and preventative maintenance.",
+            "SIPA (sipasolutions.com) lists hot runner refurbishment and original spare parts among its services.",
+            "LIHE's own published hot runner range is described in the comparison table above; we make no claim about how other makers' products perform."
+          ]
+        },
+        {
+          "heading": "Limitations of each option, including LIHE's",
+          "list": [
+            "Refurbishment cannot fix a manifold with a design problem, such as poor balance; it restores the original condition, not a better one.",
+            "A new system from the original maker keeps you on one design, but only while that design is still supported.",
+            "A compatible system from any independent supplier depends on accurate data. Missing drawings or a mold that was modified over the years increase the fit risk.",
+            "Replacing single components can hide a wider problem; if several zones fail, have the whole system inspected.",
+            "LIHE's published hot runner compatibility covers HUSKY, NETSTAL, KM and SIPA. Other systems need a separate feasibility check, and we may decline.",
+            "LIHE's 3-year guarantee is a leakage-proof guarantee on the Husky Ultra-type design. It is not a general warranty on every component or every hot runner we supply.",
+            "Temperature controllers are not part of LIHE's published product range, so the existing controller's zone count and thermocouple type must be confirmed as compatible.",
+            "LIHE does not publish prices. Every hot runner, refurbishment and parts order is quoted per project."
+          ]
+        },
+        {
+          "heading": "How to choose: a decision path",
+          "list": [
+            "Is the manifold cracked, or does it leak at the manifold rather than at the nozzles? Plan for a new system, either from the original maker or from a compatible supplier.",
+            "Is the manifold sound but several nozzles, heaters or seals fail? Refurbish the existing hot runner.",
+            "Is only one zone or nozzle affected? Replace that component and record the failure so patterns become visible.",
+            "Is the original design no longer supported, or do you want a second source? Ask an independent supplier for a compatible system and send full drawings.",
+            "Are you also changing cavity count, neck finish or preform weight? Treat it as a mold project, not a drop-in replacement; LIHE lightweighting proposals reduce preform weight by 1g to 2g, and retrofits cost 25%–40% of a new mold price."
+          ]
+        },
+        {
+          "heading": "Price and total cost of ownership",
+          "paragraphs": [
+            "Hot runner prices are always quoted per project, because they depend on cavity count, pitch, gate type and the state of the existing system. Compare options on total cost, not on purchase price alone."
+          ],
+          "list": [
+            "Cavity count: a 144-cavity system has many more nozzles, heaters and valve pins than a small one.",
+            "Downtime: a leaking hot runner stops the whole mold, so the cost of lost production often exceeds the cost of parts.",
+            "Leak risk: a written leakage guarantee, such as LIHE's 3-year leakage-proof guarantee on its Husky Ultra-type design, moves part of that risk to the supplier.",
+            "Mold life: there is little value in a new hot runner on a mold near the end of its life; LIHE tooling is built to withstand up to 8 million shots on Husky, SACMI and Netstal platforms.",
+            "Spare parts: keep critical spares — nozzle tips, heaters, valve pins — on site; LIHE quotes replacement parts at 4 weeks."
+          ]
+        },
+        {
+          "heading": "How to request a drop-in replacement hot runner",
+          "steps": [
+            "Record the current system: maker, model, number of drops, nozzle pitch, gate type and the mold's cavity count.",
+            "Collect the hot runner and mold plate drawings; if none exist, ask the supplier about measuring the existing system.",
+            "Note the controller make, number of zones, heater wattage and thermocouple type.",
+            "Describe the failure history: which zones leak or fail, how often, and after how many cycles.",
+            "Ask the supplier which option it recommends — refurbishment, new system or parts — and why, with a written scope and guarantee.",
+            "Plan installation and start-up with the supplier's technical team, and agree a preventive maintenance schedule."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Can a non-original hot runner be used in a Husky-type preform mold?",
+          "answer": "Yes, if it is built to the mold's plates, pitch, gates and controller. LIHE's published hot runners are compatible with HUSKY, NETSTAL, KM and SIPA systems, and its Husky Ultra-type design carries a 3-year leakage-proof guarantee. Check any service agreement with your mold or machine supplier first."
+        },
+        {
+          "question": "Is it better to refurbish or replace a hot runner?",
+          "answer": "Refurbish when the manifold and plates are sound and failures are limited to nozzles, heaters or seals. Replace when the manifold leaks, is damaged or has a design problem that refurbishment cannot fix."
+        },
+        {
+          "question": "How many cavities can LIHE hot runners serve?",
+          "answer": "LIHE publishes valve gate hot runners for up to 144 cavities in preform molds and up to 96 cavities in closure molds."
+        },
+        {
+          "question": "How fast can I get replacement nozzle tips and heaters?",
+          "answer": "LIHE's published lead time for replacement parts is 4 weeks. For urgent stops, keeping critical spares on site is the most reliable protection."
+        },
+        {
+          "question": "Does LIHE supply hot runner controllers?",
+          "answer": "Controllers are not part of LIHE's published product range. A replacement hot runner from LIHE is matched to your existing controller, so please send its make, zone count and thermocouple type."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Wikipedia — Hot runner",
+          "url": "https://en.wikipedia.org/wiki/Hot_runner"
+        },
+        {
+          "label": "Wikipedia — Injection mold construction",
+          "url": "https://en.wikipedia.org/wiki/Injection_mold_construction"
+        },
+        {
+          "label": "Wikipedia — Polyethylene terephthalate",
+          "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate"
+        },
+        {
+          "label": "Husky Technologies — official website (Ultra hot runners, Hot Runner Care program, hot runner refurbishment)",
+          "url": "https://www.husky.co/"
+        },
+        {
+          "label": "Mold-Masters — official website (PET-Series hot runners, MasterCARE aftermarket services)",
+          "url": "https://www.moldmasters.com/"
+        },
+        {
+          "label": "SIPA — official website (hot runner refurbishment, original spare parts)",
+          "url": "https://sipasolutions.com/en/"
+        }
+      ]
+    },
+    {
       "slug": "hot-fill-vs-cold-fill-pet-blow-molds",
       "date": "2026-10-13",
       "category": "Technical Insights",
       "title": "Hot Fill vs Cold Fill PET Blow Molds: How to Choose the Right Mold",
       "summary": "Hot fill and cold fill PET blow molds are built for different filling temperatures. This guide compares how each mold works, which beverages each one suits and what to specify when you order a new mold set.",
+      "heroImage": {
+        "src": "/images/news/hot-fill-vs-cold-fill-pet-blow-molds-hero.webp",
+        "alt": "Opened PET blow mold halves showing a bottle cavity, lit warm and cool to contrast hot fill and cold fill"
+      },
+      "detailImage": {
+        "src": "/images/news/hot-fill-vs-cold-fill-pet-blow-molds-detail.webp",
+        "alt": "Clear PET bottles on a conveyor after stretch blow molding, including a hot fill bottle with vacuum panels"
+      },
+      "ogImage": "/images/news/hot-fill-vs-cold-fill-pet-blow-molds-hero-og.jpg",
       "relatedProducts": [
         31,
         23,
@@ -18,6 +715,18 @@
           "paragraphs": [
             "A cold fill blow mold produces PET bottles that are filled at ambient temperature, such as still water, carbonated soft drinks (CSD), juice and dairy. A hot fill (heat-set) blow mold produces bottles that are filled hot, at around 85–95°C, for products such as juice, tea drinks and isotonic beverages.",
             "The difference matters because standard PET bottles start to deform above about 60°C. A hot fill mold uses heated mold walls to crystallize and stabilize the bottle during blowing, so it keeps its shape when hot product goes in."
+          ]
+        },
+        {
+          "heading": "Key terms used in this guide",
+          "list": [
+            "Cold fill: the beverage is filled at ambient or chilled temperature, so the bottle never has to withstand hot product.",
+            "Hot fill: the beverage is filled hot, at about 85–95°C, so the heat of the product helps keep the bottle and closure free of microorganisms.",
+            "Heat-set: a blow molding process in which the bottle is formed against heated mold walls, which raises crystallinity and relieves stretch-induced stress so the bottle tolerates hot product.",
+            "Vacuum panels: flexible areas in the bottle wall or base that move inward as the hot product cools and contracts, so the rest of the bottle keeps its shape.",
+            "Aseptic filling: the product and the bottle are sterilized separately and filled in a sterile environment, usually at ambient temperature.",
+            "Two-step (reheat) blow molding: preforms are injection molded first, then reheated and stretch blow molded on a separate machine such as a SIDEL, KRONES or KHS blower.",
+            "One-step blow molding: the preform is injection molded and blown on the same machine, as on SIPA, ASB or AOKI systems."
           ]
         },
         {
@@ -73,9 +782,56 @@
           ]
         },
         {
+          "heading": "How the heat-set blowing cycle works",
+          "paragraphs": [
+            "The heat-set cycle follows the same basic stretch blow molding sequence as cold fill, with extra steps to stabilize the PET. The exact temperatures and timings are set by the machine maker and the bottle design, so treat the sequence below as a description, not as process settings."
+          ],
+          "steps": [
+            "The preform is reheated above the glass transition temperature of PET so that it can be stretched.",
+            "A stretch rod pushes the preform down while blowing air expands it against the cavity walls of the mold shells and base mold.",
+            "Instead of cooling the bottle at once, the heated mold walls hold the PET at an elevated temperature, which raises crystallinity and relaxes stress from stretching.",
+            "The bottle is cooled before it leaves the mold, typically by flushing air through its interior, so it keeps the shape of the cavity when released.",
+            "On the filling line the bottle is filled hot, capped and cooled; the vacuum panels absorb the volume change as the product contracts."
+          ]
+        },
+        {
           "heading": "Where a cold fill mold saves cost",
           "paragraphs": [
             "Cold fill bottles do not need the heat-set structure, so the design work focuses on using less PET. Bottle geometry and base design are matched to the preform for even wall thickness at reduced bottle weight, and integrated cooling channels keep bottle quality stable at production speed. For producers with many bottle formats, a split-type quick-change mold lets you swap only the cavity inserts and base instead of the whole mold set."
+          ]
+        },
+        {
+          "heading": "Aseptic filling: the third option",
+          "paragraphs": [
+            "Aseptic lines sterilize the product and the container separately and fill in a sterile zone, usually at ambient temperature. Because the bottle does not see hot product, it does not need a heat-set structure, and its design is closer to a cold fill bottle. LIHE builds blow molds for cold fill, hot fill and aseptic applications, so the filling method of the line, not the beverage alone, decides which mold you need."
+          ],
+          "list": [
+            "Choose cold fill for water, CSD and other products that do not need heat treatment in the bottle.",
+            "Choose hot fill when the product is filled hot at about 85–95°C, for example many juices, tea drinks and isotonic beverages.",
+            "Choose an aseptic mold when your filling line uses aseptic technology for sensitive products filled at ambient temperature."
+          ]
+        },
+        {
+          "heading": "Common problems and what usually causes them",
+          "list": [
+            "Paneling or ovalization after hot filling: the bottle design, vacuum panels or heat-set conditions do not match the filling temperature.",
+            "Shrinkage and volume loss in hot fill bottles: insufficient heat-set stabilization, so the bottle relaxes when hot product goes in.",
+            "Deformed or loose neck finish on hot fill bottles: the neck finish is not suited to hot product; some hot fill bottles use a crystallized (opaque white) neck finish for this reason.",
+            "Uneven wall thickness in cold fill bottles: the preform design and the bottle geometry are not matched, or the preform heating profile is not balanced.",
+            "Pearlescence (white haze) in the bottle wall: the PET has been stretched too far or at too low a temperature.",
+            "Incomplete details, such as soft logos or a poorly formed base: blocked or insufficient venting in the mold shells or base mold.",
+            "Stress cracking in carbonated bottle bases: base geometry and material distribution do not suit the internal pressure of the product."
+          ]
+        },
+        {
+          "heading": "Maintenance considerations for hot fill and cold fill molds",
+          "list": [
+            "Cold fill molds: keep cooling water clean and treated, because scale or corrosion in the channels reduces cooling and makes bottle quality drift.",
+            "Hot fill molds: check hot oil connections, seals and hoses regularly, and keep separate temperature control of the body and base working as designed.",
+            "Both types: clean venting slots and holes, because blocked vents cause incomplete forming and visible marks on the bottle.",
+            "Both types: protect polished cavity surfaces during cleaning and storage; scratches transfer directly to the bottle surface.",
+            "Keep spare base molds and cavity inserts for high-volume formats, so a damaged part does not stop the line.",
+            "Record mold temperature settings and bottle quality checks for each format, so a mold can be restarted quickly after a changeover."
           ]
         },
         {
@@ -85,7 +841,22 @@
             "Blow molding machine brand, model and mold carrier type (for example KHS InnoPET Blomax or Krones Contiform).",
             "Bottle drawing or sample, capacity and target bottle weight.",
             "Preform specification and neck finish, or ask us to match the preform to the bottle.",
-            "Whether you need a complete set (mold shells, base molds and neck plates) or only cavity inserts."
+            "Whether you need a complete set (mold shells, base molds and neck plates) or only cavity inserts.",
+            "Expected output and number of cavities on the blow molder, so mold shells and base molds are planned for the full set.",
+            "Any special requirements, such as a crystallized neck finish for hot fill, a quick-change mold design or rPET material trials."
+          ]
+        },
+        {
+          "heading": "LIHE blow mold capabilities relevant to this choice",
+          "list": [
+            "Two-step blow molds for SIDEL, KRONES, SIG/KHS, TECH-LONG and NEWAMSTAR machines, and one-step blow molds for SIPA, ASB and AOKI machines.",
+            "Cold fill, hot fill (about 85–95°C) and aseptic blow molds.",
+            "Cold fill mold sets for KHS InnoPET Blomax and Krones Contiform stretch blow molders.",
+            "Split-type quick-change molds that let you change only cavity inserts and base molds between formats.",
+            "Water bottle molds for common sizes such as 330ml, 500ml, 550ml and 1.5L.",
+            "Preform lightweighting proposals that reduce preform weight by 1g to 2g through neck or wall-thickness optimization.",
+            "Inspection on an in-house Zeiss CMM, with validation and inspection reports available on request.",
+            "Published lead times: pilot molds 20 days, standard PET molds 8 weeks, replacement parts 4 weeks."
           ]
         }
       ],
@@ -101,121 +872,1442 @@
         {
           "question": "Does LIHE help with bottle design?",
           "answer": "Yes. Bottle design, preform matching, lightweighting and wall thickness optimization are part of LIHE's blow mold development."
+        },
+        {
+          "question": "Why do hot fill bottles have vacuum panels?",
+          "answer": "When a hot product cools inside a closed bottle, its volume shrinks and the pressure inside drops. Vacuum panels are designed to flex inward in a controlled way, so the bottle keeps an even shape instead of collapsing or denting at random points."
+        },
+        {
+          "question": "Is aseptic filling the same as hot filling?",
+          "answer": "No. Aseptic filling sterilizes the product and the bottle separately and fills in a sterile environment, usually at ambient temperature. Hot filling uses the heat of the product, at about 85–95°C, and therefore needs a heat-set bottle."
+        },
+        {
+          "question": "How long does a new blow mold take?",
+          "answer": "LIHE's published lead times are 20 days for pilot molds, 8 weeks for standard PET molds and 4 weeks for replacement parts. The exact schedule for your project is confirmed in the quotation."
         }
       ],
-      "heroImage": {
-        "src": "/images/news/hot-fill-vs-cold-fill-pet-blow-molds-hero.webp",
-        "alt": "Opened PET blow mold halves showing a bottle cavity, lit warm and cool to contrast hot fill and cold fill"
-      },
-      "detailImage": {
-        "src": "/images/news/hot-fill-vs-cold-fill-pet-blow-molds-detail.webp",
-        "alt": "Clear PET bottles on a conveyor after stretch blow molding, including a hot fill bottle with vacuum panels"
-      },
-      "ogImage": "/images/news/hot-fill-vs-cold-fill-pet-blow-molds-hero-og.jpg"
+      "sources": [
+        {
+          "label": "Wikipedia — Blow molding",
+          "url": "https://en.wikipedia.org/wiki/Blow_molding"
+        },
+        {
+          "label": "Wikipedia — Polyethylene terephthalate",
+          "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate"
+        },
+        {
+          "label": "Wikipedia — Glass transition",
+          "url": "https://en.wikipedia.org/wiki/Glass_transition"
+        },
+        {
+          "label": "KHS — official website",
+          "url": "https://www.khs.com/en/"
+        },
+        {
+          "label": "Sidel — official website",
+          "url": "https://www.sidel.com/en"
+        }
+      ]
     },
     {
-      "slug": "compression-vs-injection-molding-for-plastic-closures",
+      "slug": "increasing-cavitation-on-existing-pet-preform-mold",
       "date": "2026-10-13",
       "category": "Technical Insights",
-      "title": "Compression vs Injection Molding for Plastic Closures: A Practical Comparison",
-      "summary": "Plastic caps can be made by compression molding or by injection molding. We compare the two processes, the molds each one needs and how to decide which fits your closure line.",
+      "title": "We Need to Increase Cavitation on an Existing PET Preform Mold—What's the Best Way to Upgrade It?",
+      "summary": "How to raise the cavity count of an existing PET preform mold: checking machine limits, choosing between re-cavitating the mold, building a new mold base and hot runner around reused stack parts, or ordering a new mold, plus a step-by-step plan and common problems after the upgrade.",
+      "heroImage": {
+        "src": "/images/news/increasing-cavitation-on-existing-pet-preform-mold-hero.webp",
+        "alt": "Large steel mold base with many evenly spaced cavity bores on a CNC machining center table"
+      },
+      "detailImage": {
+        "src": "/images/news/increasing-cavitation-on-existing-pet-preform-mold-detail.webp",
+        "alt": "Coordinate measuring machine probe inspecting a machined mold plate with a grid of cavity bores"
+      },
+      "ogImage": "/images/news/increasing-cavitation-on-existing-pet-preform-mold-hero-og.jpg",
       "relatedProducts": [
-        21,
-        20,
-        27
+        19,
+        27,
+        30
       ],
       "sections": [
         {
-          "heading": "What is compression molding for closures?",
+          "heading": "What is the best way to increase cavitation on an existing preform mold?",
           "paragraphs": [
-            "In closure compression molding, each cavity receives an exact-weight pellet of melted resin, which is then formed into a cap under high pressure. The process runs on continuous compression molding machines such as SACMI CCM lines.",
-            "Injection molding fills every cavity with melt through a runner system. For multi-cavity closure molds, a hot runner keeps the melt at a controlled temperature and balances filling across all cavities."
+            "Cavitation is the number of cavities in a mold, which means the number of preforms produced in each shot. The best way to increase it depends first on the injection molding machine: if clamp force, shot capacity, platen space, post-mold cooling and auxiliary equipment can handle more cavities, the usual route is a new mold base and a new, balanced hot runner, reusing stack components (cores, cavities, neck rings) where the preform design stays the same.",
+            "Adding cavities inside the original mold plates is rarely possible, because the plates, cooling layout and hot runner manifold are designed for a fixed pitch and cavity count. If the machine itself is the limit, more cavities on the same machine will not work, and the decision becomes a question of a larger machine or a second line."
           ]
         },
         {
-          "heading": "Why compression molding runs faster",
-          "paragraphs": [
-            "Because compression molding works at a lower processing temperature, the cap needs less cooling time. Shorter cooling means shorter cycles, higher output and lower energy use per cap than conventional injection."
+          "heading": "Key numbers for a cavitation upgrade",
+          "list": [
+            "LIHE preform molds are built from 2 to 160 cavities.",
+            "LIHE mold bases are made for preform molds up to 160 cavities, machined on Mazak, Makino and Haas, ground on Okamoto and verified on a Zeiss CMM.",
+            "LIHE valve gate hot runners are available for up to 144 preform cavities, with a 3-year leakage-proof guarantee on the Husky Ultra-type design.",
+            "Published lead times: pilot molds 20 days, standard PET molds 8 weeks, replacement parts 4 weeks.",
+            "Over 12,000 cavities are produced per year at LIHE."
           ]
         },
         {
-          "heading": "Compression vs injection closure molds compared",
+          "heading": "Upgrade options compared",
           "table": {
             "head": [
-              "",
-              "Compression mold",
-              "Injection closure mold"
+              "Option",
+              "What changes",
+              "What can be reused",
+              "When it fits"
             ],
             "rows": [
               [
-                "How the cavity is filled",
-                "Exact-weight pellet of melted resin, formed under high pressure",
-                "Melt injected through a runner or hot runner system"
+                "Re-cavitate in existing plates",
+                "New cavity bores and cooling in the old plates, new manifold",
+                "Mold base frame, sometimes stack parts",
+                "Rare; only if the plates have enough space and the pitch allows it"
               ],
               [
-                "Processing temperature",
-                "Lower, so cooling time is shorter",
-                "Higher melt temperature"
+                "New mold base and hot runner, reused stack",
+                "New plates, cooling layout and balanced hot runner",
+                "Cores, cavities, neck rings, gate inserts in good condition",
+                "Same preform design, machine has spare capacity"
               ],
               [
-                "Typical machines",
-                "SACMI CCM continuous compression molding lines",
-                "Mainstream closure injection molding machines"
+                "Complete new mold",
+                "Everything",
+                "Nothing, or only spare parts",
+                "Old stack is worn or preform design changes"
               ],
               [
-                "Cavitation (LIHE range)",
-                "Matched to the SACMI CCM platform",
-                "12 to 72 cavities; closure hot runners up to 96 cavities"
-              ],
-              [
-                "Cap types",
-                "One-piece and two-piece, tamper-evident band, EU tethered caps",
-                "One-piece and two-piece, tamper-evident band, EU tethered caps"
+                "New mold with preform redesign",
+                "Everything, plus new preform geometry",
+                "Nothing",
+                "You also want lightweighting or a new neck finish"
               ]
             ]
           }
         },
         {
-          "heading": "Neck finishes and applications",
+          "heading": "Check the machine and line capacity first",
           "list": [
-            "Neck finishes: 26mm, 28mm, 2925, 3025, 38mm and custom specifications.",
-            "Applications: water, juice and tea drinks, edible oil, condiments and soy sauce, cosmetics, health-care products, pharmaceuticals and food packaging.",
-            "EU tethered caps: both compression and injection closure molds can be built for tethered cap designs."
+            "Clamp force: more cavities increase the projected area and the clamp force needed to keep the mold closed.",
+            "Shot size and plasticizing rate: the extruder must melt more PET per cycle without raising melt temperature and AA.",
+            "Platen and tie-bar space: the larger mold must fit between the tie bars and on the platens, including the hot runner and water connections.",
+            "Mold height and opening stroke: confirm the new stack height and the stroke needed for ejection.",
+            "Post-mold cooling and take-out plate: the robot or take-out plate must have matching positions for every new cavity.",
+            "Hot runner controller: one zone per drop plus manifold zones; the controller may need more zones.",
+            "Chiller, dryer and material handling: water flow, cooling capacity and dried-resin throughput rise with cavitation.",
+            "Downstream capacity: blow molders, conveyors and packing must absorb the extra preforms."
           ]
         },
         {
-          "heading": "How to decide",
+          "heading": "What to prepare before you request a proposal",
+          "list": [
+            "Machine brand, model, clamp force, tie-bar spacing, platen drawing and screw size.",
+            "The current mold drawings, cavity count, pitch and the hot runner make and model.",
+            "The preform drawing, weight and neck finish, and whether any of these should change.",
+            "The condition of the existing stack components: shot count, wear, and recent inspection results.",
+            "Take-out plate and post-mold cooling details, and the hot runner controller zone count.",
+            "Target output per hour and the current cycle time, so that the new cavitation can be compared with the alternatives."
+          ]
+        },
+        {
+          "heading": "Step-by-step: upgrading cavitation",
           "steps": [
-            "Start from your machines: compression tooling is built for SACMI CCM lines, while injection molds run on closure injection molding machines.",
-            "Look at volume and energy cost: high-volume lines benefit most from the shorter cycles and lower energy per cap of compression molding.",
-            "Confirm the cap design: one-piece or two-piece, tamper-evident band, tethered cap and neck finish.",
-            "For an existing line, send your current parts or drawings; replacement compression tooling can be made from existing parts."
+            "Audit the machine and line capacity against the target cavitation and decide whether the current machine can run it.",
+            "Inspect the existing stack components and decide which can be reused; measure critical dimensions on a CMM.",
+            "Choose the upgrade option: new mold base and hot runner around reused parts, or a complete new mold.",
+            "Design the new cavity layout and pitch, the cooling circuits and a naturally balanced hot runner, and check them with flow analysis.",
+            "Confirm interfaces: take-out plate positions, hot runner controller zones, water manifolds and machine connections.",
+            "Manufacture the mold base and hot runner, refurbish reused stack parts and inspect every component.",
+            "Assemble and test the mold, then run a trial to check weight balance, preform quality and cycle time on every cavity.",
+            "Install and start up on the production machine, and validate the process with per-cavity data before full production."
+          ]
+        },
+        {
+          "heading": "Hot runner and balance considerations",
+          "list": [
+            "Every additional cavity adds a drop to the manifold; flow paths to each drop must have the same length and pressure drop for equal fill.",
+            "A naturally balanced layout is preferred to one that relies on temperature tuning to compensate for unequal flow paths.",
+            "More cavities mean more heater zones and thermocouples, so plan the controller and wiring as part of the upgrade.",
+            "Valve gates give consistent gate quality across many cavities; check that valve actuation is synchronised across the whole layout.",
+            "A larger manifold holds more melt; keep residence time in mind, because longer residence raises AA."
+          ]
+        },
+        {
+          "heading": "Common problems after a cavitation upgrade",
+          "table": {
+            "head": [
+              "Problem",
+              "Likely cause",
+              "What to check or change"
+            ],
+            "rows": [
+              [
+                "Weight imbalance between cavities",
+                "Unbalanced manifold or uneven zone temperatures",
+                "Check zone temperatures; verify the manifold design is naturally balanced"
+              ],
+              [
+                "Short shots in outer cavities",
+                "Longer flow path or cold manifold zones",
+                "Inspect heaters and thermocouples; review flow analysis"
+              ],
+              [
+                "Longer cycle than expected",
+                "Chiller or water flow too small for the larger mold",
+                "Measure flow per circuit; upgrade chiller or water supply"
+              ],
+              [
+                "Flash at neck rings",
+                "Clamp force too low for the new projected area",
+                "Check clamp force against the mold requirement"
+              ],
+              [
+                "Wall eccentricity in some cavities",
+                "Reused cores or tapers worn, misalignment",
+                "Measure reused parts; replace worn components"
+              ],
+              [
+                "Higher AA",
+                "Larger manifold volume and longer residence time",
+                "Lower melt temperature; check shot size versus barrel"
+              ],
+              [
+                "Preforms dropped or damaged at take-out",
+                "Take-out plate not matched to the new layout",
+                "Confirm take-out plate positions and timing"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Advanced tips",
+          "list": [
+            "Combine the cavitation upgrade with lightweighting: LIHE proposals reduce preform weight by 1 g to 2 g through neck or wall-thickness optimization.",
+            "Use the redesign to improve cooling; optimized cooling can reduce neck cooling time by up to 0.5 s.",
+            "Consider a neck finish conversion at the same time if the market is moving to a lighter finish such as PCO 1881 or 29/25.",
+            "Test a new preform design with a pilot mold first; pilot molds have a 20-day lead time.",
+            "Specify capability targets in the order; LIHE tooling consistently achieves CPK ≥ 1.33.",
+            "Plan the change around downtime: a standard PET mold has an 8-week lead time, so order before the peak season."
+          ]
+        },
+        {
+          "heading": "Related concepts",
+          "list": [
+            "Pitch: the center-to-center distance between cavities, which limits how many cavities fit on a plate.",
+            "Projected area: the area of all cavities and runners seen from the clamp direction, which drives required clamp force.",
+            "Stack components: the core, cavity, neck rings and gate insert that form one preform.",
+            "Naturally balanced hot runner: a manifold in which every drop has the same flow length and geometry.",
+            "Coordinate measuring machine (CMM): a device that measures geometry with a probe to verify parts against the drawing."
+          ]
+        },
+        {
+          "heading": "How LIHE supports cavitation upgrades",
+          "list": [
+            "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China.",
+            "Engineering and design center with CAD/CAM, 3D simulation and flow analysis before production.",
+            "Project retrofitting: complete mold overhauls and performance upgrades to restore aging assets to OEM-level efficiency.",
+            "Conversion parts that are 100% interchangeable with Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps and Corvaglia systems.",
+            "Molds for HUSKY, NETSTAL, SACMI, SIPA, Milacron and other machines, with on-site installation and start-up support."
           ]
         }
       ],
       "faq": [
         {
-          "question": "Can LIHE make replacement tooling for an existing SACMI compression line?",
-          "answer": "Yes. Replacement compression tooling — punches, dies, cores, cooling inserts and wear parts — can be made from your existing parts and is machined and inspected in-house."
+          "question": "Can we just add cavities to our existing mold plates?",
+          "answer": "Rarely. The plates, cooling layout and manifold are designed for a fixed pitch and cavity count. In most cases a new mold base and hot runner are needed, and stack parts in good condition can be reused."
         },
         {
-          "question": "How many cavities can a LIHE closure injection mold have?",
-          "answer": "LIHE closure injection molds are available from 12 to 72 cavities, and closure hot runner systems support up to 96 cavities."
+          "question": "Can we reuse our existing cores, cavities and neck rings?",
+          "answer": "Yes, if the preform design stays the same and the parts pass inspection. Worn parts should be refurbished or replaced, because they cause flash and wall eccentricity in the new mold."
         },
         {
-          "question": "Do LIHE closure molds support EU tethered caps?",
-          "answer": "Yes. Both compression molds and closure injection molds can be built for EU tethered cap designs, as well as one-piece and two-piece caps with tamper-evident bands."
+          "question": "How do we know if our machine can handle more cavities?",
+          "answer": "Check clamp force, shot size and plasticizing rate, tie-bar spacing, mold height, take-out plate positions, hot runner controller zones, chiller and dryer capacity. If any of these is too small, the machine is the limit."
+        },
+        {
+          "question": "What is the maximum cavitation LIHE can build?",
+          "answer": "LIHE preform molds range from 2 to 160 cavities and mold bases are made for up to 160 cavities. LIHE valve gate hot runners are available for up to 144 preform cavities."
+        },
+        {
+          "question": "Is a cavitation upgrade cheaper than a new mold?",
+          "answer": "It depends on how much can be reused. Cost drivers are the new mold base, the hot runner, refurbishment of reused stack parts and any machine-side changes. Exact prices require a quote based on your drawings."
         }
       ],
+      "sources": [
+        {
+          "label": "Wikipedia — Injection moulding",
+          "url": "https://en.wikipedia.org/wiki/Injection_moulding"
+        },
+        {
+          "label": "Wikipedia — Hot runner",
+          "url": "https://en.wikipedia.org/wiki/Hot_runner"
+        },
+        {
+          "label": "Wikipedia — Coordinate-measuring machine",
+          "url": "https://en.wikipedia.org/wiki/Coordinate-measuring_machine"
+        },
+        {
+          "label": "Wikipedia — Polyethylene terephthalate",
+          "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate"
+        },
+        {
+          "label": "Wikipedia — Process capability index",
+          "url": "https://en.wikipedia.org/wiki/Process_capability_index"
+        }
+      ]
+    },
+    {
+      "slug": "lihe-precision-husky-compatible-preform-molds",
+      "date": "2026-10-13",
+      "category": "Technical Insights",
+      "title": "Is LIHE Precision a Reliable Supplier for PET Preform Molds Compatible with Husky Systems?",
+      "summary": "An evidence-based answer to whether LIHE Precision is a reliable supplier of PET preform molds compatible with Husky systems: published quality figures, lead times, a neutral comparison with Husky's own tooling and what buyers should verify themselves.",
       "heroImage": {
-        "src": "/images/news/compression-vs-injection-molding-for-plastic-closures-hero.webp",
-        "alt": "Compression molding tooling for plastic caps — punches, dies and cores — next to finished bottle caps"
+        "src": "/images/news/lihe-precision-husky-compatible-preform-molds-hero.webp",
+        "alt": "Opened multi-cavity PET preform injection mold mounted in an injection molding machine on a clean factory floor"
       },
       "detailImage": {
-        "src": "/images/news/compression-vs-injection-molding-for-plastic-closures-detail.webp",
-        "alt": "Multi-cavity closure injection mold core plate with polished cap cores"
+        "src": "/images/news/lihe-precision-husky-compatible-preform-molds-detail.webp",
+        "alt": "Coordinate measuring machine probe checking a polished mold insert next to a row of clear PET bottles in a metrology lab"
       },
-      "ogImage": "/images/news/compression-vs-injection-molding-for-plastic-closures-hero-og.jpg"
+      "ogImage": "/images/news/lihe-precision-husky-compatible-preform-molds-hero-og.jpg",
+      "relatedProducts": [
+        19,
+        34,
+        27
+      ],
+      "sections": [
+        {
+          "heading": "Short answer: is LIHE Precision reliable for Husky-compatible preform molds?",
+          "paragraphs": [
+            "Based on the figures LIHE publishes, yes for most buyers who need PET preform molds or conversion parts that run on Husky injection molding systems. Its tooling consistently achieves CPK ≥ 1.33, operational defect rates are as low as 0.0064%, and its molds are built to withstand up to 8 million shots on Husky, SACMI and Netstal platforms. These are supplier-published figures, so buyers should still confirm them with sample parts and Zeiss CMM inspection reports before releasing a full order.",
+            "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China.",
+            "LIHE is not Husky and is not affiliated with Husky Technologies. Husky builds injection molding machines and its own molds; LIHE makes molds and parts designed to be compatible with those machines."
+          ]
+        },
+        {
+          "heading": "What LIHE Precision makes for Husky-platform lines",
+          "list": [
+            "PET preform molds from 2 to 160 cavities, for HUSKY, NETSTAL, SACMI, SIPA, Milacron and other machines.",
+            "Conversion parts designed to be 100% interchangeable with Husky systems, as well as SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps and Corvaglia systems.",
+            "Replacement parts made from the customer's existing Husky parts, so the new parts follow the geometry that already runs in the plant.",
+            "Valve-gate hot runners of a Husky Ultra-type design, up to 144 cavities for preforms, with a 3-year leakage-proof guarantee.",
+            "Hot runner spares and service: replacement nozzle tips, valve pins, heaters and seals, plus refurbishment of existing hot runners.",
+            "Neck finishes including PCO 1881, PCO 1810, 1716, 3025, 2925, 2622, 2522, 38mm, 45mm, 68mm, 80mm, 90mm wide-mouth, ROPP and custom designs.",
+            "Lightweighting and cooling work: preform weight reductions of 1g to 2g through neck or wall-thickness optimization, and neck cooling time reductions of up to 0.5 seconds through optimized cooling.",
+            "Mold bases machined on Mazak, Makino and Haas, ground on Okamoto and verified on a Zeiss CMM, for preform molds up to 160 cavities."
+          ],
+          "paragraphs": [
+            "Manufacturing is located in Shishan Town, Nanhai District, Foshan, Guangdong, China, with a sales office in Taiwan. LIHE reports more than 12,000 cavities produced per year."
+          ]
+        },
+        {
+          "heading": "Key numbers from LIHE's published data",
+          "table": {
+            "head": [
+              "Metric",
+              "Published value",
+              "Where LIHE states it"
+            ],
+            "rows": [
+              [
+                "Process capability",
+                "CPK ≥ 1.33",
+                "lihe-preform.com, Why Choose LIHE"
+              ],
+              [
+                "Operational defect rate",
+                "As low as 0.0064%",
+                "lihe-preform.com, Why Choose LIHE"
+              ],
+              [
+                "Mold life on Husky/SACMI/Netstal platforms",
+                "Up to 8 million shots",
+                "lihe-preform.com, Why Choose LIHE"
+              ],
+              [
+                "Preform mold cavitation",
+                "2 to 160 cavities",
+                "lihe-preform.com, products"
+              ],
+              [
+                "Annual cavity output",
+                "Over 12,000 cavities per year",
+                "lihe-preform.com, products"
+              ],
+              [
+                "Hot runner guarantee",
+                "3-year leakage-proof guarantee",
+                "lihe-preform.com, products"
+              ],
+              [
+                "Pilot mold lead time",
+                "20 days",
+                "lihe-preform.com, home page"
+              ],
+              [
+                "Standard PET mold lead time",
+                "8 weeks",
+                "lihe-preform.com, home page"
+              ],
+              [
+                "Replacement parts lead time",
+                "4 weeks",
+                "lihe-preform.com, home page"
+              ],
+              [
+                "Facility",
+                "15,000 sqm, over 10,000 sqm climate-controlled",
+                "lihe-preform.com, factory"
+              ],
+              [
+                "Experience and reach",
+                "20+ years; customers in 50+ countries",
+                "lihe-preform.com, about"
+              ]
+            ]
+          },
+          "paragraphs": [
+            "All values were taken from lihe-preform.com and checked on 13 October 2026. Prices are not published and require a quote."
+          ]
+        },
+        {
+          "heading": "What the evidence says about reliability",
+          "list": [
+            "Process capability: a CPK of 1.33 means the nearest specification limit sits four standard deviations from the process mean, a common minimum for production tooling.",
+            "Defect rate: 0.0064% equals about 64 defective parts per million, as published by LIHE for its operations.",
+            "Durability: molds are built to withstand up to 8 million shots on Husky, SACMI and Netstal platforms.",
+            "Measurement: an in-house Zeiss CMM lab, a 3D profile scanner, an optical projector and bottle sample inspection; validation and inspection reports are supplied on request.",
+            "Third-party verification: LIHE is a Coca-Cola verified mold supplier in the Asia region. This is a supplier verification status; Coca-Cola does not own or operate LIHE.",
+            "Predictable timing: published lead times of 20 days for pilot molds, 8 weeks for standard PET molds and 4 weeks for replacement parts.",
+            "After-sales: on-site machine interface audits, mold installation, machine start-up support, preventive maintenance, remote troubleshooting and mold refurbishment programs."
+          ]
+        },
+        {
+          "heading": "The honest limits buyers should know",
+          "list": [
+            "No published prices: every mold, hot runner or retrofit is quoted individually.",
+            "Supplier-published figures: the CPK, defect-rate and shot-life numbers come from LIHE itself, not from an independent audit. Verify them with sample preforms, dimensional reports and your own acceptance criteria.",
+            "LIHE is not the machine OEM: your agreements for the Husky machine itself remain with Husky. Check how third-party tooling interacts with any machine service contract you hold.",
+            "Cycle times are not published in seconds: they depend on the preform design, resin, cavitation and machine, so they should be agreed per project.",
+            "Certificates are not covered here: if your procurement process requires specific certificates, request the documents directly before ordering."
+          ]
+        },
+        {
+          "heading": "LIHE vs Husky's own PET tooling: a neutral comparison",
+          "paragraphs": [
+            "This article is published by LIHE. Husky data below comes only from Husky's official PET tooling page on husky.co; LIHE data comes from lihe-preform.com. The two companies publish different metrics, so some rows are not directly comparable."
+          ],
+          "table": {
+            "head": [
+              "",
+              "LIHE Precision (third-party tooling)",
+              "Husky PET tooling (machine OEM)"
+            ],
+            "rows": [
+              [
+                "Relationship to the machine",
+                "Independent mold maker; tooling designed to be compatible with Husky systems",
+                "Builds the injection molding machines and the molds"
+              ],
+              [
+                "Preform mold cavitation",
+                "2 to 160 cavities",
+                "2 to 200 cavities"
+              ],
+              [
+                "Published durability figure",
+                "Built to withstand up to 8 million shots",
+                "Self-cleaning technology extends maintenance intervals up to 500,000 cycles"
+              ],
+              [
+                "Hot runners",
+                "Husky Ultra-type valve-gate design, 3-year leakage-proof guarantee",
+                "Ultra hot runner systems"
+              ],
+              [
+                "Mold-to-machine connectivity",
+                "Not stated",
+                "Mold ID connectivity that optimizes processing parameters"
+              ],
+              [
+                "Conversions and refurbishment",
+                "Conversion parts, neck finish conversions, lightweighting by 1g to 2g, retrofits at 25%–40% of a new mold price",
+                "Mold conversions for weight-saving designs and express refurbishment services"
+              ],
+              [
+                "Recycled content",
+                "rPET material trials",
+                "Handles up to 100% recycled content"
+              ],
+              [
+                "Prices",
+                "Quote only",
+                "Not published on the cited page"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Who LIHE is a fit for",
+          "list": [
+            "Preform producers running Husky machines who need replacement molds or parts made from their existing Husky parts.",
+            "Plants with mixed fleets (Husky, SACMI, SIPA, NETSTAL and others) that want one tooling supplier for several platforms.",
+            "Buyers planning neck finish conversions or lightweighting of 1g to 2g per preform on existing molds.",
+            "Teams with a retrofit budget: retrofitting an existing mold for lightweighting costs 25%–40% of a new mold price, according to LIHE.",
+            "Projects that need a pilot mold quickly, with a published lead time of 20 days."
+          ]
+        },
+        {
+          "heading": "Who LIHE is not a fit for",
+          "list": [
+            "Buyers who require a single OEM to be responsible for machine, mold and controls together.",
+            "Projects that depend on OEM-specific features such as Husky's Mold ID mold-to-machine connectivity.",
+            "Preform molds above 160 cavities, which is outside LIHE's published range.",
+            "Buyers who need a published price list before the first contact; LIHE quotes per project."
+          ]
+        },
+        {
+          "heading": "How to start a project with LIHE",
+          "steps": [
+            "Send the machine model, current mold details, neck finish, cavitation and sample preforms or drawings to sales@lihe-preform.com or +886 938 198 675 (also WhatsApp).",
+            "Review the engineering proposal: LIHE's design center uses CAD/CAM, 3D simulation and flow analysis before production.",
+            "Agree on the scope, quotation and lead time: 20 days for a pilot mold, 8 weeks for a standard PET mold, 4 weeks for replacement parts.",
+            "Define acceptance criteria and request Zeiss CMM inspection and validation reports for critical dimensions.",
+            "Plan installation: LIHE's technical team offers on-site machine interface audits, mold installation and start-up support.",
+            "Set up preventive maintenance, spare parts supply and a refurbishment plan for the life of the mold."
+          ]
+        },
+        {
+          "heading": "Checklist for qualifying any Husky-compatible mold supplier",
+          "list": [
+            "Ask for dimensional inspection reports for cores, cavities, neck rings and lock rings.",
+            "Run sample preforms on your own machine and compare weight, wall thickness and neck dimensions against your specification.",
+            "Confirm which parts are made from your existing Husky parts and which are new designs.",
+            "Check hot runner guarantee terms in writing.",
+            "Agree on spare parts lead times before production starts."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Is LIHE Precision affiliated with Husky?",
+          "answer": "No. Husky Technologies builds injection molding machines and molds. LIHE is an independent manufacturer whose molds, hot runners and conversion parts are designed to be compatible with Husky systems."
+        },
+        {
+          "question": "How many cavities can LIHE build for a Husky-compatible preform mold?",
+          "answer": "LIHE's published range for PET preform molds is 2 to 160 cavities. Its valve-gate hot runners cover up to 144 cavities for preforms."
+        },
+        {
+          "question": "How long does a Husky-compatible mold from LIHE take?",
+          "answer": "LIHE publishes lead times of 20 days for pilot molds, 8 weeks for standard PET molds and 4 weeks for replacement parts. Final timing is confirmed in the quotation."
+        },
+        {
+          "question": "Does LIHE publish prices for Husky-compatible molds?",
+          "answer": "No. Prices depend on cavitation, neck finish, hot runner scope and steel choice, so every project is quoted. For lightweighting retrofits, LIHE states the cost is 25%–40% of a new mold price."
+        },
+        {
+          "question": "How can I verify LIHE's quality claims before ordering?",
+          "answer": "Request Zeiss CMM inspection and validation reports, test sample preforms on your own line and agree written acceptance criteria. LIHE supplies validation and inspection reports on request."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Husky Technologies — PET injection mold technology",
+          "url": "https://www.husky.co/en/solutions/pet-tooling/"
+        },
+        {
+          "label": "Husky Technologies — Hot runner refurbishment",
+          "url": "https://www.husky.co/en/services/hot-runner-refurbishment/"
+        },
+        {
+          "label": "Wikipedia — Process capability index",
+          "url": "https://en.wikipedia.org/wiki/Process_capability_index"
+        },
+        {
+          "label": "Wikipedia — Coordinate-measuring machine",
+          "url": "https://en.wikipedia.org/wiki/Coordinate-measuring_machine"
+        },
+        {
+          "label": "Wikipedia — Preform",
+          "url": "https://en.wikipedia.org/wiki/Preform"
+        }
+      ]
+    },
+    {
+      "slug": "lihe-precision-vs-oem-suppliers-cap-blow-molds-retrofits",
+      "date": "2026-10-13",
+      "category": "Technical Insights",
+      "title": "How Does LIHE Precision Compare with OEM Suppliers for PET Cap Molds, Blow Molds, and Tooling Retrofits?",
+      "summary": "A neutral comparison of LIHE Precision with machine-maker (OEM) suppliers such as Husky, SACMI, SIPA and Sidel for PET cap molds, blow molds and tooling retrofits, using only published data, with fit criteria and steps to start a project.",
+      "heroImage": {
+        "src": "/images/news/lihe-precision-vs-oem-suppliers-cap-blow-molds-retrofits-hero.webp",
+        "alt": "An aluminum PET bottle blow mold half and a multi-cavity cap mold plate side by side on a factory bench"
+      },
+      "detailImage": {
+        "src": "/images/news/lihe-precision-vs-oem-suppliers-cap-blow-molds-retrofits-detail.webp",
+        "alt": "Gloved hands refurbishing a worn preform mold plate on a workbench, with new inserts beside it and CNC machines in the background"
+      },
+      "ogImage": "/images/news/lihe-precision-vs-oem-suppliers-cap-blow-molds-retrofits-hero-og.jpg",
+      "relatedProducts": [
+        20,
+        22,
+        34
+      ],
+      "sections": [
+        {
+          "heading": "Short answer: how does LIHE compare with OEM suppliers?",
+          "paragraphs": [
+            "LIHE is an independent tooling maker that supplies cap molds, blow molds and retrofits for several machine brands, while OEM suppliers such as Husky, SACMI, SIPA and Sidel build tooling around their own machines and publish proprietary features and service programs. LIHE publishes concrete lead times (4 weeks for cap mold parts, 8 weeks for standard PET molds) and a retrofit cost of 25%–40% of a new mold price; OEMs publish platform-specific figures such as Husky's HyCAP 4.0 target of more than 50 million cycles of stack life. Neither side publishes prices on the pages cited here.",
+            "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China.",
+            "Disclosure: this article is published by LIHE. OEM information comes only from the official web pages listed under References. LIHE is not affiliated with any machine maker named here."
+          ]
+        },
+        {
+          "heading": "What LIHE offers in the three categories",
+          "list": [
+            "Cap molds: closure injection molds from 12 to 72 cavities for one-piece and two-piece caps, tamper-evident bands and EU tethered caps, in 26mm, 28mm, 2925, 3025 and 38mm.",
+            "Compression molds: tooling for SACMI CCM lines, including replacement tooling made from existing parts.",
+            "Blow molds for two-step machines: SIDEL, KRONES, SIG/KHS, TECH-LONG and NEWAMSTAR, including KHS InnoPET Blomax and Krones Contiform cold fill sets.",
+            "Blow molds for one-step machines: SIPA, ASB and AOKI.",
+            "Blow mold applications: cold fill, hot fill at about 85–95°C and aseptic, plus split-type quick-change molds and water bottles of 330ml, 500ml, 550ml and 1.5L.",
+            "Retrofits: complete mold overhauls and performance upgrades to restore aging assets to OEM-level efficiency, neck finish conversions, lightweighting of 1g to 2g and cooling optimization that can cut neck cooling time by up to 0.5 seconds."
+          ]
+        },
+        {
+          "heading": "Key numbers from LIHE's published data",
+          "table": {
+            "head": [
+              "Metric",
+              "Published value",
+              "Where LIHE states it"
+            ],
+            "rows": [
+              [
+                "Closure injection mold cavitation",
+                "12 to 72 cavities",
+                "lihe-preform.com, products"
+              ],
+              [
+                "Closure hot runner capacity",
+                "Up to 96 cavities",
+                "lihe-preform.com, products"
+              ],
+              [
+                "Cap mold parts lead time",
+                "4 weeks",
+                "lihe-preform.com, home page"
+              ],
+              [
+                "Standard PET mold lead time",
+                "8 weeks",
+                "lihe-preform.com, home page"
+              ],
+              [
+                "Lightweighting retrofit cost",
+                "25%–40% of a new mold price",
+                "lihe-preform.com, home page"
+              ],
+              [
+                "Preform weight reduction",
+                "1g to 2g",
+                "lihe-preform.com, home page"
+              ],
+              [
+                "Neck cooling time reduction",
+                "Up to 0.5 seconds",
+                "lihe-preform.com, home page"
+              ],
+              [
+                "Process capability",
+                "CPK ≥ 1.33",
+                "lihe-preform.com, Why Choose LIHE"
+              ],
+              [
+                "Operational defect rate",
+                "As low as 0.0064%",
+                "lihe-preform.com, Why Choose LIHE"
+              ],
+              [
+                "Hot runner guarantee",
+                "3-year leakage-proof guarantee",
+                "lihe-preform.com, products"
+              ]
+            ]
+          },
+          "paragraphs": [
+            "Values checked on lihe-preform.com on 13 October 2026."
+          ]
+        },
+        {
+          "heading": "Cap molds: LIHE vs OEM closure tooling",
+          "table": {
+            "head": [
+              "",
+              "LIHE Precision",
+              "Husky HyCAP 4.0 (official page)",
+              "SACMI compression (official page)"
+            ],
+            "rows": [
+              [
+                "Process",
+                "Injection closure molds; compression molds for SACMI CCM lines",
+                "Injection closure molds for HyCAP systems",
+                "Continuous compression molding (CCM)"
+              ],
+              [
+                "Cavitation or capacity",
+                "12 to 72 cavities; closure hot runners up to 96 cavities",
+                "Not stated on the cited page",
+                "Mold pressure up to 400 kg/cm2"
+              ],
+              [
+                "Formats",
+                "One-piece and two-piece caps, tamper-evident bands, EU tethered caps; 26mm, 28mm, 2925, 3025, 38mm",
+                "Tethered, ultra-lightweight and standard closures within the same mold",
+                "Caps and closures produced by compression"
+              ],
+              [
+                "Published life or maintenance figure",
+                "Not stated for closure molds",
+                "Targets stack life above 50 million cycles; full mold cleaning interval up to 10 million cycles",
+                "Independent molds replaced individually while the machine runs"
+              ],
+              [
+                "Spare parts",
+                "Cap mold parts in 4 weeks",
+                "Not stated on the cited page",
+                "Not stated on the cited page"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Blow molds: LIHE vs OEM blow mold suppliers",
+          "table": {
+            "head": [
+              "",
+              "LIHE Precision",
+              "SIPA (official page)",
+              "Sidel (official page)"
+            ],
+            "rows": [
+              [
+                "Machine coverage",
+                "Two-step SIDEL, KRONES, SIG/KHS, TECH-LONG, NEWAMSTAR; one-step SIPA, ASB, AOKI",
+                "Fits most major brands of reheat stretch blow molders",
+                "Sidel moulds, engineered and certified by Sidel experts for any production speed"
+              ],
+              [
+                "Applications",
+                "Cold fill, hot fill (about 85–95°C), aseptic",
+                "Beverage, food and non-food containers in any shape",
+                "All PET applications, plus line conversion to new formats"
+              ],
+              [
+                "Mold design features",
+                "Split-type quick-change molds",
+                "Aluminum and stainless steel molds; patented XVENT venting to reduce blow pressure; quick-change shell molds",
+                "Packaging design and mould design combined with line conversion"
+              ],
+              [
+                "Published scale or experience",
+                "20+ years; customers in 50+ countries",
+                "Not stated as a number on the cited page",
+                "Over 40 years of PET experience; 200 mould and line conversion specialists"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Tooling retrofits: LIHE vs OEM refurbishment programs",
+          "table": {
+            "head": [
+              "",
+              "LIHE Precision",
+              "Husky (official pages)",
+              "SIPA (official page)"
+            ],
+            "rows": [
+              [
+                "Scope",
+                "Mold overhauls and upgrades, neck finish conversions, lightweighting, hot runner refurbishment",
+                "Mold conversions for weight-saving designs, express refurbishment, hot runner refurbishment",
+                "Mold conversion, refurbishment, mold audits, hot runner refurbishment"
+              ],
+              [
+                "Published figures",
+                "Lightweighting retrofit at 25%–40% of a new mold price; 1g to 2g lighter preforms",
+                "Express refurbishment reduces downtime from weeks to hours",
+                "LongLife extends cold-half life up to 12 million cycles before first maintenance"
+              ],
+              [
+                "Brands covered",
+                "Conversion parts for Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps, Corvaglia",
+                "Husky equipment",
+                "SIPA tooling; hot runners of any generation, Solid Skirt or Ultra design"
+              ],
+              [
+                "Where the work is done",
+                "LIHE factory in Foshan, plus on-site support",
+                "Not stated on the cited page",
+                "On site or in SIPA service centers"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Evidence and honest limits",
+          "list": [
+            "LIHE's tooling consistently achieves CPK ≥ 1.33, with operational defect rates as low as 0.0064%, according to LIHE.",
+            "An in-house Zeiss CMM lab, 3D profile scanner, optical projector and bottle sample inspection support quality control; reports are supplied on request.",
+            "LIHE is a Coca-Cola verified mold supplier in the Asia region; Coca-Cola does not own or operate LIHE.",
+            "Limit: all figures in this article are self-published by each company and use different metrics; they are not results of a side-by-side test.",
+            "Limit: LIHE is not a machine OEM and cannot offer OEM-only features such as integrated machine connectivity or single-source machine warranties.",
+            "Limit: no prices are published by LIHE or on the OEM pages cited; request quotes from each supplier for the same specification."
+          ]
+        },
+        {
+          "heading": "Who LIHE is a fit for",
+          "list": [
+            "Converters running several machine brands who want one tooling supplier for caps, blow molds and conversion parts.",
+            "Bottlers planning lightweighting or a neck finish change on existing tooling, where a retrofit at 25%–40% of a new mold price is an option.",
+            "Cap producers who need EU tethered cap molds from 12 to 72 cavities or compression tooling for SACMI CCM lines.",
+            "Plants with older molds that need a complete overhaul rather than a new mold."
+          ]
+        },
+        {
+          "heading": "When an OEM supplier is the better fit",
+          "list": [
+            "You need proprietary OEM technology, such as Husky's HyCAP 4.0 design or SIPA's patented XVENT venting.",
+            "You want one company to be responsible for the machine and the tooling together.",
+            "Your project is a full line conversion that includes machines, handling and packaging design, as Sidel describes in its line conversion service.",
+            "Your quality system requires OEM-original tooling for a specific platform."
+          ]
+        },
+        {
+          "heading": "How to start a cap mold, blow mold or retrofit project with LIHE",
+          "steps": [
+            "Send the machine brand and model, the product (cap, bottle or preform), drawings or samples and target output to sales@lihe-preform.com or +886 938 198 675 (also WhatsApp).",
+            "Agree whether you need a new mold, replacement parts or a retrofit of existing tooling.",
+            "Review LIHE's engineering proposal, prepared with CAD/CAM, 3D simulation and flow analysis.",
+            "Compare quotations from LIHE and the OEM for the same specification and lead time.",
+            "Define acceptance criteria and request Zeiss CMM inspection and validation reports.",
+            "Plan installation, start-up support, preventive maintenance and spare parts supply."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Is LIHE an OEM supplier?",
+          "answer": "LIHE is the manufacturer of its own molds, hot runners and components, but it does not build injection molding or blow molding machines. Its tooling is designed to be compatible with machines from Husky, SACMI, SIPA, NETSTAL, Sidel, Krones and others."
+        },
+        {
+          "question": "Does LIHE make tethered cap molds?",
+          "answer": "Yes. LIHE's closure injection molds cover one-piece and two-piece caps, tamper-evident bands and EU tethered caps, from 12 to 72 cavities, in sizes including 26mm, 28mm, 2925, 3025 and 38mm."
+        },
+        {
+          "question": "Which blow molding machines does LIHE make molds for?",
+          "answer": "For two-step machines LIHE lists SIDEL, KRONES, SIG/KHS, TECH-LONG and NEWAMSTAR; for one-step machines SIPA, ASB and AOKI. Applications include cold fill, hot fill at about 85–95°C and aseptic."
+        },
+        {
+          "question": "Is a LIHE retrofit cheaper than an OEM mold?",
+          "answer": "LIHE states that retrofitting an existing mold for lightweighting costs 25%–40% of a new mold price. OEM prices are not published on the pages cited, so compare quotes for the same specification."
+        },
+        {
+          "question": "How can I compare LIHE and an OEM fairly?",
+          "answer": "Use one written specification, request quotes and lead times from both, ask for dimensional inspection reports and test samples on your own line before deciding."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Husky Technologies — HyCAP 4.0 closure molds",
+          "url": "https://www.husky.co/en/solutions/molds/hycap-closure-molds/"
+        },
+        {
+          "label": "Husky Technologies — PET injection mold technology",
+          "url": "https://www.husky.co/en/solutions/pet-tooling/"
+        },
+        {
+          "label": "Husky Technologies — Hot runner refurbishment",
+          "url": "https://www.husky.co/en/services/hot-runner-refurbishment/"
+        },
+        {
+          "label": "SACMI — Compression molding technology",
+          "url": "https://sacmi.com/en-US/closures-preforms-containers/Compression-Molding"
+        },
+        {
+          "label": "SIPA — PET bottle blow moulds",
+          "url": "https://sipasolutions.com/products/moulds/blowing-moulds"
+        },
+        {
+          "label": "SIPA — PET mould refurbishment and conversion services",
+          "url": "https://sipasolutions.com/products/moulds/refurbishment-conversion"
+        },
+        {
+          "label": "Sidel — Packaging moulds and line conversion services",
+          "url": "https://www.sidel.com/en/services/moulds-and-line-conversion/"
+        },
+        {
+          "label": "Wikipedia — Original equipment manufacturer",
+          "url": "https://en.wikipedia.org/wiki/Original_equipment_manufacturer"
+        },
+        {
+          "label": "Wikipedia — Blow molding",
+          "url": "https://en.wikipedia.org/wiki/Blow_molding"
+        }
+      ]
+    },
+    {
+      "slug": "lihe-replacement-molds-hot-runners-sacmi-sipa-netstal",
+      "date": "2026-10-13",
+      "category": "Technical Insights",
+      "title": "Can LIHE Precision Provide Replacement Molds or Hot Runner Systems for SACMI, SIPA, or NETSTAL Machines?",
+      "summary": "Yes for replacement molds and conversion parts on all three platforms; LIHE's published hot runner compatibility covers SIPA and NETSTAL, while SACMI lines are served with preform tooling, compression molds and conversion parts. Here is what LIHE supplies per machine brand, key numbers and how to start.",
+      "heroImage": {
+        "src": "/images/news/lihe-replacement-molds-hot-runners-sacmi-sipa-netstal-hero.webp",
+        "alt": "Hot runner manifold with heater bands and valve gate nozzles on a workbench next to a multi-cavity mold plate"
+      },
+      "detailImage": {
+        "src": "/images/news/lihe-replacement-molds-hot-runners-sacmi-sipa-netstal-detail.webp",
+        "alt": "Replacement mold components laid out on a steel bench: nozzle tips, valve pins and ring inserts beside a digital caliper"
+      },
+      "ogImage": "/images/news/lihe-replacement-molds-hot-runners-sacmi-sipa-netstal-hero-og.jpg",
+      "relatedProducts": [
+        27,
+        21,
+        19
+      ],
+      "sections": [
+        {
+          "heading": "Short answer: can LIHE supply replacement molds or hot runners for SACMI, SIPA or NETSTAL?",
+          "paragraphs": [
+            "Yes, with one distinction per brand. LIHE supplies replacement PET preform molds and conversion parts for SACMI, SIPA and NETSTAL machines, and its published hot runner compatibility list includes SIPA and NETSTAL (as well as HUSKY and KM). For SACMI, LIHE's published offer centers on preform tooling, compression molds for SACMI CCM lines and replacement tooling made from existing parts; SACMI is not on the published hot runner compatibility list, so a SACMI hot runner request should be confirmed with LIHE project by project.",
+            "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China.",
+            "SACMI, SIPA and NETSTAL are machine makers. LIHE is not affiliated with any of them; its tooling is designed to be compatible with their platforms."
+          ]
+        },
+        {
+          "heading": "What LIHE supplies as replacement tooling",
+          "list": [
+            "Complete PET preform molds from 2 to 160 cavities for HUSKY, NETSTAL, SACMI, SIPA, Milacron and other machines.",
+            "Conversion parts designed to be 100% interchangeable with SACMI, SIPA, NETSTAL, Husky, MHT, OTTO, ASB, Krupps and Corvaglia systems.",
+            "Replacement parts made from the customer's existing Husky, SACMI or Otto parts.",
+            "Valve-gate hot runners for up to 144 cavities (preform) and 96 cavities (closure), compatible with HUSKY, NETSTAL, KM and SIPA, with a 3-year leakage-proof guarantee.",
+            "Hot runner spares and refurbishment: replacement nozzle tips, valve pins, heaters, seals and refurbishment of existing hot runners.",
+            "Compression molds for SACMI CCM lines, including replacement tooling made from existing parts.",
+            "Neck finish conversions and lightweighting of 1g to 2g per preform through neck or wall-thickness optimization."
+          ]
+        },
+        {
+          "heading": "What LIHE lists for each machine brand",
+          "paragraphs": [
+            "The table shows only what LIHE publishes on lihe-preform.com. A blank or a note means the item is not listed, not that it is impossible; ask LIHE to confirm."
+          ],
+          "table": {
+            "head": [
+              "Machine brand",
+              "Replacement preform molds",
+              "Hot runner systems",
+              "Other tooling LIHE lists"
+            ],
+            "rows": [
+              [
+                "SACMI",
+                "Yes, SACMI is in the machine list for preform molds",
+                "Not on the published compatibility list; confirm per project",
+                "Compression molds for SACMI CCM lines; conversion parts; replacement parts made from existing SACMI parts"
+              ],
+              [
+                "SIPA",
+                "Yes, SIPA is in the machine list for preform molds",
+                "Yes, listed as compatible",
+                "Conversion parts; one-step blow molds for SIPA machines"
+              ],
+              [
+                "NETSTAL",
+                "Yes, NETSTAL is in the machine list for preform molds",
+                "Yes, listed as compatible",
+                "Conversion parts"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Key numbers from LIHE's published data",
+          "table": {
+            "head": [
+              "Metric",
+              "Published value",
+              "Where LIHE states it"
+            ],
+            "rows": [
+              [
+                "Preform mold cavitation",
+                "2 to 160 cavities",
+                "lihe-preform.com, products"
+              ],
+              [
+                "Hot runner capacity",
+                "Up to 144 cavities (preform), 96 cavities (closure)",
+                "lihe-preform.com, products"
+              ],
+              [
+                "Hot runner guarantee",
+                "3-year leakage-proof guarantee",
+                "lihe-preform.com, products"
+              ],
+              [
+                "Process capability",
+                "CPK ≥ 1.33",
+                "lihe-preform.com, Why Choose LIHE"
+              ],
+              [
+                "Operational defect rate",
+                "As low as 0.0064%",
+                "lihe-preform.com, Why Choose LIHE"
+              ],
+              [
+                "Mold life on Husky/SACMI/Netstal platforms",
+                "Up to 8 million shots",
+                "lihe-preform.com, Why Choose LIHE"
+              ],
+              [
+                "Replacement parts lead time",
+                "4 weeks",
+                "lihe-preform.com, home page"
+              ],
+              [
+                "Standard PET mold lead time",
+                "8 weeks",
+                "lihe-preform.com, home page"
+              ],
+              [
+                "Pilot mold lead time",
+                "20 days",
+                "lihe-preform.com, home page"
+              ],
+              [
+                "Retrofit cost for lightweighting",
+                "25%–40% of a new mold price",
+                "lihe-preform.com, home page"
+              ]
+            ]
+          },
+          "paragraphs": [
+            "Values checked on lihe-preform.com on 13 October 2026. Exact prices require a quote."
+          ]
+        },
+        {
+          "heading": "LIHE vs the machine makers' own tooling and service",
+          "paragraphs": [
+            "This article is published by LIHE. OEM statements below come only from the official SACMI, SIPA and Netstal web pages listed under References; each company publishes different metrics."
+          ],
+          "table": {
+            "head": [
+              "",
+              "LIHE Precision",
+              "SACMI",
+              "SIPA",
+              "Netstal"
+            ],
+            "rows": [
+              [
+                "Role",
+                "Independent tooling maker for several machine brands",
+                "Machine maker; supplies CCM continuous compression molding machines",
+                "Machine maker and mold maker",
+                "Machine maker; supplies turnkey preform systems with partners"
+              ],
+              [
+                "Molds",
+                "Preform molds 2 to 160 cavities; compression molds for SACMI CCM lines",
+                "States that CCM molds are independent and can be replaced quickly and individually",
+                "Complete molds up to 200 cavities, full or partial mold conversions, spare parts for hot halves",
+                "Machine, mold and hot runners from a single source; systems configurable to 192 cavities"
+              ],
+              [
+                "Hot runners",
+                "Up to 144 preform cavities; compatible with HUSKY, NETSTAL, KM, SIPA; 3-year leakage-proof guarantee",
+                "Compression process uses no hot runner",
+                "Three refurbishment levels for SIPA hot runners of any generation",
+                "Hot runners included in turnkey systems"
+              ],
+              [
+                "Life or refurbishment figures",
+                "Built to withstand up to 8 million shots",
+                "Not stated on the cited page",
+                "LongLife service extends cold-half life up to 12 million cycles before first maintenance",
+                "Not stated on the cited page"
+              ],
+              [
+                "Prices",
+                "Quote only",
+                "Not published on the cited page",
+                "Not published on the cited page",
+                "Not published on the cited page"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Replacement, refurbishment or conversion: what to ask for",
+          "list": [
+            "Replacement parts: worn cores, cavities, neck rings or nozzle tips made from your existing parts; LIHE's published lead time is 4 weeks.",
+            "Hot runner refurbishment: replacement nozzle tips, valve pins, heaters and seals on an existing hot runner rather than a new system.",
+            "New hot runner: valve-gate systems for SIPA or NETSTAL platforms, up to 144 cavities for preforms, with a 3-year leakage-proof guarantee.",
+            "Mold retrofit: a complete overhaul and performance upgrade to restore an aging mold to OEM-level efficiency.",
+            "Conversion: a new neck finish such as PCO 1881 or 29/25, lightweighting of 1g to 2g, or rPET material trials on existing tooling.",
+            "New replacement mold: a complete preform mold with a published lead time of 8 weeks, or 20 days for a pilot mold."
+          ]
+        },
+        {
+          "heading": "Evidence and honest limits",
+          "list": [
+            "Quality figures published by LIHE: CPK ≥ 1.33 and operational defect rates as low as 0.0064%.",
+            "Measurement: in-house Zeiss CMM lab; validation and inspection reports supplied on request.",
+            "Verification: LIHE is a Coca-Cola verified mold supplier in the Asia region; Coca-Cola does not own or operate LIHE.",
+            "Limit: these are supplier-published figures. Confirm them with sample parts, inspection reports and your own acceptance tests.",
+            "Limit: LIHE is not the machine OEM. Agreements covering the SACMI, SIPA or NETSTAL machine itself stay with the machine maker.",
+            "Limit: no prices or cycle times in seconds are published; both depend on the project."
+          ]
+        },
+        {
+          "heading": "Who LIHE is a fit for",
+          "list": [
+            "Plants running SIPA or NETSTAL preform machines that need a new hot runner or hot runner spares.",
+            "SACMI CCM users who need compression molds or replacement tooling made from existing parts.",
+            "Mixed fleets that want one supplier for preform molds and conversion parts across several brands.",
+            "Buyers planning lightweighting or a neck finish change on existing molds rather than buying new ones."
+          ]
+        },
+        {
+          "heading": "Who LIHE is not a fit for",
+          "list": [
+            "Buyers who need a SACMI hot runner and require it from a published compatibility list today.",
+            "Projects that require the machine maker to supply and guarantee machine, mold and hot runner as one package.",
+            "Preform molds above 160 cavities, outside LIHE's published range.",
+            "Buyers who need a published price before sending specifications."
+          ]
+        },
+        {
+          "heading": "How to start a replacement mold or hot runner project",
+          "steps": [
+            "Send the machine brand and model, mold or hot runner details, cavitation, neck finish and photos or samples of worn parts to sales@lihe-preform.com or +886 938 198 675 (also WhatsApp).",
+            "Agree on the scope: replacement parts, hot runner refurbishment, new hot runner, retrofit or complete replacement mold.",
+            "Review LIHE's engineering proposal, prepared with CAD/CAM, 3D simulation and flow analysis.",
+            "Confirm the quotation and lead time: 4 weeks for replacement parts, 8 weeks for a standard PET mold, 20 days for a pilot mold.",
+            "Request Zeiss CMM inspection and validation reports and agree acceptance criteria.",
+            "Schedule installation and start-up support, then preventive maintenance and spare parts supply."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Does LIHE make hot runners for SIPA and NETSTAL machines?",
+          "answer": "Yes. LIHE lists its valve-gate hot runners as compatible with HUSKY, NETSTAL, KM and SIPA, for up to 144 cavities (preform) and 96 cavities (closure), with a 3-year leakage-proof guarantee."
+        },
+        {
+          "question": "Can LIHE supply hot runners for SACMI machines?",
+          "answer": "SACMI is not on LIHE's published hot runner compatibility list. LIHE does list preform molds for SACMI machines, compression molds for SACMI CCM lines and conversion parts, so a SACMI hot runner request should be confirmed directly with LIHE."
+        },
+        {
+          "question": "How fast can LIHE deliver replacement parts?",
+          "answer": "LIHE publishes a lead time of 4 weeks for replacement parts and cap mold parts, 8 weeks for standard PET molds and 20 days for pilot molds."
+        },
+        {
+          "question": "Is LIHE an authorized SACMI, SIPA or NETSTAL partner?",
+          "answer": "No. LIHE is an independent tooling manufacturer. Its molds, hot runners and conversion parts are designed to be compatible with these machines, but LIHE is not affiliated with the machine makers."
+        },
+        {
+          "question": "Can LIHE refurbish my existing hot runner instead of replacing it?",
+          "answer": "Yes. LIHE supplies replacement nozzle tips, valve pins, heaters and seals and offers refurbishment of existing hot runners. The scope is confirmed after reviewing the hot runner."
+        }
+      ],
+      "sources": [
+        {
+          "label": "SACMI — Compression molding technology",
+          "url": "https://sacmi.com/en-US/closures-preforms-containers/Compression-Molding"
+        },
+        {
+          "label": "SIPA — PET preform injection moulds and tooling",
+          "url": "https://sipasolutions.com/products/moulds/preform-tooling"
+        },
+        {
+          "label": "SIPA — PET mould refurbishment and conversion services",
+          "url": "https://sipasolutions.com/products/moulds/refurbishment-conversion"
+        },
+        {
+          "label": "SIPA — Hot runner refurbishment",
+          "url": "https://sipasolutions.com/services/hot-runner-refurbishment"
+        },
+        {
+          "label": "Netstal — PET preform injection molding system solutions",
+          "url": "https://www.netstal.com/en/industries/pet-preform-injection-molding-solutions/"
+        },
+        {
+          "label": "Wikipedia — Hot runner",
+          "url": "https://en.wikipedia.org/wiki/Hot_runner"
+        }
+      ]
+    },
+    {
+      "slug": "moving-pet-bottle-line-to-100-percent-rpet",
+      "date": "2026-10-13",
+      "category": "Technical Insights",
+      "title": "We're Moving a PET Bottle Line to 100% rPET—What Mold and Hot Runner Changes Do We Need?",
+      "summary": "A practical guide for plant engineers converting a PET preform and bottle line to 100% rPET: which preform mold, hot runner and cooling changes to check, how to run the conversion step by step, and how to fix the defects that typically appear.",
+      "heroImage": {
+        "src": "/images/news/moving-pet-bottle-line-to-100-percent-rpet-hero.webp",
+        "alt": "Multi-cavity PET preform injection mold in a machine with a bin of recycled PET flakes in the foreground"
+      },
+      "detailImage": {
+        "src": "/images/news/moving-pet-bottle-line-to-100-percent-rpet-detail.webp",
+        "alt": "Polished hot runner manifold with valve gate nozzles and heater bands on a workshop bench"
+      },
+      "ogImage": "/images/news/moving-pet-bottle-line-to-100-percent-rpet-hero-og.jpg",
+      "relatedProducts": [
+        19,
+        27,
+        22
+      ],
+      "sections": [
+        {
+          "heading": "What mold and hot runner changes does a 100% rPET line need?",
+          "paragraphs": [
+            "rPET (recycled polyethylene terephthalate) is PET recovered from used bottles and reprocessed into food-grade flakes or pellets that can replace virgin resin. In most conversions the preform mold steel and cavity layout can stay as they are; the changes concentrate on the hot runner (nozzle tips, valve pins, seals, heaters and temperature balance), on venting and cooling in the mold, and on drying and material handling in front of the machine.",
+            "The reason is that 100% rPET behaves less uniformly than virgin PET: intrinsic viscosity (IV) varies from lot to lot, the material is more sensitive to moisture and heat history, and it carries more volatiles and fine contaminants. A mold and hot runner that run well on virgin resin can show black specks, haze, gate defects and weight variation once rPET reaches 100%."
+          ]
+        },
+        {
+          "heading": "Key numbers for planning an rPET conversion",
+          "list": [
+            "Preform molds can be specified from 2 to 160 cavities; the conversion approach is the same, but every extra cavity adds a hot runner drop to balance.",
+            "LIHE valve gate hot runners are available for up to 144 preform cavities, with a 3-year leakage-proof guarantee on the Husky Ultra-type design.",
+            "Optimized mold cooling can reduce neck cooling time by up to 0.5 s, which helps recover cycle time if rPET forces a cooler, slower process.",
+            "Lightweighting proposals reduce preform weight by 1 g to 2 g; with rPET, confirm stretch behaviour before taking weight out.",
+            "Published lead times: replacement parts 4 weeks, pilot molds 20 days, standard PET molds 8 weeks."
+          ]
+        },
+        {
+          "heading": "What changes when the resin becomes 100% rPET",
+          "list": [
+            "IV variation: recycled flake and pellet lots differ in IV, so melt viscosity, fill balance and preform weight move between lots.",
+            "Moisture sensitivity: wet PET hydrolyses in the barrel and hot runner, which lowers IV and weakens the finished bottle.",
+            "Heat history: rPET has already been melted at least once, so extra residence time in the manifold raises acetaldehyde (AA) and yellowing.",
+            "Volatiles and fines: more gas and dust in the melt means faster vent fouling and deposits on cavity and core surfaces.",
+            "Contaminants: gels, specks and foreign particles that pass the recycler's filtration can partially block nozzle tips and gates.",
+            "Colour: rPET usually has a slight tint; haze or yellowness from the process is easier to see than with virgin resin."
+          ]
+        },
+        {
+          "heading": "What to prepare before you convert",
+          "list": [
+            "The rPET specification from your supplier: IV range, moisture on delivery, contamination limits and the food-contact approval of the recycling process (for example an FDA no-objection letter in the U.S.).",
+            "Baseline data from the current virgin line: cycle time, reject rate per cavity, preform weight per cavity, AA level and IV drop from pellet to preform.",
+            "A capacity check of the dryer and material conveying system, because rPET flake has a different bulk density and drying response than virgin pellets.",
+            "A condition audit of the hot runner: heater and thermocouple readings per zone, nozzle tip and valve pin wear, seal condition and any leakage history.",
+            "A condition audit of the mold: vent depth, cooling water flow and temperature difference per circuit, scale in channels and wear on neck rings and locking tapers.",
+            "The preform and bottle drawings, plus blow molding results, so that any change to wall thickness or weight can be checked on the blow molder."
+          ]
+        },
+        {
+          "heading": "Mold and hot runner changes to consider",
+          "table": {
+            "head": [
+              "Component",
+              "Typical issue with 100% rPET",
+              "Change to consider"
+            ],
+            "rows": [
+              [
+                "Nozzle tips and valve pins",
+                "Wear, deposits, stringing and gate vestige",
+                "Inspect every drop; replace tips, pins and seals as a set where worn"
+              ],
+              [
+                "Heaters and thermocouples",
+                "Weak zones cause cold drops and weight imbalance",
+                "Replace failing heaters and sensors; rebalance zone temperatures"
+              ],
+              [
+                "Manifold flow channels",
+                "Dead spots hold degraded melt and release black specks",
+                "Clean or refurbish the manifold; check for hang-up points"
+              ],
+              [
+                "Melt filtration (machine side)",
+                "Particles block gates and cause short shots",
+                "Confirm filtration upstream and on the machine with the rPET supplier"
+              ],
+              [
+                "Cavity and core venting",
+                "Volatile deposits, burn marks, short shots",
+                "Check vent depth and set a shorter vent-cleaning interval"
+              ],
+              [
+                "Cooling circuits",
+                "Haze and longer cooling to hold quality",
+                "Descale, verify flow per circuit, consider optimized neck cooling"
+              ],
+              [
+                "Gate inserts",
+                "Crystalline gates, gate hole or stringing",
+                "Check gate geometry and cooling around the gate"
+              ],
+              [
+                "Preform design",
+                "Different stretch behaviour on the blow molder",
+                "Review wall thickness and weight before lightweighting"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Step-by-step: converting the line to 100% rPET",
+          "steps": [
+            "Record a full baseline on virgin PET so every later change can be compared against real numbers.",
+            "Agree the rPET specification with your supplier and test incoming lots for IV and moisture before they reach the dryer.",
+            "Confirm dryer residence time and dew point capacity for the rPET throughput, following the resin supplier's drying data.",
+            "Service the hot runner: check every heater zone and thermocouple, replace worn nozzle tips, valve pins and seals, and clean the manifold.",
+            "Service the mold: descale cooling channels, check flow per circuit, clean and measure vents, and check neck rings and tapers.",
+            "Run a stepped material trial, increasing the rPET share in stages while measuring weight, AA, IV drop and defects per cavity.",
+            "Adjust process settings at each stage: melt temperature, hot runner zone balance, hold pressure and cooling, keeping residence time as low as possible.",
+            "Blow sample preforms on your blow molder and check bottle wall distribution, top load and appearance.",
+            "Lock the process window and update preventive maintenance intervals for vents, tips and filters to match rPET."
+          ]
+        },
+        {
+          "heading": "Common problems after switching to rPET and how to fix them",
+          "table": {
+            "head": [
+              "Symptom",
+              "Likely cause",
+              "What to check or change"
+            ],
+            "rows": [
+              [
+                "Black specks",
+                "Degraded melt in manifold dead spots or contamination",
+                "Clean or refurbish manifold; review filtration; reduce residence time"
+              ],
+              [
+                "Yellowing",
+                "Excess heat history or over-drying",
+                "Lower melt and hot runner temperatures where possible; check dryer settings"
+              ],
+              [
+                "High AA",
+                "High melt temperature and long residence time",
+                "Reduce barrel and manifold temperatures; check shot size vs barrel size"
+              ],
+              [
+                "Haze near gate or base",
+                "Slow cooling or moisture",
+                "Check gate cooling, water flow and drying"
+              ],
+              [
+                "Short shots in some cavities",
+                "Blocked tips, cold zones, fouled vents",
+                "Inspect tips, heaters and vents of the affected cavities"
+              ],
+              [
+                "Stringing or long gate vestige",
+                "Worn valve pins or tips, gate too hot",
+                "Replace pins and tips; rebalance gate temperature"
+              ],
+              [
+                "Weight variation between lots",
+                "IV variation in the rPET supply",
+                "Tighten IV specification; segregate and blend lots"
+              ],
+              [
+                "Bubbles or splay",
+                "Moisture or volatiles",
+                "Verify drying; clean vents"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Advanced tips for stable 100% rPET production",
+          "list": [
+            "Measure IV on preforms, not only on incoming material; the IV drop across the line tells you whether drying and residence time are under control.",
+            "Keep a spare set of nozzle tips, valve pins and seals on site so a blocked drop can be fixed without long downtime.",
+            "Track rejects per cavity; a single cavity that drifts usually points to a hot runner drop, a vent or a cooling circuit, not to the material.",
+            "Use cooling optimization to win back cycle time; LIHE's optimized cooling can cut neck cooling time by up to 0.5 s.",
+            "Delay any lightweighting until the rPET process is stable, then test the 1 g to 2 g reduction on the blow molder.",
+            "If the hot runner is old, compare refurbishment with a replacement; rPET exposes leakage and heater weaknesses quickly."
+          ]
+        },
+        {
+          "heading": "Related concepts",
+          "list": [
+            "Intrinsic viscosity (IV): a measure of PET molecular weight; it falls when PET is degraded by moisture or heat.",
+            "Acetaldehyde (AA): a by-product of thermal degradation of PET that can affect the taste of water and sensitive drinks.",
+            "Hydrolysis: the reaction of molten PET with water, the main reason undried material loses IV.",
+            "Valve gate hot runner: a hot runner in which a pin opens and closes each gate mechanically, giving cleaner gates than thermal gates.",
+            "Crystallinity: ordered regions in PET that appear as white haze in a preform when cooling is too slow."
+          ]
+        },
+        {
+          "heading": "How LIHE supports an rPET conversion",
+          "list": [
+            "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China.",
+            "rPET material trials and production line conversions as part of custom solutions.",
+            "Hot runner refurbishment and replacement nozzle tips, valve pins, heaters and seals for HUSKY, NETSTAL, KM and SIPA compatible systems.",
+            "Cooling optimization and conversion parts that are 100% interchangeable with Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps and Corvaglia systems.",
+            "Remote troubleshooting, on-site start-up support and preventive maintenance by a dedicated technical team."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Do we need a new preform mold to run 100% rPET?",
+          "answer": "Usually not. The cavity layout and steel can normally stay. The work focuses on the hot runner, venting, cooling and drying. A new mold is only needed if the existing mold is worn out or the preform design itself must change."
+        },
+        {
+          "question": "Which hot runner parts wear fastest with rPET?",
+          "answer": "Nozzle tips, valve pins and seals are the first parts to check, followed by heaters and thermocouples. Contaminants and deposits in rPET expose wear and weak zones faster than virgin resin."
+        },
+        {
+          "question": "Why do we see more black specks after the switch?",
+          "answer": "rPET has a longer heat history, so melt that stays in manifold dead spots degrades sooner. Cleaning or refurbishing the manifold, reducing residence time and confirming filtration usually fix it."
+        },
+        {
+          "question": "Will 100% rPET make our cycle time longer?",
+          "answer": "It can, if the process has to run cooler or slower to control AA and haze. Optimized cooling, which can reduce neck cooling time by up to 0.5 s, is one way to recover part of that time."
+        },
+        {
+          "question": "Can LIHE help with trials before we commit?",
+          "answer": "Yes. rPET material trials are part of LIHE's custom solutions, together with hot runner refurbishment and production line conversions. Contact sales@lihe-preform.com with your mold, machine and rPET details."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Wikipedia — PET bottle recycling",
+          "url": "https://en.wikipedia.org/wiki/PET_bottle_recycling"
+        },
+        {
+          "label": "Wikipedia — Polyethylene terephthalate",
+          "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate"
+        },
+        {
+          "label": "Wikipedia — Intrinsic viscosity",
+          "url": "https://en.wikipedia.org/wiki/Intrinsic_viscosity"
+        },
+        {
+          "label": "Wikipedia — Acetaldehyde",
+          "url": "https://en.wikipedia.org/wiki/Acetaldehyde"
+        },
+        {
+          "label": "Wikipedia — Hot runner",
+          "url": "https://en.wikipedia.org/wiki/Hot_runner"
+        },
+        {
+          "label": "U.S. FDA — Recycled Plastics in Food Packaging",
+          "url": "https://www.fda.gov/food/packaging-food-contact-substances-fcs/recycled-plastics-food-packaging"
+        }
+      ]
     },
     {
       "slug": "pet-preform-mold-tooling-conversion-guide",
@@ -223,6 +2315,15 @@
       "category": "Technical Insights",
       "title": "Replacement Parts and Tooling Conversion for Husky, SACMI and Otto PET Preform Molds",
       "summary": "You do not always need a new mold to change a neck finish, lightweight a preform or replace worn parts. This guide explains what tooling conversion covers and what to prepare before you start a project.",
+      "heroImage": {
+        "src": "/images/news/pet-preform-mold-tooling-conversion-guide-hero.webp",
+        "alt": "PET preform injection mold core plate with polished cores next to a tray of clear preforms"
+      },
+      "detailImage": {
+        "src": "/images/news/pet-preform-mold-tooling-conversion-guide-detail.webp",
+        "alt": "Coordinate measuring machine inspecting a preform mold neck ring in a QC lab"
+      },
+      "ogImage": "/images/news/pet-preform-mold-tooling-conversion-guide-hero-og.jpg",
       "relatedProducts": [
         34,
         19,
@@ -238,6 +2339,18 @@
           ]
         },
         {
+          "heading": "Key terms",
+          "list": [
+            "Mold stack: the set of parts that forms one preform, typically the core, cavity, gate insert and neck rings, held in place in the mold plates.",
+            "Neck rings: split inserts that form the neck finish (thread, support ring and tamper-evident bead) and open to release the preform.",
+            "Neck finish: the standardized thread and sealing geometry of the bottle opening, such as PCO 1881, PCO 1810, 2925 or 38mm; it must match the closure.",
+            "Lightweighting: reducing preform weight, usually by optimizing the neck finish or wall thickness, while keeping the bottle performance required.",
+            "Hot runner: the heated manifold and nozzles that deliver molten PET to every cavity; worn nozzle tips, valve pins, heaters and seals affect filling and preform quality.",
+            "CPK: a process capability index that compares the spread of a measured dimension with its tolerance; a higher value means more consistent parts.",
+            "CMM: a coordinate measuring machine that measures part geometry in three dimensions against the drawing."
+          ]
+        },
+        {
           "heading": "What can be converted or replaced",
           "list": [
             "Preform mold parts such as cores, cavities, neck rings and gate inserts, made to match your existing mold.",
@@ -247,12 +2360,41 @@
           ]
         },
         {
+          "heading": "When conversion makes more sense than a new mold",
+          "list": [
+            "Parts are worn but the mold base, plates and hot runner are still in good condition.",
+            "The market or a brand owner moves to a different neck finish, and the injection machine and mold base can stay the same.",
+            "You want to use less resin per preform without investing in a complete new mold.",
+            "Cycle time is limited by cooling, and an upgrade of cooling in the stack can shorten it.",
+            "An aging mold needs a complete overhaul to bring it back to its original efficiency.",
+            "Spare parts from the original supplier are not available within the time your production schedule allows."
+          ]
+        },
+        {
+          "heading": "Neck finish conversion and lightweighting",
+          "paragraphs": [
+            "A neck finish conversion changes the parts that form the neck: neck rings, and usually the cores and other stack parts that meet the neck area. Because the neck must match the closure and the handling parts of the blow molder, a neck change should be planned together with the cap supplier and the blow molding line.",
+            "Lightweighting follows a similar logic. LIHE lightweighting proposals reduce preform weight by 1g to 2g through neck or wall-thickness optimization. Retrofitting an existing mold for lightweighting costs only 25%–40% of a new mold price, with a short payback period, and optimized cooling can reduce neck cooling time by up to 0.5 seconds. Any lighter preform should be checked against the bottle requirements, such as top load and, for carbonated products, pressure resistance, before series production."
+          ]
+        },
+        {
           "heading": "Capacity and quality figures",
           "list": [
             "Preform molds from 2 to 160 cavities.",
             "Over 12,000 cavities produced per year.",
             "Valve gate hot runners up to 144 cavities for preforms.",
             "Process capability CPK ≥ 1.33, with defect rates as low as 0.0064%."
+          ]
+        },
+        {
+          "heading": "Common problems that conversion projects solve",
+          "list": [
+            "Flash at the neck split line: worn neck rings or damaged shut-off surfaces.",
+            "Uneven wall thickness: core shift caused by worn alignment features between core and cavity.",
+            "Whitening or crystallinity near the gate: insufficient gate cooling or a worn gate insert.",
+            "Drooling, leaks or stringing at the gate: worn hot runner nozzle tips, valve pins or seals.",
+            "Short shots or weight differences between cavities: blocked or unbalanced hot runner channels, or failed heaters.",
+            "Long cycles: fouled cooling channels or a cooling design that limits how fast preforms can be ejected."
           ]
         },
         {
@@ -288,13 +2430,46 @@
           }
         },
         {
+          "heading": "Interchangeability and quality control",
+          "list": [
+            "100% interchangeable conversion parts for Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps and Corvaglia systems.",
+            "Tooling consistently achieves CPK ≥ 1.33, with operational defect rates as low as 0.0064%.",
+            "Tooling built to withstand up to 8 million shots on Husky, SACMI and Netstal platforms.",
+            "Parts measured in an in-house Zeiss CMM lab, together with a 3D profile scanner and an optical projector.",
+            "Validation and inspection reports supplied with molds and spare parts on request."
+          ]
+        },
+        {
+          "heading": "Lead times and cost drivers",
+          "paragraphs": [
+            "LIHE's published lead times are 4 weeks for replacement parts, 20 days for pilot molds and 8 weeks for standard PET molds. The cost of a conversion depends on its scope, so an exact price requires a quotation based on your parts or drawings."
+          ],
+          "list": [
+            "Number of cavities, because every part is made once per cavity.",
+            "Number of parts per cavity that change: neck rings only, or a complete stack.",
+            "Whether the hot runner needs service, such as new nozzle tips, valve pins, heaters or seals.",
+            "Whether mold base plates need replacement or refurbishment.",
+            "Engineering work for a new neck finish or a lighter preform design."
+          ]
+        },
+        {
           "heading": "What to prepare before you start",
           "steps": [
             "Identify the mold: original mold maker, injection machine model and number of cavities.",
             "Send sample parts or drawings of the parts to be replaced.",
             "Describe the goal: like-for-like replacement, a new neck finish, a lighter preform or a shorter cycle time.",
             "Share the current preform specification, including neck finish and preform weight.",
-            "Agree on inspection: parts are measured on a Zeiss CMM, and inspection reports can be supplied with molds and spare parts on request."
+            "Agree on inspection: parts are measured on a Zeiss CMM, and inspection reports can be supplied with molds and spare parts on request.",
+            "Plan installation and start-up: LIHE's technical team can support machine interface audits, mold installation and machine start-up on site."
+          ]
+        },
+        {
+          "heading": "Maintenance after the conversion",
+          "list": [
+            "Follow a preventive maintenance plan for stacks and hot runner parts, and record shot counts per mold.",
+            "Keep cooling water clean and treated so the cooling gain from the conversion is maintained.",
+            "Keep spare neck rings and other high-wear parts for your main preform formats.",
+            "Use remote troubleshooting, on-site assistance, spare parts supply and mold refurbishment programs offered by the LIHE technical team when problems appear."
           ]
         }
       ],
@@ -310,17 +2485,579 @@
         {
           "question": "Are inspection reports available?",
           "answer": "Yes. Components are checked on a Zeiss 3D coordinate measuring machine and other QC equipment, and inspection reports are supplied with molds and spare parts on request."
+        },
+        {
+          "question": "How much does a retrofit cost compared with a new mold?",
+          "answer": "Retrofitting an existing mold for lightweighting costs only 25%–40% of a new mold price, according to LIHE's published figures. The exact price depends on the scope and requires a quotation."
+        },
+        {
+          "question": "Can LIHE conversion parts be mixed with original parts?",
+          "answer": "LIHE conversion parts are made to be 100% interchangeable for Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps and Corvaglia systems, and are checked on a Zeiss CMM."
+        },
+        {
+          "question": "Does a neck finish change affect the blow molder and the closure?",
+          "answer": "Yes. The neck must match the closure, and the neck area is also used to handle the preform and bottle on the blow molder. Plan a neck finish conversion together with your cap supplier and your blow molding line."
         }
       ],
+      "sources": [
+        {
+          "label": "Wikipedia — Injection moulding",
+          "url": "https://en.wikipedia.org/wiki/Injection_moulding"
+        },
+        {
+          "label": "Wikipedia — Injection mold construction",
+          "url": "https://en.wikipedia.org/wiki/Injection_mold_construction"
+        },
+        {
+          "label": "Wikipedia — Hot runner",
+          "url": "https://en.wikipedia.org/wiki/Hot_runner"
+        },
+        {
+          "label": "Wikipedia — Process capability index",
+          "url": "https://en.wikipedia.org/wiki/Process_capability_index"
+        },
+        {
+          "label": "Wikipedia — Coordinate-measuring machine",
+          "url": "https://en.wikipedia.org/wiki/Coordinate-measuring_machine"
+        },
+        {
+          "label": "Husky Technologies — official website",
+          "url": "https://www.husky.co/en/"
+        },
+        {
+          "label": "SACMI — official website",
+          "url": "https://www.sacmi.com"
+        }
+      ]
+    },
+    {
+      "slug": "pet-preform-mold-troubleshooting-slow-cycle-defects",
+      "date": "2026-10-13",
+      "category": "Technical Insights",
+      "title": "Our PET Preform Mold Is Running Slow and Causing Defects—What Troubleshooting Steps Should We Take?",
+      "summary": "A step-by-step troubleshooting guide for PET preform molds that have lost cycle time and started producing defects: what data to collect, how to isolate cooling, hot runner and mechanical causes, and a defect table with checks and fixes.",
       "heroImage": {
-        "src": "/images/news/pet-preform-mold-tooling-conversion-guide-hero.webp",
-        "alt": "PET preform injection mold core plate with polished cores next to a tray of clear preforms"
+        "src": "/images/news/pet-preform-mold-troubleshooting-slow-cycle-defects-hero.webp",
+        "alt": "Gloved hands inspecting a clear PET container beside an opened multi-cavity preform mold on a workbench"
       },
       "detailImage": {
-        "src": "/images/news/pet-preform-mold-tooling-conversion-guide-detail.webp",
-        "alt": "Coordinate measuring machine inspecting a preform mold neck ring in a QC lab"
+        "src": "/images/news/pet-preform-mold-troubleshooting-slow-cycle-defects-detail.webp",
+        "alt": "Row of transparent PET preforms on a lit inspection table with a magnifier and calipers"
       },
-      "ogImage": "/images/news/pet-preform-mold-tooling-conversion-guide-hero-og.jpg"
+      "ogImage": "/images/news/pet-preform-mold-troubleshooting-slow-cycle-defects-hero-og.jpg",
+      "relatedProducts": [
+        19,
+        27,
+        18
+      ],
+      "sections": [
+        {
+          "heading": "What should you do when a preform mold runs slow and makes defects?",
+          "paragraphs": [
+            "Preform mold troubleshooting is a structured process of isolating whether a cycle-time or quality problem comes from the material, the machine, the hot runner, the mold cooling or the mold mechanics. Start by collecting data per cavity, then check drying, cooling water, hot runner zones and wear parts in that order, because most slow, defect-prone molds have a cooling or hot runner fault that operators have compensated for by extending the cycle.",
+            "Cycle time refers to the full time of one injection, hold, cooling, mold opening, ejection and closing sequence. When cooling becomes less effective, the usual reaction is to add cooling time to stop haze or ovality, so the slow cycle and the defects are often the same problem."
+          ]
+        },
+        {
+          "heading": "Key numbers to keep in mind",
+          "list": [
+            "Capability target: LIHE tooling consistently achieves CPK ≥ 1.33, a common benchmark for a capable process.",
+            "Defect benchmark: operational defect rates as low as 0.0064% on LIHE tooling.",
+            "Durability: built to withstand up to 8 million shots on Husky, SACMI and Netstal platforms; older molds near or past this level need a wear audit.",
+            "Cooling: optimized cooling can reduce neck cooling time by up to 0.5 s.",
+            "Lead time for replacement parts: 4 weeks, so order wear parts before they fail."
+          ]
+        },
+        {
+          "heading": "Why preform molds slow down",
+          "list": [
+            "Scale and corrosion in cooling channels reduce heat transfer, so operators extend cooling time to avoid haze and deformed preforms.",
+            "Low water flow or a high supply temperature from the chiller has the same effect across the whole mold.",
+            "Failed heaters or thermocouples in the hot runner leave cold drops; the cavity is shut off or the process is slowed to fill it.",
+            "Worn gate inserts, nozzle tips and valve pins cause gate defects that are often treated with longer hold or cooling time.",
+            "Worn neck rings, locking tapers and cores cause flash and wall eccentricity, which can force slower injection.",
+            "Wet or poorly dried resin lowers IV and increases defects, which some plants try to manage with process changes instead of fixing drying.",
+            "Blocked vents trap air and volatiles, causing short shots and burn marks that slow down setup and restarts."
+          ]
+        },
+        {
+          "heading": "What to prepare before troubleshooting",
+          "list": [
+            "Cycle time history from the machine, ideally from when the mold was new or last refurbished.",
+            "Reject rate and defect type per cavity, with physical samples labelled by cavity number.",
+            "Preform weight per cavity from several shots, to see imbalance in the hot runner.",
+            "Cooling water records: supply temperature, flow per circuit and temperature difference between inlet and outlet.",
+            "Hot runner controller readings: set point, actual temperature and output percentage per zone.",
+            "Dryer records: drying time, dew point and material throughput.",
+            "Maintenance history: last refurbishment, parts replaced, total shot count."
+          ]
+        },
+        {
+          "heading": "Step-by-step troubleshooting procedure",
+          "steps": [
+            "Define the problem with numbers: current cycle time versus the original, defect types and the affected cavities.",
+            "Separate cavity-specific problems from whole-mold problems; a few bad cavities point to local causes, a uniform problem points to material, water or process.",
+            "Check material drying and IV drop before touching the mold, since wet resin produces many of the same defects as mold faults.",
+            "Measure water flow and temperature difference on every cooling circuit; descale or clean channels that show low flow.",
+            "Review hot runner zones; repair heaters and thermocouples that run at abnormal output or cannot reach set point.",
+            "Inspect gates, nozzle tips and valve pins of the affected cavities and replace worn parts.",
+            "Inspect cores, cavities, neck rings and locking tapers for wear, damage and misalignment; clean and measure the vents.",
+            "Measure critical stack components, preferably on a CMM, and compare them with the drawing.",
+            "Restart with a documented process, reduce cooling time step by step and confirm preform quality at each step.",
+            "Record the root cause, the fix and the new cycle time, and update the preventive maintenance plan."
+          ]
+        },
+        {
+          "heading": "Defect troubleshooting table",
+          "table": {
+            "head": [
+              "Defect",
+              "What you see",
+              "Common causes",
+              "Checks and fixes"
+            ],
+            "rows": [
+              [
+                "Haze / crystallinity",
+                "White or cloudy areas, often near gate or base",
+                "Slow cooling, scale in channels, wet resin",
+                "Check water flow, descale, verify drying"
+              ],
+              [
+                "Short shot",
+                "Incomplete preform, usually neck area",
+                "Cold hot runner drop, blocked tip, blocked vent",
+                "Check zone temperature, tip and vents"
+              ],
+              [
+                "Flash",
+                "Thin plastic at neck split line or parting line",
+                "Worn neck rings or tapers, low clamp",
+                "Measure and replace worn stack parts"
+              ],
+              [
+                "Wall eccentricity",
+                "Uneven wall thickness around the circumference",
+                "Core shift, worn alignment, uneven cooling",
+                "Check core alignment and tapers; balance cooling"
+              ],
+              [
+                "Gate stringing / long gate",
+                "Thread of plastic or long vestige at gate",
+                "Worn valve pin or tip, gate too hot",
+                "Replace pin and tip; adjust gate temperature"
+              ],
+              [
+                "High AA",
+                "Taste issues, high AA test results",
+                "High melt temperature, long residence time",
+                "Lower temperatures; check shot size versus barrel"
+              ],
+              [
+                "Black specks",
+                "Dark particles in the wall",
+                "Degraded material in hot runner or barrel",
+                "Clean manifold and screw; check for dead spots"
+              ],
+              [
+                "Sink marks / voids",
+                "Depression or bubble in thick sections",
+                "Short hold time or pressure, wet resin",
+                "Check hold settings and drying"
+              ],
+              [
+                "Ovality / bent preform",
+                "Out-of-round neck or body after ejection",
+                "Insufficient cooling, take-out problems",
+                "Check cooling and post-mold handling"
+              ],
+              [
+                "Weight variation",
+                "Different weight per cavity",
+                "Hot runner imbalance, worn tips",
+                "Rebalance zones; replace worn tips"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Slow cycle: quick cause-and-fix comparison",
+          "table": {
+            "head": [
+              "Observation",
+              "Probable cause",
+              "Fix"
+            ],
+            "rows": [
+              [
+                "Whole mold needs more cooling time than before",
+                "Scale in channels or poor chiller performance",
+                "Descale mold, check chiller capacity and water quality"
+              ],
+              [
+                "Only some cavities need longer cooling",
+                "Blocked or reduced flow in those circuits",
+                "Clean and flow-test the affected circuits"
+              ],
+              [
+                "Cycle extended to fill some cavities",
+                "Cold or failed hot runner zones",
+                "Repair heaters and thermocouples, rebalance"
+              ],
+              [
+                "Cycle extended to control gate defects",
+                "Worn tips, pins or gate inserts",
+                "Replace worn hot runner and gate parts"
+              ],
+              [
+                "Injection slowed to avoid flash",
+                "Worn neck rings and locking tapers",
+                "Refurbish or replace stack components"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Advanced tips",
+          "list": [
+            "Use cavity-level statistical process control; CPK is a useful single number to show if a cavity or the whole mold is drifting.",
+            "Never compensate a mechanical fault with process settings for long; it hides the root cause and costs cycle time every shift.",
+            "Water quality matters as much as temperature; treated water slows down scale build-up in narrow core cooling channels.",
+            "Consider a cooling optimization when refurbishing; LIHE's optimized cooling can reduce neck cooling time by up to 0.5 s.",
+            "Keep a critical spare set (tips, pins, heaters, seals, neck rings) for the highest-wear cavities.",
+            "Compare refurbishment with replacement for molds near the end of their life; a complete overhaul can restore aging tooling to OEM-level efficiency."
+          ]
+        },
+        {
+          "heading": "Related concepts",
+          "list": [
+            "Intrinsic viscosity (IV): an indicator of PET molecular weight that drops with moisture and heat damage.",
+            "Acetaldehyde (AA): a degradation product of PET that rises with melt temperature and residence time.",
+            "Stack components: the core, cavity, neck rings and gate insert that form one preform.",
+            "Hot runner balance: equal melt temperature and flow to every drop, which is needed for equal preform weight.",
+            "Process capability index (CPK): a measure of how well a process stays within its specification limits."
+          ]
+        },
+        {
+          "heading": "When to call in the mold maker",
+          "list": [
+            "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China.",
+            "Remote troubleshooting and on-site assistance by a dedicated technical team, including machine interface audits and start-up support.",
+            "Mold refurbishment programs and complete overhauls to restore aging molds to OEM-level efficiency.",
+            "Replacement parts made from existing Husky, SACMI or Otto parts, and hot runner nozzle tips, valve pins, heaters and seals.",
+            "Inspection in an in-house Zeiss CMM lab, with validation and inspection reports on request."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is the most common reason a preform mold gets slower over time?",
+          "answer": "Reduced cooling efficiency, usually from scale or blocked cooling channels or poor chiller performance. Operators extend cooling time to avoid haze and ovality, so the cycle slowly gets longer."
+        },
+        {
+          "question": "How do we tell a mold problem from a material problem?",
+          "answer": "Look at the defect pattern by cavity. Defects in only some cavities point to local mold or hot runner causes. Defects in all cavities at once point to material, drying, water supply or process settings."
+        },
+        {
+          "question": "Should we replace parts or refurbish the whole mold?",
+          "answer": "Replace parts when wear is limited to a few cavities. Consider a complete refurbishment when many cavities show wear, the shot count is high, or the mold no longer reaches its original cycle time after repairs."
+        },
+        {
+          "question": "Can cooling changes really recover cycle time?",
+          "answer": "Yes, if cooling is the limiting factor. Cleaning channels restores lost performance, and an optimized cooling design can reduce neck cooling time by up to 0.5 s."
+        },
+        {
+          "question": "What information should we send LIHE for remote troubleshooting?",
+          "answer": "Send the machine model, cavity count, preform drawing, cycle time history, defect samples or photos by cavity, hot runner zone readings and cooling water data to sales@lihe-preform.com."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Wikipedia — Injection moulding",
+          "url": "https://en.wikipedia.org/wiki/Injection_moulding"
+        },
+        {
+          "label": "Wikipedia — Polyethylene terephthalate",
+          "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate"
+        },
+        {
+          "label": "Wikipedia — Hot runner",
+          "url": "https://en.wikipedia.org/wiki/Hot_runner"
+        },
+        {
+          "label": "Wikipedia — Acetaldehyde",
+          "url": "https://en.wikipedia.org/wiki/Acetaldehyde"
+        },
+        {
+          "label": "Wikipedia — Process capability index",
+          "url": "https://en.wikipedia.org/wiki/Process_capability_index"
+        }
+      ]
+    },
+    {
+      "slug": "risks-of-non-oem-molds-for-pet-bottle-production",
+      "date": "2026-10-13",
+      "category": "Technical Insights",
+      "title": "How Risky Is It to Use Non-OEM Molds for PET Bottle Production? A Buyer's Risk Guide",
+      "summary": "Using non-OEM molds for PET bottle production carries manageable risk when the supplier can prove interface fit, dimensional capability and after-sales support, and high risk when it cannot. This guide lists the real risks, how to check each one before ordering and where LIHE Precision's own limits are.",
+      "heroImage": {
+        "src": "/images/news/risks-of-non-oem-molds-for-pet-bottle-production-hero.webp",
+        "alt": "Coordinate measuring machine probe inspecting a PET preform mold cavity insert in a quality lab"
+      },
+      "detailImage": {
+        "src": "/images/news/risks-of-non-oem-molds-for-pet-bottle-production-detail.webp",
+        "alt": "Clear PET preforms and bottles on an inspection table next to a steel mold component"
+      },
+      "ogImage": "/images/news/risks-of-non-oem-molds-for-pet-bottle-production-hero-og.jpg",
+      "relatedProducts": [
+        34,
+        19,
+        18
+      ],
+      "sections": [
+        {
+          "heading": "How risky is it to use non-OEM molds for PET bottle production?",
+          "paragraphs": [
+            "The risk is moderate and controllable. It depends less on the OEM or non-OEM label than on whether the mold maker can prove three things: that the mold fits your machine, that it holds the preform or bottle dimensions consistently, and that it can support you when something goes wrong. A supplier that can show capability data, inspection reports and a working service team is a low-risk choice; one that cannot is a high-risk choice, whatever its price.",
+            "A non-OEM mold is a preform, blow or closure mold made by a company other than the original equipment manufacturer of the production machine, built to run on that machine without modifying it.",
+            "Disclosure: this article is published by LIHE Precision, which makes non-OEM molds. We describe machine makers only by what their own websites state and we list our own limitations below."
+          ]
+        },
+        {
+          "heading": "Where the risk actually comes from",
+          "list": [
+            "Interface mismatch: the mold mounts but does not match the hot runner, cooling circuits or take-out plate, which delays start-up.",
+            "Dimensional variation: neck finish, wall thickness or preform weight drift between cavities, which shows up as closure leaks, uneven bottle walls or rejects on the blow molder.",
+            "Wear life: steel, heat treatment or surface finish that do not last the planned number of shots.",
+            "Hot runner leaks: poor sealing or balance that stops the mold and causes cleaning downtime.",
+            "Documentation: no drawings, inspection reports or spare-part lists, which makes later repairs slow.",
+            "Support: no one available to help with installation, start-up or troubleshooting.",
+            "Contracts: some machine service agreements may set conditions on third-party tooling; only your agreement and the OEM can confirm this."
+          ]
+        },
+        {
+          "heading": "Risk checklist: what to verify before ordering",
+          "table": {
+            "head": [
+              "Risk",
+              "What can go wrong",
+              "How to check before ordering",
+              "LIHE published reference point"
+            ],
+            "rows": [
+              [
+                "Interface fit",
+                "Mold mounts but fails at start-up",
+                "Ask for a machine interface audit and design review",
+                "On-site machine interface audits; CAD/CAM, 3D simulation and flow analysis before production"
+              ],
+              [
+                "Dimensional consistency",
+                "Neck and wall variation between cavities",
+                "Ask for process capability (CPK) data",
+                "Tooling consistently achieves CPK ≥ 1.33"
+              ],
+              [
+                "Defect rate",
+                "High reject rate in production",
+                "Ask for operational defect data",
+                "Operational defect rates as low as 0.0064%"
+              ],
+              [
+                "Inspection evidence",
+                "Parts out of tolerance not detected",
+                "Ask for CMM inspection reports",
+                "In-house Zeiss CMM lab; reports supplied on request"
+              ],
+              [
+                "Wear life",
+                "Early wear of cores, cavities and neck rings",
+                "Ask what shot count the tooling is built for",
+                "Built to withstand up to 8 million shots on Husky, SACMI and Netstal platforms"
+              ],
+              [
+                "Hot runner leaks",
+                "Mold stops, cleaning downtime",
+                "Ask for a written leakage guarantee",
+                "3-year leakage-proof guarantee on the Husky Ultra-type design"
+              ],
+              [
+                "Interchangeability",
+                "Parts do not swap with existing ones",
+                "Test with your existing parts",
+                "100% interchangeable conversion parts for Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps and Corvaglia systems"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "OEM molds vs non-OEM molds compared",
+          "paragraphs": [
+            "The useful comparison is not OEM against non-OEM, but OEM tooling against a verified non-OEM supplier and an unverified one. Machine makers such as Husky (husky.co) and SACMI (sacmi.com) list preform and closure solutions and service offerings on their websites; independent suppliers vary much more."
+          ],
+          "table": {
+            "head": [
+              "",
+              "OEM tooling",
+              "Non-OEM, verified supplier",
+              "Non-OEM, unverified supplier"
+            ],
+            "rows": [
+              [
+                "Interface data",
+                "OEM's own machine data",
+                "Machine audit and customer data",
+                "Often only a sample or a photo"
+              ],
+              [
+                "Quality evidence",
+                "OEM documentation",
+                "CPK data and CMM reports provided",
+                "Usually none"
+              ],
+              [
+                "Platform coverage",
+                "Mainly the OEM's own machines",
+                "Several machine brands",
+                "Unclear"
+              ],
+              [
+                "Lead time",
+                "Quoted per project",
+                "Published or quoted",
+                "Often promised, rarely documented"
+              ],
+              [
+                "Support",
+                "OEM service network",
+                "Installation, start-up and remote support",
+                "Limited or none"
+              ],
+              [
+                "Price",
+                "Quoted per project",
+                "Quoted per project",
+                "Often lowest at purchase"
+              ],
+              [
+                "Overall risk",
+                "Low",
+                "Low to moderate",
+                "High"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "What LIHE Precision is, and what it is not",
+          "paragraphs": [
+            "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China."
+          ],
+          "list": [
+            "Manufacturing in Shishan Town, Nanhai District, Foshan, with a 15,000 sqm facility and over 10,000 sqm of climate-controlled production floor.",
+            "More than 20 years of experience and customers in 50+ countries.",
+            "Coca-Cola verified mold supplier in the Asia region. LIHE is not owned or operated by Coca-Cola.",
+            "Machining on Mazak, Makino, Okamoto, Haas, Hardinge, Beijing Jingdiao and Sodick EDM equipment; inspection with Zeiss CMM, a 3D profile scanner, an optical projector and bottle sample inspection.",
+            "LIHE is not a machine OEM. It does not build injection molding or blow molding machines and does not offer machine warranties.",
+            "LIHE does not publish a price list; every project is quoted.",
+            "LIHE's published guarantee is limited to the 3-year leakage-proof guarantee on its Husky Ultra-type hot runner design."
+          ]
+        },
+        {
+          "heading": "LIHE's key published numbers",
+          "list": [
+            "Process capability: CPK ≥ 1.33.",
+            "Operational defect rate: as low as 0.0064%.",
+            "Tool life: up to 8 million shots on Husky, SACMI and Netstal platforms.",
+            "Preform molds: 2 to 160 cavities, with over 12,000 cavities produced per year.",
+            "Hot runners: valve gate, up to 144 cavities for preforms and 96 cavities for closures.",
+            "Lead times: pilot molds 20 days, standard PET molds 8 weeks, replacement parts 4 weeks, cap mold parts 4 weeks.",
+            "Lightweighting: preform weight reduced by 1g to 2g; retrofits cost 25%–40% of a new mold price; neck cooling time reduced by up to 0.5 seconds with optimized cooling."
+          ]
+        },
+        {
+          "heading": "Who non-OEM molds suit, and who they do not",
+          "list": [
+            "Suit: plants running several machine brands that want one tooling supplier across platforms.",
+            "Suit: plants that need replacement parts made from existing Husky, SACMI or Otto parts, or neck finish conversions and lightweighting.",
+            "Suit: plants that want to retrofit an aging mold instead of replacing it.",
+            "Suit: blow molding lines on SIDEL, KRONES, SIG/KHS, TECH-LONG and NEWAMSTAR two-step machines or SIPA, ASB and AOKI one-step machines that need cold fill, hot fill or aseptic blow molds.",
+            "Do not suit: plants whose machine contract requires OEM tooling.",
+            "Do not suit: buyers who need a machine and mold under one warranty from one company.",
+            "Do not suit: projects where no drawings, samples or machine data can be provided."
+          ]
+        },
+        {
+          "heading": "Questions to ask any mold supplier, OEM or not",
+          "list": [
+            "Which machine platforms have you built molds for, and can you show inspection reports from those projects?",
+            "What CPK do you commit to for critical dimensions such as the neck finish, and how is it measured?",
+            "Who installs the mold and supports start-up, and what remote support is available after that?",
+            "What is the lead time for the full mold, for pilot tooling and for single replacement parts?",
+            "What exactly does your written guarantee cover, and for how long?",
+            "Can you make parts that are interchangeable with the ones already in my plant, and how is that verified?"
+          ]
+        },
+        {
+          "heading": "How to reduce the risk of a non-OEM mold purchase",
+          "steps": [
+            "Define the requirement: machine brand and model, preform or bottle drawing, neck finish, cavity count and target weight.",
+            "Ask the supplier for evidence: CPK data, sample CMM reports and a list of platforms it has built for.",
+            "Arrange a machine interface audit, or send complete machine and mold data if an on-site visit is not possible.",
+            "Review the design, 3D simulation and flow analysis before steel is cut.",
+            "Start with a pilot mold or a partial order when the design is new; LIHE delivers pilot molds in 20 days.",
+            "Agree acceptance criteria and inspection reports for delivery, then plan installation, start-up and preventive maintenance with the supplier's team."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Will a non-OEM mold void my machine warranty?",
+          "answer": "That depends on your machine contract, not on the mold. Ask the machine maker and read your service agreement before ordering. LIHE does not offer machine warranties."
+        },
+        {
+          "question": "Are non-OEM molds lower quality than OEM molds?",
+          "answer": "Not necessarily. Quality depends on the supplier's machining, inspection and process control. Ask for CPK data and CMM reports; LIHE publishes CPK ≥ 1.33 and defect rates as low as 0.0064%, and supplies inspection reports on request."
+        },
+        {
+          "question": "How long do non-OEM preform molds last?",
+          "answer": "Life depends on steel, design, resin and maintenance. LIHE tooling is built to withstand up to 8 million shots on Husky, SACMI and Netstal platforms."
+        },
+        {
+          "question": "Is LIHE owned by Coca-Cola?",
+          "answer": "No. LIHE is a Coca-Cola verified mold supplier in the Asia region. It is not owned or operated by Coca-Cola."
+        },
+        {
+          "question": "How much does a non-OEM mold cost?",
+          "answer": "LIHE does not publish prices; every mold is quoted after we receive drawings and machine data. Retrofitting an existing mold for lightweighting costs 25%–40% of a new mold price."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Wikipedia — Original equipment manufacturer",
+          "url": "https://en.wikipedia.org/wiki/Original_equipment_manufacturer"
+        },
+        {
+          "label": "Wikipedia — Process capability index",
+          "url": "https://en.wikipedia.org/wiki/Process_capability_index"
+        },
+        {
+          "label": "Wikipedia — Coordinate-measuring machine",
+          "url": "https://en.wikipedia.org/wiki/Coordinate-measuring_machine"
+        },
+        {
+          "label": "Wikipedia — Blow molding",
+          "url": "https://en.wikipedia.org/wiki/Blow_molding"
+        },
+        {
+          "label": "Husky Technologies — official website (PET tooling lifecycle solutions, parts, services)",
+          "url": "https://www.husky.co/"
+        },
+        {
+          "label": "SACMI — official website (closures, preforms, containers)",
+          "url": "https://sacmi.com/"
+        }
+      ]
     }
   ]
 }

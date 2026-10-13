@@ -1,5 +1,6 @@
 "use client";
 
+import { ATTRIBUTION_STORAGE_KEY } from "@/lib/attribution";
 import { useState, useEffect } from "react";
 import Button from "@/components/ui/Button/Button";
 import styles from "./ContactForm.module.css";
@@ -53,6 +54,15 @@ const countries = [
   "United Arab Emirates", "United Kingdom", "United States", "Uruguay", "Uzbekistan", "Vanuatu", "Vatican City",
   "Venezuela", "Vietnam", "Yemen", "Zambia", "Zimbabwe"
 ];
+
+function readAttribution(): unknown {
+  try {
+    const raw = window.localStorage.getItem(ATTRIBUTION_STORAGE_KEY);
+    return raw ? JSON.parse(raw) : null;
+  } catch {
+    return null;
+  }
+}
 
 export default function EnhancedContactForm({ locale, productCategories, labels }: EnhancedContactFormProps) {
   const [submitted, setSubmitted] = useState(false);
@@ -116,6 +126,7 @@ export default function EnhancedContactForm({ locale, productCategories, labels 
           ...formData,
           captchaToken: captcha?.token,
           locale,
+          attribution: readAttribution(),
         }),
       });
 

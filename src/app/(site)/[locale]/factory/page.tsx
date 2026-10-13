@@ -6,6 +6,8 @@ import { clampDescription, getLocaleAlternates } from "@/lib/seo";
 import Breadcrumb from "@/components/ui/Breadcrumb/Breadcrumb";
 import SectionHeading from "@/components/ui/SectionHeading/SectionHeading";
 import styles from "./page.module.css";
+import PageGuide from "@/components/content/PageGuide";
+import AiImageNotice from "@/components/ui/AiImageNotice/AiImageNotice";
 
 export async function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -68,6 +70,9 @@ export default async function FactoryPage({
           </div>
         </div>
       </section>
+      <div className="container">
+        <AiImageNotice />
+      </div>
 
       {/* Breadcrumb */}
       <div className={styles.container}>
@@ -109,6 +114,7 @@ export default async function FactoryPage({
                         className={styles.sectionImage}
                       />
                     </div>
+                    <AiImageNotice />
                   </div>
                   <div className={styles.textSide}>
                     <h2 className={styles.sectionTitle}>{section.title}</h2>
@@ -144,6 +150,7 @@ export default async function FactoryPage({
                           className={styles.itemImage}
                         />
                       </div>
+                      <AiImageNotice />
                       <div className={styles.itemContent}>
                         <h3 className={styles.itemTitle}>{item.title}</h3>
                         <p className={styles.itemDescription}>
@@ -175,6 +182,7 @@ export default async function FactoryPage({
           </section>
         );
       })}
+      <PageGuide locale={locale} guideKey="page-factory" />
     </div>
   );
 }

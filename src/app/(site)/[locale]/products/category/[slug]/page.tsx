@@ -13,6 +13,8 @@ import SectionHeading from "@/components/ui/SectionHeading/SectionHeading";
 import CategoryFilter from "@/components/products/CategoryFilter";
 import ProductGrid from "@/components/products/ProductGrid";
 import styles from "../../page.module.css";
+import PageGuide from "@/components/content/PageGuide";
+import AiImageNotice from "@/components/ui/AiImageNotice/AiImageNotice";
 
 export function generateStaticParams() {
   return routing.locales.flatMap((locale) =>
@@ -87,7 +89,9 @@ export default async function ProductCategoryPage({
           allLabel={t("allCategories")}
         />
         <ProductGrid products={products} viewDetailsLabel={t("viewDetails")} />
+        <AiImageNotice />
       </div>
+      <PageGuide locale={locale} guideKey={`category-${slug}`} />
     </div>
   );
 }

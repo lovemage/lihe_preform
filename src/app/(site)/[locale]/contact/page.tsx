@@ -6,6 +6,7 @@ import Breadcrumb from "@/components/ui/Breadcrumb/Breadcrumb";
 import SectionHeading from "@/components/ui/SectionHeading/SectionHeading";
 import EnhancedContactForm from "@/components/contact/ContactForm/EnhancedContactForm";
 import styles from "./page.module.css";
+import PageGuide from "@/components/content/PageGuide";
 
 export async function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -157,6 +158,7 @@ export default async function ContactPage({
           </div>
         </div>
       </div>
+      <PageGuide locale={locale} guideKey="page-contact" />
     </div>
   );
 }

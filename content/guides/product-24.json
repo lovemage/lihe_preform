@@ -1,0 +1,401 @@
+{
+  "key": "product-24",
+  "updated": "2026-10-13",
+  "sources": [
+    { "label": "Wikipedia — Blow molding", "url": "https://en.wikipedia.org/wiki/Blow_molding" },
+    { "label": "Wikipedia — Bottled water", "url": "https://en.wikipedia.org/wiki/Bottled_water" },
+    { "label": "Wikipedia — Polyethylene terephthalate", "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate" },
+    { "label": "Wikipedia — Plastic bottle", "url": "https://en.wikipedia.org/wiki/Plastic_bottle" },
+    { "label": "ISBT — International Society of Beverage Technologists", "url": "https://www.isbt.com/" },
+    { "label": "Sidel — PET packaging and blow moulding equipment", "url": "https://www.sidel.com/en" }
+  ],
+  "locales": {
+    "en": {
+      "heading": "Lightweight water bottle blow mold design: base, grip panels, top-load and neck finish",
+      "intro": "A blow mold for disposable bottled water is a set of cavity halves and a base insert that stretch-blows a heated PET preform into a single-use still water bottle. This guide explains the design choices that decide how light a water bottle can be and still survive the line and the pallet: base shape, grip panels, top-load strength, neck finish and bottle size. It ends with the development steps from bottle drawing to approved samples.",
+      "sections": [
+        {
+          "heading": "What makes a lightweight water bottle work",
+          "paragraphs": [
+            "In still water, the bottle carries no internal pressure after capping, so the main loads are vertical: the capper pushing down, stacked cases and pallets, and handling by the consumer. A lightweight bottle works when the PET that remains is placed where these loads act and removed where it does nothing.",
+            "Bottle weight is set by the preform, but where the material ends up is set by the blow mold geometry and the stretch ratios between preform and bottle. For that reason the bottle and the preform should be designed as one pair, not ordered separately."
+          ],
+          "list": [
+            "Material distribution: aim for even wall thickness in the shoulder, panel and heel; thick spots add weight without adding strength.",
+            "Shoulder geometry: a well-shaped shoulder carries most of the top-load from the neck down into the body.",
+            "Base geometry: the base must stand flat after filling and resist rocking on conveyors.",
+            "Neck finish: the finish is one of the heaviest parts of the preform and is a direct lever on weight.",
+            "LIHE lightweighting proposals reduce preform weight by 1g to 2g through neck or wall-thickness optimization, and the blow mold is adjusted to match the new preform."
+          ]
+        },
+        {
+          "heading": "Water bottle base design: petaloid vs flat and push-up bases",
+          "paragraphs": [
+            "The base is where blow molding is hardest: material stretches least near the gate, and the base must stand stable on fast conveyors. The right base depends on whether the product is still or carbonated."
+          ],
+          "table": {
+            "head": ["", "Petaloid base", "Flat / push-up (champagne-style) base"],
+            "rows": [
+              ["Shape", "Several feet (\"petals\") around a central gate area", "Flat standing ring with a domed push-up in the center"],
+              ["Main purpose", "Resists internal pressure from carbonation", "Stable standing for non-pressurized products"],
+              ["Typical water use", "Sparkling water and some nitrogen-dosed still water lines", "Most still water and mineral water bottles"],
+              ["Material needs", "More material in the feet and valleys", "Can be blown thinner because there is no internal pressure"],
+              ["Main risks", "Thin or stress-cracked feet if material is short", "Base roll-out or rocking if the push-up is too shallow"]
+            ]
+          },
+          "list": [
+            "Use a flat or push-up base for standard still water unless the line uses nitrogen dosing or the product is carbonated.",
+            "Keep the standing ring wide enough to prevent tipping on transfer points and in conveyor accumulation.",
+            "Check base clearance with the filler and capper handling parts before freezing the design."
+          ]
+        },
+        {
+          "heading": "Grip panels, ribs and top-load strength",
+          "paragraphs": [
+            "Top-load is the vertical force a bottle withstands before it buckles. It is tested on empty and filled bottles because both conditions occur on the line: empty bottles meet the capper and filler, filled bottles meet the pallet stack."
+          ],
+          "list": [
+            "Horizontal rings and ribs increase hoop stiffness, which helps bottles keep their shape when squeezed, but rings placed too close to the shoulder can lower top-load.",
+            "Grip panels give the consumer a place to hold a thin bottle; they should be shallow and smooth so material can flow into them evenly.",
+            "Label panels must stay smooth and round enough for the label to apply without wrinkles.",
+            "Sharp corners and deep features trap material and leave thin walls next to them; generous radii distribute PET more evenly.",
+            "Very light still water bottles are often filled with a small dose of liquid nitrogen so internal pressure adds rigidity; the bottle design must allow for that pressure.",
+            "Confirm top-load targets with the filler, capper and pallet pattern you actually use, not with a general figure."
+          ]
+        },
+        {
+          "heading": "Neck finish choice for water bottles: PCO 1881, 2925 and 2622",
+          "paragraphs": [
+            "The neck finish fixes the closure, the preform weight in the threaded area and the neck handling parts on the blow molder and filler. Changing it later affects the preform mold, the closure supply and the conveyor parts, so it is decided at the start."
+          ],
+          "table": {
+            "head": ["Neck finish", "Nominal size", "Typical water use", "Points to check"],
+            "rows": [
+              ["PCO 1881", "28 mm", "Still and sparkling water; shared with carbonated soft drink lines", "Heavier than short water necks; useful when one line runs both still and carbonated products"],
+              ["2925 (29/25)", "29 mm", "Still water with short, lightweight closures", "Closure supply and capping heads must match the 29 mm finish"],
+              ["2622 (26/22)", "26 mm", "Still water where the lightest neck is wanted", "Smaller opening; check closure availability and capper tooling"]
+            ]
+          },
+          "list": [
+            "Short water necks such as 2925 and 2622 save material in the neck compared with taller finishes.",
+            "If the line also runs carbonated drinks, a shared PCO 1881 finish can keep closures and neck parts common.",
+            "The preform mold, the blow mold neck area and neck grippers must all match the chosen finish."
+          ]
+        },
+        {
+          "heading": "Water bottle sizes: 330ml, 500ml, 550ml and 1.5L",
+          "list": [
+            "330ml: short bottles where base stability and label area matter; often used for events, hotels and multipacks.",
+            "500ml: the most common single-serve size; the main target for lightweighting because volumes are high.",
+            "550ml: a variant of the 500ml format used in some markets; it may share the preform with 500ml if the stretch ratios allow it.",
+            "1.5L: larger panels and longer bodies need more attention to top-load and paneling; grip areas help the consumer pour.",
+            "Producing several sizes from one preform reduces preform mold investment but must be checked for correct stretch ratios in each bottle.",
+            "LIHE supplies water bottle blow molds in these sizes for two-step machines (SIDEL, KRONES, SIG/KHS, TECH-LONG, NEWAMSTAR) and one-step machines (SIPA, ASB, AOKI)."
+          ]
+        },
+        {
+          "heading": "Development steps for a new lightweight water bottle blow mold",
+          "steps": [
+            "Define the product: size (for example 500ml), still or carbonated, nitrogen dosing, target bottle weight, closure and neck finish.",
+            "Collect line data: blow molding machine model, mold carrier type, filler and capper handling parts, label size and pallet pattern.",
+            "Draw the bottle and preform together; LIHE's engineering center uses CAD/CAM, 3D simulation and flow analysis before production.",
+            "Review the drawing with the bottler: shape, base, grip panels, label panel and brand features.",
+            "Machine the blow mold and, where needed, a matching preform or neck parts.",
+            "Blow sample bottles and inspect them: wall thickness distribution, volume, base shape and dimensions; LIHE checks samples with a 3D profile scanner and bottle sample inspection.",
+            "Test top-load and stability with the bottler's own filling and capping conditions, adjust the design if needed, and approve for production."
+          ]
+        },
+        {
+          "heading": "What to send when requesting a water bottle blow mold quote",
+          "list": [
+            "Bottle drawing or sample, or a sketch with size, height and diameter limits.",
+            "Preform drawing or sample, including the neck finish (PCO 1881, 2925, 2622 or other).",
+            "Machine brand and model, number of cavities and mold carrier type.",
+            "Target bottle weight, and whether the project is a new bottle or a lighter version of an existing one.",
+            "Filling type (still, sparkling, nitrogen dosed) and any label or pallet constraints."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Can an existing water bottle be made lighter without changing the filler?",
+          "answer": "Often yes. Lightweighting usually changes the preform weight and the blow mold geometry while keeping the neck finish and the outer dimensions that the filler, capper and labeler handle. LIHE lightweighting proposals reduce preform weight by 1g to 2g through neck or wall-thickness optimization."
+        },
+        {
+          "question": "Which base is better for still water, petaloid or flat?",
+          "answer": "For non-pressurized still water a flat or push-up base is usually enough and uses less material. A petaloid base is designed to resist internal pressure, so it is used for sparkling water and some nitrogen-dosed still water bottles."
+        },
+        {
+          "question": "Should I choose PCO 1881 or a short water neck like 2925 or 2622?",
+          "answer": "Short water necks save material and suit lines that only run still water. PCO 1881 is a common choice when the same line also fills carbonated drinks, because closures and neck handling parts can be shared."
+        },
+        {
+          "question": "Can 500ml and 550ml bottles use the same preform?",
+          "answer": "Sometimes. It depends on the stretch ratios between the preform and each bottle. The bottle and preform drawings should be checked together before deciding to share one preform."
+        },
+        {
+          "question": "Which blow molding machines are these molds made for?",
+          "answer": "Two-step machines such as SIDEL, KRONES, SIG/KHS, TECH-LONG and NEWAMSTAR, and one-step machines such as SIPA, ASB and AOKI. The machine model and mold carrier type are needed with the request."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "Выдувная форма для облегчённой бутылки для воды: дно, зоны захвата, осевая нагрузка и горло",
+      "intro": "Выдувная форма для бутилированной воды — это комплект полуформ и вставки дна, в котором нагретая ПЭТ-преформа раздувается с вытяжкой в одноразовую бутылку для негазированной воды. В этом руководстве разобраны конструкторские решения, от которых зависит, насколько лёгкой может быть бутылка и при этом выдержать линию и паллету: форма дна, зоны захвата, прочность на осевую нагрузку, тип горла и объём бутылки. В конце приведены этапы разработки — от чертежа бутылки до утверждённых образцов.",
+      "sections": [
+        {
+          "heading": "За счёт чего работает облегчённая бутылка для воды",
+          "paragraphs": [
+            "У негазированной воды после укупорки внутри бутылки нет давления, поэтому основные нагрузки вертикальные: давление укупорочной головки, штабелирование коробов и паллет, обращение с бутылкой у потребителя. Облегчённая бутылка работает, если оставшийся ПЭТ находится там, где действуют эти нагрузки, и убран оттуда, где он ничего не несёт.",
+            "Массу бутылки задаёт преформа, но распределение материала определяется геометрией выдувной формы и степенями вытяжки между преформой и бутылкой. Поэтому бутылку и преформу нужно проектировать как одну пару, а не заказывать по отдельности."
+          ],
+          "list": [
+            "Распределение материала: стремитесь к равномерной толщине стенки в плечах, на панели и в пятке; утолщения добавляют массу, но не прочность.",
+            "Геометрия плеч: правильно спроектированные плечи передают большую часть осевой нагрузки от горла в корпус.",
+            "Геометрия дна: после наполнения дно должно стоять ровно и не качаться на конвейере.",
+            "Горло: венчик — одна из самых тяжёлых частей преформы и прямой рычаг снижения массы.",
+            "Предложения LIHE по облегчению снижают массу преформы на 1–2 г за счёт оптимизации горла или толщины стенки, а выдувная форма адаптируется под новую преформу."
+          ]
+        },
+        {
+          "heading": "Дно бутылки для воды: петалоидное или плоское с вогнутым центром",
+          "paragraphs": [
+            "Дно — самая сложная зона при выдуве: возле точки литника материал вытягивается меньше всего, а бутылка должна устойчиво стоять на быстрых конвейерах. Выбор дна зависит от того, газированный продукт или нет."
+          ],
+          "table": {
+            "head": ["", "Петалоидное дно", "Плоское дно с вогнутым центром (типа «шампань»)"],
+            "rows": [
+              ["Форма", "Несколько «лепестков»-опор вокруг центральной зоны литника", "Плоское опорное кольцо с куполом в центре"],
+              ["Основное назначение", "Выдерживает внутреннее давление газированного продукта", "Устойчивость для продуктов без давления"],
+              ["Типичное применение для воды", "Газированная вода и часть линий негазированной воды с дозированием азота", "Большинство бутылок негазированной и минеральной воды"],
+              ["Потребность в материале", "Больше материала в опорах и впадинах", "Можно выдувать тоньше, так как давления нет"],
+              ["Основные риски", "Тонкие опоры или растрескивание под напряжением при нехватке материала", "Выдавливание или качание дна при слишком мелком куполе"]
+            ]
+          },
+          "list": [
+            "Для обычной негазированной воды используйте плоское дно с вогнутым центром, если на линии нет дозирования азота и продукт не газированный.",
+            "Опорное кольцо должно быть достаточно широким, чтобы бутылка не падала на передачах и в накопителях конвейера.",
+            "Перед утверждением конструкции проверьте зазоры дна с узлами транспортировки наполнителя и укупорщика."
+          ]
+        },
+        {
+          "heading": "Зоны захвата, рёбра и прочность на осевую нагрузку",
+          "paragraphs": [
+            "Осевая нагрузка (top-load) — это вертикальное усилие, которое бутылка выдерживает до потери устойчивости. Её проверяют на пустых и наполненных бутылках, потому что на линии встречаются оба состояния: пустые бутылки проходят наполнитель и укупорщик, полные — нагрузку в штабеле паллет."
+          ],
+          "list": [
+            "Горизонтальные кольца и рёбра повышают кольцевую жёсткость и помогают бутылке сохранять форму при сжатии, но кольца слишком близко к плечам могут снизить осевую прочность.",
+            "Зоны захвата дают потребителю место, чтобы держать тонкую бутылку; они должны быть неглубокими и плавными, чтобы материал равномерно затекал в них.",
+            "Этикеточная панель должна оставаться гладкой и достаточно круглой, чтобы этикетка наносилась без складок.",
+            "Острые углы и глубокие элементы задерживают материал и оставляют рядом тонкие стенки; большие радиусы распределяют ПЭТ равномернее.",
+            "Очень лёгкие бутылки для негазированной воды часто наполняют с малой дозой жидкого азота, чтобы внутреннее давление добавило жёсткости; конструкция бутылки должна учитывать это давление.",
+            "Согласуйте целевую осевую прочность с реальными наполнителем, укупорщиком и схемой паллетирования, а не с усреднённой цифрой."
+          ]
+        },
+        {
+          "heading": "Выбор горла для бутылки воды: PCO 1881, 2925 и 2622",
+          "paragraphs": [
+            "Горло определяет колпачок, массу преформы в резьбовой зоне и узлы захвата горла на выдувной машине и наполнителе. Позднее изменение затрагивает пресс-форму преформы, поставки колпачков и детали конвейера, поэтому решение принимается в самом начале."
+          ],
+          "table": {
+            "head": ["Горло", "Номинальный размер", "Типичное применение для воды", "Что проверить"],
+            "rows": [
+              ["PCO 1881", "28 мм", "Негазированная и газированная вода; общее с линиями газированных напитков", "Тяжелее коротких «водных» горл; удобно, если одна линия выпускает и газированные, и негазированные продукты"],
+              ["2925 (29/25)", "29 мм", "Негазированная вода с короткими лёгкими колпачками", "Поставка колпачков и укупорочные головки должны соответствовать горлу 29 мм"],
+              ["2622 (26/22)", "26 мм", "Негазированная вода, когда нужно самое лёгкое горло", "Меньшее отверстие; проверьте наличие колпачков и оснастку укупорщика"]
+            ]
+          },
+          "list": [
+            "Короткие горла для воды, такие как 2925 и 2622, экономят материал в зоне горла по сравнению с более высокими венчиками.",
+            "Если на линии также разливают газированные напитки, общее горло PCO 1881 позволяет унифицировать колпачки и детали захвата горла.",
+            "Пресс-форма преформы, зона горла выдувной формы и захваты горла должны соответствовать выбранному горлу."
+          ]
+        },
+        {
+          "heading": "Объёмы бутылок для воды: 330 мл, 500 мл, 550 мл и 1,5 л",
+          "list": [
+            "330 мл: короткие бутылки, где важны устойчивость дна и площадь этикетки; часто для мероприятий, гостиниц и мультипаков.",
+            "500 мл: самый распространённый порционный объём и главная цель облегчения из-за больших тиражей.",
+            "550 мл: вариант формата 500 мл на ряде рынков; может использовать ту же преформу, если позволяют степени вытяжки.",
+            "1,5 л: большие панели и длинный корпус требуют внимания к осевой нагрузке и деформации панелей; зоны захвата облегчают налив.",
+            "Выпуск нескольких объёмов из одной преформы снижает затраты на пресс-формы преформ, но степени вытяжки нужно проверить для каждой бутылки.",
+            "LIHE поставляет выдувные формы для бутылок воды этих объёмов для двухстадийных машин (SIDEL, KRONES, SIG/KHS, TECH-LONG, NEWAMSTAR) и одностадийных машин (SIPA, ASB, AOKI)."
+          ]
+        },
+        {
+          "heading": "Этапы разработки выдувной формы для новой облегчённой бутылки",
+          "steps": [
+            "Определите продукт: объём (например, 500 мл), газированный или нет, дозирование азота, целевая масса бутылки, колпачок и горло.",
+            "Соберите данные линии: модель выдувной машины, тип держателя форм, узлы транспортировки наполнителя и укупорщика, размер этикетки и схема паллетирования.",
+            "Спроектируйте бутылку и преформу вместе; инженерный центр LIHE перед производством использует CAD/CAM, 3D-моделирование и анализ течения.",
+            "Согласуйте чертёж с заказчиком: форма, дно, зоны захвата, этикеточная панель и элементы бренда.",
+            "Изготовьте выдувную форму и при необходимости соответствующую преформу или детали горла.",
+            "Выдуйте образцы и проверьте их: распределение толщины стенки, объём, форму дна и размеры; LIHE проверяет образцы 3D-сканером профиля и контролем образцов бутылок.",
+            "Испытайте осевую нагрузку и устойчивость в реальных условиях наполнения и укупорки заказчика, при необходимости скорректируйте конструкцию и утвердите для производства."
+          ]
+        },
+        {
+          "heading": "Что прислать для расчёта выдувной формы для бутылки воды",
+          "list": [
+            "Чертёж или образец бутылки либо эскиз с ограничениями по объёму, высоте и диаметру.",
+            "Чертёж или образец преформы с указанием горла (PCO 1881, 2925, 2622 или другое).",
+            "Марку и модель машины, количество гнёзд и тип держателя форм.",
+            "Целевую массу бутылки и информацию о том, новая это бутылка или облегчённая версия существующей.",
+            "Тип розлива (негазированная, газированная, с азотом) и ограничения по этикетке или паллетированию."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Можно ли облегчить существующую бутылку без изменения наполнителя?",
+          "answer": "Часто да. Облегчение обычно меняет массу преформы и геометрию выдувной формы, сохраняя горло и наружные размеры, с которыми работают наполнитель, укупорщик и этикетировщик. Предложения LIHE по облегчению снижают массу преформы на 1–2 г за счёт оптимизации горла или толщины стенки."
+        },
+        {
+          "question": "Какое дно лучше для негазированной воды — петалоидное или плоское?",
+          "answer": "Для негазированной воды без давления обычно достаточно плоского дна с вогнутым центром, и оно требует меньше материала. Петалоидное дно рассчитано на внутреннее давление, поэтому применяется для газированной воды и части бутылок негазированной воды с дозированием азота."
+        },
+        {
+          "question": "Выбрать PCO 1881 или короткое горло для воды, например 2925 или 2622?",
+          "answer": "Короткие горла экономят материал и подходят линиям, где разливают только негазированную воду. PCO 1881 удобен, если та же линия разливает газированные напитки: колпачки и детали захвата горла остаются общими."
+        },
+        {
+          "question": "Могут ли бутылки 500 мл и 550 мл использовать одну преформу?",
+          "answer": "Иногда. Это зависит от степеней вытяжки между преформой и каждой бутылкой. Чертежи бутылки и преформы нужно проверить вместе, прежде чем решать использовать одну преформу."
+        },
+        {
+          "question": "Для каких выдувных машин изготавливаются эти формы?",
+          "answer": "Для двухстадийных машин SIDEL, KRONES, SIG/KHS, TECH-LONG и NEWAMSTAR и одностадийных машин SIPA, ASB и AOKI. В запросе нужно указать модель машины и тип держателя форм."
+        }
+      ]
+    },
+    "es": {
+      "heading": "Diseño de molde de soplado para botella de agua ligera: base, zonas de agarre, carga vertical y cuello",
+      "intro": "Un molde de soplado para agua embotellada desechable es un conjunto de semimoldes y un inserto de fondo que estira y sopla una preforma de PET calentada hasta formar una botella de un solo uso para agua sin gas. Esta guía explica las decisiones de diseño que determinan cuán ligera puede ser una botella de agua sin dejar de resistir la línea y el palé: forma de la base, zonas de agarre, resistencia a la carga vertical, acabado de cuello y tamaño de botella. Termina con los pasos de desarrollo, desde el plano de la botella hasta las muestras aprobadas.",
+      "sections": [
+        {
+          "heading": "Qué hace funcionar una botella de agua ligera",
+          "paragraphs": [
+            "En el agua sin gas la botella no tiene presión interna después del taponado, así que las cargas principales son verticales: la taponadora que empuja hacia abajo, las cajas y palés apilados y la manipulación del consumidor. Una botella ligera funciona cuando el PET que queda está donde actúan esas cargas y se elimina donde no aporta nada.",
+            "El peso de la botella lo fija la preforma, pero la distribución del material la fijan la geometría del molde de soplado y las relaciones de estirado entre preforma y botella. Por eso la botella y la preforma deben diseñarse como un par, no pedirse por separado."
+          ],
+          "list": [
+            "Distribución del material: buscar un espesor de pared uniforme en hombro, panel y talón; los puntos gruesos añaden peso sin añadir resistencia.",
+            "Geometría del hombro: un hombro bien formado transmite la mayor parte de la carga vertical desde el cuello hacia el cuerpo.",
+            "Geometría de la base: la base debe apoyar plana después del llenado y no balancearse en los transportadores.",
+            "Acabado de cuello: es una de las partes más pesadas de la preforma y una palanca directa sobre el peso.",
+            "Las propuestas de aligeramiento de LIHE reducen el peso de la preforma entre 1 g y 2 g optimizando el cuello o el espesor de pared, y el molde de soplado se ajusta a la nueva preforma."
+          ]
+        },
+        {
+          "heading": "Base de la botella de agua: petaloide frente a base plana con fondo cóncavo",
+          "paragraphs": [
+            "La base es la zona más difícil del soplado: cerca del punto de inyección el material se estira menos y la botella debe mantenerse estable en transportadores rápidos. La base adecuada depende de si el producto es sin gas o carbonatado."
+          ],
+          "table": {
+            "head": ["", "Base petaloide", "Base plana con fondo cóncavo (tipo champán)"],
+            "rows": [
+              ["Forma", "Varios pies (\"pétalos\") alrededor de una zona central de inyección", "Anillo de apoyo plano con una cúpula cóncava en el centro"],
+              ["Función principal", "Resiste la presión interna de la carbonatación", "Estabilidad para productos sin presión"],
+              ["Uso típico en agua", "Agua con gas y algunas líneas de agua sin gas con dosificación de nitrógeno", "La mayoría de botellas de agua sin gas y agua mineral"],
+              ["Necesidad de material", "Más material en los pies y valles", "Puede soplarse más delgada porque no hay presión interna"],
+              ["Riesgos principales", "Pies delgados o agrietados por tensión si falta material", "Deformación o balanceo de la base si la cúpula es poco profunda"]
+            ]
+          },
+          "list": [
+            "Usar base plana con fondo cóncavo para agua sin gas estándar, salvo que la línea use dosificación de nitrógeno o el producto sea carbonatado.",
+            "Mantener el anillo de apoyo suficientemente ancho para evitar vuelcos en los puntos de transferencia y en la acumulación de los transportadores.",
+            "Comprobar el espacio de la base con las piezas de manipulación de la llenadora y la taponadora antes de cerrar el diseño."
+          ]
+        },
+        {
+          "heading": "Zonas de agarre, nervios y resistencia a la carga vertical (top-load)",
+          "paragraphs": [
+            "La carga vertical (top-load) es la fuerza vertical que una botella soporta antes de pandearse. Se ensaya con botellas vacías y llenas porque ambas condiciones ocurren en la línea: las vacías pasan por la llenadora y la taponadora, y las llenas soportan el apilado de palés."
+          ],
+          "list": [
+            "Los anillos y nervios horizontales aumentan la rigidez circunferencial y ayudan a que la botella mantenga su forma al apretarla, pero los anillos demasiado cerca del hombro pueden reducir la carga vertical.",
+            "Las zonas de agarre dan al consumidor un lugar donde sujetar una botella delgada; deben ser poco profundas y suaves para que el material fluya de forma uniforme.",
+            "Los paneles de etiqueta deben quedar lisos y suficientemente redondos para aplicar la etiqueta sin arrugas.",
+            "Las esquinas vivas y los relieves profundos retienen material y dejan paredes delgadas a su lado; los radios amplios distribuyen el PET de forma más pareja.",
+            "Las botellas de agua sin gas muy ligeras suelen llenarse con una pequeña dosis de nitrógeno líquido para que la presión interna aporte rigidez; el diseño de la botella debe tener en cuenta esa presión.",
+            "Confirmar los objetivos de carga vertical con la llenadora, la taponadora y el esquema de paletizado reales, no con una cifra genérica."
+          ]
+        },
+        {
+          "heading": "Elección del cuello para botellas de agua: PCO 1881, 2925 y 2622",
+          "paragraphs": [
+            "El acabado de cuello define el tapón, el peso de la preforma en la zona roscada y las piezas de manipulación del cuello en la sopladora y la llenadora. Cambiarlo después afecta al molde de preforma, al suministro de tapones y a las piezas del transportador, por lo que se decide al inicio."
+          ],
+          "table": {
+            "head": ["Cuello", "Tamaño nominal", "Uso típico en agua", "Puntos a revisar"],
+            "rows": [
+              ["PCO 1881", "28 mm", "Agua sin gas y con gas; compartido con líneas de refrescos carbonatados", "Más pesado que los cuellos cortos de agua; útil cuando una línea produce productos con y sin gas"],
+              ["2925 (29/25)", "29 mm", "Agua sin gas con tapones cortos y ligeros", "El suministro de tapones y los cabezales de taponado deben corresponder al cuello de 29 mm"],
+              ["2622 (26/22)", "26 mm", "Agua sin gas cuando se busca el cuello más ligero", "Abertura menor; verificar disponibilidad de tapones y utillaje de la taponadora"]
+            ]
+          },
+          "list": [
+            "Los cuellos cortos para agua, como 2925 y 2622, ahorran material en el cuello frente a acabados más altos.",
+            "Si la línea también llena bebidas carbonatadas, un cuello PCO 1881 compartido mantiene comunes los tapones y las piezas de cuello.",
+            "El molde de preforma, la zona de cuello del molde de soplado y las pinzas de cuello deben corresponder al acabado elegido."
+          ]
+        },
+        {
+          "heading": "Tamaños de botella de agua: 330 ml, 500 ml, 550 ml y 1,5 L",
+          "list": [
+            "330 ml: botellas cortas donde importan la estabilidad de la base y el área de etiqueta; habituales en eventos, hoteles y multipacks.",
+            "500 ml: el tamaño individual más común y el principal objetivo de aligeramiento por sus grandes volúmenes.",
+            "550 ml: variante del formato de 500 ml en algunos mercados; puede compartir preforma con la de 500 ml si las relaciones de estirado lo permiten.",
+            "1,5 L: paneles más grandes y cuerpos más largos exigen más atención a la carga vertical y a la deformación de paneles; las zonas de agarre facilitan servir.",
+            "Producir varios tamaños con una sola preforma reduce la inversión en moldes de preforma, pero hay que comprobar las relaciones de estirado en cada botella.",
+            "LIHE suministra moldes de soplado para botellas de agua en estos tamaños para máquinas de dos etapas (SIDEL, KRONES, SIG/KHS, TECH-LONG, NEWAMSTAR) y de una etapa (SIPA, ASB, AOKI)."
+          ]
+        },
+        {
+          "heading": "Pasos de desarrollo de un molde de soplado para una nueva botella de agua ligera",
+          "steps": [
+            "Definir el producto: tamaño (por ejemplo 500 ml), con o sin gas, dosificación de nitrógeno, peso objetivo de la botella, tapón y acabado de cuello.",
+            "Reunir los datos de la línea: modelo de sopladora, tipo de portamoldes, piezas de manipulación de llenadora y taponadora, tamaño de etiqueta y esquema de paletizado.",
+            "Diseñar botella y preforma juntas; el centro de ingeniería de LIHE usa CAD/CAM, simulación 3D y análisis de flujo antes de la producción.",
+            "Revisar el plano con el embotellador: forma, base, zonas de agarre, panel de etiqueta y elementos de marca.",
+            "Mecanizar el molde de soplado y, si hace falta, la preforma o las piezas de cuello correspondientes.",
+            "Soplar botellas de muestra e inspeccionarlas: distribución de espesores, volumen, forma de la base y dimensiones; LIHE revisa las muestras con un escáner de perfil 3D e inspección de botellas de muestra.",
+            "Ensayar la carga vertical y la estabilidad con las condiciones reales de llenado y taponado del embotellador, ajustar el diseño si es necesario y aprobar para producción."
+          ]
+        },
+        {
+          "heading": "Qué enviar al pedir cotización de un molde de soplado para botella de agua",
+          "list": [
+            "Plano o muestra de la botella, o un boceto con límites de tamaño, altura y diámetro.",
+            "Plano o muestra de la preforma, incluido el acabado de cuello (PCO 1881, 2925, 2622 u otro).",
+            "Marca y modelo de la máquina, número de cavidades y tipo de portamoldes.",
+            "Peso objetivo de la botella e indicación de si es una botella nueva o una versión aligerada de una existente.",
+            "Tipo de llenado (sin gas, con gas, con nitrógeno) y cualquier restricción de etiqueta o paletizado."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Se puede aligerar una botella de agua existente sin cambiar la llenadora?",
+          "answer": "A menudo sí. El aligeramiento suele cambiar el peso de la preforma y la geometría del molde de soplado, manteniendo el cuello y las dimensiones exteriores que manejan la llenadora, la taponadora y la etiquetadora. Las propuestas de aligeramiento de LIHE reducen el peso de la preforma entre 1 g y 2 g optimizando el cuello o el espesor de pared."
+        },
+        {
+          "question": "¿Qué base es mejor para agua sin gas, petaloide o plana?",
+          "answer": "Para agua sin gas, sin presión interna, una base plana con fondo cóncavo suele ser suficiente y usa menos material. La base petaloide está diseñada para resistir presión interna, por eso se usa en agua con gas y en algunas botellas de agua sin gas con dosificación de nitrógeno."
+        },
+        {
+          "question": "¿Conviene PCO 1881 o un cuello corto para agua como 2925 o 2622?",
+          "answer": "Los cuellos cortos ahorran material y convienen a líneas que solo llenan agua sin gas. PCO 1881 es una opción habitual cuando la misma línea también llena bebidas carbonatadas, porque se comparten tapones y piezas de manipulación del cuello."
+        },
+        {
+          "question": "¿Pueden las botellas de 500 ml y 550 ml usar la misma preforma?",
+          "answer": "A veces. Depende de las relaciones de estirado entre la preforma y cada botella. Hay que revisar juntos los planos de botella y preforma antes de decidir compartir una preforma."
+        },
+        {
+          "question": "¿Para qué sopladoras se fabrican estos moldes?",
+          "answer": "Para máquinas de dos etapas como SIDEL, KRONES, SIG/KHS, TECH-LONG y NEWAMSTAR, y de una etapa como SIPA, ASB y AOKI. En la solicitud se necesitan el modelo de máquina y el tipo de portamoldes."
+        }
+      ]
+    }
+  }
+}

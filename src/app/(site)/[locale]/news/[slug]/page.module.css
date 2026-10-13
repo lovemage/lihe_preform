@@ -66,82 +66,20 @@
   color: var(--color-gray-900);
 }
 
-.paragraph {
-  margin: 0 0 var(--space-md);
-  line-height: 1.8;
-  color: var(--color-gray-700);
-}
-
-.list,
-.steps {
+.list {
   margin: 0 0 var(--space-md);
   padding-left: 1.4em;
   line-height: 1.8;
   color: var(--color-gray-700);
 }
 
-.list li,
-.steps li {
+.list li {
   margin-bottom: var(--space-xs);
 }
 
 .list a {
   color: var(--color-primary);
   font-weight: 600;
-}
-
-.tableWrapper {
-  overflow-x: auto;
-  margin: var(--space-md) 0;
-}
-
-.table {
-  width: 100%;
-  min-width: 520px;
-  border-collapse: collapse;
-  font-size: 0.95rem;
-}
-
-.table th,
-.table td {
-  padding: var(--space-sm) var(--space-md);
-  border: 1px solid var(--color-gray-200);
-  text-align: left;
-  vertical-align: top;
-  line-height: 1.6;
-}
-
-.table thead th {
-  background: var(--color-primary);
-  color: var(--color-white);
-  font-weight: 600;
-}
-
-.table tbody th {
-  background: var(--color-gray-50);
-  color: var(--color-gray-900);
-  font-weight: 600;
-}
-
-.faq {
-  margin: 0;
-}
-
-.faqItem {
-  padding: var(--space-md) 0;
-  border-bottom: 1px solid var(--color-gray-200);
-}
-
-.faqItem dt {
-  font-weight: 700;
-  color: var(--color-gray-900);
-  margin-bottom: var(--space-xs);
-}
-
-.faqItem dd {
-  margin: 0;
-  line-height: 1.75;
-  color: var(--color-gray-700);
 }
 
 .cta {
@@ -189,25 +127,4 @@
   display: block;
   width: 100%;
   height: auto;
-}
-
-.steps {
-  list-style: none;
-  padding-left: 0;
-}
-
-.steps strong {
-  color: var(--color-gray-900);
-}
-
-.sources {
-  margin: 0;
-  padding-left: 1.4em;
-  line-height: 1.8;
-  color: var(--color-gray-700);
-}
-
-.sources a {
-  color: var(--color-primary);
-  word-break: break-word;
 }

@@ -15,6 +15,8 @@ import ProductGrid from "@/components/products/ProductGrid";
 import { Link } from "@/i18n/navigation";
 import { getCategoryByName, getCategoryPath } from "@/lib/categories";
 import styles from "./page.module.css";
+import PageGuide from "@/components/content/PageGuide";
+import AiImageNotice from "@/components/ui/AiImageNotice/AiImageNotice";
 
 export const revalidate = 3600;
 
@@ -117,6 +119,7 @@ export default async function ProductDetailPage({
         <div className={styles.layout}>
           <div className={styles.galleryColumn}>
             <ImageGallery images={product.images} />
+            <AiImageNotice />
           </div>
 
           <div className={styles.infoColumn}>
@@ -149,9 +152,11 @@ export default async function ProductDetailPage({
           <section className={styles.related}>
             <h2 className={styles.relatedTitle}>{t("relatedProducts")}</h2>
             <ProductGrid products={relatedProducts} viewDetailsLabel={t("viewDetails")} />
+            <AiImageNotice />
           </section>
         )}
       </div>
+      <PageGuide locale={locale} guideKey={`product-${id}`} />
     </div>
   );
 }

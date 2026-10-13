@@ -1,0 +1,367 @@
+{
+  "key": "category-machining-equipment",
+  "updated": "2026-10-13",
+  "sources": [
+    { "label": "Wikipedia — Interchangeable parts", "url": "https://en.wikipedia.org/wiki/Interchangeable_parts" },
+    { "label": "Wikipedia — Engineering tolerance", "url": "https://en.wikipedia.org/wiki/Engineering_tolerance" },
+    { "label": "Wikipedia — Injection mould construction", "url": "https://en.wikipedia.org/wiki/Injection_mould_construction" },
+    { "label": "Wikipedia — Machining center", "url": "https://en.wikipedia.org/wiki/Machining_center" },
+    { "label": "Wikipedia — Tool steel", "url": "https://en.wikipedia.org/wiki/Tool_steel" }
+  ],
+  "locales": {
+    "en": {
+      "heading": "How to judge a PET mold maker's machining capability: buyer's checklist for tool life, interchangeability and lead time",
+      "intro": "Machining capability is a mold maker's ability to produce every part of a mold — plates, cores, cavities, neck rings, inserts — to drawing tolerances, repeatedly and on schedule, with the right process for each feature. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China. This checklist shows buyers how to judge any mold maker's machining capability and how it affects three things you will feel on your line: tool life, interchangeability of parts and lead time.",
+      "sections": [
+        {
+          "heading": "What machining capability means for a PET preform mold buyer",
+          "paragraphs": [
+            "An equipment list tells you what a supplier owns. Machining capability tells you what it can reliably deliver. For a buyer, it shows up in three practical results."
+          ],
+          "list": [
+            "Tool life: how long the mold runs before wear, flash or leakage force maintenance.",
+            "Interchangeability: whether a spare core, cavity or neck ring fits any cavity of your mold without hand fitting.",
+            "Lead time: how quickly new molds, pilot molds and replacement parts can be delivered — and whether that date holds."
+          ]
+        },
+        {
+          "heading": "How machining affects tool life of PET preform and blow molds",
+          "list": [
+            "Correct fits: sliding and locating surfaces machined to tolerance wear evenly; loose or tight fits wear quickly or seize.",
+            "Finishing after hardening: grinding and EDM after heat treatment keep final dimensions accurate despite heat-treatment distortion.",
+            "Surface finish: polished core and cavity surfaces release cleanly; ground sealing faces close without flash.",
+            "Cooling channel accuracy: correctly placed channels keep steel temperatures even, which reduces thermal stress.",
+            "Reference figure: LIHE molds are built to withstand up to 8 million shots on Husky, SACMI and Netstal platforms."
+          ]
+        },
+        {
+          "heading": "How machining affects interchangeability of conversion and replacement parts",
+          "paragraphs": [
+            "Interchangeable parts are parts made to tolerances tight enough that any one of them fits in place of another without adjustment. In a mold with 2 to 160 cavities this is what lets you replace one damaged core without fitting it by hand."
+          ],
+          "list": [
+            "Common datums: every part must be machined and measured from the same reference features.",
+            "Process repeatability: the same machine, program and fixture should produce the same result on the 1st and the 96th part.",
+            "Measurement: interchangeability is proven on a CMM, not by trial assembly.",
+            "Reference figure: LIHE supplies 100% interchangeable conversion parts for Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps and Corvaglia systems."
+          ]
+        },
+        {
+          "heading": "How machining affects lead time",
+          "list": [
+            "In-house versus outsourced: each outsourced step adds transport, queue time and a risk of rework loops between workshops.",
+            "Machine capacity: several machines of each type allow parts to be made in parallel.",
+            "Process coverage: if EDM, grinding or high-speed engraving is missing in-house, every part that needs it waits in an outside queue.",
+            "Reference figures: LIHE's published lead times are 20 days for pilot molds, 8 weeks for standard PET molds and 4 weeks for replacement parts and cap mold parts."
+          ]
+        },
+        {
+          "heading": "Machining capability checklist",
+          "table": {
+            "head": ["Check", "Why it matters", "Main effect", "Red flag"],
+            "rows": [
+              ["Machining centers (multi-axis, high-speed)", "Plates, cavities and blow mold shells in few clampings", "Interchangeability, tool life", "Only basic 3-axis machines for cavity work"],
+              ["Precision turning centers", "Concentric cores, cavities and neck rings", "Interchangeability, preform quality", "Cores turned on general-purpose lathes"],
+              ["Surface grinders", "Flat, parallel plates and sealing faces", "Tool life (flash, wear)", "No grinding after heat treatment"],
+              ["EDM and wire EDM", "Gate details and hardened features", "Tool life, gate quality", "EDM outsourced for every gate insert"],
+              ["High-speed engraving and polishing", "Fine detail and surface finish", "Release, bottle appearance", "Heavy hand finishing to fix machining marks"],
+              ["In-house CMM", "Proof of tolerances", "Interchangeability", "No measurement of machined parts"],
+              ["Climate-controlled workshop", "Stable dimensions during machining", "Accuracy, repeatability", "Machining in open, unheated halls"]
+            ]
+          }
+        },
+        {
+          "heading": "Questions to ask about a mold maker's machining",
+          "list": [
+            "Which operations are done in-house and which are outsourced?",
+            "Which machine types are used for cores, cavities, neck rings, gate inserts and plates?",
+            "Are critical fits finished after heat treatment, and by which process?",
+            "How many machines of each type are available, and how is capacity planned?",
+            "Can you make replacement parts from my existing parts if I have no drawings?",
+            "Is the workshop temperature controlled?"
+          ]
+        },
+        {
+          "heading": "How to verify machining capability before ordering",
+          "steps": [
+            "Ask for the equipment list mapped to mold components, not just brand names.",
+            "Ask for the process route of one critical part, such as a preform core, from blank to measurement.",
+            "Confirm which steps are outsourced and how outside work is checked when it comes back.",
+            "Visit the workshop or join a live video tour; look for the machine types in the checklist in actual use.",
+            "Place a small trial order, such as a set of replacement parts, and swap them between cavities on your mold to test interchangeability.",
+            "Track the promised and actual delivery dates of the trial order before committing to a full mold."
+          ]
+        },
+        {
+          "heading": "How LIHE's machining compares with this checklist",
+          "list": [
+            "Machining centers: Mazak and Makino (Japan), Haas (USA).",
+            "Turning: Hardinge precision turning centers (USA).",
+            "Grinding: Okamoto (Japan). Mold bases are machined on Mazak, Makino and Haas, ground on Okamoto and verified on the Zeiss CMM.",
+            "EDM: Sodick. High-speed engraving: Beijing Jingdiao.",
+            "Workshop: over 10,000 sqm of climate-controlled production floor in a 15,000 sqm facility.",
+            "Replacement parts: made from customers' existing Husky, SACMI or Otto parts."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Is a long list of machine brands a sign of good machining capability?",
+          "answer": "Only if the machines match the parts. Check that each critical part — cores, cavities, neck rings, gate inserts, plates — has a suitable process in-house and that results are measured."
+        },
+        {
+          "question": "How can I test interchangeability myself?",
+          "answer": "Order a set of spare cores, cavities or neck rings and fit them into different cavities of your mold. Parts that need hand fitting or shims are not truly interchangeable."
+        },
+        {
+          "question": "Why does outsourcing machining affect lead time?",
+          "answer": "Each outsourced step adds shipping, waiting in another supplier's queue and possible rework loops. In-house processes let the mold maker control the schedule."
+        },
+        {
+          "question": "Can machining quality extend tool life?",
+          "answer": "Yes. Accurate fits, grinding after heat treatment, good surface finish and correctly placed cooling channels all reduce wear and flash. LIHE molds are built to withstand up to 8 million shots on Husky, SACMI and Netstal platforms."
+        },
+        {
+          "question": "What lead times does LIHE publish?",
+          "answer": "20 days for pilot molds, 8 weeks for standard PET molds, and 4 weeks for replacement parts and cap mold parts."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "Как оценить станочные возможности изготовителя ПЭТ-форм: чек-лист покупателя по ресурсу, взаимозаменяемости и срокам",
+      "intro": "Станочные возможности — это способность изготовителя форм выпускать каждую деталь формы — плиты, пуансоны, матрицы, горловые кольца, вставки — в допусках чертежа, стабильно и в срок, подходящим процессом для каждого элемента. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) — производитель пресс-форм для ПЭТ-преформ, выдувных форм, форм для колпачков и компрессионных форм, горячеканальных систем и комплектующих для производства напитков и упаковки, с производством в Фошане, Китай. Этот чек-лист показывает, как оценить станочные возможности любого изготовителя форм и как они влияют на три вещи, заметные на вашей линии: ресурс формы, взаимозаменяемость деталей и сроки поставки.",
+      "sections": [
+        {
+          "heading": "Что станочные возможности означают для покупателя пресс-формы ПЭТ-преформ",
+          "paragraphs": [
+            "Список оборудования показывает, чем поставщик владеет. Станочные возможности показывают, что он может надёжно поставить. Для покупателя они проявляются в трёх практических результатах."
+          ],
+          "list": [
+            "Ресурс: как долго форма работает до того, как износ, облой или протечки потребуют обслуживания.",
+            "Взаимозаменяемость: подходит ли запасной пуансон, матрица или горловое кольцо к любому гнезду вашей формы без ручной подгонки.",
+            "Сроки: как быстро можно получить новые формы, пилотные формы и запасные части и соблюдается ли эта дата."
+          ]
+        },
+        {
+          "heading": "Как механообработка влияет на ресурс преформных и выдувных форм",
+          "list": [
+            "Правильные посадки: скользящие и установочные поверхности, обработанные в допуск, изнашиваются равномерно; слабые или тугие посадки быстро изнашиваются или заедают.",
+            "Доводка после закалки: шлифование и электроэрозия после термообработки сохраняют точность окончательных размеров, несмотря на деформацию при закалке.",
+            "Качество поверхности: полированные поверхности пуансона и матрицы обеспечивают чистый съём; шлифованные уплотняющие плоскости смыкаются без облоя.",
+            "Точность каналов охлаждения: правильно расположенные каналы выравнивают температуру стали и снижают термические напряжения.",
+            "Ориентир: формы LIHE рассчитаны на выдерживание до 8 миллионов циклов на платформах Husky, SACMI и Netstal."
+          ]
+        },
+        {
+          "heading": "Как механообработка влияет на взаимозаменяемость деталей переоснастки и запасных частей",
+          "paragraphs": [
+            "Взаимозаменяемые детали — это детали, изготовленные с такими допусками, что любая из них встаёт на место другой без подгонки. В форме на 2–160 гнёзд именно это позволяет заменить один повреждённый пуансон без ручной доводки."
+          ],
+          "list": [
+            "Общие базы: каждая деталь должна обрабатываться и измеряться от одних и тех же базовых элементов.",
+            "Повторяемость процесса: один и тот же станок, программа и приспособление должны давать одинаковый результат на 1-й и на 96-й детали.",
+            "Измерения: взаимозаменяемость доказывается на КИМ, а не пробной сборкой.",
+            "Ориентир: LIHE поставляет на 100% взаимозаменяемые детали переоснастки для систем Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps и Corvaglia."
+          ]
+        },
+        {
+          "heading": "Как механообработка влияет на сроки",
+          "list": [
+            "Собственная обработка или сторонняя: каждый вынесенный этап добавляет транспорт, ожидание в очереди и риск циклов доработки между цехами.",
+            "Мощности: несколько станков каждого типа позволяют изготавливать детали параллельно.",
+            "Охват процессов: если электроэрозии, шлифования или высокоскоростного гравирования нет на месте, каждая деталь, которой они нужны, ждёт во внешней очереди.",
+            "Ориентиры: опубликованные сроки LIHE — 20 дней для пилотных форм, 8 недель для стандартных ПЭТ-форм и 4 недели для запасных частей и деталей форм для колпачков."
+          ]
+        },
+        {
+          "heading": "Чек-лист станочных возможностей",
+          "table": {
+            "head": ["Проверка", "Почему это важно", "Основное влияние", "Тревожный признак"],
+            "rows": [
+              ["Обрабатывающие центры (многоосевые, высокоскоростные)", "Плиты, матрицы и корпуса выдувных форм за минимум установок", "Взаимозаменяемость, ресурс", "Для матриц только простые трёхосевые станки"],
+              ["Прецизионные токарные центры", "Соосные пуансоны, матрицы и горловые кольца", "Взаимозаменяемость, качество преформ", "Пуансоны точатся на универсальных токарных станках"],
+              ["Плоскошлифовальные станки", "Плоские параллельные плиты и уплотняющие поверхности", "Ресурс (облой, износ)", "Нет шлифования после закалки"],
+              ["Электроэрозия и проволочная электроэрозия", "Элементы литника и закалённые детали", "Ресурс, качество литника", "Электроэрозия на стороне для каждой литниковой вставки"],
+              ["Высокоскоростное гравирование и полирование", "Мелкие детали и качество поверхности", "Съём, внешний вид бутылки", "Много ручной доводки для устранения следов обработки"],
+              ["Собственная КИМ", "Доказательство соблюдения допусков", "Взаимозаменяемость", "Обработанные детали не измеряются"],
+              ["Цех с климат-контролем", "Стабильные размеры при обработке", "Точность, повторяемость", "Обработка в открытых неотапливаемых цехах"]
+            ]
+          }
+        },
+        {
+          "heading": "Вопросы изготовителю форм о механообработке",
+          "list": [
+            "Какие операции выполняются у вас, а какие отдаются на сторону?",
+            "Какие типы станков используются для пуансонов, матриц, горловых колец, литниковых вставок и плит?",
+            "Доводятся ли критичные посадки после термообработки и каким процессом?",
+            "Сколько станков каждого типа есть и как планируется загрузка?",
+            "Можете ли вы изготовить запасные части по моим существующим деталям, если чертежей нет?",
+            "Есть ли в цехе контроль температуры?"
+          ]
+        },
+        {
+          "heading": "Как проверить станочные возможности до заказа",
+          "steps": [
+            "Запросите перечень оборудования с привязкой к деталям формы, а не только список марок.",
+            "Запросите технологический маршрут одной критичной детали, например пуансона преформы, от заготовки до измерения.",
+            "Уточните, какие этапы выполняются на стороне и как проверяется сторонняя работа при возврате.",
+            "Посетите цех или проведите видеоэкскурсию; убедитесь, что станки из чек-листа реально работают.",
+            "Разместите небольшой пробный заказ, например комплект запасных частей, и переставьте детали между гнёздами вашей формы, чтобы проверить взаимозаменяемость.",
+            "Сравните обещанную и фактическую дату поставки пробного заказа, прежде чем заказывать полную форму."
+          ]
+        },
+        {
+          "heading": "Как механообработка LIHE соотносится с этим чек-листом",
+          "list": [
+            "Обрабатывающие центры: Mazak и Makino (Япония), Haas (США).",
+            "Точение: прецизионные токарные центры Hardinge (США).",
+            "Шлифование: Okamoto (Япония). Основания форм обрабатываются на Mazak, Makino и Haas, шлифуются на Okamoto и проверяются на КИМ Zeiss.",
+            "Электроэрозия: Sodick. Высокоскоростное гравирование: Beijing Jingdiao.",
+            "Цех: более 10 000 кв. м производственной площади с климат-контролем на предприятии площадью 15 000 кв. м.",
+            "Запасные части: изготавливаются по существующим деталям Husky, SACMI или Otto заказчика."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Длинный список марок станков — признак хороших станочных возможностей?",
+          "answer": "Только если станки соответствуют деталям. Проверьте, что для каждой критичной детали — пуансонов, матриц, горловых колец, литниковых вставок, плит — есть подходящий собственный процесс и что результаты измеряются."
+        },
+        {
+          "question": "Как самому проверить взаимозаменяемость?",
+          "answer": "Закажите комплект запасных пуансонов, матриц или горловых колец и установите их в разные гнёзда вашей формы. Детали, требующие ручной подгонки или прокладок, на самом деле не взаимозаменяемы."
+        },
+        {
+          "question": "Почему сторонняя механообработка влияет на сроки?",
+          "answer": "Каждый вынесенный этап добавляет доставку, ожидание в очереди другого поставщика и возможные циклы доработки. Собственные процессы позволяют изготовителю форм управлять графиком."
+        },
+        {
+          "question": "Может ли качество механообработки увеличить ресурс формы?",
+          "answer": "Да. Точные посадки, шлифование после закалки, хорошее качество поверхности и правильно расположенные каналы охлаждения снижают износ и облой. Формы LIHE рассчитаны на выдерживание до 8 миллионов циклов на платформах Husky, SACMI и Netstal."
+        },
+        {
+          "question": "Какие сроки публикует LIHE?",
+          "answer": "20 дней для пилотных форм, 8 недель для стандартных ПЭТ-форм и 4 недели для запасных частей и деталей форм для колпачков."
+        }
+      ]
+    },
+    "es": {
+      "heading": "Cómo juzgar la capacidad de mecanizado de un fabricante de moldes PET: lista de verificación sobre vida útil, intercambiabilidad y plazo de entrega",
+      "intro": "La capacidad de mecanizado es la capacidad de un fabricante de moldes para producir cada pieza del molde — placas, machos, cavidades, anillos de cuello, insertos — dentro de las tolerancias del plano, de forma repetible y a tiempo, con el proceso adecuado para cada característica. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) es un fabricante de moldes de preforma PET, moldes de soplado, moldes de tapas y de compresión, sistemas de canal caliente y componentes de molde para la industria de bebidas y envases, con fabricación en Foshan, China. Esta lista muestra cómo juzgar la capacidad de mecanizado de cualquier fabricante de moldes y cómo afecta a tres aspectos que notará en su línea: la vida útil del molde, la intercambiabilidad de las piezas y el plazo de entrega.",
+      "sections": [
+        {
+          "heading": "Qué significa la capacidad de mecanizado para el comprador de un molde de preforma PET",
+          "paragraphs": [
+            "Una lista de equipos indica lo que un proveedor posee. La capacidad de mecanizado indica lo que puede entregar de forma fiable. Para el comprador se traduce en tres resultados prácticos."
+          ],
+          "list": [
+            "Vida útil: cuánto tiempo funciona el molde antes de que el desgaste, las rebabas o las fugas obliguen a un mantenimiento.",
+            "Intercambiabilidad: si un macho, cavidad o anillo de cuello de repuesto encaja en cualquier cavidad de su molde sin ajuste manual.",
+            "Plazo de entrega: con qué rapidez se entregan moldes nuevos, moldes piloto y repuestos, y si esa fecha se cumple."
+          ]
+        },
+        {
+          "heading": "Cómo influye el mecanizado en la vida útil de moldes de preforma y de soplado",
+          "list": [
+            "Ajustes correctos: las superficies de deslizamiento y posicionamiento mecanizadas en tolerancia se desgastan de forma uniforme; los ajustes flojos o apretados se desgastan rápido o se agarrotan.",
+            "Acabado tras el temple: el rectificado y la electroerosión después del tratamiento térmico mantienen precisas las cotas finales pese a la distorsión del temple.",
+            "Acabado superficial: las superficies pulidas de macho y cavidad desmoldean limpiamente; las caras de sellado rectificadas cierran sin rebaba.",
+            "Precisión de los canales de refrigeración: canales bien situados mantienen uniforme la temperatura del acero y reducen las tensiones térmicas.",
+            "Referencia: los moldes de LIHE están construidos para resistir hasta 8 millones de ciclos en plataformas Husky, SACMI y Netstal."
+          ]
+        },
+        {
+          "heading": "Cómo influye el mecanizado en la intercambiabilidad de piezas de conversión y repuestos",
+          "paragraphs": [
+            "Las piezas intercambiables son piezas fabricadas con tolerancias lo bastante estrechas como para que cualquiera de ellas ocupe el lugar de otra sin ajustes. En un molde de 2 a 160 cavidades, esto es lo que permite sustituir un macho dañado sin ajustarlo a mano."
+          ],
+          "list": [
+            "Referencias comunes: cada pieza debe mecanizarse y medirse desde las mismas referencias.",
+            "Repetibilidad del proceso: la misma máquina, programa y utillaje deben dar el mismo resultado en la pieza 1 y en la pieza 96.",
+            "Medición: la intercambiabilidad se demuestra en una CMM, no con un montaje de prueba.",
+            "Referencia: LIHE suministra piezas de conversión 100% intercambiables para sistemas Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps y Corvaglia."
+          ]
+        },
+        {
+          "heading": "Cómo influye el mecanizado en el plazo de entrega",
+          "list": [
+            "Propio frente a subcontratado: cada paso subcontratado añade transporte, tiempo de espera y riesgo de idas y vueltas de retrabajo entre talleres.",
+            "Capacidad de máquinas: varias máquinas de cada tipo permiten fabricar piezas en paralelo.",
+            "Cobertura de procesos: si la electroerosión, el rectificado o el grabado de alta velocidad no están en planta, cada pieza que los necesita espera en una cola externa.",
+            "Referencias: los plazos publicados por LIHE son de 20 días para moldes piloto, 8 semanas para moldes PET estándar y 4 semanas para repuestos y piezas de moldes de tapas."
+          ]
+        },
+        {
+          "heading": "Lista de verificación de la capacidad de mecanizado",
+          "table": {
+            "head": ["Comprobación", "Por qué importa", "Efecto principal", "Señal de alerta"],
+            "rows": [
+              ["Centros de mecanizado (multieje, alta velocidad)", "Placas, cavidades y carcasas de soplado en pocas sujeciones", "Intercambiabilidad, vida útil", "Solo máquinas básicas de 3 ejes para cavidades"],
+              ["Centros de torneado de precisión", "Machos, cavidades y anillos de cuello concéntricos", "Intercambiabilidad, calidad de la preforma", "Machos torneados en tornos de uso general"],
+              ["Rectificadoras planas", "Placas planas y paralelas y caras de sellado", "Vida útil (rebabas, desgaste)", "Sin rectificado tras el temple"],
+              ["Electroerosión y electroerosión por hilo", "Detalles de entrada y características templadas", "Vida útil, calidad de la entrada", "Electroerosión subcontratada para cada inserto de entrada"],
+              ["Grabado de alta velocidad y pulido", "Detalle fino y acabado superficial", "Desmoldeo, aspecto de la botella", "Mucho acabado manual para corregir marcas de mecanizado"],
+              ["CMM propia", "Prueba de tolerancias", "Intercambiabilidad", "Las piezas mecanizadas no se miden"],
+              ["Taller climatizado", "Dimensiones estables durante el mecanizado", "Precisión, repetibilidad", "Mecanizado en naves abiertas sin climatizar"]
+            ]
+          }
+        },
+        {
+          "heading": "Preguntas sobre el mecanizado de un fabricante de moldes",
+          "list": [
+            "¿Qué operaciones se hacen en planta y cuáles se subcontratan?",
+            "¿Qué tipos de máquina se usan para machos, cavidades, anillos de cuello, insertos de entrada y placas?",
+            "¿Se acaban los ajustes críticos después del tratamiento térmico y con qué proceso?",
+            "¿Cuántas máquinas de cada tipo hay y cómo se planifica la capacidad?",
+            "¿Pueden fabricar repuestos a partir de mis piezas existentes si no tengo planos?",
+            "¿Está climatizado el taller?"
+          ]
+        },
+        {
+          "heading": "Cómo verificar la capacidad de mecanizado antes de hacer el pedido",
+          "steps": [
+            "Pida la lista de equipos relacionada con los componentes del molde, no solo nombres de marcas.",
+            "Pida la ruta de proceso de una pieza crítica, como un macho de preforma, desde el bloque hasta la medición.",
+            "Confirme qué pasos se subcontratan y cómo se revisa el trabajo externo cuando vuelve.",
+            "Visite el taller o haga una visita por vídeo en directo; busque en uso real los tipos de máquina de la lista.",
+            "Haga un pedido de prueba pequeño, como un juego de repuestos, e intercambie las piezas entre cavidades de su molde para comprobar la intercambiabilidad.",
+            "Compare la fecha de entrega prometida y la real del pedido de prueba antes de comprometerse con un molde completo."
+          ]
+        },
+        {
+          "heading": "Cómo se compara el mecanizado de LIHE con esta lista",
+          "list": [
+            "Centros de mecanizado: Mazak y Makino (Japón), Haas (EE. UU.).",
+            "Torneado: centros de torneado de precisión Hardinge (EE. UU.).",
+            "Rectificado: Okamoto (Japón). Las bases de molde se mecanizan en Mazak, Makino y Haas, se rectifican en Okamoto y se verifican en la CMM Zeiss.",
+            "Electroerosión: Sodick. Grabado de alta velocidad: Beijing Jingdiao.",
+            "Taller: más de 10.000 m² de planta de producción climatizada en unas instalaciones de 15.000 m².",
+            "Repuestos: fabricados a partir de las piezas Husky, SACMI u Otto existentes del cliente."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Una larga lista de marcas de máquinas indica una buena capacidad de mecanizado?",
+          "answer": "Solo si las máquinas corresponden a las piezas. Compruebe que cada pieza crítica — machos, cavidades, anillos de cuello, insertos de entrada, placas — tiene un proceso adecuado en planta y que los resultados se miden."
+        },
+        {
+          "question": "¿Cómo puedo comprobar yo mismo la intercambiabilidad?",
+          "answer": "Pida un juego de machos, cavidades o anillos de cuello de repuesto y móntelos en distintas cavidades de su molde. Las piezas que necesitan ajuste manual o suplementos no son realmente intercambiables."
+        },
+        {
+          "question": "¿Por qué subcontratar el mecanizado afecta al plazo de entrega?",
+          "answer": "Cada paso subcontratado añade envío, espera en la cola de otro proveedor y posibles idas y vueltas de retrabajo. Los procesos propios permiten al fabricante de moldes controlar el calendario."
+        },
+        {
+          "question": "¿Puede la calidad del mecanizado alargar la vida útil del molde?",
+          "answer": "Sí. Ajustes precisos, rectificado tras el temple, buen acabado superficial y canales de refrigeración bien situados reducen el desgaste y las rebabas. Los moldes de LIHE están construidos para resistir hasta 8 millones de ciclos en plataformas Husky, SACMI y Netstal."
+        },
+        {
+          "question": "¿Qué plazos de entrega publica LIHE?",
+          "answer": "20 días para moldes piloto, 8 semanas para moldes PET estándar y 4 semanas para repuestos y piezas de moldes de tapas."
+        }
+      ]
+    }
+  }
+}

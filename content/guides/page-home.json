@@ -1,0 +1,382 @@
+{
+  "key": "page-home",
+  "updated": "2026-10-13",
+  "sources": [
+    { "label": "Wikipedia — Polyethylene terephthalate", "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate" },
+    { "label": "Wikipedia — Preform", "url": "https://en.wikipedia.org/wiki/Preform" },
+    { "label": "Wikipedia — Injection moulding", "url": "https://en.wikipedia.org/wiki/Injection_moulding" },
+    { "label": "Wikipedia — Blow molding", "url": "https://en.wikipedia.org/wiki/Blow_molding" },
+    { "label": "Wikipedia — Hot runner", "url": "https://en.wikipedia.org/wiki/Hot_runner" }
+  ],
+  "locales": {
+    "en": {
+      "heading": "LIHE Precision at a glance: PET preform molds, blow molds, closure molds and hot runners from one supplier",
+      "intro": "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China. This guide is written for first-time buyers: it explains what each product line covers, which key numbers matter when you compare suppliers, which project route fits your situation and how a mold project with LIHE starts.",
+      "sections": [
+        {
+          "heading": "What LIHE makes: PET preform molds, closure molds, blow molds and hot runners",
+          "paragraphs": [
+            "LIHE's range covers the tooling that sits on the main machines of a PET packaging line. Each product family has its own category page under Products; the summary below shows the scope of each one so you can go straight to the right page."
+          ],
+          "list": [
+            "PET preform molds: 2 to 160 cavities, neck finishes such as PCO 1881, PCO 1810, 1716, 3025, 2925, 38mm and wide-mouth sizes up to 90mm, for HUSKY, NETSTAL, SACMI, SIPA, Milacron and other injection molding machines.",
+            "Closure injection molds: 12 to 72 cavities for one-piece and two-piece caps, tamper-evident bands and EU tethered caps in 26mm, 28mm, 2925, 3025 and 38mm.",
+            "Compression molds: tooling for SACMI CCM closure lines, including replacement tooling made from your existing parts.",
+            "Blow molds: two-step molds for SIDEL, KRONES, SIG/KHS, TECH-LONG and NEWAMSTAR, and one-step molds for SIPA, ASB and AOKI, in cold fill, hot fill and aseptic versions.",
+            "Hot runner systems: valve gate systems for up to 144 preform cavities or 96 closure cavities, plus replacement nozzle tips, valve pins, heaters, seals and refurbishment of existing hot runners.",
+            "Accessories and mold bases: blowing pins, stretch rods, clamping bases, mold shells, conversion parts such as star wheels, guides and neck grippers, and precision mold bases for preform molds up to 160 cavities."
+          ]
+        },
+        {
+          "heading": "Key numbers for PET mold buyers: cavitation, lead time and quality",
+          "paragraphs": [
+            "The figures below are the ones buyers most often ask for in a first conversation. They are LIHE's published values; the figures for a specific project are confirmed in its quotation."
+          ],
+          "table": {
+            "head": ["Item", "LIHE figure", "Why it matters to a buyer"],
+            "rows": [
+              ["Maximum preform mold cavitation", "160 cavities", "Higher cavitation raises output per machine cycle"],
+              ["Preform mold cavities produced", "Over 12,000 per year", "Shows production volume and experience with repeat cavities"],
+              ["Pilot mold lead time", "20 days", "Lets you test a new preform or bottle design quickly"],
+              ["Standard PET mold lead time", "8 weeks", "Basis for planning a new line or product launch"],
+              ["Replacement parts and cap mold parts", "4 weeks", "Limits downtime when worn parts must be replaced"],
+              ["Process capability", "CPK ≥ 1.33", "Critical dimensions stay within tolerance with margin"],
+              ["Operational defect rate", "As low as 0.0064%", "Fewer rejected preforms and less scrap"],
+              ["Mold durability", "Up to 8 million shots", "Built for Husky, SACMI and Netstal platforms"],
+              ["Production facility", "15,000 sqm", "Design, machining, assembly and inspection on one site"]
+            ]
+          }
+        },
+        {
+          "heading": "Where each mold sits in a PET bottle line",
+          "paragraphs": [
+            "A PET bottle line usually needs three kinds of tooling. Knowing which machine each mold fits makes the product pages easier to navigate and helps you describe your project in the first email."
+          ],
+          "list": [
+            "Preform injection: a preform mold, fed by a hot runner, forms the test-tube-shaped preform with its finished neck thread on an injection molding machine.",
+            "Closure production: caps are made either by injection molding in a multi-cavity closure mold or by compression molding on a rotary line such as SACMI CCM.",
+            "Bottle forming: the reheated preform is stretched and blown into its final shape inside a blow mold, either on a separate stretch blow molding machine (two-step) or on a combined one-step machine.",
+            "Line conversion: when the bottle, neck finish or machine changes, conversion parts such as star wheels, guides and neck grippers adapt the rest of the line."
+          ]
+        },
+        {
+          "heading": "New mold, replacement parts or retrofit: choosing a project route",
+          "paragraphs": [
+            "Not every project needs a new mold. LIHE supplies several kinds of work, and the right one depends on the condition of your existing tooling and on what you want to change."
+          ],
+          "list": [
+            "New mold: for a new preform, bottle or closure design, or for a new machine. Standard PET molds take 8 weeks; pilot molds take 20 days.",
+            "Replacement parts and tooling conversion: parts made from your existing Husky, SACMI or Otto parts. Conversion parts are 100% interchangeable for Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps and Corvaglia systems. Replacement parts take 4 weeks.",
+            "Retrofit and overhaul: a complete mold overhaul or performance upgrade that restores an aging mold to OEM-level efficiency, including neck finish conversions and lightweighting.",
+            "Hot runner service: replacement nozzle tips, valve pins, heaters and seals, or refurbishment of an existing hot runner."
+          ]
+        },
+        {
+          "heading": "How to start a PET mold project with LIHE",
+          "steps": [
+            "Send your requirements to sales@lihe-preform.com or by WhatsApp to +886 938 198 675: product drawing or sample, neck finish, preform or bottle weight, cavitation and machine model.",
+            "LIHE's engineering and design center reviews the design with CAD/CAM tools, 3D simulation and flow analysis, then confirms feasibility or proposes changes.",
+            "You receive a quotation with the confirmed scope and lead time.",
+            "After design approval, components are machined, assembled and measured in the in-house Zeiss CMM lab; validation and inspection reports are supplied on request.",
+            "LIHE's technical team supports mold installation and machine start-up, followed by preventive maintenance, remote troubleshooting and spare parts supply."
+          ]
+        },
+        {
+          "heading": "What to prepare before you request a quote",
+          "list": [
+            "Preform or bottle drawing, or a physical sample if no drawing exists.",
+            "Neck finish standard, for example PCO 1881, 29/25 or 38mm.",
+            "Target preform weight in grams and resin type, including any planned rPET share.",
+            "Machine make and model, and whether the hot runner is new or existing.",
+            "Required cavitation and target annual output.",
+            "For blow molds: filling type (cold fill, hot fill or aseptic), bottle volume and blow molding machine model."
+          ]
+        },
+        {
+          "heading": "Lightweight preform and rPET projects",
+          "paragraphs": [
+            "Many enquiries are about reducing resin use or changing material rather than buying a new mold. LIHE's published results for this kind of work are listed below."
+          ],
+          "list": [
+            "Preform weight reduced by 1g to 2g through neck or wall-thickness optimization.",
+            "Retrofitting an existing mold for lightweighting costs 25%–40% of the price of a new mold, with a short payback period.",
+            "Optimized cooling can reduce neck cooling time by up to 0.5 seconds.",
+            "Custom work includes rPET material trials, special neck finishes such as PCO 1881 and 29/25, and production line conversions."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Is LIHE a manufacturer or a trading company?",
+          "answer": "LIHE is a manufacturer. Molds are designed and machined in its own 15,000 sqm facility in Shishan Town, Nanhai District, Foshan, China. The company also has a sales office in Taiwan."
+        },
+        {
+          "question": "Which machines are LIHE molds compatible with?",
+          "answer": "Preform molds are built for HUSKY, NETSTAL, SACMI, SIPA, Milacron and other platforms. Blow molds cover SIDEL, KRONES, SIG/KHS, TECH-LONG and NEWAMSTAR (two-step) and SIPA, ASB and AOKI (one-step). Hot runners are compatible with HUSKY, NETSTAL, KM and SIPA."
+        },
+        {
+          "question": "Can LIHE make parts for a mold that another supplier built?",
+          "answer": "Yes. Replacement parts can be produced from your existing Husky, SACMI or Otto parts so they fit the existing mold. The published lead time for replacement parts is 4 weeks."
+        },
+        {
+          "question": "Which countries does LIHE supply?",
+          "answer": "LIHE has customers in more than 50 countries across Asia, Europe, the Americas, Africa and the Middle East."
+        },
+        {
+          "question": "What guarantee does LIHE offer?",
+          "answer": "The published guarantee is a 3-year leakage-proof guarantee on LIHE's Husky Ultra-type hot runner systems. Other commercial terms are set in each quotation."
+        },
+        {
+          "question": "Does LIHE publish mold prices?",
+          "answer": "No. Prices depend on cavitation, neck finish, machine platform and scope, so each project is quoted individually after the requirements have been reviewed."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "LIHE Precision кратко: пресс-формы для ПЭТ-преформ, выдувные формы, формы для колпачков и горячеканальные системы от одного поставщика",
+      "intro": "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) — производитель пресс-форм для ПЭТ-преформ, выдувных форм, форм для колпачков и компрессионных форм, горячеканальных систем и комплектующих для производства напитков и упаковки, с производством в Фошане, Китай. Это руководство написано для тех, кто обращается к нам впервые: в нём объясняется, что входит в каждую продуктовую линейку, на какие ключевые цифры смотреть при сравнении поставщиков, какой путь проекта подходит именно вам и с чего начинается проект пресс-формы с LIHE.",
+      "sections": [
+        {
+          "heading": "Что производит LIHE: пресс-формы для ПЭТ-преформ, формы для колпачков, выдувные формы и горячие каналы",
+          "paragraphs": [
+            "Ассортимент LIHE охватывает оснастку, которая устанавливается на основные машины линии ПЭТ-упаковки. У каждой продуктовой группы есть своя страница категории в разделе «Продукция»; краткий обзор ниже показывает объём каждой группы, чтобы вы сразу перешли на нужную страницу."
+          ],
+          "list": [
+            "Пресс-формы для ПЭТ-преформ: от 2 до 160 гнёзд, горловины PCO 1881, PCO 1810, 1716, 3025, 2925, 38 мм и широкие горловины до 90 мм, для термопластавтоматов HUSKY, NETSTAL, SACMI, SIPA, Milacron и других.",
+            "Литьевые формы для колпачков: от 12 до 72 гнёзд для одно- и двухкомпонентных колпачков, колец контроля первого вскрытия и привязанных колпачков по нормам ЕС в размерах 26 мм, 28 мм, 2925, 3025 и 38 мм.",
+            "Компрессионные формы: оснастка для линий SACMI CCM, включая сменную оснастку, изготовленную по вашим существующим деталям.",
+            "Выдувные формы: двухстадийные формы для SIDEL, KRONES, SIG/KHS, TECH-LONG и NEWAMSTAR и одностадийные для SIPA, ASB и AOKI, в исполнениях для холодного, горячего и асептического розлива.",
+            "Горячеканальные системы: системы с запорными соплами до 144 гнёзд для преформ или до 96 гнёзд для колпачков, а также сменные наконечники сопел, запорные иглы, нагреватели, уплотнения и восстановление существующих горячих каналов.",
+            "Комплектующие и плиты пресс-форм: дутьевые штоки, вытяжные штоки, прижимные основания, корпуса форм, переналадочные детали (звёздочки, направляющие, захваты горловины) и прецизионные плиты для пресс-форм преформ до 160 гнёзд."
+          ]
+        },
+        {
+          "heading": "Ключевые цифры для покупателя пресс-форм ПЭТ: гнёздность, сроки и качество",
+          "paragraphs": [
+            "Ниже собраны цифры, о которых покупатели спрашивают чаще всего при первом контакте. Это опубликованные значения LIHE; цифры для конкретного проекта подтверждаются в коммерческом предложении."
+          ],
+          "table": {
+            "head": ["Показатель", "Значение LIHE", "Почему это важно покупателю"],
+            "rows": [
+              ["Максимальная гнёздность пресс-формы для преформ", "160 гнёзд", "Больше гнёзд — выше выпуск за один цикл машины"],
+              ["Изготовлено гнёзд пресс-форм для преформ", "Более 12 000 в год", "Показывает объём производства и опыт серийного изготовления гнёзд"],
+              ["Срок изготовления пилотной формы", "20 дней", "Позволяет быстро проверить новую преформу или бутылку"],
+              ["Срок изготовления стандартной формы ПЭТ", "8 недель", "Основа для планирования новой линии или запуска продукта"],
+              ["Запасные части и детали форм для колпачков", "4 недели", "Сокращает простой при замене изношенных деталей"],
+              ["Воспроизводимость процесса", "CPK ≥ 1,33", "Критические размеры остаются в допуске с запасом"],
+              ["Уровень брака в эксплуатации", "Всего 0,0064%", "Меньше отбракованных преформ и отходов"],
+              ["Ресурс пресс-формы", "До 8 млн циклов", "На платформах Husky, SACMI и Netstal"],
+              ["Производственная площадка", "15 000 кв. м", "Проектирование, обработка, сборка и контроль в одном месте"]
+            ]
+          }
+        },
+        {
+          "heading": "Где стоит каждая форма в линии ПЭТ-бутылок",
+          "paragraphs": [
+            "Линии ПЭТ-бутылок обычно нужны три вида оснастки. Если понимать, на какую машину ставится каждая форма, проще ориентироваться на страницах продукции и точнее описать проект уже в первом письме."
+          ],
+          "list": [
+            "Литьё преформ: пресс-форма для преформ, питаемая горячеканальной системой, формирует преформу в виде пробирки с готовой резьбой горловины на термопластавтомате.",
+            "Производство колпачков: колпачки делают либо литьём под давлением в многогнёздной форме, либо компрессионным формованием на роторной линии, например SACMI CCM.",
+            "Формование бутылки: нагретая преформа вытягивается и раздувается до окончательной формы в выдувной форме — на отдельной выдувной машине (двухстадийный процесс) или на совмещённой одностадийной машине.",
+            "Переналадка линии: при смене бутылки, горловины или машины переналадочные детали — звёздочки, направляющие и захваты горловины — адаптируют остальную линию."
+          ]
+        },
+        {
+          "heading": "Новая форма, запасные части или модернизация: выбор пути проекта",
+          "paragraphs": [
+            "Не каждому проекту нужна новая форма. LIHE выполняет несколько видов работ, и правильный выбор зависит от состояния вашей оснастки и от того, что вы хотите изменить."
+          ],
+          "list": [
+            "Новая форма: для новой преформы, бутылки или колпачка либо для новой машины. Стандартная форма ПЭТ изготавливается за 8 недель, пилотная — за 20 дней.",
+            "Запасные части и переоснащение: детали, изготовленные по вашим существующим деталям Husky, SACMI или Otto. Переналадочные детали на 100% взаимозаменяемы для систем Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps и Corvaglia. Срок изготовления запасных частей — 4 недели.",
+            "Модернизация и капитальный ремонт: полный ремонт формы или повышение её характеристик, возвращающее изношенную оснастку к эффективности уровня OEM, включая смену горловины и облегчение преформы.",
+            "Сервис горячих каналов: сменные наконечники сопел, запорные иглы, нагреватели и уплотнения или восстановление существующей горячеканальной системы."
+          ]
+        },
+        {
+          "heading": "Как начать проект пресс-формы ПЭТ с LIHE",
+          "steps": [
+            "Отправьте требования на sales@lihe-preform.com или в WhatsApp +886 938 198 675: чертёж или образец изделия, тип горловины, массу преформы или бутылки, гнёздность и модель машины.",
+            "Инженерно-конструкторский центр LIHE анализирует конструкцию с помощью CAD/CAM, 3D-моделирования и анализа течения расплава, затем подтверждает реализуемость или предлагает изменения.",
+            "Вы получаете коммерческое предложение с согласованным объёмом работ и сроком.",
+            "После утверждения конструкции детали обрабатываются, собираются и измеряются в собственной лаборатории с КИМ Zeiss; протоколы валидации и контроля предоставляются по запросу.",
+            "Техническая команда LIHE помогает с установкой формы и пуском машины, а затем обеспечивает плановое обслуживание, удалённую диагностику и поставку запасных частей."
+          ]
+        },
+        {
+          "heading": "Что подготовить перед запросом цены",
+          "list": [
+            "Чертёж преформы или бутылки либо физический образец, если чертежа нет.",
+            "Стандарт горловины, например PCO 1881, 29/25 или 38 мм.",
+            "Целевую массу преформы в граммах и тип сырья, включая планируемую долю rPET.",
+            "Марку и модель машины, а также сведения о том, новая или существующая горячеканальная система.",
+            "Требуемую гнёздность и плановый годовой выпуск.",
+            "Для выдувных форм: тип розлива (холодный, горячий или асептический), объём бутылки и модель выдувной машины."
+          ]
+        },
+        {
+          "heading": "Облегчение преформ и проекты с rPET",
+          "paragraphs": [
+            "Многие запросы касаются не покупки новой формы, а снижения расхода сырья или смены материала. Опубликованные результаты LIHE для таких работ приведены ниже."
+          ],
+          "list": [
+            "Масса преформы снижается на 1–2 г за счёт оптимизации горловины или толщины стенки.",
+            "Модернизация существующей формы для облегчения стоит 25–40% цены новой формы и быстро окупается.",
+            "Оптимизированное охлаждение позволяет сократить время охлаждения горловины до 0,5 секунды.",
+            "Индивидуальные решения включают испытания материала rPET, специальные горловины, например PCO 1881 и 29/25, и переналадку производственных линий."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "LIHE — производитель или торговая компания?",
+          "answer": "LIHE — производитель. Формы проектируются и изготавливаются на собственной площадке 15 000 кв. м в посёлке Шишань, район Наньхай, Фошань, Китай. У компании также есть офис продаж на Тайване."
+        },
+        {
+          "question": "С какими машинами совместимы формы LIHE?",
+          "answer": "Пресс-формы для преформ выпускаются для HUSKY, NETSTAL, SACMI, SIPA, Milacron и других платформ. Выдувные формы — для SIDEL, KRONES, SIG/KHS, TECH-LONG и NEWAMSTAR (двухстадийные) и SIPA, ASB и AOKI (одностадийные). Горячеканальные системы совместимы с HUSKY, NETSTAL, KM и SIPA."
+        },
+        {
+          "question": "Может ли LIHE изготовить детали для формы другого производителя?",
+          "answer": "Да. Запасные части изготавливаются по вашим существующим деталям Husky, SACMI или Otto, чтобы они подошли к имеющейся форме. Опубликованный срок изготовления запасных частей — 4 недели."
+        },
+        {
+          "question": "В какие страны поставляет LIHE?",
+          "answer": "У LIHE есть клиенты более чем в 50 странах Азии, Европы, Америки, Африки и Ближнего Востока."
+        },
+        {
+          "question": "Какую гарантию даёт LIHE?",
+          "answer": "Опубликованная гарантия — 3 года на отсутствие протечек для горячеканальных систем LIHE конструкции типа Husky Ultra. Прочие коммерческие условия фиксируются в каждом предложении."
+        },
+        {
+          "question": "Публикует ли LIHE цены на формы?",
+          "answer": "Нет. Цена зависит от гнёздности, горловины, платформы машины и объёма работ, поэтому каждый проект рассчитывается отдельно после анализа требований."
+        }
+      ]
+    },
+    "es": {
+      "heading": "LIHE Precision en resumen: moldes de preforma PET, moldes de soplado, moldes de tapas y canales calientes de un solo proveedor",
+      "intro": "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) es un fabricante de moldes de preforma PET, moldes de soplado, moldes de tapas y de compresión, sistemas de canal caliente y componentes de molde para la industria de bebidas y envases, con fabricación en Foshan, China. Esta guía está pensada para quienes compran por primera vez: explica qué cubre cada línea de producto, qué cifras clave conviene mirar al comparar proveedores, qué tipo de proyecto encaja con su situación y cómo empieza un proyecto de molde con LIHE.",
+      "sections": [
+        {
+          "heading": "Qué fabrica LIHE: moldes de preforma PET, moldes de tapas, moldes de soplado y canales calientes",
+          "paragraphs": [
+            "La gama de LIHE cubre el utillaje que se monta en las máquinas principales de una línea de envases PET. Cada familia de productos tiene su propia página de categoría en Productos; el resumen siguiente muestra el alcance de cada una para que pueda ir directamente a la página adecuada."
+          ],
+          "list": [
+            "Moldes de preforma PET: de 2 a 160 cavidades, cuellos como PCO 1881, PCO 1810, 1716, 3025, 2925, 38 mm y bocas anchas de hasta 90 mm, para inyectoras HUSKY, NETSTAL, SACMI, SIPA, Milacron y otras.",
+            "Moldes de inyección de tapas: de 12 a 72 cavidades para tapas de una y dos piezas, bandas de garantía y tapas cautivas de la UE en 26 mm, 28 mm, 2925, 3025 y 38 mm.",
+            "Moldes de compresión: utillaje para líneas SACMI CCM, incluido utillaje de reposición fabricado a partir de sus piezas existentes.",
+            "Moldes de soplado: moldes de dos etapas para SIDEL, KRONES, SIG/KHS, TECH-LONG y NEWAMSTAR, y de una etapa para SIPA, ASB y AOKI, en versiones de llenado en frío, llenado en caliente y aséptico.",
+            "Sistemas de canal caliente: sistemas de obturador (valve gate) para hasta 144 cavidades de preforma o 96 cavidades de tapa, además de puntas de boquilla, agujas obturadoras, resistencias y juntas de repuesto y reacondicionamiento de canales calientes existentes.",
+            "Accesorios y bases de molde: pistones de soplado, varillas de estiramiento, bases de cierre, carcasas de molde, piezas de conversión como estrellas, guías y pinzas de cuello, y bases de molde de precisión para moldes de preforma de hasta 160 cavidades."
+          ]
+        },
+        {
+          "heading": "Cifras clave para comprar moldes PET: cavidades, plazos y calidad",
+          "paragraphs": [
+            "Estas son las cifras que más se piden en una primera conversación. Son valores publicados por LIHE; las cifras de cada proyecto concreto se confirman en su cotización."
+          ],
+          "table": {
+            "head": ["Concepto", "Cifra de LIHE", "Por qué importa al comprador"],
+            "rows": [
+              ["Número máximo de cavidades en molde de preforma", "160 cavidades", "Más cavidades significa más producción por ciclo de máquina"],
+              ["Cavidades de molde de preforma fabricadas", "Más de 12.000 al año", "Muestra volumen de producción y experiencia en cavidades repetitivas"],
+              ["Plazo de molde piloto", "20 días", "Permite probar rápidamente una nueva preforma o botella"],
+              ["Plazo de molde PET estándar", "8 semanas", "Base para planificar una nueva línea o un lanzamiento"],
+              ["Piezas de repuesto y piezas de molde de tapas", "4 semanas", "Reduce el tiempo de parada al cambiar piezas desgastadas"],
+              ["Capacidad de proceso", "CPK ≥ 1,33", "Las cotas críticas se mantienen dentro de tolerancia con margen"],
+              ["Tasa de defectos en operación", "Tan baja como 0,0064%", "Menos preformas rechazadas y menos desperdicio"],
+              ["Durabilidad del molde", "Hasta 8 millones de ciclos", "En plataformas Husky, SACMI y Netstal"],
+              ["Planta de producción", "15.000 m²", "Diseño, mecanizado, montaje e inspección en un mismo lugar"]
+            ]
+          }
+        },
+        {
+          "heading": "Dónde va cada molde en una línea de botellas PET",
+          "paragraphs": [
+            "Una línea de botellas PET suele necesitar tres tipos de utillaje. Saber en qué máquina se monta cada molde facilita navegar por las páginas de producto y describir su proyecto ya en el primer correo."
+          ],
+          "list": [
+            "Inyección de preformas: un molde de preforma, alimentado por un canal caliente, forma la preforma con aspecto de tubo de ensayo y la rosca del cuello terminada en una inyectora.",
+            "Producción de tapas: las tapas se fabrican por inyección en un molde multicavidad o por compresión en una línea rotativa como SACMI CCM.",
+            "Formado de la botella: la preforma recalentada se estira y se sopla hasta su forma final dentro de un molde de soplado, en una sopladora independiente (dos etapas) o en una máquina combinada de una etapa.",
+            "Conversión de línea: cuando cambian la botella, el cuello o la máquina, piezas de conversión como estrellas, guías y pinzas de cuello adaptan el resto de la línea."
+          ]
+        },
+        {
+          "heading": "Molde nuevo, piezas de repuesto o reacondicionamiento: cómo elegir el tipo de proyecto",
+          "paragraphs": [
+            "No todos los proyectos necesitan un molde nuevo. LIHE ofrece varios tipos de trabajo, y la opción correcta depende del estado de su utillaje actual y de lo que quiera cambiar."
+          ],
+          "list": [
+            "Molde nuevo: para una nueva preforma, botella o tapa, o para una máquina nueva. Los moldes PET estándar tardan 8 semanas; los moldes piloto, 20 días.",
+            "Piezas de repuesto y conversión de utillaje: piezas fabricadas a partir de sus piezas existentes de Husky, SACMI u Otto. Las piezas de conversión son 100% intercambiables para sistemas Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps y Corvaglia. Las piezas de repuesto tardan 4 semanas.",
+            "Reacondicionamiento y revisión completa: revisión integral del molde o mejora de rendimiento que devuelve un molde envejecido a la eficiencia de nivel OEM, incluidas conversiones de cuello y aligeramiento.",
+            "Servicio de canal caliente: puntas de boquilla, agujas obturadoras, resistencias y juntas de repuesto, o reacondicionamiento de un canal caliente existente."
+          ]
+        },
+        {
+          "heading": "Cómo empezar un proyecto de molde PET con LIHE",
+          "steps": [
+            "Envíe sus requisitos a sales@lihe-preform.com o por WhatsApp al +886 938 198 675: plano o muestra del producto, tipo de cuello, peso de la preforma o botella, número de cavidades y modelo de máquina.",
+            "El centro de ingeniería y diseño de LIHE revisa el diseño con herramientas CAD/CAM, simulación 3D y análisis de flujo, y confirma la viabilidad o propone cambios.",
+            "Recibe una cotización con el alcance y el plazo confirmados.",
+            "Tras aprobar el diseño, los componentes se mecanizan, se montan y se miden en el laboratorio propio con MMC Zeiss; los informes de validación e inspección se entregan a petición.",
+            "El equipo técnico de LIHE apoya la instalación del molde y la puesta en marcha de la máquina, y después ofrece mantenimiento preventivo, asistencia remota y suministro de repuestos."
+          ]
+        },
+        {
+          "heading": "Qué preparar antes de pedir una cotización",
+          "list": [
+            "Plano de la preforma o de la botella, o una muestra física si no existe plano.",
+            "Norma del cuello, por ejemplo PCO 1881, 29/25 o 38 mm.",
+            "Peso objetivo de la preforma en gramos y tipo de resina, incluida la proporción de rPET prevista.",
+            "Marca y modelo de la máquina, e indicación de si el canal caliente es nuevo o existente.",
+            "Número de cavidades requerido y producción anual prevista.",
+            "Para moldes de soplado: tipo de llenado (en frío, en caliente o aséptico), volumen de la botella y modelo de sopladora."
+          ]
+        },
+        {
+          "heading": "Proyectos de preformas aligeradas y de rPET",
+          "paragraphs": [
+            "Muchas consultas tratan de reducir el consumo de resina o cambiar de material, no de comprar un molde nuevo. Los resultados publicados por LIHE para este tipo de trabajo son los siguientes."
+          ],
+          "list": [
+            "Reducción del peso de la preforma de 1 g a 2 g mediante la optimización del cuello o del espesor de pared.",
+            "Reacondicionar un molde existente para aligerar la preforma cuesta entre el 25% y el 40% del precio de un molde nuevo, con un periodo de amortización corto.",
+            "La refrigeración optimizada puede reducir el tiempo de enfriamiento del cuello hasta en 0,5 segundos.",
+            "Las soluciones a medida incluyen pruebas con material rPET, cuellos especiales como PCO 1881 y 29/25, y conversiones de líneas de producción."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿LIHE es fabricante o empresa comercializadora?",
+          "answer": "LIHE es fabricante. Los moldes se diseñan y se mecanizan en su propia planta de 15.000 m² en Shishan, distrito de Nanhai, Foshan, China. La empresa también tiene una oficina comercial en Taiwán."
+        },
+        {
+          "question": "¿Con qué máquinas son compatibles los moldes de LIHE?",
+          "answer": "Los moldes de preforma se fabrican para HUSKY, NETSTAL, SACMI, SIPA, Milacron y otras plataformas. Los moldes de soplado cubren SIDEL, KRONES, SIG/KHS, TECH-LONG y NEWAMSTAR (dos etapas) y SIPA, ASB y AOKI (una etapa). Los canales calientes son compatibles con HUSKY, NETSTAL, KM y SIPA."
+        },
+        {
+          "question": "¿Puede LIHE fabricar piezas para un molde de otro proveedor?",
+          "answer": "Sí. Las piezas de repuesto se fabrican a partir de sus piezas existentes de Husky, SACMI u Otto para que encajen en el molde actual. El plazo publicado para piezas de repuesto es de 4 semanas."
+        },
+        {
+          "question": "¿A qué países suministra LIHE?",
+          "answer": "LIHE tiene clientes en más de 50 países de Asia, Europa, América, África y Oriente Medio."
+        },
+        {
+          "question": "¿Qué garantía ofrece LIHE?",
+          "answer": "La garantía publicada es de 3 años contra fugas en los sistemas de canal caliente de LIHE con diseño tipo Husky Ultra. El resto de condiciones comerciales se fija en cada cotización."
+        },
+        {
+          "question": "¿Publica LIHE precios de moldes?",
+          "answer": "No. El precio depende del número de cavidades, el cuello, la plataforma de máquina y el alcance, por lo que cada proyecto se cotiza por separado tras revisar los requisitos."
+        }
+      ]
+    }
+  }
+}

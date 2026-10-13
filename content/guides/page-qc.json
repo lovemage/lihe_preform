@@ -1,0 +1,388 @@
+{
+  "key": "page-qc",
+  "updated": "2026-10-13",
+  "sources": [
+    { "label": "Wikipedia — Coordinate-measuring machine", "url": "https://en.wikipedia.org/wiki/Coordinate-measuring_machine" },
+    { "label": "Wikipedia — First article inspection", "url": "https://en.wikipedia.org/wiki/First_article_inspection" },
+    { "label": "Wikipedia — Optical comparator", "url": "https://en.wikipedia.org/wiki/Optical_comparator" },
+    { "label": "Wikipedia — Process capability index", "url": "https://en.wikipedia.org/wiki/Process_capability_index" },
+    { "label": "Wikipedia — Measurement system analysis", "url": "https://en.wikipedia.org/wiki/Measurement_system_analysis" }
+  ],
+  "locales": {
+    "en": {
+      "heading": "PET preform mold quality control workflow: inspection from steel to sample preforms and bottles",
+      "intro": "A mold inspection workflow is the sequence of measurements a mold maker carries out from raw material to finished mold, so that every stage is checked before the next one adds cost. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China. This guide walks through what is measured at each stage — incoming steel, machined components, assembly and sample preforms or bottles — and what an inspection report should contain.",
+      "sections": [
+        {
+          "heading": "What a PET mold inspection workflow covers",
+          "paragraphs": [
+            "Quality control in mold making is not a single final check. A deviation found on a finished mold is expensive to fix, while the same deviation found on a single core before assembly costs one rework. A staged workflow therefore measures at four points."
+          ],
+          "list": [
+            "Incoming material: is the steel the right grade and condition before machining starts?",
+            "Machined components: does each core, cavity, neck ring and insert match the drawing?",
+            "Assembly: do the parts fit together, align and interchange across all cavities?",
+            "Sample parts: do the preforms or bottles the mold produces meet the product specification?"
+          ]
+        },
+        {
+          "heading": "Stage 1 — incoming steel and blanks",
+          "paragraphs": [
+            "Mold steel determines wear resistance, polishability and corrosion behavior over the life of the mold. Common incoming checks in the industry are simple but prevent the most expensive kind of failure: a part machined perfectly from the wrong material."
+          ],
+          "list": [
+            "Material certificate from the steel supplier compared with the grade on the drawing.",
+            "Hardness check of the blank, or of the part after heat treatment, against the specified range.",
+            "Visual and dimensional check of blank size so that the finishing allowance is sufficient.",
+            "Identification of each blank so that the part can be traced back to its material batch."
+          ]
+        },
+        {
+          "heading": "Stage 2 — machined mold components on the Zeiss CMM, scanner and projector",
+          "paragraphs": [
+            "Component inspection is where most measuring time is spent. LIHE uses an in-house Zeiss CMM lab, a 3D profile scanner and an optical projector at this stage. Features are measured against the CAD model and the drawing tolerances."
+          ],
+          "list": [
+            "Cores and cavities: diameters, lengths, concentricity and the geometry that sets preform wall thickness — measured on the CMM.",
+            "Neck rings: thread and neck finish profiles such as PCO 1881 or 29/25 — measured on the CMM and checked as a two-dimensional profile on the optical projector.",
+            "Gate inserts and hot runner parts: small bores and seats that control gate quality and sealing — measured on the CMM.",
+            "Mold plates and mold base: flatness, hole positions and parallelism that keep up to 160 cavities aligned.",
+            "Blow mold cavities: freeform bottle contours compared with the 3D model on the 3D profile scanner."
+          ]
+        },
+        {
+          "heading": "Stage 3 — assembly, fit and interchangeability checks",
+          "paragraphs": [
+            "Individually correct parts can still assemble badly if fits, stack heights or alignment features do not work together. Assembly checks confirm that the mold behaves as one unit."
+          ],
+          "list": [
+            "Stack fit: each core, cavity and neck ring set closes and aligns without forcing.",
+            "Interchangeability: parts from one cavity fit any other cavity. LIHE supplies 100% interchangeable conversion parts for Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps and Corvaglia systems.",
+            "Cooling circuits: water channels are open and correctly connected so that every cavity cools evenly.",
+            "Moving and sealing surfaces: clearances are checked so that the mold can run up to 8 million shots on Husky, SACMI and Netstal platforms."
+          ]
+        },
+        {
+          "heading": "Stage 4 — sample preform and bottle inspection",
+          "paragraphs": [
+            "The final proof of a mold is the part it makes. LIHE's QC equipment includes dedicated bottle sample inspection for this stage. Typical checks on sample preforms and bottles include:"
+          ],
+          "list": [
+            "Preform weight in grams, which matters when a lightweighting project removes 1g to 2g from a design.",
+            "Wall thickness and its uniformity around the circumference, which affects blowing.",
+            "Neck finish dimensions, so that the closure seals on the filling line.",
+            "Overall length and visual defects such as gate marks or flash.",
+            "For blow molds: bottle dimensions, wall thickness distribution and capacity, for example on 330ml, 500ml or 1.5L water bottles."
+          ]
+        },
+        {
+          "heading": "Inspection stages compared",
+          "table": {
+            "head": ["Stage", "What is measured", "Typical instrument", "Record produced"],
+            "rows": [
+              ["Incoming steel", "Grade, hardness, blank size", "Certificate review, hardness tester, gauges", "Material record per batch"],
+              ["Machined components", "Diameters, lengths, concentricity, profiles, positions", "Zeiss CMM, optical projector, 3D profile scanner", "Dimensional report per part"],
+              ["Assembly", "Fit, alignment, interchangeability, cooling circuits", "Assembly checks, CMM for critical features", "Assembly checklist"],
+              ["Sample preforms", "Weight, wall thickness, neck finish, length", "Bottle and preform sample inspection", "Sample inspection report"],
+              ["Sample bottles", "Dimensions, wall distribution, capacity", "Bottle sample inspection, 3D profile scanner", "Sample inspection report"]
+            ]
+          }
+        },
+        {
+          "heading": "What the inspection report should contain",
+          "paragraphs": [
+            "LIHE supplies validation and inspection reports on request. A useful dimensional report is traceable and lets a buyer compare measured values with tolerances without guessing."
+          ],
+          "list": [
+            "Part identification, drawing number and revision.",
+            "Nominal value, tolerance, measured value and deviation for each feature.",
+            "Pass or fail status, instrument used and date of measurement.",
+            "For repeated features across many cavities, capability statistics. LIHE tooling consistently achieves CPK ≥ 1.33."
+          ]
+        },
+        {
+          "heading": "How to request and review inspection reports",
+          "steps": [
+            "State in the purchase order which parts need dimensional reports — for example all cores, cavities and neck rings of a new preform mold.",
+            "List the critical features that matter to your line, such as neck finish, preform weight or a specific Husky or SACMI interface.",
+            "When the reports arrive, check that each part number matches the parts in the shipment.",
+            "Compare measured values against tolerances and look at how centered they are, not only whether they pass.",
+            "Keep the reports as a baseline, so that worn parts can later be compared with their original dimensions during maintenance or replacement."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Which stages of mold production does LIHE inspect?",
+          "answer": "LIHE's QC equipment — Zeiss CMM, 3D profile scanner, optical projector and bottle sample inspection — covers machined components and the sample preforms and bottles a mold produces. Validation and inspection reports are supplied on request."
+        },
+        {
+          "question": "Why measure components before assembly instead of only testing the finished mold?",
+          "answer": "A deviation found on a single core costs one rework. The same deviation found after assembly may require taking the mold apart and delaying shipment, so staged inspection protects the lead time."
+        },
+        {
+          "question": "What is checked on sample preforms?",
+          "answer": "Typically weight in grams, wall thickness and its uniformity, neck finish dimensions, length and visual defects such as gate marks or flash."
+        },
+        {
+          "question": "What does CPK ≥ 1.33 tell me in an inspection report?",
+          "answer": "It shows that a dimension repeated across parts is both centered and consistent: the process average is at least four standard deviations from the nearer tolerance limit. LIHE tooling consistently achieves this level."
+        },
+        {
+          "question": "Can I use the inspection report later for spare parts?",
+          "answer": "Yes. The original measured values are a useful baseline when comparing worn parts, and they support ordering replacement parts, which LIHE supplies with a 4-week lead time."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "Процесс контроля качества пресс-форм для ПЭТ-преформ: проверки от стали до образцов преформ и бутылок",
+      "intro": "Процесс контроля пресс-формы — это последовательность измерений, которые изготовитель выполняет от сырья до готовой формы, чтобы каждый этап проверялся до того, как следующий добавит затраты. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) — производитель пресс-форм для ПЭТ-преформ, выдувных форм, форм для колпачков и компрессионных форм, горячеканальных систем и комплектующих для производства напитков и упаковки, с производством в Фошане, Китай. В этом руководстве описано, что измеряется на каждом этапе — входящая сталь, обработанные детали, сборка и образцы преформ или бутылок, — и что должен содержать протокол контроля.",
+      "sections": [
+        {
+          "heading": "Что включает процесс контроля пресс-формы ПЭТ",
+          "paragraphs": [
+            "Контроль качества при изготовлении форм — это не одна финальная проверка. Отклонение, найденное на готовой форме, дорого исправлять, а то же отклонение, найденное на одном пуансоне до сборки, стоит одной доработки. Поэтому поэтапный процесс предусматривает измерения в четырёх точках."
+          ],
+          "list": [
+            "Входящий материал: правильная ли марка и состояние стали до начала обработки?",
+            "Обработанные детали: соответствует ли каждый пуансон, матрица, горловое кольцо и вставка чертежу?",
+            "Сборка: сопрягаются ли детали, совпадают ли оси и взаимозаменяемы ли они во всех гнёздах?",
+            "Образцы изделий: соответствуют ли преформы или бутылки, выпущенные формой, спецификации продукта?"
+          ]
+        },
+        {
+          "heading": "Этап 1 — входящая сталь и заготовки",
+          "paragraphs": [
+            "Сталь формы определяет износостойкость, полируемость и коррозионное поведение на протяжении всего срока службы. Обычные входные проверки в отрасли просты, но предотвращают самый дорогой вид брака: деталь, идеально обработанную из неправильного материала."
+          ],
+          "list": [
+            "Сертификат поставщика стали сверяется с маркой, указанной на чертеже.",
+            "Проверка твёрдости заготовки или детали после термообработки на соответствие заданному диапазону.",
+            "Визуальная и размерная проверка заготовки, чтобы припуска на чистовую обработку было достаточно.",
+            "Маркировка каждой заготовки, чтобы деталь можно было проследить до партии материала."
+          ]
+        },
+        {
+          "heading": "Этап 2 — обработанные детали на КИМ Zeiss, сканере и проекторе",
+          "paragraphs": [
+            "На контроль деталей уходит основная часть времени измерений. На этом этапе LIHE использует собственную лабораторию с КИМ Zeiss, 3D-сканер профиля и оптический проектор. Элементы измеряются относительно CAD-модели и допусков чертежа."
+          ],
+          "list": [
+            "Пуансоны и матрицы: диаметры, длины, соосность и геометрия, определяющая толщину стенки преформы, — на КИМ.",
+            "Горловые кольца: профили резьбы и горловины, например PCO 1881 или 29/25, — на КИМ и как двумерный профиль на оптическом проекторе.",
+            "Литниковые вставки и детали горячего канала: небольшие отверстия и посадочные места, от которых зависят качество литника и герметичность, — на КИМ.",
+            "Плиты и основание формы: плоскостность, положение отверстий и параллельность, которые удерживают в соосности до 160 гнёзд.",
+            "Полости выдувных форм: свободные контуры бутылки сравниваются с 3D-моделью на 3D-сканере профиля."
+          ]
+        },
+        {
+          "heading": "Этап 3 — сборка, посадки и взаимозаменяемость",
+          "paragraphs": [
+            "Детали, правильные по отдельности, могут плохо собираться, если посадки, высоты пакета или элементы центрирования не работают вместе. Проверки при сборке подтверждают, что форма работает как единое целое."
+          ],
+          "list": [
+            "Посадка пакета: каждый комплект пуансона, матрицы и горлового кольца смыкается и центрируется без усилия.",
+            "Взаимозаменяемость: детали одного гнезда подходят к любому другому. LIHE поставляет на 100% взаимозаменяемые детали переоснастки для систем Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps и Corvaglia.",
+            "Контуры охлаждения: каналы открыты и правильно соединены, чтобы каждое гнездо охлаждалось равномерно.",
+            "Подвижные и уплотняющие поверхности: проверяются зазоры, чтобы форма могла отработать до 8 миллионов циклов на платформах Husky, SACMI и Netstal."
+          ]
+        },
+        {
+          "heading": "Этап 4 — контроль образцов преформ и бутылок",
+          "paragraphs": [
+            "Окончательное доказательство качества формы — изделие, которое она выпускает. Оборудование контроля LIHE включает специальный контроль образцов бутылок для этого этапа. Типичные проверки образцов преформ и бутылок:"
+          ],
+          "list": [
+            "Масса преформы в граммах — важна, когда проект облегчения снимает с конструкции от 1 до 2 г.",
+            "Толщина стенки и её равномерность по окружности, влияющая на выдув.",
+            "Размеры горловины, чтобы колпачок герметично закрывался на линии розлива.",
+            "Общая длина и визуальные дефекты, например следы литника или облой.",
+            "Для выдувных форм: размеры бутылки, распределение толщины стенки и объём, например для бутылок для воды 330 мл, 500 мл или 1,5 л."
+          ]
+        },
+        {
+          "heading": "Сравнение этапов контроля",
+          "table": {
+            "head": ["Этап", "Что измеряется", "Типичный прибор", "Создаваемая запись"],
+            "rows": [
+              ["Входящая сталь", "Марка, твёрдость, размер заготовки", "Проверка сертификата, твердомер, калибры", "Запись о материале по партии"],
+              ["Обработанные детали", "Диаметры, длины, соосность, профили, положения", "КИМ Zeiss, оптический проектор, 3D-сканер профиля", "Размерный протокол на деталь"],
+              ["Сборка", "Посадки, центрирование, взаимозаменяемость, охлаждение", "Сборочные проверки, КИМ для критичных элементов", "Контрольный лист сборки"],
+              ["Образцы преформ", "Масса, толщина стенки, горловина, длина", "Контроль образцов преформ и бутылок", "Протокол контроля образцов"],
+              ["Образцы бутылок", "Размеры, распределение стенки, объём", "Контроль образцов бутылок, 3D-сканер профиля", "Протокол контроля образцов"]
+            ]
+          }
+        },
+        {
+          "heading": "Что должен содержать протокол контроля",
+          "paragraphs": [
+            "LIHE предоставляет протоколы валидации и контроля по запросу. Полезный размерный протокол прослеживаем и позволяет покупателю сравнить измеренные значения с допусками без догадок."
+          ],
+          "list": [
+            "Обозначение детали, номер и ревизия чертежа.",
+            "Номинал, допуск, измеренное значение и отклонение для каждого элемента.",
+            "Статус «годен/не годен», использованный прибор и дата измерения.",
+            "Для элементов, повторяющихся во многих гнёздах, — статистика воспроизводимости. Оснастка LIHE стабильно достигает CPK ≥ 1,33."
+          ]
+        },
+        {
+          "heading": "Как запросить и проверить протоколы контроля",
+          "steps": [
+            "Укажите в заказе, для каких деталей нужны размерные протоколы, например для всех пуансонов, матриц и горловых колец новой преформной формы.",
+            "Перечислите критичные для вашей линии элементы: горловину, массу преформы или конкретный интерфейс Husky или SACMI.",
+            "Получив протоколы, проверьте, что номер каждой детали совпадает с деталями в поставке.",
+            "Сравните измеренные значения с допусками и оцените, насколько они отцентрированы, а не только проходят ли они.",
+            "Сохраните протоколы как базу, чтобы позже сравнивать изношенные детали с исходными размерами при обслуживании или замене."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Какие этапы производства формы контролирует LIHE?",
+          "answer": "Оборудование контроля LIHE — КИМ Zeiss, 3D-сканер профиля, оптический проектор и контроль образцов бутылок — охватывает обработанные детали, а также образцы преформ и бутылок, которые выпускает форма. Протоколы валидации и контроля предоставляются по запросу."
+        },
+        {
+          "question": "Зачем измерять детали до сборки, а не только проверять готовую форму?",
+          "answer": "Отклонение на одном пуансоне стоит одной доработки. То же отклонение после сборки может потребовать разборки формы и задержать отгрузку, поэтому поэтапный контроль защищает срок поставки."
+        },
+        {
+          "question": "Что проверяют на образцах преформ?",
+          "answer": "Обычно массу в граммах, толщину стенки и её равномерность, размеры горловины, длину и визуальные дефекты, например следы литника или облой."
+        },
+        {
+          "question": "Что означает CPK ≥ 1,33 в протоколе контроля?",
+          "answer": "Это показывает, что размер, повторяющийся на многих деталях, одновременно отцентрирован и стабилен: среднее значение процесса не менее чем в четырёх стандартных отклонениях от ближайшей границы допуска. Оснастка LIHE стабильно достигает этого уровня."
+        },
+        {
+          "question": "Можно ли позже использовать протокол контроля для запасных частей?",
+          "answer": "Да. Исходные измеренные значения — полезная база для сравнения изношенных деталей, и они помогают заказывать запасные части, которые LIHE поставляет за 4 недели."
+        }
+      ]
+    },
+    "es": {
+      "heading": "Flujo de control de calidad de moldes de preforma PET: inspección desde el acero hasta las muestras de preformas y botellas",
+      "intro": "Un flujo de inspección de moldes es la secuencia de mediciones que un fabricante realiza desde la materia prima hasta el molde terminado, de modo que cada etapa se comprueba antes de que la siguiente añada coste. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) es un fabricante de moldes de preforma PET, moldes de soplado, moldes de tapas y de compresión, sistemas de canal caliente y componentes de molde para la industria de bebidas y envases, con fabricación en Foshan, China. Esta guía recorre qué se mide en cada etapa — acero de entrada, componentes mecanizados, montaje y muestras de preformas o botellas — y qué debe contener un informe de inspección.",
+      "sections": [
+        {
+          "heading": "Qué abarca un flujo de inspección de moldes PET",
+          "paragraphs": [
+            "El control de calidad en la fabricación de moldes no es una única revisión final. Una desviación detectada en un molde terminado es cara de corregir, mientras que la misma desviación detectada en un solo macho antes del montaje cuesta un retrabajo. Por eso un flujo por etapas mide en cuatro puntos."
+          ],
+          "list": [
+            "Material de entrada: ¿es el acero del grado y estado correctos antes de empezar a mecanizar?",
+            "Componentes mecanizados: ¿coincide cada macho, cavidad, anillo de cuello e inserto con el plano?",
+            "Montaje: ¿encajan las piezas, se alinean y son intercambiables entre todas las cavidades?",
+            "Piezas de muestra: ¿cumplen las preformas o botellas producidas por el molde la especificación del producto?"
+          ]
+        },
+        {
+          "heading": "Etapa 1 — acero de entrada y bloques",
+          "paragraphs": [
+            "El acero del molde determina la resistencia al desgaste, la facilidad de pulido y el comportamiento frente a la corrosión durante toda su vida. Las comprobaciones de entrada habituales en el sector son sencillas, pero evitan el fallo más caro: una pieza mecanizada a la perfección con el material equivocado."
+          ],
+          "list": [
+            "Certificado del proveedor de acero comparado con el grado indicado en el plano.",
+            "Control de dureza del bloque, o de la pieza tras el tratamiento térmico, frente al rango especificado.",
+            "Revisión visual y dimensional del bloque para que la creces de acabado sea suficiente.",
+            "Identificación de cada bloque para poder trazar la pieza hasta su lote de material."
+          ]
+        },
+        {
+          "heading": "Etapa 2 — componentes mecanizados en la CMM Zeiss, el escáner y el proyector",
+          "paragraphs": [
+            "La inspección de componentes es donde se invierte la mayor parte del tiempo de medición. En esta etapa LIHE utiliza su laboratorio propio de CMM Zeiss, un escáner de perfil 3D y un proyector óptico. Las características se miden frente al modelo CAD y las tolerancias del plano."
+          ],
+          "list": [
+            "Machos y cavidades: diámetros, longitudes, concentricidad y la geometría que fija el espesor de pared de la preforma, medidos en la CMM.",
+            "Anillos de cuello: perfiles de rosca y de acabado de cuello como PCO 1881 o 29/25, medidos en la CMM y comprobados como perfil bidimensional en el proyector óptico.",
+            "Insertos de entrada y piezas de canal caliente: pequeños orificios y asientos que controlan la calidad de la entrada y el sellado, medidos en la CMM.",
+            "Placas y base del molde: planitud, posición de agujeros y paralelismo que mantienen alineadas hasta 160 cavidades.",
+            "Cavidades de moldes de soplado: contornos libres de la botella comparados con el modelo 3D en el escáner de perfil 3D."
+          ]
+        },
+        {
+          "heading": "Etapa 3 — montaje, ajuste e intercambiabilidad",
+          "paragraphs": [
+            "Piezas correctas por separado pueden montar mal si los ajustes, las alturas del conjunto o los elementos de centrado no funcionan juntos. Las comprobaciones de montaje confirman que el molde se comporta como una unidad."
+          ],
+          "list": [
+            "Ajuste del conjunto: cada juego de macho, cavidad y anillo de cuello cierra y se centra sin forzar.",
+            "Intercambiabilidad: las piezas de una cavidad sirven en cualquier otra. LIHE suministra piezas de conversión 100% intercambiables para sistemas Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps y Corvaglia.",
+            "Circuitos de refrigeración: los canales de agua están libres y bien conectados para que cada cavidad se enfríe por igual.",
+            "Superficies móviles y de sellado: se revisan las holguras para que el molde pueda trabajar hasta 8 millones de ciclos en plataformas Husky, SACMI y Netstal."
+          ]
+        },
+        {
+          "heading": "Etapa 4 — inspección de muestras de preformas y botellas",
+          "paragraphs": [
+            "La prueba final de un molde es la pieza que fabrica. El equipo de control de calidad de LIHE incluye inspección dedicada de muestras de botellas para esta etapa. Las comprobaciones típicas en muestras de preformas y botellas son:"
+          ],
+          "list": [
+            "Peso de la preforma en gramos, importante cuando un proyecto de aligeramiento quita entre 1 g y 2 g al diseño.",
+            "Espesor de pared y su uniformidad alrededor de la circunferencia, que influye en el soplado.",
+            "Dimensiones del acabado de cuello, para que la tapa selle en la línea de llenado.",
+            "Longitud total y defectos visuales como marcas de entrada o rebabas.",
+            "En moldes de soplado: dimensiones de la botella, distribución del espesor de pared y capacidad, por ejemplo en botellas de agua de 330 ml, 500 ml o 1,5 L."
+          ]
+        },
+        {
+          "heading": "Comparación de las etapas de inspección",
+          "table": {
+            "head": ["Etapa", "Qué se mide", "Instrumento habitual", "Registro generado"],
+            "rows": [
+              ["Acero de entrada", "Grado, dureza, tamaño del bloque", "Revisión de certificado, durómetro, calibres", "Registro de material por lote"],
+              ["Componentes mecanizados", "Diámetros, longitudes, concentricidad, perfiles, posiciones", "CMM Zeiss, proyector óptico, escáner de perfil 3D", "Informe dimensional por pieza"],
+              ["Montaje", "Ajuste, alineación, intercambiabilidad, refrigeración", "Comprobaciones de montaje, CMM para cotas críticas", "Lista de verificación de montaje"],
+              ["Muestras de preformas", "Peso, espesor de pared, cuello, longitud", "Inspección de muestras de preformas y botellas", "Informe de inspección de muestras"],
+              ["Muestras de botellas", "Dimensiones, distribución de pared, capacidad", "Inspección de muestras de botellas, escáner de perfil 3D", "Informe de inspección de muestras"]
+            ]
+          }
+        },
+        {
+          "heading": "Qué debe contener el informe de inspección",
+          "paragraphs": [
+            "LIHE entrega informes de validación e inspección bajo solicitud. Un informe dimensional útil es trazable y permite al comprador comparar los valores medidos con las tolerancias sin hacer suposiciones."
+          ],
+          "list": [
+            "Identificación de la pieza, número de plano y revisión.",
+            "Valor nominal, tolerancia, valor medido y desviación de cada característica.",
+            "Estado conforme o no conforme, instrumento utilizado y fecha de medición.",
+            "Para características repetidas en muchas cavidades, estadísticas de capacidad. Los utillajes de LIHE alcanzan de forma constante un CPK ≥ 1,33."
+          ]
+        },
+        {
+          "heading": "Cómo solicitar y revisar los informes de inspección",
+          "steps": [
+            "Indique en el pedido qué piezas necesitan informe dimensional, por ejemplo todos los machos, cavidades y anillos de cuello de un nuevo molde de preforma.",
+            "Enumere las características críticas para su línea, como el acabado de cuello, el peso de la preforma o una interfaz concreta de Husky o SACMI.",
+            "Cuando lleguen los informes, compruebe que cada número de pieza coincide con las piezas del envío.",
+            "Compare los valores medidos con las tolerancias y observe lo centrados que están, no solo si son conformes.",
+            "Guarde los informes como referencia para comparar más adelante las piezas desgastadas con sus dimensiones originales durante el mantenimiento o la sustitución."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Qué etapas de la fabricación del molde inspecciona LIHE?",
+          "answer": "El equipo de control de calidad de LIHE — CMM Zeiss, escáner de perfil 3D, proyector óptico e inspección de muestras de botellas — cubre los componentes mecanizados y las muestras de preformas y botellas que produce el molde. Los informes de validación e inspección se entregan bajo solicitud."
+        },
+        {
+          "question": "¿Por qué medir los componentes antes del montaje en lugar de probar solo el molde terminado?",
+          "answer": "Una desviación en un solo macho cuesta un retrabajo. La misma desviación detectada tras el montaje puede obligar a desmontar el molde y retrasar el envío, por lo que la inspección por etapas protege el plazo de entrega."
+        },
+        {
+          "question": "¿Qué se comprueba en las muestras de preformas?",
+          "answer": "Normalmente el peso en gramos, el espesor de pared y su uniformidad, las dimensiones del acabado de cuello, la longitud y defectos visuales como marcas de entrada o rebabas."
+        },
+        {
+          "question": "¿Qué indica un CPK ≥ 1,33 en un informe de inspección?",
+          "answer": "Muestra que una cota repetida en muchas piezas está centrada y es constante: la media del proceso está al menos a cuatro desviaciones estándar del límite de tolerancia más cercano. Los utillajes de LIHE alcanzan este nivel de forma constante."
+        },
+        {
+          "question": "¿Puedo usar el informe de inspección más adelante para repuestos?",
+          "answer": "Sí. Los valores medidos originales son una referencia útil para comparar piezas desgastadas y facilitan el pedido de repuestos, que LIHE suministra con un plazo de 4 semanas."
+        }
+      ]
+    }
+  }
+}

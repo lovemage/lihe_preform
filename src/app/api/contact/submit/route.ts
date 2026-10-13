@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import { sendResendEmail } from "@/lib/email/resend";
+import { classifyAttribution, sanitizeAttribution } from "@/lib/attribution";
 
 // Email templates
 const customerEmailTemplates = {
@@ -125,7 +126,39 @@ const customerEmailTemplates = {
   `
 };
 
-const adminEmailTemplate = (data: any, locale: string) => `
+const escapeHtml = (value: unknown) =>
+  String(value ?? "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
+
+const attributionRows = (
+  attribution: ReturnType<typeof sanitizeAttribution>,
+  channel: ReturnType<typeof classifyAttribution> | null,
+) => {
+  if (!attribution || !channel) {
+    return `<div class="field"><span class="label">Source:</span><span class="value">not captured</span></div>`;
+  }
+  const rows: [string, string][] = [
+    ["Source channel", `${channel.channel.toUpperCase()} — ${channel.source}`],
+    ["First referrer", attribution.referrer || "(none)"],
+    ["Landing page", attribution.landingPage],
+    ["UTM", [attribution.utmSource, attribution.utmMedium, attribution.utmCampaign].filter(Boolean).join(" / ") || "(none)"],
+    ["Click ID", attribution.clickId || "(none)"],
+    ["First seen", attribution.firstSeen],
+  ];
+  return rows
+    .map(([label, value]) => `<div class="field"><span class="label">${label}:</span><span class="value">${escapeHtml(value)}</span></div>`)
+    .join("\n      ");
+};
+
+const adminEmailTemplate = (
+  data: any,
+  locale: string,
+  attribution: ReturnType<typeof sanitizeAttribution> = null,
+  channel: ReturnType<typeof classifyAttribution> | null = null,
+) => `
 <!DOCTYPE html>
 <html>
 <head>
@@ -148,27 +181,27 @@ const adminEmailTemplate = (data: any, locale: string) => `
     <div class="content">
       <div class="field">
         <span class="label">Name:</span>
-        <span class="value">${data.firstName} ${data.familyName}</span>
+        <span class="value">${escapeHtml(data.firstName)} ${escapeHtml(data.familyName)}</span>
       </div>
       <div class="field">
         <span class="label">Email:</span>
-        <span class="value">${data.email}</span>
+        <span class="value">${escapeHtml(data.email)}</span>
       </div>
       <div class="field">
         <span class="label">Phone:</span>
-        <span class="value">${data.phone}</span>
+        <span class="value">${escapeHtml(data.phone)}</span>
       </div>
       <div class="field">
         <span class="label">Country:</span>
-        <span class="value">${data.country}</span>
+        <span class="value">${escapeHtml(data.country)}</span>
       </div>
       <div class="field">
         <span class="label">Product Category:</span>
-        <span class="value">${data.productCategory}</span>
+        <span class="value">${escapeHtml(data.productCategory)}</span>
       </div>
       <div class="field">
         <span class="label">Requirements:</span>
-        <div class="value" style="margin-top: 10px; white-space: pre-wrap;">${data.requirements}</div>
+        <div class="value" style="margin-top: 10px; white-space: pre-wrap;">${escapeHtml(data.requirements)}</div>
       </div>
       <div class="field">
         <span class="label">Submitted:</span>
@@ -176,8 +209,9 @@ const adminEmailTemplate = (data: any, locale: string) => `
       </div>
       <div class="field">
         <span class="label">Language:</span>
-        <span class="value">${locale.toUpperCase()}</span>
+        <span class="value">${escapeHtml(String(locale).toUpperCase())}</span>
       </div>
+      ${attributionRows(attribution, channel)}
     </div>
   </div>
 </body>
@@ -235,7 +269,8 @@ export async function POST(request: NextRequest) {
       requirements,
       captchaToken,
       captchaAnswer,
-      locale = 'en'
+      locale = 'en',
+      attribution: rawAttribution,
     } = body;
 
     // Validate required fields
@@ -263,6 +298,8 @@ export async function POST(request: NextRequest) {
       productCategory,
       requirements
     };
+    const attribution = sanitizeAttribution(rawAttribution);
+    const channel = attribution ? classifyAttribution(attribution) : null;
 
     // Send thank-you email to customer
     const customerTemplate = customerEmailTemplates[locale as keyof typeof customerEmailTemplates] || customerEmailTemplates.en;
@@ -279,7 +316,7 @@ export async function POST(request: NextRequest) {
     await sendResendEmail({
       to: "sales@lihe-preform.com",
       subject: adminSubject,
-      html: adminEmailTemplate(data, locale),
+      html: adminEmailTemplate(data, locale, attribution, channel),
       from: "Lihe Precision <sales@lihe-preform.com>",
       replyTo: email,
     });

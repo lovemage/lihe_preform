@@ -1,0 +1,345 @@
+{
+  "key": "product-31",
+  "updated": "2026-10-13",
+  "sources": [
+    { "label": "Wikipedia — Blow molding", "url": "https://en.wikipedia.org/wiki/Blow_molding" },
+    { "label": "Wikipedia — Glass transition", "url": "https://en.wikipedia.org/wiki/Glass_transition" },
+    { "label": "Wikipedia — Crystallization of polymers", "url": "https://en.wikipedia.org/wiki/Crystallization_of_polymers" },
+    { "label": "Wikipedia — Polyethylene terephthalate", "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate" },
+    { "label": "Wikipedia — Heat transfer fluid", "url": "https://en.wikipedia.org/wiki/Heat_transfer_fluid" },
+    { "label": "Wikipedia — Pasteurization", "url": "https://en.wikipedia.org/wiki/Pasteurization" },
+    { "label": "Sidel — official website", "url": "https://www.sidel.com/en" }
+  ],
+  "locales": {
+    "en": {
+      "heading": "Hot fill blow mold operation and maintenance: hot oil circuits, temperature zones, vacuum panels and bottle defects",
+      "intro": "A hot fill (heat-set) blow mold is a PET blow mold whose shells are heated by circulating hot oil so that the bottle is crystallized and stress-relieved during blowing and can be filled at about 85–95°C. Standard PET bottles deform above about 60°C, so the mold's temperature control, the bottle's vacuum panels and the filling conditions must work together. This guide covers how the hot oil circuits and temperature zones are run, how vacuum panels are designed, start-up and shutdown practice, the common hot fill bottle defects with what to check, and routine maintenance.",
+      "sections": [
+        {
+          "heading": "Hot oil circuits in a heat-set blow mold",
+          "paragraphs": [
+            "In a cold fill mold, water removes heat from the bottle as fast as possible. In a heat-set mold the shells are deliberately held hot, so the PET stays at an elevated temperature against the cavity wall long enough to crystallize and relax the stress from stretching. A heat transfer oil is used because it can carry heat at mold temperatures where water would need a pressurized system."
+          ],
+          "list": [
+            "A temperature control unit on the machine heats the oil and pumps it through channels in each mold shell.",
+            "Channels run close to the cavity and follow its shape, so the whole bottle wall reaches the same heat-set condition.",
+            "Hoses, couplings and seals in the circuit must be rated for hot oil; ordinary water hoses and seals are not suitable.",
+            "Thermal insulation between the hot shells and the mold carrier limits heat flow into the machine.",
+            "All stations are supplied from the same system and must reach the same temperature, otherwise bottles from different stations behave differently on the filler.",
+            "The machine itself must be a heat-set version; LIHE builds hot fill molds for heat-set versions of mainstream two-step rotary blowers, including SIDEL and KRONES."
+          ]
+        },
+        {
+          "heading": "Body and base temperature zones in a hot fill blow mold",
+          "paragraphs": [
+            "The body and the base of a hot fill bottle need different treatment, so the mold has separate temperature control of body and base. Actual set points are given by the machine maker and fine-tuned on trial bottles; the table shows what each zone does."
+          ],
+          "table": {
+            "head": ["Zone", "Role in the heat-set process", "Typical symptom when it is out of balance"],
+            "rows": [
+              ["Body shells", "Held hot by oil to crystallize and stabilize the sidewall, shoulder and vacuum panels", "Shrinkage, volume loss or panel distortion after hot filling"],
+              ["Base mold", "Controlled separately so the thicker base forms fully and stays stable after release", "Base roll-out, rocking bottles or a deformed standing ring"],
+              ["Neck area", "Not blown; the preform neck keeps its injection-molded shape, and some hot fill bottles use a crystallized neck finish", "Neck ovality or closure leaks after capping hot product"],
+              ["Bottle interior at release", "Cooled, typically by flushing air through the bottle, before the mold opens", "Bottle deforms or sticks when it leaves the hot mold"]
+            ]
+          }
+        },
+        {
+          "heading": "Vacuum panel design for hot fill PET bottles",
+          "paragraphs": [
+            "After capping, the hot product and the headspace cool and contract, which creates a vacuum inside the bottle. Vacuum panels are areas designed to move inward in a controlled way so the rest of the bottle keeps its shape. The panels are formed by the shape of the mold cavity, so their design is part of the mold design."
+          ],
+          "list": [
+            "Panels are usually placed in the label area, where the label covers their movement and supports the bottle.",
+            "Panels are spaced evenly around the bottle so it pulls in symmetrically and does not become oval.",
+            "Ribs and frames around the panels keep the shoulder and base rigid while the panels flex.",
+            "Some designs let the base take part of the vacuum, which reduces the panel area needed in the sidewall.",
+            "Panel edges and ribs need good venting in the mold so they form sharply; soft edges change how the panel flexes.",
+            "Square and round hot fill bottles both use this principle; the panel layout follows the bottle cross-section."
+          ]
+        },
+        {
+          "heading": "Start-up and shutdown of a hot fill blow mold",
+          "steps": [
+            "Before start-up, inspect hot oil hoses, couplings and seals on every station and check the oil level in the temperature control unit.",
+            "Heat the molds to the set points for body and base and wait until every station is stable at temperature before blowing.",
+            "Blow the first bottles and check appearance, base shape and wall distribution from each station.",
+            "Run a hot fill test on sample bottles at the actual filling temperature of the line, cap and cool them, then measure volume and check panel and base movement.",
+            "Release production only when bottles from all stations pass the hot fill test.",
+            "At shutdown, stop the preform feed first and keep oil circulating while the molds cool down under the control unit's program.",
+            "Disconnect hot oil couplings only when the mold is cool enough to handle, and cap them to keep out dirt and moisture."
+          ]
+        },
+        {
+          "heading": "Common hot fill bottle defects and what to check",
+          "table": {
+            "head": ["Defect", "What to check on the mold and process"],
+            "rows": [
+              ["Bottle shrinks or loses volume after filling", "Body shell temperature reached on all stations; heat-set time; actual fill temperature compared with the design"],
+              ["Uneven or permanent panel collapse", "Panel geometry and wall thickness at the panels; venting of panel edges; symmetry of the material distribution"],
+              ["Bottle becomes oval", "Equal temperature on both shell halves; balanced panel layout; preform heating profile"],
+              ["Base roll-out or rocking bottle", "Base mold temperature control; material in the base; base cooling before release"],
+              ["Neck finish distortion or leaking closure", "Neck finish type suitable for hot fill; neck plate fit; capping conditions"],
+              ["Bottle sticks or deforms at release", "Cooling of the bottle interior before the mold opens; cavity surface condition"],
+              ["Haze or white areas in the wall", "Preform heating and stretch conditions; uneven temperature along the shell"]
+            ]
+          }
+        },
+        {
+          "heading": "Maintenance checklist for heat-set blow molds",
+          "list": [
+            "Check hot oil couplings and seals for leaks at every shift; oil on the cavity or parting line marks bottles and is a burn and fire risk.",
+            "Replace hoses and seals that are hard, cracked or swollen, and follow the temperature control unit maker's schedule for oil condition.",
+            "Inspect thermal insulation between the shells and the mold carrier and replace damaged insulation.",
+            "Clean vent slots and holes, especially around vacuum panels and base features.",
+            "Check parting line faces and locating features for wear, because heating and cooling cycles add stress to these areas.",
+            "Clean and protect cavity surfaces according to their finish; the material and cavity finish are chosen for long-term operation at elevated temperature.",
+            "Keep spare base molds and seals for high-volume formats; replacement parts have a published lead time of 4 weeks, and mold refurbishment programs are available."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Can a cold fill blow mold be converted to hot fill?",
+          "answer": "Generally not. A heat-set mold needs hot oil channels, separate body and base temperature control, insulation from the carrier and a bottle design with vacuum panels, and it must run on a heat-set version of the blow molder. In most cases a new mold set is designed for hot fill."
+        },
+        {
+          "question": "What filling temperature should we give when ordering?",
+          "answer": "Give the actual filling temperature and its tolerance on your line, the product and the cooling method after filling. Hot fill molds are designed for products filled at about 85–95°C, and the design is checked with a hot fill test at your real conditions."
+        },
+        {
+          "question": "Why do hot fill bottles need vacuum panels?",
+          "answer": "When the hot product cools in the closed bottle, it contracts and creates a vacuum. Without designed panels the bottle would collapse or distort in random places. Panels move inward in a controlled way so the bottle keeps its shape and label area."
+        },
+        {
+          "question": "Can hot fill bottles be lightweighted like water bottles?",
+          "answer": "Within limits. The heat-set structure, panels and ribs need enough material to stay stable after filling, so weight reduction is checked carefully with hot fill tests on trial bottles. Preform and bottle design are adjusted together."
+        },
+        {
+          "question": "Which blow molding machines do your hot fill molds fit?",
+          "answer": "Heat-set versions of mainstream two-step rotary blowers, including SIDEL and KRONES. Send the machine model and generation so the mold fits the carrier and the hot oil connections."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "Эксплуатация и обслуживание выдувных форм горячего розлива: контуры горячего масла, температурные зоны, вакуумные панели и дефекты бутылок",
+      "intro": "Выдувная форма горячего розлива (с термофиксацией) — это выдувная форма для ПЭТ, полуформы которой нагреваются циркулирующим горячим маслом, чтобы бутылка кристаллизовалась и освобождалась от напряжений при выдуве и выдерживала розлив при температуре около 85–95°C. Стандартные ПЭТ-бутылки деформируются при температуре выше примерно 60°C, поэтому термостатирование формы, вакуумные панели бутылки и условия розлива должны работать вместе. В руководстве описаны работа контуров горячего масла и температурных зон, проектирование вакуумных панелей, порядок пуска и остановки, типичные дефекты бутылок горячего розлива с пунктами проверки и регулярное обслуживание.",
+      "sections": [
+        {
+          "heading": "Контуры горячего масла в выдувной форме с термофиксацией",
+          "paragraphs": [
+            "В форме холодного розлива вода как можно быстрее отводит тепло от бутылки. В форме с термофиксацией полуформы намеренно поддерживаются горячими, чтобы ПЭТ находился при повышенной температуре у стенки полости достаточно долго для кристаллизации и снятия напряжений вытяжки. Применяется теплоноситель на масляной основе, так как он переносит тепло при температурах формы, при которых для воды понадобилась бы система под давлением."
+          ],
+          "list": [
+            "Термостат на машине нагревает масло и прокачивает его через каналы в каждой полуформе.",
+            "Каналы проходят близко к полости и повторяют её форму, чтобы вся стенка бутылки достигала одинакового состояния термофиксации.",
+            "Шланги, муфты и уплотнения контура должны быть рассчитаны на горячее масло; обычные водяные шланги и уплотнения не подходят.",
+            "Теплоизоляция между горячими полуформами и формодержателем ограничивает передачу тепла в машину.",
+            "Все станции питаются от одной системы и должны выходить на одинаковую температуру, иначе бутылки с разных станций по-разному ведут себя на розливе.",
+            "Сама машина должна быть в исполнении с термофиксацией; LIHE изготавливает формы горячего розлива для таких версий распространённых двухстадийных ротационных машин, включая SIDEL и KRONES."
+          ]
+        },
+        {
+          "heading": "Температурные зоны корпуса и дна в выдувной форме горячего розлива",
+          "paragraphs": [
+            "Корпус и дно бутылки горячего розлива требуют разной обработки, поэтому в форме предусмотрено раздельное регулирование температуры корпуса и дна. Фактические уставки задаёт производитель машины, а точная настройка выполняется на пробных бутылках; в таблице показана роль каждой зоны."
+          ],
+          "table": {
+            "head": ["Зона", "Роль в процессе термофиксации", "Типичный признак нарушения баланса"],
+            "rows": [
+              ["Полуформы корпуса", "Нагреваются маслом для кристаллизации и стабилизации стенки, плечиков и вакуумных панелей", "Усадка, потеря объёма или искажение панелей после горячего розлива"],
+              ["Донная форма", "Регулируется отдельно, чтобы более толстое дно полностью оформилось и оставалось стабильным после съёма", "Выворачивание дна, неустойчивые бутылки или деформированное опорное кольцо"],
+              ["Зона горла", "Не раздувается; горло сохраняет литьевую форму, а в некоторых бутылках горячего розлива применяется кристаллизованное горло", "Овальность горла или негерметичность колпачка после укупорки горячего продукта"],
+              ["Внутренняя полость бутылки при съёме", "Охлаждается, обычно продувкой воздухом, до раскрытия формы", "Бутылка деформируется или прилипает при выходе из горячей формы"]
+            ]
+          }
+        },
+        {
+          "heading": "Проектирование вакуумных панелей для ПЭТ-бутылок горячего розлива",
+          "paragraphs": [
+            "После укупорки горячий продукт и воздух в горловой части остывают и сжимаются, создавая разрежение внутри бутылки. Вакуумные панели — это участки, рассчитанные на управляемое вдавливание внутрь, чтобы остальная бутылка сохраняла форму. Панели формируются контуром полости, поэтому их конструкция — часть конструкции формы."
+          ],
+          "list": [
+            "Панели обычно располагают в зоне этикетки, где этикетка закрывает их движение и поддерживает бутылку.",
+            "Панели равномерно распределяют по окружности, чтобы бутылка втягивалась симметрично и не становилась овальной.",
+            "Рёбра и рамки вокруг панелей сохраняют жёсткость плечиков и дна, пока панели прогибаются.",
+            "В некоторых конструкциях часть разрежения воспринимает дно, что уменьшает необходимую площадь панелей в стенке.",
+            "Кромки панелей и рёбра требуют хорошей вентиляции в форме для чёткого оформления; нечёткие кромки меняют характер прогиба панели.",
+            "Этот принцип применяется и для квадратных, и для круглых бутылок горячего розлива; расположение панелей следует сечению бутылки."
+          ]
+        },
+        {
+          "heading": "Пуск и остановка выдувной формы горячего розлива",
+          "steps": [
+            "Перед пуском осмотрите шланги, муфты и уплотнения горячего масла на всех станциях и проверьте уровень масла в термостате.",
+            "Нагрейте формы до уставок корпуса и дна и дождитесь стабильной температуры на всех станциях до начала выдува.",
+            "Выдуйте первые бутылки и проверьте внешний вид, форму дна и распределение стенки с каждой станции.",
+            "Проведите испытание горячим розливом на образцах при фактической температуре розлива линии, укупорьте и охладите их, затем измерьте объём и проверьте работу панелей и дна.",
+            "Передавайте линию в производство только после того, как бутылки со всех станций прошли испытание горячим розливом.",
+            "При остановке сначала прекратите подачу преформ и продолжайте циркуляцию масла, пока формы остывают по программе термостата.",
+            "Отсоединяйте муфты горячего масла только после остывания формы до безопасной температуры и закрывайте их заглушками от грязи и влаги."
+          ]
+        },
+        {
+          "heading": "Типичные дефекты бутылок горячего розлива и что проверять",
+          "table": {
+            "head": ["Дефект", "Что проверить в форме и процессе"],
+            "rows": [
+              ["Бутылка даёт усадку или теряет объём после розлива", "Достижение температуры полуформ корпуса на всех станциях; время термофиксации; фактическая температура розлива по сравнению с расчётной"],
+              ["Неравномерное или необратимое вдавливание панелей", "Геометрия панелей и толщина стенки в зоне панелей; вентиляция кромок панелей; симметрия распределения материала"],
+              ["Бутылка становится овальной", "Одинаковая температура обеих полуформ; сбалансированное расположение панелей; профиль нагрева преформы"],
+              ["Выворачивание дна или неустойчивая бутылка", "Регулирование температуры донной формы; количество материала в дне; охлаждение дна перед съёмом"],
+              ["Деформация горла или негерметичный колпачок", "Тип горла, пригодный для горячего розлива; посадка плиты горла; условия укупорки"],
+              ["Бутылка прилипает или деформируется при съёме", "Охлаждение внутренней полости бутылки до раскрытия формы; состояние поверхности полости"],
+              ["Помутнение или белые участки в стенке", "Условия нагрева и вытяжки преформы; неравномерная температура по высоте полуформы"]
+            ]
+          }
+        },
+        {
+          "heading": "Чек-лист обслуживания выдувных форм с термофиксацией",
+          "list": [
+            "Каждую смену проверяйте муфты и уплотнения горячего масла на утечки; масло на полости или линии разъёма оставляет следы на бутылках и создаёт риск ожогов и возгорания.",
+            "Заменяйте затвердевшие, потрескавшиеся или набухшие шланги и уплотнения и соблюдайте график производителя термостата по состоянию масла.",
+            "Осматривайте теплоизоляцию между полуформами и формодержателем и заменяйте повреждённую изоляцию.",
+            "Очищайте вентиляционные щели и отверстия, особенно вокруг вакуумных панелей и элементов дна.",
+            "Проверяйте поверхности разъёма и базирующие элементы на износ, так как циклы нагрева и охлаждения дополнительно нагружают эти зоны.",
+            "Очищайте и защищайте поверхности полости в соответствии с их отделкой; материал и отделка полости выбраны для длительной работы при повышенной температуре.",
+            "Держите запасные донные формы и уплотнения для массовых форматов; опубликованный срок поставки запасных частей — 4 недели, доступны также программы восстановления форм."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Можно ли переделать форму холодного розлива в форму горячего розлива?",
+          "answer": "Как правило, нет. Форме с термофиксацией нужны каналы горячего масла, раздельное регулирование температуры корпуса и дна, изоляция от формодержателя и бутылка с вакуумными панелями, а работать она должна на машине в исполнении с термофиксацией. В большинстве случаев проектируется новый комплект для горячего розлива."
+        },
+        {
+          "question": "Какую температуру розлива указывать при заказе?",
+          "answer": "Укажите фактическую температуру розлива на вашей линии и её допуск, продукт и способ охлаждения после розлива. Формы горячего розлива рассчитаны на продукты, разливаемые при температуре около 85–95°C, а конструкция проверяется испытанием горячим розливом в ваших реальных условиях."
+        },
+        {
+          "question": "Зачем бутылкам горячего розлива вакуумные панели?",
+          "answer": "Когда горячий продукт остывает в закрытой бутылке, он сжимается и создаёт разрежение. Без рассчитанных панелей бутылка сминалась бы или деформировалась в случайных местах. Панели управляемо вдавливаются внутрь, и бутылка сохраняет форму и зону этикетки."
+        },
+        {
+          "question": "Можно ли облегчать бутылки горячего розлива так же, как бутылки для воды?",
+          "answer": "В определённых пределах. Структуре термофиксации, панелям и рёбрам нужно достаточно материала для стабильности после розлива, поэтому снижение веса тщательно проверяется испытаниями горячим розливом на пробных бутылках. Преформа и бутылка корректируются вместе."
+        },
+        {
+          "question": "Для каких выдувных машин подходят ваши формы горячего розлива?",
+          "answer": "Для версий с термофиксацией распространённых двухстадийных ротационных машин, включая SIDEL и KRONES. Отправьте модель и поколение машины, чтобы форма подошла к формодержателю и подключениям горячего масла."
+        }
+      ]
+    },
+    "es": {
+      "heading": "Operación y mantenimiento de moldes de soplado para llenado en caliente: circuitos de aceite caliente, zonas de temperatura, paneles de vacío y defectos de botella",
+      "intro": "Un molde de soplado para llenado en caliente (termofijado) es un molde de soplado PET cuyas carcasas se calientan con aceite caliente en circulación, de modo que la botella se cristaliza y se libera de tensiones durante el soplado y puede llenarse a unos 85–95°C. Las botellas PET estándar se deforman por encima de unos 60°C, por lo que el control de temperatura del molde, los paneles de vacío de la botella y las condiciones de llenado deben funcionar juntos. Esta guía explica cómo se operan los circuitos de aceite caliente y las zonas de temperatura, cómo se diseñan los paneles de vacío, el arranque y la parada, los defectos habituales de las botellas de llenado en caliente con lo que hay que revisar, y el mantenimiento rutinario.",
+      "sections": [
+        {
+          "heading": "Circuitos de aceite caliente en un molde de soplado de termofijado",
+          "paragraphs": [
+            "En un molde de llenado en frío, el agua retira el calor de la botella lo más rápido posible. En un molde de termofijado las carcasas se mantienen calientes a propósito, para que el PET permanezca a temperatura elevada contra la pared de la cavidad el tiempo suficiente para cristalizar y relajar las tensiones del estirado. Se usa un aceite térmico porque puede transportar calor a temperaturas de molde a las que el agua necesitaría un sistema presurizado."
+          ],
+          "list": [
+            "Una unidad de control de temperatura en la máquina calienta el aceite y lo bombea por los canales de cada carcasa.",
+            "Los canales pasan cerca de la cavidad y siguen su forma, para que toda la pared de la botella alcance la misma condición de termofijado.",
+            "Las mangueras, acoplamientos y juntas del circuito deben estar preparados para aceite caliente; las mangueras y juntas de agua normales no sirven.",
+            "Un aislamiento térmico entre las carcasas calientes y el portamoldes limita el paso de calor a la máquina.",
+            "Todas las estaciones se alimentan del mismo sistema y deben alcanzar la misma temperatura; de lo contrario, las botellas de distintas estaciones se comportan de forma diferente en la llenadora.",
+            "La propia máquina debe ser una versión de termofijado; LIHE fabrica moldes de llenado en caliente para versiones de termofijado de las principales sopladoras rotativas de dos etapas, incluidas SIDEL y KRONES."
+          ]
+        },
+        {
+          "heading": "Zonas de temperatura de cuerpo y fondo en un molde de llenado en caliente",
+          "paragraphs": [
+            "El cuerpo y la base de una botella de llenado en caliente necesitan un tratamiento distinto, por eso el molde tiene control de temperatura separado para cuerpo y fondo. Los valores de consigna reales los indica el fabricante de la máquina y se afinan con botellas de prueba; la tabla muestra la función de cada zona."
+          ],
+          "table": {
+            "head": ["Zona", "Función en el proceso de termofijado", "Síntoma típico cuando está desequilibrada"],
+            "rows": [
+              ["Carcasas del cuerpo", "Se mantienen calientes con aceite para cristalizar y estabilizar la pared, el hombro y los paneles de vacío", "Contracción, pérdida de volumen o distorsión de paneles tras el llenado en caliente"],
+              ["Molde de fondo", "Se controla por separado para que la base, más gruesa, se forme por completo y quede estable tras el desmoldeo", "Base abombada hacia fuera, botellas que cojean o anillo de apoyo deformado"],
+              ["Zona del cuello", "No se sopla; el cuello conserva la forma de inyección, y algunas botellas de llenado en caliente usan un cuello cristalizado", "Ovalidad del cuello o fugas del tapón tras taponar producto caliente"],
+              ["Interior de la botella al desmoldear", "Se enfría, normalmente con un barrido de aire por el interior, antes de abrir el molde", "La botella se deforma o se pega al salir del molde caliente"]
+            ]
+          }
+        },
+        {
+          "heading": "Diseño de paneles de vacío para botellas PET de llenado en caliente",
+          "paragraphs": [
+            "Tras el taponado, el producto caliente y el espacio de cabeza se enfrían y se contraen, lo que crea vacío dentro de la botella. Los paneles de vacío son zonas diseñadas para hundirse de forma controlada para que el resto de la botella conserve su forma. Los paneles se forman con la geometría de la cavidad, por lo que su diseño forma parte del diseño del molde."
+          ],
+          "list": [
+            "Los paneles suelen situarse en la zona de etiqueta, donde la etiqueta oculta su movimiento y sostiene la botella.",
+            "Los paneles se reparten de forma uniforme alrededor de la botella para que se contraiga de forma simétrica y no se ovalice.",
+            "Los nervios y marcos alrededor de los paneles mantienen rígidos el hombro y la base mientras los paneles se flexionan.",
+            "Algunos diseños hacen que la base absorba parte del vacío, lo que reduce el área de panel necesaria en la pared.",
+            "Los bordes de los paneles y los nervios necesitan buen venteo en el molde para formarse con nitidez; unos bordes blandos cambian cómo se flexiona el panel.",
+            "Las botellas de llenado en caliente cuadradas y redondas usan este mismo principio; la disposición de los paneles sigue la sección de la botella."
+          ]
+        },
+        {
+          "heading": "Arranque y parada de un molde de soplado para llenado en caliente",
+          "steps": [
+            "Antes del arranque, revise mangueras, acoplamientos y juntas de aceite caliente en todas las estaciones y compruebe el nivel de aceite en la unidad de control de temperatura.",
+            "Caliente los moldes a las consignas de cuerpo y fondo y espere a que todas las estaciones estén estables en temperatura antes de soplar.",
+            "Sople las primeras botellas y revise el aspecto, la forma de la base y la distribución de pared de cada estación.",
+            "Haga una prueba de llenado en caliente con botellas de muestra a la temperatura real de llenado de la línea, tápelas y enfríelas, y luego mida el volumen y revise el movimiento de paneles y base.",
+            "Libere la producción solo cuando las botellas de todas las estaciones superen la prueba de llenado en caliente.",
+            "En la parada, detenga primero la alimentación de preformas y mantenga la circulación de aceite mientras los moldes se enfrían según el programa de la unidad de control.",
+            "Desconecte los acoplamientos de aceite caliente solo cuando el molde esté lo bastante frío para manipularlo, y tápelos para evitar suciedad y humedad."
+          ]
+        },
+        {
+          "heading": "Defectos habituales en botellas de llenado en caliente y qué revisar",
+          "table": {
+            "head": ["Defecto", "Qué revisar en el molde y en el proceso"],
+            "rows": [
+              ["La botella se contrae o pierde volumen tras el llenado", "Temperatura de las carcasas del cuerpo alcanzada en todas las estaciones; tiempo de termofijado; temperatura real de llenado frente a la de diseño"],
+              ["Hundimiento de paneles irregular o permanente", "Geometría de los paneles y espesor de pared en ellos; venteo de los bordes de los paneles; simetría de la distribución de material"],
+              ["La botella se ovaliza", "Misma temperatura en ambas mitades de carcasa; disposición equilibrada de paneles; perfil de calentamiento de la preforma"],
+              ["Base abombada o botella que cojea", "Control de temperatura del molde de fondo; material en la base; enfriamiento de la base antes del desmoldeo"],
+              ["Cuello deformado o tapón con fugas", "Tipo de acabado de cuello apto para llenado en caliente; ajuste de la placa de cuello; condiciones de taponado"],
+              ["La botella se pega o se deforma al desmoldear", "Enfriamiento del interior de la botella antes de abrir el molde; estado de la superficie de la cavidad"],
+              ["Turbidez o zonas blancas en la pared", "Condiciones de calentamiento y estirado de la preforma; temperatura desigual a lo largo de la carcasa"]
+            ]
+          }
+        },
+        {
+          "heading": "Lista de mantenimiento para moldes de soplado de termofijado",
+          "list": [
+            "Revise en cada turno acoplamientos y juntas de aceite caliente por si hay fugas; el aceite en la cavidad o en la línea de partición marca las botellas y supone riesgo de quemaduras e incendio.",
+            "Sustituya mangueras y juntas endurecidas, agrietadas o hinchadas, y siga el programa del fabricante de la unidad de control para el estado del aceite.",
+            "Inspeccione el aislamiento térmico entre las carcasas y el portamoldes y sustituya el aislamiento dañado.",
+            "Limpie las ranuras y orificios de venteo, sobre todo alrededor de los paneles de vacío y de los detalles de la base.",
+            "Revise el desgaste de las caras de partición y de los elementos de posicionamiento, porque los ciclos de calentamiento y enfriamiento añaden tensión a esas zonas.",
+            "Limpie y proteja las superficies de la cavidad según su acabado; el material y el acabado de la cavidad se eligen para operar mucho tiempo a temperatura elevada.",
+            "Tenga moldes de fondo y juntas de repuesto para los formatos de mayor volumen; las piezas de repuesto tienen un plazo publicado de 4 semanas, y hay programas de reacondicionamiento de moldes."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Se puede convertir un molde de llenado en frío en uno de llenado en caliente?",
+          "answer": "Por lo general, no. Un molde de termofijado necesita canales de aceite caliente, control separado de temperatura de cuerpo y fondo, aislamiento respecto al portamoldes y una botella con paneles de vacío, y debe trabajar en una versión de termofijado de la sopladora. En la mayoría de los casos se diseña un juego nuevo para llenado en caliente."
+        },
+        {
+          "question": "¿Qué temperatura de llenado debemos indicar al hacer el pedido?",
+          "answer": "Indique la temperatura real de llenado de su línea y su tolerancia, el producto y el método de enfriamiento después del llenado. Los moldes de llenado en caliente se diseñan para productos llenados a unos 85–95°C, y el diseño se comprueba con una prueba de llenado en caliente en sus condiciones reales."
+        },
+        {
+          "question": "¿Por qué las botellas de llenado en caliente necesitan paneles de vacío?",
+          "answer": "Cuando el producto caliente se enfría dentro de la botella cerrada, se contrae y crea vacío. Sin paneles diseñados, la botella se hundiría o deformaría en puntos aleatorios. Los paneles se hunden de forma controlada para que la botella conserve su forma y su zona de etiqueta."
+        },
+        {
+          "question": "¿Se pueden aligerar las botellas de llenado en caliente como las de agua?",
+          "answer": "Dentro de ciertos límites. La estructura de termofijado, los paneles y los nervios necesitan suficiente material para mantenerse estables tras el llenado, por lo que la reducción de peso se comprueba con cuidado mediante pruebas de llenado en caliente en botellas de prueba. La preforma y el diseño de la botella se ajustan juntos."
+        },
+        {
+          "question": "¿En qué sopladoras encajan sus moldes de llenado en caliente?",
+          "answer": "En versiones de termofijado de las principales sopladoras rotativas de dos etapas, incluidas SIDEL y KRONES. Envíe el modelo y la generación de la máquina para que el molde encaje en el portamoldes y en las conexiones de aceite caliente."
+        }
+      ]
+    }
+  }
+}

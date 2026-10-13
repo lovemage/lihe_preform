@@ -1,0 +1,383 @@
+{
+  "key": "page-machining",
+  "updated": "2026-10-13",
+  "sources": [
+    { "label": "Wikipedia — Milling (machining)", "url": "https://en.wikipedia.org/wiki/Milling_(machining)" },
+    { "label": "Wikipedia — Turning", "url": "https://en.wikipedia.org/wiki/Turning" },
+    { "label": "Wikipedia — Surface grinding", "url": "https://en.wikipedia.org/wiki/Surface_grinding" },
+    { "label": "Wikipedia — Electrical discharge machining", "url": "https://en.wikipedia.org/wiki/Electrical_discharge_machining" },
+    { "label": "Wikipedia — Polishing", "url": "https://en.wikipedia.org/wiki/Polishing" },
+    { "label": "Wikipedia — Engraving", "url": "https://en.wikipedia.org/wiki/Engraving" }
+  ],
+  "locales": {
+    "en": {
+      "heading": "Mold machining process chain: CNC milling, turning, grinding, EDM, engraving and polishing for PET mold parts",
+      "intro": "A machining process chain is the ordered set of cutting and finishing operations a mold part passes through, from a raw steel blank to a finished core, cavity, neck ring or blow mold cavity. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China. This guide explains what each process does, why no single process is enough, and which PET mold part needs which process.",
+      "sections": [
+        {
+          "heading": "Why a PET preform mold needs several machining processes",
+          "paragraphs": [
+            "Each machining process is good at one kind of geometry and one stage of hardness. A round preform core is best produced by turning; a flat mold plate needs milling and grinding; a sharp internal corner in hardened steel can only be made by EDM. A mold maker plans a route through several processes so that each feature is made by the method that suits it."
+          ],
+          "list": [
+            "Shape: round parts are turned, prismatic parts are milled, freeform surfaces are milled or engraved at high speed.",
+            "Hardness: most cutting is easier before heat treatment; grinding and EDM work on hardened steel.",
+            "Surface: functional surfaces in contact with PET need polishing; sealing and sliding surfaces need grinding.",
+            "Scale: a mold with up to 160 cavities repeats the same route on every core and cavity, so the route must be stable."
+          ]
+        },
+        {
+          "heading": "CNC milling on machining centers: mold plates, mold bases and blow mold shells",
+          "paragraphs": [
+            "Milling removes material with a rotating multi-tooth cutter while the part or spindle moves along programmed axes. Multi-axis machining centers can reach several faces in one clamping, which keeps features in correct relation to each other."
+          ],
+          "list": [
+            "Mold plates and mold bases: pockets, bores, cooling channels and bolt patterns. At LIHE, mold bases are machined on Mazak, Makino and Haas machines.",
+            "Blow mold shells and cavities: roughing and finishing of bottle contours.",
+            "Hot runner plates: manifold pockets and nozzle seats.",
+            "Fixtures and general parts that support machining and assembly."
+          ]
+        },
+        {
+          "heading": "Turning: cores, cavities and neck rings",
+          "paragraphs": [
+            "Turning rotates the part against a stationary cutting tool and naturally produces round, concentric features. Most PET preform mold parts are bodies of revolution, so turning is the core process for them."
+          ],
+          "list": [
+            "Preform cores: outside diameter and taper that define the inside of the preform.",
+            "Preform cavities: inside bore that defines the outside of the preform.",
+            "Neck rings: thread and neck finish profiles such as PCO 1881, 1716, 38mm or 45mm.",
+            "LIHE uses Hardinge precision turning centers for cores, cavities and neck rings."
+          ]
+        },
+        {
+          "heading": "Grinding: flatness, parallelism and fits on hardened steel",
+          "paragraphs": [
+            "Grinding uses an abrasive wheel to remove small amounts of material with high accuracy, and it works on hardened steel. Surface grinding produces flat, parallel faces; it is the usual finishing step for plates and for faces that must seal or stack."
+          ],
+          "list": [
+            "Mold plates: flat and parallel faces so that stack heights are equal across all cavities. LIHE grinds mold bases on Okamoto surface grinders.",
+            "Sealing and parting faces that must close without flash.",
+            "Fit diameters and shoulders on cores and inserts after heat treatment."
+          ]
+        },
+        {
+          "heading": "EDM and wire EDM: hardened details cutters cannot reach",
+          "paragraphs": [
+            "Electrical discharge machining (EDM) removes metal with controlled electrical sparks between an electrode and the part. Because it does not depend on cutting force, it can make sharp internal corners, deep narrow slots and fine details in fully hardened steel. Wire EDM uses a thin wire as the electrode to cut through-profiles."
+          ],
+          "list": [
+            "Gate inserts and hot runner details where small, precise openings control gate quality.",
+            "Neck ring details such as vents and thread features that a turning tool cannot finish.",
+            "Through-profiles and slots in inserts and plates, cut by wire EDM.",
+            "LIHE runs Sodick EDM equipment."
+          ]
+        },
+        {
+          "heading": "High-speed engraving and polishing: fine detail and surface finish",
+          "paragraphs": [
+            "High-speed engraving machines use small tools at high spindle speeds to cut fine detail with small step-overs. Polishing then removes tool marks from surfaces that touch the plastic."
+          ],
+          "list": [
+            "Blow mold cavities: embossed text, logos, grip patterns and fine radii on bottle shapes. LIHE uses Beijing Jingdiao high-speed engraving machines for fine details and polished blow mold cavities.",
+            "Preform cores and cavities: polished surfaces help the preform release cleanly and stay clear.",
+            "Neck rings and small inserts: deburring and edge finishing after machining."
+          ]
+        },
+        {
+          "heading": "Which mold part needs which process",
+          "table": {
+            "head": ["Mold part", "Milling", "Turning", "Grinding", "EDM / wire EDM", "Engraving / polishing"],
+            "rows": [
+              ["Mold plates and mold base", "Main process", "—", "Faces and parallelism", "Slots if needed", "—"],
+              ["Preform core", "—", "Main process", "Fits after hardening", "—", "Polishing"],
+              ["Preform cavity", "Outer features", "Main process", "Fits after hardening", "—", "Polishing"],
+              ["Neck ring", "Locating features", "Main process", "Mating faces", "Vents, thread details", "Deburring"],
+              ["Gate insert / hot runner parts", "Pockets", "Round features", "Seats", "Main process for gate details", "—"],
+              ["Blow mold cavity", "Main process", "—", "Parting faces", "Fine inserts", "Engraving and polishing"]
+            ]
+          }
+        },
+        {
+          "heading": "Typical machining route for a preform core",
+          "steps": [
+            "Saw and rough-turn the steel blank, leaving a finishing allowance on all functional diameters.",
+            "Drill or mill the internal cooling passage that carries water through the core.",
+            "Heat-treat the core to the hardness required for wear resistance.",
+            "Finish-turn and grind the functional diameters and fits on the hardened part.",
+            "Polish the surfaces that form the inside of the preform.",
+            "Measure the finished core on the Zeiss CMM and record the result against the drawing before assembly."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Why not machine everything on one 5-axis machining center?",
+          "answer": "Milling is not the best method for every feature. Round parts are more accurate when turned, hardened flat faces need grinding, and sharp internal corners in hardened steel need EDM. A mixed route gives better accuracy and surface finish."
+        },
+        {
+          "question": "Is EDM slower than milling?",
+          "answer": "Generally yes, so it is used for features that cutting tools cannot make or cannot make in hardened steel, such as gate details, narrow slots and sharp corners."
+        },
+        {
+          "question": "Which process sets the preform wall thickness?",
+          "answer": "Mainly turning and grinding of the core outside diameter and the cavity bore, because the wall is the gap between them. Concentricity between core and cavity is verified on the CMM."
+        },
+        {
+          "question": "Does polishing affect production?",
+          "answer": "Yes. Polished core and cavity surfaces help the preform release cleanly and avoid surface marks that become visible after blowing."
+        },
+        {
+          "question": "How long does machining take for replacement parts?",
+          "answer": "LIHE's published lead time is 4 weeks for replacement parts and cap mold parts, 20 days for pilot molds and 8 weeks for standard PET molds."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "Технологическая цепочка обработки деталей форм: фрезерование на ЧПУ, точение, шлифование, электроэрозия, гравирование и полирование",
+      "intro": "Технологическая цепочка механической обработки — это упорядоченный набор операций резания и доводки, через которые проходит деталь формы: от стальной заготовки до готового пуансона, матрицы, горлового кольца или полости выдувной формы. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) — производитель пресс-форм для ПЭТ-преформ, выдувных форм, форм для колпачков и компрессионных форм, горячеканальных систем и комплектующих для производства напитков и упаковки, с производством в Фошане, Китай. В руководстве объясняется, что делает каждый процесс, почему одного процесса недостаточно и какой детали ПЭТ-формы нужен какой процесс.",
+      "sections": [
+        {
+          "heading": "Почему пресс-форме для ПЭТ-преформ нужны несколько видов обработки",
+          "paragraphs": [
+            "Каждый процесс хорош для одного типа геометрии и одного состояния твёрдости. Круглый пуансон преформы лучше всего получать точением; плоской плите формы нужны фрезерование и шлифование; острый внутренний угол в закалённой стали можно получить только электроэрозией. Изготовитель форм планирует маршрут через несколько процессов, чтобы каждый элемент выполнялся подходящим методом."
+          ],
+          "list": [
+            "Форма: тела вращения точат, призматические детали фрезеруют, свободные поверхности фрезеруют или гравируют на высокой скорости.",
+            "Твёрдость: большинство операций резания проще до термообработки; шлифование и электроэрозия работают по закалённой стали.",
+            "Поверхность: рабочие поверхности, контактирующие с ПЭТ, требуют полирования; уплотняющие и скользящие поверхности — шлифования.",
+            "Масштаб: форма на 160 гнёзд повторяет один и тот же маршрут на каждом пуансоне и матрице, поэтому маршрут должен быть стабильным."
+          ]
+        },
+        {
+          "heading": "Фрезерование на обрабатывающих центрах ЧПУ: плиты, основания форм и корпуса выдувных форм",
+          "paragraphs": [
+            "Фрезерование снимает материал вращающейся многозубой фрезой, пока деталь или шпиндель перемещаются по запрограммированным осям. Многоосевые обрабатывающие центры обрабатывают несколько сторон за одну установку, что сохраняет правильное взаимное расположение элементов."
+          ],
+          "list": [
+            "Плиты и основания форм: карманы, отверстия, каналы охлаждения и крепёжные отверстия. В LIHE основания форм обрабатываются на станках Mazak, Makino и Haas.",
+            "Корпуса и полости выдувных форм: черновая и чистовая обработка контуров бутылки.",
+            "Плиты горячего канала: гнёзда коллектора и посадочные места сопел.",
+            "Оснастка и общие детали, обеспечивающие обработку и сборку."
+          ]
+        },
+        {
+          "heading": "Точение: пуансоны, матрицы и горловые кольца",
+          "paragraphs": [
+            "При точении деталь вращается относительно неподвижного резца, что естественным образом даёт круглые соосные элементы. Большинство деталей пресс-формы для ПЭТ-преформ — тела вращения, поэтому точение для них — основной процесс."
+          ],
+          "list": [
+            "Пуансоны преформы: наружный диаметр и конусность, задающие внутреннюю поверхность преформы.",
+            "Матрицы преформы: внутреннее отверстие, задающее наружную поверхность преформы.",
+            "Горловые кольца: профили резьбы и горловины, например PCO 1881, 1716, 38 мм или 45 мм.",
+            "LIHE использует прецизионные токарные центры Hardinge для пуансонов, матриц и горловых колец."
+          ]
+        },
+        {
+          "heading": "Шлифование: плоскостность, параллельность и посадки на закалённой стали",
+          "paragraphs": [
+            "Шлифование снимает небольшие объёмы материала абразивным кругом с высокой точностью и работает по закалённой стали. Плоское шлифование даёт плоские параллельные поверхности; это обычная финишная операция для плит и поверхностей, которые должны уплотнять или образовывать пакет."
+          ],
+          "list": [
+            "Плиты формы: плоские и параллельные поверхности, чтобы высоты пакетов были одинаковыми во всех гнёздах. LIHE шлифует основания форм на плоскошлифовальных станках Okamoto.",
+            "Уплотняющие поверхности и плоскости разъёма, которые должны смыкаться без облоя.",
+            "Посадочные диаметры и буртики пуансонов и вставок после термообработки."
+          ]
+        },
+        {
+          "heading": "Электроэрозия и проволочная электроэрозия: закалённые элементы, недоступные для фрезы",
+          "paragraphs": [
+            "Электроэрозионная обработка снимает металл управляемыми электрическими разрядами между электродом и деталью. Поскольку она не зависит от силы резания, с её помощью можно получить острые внутренние углы, глубокие узкие пазы и мелкие элементы в полностью закалённой стали. Проволочная электроэрозия использует тонкую проволоку как электрод для вырезания сквозных контуров."
+          ],
+          "list": [
+            "Литниковые вставки и элементы горячего канала, где небольшие точные отверстия определяют качество литника.",
+            "Элементы горловых колец, например вентиляционные каналы и детали резьбы, которые нельзя закончить токарным резцом.",
+            "Сквозные контуры и пазы во вставках и плитах, вырезаемые проволочной электроэрозией.",
+            "LIHE использует электроэрозионное оборудование Sodick."
+          ]
+        },
+        {
+          "heading": "Высокоскоростное гравирование и полирование: мелкие детали и качество поверхности",
+          "paragraphs": [
+            "Высокоскоростные гравировальные станки работают небольшим инструментом на высоких оборотах шпинделя и прорезают мелкие детали с малым шагом. Затем полирование удаляет следы инструмента с поверхностей, контактирующих с пластиком."
+          ],
+          "list": [
+            "Полости выдувных форм: рельефные надписи, логотипы, рисунок захвата и мелкие радиусы на бутылке. LIHE использует высокоскоростные гравировальные станки Beijing Jingdiao для мелких деталей и полированных полостей выдувных форм.",
+            "Пуансоны и матрицы преформ: полированные поверхности помогают чистому съёму преформы и её прозрачности.",
+            "Горловые кольца и мелкие вставки: удаление заусенцев и обработка кромок после механообработки."
+          ]
+        },
+        {
+          "heading": "Какой детали формы нужен какой процесс",
+          "table": {
+            "head": ["Деталь формы", "Фрезерование", "Точение", "Шлифование", "Электроэрозия / проволочная", "Гравирование / полирование"],
+            "rows": [
+              ["Плиты и основание формы", "Основной процесс", "—", "Плоскости и параллельность", "Пазы при необходимости", "—"],
+              ["Пуансон преформы", "—", "Основной процесс", "Посадки после закалки", "—", "Полирование"],
+              ["Матрица преформы", "Наружные элементы", "Основной процесс", "Посадки после закалки", "—", "Полирование"],
+              ["Горловое кольцо", "Установочные элементы", "Основной процесс", "Сопрягаемые поверхности", "Вентиляция, детали резьбы", "Удаление заусенцев"],
+              ["Литниковая вставка / детали горячего канала", "Карманы", "Круглые элементы", "Посадочные места", "Основной процесс для литника", "—"],
+              ["Полость выдувной формы", "Основной процесс", "—", "Плоскости разъёма", "Мелкие вставки", "Гравирование и полирование"]
+            ]
+          }
+        },
+        {
+          "heading": "Типичный маршрут обработки пуансона преформы",
+          "steps": [
+            "Отрезать заготовку и выполнить черновое точение, оставив припуск на всех рабочих диаметрах.",
+            "Просверлить или профрезеровать внутренний канал охлаждения, по которому вода проходит через пуансон.",
+            "Выполнить термообработку пуансона до твёрдости, необходимой для износостойкости.",
+            "Чистовым точением и шлифованием довести рабочие диаметры и посадки на закалённой детали.",
+            "Отполировать поверхности, формирующие внутреннюю часть преформы.",
+            "Измерить готовый пуансон на КИМ Zeiss и записать результат по чертежу перед сборкой."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Почему бы не обрабатывать всё на одном пятиосевом обрабатывающем центре?",
+          "answer": "Фрезерование — не лучший метод для каждого элемента. Тела вращения точнее получаются точением, закалённые плоскости требуют шлифования, а острые внутренние углы в закалённой стали — электроэрозии. Смешанный маршрут даёт лучшую точность и качество поверхности."
+        },
+        {
+          "question": "Электроэрозия медленнее фрезерования?",
+          "answer": "Как правило, да, поэтому её применяют для элементов, которые режущий инструмент не может выполнить или не может выполнить в закалённой стали: деталей литника, узких пазов и острых углов."
+        },
+        {
+          "question": "Какой процесс задаёт толщину стенки преформы?",
+          "answer": "В основном точение и шлифование наружного диаметра пуансона и отверстия матрицы, поскольку стенка — это зазор между ними. Соосность пуансона и матрицы проверяется на КИМ."
+        },
+        {
+          "question": "Влияет ли полирование на производство?",
+          "answer": "Да. Полированные поверхности пуансона и матрицы помогают чистому съёму преформы и предотвращают следы на поверхности, которые становятся заметны после выдува."
+        },
+        {
+          "question": "Сколько времени занимает обработка запасных частей?",
+          "answer": "Опубликованный срок LIHE — 4 недели для запасных частей и деталей форм для колпачков, 20 дней для пилотных форм и 8 недель для стандартных ПЭТ-форм."
+        }
+      ]
+    },
+    "es": {
+      "heading": "Cadena de procesos de mecanizado de moldes: fresado CNC, torneado, rectificado, electroerosión, grabado y pulido de piezas de moldes PET",
+      "intro": "Una cadena de procesos de mecanizado es el conjunto ordenado de operaciones de corte y acabado por el que pasa una pieza de molde, desde un bloque de acero en bruto hasta un macho, una cavidad, un anillo de cuello o una cavidad de molde de soplado terminados. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) es un fabricante de moldes de preforma PET, moldes de soplado, moldes de tapas y de compresión, sistemas de canal caliente y componentes de molde para la industria de bebidas y envases, con fabricación en Foshan, China. Esta guía explica qué hace cada proceso, por qué ninguno basta por sí solo y qué pieza del molde PET necesita cada uno.",
+      "sections": [
+        {
+          "heading": "Por qué un molde de preforma PET necesita varios procesos de mecanizado",
+          "paragraphs": [
+            "Cada proceso de mecanizado es bueno para un tipo de geometría y un estado de dureza. Un macho de preforma redondo se obtiene mejor por torneado; una placa plana necesita fresado y rectificado; una esquina interior viva en acero templado solo puede hacerse por electroerosión. El fabricante planifica una ruta por varios procesos para que cada característica se haga con el método adecuado."
+          ],
+          "list": [
+            "Forma: las piezas de revolución se tornean, las prismáticas se fresan y las superficies libres se fresan o graban a alta velocidad.",
+            "Dureza: la mayor parte del corte es más fácil antes del tratamiento térmico; el rectificado y la electroerosión trabajan sobre acero templado.",
+            "Superficie: las superficies en contacto con el PET necesitan pulido; las de sellado y deslizamiento necesitan rectificado.",
+            "Escala: un molde de hasta 160 cavidades repite la misma ruta en cada macho y cavidad, por lo que la ruta debe ser estable."
+          ]
+        },
+        {
+          "heading": "Fresado CNC en centros de mecanizado: placas, bases de molde y carcasas de moldes de soplado",
+          "paragraphs": [
+            "El fresado elimina material con una fresa rotativa de varios dientes mientras la pieza o el husillo se mueven por ejes programados. Los centros de mecanizado multieje alcanzan varias caras en una sola sujeción, lo que mantiene la relación correcta entre características."
+          ],
+          "list": [
+            "Placas y bases de molde: cajeras, alojamientos, canales de refrigeración y patrones de tornillos. En LIHE las bases de molde se mecanizan en máquinas Mazak, Makino y Haas.",
+            "Carcasas y cavidades de moldes de soplado: desbaste y acabado de los contornos de la botella.",
+            "Placas de canal caliente: alojamientos del distribuidor y asientos de boquillas.",
+            "Utillajes y piezas generales que apoyan el mecanizado y el montaje."
+          ]
+        },
+        {
+          "heading": "Torneado: machos, cavidades y anillos de cuello",
+          "paragraphs": [
+            "En el torneado la pieza gira contra una herramienta fija, lo que produce de forma natural características redondas y concéntricas. La mayoría de las piezas de un molde de preforma PET son cuerpos de revolución, por lo que el torneado es su proceso principal."
+          ],
+          "list": [
+            "Machos de preforma: diámetro exterior y conicidad que definen el interior de la preforma.",
+            "Cavidades de preforma: el alojamiento interior que define el exterior de la preforma.",
+            "Anillos de cuello: perfiles de rosca y de acabado de cuello como PCO 1881, 1716, 38 mm o 45 mm.",
+            "LIHE utiliza centros de torneado de precisión Hardinge para machos, cavidades y anillos de cuello."
+          ]
+        },
+        {
+          "heading": "Rectificado: planitud, paralelismo y ajustes en acero templado",
+          "paragraphs": [
+            "El rectificado utiliza una muela abrasiva para eliminar pequeñas cantidades de material con gran precisión y trabaja sobre acero templado. El rectificado plano produce caras planas y paralelas; es el paso de acabado habitual para placas y para caras que deben sellar o apilarse."
+          ],
+          "list": [
+            "Placas del molde: caras planas y paralelas para que las alturas del conjunto sean iguales en todas las cavidades. LIHE rectifica las bases de molde en rectificadoras planas Okamoto.",
+            "Caras de sellado y de partición que deben cerrar sin rebaba.",
+            "Diámetros de ajuste y resaltes de machos e insertos después del tratamiento térmico."
+          ]
+        },
+        {
+          "heading": "Electroerosión y electroerosión por hilo: detalles templados que las fresas no alcanzan",
+          "paragraphs": [
+            "La electroerosión (EDM) elimina metal mediante chispas eléctricas controladas entre un electrodo y la pieza. Como no depende de la fuerza de corte, puede crear esquinas interiores vivas, ranuras profundas y estrechas y detalles finos en acero totalmente templado. La electroerosión por hilo usa un hilo fino como electrodo para cortar perfiles pasantes."
+          ],
+          "list": [
+            "Insertos de entrada y detalles de canal caliente donde pequeñas aberturas precisas controlan la calidad de la entrada.",
+            "Detalles del anillo de cuello como venteos y elementos de rosca que una herramienta de torno no puede terminar.",
+            "Perfiles pasantes y ranuras en insertos y placas, cortados por electroerosión por hilo.",
+            "LIHE dispone de equipos de electroerosión Sodick."
+          ]
+        },
+        {
+          "heading": "Grabado de alta velocidad y pulido: detalle fino y acabado superficial",
+          "paragraphs": [
+            "Las máquinas de grabado de alta velocidad usan herramientas pequeñas a altas revoluciones de husillo para cortar detalles finos con pasos laterales pequeños. Después, el pulido elimina las marcas de herramienta de las superficies que tocan el plástico."
+          ],
+          "list": [
+            "Cavidades de moldes de soplado: textos en relieve, logotipos, zonas de agarre y radios finos en la botella. LIHE utiliza máquinas de grabado de alta velocidad Beijing Jingdiao para detalles finos y cavidades pulidas de moldes de soplado.",
+            "Machos y cavidades de preforma: las superficies pulidas ayudan a que la preforma se desmolde limpiamente y se mantenga transparente.",
+            "Anillos de cuello e insertos pequeños: desbarbado y acabado de aristas tras el mecanizado."
+          ]
+        },
+        {
+          "heading": "Qué pieza del molde necesita cada proceso",
+          "table": {
+            "head": ["Pieza del molde", "Fresado", "Torneado", "Rectificado", "Electroerosión / hilo", "Grabado / pulido"],
+            "rows": [
+              ["Placas y base del molde", "Proceso principal", "—", "Caras y paralelismo", "Ranuras si hace falta", "—"],
+              ["Macho de preforma", "—", "Proceso principal", "Ajustes tras el temple", "—", "Pulido"],
+              ["Cavidad de preforma", "Características exteriores", "Proceso principal", "Ajustes tras el temple", "—", "Pulido"],
+              ["Anillo de cuello", "Elementos de posicionamiento", "Proceso principal", "Caras de contacto", "Venteos, detalles de rosca", "Desbarbado"],
+              ["Inserto de entrada / piezas de canal caliente", "Cajeras", "Características redondas", "Asientos", "Proceso principal para la entrada", "—"],
+              ["Cavidad de molde de soplado", "Proceso principal", "—", "Caras de partición", "Insertos finos", "Grabado y pulido"]
+            ]
+          }
+        },
+        {
+          "heading": "Ruta de mecanizado típica de un macho de preforma",
+          "steps": [
+            "Cortar el bloque de acero y desbastarlo en el torno, dejando creces de acabado en todos los diámetros funcionales.",
+            "Taladrar o fresar el paso interior de refrigeración por el que circula el agua dentro del macho.",
+            "Aplicar tratamiento térmico al macho hasta la dureza necesaria para resistir el desgaste.",
+            "Tornear en acabado y rectificar los diámetros funcionales y los ajustes en la pieza templada.",
+            "Pulir las superficies que forman el interior de la preforma.",
+            "Medir el macho terminado en la CMM Zeiss y registrar el resultado frente al plano antes del montaje."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Por qué no mecanizar todo en un solo centro de mecanizado de 5 ejes?",
+          "answer": "El fresado no es el mejor método para todas las características. Las piezas redondas son más precisas torneadas, las caras planas templadas necesitan rectificado y las esquinas interiores vivas en acero templado necesitan electroerosión. Una ruta mixta da mejor precisión y acabado."
+        },
+        {
+          "question": "¿La electroerosión es más lenta que el fresado?",
+          "answer": "En general sí, por eso se reserva para características que las herramientas de corte no pueden hacer, o no pueden hacer en acero templado, como detalles de la entrada, ranuras estrechas y esquinas vivas."
+        },
+        {
+          "question": "¿Qué proceso fija el espesor de pared de la preforma?",
+          "answer": "Principalmente el torneado y el rectificado del diámetro exterior del macho y del alojamiento de la cavidad, porque la pared es el espacio entre ambos. La concentricidad entre macho y cavidad se verifica en la CMM."
+        },
+        {
+          "question": "¿El pulido influye en la producción?",
+          "answer": "Sí. Las superficies pulidas de macho y cavidad ayudan a que la preforma se desmolde limpiamente y evitan marcas superficiales que se hacen visibles tras el soplado."
+        },
+        {
+          "question": "¿Cuánto tarda el mecanizado de repuestos?",
+          "answer": "El plazo publicado por LIHE es de 4 semanas para repuestos y piezas de moldes de tapas, 20 días para moldes piloto y 8 semanas para moldes PET estándar."
+        }
+      ]
+    }
+  }
+}

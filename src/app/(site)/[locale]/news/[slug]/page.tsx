@@ -14,7 +14,9 @@ import {
 import Breadcrumb from "@/components/ui/Breadcrumb/Breadcrumb";
 import Button from "@/components/ui/Button/Button";
 import JsonLd from "@/components/seo/JsonLd";
+import RichContent from "@/components/content/RichContent";
 import styles from "./page.module.css";
+import AiImageNotice from "@/components/ui/AiImageNotice/AiImageNotice";
 
 const BASE_URL = "https://lihe-preform.com";
 
@@ -178,99 +180,34 @@ export default async function NewsArticlePage({
                 priority
                 sizes="(max-width: 860px) 100vw, 820px"
               />
+              <AiImageNotice as="figcaption" />
             </figure>
           )}
 
-          {article.sections.map((section, sectionIndex) => (
-            <section key={section.heading} className={styles.section}>
-              <h2 className={styles.sectionHeading}>{section.heading}</h2>
-              {section.paragraphs?.map((paragraph) => (
-                <p key={paragraph} className={styles.paragraph}>{paragraph}</p>
-              ))}
-              {section.list && (
-                <ul className={styles.list}>
-                  {section.list.map((item) => (
-                    <li key={item}>{item}</li>
-                  ))}
-                </ul>
-              )}
-              {section.steps && (
-                <ol className={styles.steps}>
-                  {section.steps.map((step, stepIndex) => (
-                    <li key={step}>
-                      <strong>{t("step", { n: stepIndex + 1 })}</strong> {step}
-                    </li>
-                  ))}
-                </ol>
-              )}
-              {section.table && (
-                <div className={styles.tableWrapper}>
-                  <table className={styles.table}>
-                    <thead>
-                      <tr>
-                        {section.table.head.map((cell) => (
-                          <th key={cell} scope="col">{cell}</th>
-                        ))}
-                      </tr>
-                    </thead>
-                    <tbody>
-                      {section.table.rows.map((row) => (
-                        <tr key={row.join("|")}>
-                          {row.map((cell, index) =>
-                            index === 0 ? (
-                              <th key={cell} scope="row">{cell}</th>
-                            ) : (
-                              <td key={`${index}-${cell}`}>{cell}</td>
-                            ),
-                          )}
-                        </tr>
-                      ))}
-                    </tbody>
-                  </table>
-                </div>
-              )}
-              {sectionIndex === 1 && article.detailImage && (
-                <figure className={styles.figure}>
-                  <Image
-                    src={article.detailImage.src}
-                    alt={article.detailImage.alt}
-                    width={1600}
-                    height={904}
-                    sizes="(max-width: 860px) 100vw, 820px"
-                  />
-                </figure>
-              )}
-            </section>
-          ))}
-
-          {article.faq && article.faq.length > 0 && (
-            <section className={styles.section}>
-              <h2 className={styles.sectionHeading}>{t("faqHeading")}</h2>
-              <dl className={styles.faq}>
-                {article.faq.map((item) => (
-                  <div key={item.question} className={styles.faqItem}>
-                    <dt>{item.question}</dt>
-                    <dd>{item.answer}</dd>
-                  </div>
-                ))}
-              </dl>
-            </section>
-          )}
-
-          {article.sources && article.sources.length > 0 && (
-            <section className={styles.section}>
-              <h2 className={styles.sectionHeading}>{t("sourcesHeading")}</h2>
-              <ol className={styles.sources}>
-                {article.sources.map((source) => (
-                  <li key={source.url}>
-                    <a href={source.url} target="_blank" rel="noopener">
-                      {source.label}
-                    </a>
-                  </li>
-                ))}
-              </ol>
-            </section>
-          )}
+          <RichContent
+            sections={article.sections}
+            faq={article.faq}
+            sources={article.sources}
+            insertAfter={
+              article.detailImage
+                ? {
+                    index: 1,
+                    node: (
+                      <figure className={styles.figure}>
+                        <Image
+                          src={article.detailImage.src}
+                          alt={article.detailImage.alt}
+                          width={1600}
+                          height={904}
+                          sizes="(max-width: 860px) 100vw, 820px"
+                        />
+                        <AiImageNotice as="figcaption" />
+                      </figure>
+                    ),
+                  }
+                : undefined
+            }
+          />
 
           {relatedProducts.length > 0 && (
             <section className={styles.section}>

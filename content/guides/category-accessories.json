@@ -1,0 +1,317 @@
+{
+  "key": "category-accessories",
+  "updated": "2026-10-13",
+  "sources": [
+    { "label": "Wikipedia — Blow molding", "url": "https://en.wikipedia.org/wiki/Blow_molding" },
+    { "label": "Wikipedia — Preform", "url": "https://en.wikipedia.org/wiki/Preform" },
+    { "label": "Wikipedia — Single-minute exchange of die", "url": "https://en.wikipedia.org/wiki/Single-minute_exchange_of_die" },
+    { "label": "Wikipedia — Preventive maintenance", "url": "https://en.wikipedia.org/wiki/Preventive_maintenance" },
+    { "label": "Wikipedia — Bottling line", "url": "https://en.wikipedia.org/wiki/Bottling_line" },
+    { "label": "Wikipedia — Aluminium alloy", "url": "https://en.wikipedia.org/wiki/Aluminium_alloy" }
+  ],
+  "locales": {
+    "en": {
+      "heading": "Blow molding accessories and conversion parts: blowing pins, stretch rods, mold shells, clamping bases and change parts, and when to replace them",
+      "intro": "Blow molding accessories are the machine-side parts that hold, seal, stretch and transport the preform and the blow mold in a PET stretch blow molding machine, as opposed to the cavity that gives the bottle its shape. They are replaced for two reasons: wear during production, or a format change to a new bottle, preform or neck finish. This guide gives an overview of each part group, the signs that it needs replacement, and how to plan a spare parts or format change package for SIDEL, KRONES, KHS and other blowing machines.",
+      "sections": [
+        {
+          "heading": "Main groups of blow molding accessories and conversion parts",
+          "list": [
+            "Blowing nozzles and blowing pins: seal on the preform neck and deliver pre-blow and high-pressure blowing air.",
+            "Stretch rods and stretch rod tips: push the heated preform down to the base before and during blowing, so the material is stretched lengthwise.",
+            "Mold shells (shell holders): carry the bottle cavity halves in the mold carrier and connect them to the cooling circuit.",
+            "Clamping bases (mold carrier bases): mount and locate the mold shells and base mold in the blowing station.",
+            "Change parts for bottle handling: star wheels, infeed and transfer guides and neck grippers that move preforms and bottles through the machine.",
+            "Cross-machine conversion parts: adapters that let one blow mold run on a different blowing machine."
+          ]
+        },
+        {
+          "heading": "Blow molding accessories replacement table",
+          "table": {
+            "head": ["Part", "Function", "Replace when (wear)", "Replace when (format change)"],
+            "rows": [
+              ["Blowing nozzle / blowing pin", "Seals the neck and supplies blowing air", "Air leaks at the neck, marks on the neck finish, damaged sealing surface", "New neck finish or preform"],
+              ["Stretch rod and tip", "Stretches the preform to the base", "Bent rod, worn tip, off-center gate on the bottle base", "New bottle height or preform length"],
+              ["Mold shell", "Holds cavity halves, carries cooling water", "Worn fit surfaces, cooling leaks, cavity halves no longer seat firmly", "Different machine or shell system"],
+              ["Clamping base", "Locates shells and base mold in the carrier", "Damaged locating faces, parting line marks, misalignment after mold changes", "Different machine or mold carrier"],
+              ["Star wheels, guides, neck grippers", "Transport preforms and bottles", "Worn pockets or grippers, transfer jams, scuffed bottles", "New bottle diameter, shape, capacity or neck finish"]
+            ]
+          }
+        },
+        {
+          "heading": "Wear-related replacement: signs to watch in production",
+          "paragraphs": [
+            "Accessories wear gradually, so a preventive maintenance plan that checks them at fixed intervals is cheaper than waiting for a stop. The signs below are typical across two-step stretch blow molding machines."
+          ],
+          "list": [
+            "Rising air consumption or a hissing sound at the blowing station often points to worn seals or sealing surfaces on blowing nozzles and pins.",
+            "Bottles with an off-center injection point on the base usually indicate a bent stretch rod or a worn stretch rod tip.",
+            "A visible step or flash at the parting line, or bottles that vary between cavities, can come from worn clamping bases or mold shells that no longer locate the cavity halves precisely.",
+            "Uneven bottle temperature after blowing, or water traces around the mold, suggest a leak or blockage in the shell cooling connections.",
+            "Frequent transfer jams, fallen preforms or scuffed bottles point to worn star wheel pockets, guides or neck grippers.",
+            "Keep one set of the fastest-wearing parts in stock; LIHE's published lead time for replacement parts is 4 weeks."
+          ]
+        },
+        {
+          "heading": "Format change parts: new bottle, new preform, new neck finish",
+          "paragraphs": [
+            "A format change is any change in the bottle or preform that the machine has to handle. Each type of change affects a different set of parts, and the parts are often delivered together with the new blow mold as one format change package."
+          ],
+          "list": [
+            "New neck finish or preform: blowing nozzles or pins, neck grippers, preform infeed parts and, if the preform length changes, stretch rods.",
+            "New bottle shape or capacity, for example from 500ml to 1.5L: cavity halves or inserts, base mold, star wheels and guides sized to the new bottle diameter.",
+            "Hot-fill bottles, filled at about 85 to 95°C, need heat-set blow molds, because standard PET deforms above about 60°C; check whether the shells and cooling or heating connections suit the new mold.",
+            "Cross-machine conversion: when a bottle designed for one blowing machine must run on another, conversion parts adapt the mold to the second machine's carrier and blowing station.",
+            "Replacement and conversion parts are made from customers' existing parts or drawings for SIDEL, KRONES, KHS and other blow molding machines."
+          ]
+        },
+        {
+          "heading": "Mold shells and quick-change systems",
+          "paragraphs": [
+            "With a shell system, the mold shells stay in the machine and only the lighter cavity inserts change between bottle formats. This follows the same idea as single-minute exchange of die (SMED): reduce the number of parts and adjustments that change during a changeover."
+          ],
+          "list": [
+            "Shells are usually machined from lightweight aluminum alloy, which makes handling easier and conducts heat well.",
+            "New bottle formats can be supplied as cavity inserts only, if the shell system stays the same.",
+            "LIHE also builds split-type quick-change blow molds, and KHS InnoPET Blomax and Krones Contiform cold fill sets.",
+            "Check fit surfaces and cooling connections on the shells whenever inserts are changed, because a worn shell affects every format that runs in it."
+          ]
+        },
+        {
+          "heading": "How to plan a spare parts or format change package",
+          "steps": [
+            "List the machine brand, model and number of blowing stations, and the bottle formats that run on it.",
+            "Decide whether the request is for wear replacement, a new format or a cross-machine conversion, because each needs a different set of parts.",
+            "Collect references for every part: original part numbers, drawings, or one used part per type as a sample.",
+            "For a new format, add the bottle and preform drawings and the neck finish so blowing pins, grippers and star wheels are made to match.",
+            "Send the list to sales@lihe-preform.com; parts for a new format can be delivered together with the blow mold to shorten the product launch."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Can you make blowing pins and stretch rods for SIDEL, KRONES or KHS machines?",
+          "answer": "Yes. These parts are made from customers' existing parts or drawings for SIDEL, KRONES, KHS and other blow molding machines, and are matched to the preform neck finish."
+        },
+        {
+          "question": "Do I need new mold shells for every new bottle?",
+          "answer": "Not if you use a shell system. The shells stay in the machine and only the cavity inserts and, if needed, the base mold change for the new bottle."
+        },
+        {
+          "question": "How long does it take to get replacement accessories?",
+          "answer": "LIHE publishes a lead time of 4 weeks for replacement parts. For a new format, parts can be delivered together with the new blow mold."
+        },
+        {
+          "question": "Which parts change when I switch to a new neck finish?",
+          "answer": "Typically the blowing nozzles or pins, the neck grippers and the preform infeed parts, and the stretch rods if the preform length changes. The preform mold itself also needs new neck rings."
+        },
+        {
+          "question": "Can one blow mold run on two different blowing machines?",
+          "answer": "Yes, with cross-machine conversion parts that adapt the mold to the second machine's mold carrier and blowing station."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "Комплектующие и переходные детали для выдува: выдувные дорны, вытяжные штоки, кожухи форм, монтажные основания и форматные детали — когда их менять",
+      "intro": "Комплектующие для выдува — это детали машины, которые удерживают, уплотняют, вытягивают и перемещают преформу и выдувную форму в машине для раздувного формования ПЭТ, в отличие от матрицы, которая задаёт форму бутылки. Их меняют по двум причинам: из-за износа в производстве или при переходе на новый формат — новую бутылку, преформу или горловину. В этом руководстве описана каждая группа деталей, признаки необходимости замены и порядок планирования пакета запчастей или форматных деталей для машин SIDEL, KRONES, KHS и других.",
+      "sections": [
+        {
+          "heading": "Основные группы комплектующих и переходных деталей для выдува",
+          "list": [
+            "Выдувные сопла и дорны: уплотняются на горловине преформы и подают воздух предварительного и основного выдува высокого давления.",
+            "Вытяжные штоки и их наконечники: вытягивают нагретую преформу до дна перед выдувом и во время него, растягивая материал в продольном направлении.",
+            "Кожухи форм (держатели): несут половины матрицы бутылки в формодержателе и подключают их к контуру охлаждения.",
+            "Монтажные основания (основания формодержателя): крепят и центрируют кожухи и донную форму в выдувной станции.",
+            "Форматные детали транспорта: звёзды, входные и передаточные направляющие и захваты горловины, перемещающие преформы и бутылки по машине.",
+            "Переходные детали для другой машины: адаптеры, позволяющие одной выдувной форме работать на другой выдувной машине."
+          ]
+        },
+        {
+          "heading": "Таблица замены комплектующих для выдува",
+          "table": {
+            "head": ["Деталь", "Функция", "Когда менять (износ)", "Когда менять (смена формата)"],
+            "rows": [
+              ["Выдувное сопло / дорн", "Уплотняет горловину и подаёт воздух", "Утечки воздуха на горловине, следы на горловине, повреждённая уплотняющая поверхность", "Новая горловина или преформа"],
+              ["Вытяжной шток и наконечник", "Вытягивает преформу до дна", "Изогнутый шток, изношенный наконечник, смещённая точка литника на дне бутылки", "Новая высота бутылки или длина преформы"],
+              ["Кожух формы", "Удерживает половины матрицы, подводит охлаждающую воду", "Изношенные посадочные поверхности, протечки охлаждения, половины матрицы сидят неплотно", "Другая машина или система кожухов"],
+              ["Монтажное основание", "Центрирует кожухи и донную форму в формодержателе", "Повреждённые базовые поверхности, следы на линии разъёма, несоосность после смены формы", "Другая машина или формодержатель"],
+              ["Звёзды, направляющие, захваты горловины", "Транспортируют преформы и бутылки", "Изношенные гнёзда или захваты, заторы при передаче, потёртости на бутылках", "Новый диаметр, форма, объём бутылки или горловина"]
+            ]
+          }
+        },
+        {
+          "heading": "Замена из-за износа: признаки, за которыми следить в производстве",
+          "paragraphs": [
+            "Комплектующие изнашиваются постепенно, поэтому план планово-предупредительного обслуживания с проверкой через фиксированные интервалы обходится дешевле, чем ожидание остановки. Признаки ниже типичны для двухстадийных машин раздувного формования."
+          ],
+          "list": [
+            "Рост расхода воздуха или шипение на выдувной станции часто указывают на изношенные уплотнения или уплотняющие поверхности сопел и дорнов.",
+            "Бутылки со смещённой точкой литника на дне обычно говорят об изогнутом вытяжном штоке или изношенном наконечнике.",
+            "Заметная ступенька или облой по линии разъёма, а также разница бутылок между гнёздами могут быть вызваны изношенными основаниями или кожухами, которые больше не центрируют половины матрицы точно.",
+            "Неравномерная температура бутылок после выдува или следы воды вокруг формы указывают на протечку или засор в подключениях охлаждения кожуха.",
+            "Частые заторы при передаче, падение преформ или потёртые бутылки говорят об износе гнёзд звёзд, направляющих или захватов горловины.",
+            "Держите на складе один комплект быстроизнашиваемых деталей; опубликованный срок LIHE для запасных частей — 4 недели."
+          ]
+        },
+        {
+          "heading": "Форматные детали: новая бутылка, новая преформа, новая горловина",
+          "paragraphs": [
+            "Смена формата — это любое изменение бутылки или преформы, с которым должна справиться машина. Каждый вид изменения затрагивает свой набор деталей, и часто детали поставляются вместе с новой выдувной формой единым пакетом смены формата."
+          ],
+          "list": [
+            "Новая горловина или преформа: выдувные сопла или дорны, захваты горловины, детали подачи преформ и, если меняется длина преформы, вытяжные штоки.",
+            "Новая форма или объём бутылки, например с 500 мл на 1,5 л: половины матрицы или вставки, донная форма, звёзды и направляющие под новый диаметр бутылки.",
+            "Бутылкам для горячего розлива при температуре около 85–95 °C нужны термофиксирующие выдувные формы, потому что обычный ПЭТ деформируется примерно выше 60 °C; проверьте, подходят ли кожухи и подключения охлаждения или нагрева для новой формы.",
+            "Переход на другую машину: если бутылку, разработанную для одной выдувной машины, нужно выпускать на другой, переходные детали адаптируют форму к формодержателю и выдувной станции второй машины.",
+            "Запасные и переходные детали изготавливаются по существующим деталям или чертежам заказчика для машин SIDEL, KRONES, KHS и других."
+          ]
+        },
+        {
+          "heading": "Кожухи форм и системы быстрой смены",
+          "paragraphs": [
+            "В системе с кожухами сами кожухи остаются в машине, а между форматами меняются только более лёгкие вставки матрицы. Это та же идея, что и в методе быстрой переналадки SMED: сократить число деталей и настроек, которые меняются при переналадке."
+          ],
+          "list": [
+            "Кожухи обычно изготавливают из лёгкого алюминиевого сплава, который удобен в обращении и хорошо проводит тепло.",
+            "Новые форматы бутылок можно поставлять только в виде вставок матрицы, если система кожухов остаётся прежней.",
+            "LIHE также изготавливает разъёмные быстросменные выдувные формы и комплекты для холодного розлива KHS InnoPET Blomax и Krones Contiform.",
+            "Проверяйте посадочные поверхности и подключения охлаждения кожухов при каждой смене вставок, потому что изношенный кожух влияет на все форматы, которые в нём работают."
+          ]
+        },
+        {
+          "heading": "Как спланировать пакет запчастей или смены формата",
+          "steps": [
+            "Укажите марку, модель машины и число выдувных станций, а также форматы бутылок, которые на ней выпускаются.",
+            "Определите, идёт ли речь о замене изношенных деталей, новом формате или переходе на другую машину, так как для каждого случая нужен свой набор деталей.",
+            "Соберите данные по каждой детали: оригинальные номера, чертежи или по одной использованной детали каждого типа в качестве образца.",
+            "Для нового формата приложите чертежи бутылки и преформы и тип горловины, чтобы дорны, захваты и звёзды были изготовлены в соответствии с ними.",
+            "Отправьте перечень на sales@lihe-preform.com; детали для нового формата можно поставить вместе с выдувной формой, чтобы ускорить запуск продукта."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Изготавливаете ли вы выдувные дорны и вытяжные штоки для машин SIDEL, KRONES или KHS?",
+          "answer": "Да. Эти детали изготавливаются по существующим деталям или чертежам заказчика для машин SIDEL, KRONES, KHS и других и подбираются под горловину преформы."
+        },
+        {
+          "question": "Нужны ли новые кожухи для каждой новой бутылки?",
+          "answer": "Нет, если вы используете систему кожухов. Кожухи остаются в машине, а для новой бутылки меняются только вставки матрицы и при необходимости донная форма."
+        },
+        {
+          "question": "Сколько времени занимает поставка запасных комплектующих?",
+          "answer": "LIHE публикует срок 4 недели для запасных частей. Для нового формата детали можно поставить вместе с новой выдувной формой."
+        },
+        {
+          "question": "Какие детали меняются при переходе на новую горловину?",
+          "answer": "Обычно выдувные сопла или дорны, захваты горловины и детали подачи преформ, а также вытяжные штоки, если меняется длина преформы. В самой форме для преформ тоже нужны новые горловые кольца."
+        },
+        {
+          "question": "Может ли одна выдувная форма работать на двух разных выдувных машинах?",
+          "answer": "Да, с переходными деталями, которые адаптируют форму к формодержателю и выдувной станции второй машины."
+        }
+      ]
+    },
+    "es": {
+      "heading": "Accesorios y piezas de conversión para soplado: pernos de soplado, varillas de estiramiento, carcasas de molde, bases de sujeción y piezas de cambio, y cuándo sustituirlos",
+      "intro": "Los accesorios de soplado son las piezas del lado de la máquina que sujetan, sellan, estiran y transportan la preforma y el molde de soplado en una sopladora de estirado-soplado de PET, a diferencia de la cavidad, que da forma a la botella. Se sustituyen por dos motivos: el desgaste durante la producción o un cambio de formato a una botella, preforma o cuello nuevos. Esta guía resume cada grupo de piezas, las señales de que necesita sustitución y cómo planificar un paquete de repuestos o de cambio de formato para sopladoras SIDEL, KRONES, KHS y otras.",
+      "sections": [
+        {
+          "heading": "Grupos principales de accesorios y piezas de conversión para soplado",
+          "list": [
+            "Toberas y pernos de soplado: sellan sobre el cuello de la preforma y aportan el aire de presoplado y de soplado a alta presión.",
+            "Varillas de estiramiento y sus puntas: empujan la preforma caliente hasta el fondo antes y durante el soplado, para estirar el material a lo largo.",
+            "Carcasas de molde (portacavidades): llevan las mitades de la cavidad de la botella en el portamoldes y las conectan al circuito de refrigeración.",
+            "Bases de sujeción (bases del portamoldes): montan y centran las carcasas y el fondo del molde en la estación de soplado.",
+            "Piezas de cambio para el transporte: estrellas, guías de entrada y de transferencia y pinzas de cuello que mueven preformas y botellas por la máquina.",
+            "Piezas de conversión entre máquinas: adaptadores que permiten que un molde de soplado funcione en otra sopladora."
+          ]
+        },
+        {
+          "heading": "Tabla de sustitución de accesorios de soplado",
+          "table": {
+            "head": ["Pieza", "Función", "Sustituir cuando (desgaste)", "Sustituir cuando (cambio de formato)"],
+            "rows": [
+              ["Tobera / perno de soplado", "Sella el cuello y aporta el aire de soplado", "Fugas de aire en el cuello, marcas en el cuello, superficie de sellado dañada", "Cuello o preforma nuevos"],
+              ["Varilla de estiramiento y punta", "Estira la preforma hasta el fondo", "Varilla doblada, punta desgastada, punto de inyección descentrado en el fondo de la botella", "Nueva altura de botella o longitud de preforma"],
+              ["Carcasa de molde", "Sujeta las mitades de cavidad, lleva el agua de refrigeración", "Superficies de ajuste desgastadas, fugas de refrigeración, las mitades de cavidad ya no asientan firmes", "Otra máquina u otro sistema de carcasas"],
+              ["Base de sujeción", "Centra carcasas y fondo en el portamoldes", "Caras de centrado dañadas, marcas en la línea de partición, desalineación tras cambiar el molde", "Otra máquina u otro portamoldes"],
+              ["Estrellas, guías, pinzas de cuello", "Transportan preformas y botellas", "Alojamientos o pinzas desgastados, atascos en la transferencia, botellas rayadas", "Nuevo diámetro, forma, capacidad de botella o cuello"]
+            ]
+          }
+        },
+        {
+          "heading": "Sustitución por desgaste: señales a vigilar en producción",
+          "paragraphs": [
+            "Los accesorios se desgastan poco a poco, así que un plan de mantenimiento preventivo que los revise a intervalos fijos sale más barato que esperar a una parada. Las señales siguientes son típicas en sopladoras de estirado-soplado de dos etapas."
+          ],
+          "list": [
+            "Un aumento del consumo de aire o un silbido en la estación de soplado suele indicar juntas o superficies de sellado desgastadas en toberas y pernos.",
+            "Botellas con el punto de inyección descentrado en el fondo suelen indicar una varilla de estiramiento doblada o una punta desgastada.",
+            "Un escalón visible o rebaba en la línea de partición, o botellas que varían entre cavidades, pueden deberse a bases de sujeción o carcasas desgastadas que ya no centran con precisión las mitades de cavidad.",
+            "Una temperatura desigual de la botella tras el soplado, o restos de agua alrededor del molde, sugieren una fuga u obstrucción en las conexiones de refrigeración de la carcasa.",
+            "Atascos frecuentes en la transferencia, preformas caídas o botellas rayadas apuntan a alojamientos de estrellas, guías o pinzas de cuello desgastados.",
+            "Mantenga en almacén un juego de las piezas que más se desgastan; el plazo publicado por LIHE para repuestos es de 4 semanas."
+          ]
+        },
+        {
+          "heading": "Piezas de cambio de formato: botella nueva, preforma nueva, cuello nuevo",
+          "paragraphs": [
+            "Un cambio de formato es cualquier cambio en la botella o en la preforma que la máquina tenga que manejar. Cada tipo de cambio afecta a un conjunto distinto de piezas, que a menudo se entregan junto con el nuevo molde de soplado como un único paquete de cambio de formato."
+          ],
+          "list": [
+            "Cuello o preforma nuevos: toberas o pernos de soplado, pinzas de cuello, piezas de alimentación de preformas y, si cambia la longitud de la preforma, varillas de estiramiento.",
+            "Nueva forma o capacidad de botella, por ejemplo de 500ml a 1,5L: mitades o insertos de cavidad, fondo del molde, estrellas y guías ajustadas al nuevo diámetro de botella.",
+            "Las botellas de llenado en caliente, llenadas a unos 85–95°C, necesitan moldes de soplado termofijados, porque el PET estándar se deforma por encima de unos 60°C; compruebe si las carcasas y las conexiones de refrigeración o calefacción sirven para el nuevo molde.",
+            "Conversión entre máquinas: cuando una botella diseñada para una sopladora debe producirse en otra, las piezas de conversión adaptan el molde al portamoldes y a la estación de soplado de la segunda máquina.",
+            "Los repuestos y piezas de conversión se fabrican a partir de las piezas o planos existentes del cliente para sopladoras SIDEL, KRONES, KHS y otras."
+          ]
+        },
+        {
+          "heading": "Carcasas de molde y sistemas de cambio rápido",
+          "paragraphs": [
+            "Con un sistema de carcasas, las carcasas permanecen en la máquina y entre formatos de botella solo se cambian los insertos de cavidad, más ligeros. Es la misma idea que el cambio rápido de utillaje (SMED): reducir el número de piezas y ajustes que cambian en una conversión."
+          ],
+          "list": [
+            "Las carcasas suelen mecanizarse en aleación de aluminio ligera, que facilita su manipulación y conduce bien el calor.",
+            "Los nuevos formatos de botella pueden suministrarse solo como insertos de cavidad si el sistema de carcasas se mantiene.",
+            "LIHE también fabrica moldes de soplado partidos de cambio rápido y juegos de llenado en frío KHS InnoPET Blomax y Krones Contiform.",
+            "Revise las superficies de ajuste y las conexiones de refrigeración de las carcasas cada vez que cambie los insertos, porque una carcasa desgastada afecta a todos los formatos que trabajan en ella."
+          ]
+        },
+        {
+          "heading": "Cómo planificar un paquete de repuestos o de cambio de formato",
+          "steps": [
+            "Indique la marca, el modelo y el número de estaciones de soplado de la máquina, y los formatos de botella que produce.",
+            "Defina si la solicitud es para sustituir piezas desgastadas, para un formato nuevo o para una conversión entre máquinas, porque cada caso requiere un conjunto distinto de piezas.",
+            "Reúna referencias de cada pieza: números de pieza originales, planos o una pieza usada de cada tipo como muestra.",
+            "Para un formato nuevo, añada los planos de la botella y de la preforma y el tipo de cuello, para fabricar pernos, pinzas y estrellas a medida.",
+            "Envíe la lista a sales@lihe-preform.com; las piezas de un formato nuevo pueden entregarse junto con el molde de soplado para acortar el lanzamiento del producto."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Fabrican pernos de soplado y varillas de estiramiento para máquinas SIDEL, KRONES o KHS?",
+          "answer": "Sí. Estas piezas se fabrican a partir de las piezas o planos existentes del cliente para sopladoras SIDEL, KRONES, KHS y otras, y se ajustan al cuello de la preforma."
+        },
+        {
+          "question": "¿Necesito carcasas nuevas para cada botella nueva?",
+          "answer": "No, si usa un sistema de carcasas. Las carcasas permanecen en la máquina y para la botella nueva solo cambian los insertos de cavidad y, si hace falta, el fondo del molde."
+        },
+        {
+          "question": "¿Cuánto se tarda en recibir accesorios de repuesto?",
+          "answer": "LIHE publica un plazo de 4 semanas para repuestos. Para un formato nuevo, las piezas pueden entregarse junto con el nuevo molde de soplado."
+        },
+        {
+          "question": "¿Qué piezas cambian al pasar a un cuello nuevo?",
+          "answer": "Normalmente las toberas o pernos de soplado, las pinzas de cuello y las piezas de alimentación de preformas, y las varillas de estiramiento si cambia la longitud de la preforma. El molde de preforma también necesita anillos de cuello nuevos."
+        },
+        {
+          "question": "¿Puede un mismo molde de soplado funcionar en dos sopladoras distintas?",
+          "answer": "Sí, con piezas de conversión entre máquinas que adaptan el molde al portamoldes y a la estación de soplado de la segunda máquina."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "key": "page-about",
+  "updated": "2026-10-13",
+  "sources": [
+    { "label": "Wikipedia — Process capability index", "url": "https://en.wikipedia.org/wiki/Process_capability_index" },
+    { "label": "Wikipedia — Coordinate-measuring machine", "url": "https://en.wikipedia.org/wiki/Coordinate-measuring_machine" },
+    { "label": "Wikipedia — Supplier evaluation", "url": "https://en.wikipedia.org/wiki/Supplier_evaluation" },
+    { "label": "Wikipedia — Polyethylene terephthalate", "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate" },
+    { "label": "Wikipedia — Factory acceptance test", "url": "https://en.wikipedia.org/wiki/Factory_acceptance_test" }
+  ],
+  "locales": {
+    "en": {
+      "heading": "About LIHE Precision: PET mold manufacturer background, quality system and Coca-Cola verified supplier status",
+      "intro": "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China. This guide is for buyers who are qualifying LIHE as a supplier: it explains how the company is organised, how its quality figures are defined and checked, what the Coca-Cola verified supplier status means and does not mean, and which projects LIHE is and is not a good fit for.",
+      "sections": [
+        {
+          "heading": "Company background: a PET mold manufacturer in Foshan with a sales office in Taiwan",
+          "paragraphs": [
+            "Supplier qualification usually starts with basic company data. The points below are the facts LIHE publishes about itself; anything not listed here, such as a founding year or headcount, is not stated on this site."
+          ],
+          "list": [
+            "Legal name: Foshan Lihe Precision Machinery Co.,Ltd. The brand names LIHE Precision and LIHE Preform refer to the same company.",
+            "Manufacturing: Shishan Town, Nanhai District, Foshan, Guangdong, China. Sales office: Taiwan.",
+            "Experience: more than 20 years in mold manufacturing.",
+            "Facility: 15,000 sqm, of which over 10,000 sqm is climate-controlled production floor.",
+            "Engineering: an in-house design center using CAD/CAM, 3D simulation and flow analysis before production begins.",
+            "Market: customers in more than 50 countries across Asia, Europe, the Americas, Africa and the Middle East."
+          ]
+        },
+        {
+          "heading": "How LIHE measures mold quality: CPK, defect rate and Zeiss CMM",
+          "paragraphs": [
+            "Quality claims are only useful if you know what they measure. CPK, the process capability index, compares the distance between the process mean and the nearest tolerance limit with three standard deviations of the process. A CPK of 1.33 means the nearest limit is four standard deviations away from the mean, which leaves a margin for normal variation. A defect rate of 0.0064% equals about 64 defective parts per million. A coordinate measuring machine (CMM) probes the actual geometry of a part and compares it with the CAD model, which is how core, cavity and neck ring dimensions are verified."
+          ],
+          "table": {
+            "head": ["Quality metric", "LIHE figure", "What it measures", "How a buyer can check it"],
+            "rows": [
+              ["Process capability", "CPK ≥ 1.33", "How well critical dimensions stay centred in their tolerance", "Ask for capability data on the critical dimensions of your mold"],
+              ["Operational defect rate", "As low as 0.0064% (about 64 per million)", "Share of defective parts in production", "Compare with your own reject counts after start-up"],
+              ["Mold durability", "Up to 8 million shots", "Service life on Husky, SACMI and Netstal platforms", "Track the shot counter and wear-part condition"],
+              ["Dimensional inspection", "In-house Zeiss CMM lab", "Measured geometry of cores, cavities, neck rings and mold bases", "Request the validation and inspection report with delivery"],
+              ["Hot runner sealing", "3-year leakage-proof guarantee", "Leak-free operation of Husky Ultra-type hot runners", "Keep the guarantee terms with the purchase documents"]
+            ]
+          }
+        },
+        {
+          "heading": "Coca-Cola verified supplier: what it means",
+          "paragraphs": [
+            "LIHE is a Coca-Cola verified mold supplier in the Asia region. For a buyer, this status is an external reference: a large beverage company has verified LIHE as a mold supplier in that region. It is relevant because beverage brand owners and their bottlers apply strict requirements to the preform and bottle tooling used on their lines."
+          ],
+          "list": [
+            "It applies to LIHE as a mold supplier in the Asia region.",
+            "It is a point you can include in your own supplier evaluation, alongside inspection reports and capability data.",
+            "It is consistent with LIHE's focus on high-cavitation molds for beverage packaging."
+          ]
+        },
+        {
+          "heading": "Coca-Cola verified supplier: what it does not mean",
+          "list": [
+            "LIHE is not owned, operated or controlled by The Coca-Cola Company, and is not part of the Coca-Cola system.",
+            "LIHE does not speak for Coca-Cola or any bottler, and the status is not an endorsement of a specific mold, project or customer.",
+            "It is not a certificate of a management system and does not replace any certificate your procurement process requires.",
+            "It does not replace your own supplier qualification: you should still review drawings, inspection reports and samples for your project.",
+            "The status as published refers to the Asia region; it should not be read as covering other regions."
+          ]
+        },
+        {
+          "heading": "Who LIHE is a good fit for",
+          "list": [
+            "Beverage, water, edible oil and packaging producers that need PET preform molds with 2 to 160 cavities, closure molds with 12 to 72 cavities, or blow molds for two-step and one-step machines.",
+            "Plants running Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps or Corvaglia systems that need 100% interchangeable conversion and replacement parts.",
+            "Teams that want to keep an existing mold and upgrade it: overhauls, neck finish conversions, lightweighting by 1g to 2g per preform, or cooling changes that cut neck cooling time by up to 0.5 seconds.",
+            "Projects on a short schedule: pilot molds in 20 days, replacement parts in 4 weeks and standard PET molds in 8 weeks.",
+            "Buyers who want dimensional evidence: Zeiss CMM inspection and validation reports on request."
+          ]
+        },
+        {
+          "heading": "When another supplier may suit you better",
+          "list": [
+            "Your part is outside beverage and packaging tooling, for example automotive or consumer product injection molds; LIHE's published range does not cover these.",
+            "You need a complete filling or blowing machine rather than molds, hot runners and conversion parts; LIHE makes the tooling, not the machines.",
+            "Your procurement process requires a specific certificate or audit document; this site does not list certifications, so request any required documents before you place an order."
+          ]
+        },
+        {
+          "heading": "How to qualify LIHE as a mold supplier",
+          "steps": [
+            "Send a short description of your line, machine platform and the parts you need to sales@lihe-preform.com.",
+            "Ask for the validation and inspection report format and an example of CMM data for a comparable mold component.",
+            "Agree which critical dimensions will be reported with CPK values for your project.",
+            "Start with a smaller order if you prefer, such as replacement parts in 4 weeks or a pilot mold in 20 days, and evaluate fit and performance on your machine.",
+            "Move to a full mold or hot runner project once the first order has met your acceptance criteria."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Is LIHE owned by Coca-Cola?",
+          "answer": "No. LIHE is an independent manufacturer, Foshan Lihe Precision Machinery Co.,Ltd. It is a Coca-Cola verified mold supplier in the Asia region, but it is not owned or operated by Coca-Cola."
+        },
+        {
+          "question": "What does CPK ≥ 1.33 mean in practice?",
+          "answer": "It means the measured process is centred well enough that the nearest tolerance limit is at least four standard deviations from the mean. In practice, critical mold dimensions repeat consistently with margin to the tolerance limits."
+        },
+        {
+          "question": "Can I get inspection reports for my mold?",
+          "answer": "Yes. LIHE has an in-house Zeiss CMM lab, and validation and inspection reports are supplied on request."
+        },
+        {
+          "question": "How long has LIHE been making molds?",
+          "answer": "LIHE has more than 20 years of experience in mold manufacturing. Manufacturing is in Shishan Town, Foshan, China, and the sales office is in Taiwan."
+        },
+        {
+          "question": "Does LIHE work with customers outside Asia?",
+          "answer": "Yes. LIHE has customers in more than 50 countries across Asia, Europe, the Americas, Africa and the Middle East."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "О LIHE Precision: производитель пресс-форм ПЭТ, система качества и статус проверенного поставщика Coca-Cola",
+      "intro": "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) — производитель пресс-форм для ПЭТ-преформ, выдувных форм, форм для колпачков и компрессионных форм, горячеканальных систем и комплектующих для производства напитков и упаковки, с производством в Фошане, Китай. Это руководство предназначено для покупателей, которые проводят квалификацию LIHE как поставщика: в нём объясняется, как устроена компания, как определяются и проверяются её показатели качества, что означает и чего не означает статус проверенного поставщика Coca-Cola и для каких проектов LIHE подходит, а для каких нет.",
+      "sections": [
+        {
+          "heading": "О компании: производитель пресс-форм ПЭТ в Фошане с офисом продаж на Тайване",
+          "paragraphs": [
+            "Квалификация поставщика обычно начинается с базовых данных о компании. Ниже перечислены факты, которые LIHE публикует о себе; всё, чего здесь нет, например год основания или численность персонала, на этом сайте не указывается."
+          ],
+          "list": [
+            "Юридическое название: Foshan Lihe Precision Machinery Co.,Ltd. Бренды LIHE Precision и LIHE Preform относятся к одной и той же компании.",
+            "Производство: посёлок Шишань, район Наньхай, Фошань, провинция Гуандун, Китай. Офис продаж: Тайвань.",
+            "Опыт: более 20 лет в производстве пресс-форм.",
+            "Площадка: 15 000 кв. м, из них более 10 000 кв. м — производственные площади с климат-контролем.",
+            "Инжиниринг: собственный конструкторский центр, где до начала производства применяются CAD/CAM, 3D-моделирование и анализ течения расплава.",
+            "Рынок: клиенты более чем в 50 странах Азии, Европы, Америки, Африки и Ближнего Востока."
+          ]
+        },
+        {
+          "heading": "Как LIHE измеряет качество пресс-форм: CPK, уровень брака и КИМ Zeiss",
+          "paragraphs": [
+            "Заявления о качестве полезны, только если понятно, что именно измеряется. CPK, индекс воспроизводимости процесса, сравнивает расстояние от среднего значения процесса до ближайшей границы допуска с тремя стандартными отклонениями процесса. CPK 1,33 означает, что ближайшая граница находится на расстоянии четырёх стандартных отклонений от среднего, что оставляет запас на обычный разброс. Уровень брака 0,0064% соответствует примерно 64 дефектным изделиям на миллион. Координатно-измерительная машина (КИМ) ощупывает фактическую геометрию детали и сравнивает её с CAD-моделью — так проверяются размеры знаков, матриц и горловых колец."
+          ],
+          "table": {
+            "head": ["Показатель качества", "Значение LIHE", "Что измеряет", "Как покупатель может проверить"],
+            "rows": [
+              ["Воспроизводимость процесса", "CPK ≥ 1,33", "Насколько стабильно критические размеры держатся в центре допуска", "Запросить данные воспроизводимости по критическим размерам вашей формы"],
+              ["Уровень брака в эксплуатации", "Всего 0,0064% (около 64 на миллион)", "Доля дефектных изделий в производстве", "Сравнить со своей статистикой брака после пуска"],
+              ["Ресурс пресс-формы", "До 8 млн циклов", "Срок службы на платформах Husky, SACMI и Netstal", "Отслеживать счётчик циклов и состояние изнашиваемых деталей"],
+              ["Контроль размеров", "Собственная лаборатория с КИМ Zeiss", "Фактическая геометрия знаков, матриц, горловых колец и плит", "Запросить протокол валидации и контроля вместе с поставкой"],
+              ["Герметичность горячих каналов", "Гарантия 3 года от протечек", "Работа без протечек горячих каналов типа Husky Ultra", "Хранить условия гарантии вместе с документами о покупке"]
+            ]
+          }
+        },
+        {
+          "heading": "Проверенный поставщик Coca-Cola: что это означает",
+          "paragraphs": [
+            "LIHE — проверенный поставщик пресс-форм Coca-Cola в Азиатском регионе. Для покупателя этот статус служит внешней рекомендацией: крупная компания-производитель напитков проверила LIHE как поставщика пресс-форм в этом регионе. Это важно, потому что владельцы брендов напитков и их розливщики предъявляют строгие требования к оснастке для преформ и бутылок на своих линиях."
+          ],
+          "list": [
+            "Статус относится к LIHE как к поставщику пресс-форм в Азиатском регионе.",
+            "Его можно учесть в собственной оценке поставщика наряду с протоколами контроля и данными о воспроизводимости.",
+            "Он согласуется со специализацией LIHE на многогнёздных пресс-формах для упаковки напитков."
+          ]
+        },
+        {
+          "heading": "Проверенный поставщик Coca-Cola: чего это не означает",
+          "list": [
+            "LIHE не принадлежит компании The Coca-Cola Company, не управляется и не контролируется ею и не входит в систему Coca-Cola.",
+            "LIHE не выступает от имени Coca-Cola или каких-либо розливщиков, и этот статус не является рекомендацией конкретной формы, проекта или клиента.",
+            "Это не сертификат системы менеджмента, и он не заменяет сертификаты, которых требует ваш порядок закупок.",
+            "Он не заменяет вашу собственную квалификацию поставщика: чертежи, протоколы контроля и образцы для вашего проекта всё равно нужно проверить.",
+            "Опубликованный статус относится к Азиатскому региону; его не следует понимать как распространяющийся на другие регионы."
+          ]
+        },
+        {
+          "heading": "Кому подходит LIHE",
+          "list": [
+            "Производителям напитков, воды, растительного масла и упаковки, которым нужны пресс-формы для ПЭТ-преформ на 2–160 гнёзд, формы для колпачков на 12–72 гнезда или выдувные формы для двухстадийных и одностадийных машин.",
+            "Заводам с системами Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps или Corvaglia, которым нужны на 100% взаимозаменяемые переналадочные и запасные части.",
+            "Командам, которые хотят сохранить существующую форму и модернизировать её: капитальный ремонт, смена горловины, облегчение на 1–2 г на преформу или изменение охлаждения, сокращающее время охлаждения горловины до 0,5 секунды.",
+            "Проектам со сжатыми сроками: пилотная форма за 20 дней, запасные части за 4 недели, стандартная форма ПЭТ за 8 недель.",
+            "Покупателям, которым нужны подтверждения размеров: контроль на КИМ Zeiss и протоколы валидации по запросу."
+          ]
+        },
+        {
+          "heading": "Когда лучше выбрать другого поставщика",
+          "list": [
+            "Ваша деталь не относится к оснастке для напитков и упаковки, например это литьевые формы для автомобильных или бытовых изделий; опубликованный ассортимент LIHE их не охватывает.",
+            "Вам нужна целая машина розлива или выдува, а не пресс-формы, горячие каналы и переналадочные детали; LIHE делает оснастку, а не машины.",
+            "Ваш порядок закупок требует определённого сертификата или документа аудита; на этом сайте сертификаты не перечислены, поэтому запросите нужные документы до размещения заказа."
+          ]
+        },
+        {
+          "heading": "Как провести квалификацию LIHE как поставщика пресс-форм",
+          "steps": [
+            "Отправьте на sales@lihe-preform.com краткое описание линии, платформы машины и нужных деталей.",
+            "Запросите формат протокола валидации и контроля и пример данных КИМ для сопоставимой детали формы.",
+            "Согласуйте, по каким критическим размерам для вашего проекта будут предоставлены значения CPK.",
+            "При желании начните с небольшого заказа, например запасных частей за 4 недели или пилотной формы за 20 дней, и оцените посадку и работу на своей машине.",
+            "Переходите к полному проекту пресс-формы или горячеканальной системы, когда первый заказ выполнит ваши критерии приёмки."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Принадлежит ли LIHE компании Coca-Cola?",
+          "answer": "Нет. LIHE — независимый производитель Foshan Lihe Precision Machinery Co.,Ltd. Компания является проверенным поставщиком пресс-форм Coca-Cola в Азиатском регионе, но не принадлежит Coca-Cola и не управляется ею."
+        },
+        {
+          "question": "Что на практике означает CPK ≥ 1,33?",
+          "answer": "Это значит, что измеряемый процесс отцентрирован настолько, что ближайшая граница допуска находится не менее чем в четырёх стандартных отклонениях от среднего. На практике критические размеры формы стабильно повторяются с запасом до границ допуска."
+        },
+        {
+          "question": "Можно ли получить протоколы контроля на мою форму?",
+          "answer": "Да. У LIHE есть собственная лаборатория с КИМ Zeiss, протоколы валидации и контроля предоставляются по запросу."
+        },
+        {
+          "question": "Как давно LIHE делает пресс-формы?",
+          "answer": "У LIHE более 20 лет опыта в производстве пресс-форм. Производство находится в посёлке Шишань, Фошань, Китай, а офис продаж — на Тайване."
+        },
+        {
+          "question": "Работает ли LIHE с клиентами за пределами Азии?",
+          "answer": "Да. У LIHE есть клиенты более чем в 50 странах Азии, Европы, Америки, Африки и Ближнего Востока."
+        }
+      ]
+    },
+    "es": {
+      "heading": "Sobre LIHE Precision: fabricante de moldes PET, sistema de calidad y estatus de proveedor verificado de Coca-Cola",
+      "intro": "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) es un fabricante de moldes de preforma PET, moldes de soplado, moldes de tapas y de compresión, sistemas de canal caliente y componentes de molde para la industria de bebidas y envases, con fabricación en Foshan, China. Esta guía está dirigida a compradores que están homologando a LIHE como proveedor: explica cómo está organizada la empresa, cómo se definen y comprueban sus cifras de calidad, qué significa y qué no significa el estatus de proveedor verificado de Coca-Cola, y para qué proyectos LIHE es o no es una buena opción.",
+      "sections": [
+        {
+          "heading": "Antecedentes: un fabricante de moldes PET en Foshan con oficina comercial en Taiwán",
+          "paragraphs": [
+            "La homologación de un proveedor suele empezar por los datos básicos de la empresa. Los puntos siguientes son los hechos que LIHE publica sobre sí misma; lo que no aparece aquí, como el año de fundación o el número de empleados, no se indica en este sitio."
+          ],
+          "list": [
+            "Razón social: Foshan Lihe Precision Machinery Co.,Ltd. Las marcas LIHE Precision y LIHE Preform corresponden a la misma empresa.",
+            "Fabricación: Shishan, distrito de Nanhai, Foshan, Guangdong, China. Oficina comercial: Taiwán.",
+            "Experiencia: más de 20 años en la fabricación de moldes.",
+            "Instalaciones: 15.000 m², de los cuales más de 10.000 m² son superficie de producción climatizada.",
+            "Ingeniería: un centro de diseño propio que usa CAD/CAM, simulación 3D y análisis de flujo antes de iniciar la producción.",
+            "Mercado: clientes en más de 50 países de Asia, Europa, América, África y Oriente Medio."
+          ]
+        },
+        {
+          "heading": "Cómo mide LIHE la calidad de los moldes: CPK, tasa de defectos y MMC Zeiss",
+          "paragraphs": [
+            "Una afirmación de calidad solo es útil si se sabe qué mide. El CPK, índice de capacidad de proceso, compara la distancia entre la media del proceso y el límite de tolerancia más cercano con tres desviaciones estándar del proceso. Un CPK de 1,33 significa que el límite más cercano está a cuatro desviaciones estándar de la media, lo que deja margen para la variación normal. Una tasa de defectos del 0,0064% equivale a unas 64 piezas defectuosas por millón. Una máquina de medición por coordenadas (MMC) palpa la geometría real de una pieza y la compara con el modelo CAD; así se verifican las cotas de machos, cavidades y anillos de cuello."
+          ],
+          "table": {
+            "head": ["Indicador de calidad", "Cifra de LIHE", "Qué mide", "Cómo puede comprobarlo el comprador"],
+            "rows": [
+              ["Capacidad de proceso", "CPK ≥ 1,33", "Lo bien centradas que se mantienen las cotas críticas dentro de su tolerancia", "Pedir los datos de capacidad de las cotas críticas de su molde"],
+              ["Tasa de defectos en operación", "Tan baja como 0,0064% (unas 64 por millón)", "Proporción de piezas defectuosas en producción", "Compararla con sus propios rechazos tras la puesta en marcha"],
+              ["Durabilidad del molde", "Hasta 8 millones de ciclos", "Vida útil en plataformas Husky, SACMI y Netstal", "Seguir el contador de ciclos y el estado de las piezas de desgaste"],
+              ["Inspección dimensional", "Laboratorio propio con MMC Zeiss", "Geometría medida de machos, cavidades, anillos de cuello y bases de molde", "Pedir el informe de validación e inspección con la entrega"],
+              ["Estanqueidad del canal caliente", "Garantía de 3 años contra fugas", "Funcionamiento sin fugas de los canales calientes tipo Husky Ultra", "Guardar las condiciones de garantía con los documentos de compra"]
+            ]
+          }
+        },
+        {
+          "heading": "Proveedor verificado de Coca-Cola: qué significa",
+          "paragraphs": [
+            "LIHE es un proveedor de moldes verificado por Coca-Cola en la región de Asia. Para un comprador, este estatus es una referencia externa: una gran empresa de bebidas ha verificado a LIHE como proveedor de moldes en esa región. Es relevante porque los propietarios de marcas de bebidas y sus embotelladores aplican requisitos estrictos al utillaje de preformas y botellas de sus líneas."
+          ],
+          "list": [
+            "Se aplica a LIHE como proveedor de moldes en la región de Asia.",
+            "Es un punto que puede incluir en su propia evaluación de proveedores, junto con los informes de inspección y los datos de capacidad.",
+            "Es coherente con la especialización de LIHE en moldes de alta cavidad para envases de bebidas."
+          ]
+        },
+        {
+          "heading": "Proveedor verificado de Coca-Cola: qué no significa",
+          "list": [
+            "LIHE no es propiedad de The Coca-Cola Company, no está gestionada ni controlada por ella y no forma parte del sistema Coca-Cola.",
+            "LIHE no habla en nombre de Coca-Cola ni de ningún embotellador, y el estatus no es un respaldo a un molde, proyecto o cliente concreto.",
+            "No es un certificado de sistema de gestión y no sustituye ningún certificado que exija su proceso de compras.",
+            "No sustituye su propia homologación del proveedor: debe revisar igualmente planos, informes de inspección y muestras de su proyecto.",
+            "El estatus publicado se refiere a la región de Asia; no debe interpretarse como válido para otras regiones."
+          ]
+        },
+        {
+          "heading": "Para quién es LIHE una buena opción",
+          "list": [
+            "Productores de bebidas, agua, aceite comestible y envases que necesitan moldes de preforma PET de 2 a 160 cavidades, moldes de tapas de 12 a 72 cavidades o moldes de soplado para máquinas de dos etapas y de una etapa.",
+            "Plantas con sistemas Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps o Corvaglia que necesitan piezas de conversión y de repuesto 100% intercambiables.",
+            "Equipos que quieren conservar un molde existente y mejorarlo: revisiones completas, conversiones de cuello, aligeramiento de 1 g a 2 g por preforma o cambios de refrigeración que reducen el enfriamiento del cuello hasta en 0,5 segundos.",
+            "Proyectos con plazos cortos: moldes piloto en 20 días, piezas de repuesto en 4 semanas y moldes PET estándar en 8 semanas.",
+            "Compradores que quieren evidencia dimensional: inspección con MMC Zeiss e informes de validación a petición."
+          ]
+        },
+        {
+          "heading": "Cuándo puede convenirle otro proveedor",
+          "list": [
+            "Su pieza no pertenece al utillaje de bebidas y envases, por ejemplo moldes de inyección para automoción o productos de consumo; la gama publicada de LIHE no los cubre.",
+            "Necesita una máquina completa de llenado o soplado y no moldes, canales calientes y piezas de conversión; LIHE fabrica el utillaje, no las máquinas.",
+            "Su proceso de compras exige un certificado o documento de auditoría concreto; este sitio no enumera certificaciones, así que solicite los documentos necesarios antes de hacer el pedido."
+          ]
+        },
+        {
+          "heading": "Cómo homologar a LIHE como proveedor de moldes",
+          "steps": [
+            "Envíe a sales@lihe-preform.com una breve descripción de su línea, la plataforma de máquina y las piezas que necesita.",
+            "Pida el formato del informe de validación e inspección y un ejemplo de datos de MMC de un componente de molde comparable.",
+            "Acuerde qué cotas críticas de su proyecto se informarán con valores de CPK.",
+            "Si lo prefiere, empiece con un pedido pequeño, como piezas de repuesto en 4 semanas o un molde piloto en 20 días, y evalúe el ajuste y el rendimiento en su máquina.",
+            "Pase a un proyecto completo de molde o canal caliente cuando el primer pedido haya cumplido sus criterios de aceptación."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿LIHE pertenece a Coca-Cola?",
+          "answer": "No. LIHE es un fabricante independiente, Foshan Lihe Precision Machinery Co.,Ltd. Es proveedor de moldes verificado por Coca-Cola en la región de Asia, pero no es propiedad de Coca-Cola ni está gestionado por ella."
+        },
+        {
+          "question": "¿Qué significa en la práctica un CPK ≥ 1,33?",
+          "answer": "Significa que el proceso medido está tan bien centrado que el límite de tolerancia más cercano está al menos a cuatro desviaciones estándar de la media. En la práctica, las cotas críticas del molde se repiten de forma constante con margen respecto a los límites de tolerancia."
+        },
+        {
+          "question": "¿Puedo obtener informes de inspección de mi molde?",
+          "answer": "Sí. LIHE tiene un laboratorio propio con MMC Zeiss, y los informes de validación e inspección se entregan a petición."
+        },
+        {
+          "question": "¿Cuánto tiempo lleva LIHE fabricando moldes?",
+          "answer": "LIHE tiene más de 20 años de experiencia en la fabricación de moldes. La fabricación está en Shishan, Foshan, China, y la oficina comercial en Taiwán."
+        },
+        {
+          "question": "¿Trabaja LIHE con clientes fuera de Asia?",
+          "answer": "Sí. LIHE tiene clientes en más de 50 países de Asia, Europa, América, África y Oriente Medio."
+        }
+      ]
+    }
+  }
+}

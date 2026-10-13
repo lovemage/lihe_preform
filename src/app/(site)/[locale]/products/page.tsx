@@ -8,6 +8,8 @@ import CategoryFilter from "@/components/products/CategoryFilter";
 import ProductGrid from "@/components/products/ProductGrid";
 import { getProductCategories } from "@/lib/categories";
 import styles from "./page.module.css";
+import PageGuide from "@/components/content/PageGuide";
+import AiImageNotice from "@/components/ui/AiImageNotice/AiImageNotice";
 
 export async function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -60,7 +62,9 @@ export default async function ProductsPage({
           allLabel={t("allCategories")}
         />
         <ProductGrid products={data.products} viewDetailsLabel={t("viewDetails")} />
+        <AiImageNotice />
       </div>
+      <PageGuide locale={locale} guideKey="page-products" />
     </div>
   );
 }

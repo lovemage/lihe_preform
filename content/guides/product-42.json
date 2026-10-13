@@ -1,0 +1,347 @@
+{
+  "key": "product-42",
+  "updated": "2026-10-13",
+  "sources": [
+    { "label": "Wikipedia — Blow molding", "url": "https://en.wikipedia.org/wiki/Blow_molding" },
+    { "label": "Wikipedia — Preform", "url": "https://en.wikipedia.org/wiki/Preform" },
+    { "label": "Wikipedia — Plastic bottle", "url": "https://en.wikipedia.org/wiki/Plastic_bottle" },
+    { "label": "Wikipedia — New product development", "url": "https://en.wikipedia.org/wiki/New_product_development" },
+    { "label": "KHS — filling and packaging systems", "url": "https://www.khs.com/en/" },
+    { "label": "Sidel — PET packaging and blow moulding equipment", "url": "https://www.sidel.com/en" }
+  ],
+  "locales": {
+    "en": {
+      "heading": "Planning a bottle format change: which blow molding machine accessories and conversion parts you need",
+      "intro": "A blow molding accessories kit is a set of machine-side parts, such as blowing pins, stretch rods, clamping bases, mold shells and conversion parts, that lets a blow molder run a new neck finish, bottle shape or capacity, or a mold from another machine. This guide shows which parts each type of change usually requires, and gives a checklist and a step-by-step plan so the parts arrive together with the blow mold and the launch is not held up by one missing item.",
+      "sections": [
+        {
+          "heading": "Why format changes stall on small parts",
+          "paragraphs": [
+            "A new bottle is usually planned around the blow mold and the preform. The smaller parts that touch the preform and bottle on the way through the machine are often noticed only during installation, when the new mold is already on site. One wrong stretch rod or neck gripper can stop the start-up."
+          ],
+          "list": [
+            "Parts that touch the neck: blowing pins (nozzles), neck grippers, transfer star wheels and guides at the neck support ring.",
+            "Parts that touch the body and base: mold shells, clamping bases and base mold holders.",
+            "Parts that move inside the preform: stretch rods, whose length and tip suit the bottle height and base.",
+            "Parts downstream of the blower: conveyor guides and star wheels sized for the new bottle diameter.",
+            "LIHE supplies blowing pins, stretch rods, clamping bases, mold shells and conversion parts such as star wheels, guides and neck grippers, and can deliver them together with the blow mold."
+          ]
+        },
+        {
+          "heading": "Parts needed for each type of change: comparison table",
+          "paragraphs": [
+            "The table shows typical scope. The exact list depends on the machine model and the old and new bottle, so it is confirmed against drawings."
+          ],
+          "table": {
+            "head": ["Change", "Blow mold", "Preform side", "Blow molder accessories", "Other line parts to check"],
+            "rows": [
+              ["Neck finish change (for example PCO 1810 to PCO 1881)", "Neck area may change; body can often stay", "New preform, new preform mold or neck conversion", "Blowing pins, neck grippers, star wheels and guides at the neck", "Capper heads, closure supply, filler neck handling"],
+              ["New shape, same capacity and neck", "New mold or new inserts", "Usually unchanged", "Base mold or clamping base if the base changes", "Labeler and conveyor guides if the profile changes"],
+              ["New capacity (for example 330ml to 1.5L)", "New mold set", "New preform weight and often new preform", "Stretch rods for the new height, base molds, possibly mold shells", "Star wheels, guides and filler parts for the new diameter and height"],
+              ["Cross-machine conversion", "Existing mold reused", "Unchanged", "Conversion parts: mold shells or adapters, clamping bases, blowing pins, stretch rods for the target machine", "Machine interface, cooling connections, recipe"],
+              ["Lightweighting, same bottle", "Same mold or minor adjustment", "Lighter preform (LIHE proposals: 1g to 2g lighter)", "Usually none; check stretch rod if preform length changes", "Usually none"]
+            ]
+          }
+        },
+        {
+          "heading": "Neck finish change: what to plan",
+          "list": [
+            "Decide the new finish early, for example moving from PCO 1810 to the shorter PCO 1881 (both 28 mm), or to a short water neck such as 2925 or 2622.",
+            "The preform changes first; LIHE tooling conversion covers neck finish conversions of existing preform molds as well as new preform molds.",
+            "Blowing pins must seal on the new neck; their seal diameter and position follow the finish.",
+            "Neck grippers, star wheel pockets and guides that hold the neck support ring must match its new diameter and height.",
+            "Closure supply and capper chucks must be ready on the same date; a neck change without matching closures cannot start."
+          ]
+        },
+        {
+          "heading": "Shape, capacity and cross-machine changes: what to plan",
+          "list": [
+            "Shape change with the same preform: the new blow mold or inserts are the main item; check the base mold and clamping base if the base design changes.",
+            "Capacity change: bottle height and diameter change, so stretch rods, base molds and downstream star wheels and guides usually change as well.",
+            "Hot fill products, filled at about 85–95°C, need heat-set blow molds; check that heated mold shells and connections exist on the machine before choosing this path.",
+            "Cross-machine conversion: to run one blow mold on another blower, the interface parts change, mainly mold shells or adapters, clamping bases, blowing pins and stretch rods.",
+            "Machine spare parts for SIDEL, KRONES, KHS and other blow molders can be made from your existing parts or drawings, which helps when original parts are slow to obtain."
+          ]
+        },
+        {
+          "heading": "Format change checklist before ordering",
+          "list": [
+            "Old and new bottle drawings, with capacity, height, maximum diameter and base design.",
+            "Old and new preform drawings, with neck finish and preform length.",
+            "Blow molding machine brand, model, number of cavities and mold carrier type; for a conversion, both the source and the target machine.",
+            "Photos or drawings of the current blowing pins, stretch rods, clamping bases and neck grippers.",
+            "Filling type: still, carbonated or hot fill.",
+            "Downstream parts owned by other suppliers: filler, capper and labeler change parts.",
+            "Planned launch date and the date of the scheduled line stop for installation."
+          ]
+        },
+        {
+          "heading": "Timeline steps for a new product launch on an existing blow molder",
+          "steps": [
+            "Define the change: new neck finish, new shape, new capacity, lightweighting or cross-machine conversion, or a combination.",
+            "Collect the checklist data and send it with the blow mold request so molds and accessories are reviewed together.",
+            "Agree the parts list against drawings: blow mold, preform or preform mold changes, and each accessory by part and quantity per cavity.",
+            "Order closures and filler, capper and labeler change parts from their suppliers in parallel.",
+            "Manufacture the blow mold and accessories; LIHE's engineering center uses CAD/CAM, 3D simulation and flow analysis, and inspection is done in LIHE's in-house Zeiss CMM lab.",
+            "Ship the blow mold and accessories as one delivery, packed and labeled by machine station.",
+            "Install during the planned line stop, blow sample bottles, check them and run the filler, capper and labeler with the new bottle before full production."
+          ]
+        },
+        {
+          "heading": "Common mistakes in format change projects",
+          "list": [
+            "Ordering the blow mold before the preform is fixed, then finding that the stretch rod length or neck parts do not match.",
+            "Forgetting that one cavity count means one set of parts per cavity: blowing pins, stretch rods and clamping bases are needed for every station.",
+            "Assuming a mold from one machine brand fits another without conversion parts.",
+            "Leaving downstream conveyor star wheels and guides out of the plan for a new bottle diameter.",
+            "Not keeping spare blowing pins and stretch rods for the new format, so a single damaged part stops a station."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Can accessories be ordered without a new blow mold?",
+          "answer": "Yes. Accessories and conversion parts can be ordered alone, for example to run an existing mold on another machine, to replace worn parts, or to adapt the line to a new preform. Machine spare parts can be made from your existing parts or drawings."
+        },
+        {
+          "question": "What is needed to run my existing blow mold on a different blowing machine?",
+          "answer": "Usually conversion parts for the target machine: mold shells or adapters, clamping bases, blowing pins and stretch rods. Send the mold drawings and the source and target machine models so the interface can be checked."
+        },
+        {
+          "question": "Does a neck finish change always require a new blow mold?",
+          "answer": "Not always. The body of the bottle may stay the same, but the preform changes and the neck-related parts, such as blowing pins, neck grippers and neck guides, must match the new finish. Whether the blow mold neck area needs changes is checked against the drawings."
+        },
+        {
+          "question": "Which machines are the accessories made for?",
+          "answer": "Machine spare parts are made for SIDEL, KRONES, KHS and other blow molding machines from your existing parts or drawings. Blow molds and their accessories cover two-step SIDEL, KRONES, SIG/KHS, TECH-LONG and NEWAMSTAR machines and one-step SIPA, ASB and AOKI machines."
+        },
+        {
+          "question": "Why deliver accessories together with the blow mold?",
+          "answer": "Because the start-up needs every part at the same time. One delivery, checked against one parts list, avoids waiting for a single missing stretch rod or neck gripper after the new mold has arrived."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "Планирование смены формата бутылки: какие комплектующие и переходные детали для выдувной машины нужны",
+      "intro": "Комплект комплектующих для выдувного формования — это набор деталей со стороны машины, таких как дутьевые сопла, вытяжные штоки, прижимные основания, корпуса форм и переходные детали, который позволяет выдувной машине выпускать бутылку с новым горлом, новой формой или объёмом либо работать с формой от другой машины. В руководстве показано, какие детали обычно требуются при каждом типе изменения, и приведены контрольный список и пошаговый план, чтобы детали пришли вместе с выдувной формой и запуск не задержался из-за одной недостающей позиции.",
+      "sections": [
+        {
+          "heading": "Почему смена формата останавливается из-за мелких деталей",
+          "paragraphs": [
+            "Новую бутылку обычно планируют вокруг выдувной формы и преформы. Мелкие детали, которые касаются преформы и бутылки на пути через машину, часто вспоминают только при монтаже, когда новая форма уже на месте. Один неподходящий вытяжной шток или захват горла может остановить запуск."
+          ],
+          "list": [
+            "Детали, касающиеся горла: дутьевые сопла, захваты горла, передаточные звёзды и направляющие на опорном кольце горла.",
+            "Детали, касающиеся корпуса и дна: корпуса форм, прижимные основания и держатели донных форм.",
+            "Детали, движущиеся внутри преформы: вытяжные штоки, длина и наконечник которых соответствуют высоте и дну бутылки.",
+            "Детали после выдувной машины: направляющие конвейера и звёзды под новый диаметр бутылки.",
+            "LIHE поставляет дутьевые сопла, вытяжные штоки, прижимные основания, корпуса форм и переходные детали — звёзды, направляющие и захваты горла — и может отгрузить их вместе с выдувной формой."
+          ]
+        },
+        {
+          "heading": "Детали для каждого типа изменения: сравнительная таблица",
+          "paragraphs": [
+            "Таблица показывает типичный объём. Точный перечень зависит от модели машины, старой и новой бутылки и подтверждается по чертежам."
+          ],
+          "table": {
+            "head": ["Изменение", "Выдувная форма", "Сторона преформы", "Комплектующие выдувной машины", "Что проверить на линии"],
+            "rows": [
+              ["Смена горла (например, PCO 1810 на PCO 1881)", "Может измениться зона горла; корпус часто остаётся", "Новая преформа, новая пресс-форма преформы или переделка горла", "Дутьевые сопла, захваты горла, звёзды и направляющие по горлу", "Укупорочные головки, поставка колпачков, захват горла в наполнителе"],
+              ["Новая форма при том же объёме и горле", "Новая форма или новые вставки", "Обычно без изменений", "Донная форма или прижимное основание, если меняется дно", "Направляющие этикетировщика и конвейера при изменении профиля"],
+              ["Новый объём (например, 330 мл на 1,5 л)", "Новый комплект форм", "Новая масса и часто новая преформа", "Вытяжные штоки под новую высоту, донные формы, возможно корпуса форм", "Звёзды, направляющие и детали наполнителя под новый диаметр и высоту"],
+              ["Переход на другую машину", "Используется существующая форма", "Без изменений", "Переходные детали: корпуса форм или адаптеры, прижимные основания, дутьевые сопла, вытяжные штоки для целевой машины", "Интерфейс машины, подключения охлаждения, рецептура"],
+              ["Облегчение той же бутылки", "Та же форма или небольшая доработка", "Более лёгкая преформа (предложения LIHE: на 1–2 г легче)", "Обычно ничего; проверить шток при изменении длины преформы", "Обычно ничего"]
+            ]
+          }
+        },
+        {
+          "heading": "Смена горла: что запланировать",
+          "list": [
+            "Определите новое горло заранее, например переход с PCO 1810 на более короткое PCO 1881 (оба 28 мм) или на короткое горло для воды, такое как 2925 или 2622.",
+            "Сначала меняется преформа; переделка оснастки LIHE включает конверсию горла существующих пресс-форм преформ, а также новые пресс-формы.",
+            "Дутьевые сопла должны уплотняться на новом горле; диаметр и положение уплотнения зависят от горла.",
+            "Захваты горла, гнёзда звёзд и направляющие, удерживающие опорное кольцо, должны соответствовать его новому диаметру и высоте.",
+            "Поставка колпачков и патроны укупорщика должны быть готовы к той же дате; без подходящих колпачков смена горла не может стартовать."
+          ]
+        },
+        {
+          "heading": "Смена формы, объёма и переход на другую машину: что запланировать",
+          "list": [
+            "Смена формы при той же преформе: главная позиция — новая выдувная форма или вставки; проверьте донную форму и прижимное основание, если меняется дно.",
+            "Смена объёма: меняются высота и диаметр бутылки, поэтому обычно меняются и вытяжные штоки, донные формы, а также звёзды и направляющие после машины.",
+            "Продукты горячего розлива при температуре около 85–95°C требуют термофиксирующих выдувных форм; заранее проверьте наличие на машине нагреваемых корпусов форм и подключений.",
+            "Переход на другую машину: чтобы работать одной выдувной формой на другой машине, меняются интерфейсные детали — прежде всего корпуса форм или адаптеры, прижимные основания, дутьевые сопла и вытяжные штоки.",
+            "Запасные части для машин SIDEL, KRONES, KHS и других выдувных машин могут быть изготовлены по вашим существующим деталям или чертежам, что помогает, когда оригинальные детали поставляются долго."
+          ]
+        },
+        {
+          "heading": "Контрольный список перед заказом при смене формата",
+          "list": [
+            "Чертежи старой и новой бутылки с объёмом, высотой, максимальным диаметром и конструкцией дна.",
+            "Чертежи старой и новой преформы с горлом и длиной преформы.",
+            "Марка, модель выдувной машины, число гнёзд и тип формодержателя; при переходе — исходная и целевая машины.",
+            "Фото или чертежи текущих дутьевых сопел, вытяжных штоков, прижимных оснований и захватов горла.",
+            "Тип розлива: негазированный, газированный или горячий.",
+            "Детали на линии от других поставщиков: сменные части наполнителя, укупорщика и этикетировщика.",
+            "Планируемая дата запуска и дата плановой остановки линии для монтажа."
+          ]
+        },
+        {
+          "heading": "Этапы и график запуска нового продукта на существующей выдувной машине",
+          "steps": [
+            "Определите изменение: новое горло, новая форма, новый объём, облегчение, переход на другую машину или их сочетание.",
+            "Соберите данные по контрольному списку и отправьте их вместе с запросом на выдувную форму, чтобы формы и комплектующие рассматривались совместно.",
+            "Согласуйте перечень деталей по чертежам: выдувная форма, изменения преформы или её пресс-формы и каждая комплектующая с количеством на гнездо.",
+            "Параллельно закажите колпачки и сменные части наполнителя, укупорщика и этикетировщика у их поставщиков.",
+            "Изготовление выдувной формы и комплектующих; инженерный центр LIHE использует CAD/CAM, 3D-моделирование и анализ течения, контроль выполняется в собственной лаборатории КИМ Zeiss.",
+            "Отгрузите выдувную форму и комплектующие одной поставкой, упакованными и промаркированными по станциям машины.",
+            "Смонтируйте оснастку во время плановой остановки, выдуйте образцы, проверьте их и прогоните новую бутылку через наполнитель, укупорщик и этикетировщик до начала серийного выпуска."
+          ]
+        },
+        {
+          "heading": "Типичные ошибки при смене формата",
+          "list": [
+            "Заказ выдувной формы до утверждения преформы, после чего выясняется, что длина вытяжного штока или детали горла не подходят.",
+            "Забывают, что число гнёзд означает комплект деталей на каждое гнездо: дутьевые сопла, вытяжные штоки и прижимные основания нужны для каждой станции.",
+            "Предположение, что форма от машины одной марки подойдёт к другой без переходных деталей.",
+            "В плане отсутствуют звёзды и направляющие конвейера под новый диаметр бутылки.",
+            "Нет запасных дутьевых сопел и вытяжных штоков для нового формата, и одна повреждённая деталь останавливает станцию."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Можно ли заказать комплектующие без новой выдувной формы?",
+          "answer": "Да. Комплектующие и переходные детали можно заказать отдельно, например чтобы работать существующей формой на другой машине, заменить изношенные детали или адаптировать линию к новой преформе. Запасные части машин могут быть изготовлены по вашим существующим деталям или чертежам."
+        },
+        {
+          "question": "Что нужно, чтобы работать моей выдувной формой на другой машине?",
+          "answer": "Обычно переходные детали для целевой машины: корпуса форм или адаптеры, прижимные основания, дутьевые сопла и вытяжные штоки. Пришлите чертежи формы и модели исходной и целевой машин, чтобы проверить интерфейс."
+        },
+        {
+          "question": "Всегда ли смена горла требует новой выдувной формы?",
+          "answer": "Не всегда. Корпус бутылки может остаться прежним, но преформа меняется, а детали, связанные с горлом, — дутьевые сопла, захваты и направляющие горла — должны соответствовать новому горлу. Нужны ли изменения зоны горла выдувной формы, проверяется по чертежам."
+        },
+        {
+          "question": "Для каких машин изготавливаются комплектующие?",
+          "answer": "Запасные части изготавливаются для машин SIDEL, KRONES, KHS и других выдувных машин по вашим существующим деталям или чертежам. Выдувные формы и комплектующие к ним охватывают двухстадийные машины SIDEL, KRONES, SIG/KHS, TECH-LONG и NEWAMSTAR и одностадийные SIPA, ASB и AOKI."
+        },
+        {
+          "question": "Зачем поставлять комплектующие вместе с выдувной формой?",
+          "answer": "Потому что для запуска нужны все детали одновременно. Одна поставка, проверенная по одному перечню, исключает ожидание одного недостающего вытяжного штока или захвата горла после прибытия новой формы."
+        }
+      ]
+    },
+    "es": {
+      "heading": "Planificar un cambio de formato de botella: qué accesorios y piezas de conversión de la sopladora se necesitan",
+      "intro": "Un kit de accesorios para soplado es un conjunto de piezas del lado de la máquina, como toberas de soplado, varillas de estirado, bases de cierre, carcasas de molde y piezas de conversión, que permite a una sopladora producir un nuevo acabado de cuello, una nueva forma o capacidad de botella, o trabajar con un molde de otra máquina. Esta guía muestra qué piezas requiere normalmente cada tipo de cambio y ofrece una lista de comprobación y un plan paso a paso para que las piezas lleguen junto con el molde de soplado y el lanzamiento no se retrase por un solo elemento que falte.",
+      "sections": [
+        {
+          "heading": "Por qué los cambios de formato se detienen por piezas pequeñas",
+          "paragraphs": [
+            "Una botella nueva suele planificarse en torno al molde de soplado y la preforma. Las piezas pequeñas que tocan la preforma y la botella a su paso por la máquina a menudo solo se notan durante la instalación, cuando el nuevo molde ya está en planta. Una varilla de estirado o una pinza de cuello equivocada puede detener el arranque."
+          ],
+          "list": [
+            "Piezas que tocan el cuello: toberas de soplado, pinzas de cuello, estrellas de transferencia y guías en el anillo de soporte del cuello.",
+            "Piezas que tocan el cuerpo y la base: carcasas de molde, bases de cierre y portabases.",
+            "Piezas que se mueven dentro de la preforma: varillas de estirado, cuya longitud y punta corresponden a la altura y la base de la botella.",
+            "Piezas después de la sopladora: guías de transportador y estrellas dimensionadas para el nuevo diámetro de botella.",
+            "LIHE suministra toberas de soplado, varillas de estirado, bases de cierre, carcasas de molde y piezas de conversión como estrellas, guías y pinzas de cuello, y puede entregarlas junto con el molde de soplado."
+          ]
+        },
+        {
+          "heading": "Piezas necesarias para cada tipo de cambio: tabla comparativa",
+          "paragraphs": [
+            "La tabla muestra el alcance típico. La lista exacta depende del modelo de máquina y de la botella anterior y la nueva, y se confirma con los planos."
+          ],
+          "table": {
+            "head": ["Cambio", "Molde de soplado", "Lado de la preforma", "Accesorios de la sopladora", "Otras piezas de línea a revisar"],
+            "rows": [
+              ["Cambio de cuello (por ejemplo de PCO 1810 a PCO 1881)", "Puede cambiar la zona del cuello; el cuerpo a menudo se mantiene", "Nueva preforma, nuevo molde de preforma o conversión del cuello", "Toberas de soplado, pinzas de cuello, estrellas y guías en el cuello", "Cabezales de taponado, suministro de tapones, manipulación del cuello en la llenadora"],
+              ["Nueva forma, misma capacidad y cuello", "Nuevo molde o nuevos insertos", "Normalmente sin cambios", "Molde de fondo o base de cierre si cambia la base", "Guías de etiquetadora y transportador si cambia el perfil"],
+              ["Nueva capacidad (por ejemplo de 330 ml a 1,5 L)", "Nuevo juego de moldes", "Nuevo peso y a menudo nueva preforma", "Varillas de estirado para la nueva altura, moldes de fondo y posiblemente carcasas", "Estrellas, guías y piezas de llenadora para el nuevo diámetro y altura"],
+              ["Conversión a otra máquina", "Se reutiliza el molde existente", "Sin cambios", "Piezas de conversión: carcasas o adaptadores, bases de cierre, toberas de soplado y varillas de estirado para la máquina destino", "Interfaz de la máquina, conexiones de refrigeración, receta"],
+              ["Aligeramiento de la misma botella", "El mismo molde o un ajuste menor", "Preforma más ligera (propuestas de LIHE: entre 1 g y 2 g menos)", "Normalmente ninguno; revisar la varilla si cambia la longitud de la preforma", "Normalmente ninguna"]
+            ]
+          }
+        },
+        {
+          "heading": "Cambio de acabado de cuello: qué planificar",
+          "list": [
+            "Definir pronto el nuevo cuello, por ejemplo pasar de PCO 1810 al más corto PCO 1881 (ambos de 28 mm) o a un cuello corto para agua como 2925 o 2622.",
+            "Primero cambia la preforma; la conversión de utillaje de LIHE incluye conversiones de cuello de moldes de preforma existentes, además de moldes de preforma nuevos.",
+            "Las toberas de soplado deben sellar sobre el nuevo cuello; el diámetro y la posición del sellado dependen del acabado.",
+            "Las pinzas de cuello, los alojamientos de las estrellas y las guías que sujetan el anillo de soporte deben corresponder a su nuevo diámetro y altura.",
+            "El suministro de tapones y los cabezales de la taponadora deben estar listos en la misma fecha; un cambio de cuello sin tapones adecuados no puede arrancar."
+          ]
+        },
+        {
+          "heading": "Cambios de forma, de capacidad y conversión a otra máquina: qué planificar",
+          "list": [
+            "Cambio de forma con la misma preforma: el elemento principal es el nuevo molde de soplado o los insertos; revisar el molde de fondo y la base de cierre si cambia el diseño de la base.",
+            "Cambio de capacidad: cambian la altura y el diámetro de la botella, por lo que normalmente también cambian las varillas de estirado, los moldes de fondo y las estrellas y guías posteriores.",
+            "Los productos de llenado en caliente, a unos 85–95°C, necesitan moldes de soplado termofijados; comprobar antes que la máquina dispone de carcasas calefactadas y sus conexiones.",
+            "Conversión a otra máquina: para usar un molde de soplado en otra sopladora cambian las piezas de interfaz, sobre todo carcasas o adaptadores, bases de cierre, toberas de soplado y varillas de estirado.",
+            "Las piezas de repuesto para sopladoras SIDEL, KRONES, KHS y otras pueden fabricarse a partir de sus piezas existentes o planos, lo que ayuda cuando las piezas originales tardan en llegar."
+          ]
+        },
+        {
+          "heading": "Lista de comprobación del cambio de formato antes de pedir",
+          "list": [
+            "Planos de la botella anterior y la nueva, con capacidad, altura, diámetro máximo y diseño de la base.",
+            "Planos de la preforma anterior y la nueva, con acabado de cuello y longitud de la preforma.",
+            "Marca y modelo de la sopladora, número de cavidades y tipo de portamoldes; en una conversión, la máquina de origen y la de destino.",
+            "Fotos o planos de las toberas de soplado, varillas de estirado, bases de cierre y pinzas de cuello actuales.",
+            "Tipo de llenado: sin gas, carbonatado o en caliente.",
+            "Piezas de línea de otros proveedores: piezas de cambio de llenadora, taponadora y etiquetadora.",
+            "Fecha prevista de lanzamiento y fecha de la parada programada de la línea para la instalación."
+          ]
+        },
+        {
+          "heading": "Pasos y calendario para lanzar un nuevo producto en una sopladora existente",
+          "steps": [
+            "Definir el cambio: nuevo cuello, nueva forma, nueva capacidad, aligeramiento, conversión a otra máquina o una combinación.",
+            "Reunir los datos de la lista de comprobación y enviarlos con la solicitud del molde de soplado, para que moldes y accesorios se revisen juntos.",
+            "Acordar la lista de piezas sobre los planos: molde de soplado, cambios en la preforma o su molde, y cada accesorio con su cantidad por cavidad.",
+            "Pedir en paralelo los tapones y las piezas de cambio de llenadora, taponadora y etiquetadora a sus proveedores.",
+            "Fabricar el molde de soplado y los accesorios; el centro de ingeniería de LIHE usa CAD/CAM, simulación 3D y análisis de flujo, y la inspección se realiza en el laboratorio CMM Zeiss propio de LIHE.",
+            "Enviar el molde de soplado y los accesorios en una sola entrega, embalados y marcados por estación de máquina.",
+            "Instalar durante la parada programada, soplar botellas de muestra, revisarlas y pasar la nueva botella por llenadora, taponadora y etiquetadora antes de la producción completa."
+          ]
+        },
+        {
+          "heading": "Errores frecuentes en los proyectos de cambio de formato",
+          "list": [
+            "Pedir el molde de soplado antes de fijar la preforma y descubrir después que la longitud de la varilla de estirado o las piezas de cuello no coinciden.",
+            "Olvidar que el número de cavidades implica un juego de piezas por cavidad: se necesitan toberas, varillas de estirado y bases de cierre para cada estación.",
+            "Suponer que un molde de una marca de máquina sirve en otra sin piezas de conversión.",
+            "Dejar fuera del plan las estrellas y guías del transportador para el nuevo diámetro de botella.",
+            "No tener toberas ni varillas de estirado de repuesto para el nuevo formato, de modo que una sola pieza dañada detiene una estación."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Se pueden pedir accesorios sin un molde de soplado nuevo?",
+          "answer": "Sí. Los accesorios y las piezas de conversión pueden pedirse por separado, por ejemplo para usar un molde existente en otra máquina, sustituir piezas desgastadas o adaptar la línea a una nueva preforma. Las piezas de repuesto de máquina pueden fabricarse a partir de sus piezas existentes o planos."
+        },
+        {
+          "question": "¿Qué se necesita para usar mi molde de soplado actual en otra sopladora?",
+          "answer": "Normalmente piezas de conversión para la máquina destino: carcasas o adaptadores, bases de cierre, toberas de soplado y varillas de estirado. Envíe los planos del molde y los modelos de la máquina de origen y de destino para comprobar la interfaz."
+        },
+        {
+          "question": "¿Un cambio de cuello exige siempre un molde de soplado nuevo?",
+          "answer": "No siempre. El cuerpo de la botella puede mantenerse, pero la preforma cambia y las piezas relacionadas con el cuello, como toberas de soplado, pinzas y guías de cuello, deben corresponder al nuevo acabado. Si la zona del cuello del molde necesita cambios se comprueba con los planos."
+        },
+        {
+          "question": "¿Para qué máquinas se fabrican los accesorios?",
+          "answer": "Las piezas de repuesto se fabrican para sopladoras SIDEL, KRONES, KHS y otras a partir de sus piezas existentes o planos. Los moldes de soplado y sus accesorios cubren máquinas de dos etapas SIDEL, KRONES, SIG/KHS, TECH-LONG y NEWAMSTAR y de una etapa SIPA, ASB y AOKI."
+        },
+        {
+          "question": "¿Por qué entregar los accesorios junto con el molde de soplado?",
+          "answer": "Porque el arranque necesita todas las piezas al mismo tiempo. Una sola entrega, revisada contra una sola lista de piezas, evita esperar una varilla de estirado o una pinza de cuello que falte cuando el nuevo molde ya ha llegado."
+        }
+      ]
+    }
+  }
+}

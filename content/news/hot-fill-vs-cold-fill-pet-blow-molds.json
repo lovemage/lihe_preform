@@ -13,7 +13,28 @@
     "detail": "/images/news/hot-fill-vs-cold-fill-pet-blow-molds-detail.webp",
     "og": "/images/news/hot-fill-vs-cold-fill-pet-blow-molds-hero-og.jpg"
   },
-  "sources": [],
+  "sources": [
+    {
+      "label": "Wikipedia — Blow molding",
+      "url": "https://en.wikipedia.org/wiki/Blow_molding"
+    },
+    {
+      "label": "Wikipedia — Polyethylene terephthalate",
+      "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate"
+    },
+    {
+      "label": "Wikipedia — Glass transition",
+      "url": "https://en.wikipedia.org/wiki/Glass_transition"
+    },
+    {
+      "label": "KHS — official website",
+      "url": "https://www.khs.com/en/"
+    },
+    {
+      "label": "Sidel — official website",
+      "url": "https://www.sidel.com/en"
+    }
+  ],
   "locales": {
     "en": {
       "category": "Technical Insights",
@@ -27,6 +48,18 @@
           "paragraphs": [
             "A cold fill blow mold produces PET bottles that are filled at ambient temperature, such as still water, carbonated soft drinks (CSD), juice and dairy. A hot fill (heat-set) blow mold produces bottles that are filled hot, at around 85–95°C, for products such as juice, tea drinks and isotonic beverages.",
             "The difference matters because standard PET bottles start to deform above about 60°C. A hot fill mold uses heated mold walls to crystallize and stabilize the bottle during blowing, so it keeps its shape when hot product goes in."
+          ]
+        },
+        {
+          "heading": "Key terms used in this guide",
+          "list": [
+            "Cold fill: the beverage is filled at ambient or chilled temperature, so the bottle never has to withstand hot product.",
+            "Hot fill: the beverage is filled hot, at about 85–95°C, so the heat of the product helps keep the bottle and closure free of microorganisms.",
+            "Heat-set: a blow molding process in which the bottle is formed against heated mold walls, which raises crystallinity and relieves stretch-induced stress so the bottle tolerates hot product.",
+            "Vacuum panels: flexible areas in the bottle wall or base that move inward as the hot product cools and contracts, so the rest of the bottle keeps its shape.",
+            "Aseptic filling: the product and the bottle are sterilized separately and filled in a sterile environment, usually at ambient temperature.",
+            "Two-step (reheat) blow molding: preforms are injection molded first, then reheated and stretch blow molded on a separate machine such as a SIDEL, KRONES or KHS blower.",
+            "One-step blow molding: the preform is injection molded and blown on the same machine, as on SIPA, ASB or AOKI systems."
           ]
         },
         {
@@ -82,9 +115,56 @@
           ]
         },
         {
+          "heading": "How the heat-set blowing cycle works",
+          "paragraphs": [
+            "The heat-set cycle follows the same basic stretch blow molding sequence as cold fill, with extra steps to stabilize the PET. The exact temperatures and timings are set by the machine maker and the bottle design, so treat the sequence below as a description, not as process settings."
+          ],
+          "steps": [
+            "The preform is reheated above the glass transition temperature of PET so that it can be stretched.",
+            "A stretch rod pushes the preform down while blowing air expands it against the cavity walls of the mold shells and base mold.",
+            "Instead of cooling the bottle at once, the heated mold walls hold the PET at an elevated temperature, which raises crystallinity and relaxes stress from stretching.",
+            "The bottle is cooled before it leaves the mold, typically by flushing air through its interior, so it keeps the shape of the cavity when released.",
+            "On the filling line the bottle is filled hot, capped and cooled; the vacuum panels absorb the volume change as the product contracts."
+          ]
+        },
+        {
           "heading": "Where a cold fill mold saves cost",
           "paragraphs": [
             "Cold fill bottles do not need the heat-set structure, so the design work focuses on using less PET. Bottle geometry and base design are matched to the preform for even wall thickness at reduced bottle weight, and integrated cooling channels keep bottle quality stable at production speed. For producers with many bottle formats, a split-type quick-change mold lets you swap only the cavity inserts and base instead of the whole mold set."
+          ]
+        },
+        {
+          "heading": "Aseptic filling: the third option",
+          "paragraphs": [
+            "Aseptic lines sterilize the product and the container separately and fill in a sterile zone, usually at ambient temperature. Because the bottle does not see hot product, it does not need a heat-set structure, and its design is closer to a cold fill bottle. LIHE builds blow molds for cold fill, hot fill and aseptic applications, so the filling method of the line, not the beverage alone, decides which mold you need."
+          ],
+          "list": [
+            "Choose cold fill for water, CSD and other products that do not need heat treatment in the bottle.",
+            "Choose hot fill when the product is filled hot at about 85–95°C, for example many juices, tea drinks and isotonic beverages.",
+            "Choose an aseptic mold when your filling line uses aseptic technology for sensitive products filled at ambient temperature."
+          ]
+        },
+        {
+          "heading": "Common problems and what usually causes them",
+          "list": [
+            "Paneling or ovalization after hot filling: the bottle design, vacuum panels or heat-set conditions do not match the filling temperature.",
+            "Shrinkage and volume loss in hot fill bottles: insufficient heat-set stabilization, so the bottle relaxes when hot product goes in.",
+            "Deformed or loose neck finish on hot fill bottles: the neck finish is not suited to hot product; some hot fill bottles use a crystallized (opaque white) neck finish for this reason.",
+            "Uneven wall thickness in cold fill bottles: the preform design and the bottle geometry are not matched, or the preform heating profile is not balanced.",
+            "Pearlescence (white haze) in the bottle wall: the PET has been stretched too far or at too low a temperature.",
+            "Incomplete details, such as soft logos or a poorly formed base: blocked or insufficient venting in the mold shells or base mold.",
+            "Stress cracking in carbonated bottle bases: base geometry and material distribution do not suit the internal pressure of the product."
+          ]
+        },
+        {
+          "heading": "Maintenance considerations for hot fill and cold fill molds",
+          "list": [
+            "Cold fill molds: keep cooling water clean and treated, because scale or corrosion in the channels reduces cooling and makes bottle quality drift.",
+            "Hot fill molds: check hot oil connections, seals and hoses regularly, and keep separate temperature control of the body and base working as designed.",
+            "Both types: clean venting slots and holes, because blocked vents cause incomplete forming and visible marks on the bottle.",
+            "Both types: protect polished cavity surfaces during cleaning and storage; scratches transfer directly to the bottle surface.",
+            "Keep spare base molds and cavity inserts for high-volume formats, so a damaged part does not stop the line.",
+            "Record mold temperature settings and bottle quality checks for each format, so a mold can be restarted quickly after a changeover."
           ]
         },
         {
@@ -94,7 +174,22 @@
             "Blow molding machine brand, model and mold carrier type (for example KHS InnoPET Blomax or Krones Contiform).",
             "Bottle drawing or sample, capacity and target bottle weight.",
             "Preform specification and neck finish, or ask us to match the preform to the bottle.",
-            "Whether you need a complete set (mold shells, base molds and neck plates) or only cavity inserts."
+            "Whether you need a complete set (mold shells, base molds and neck plates) or only cavity inserts.",
+            "Expected output and number of cavities on the blow molder, so mold shells and base molds are planned for the full set.",
+            "Any special requirements, such as a crystallized neck finish for hot fill, a quick-change mold design or rPET material trials."
+          ]
+        },
+        {
+          "heading": "LIHE blow mold capabilities relevant to this choice",
+          "list": [
+            "Two-step blow molds for SIDEL, KRONES, SIG/KHS, TECH-LONG and NEWAMSTAR machines, and one-step blow molds for SIPA, ASB and AOKI machines.",
+            "Cold fill, hot fill (about 85–95°C) and aseptic blow molds.",
+            "Cold fill mold sets for KHS InnoPET Blomax and Krones Contiform stretch blow molders.",
+            "Split-type quick-change molds that let you change only cavity inserts and base molds between formats.",
+            "Water bottle molds for common sizes such as 330ml, 500ml, 550ml and 1.5L.",
+            "Preform lightweighting proposals that reduce preform weight by 1g to 2g through neck or wall-thickness optimization.",
+            "Inspection on an in-house Zeiss CMM, with validation and inspection reports available on request.",
+            "Published lead times: pilot molds 20 days, standard PET molds 8 weeks, replacement parts 4 weeks."
           ]
         }
       ],
@@ -110,6 +205,18 @@
         {
           "question": "Does LIHE help with bottle design?",
           "answer": "Yes. Bottle design, preform matching, lightweighting and wall thickness optimization are part of LIHE's blow mold development."
+        },
+        {
+          "question": "Why do hot fill bottles have vacuum panels?",
+          "answer": "When a hot product cools inside a closed bottle, its volume shrinks and the pressure inside drops. Vacuum panels are designed to flex inward in a controlled way, so the bottle keeps an even shape instead of collapsing or denting at random points."
+        },
+        {
+          "question": "Is aseptic filling the same as hot filling?",
+          "answer": "No. Aseptic filling sterilizes the product and the bottle separately and fills in a sterile environment, usually at ambient temperature. Hot filling uses the heat of the product, at about 85–95°C, and therefore needs a heat-set bottle."
+        },
+        {
+          "question": "How long does a new blow mold take?",
+          "answer": "LIHE's published lead times are 20 days for pilot molds, 8 weeks for standard PET molds and 4 weeks for replacement parts. The exact schedule for your project is confirmed in the quotation."
         }
       ]
     },
@@ -125,6 +232,18 @@
           "paragraphs": [
             "Форма для холодного розлива выпускает ПЭТ-бутылки, которые наполняются при температуре окружающей среды: негазированная вода, газированные напитки (CSD), соки и молочные продукты. Форма для горячего розлива (heat-set) выпускает бутылки, которые наполняются горячим продуктом при температуре около 85–95°C: соки, чайные напитки, изотоники.",
             "Разница принципиальна: стандартная ПЭТ-бутылка начинает деформироваться при температуре выше примерно 60°C. В форме для горячего розлива нагретые стенки кристаллизуют и стабилизируют бутылку при выдуве, поэтому она сохраняет форму при наполнении горячим продуктом."
+          ]
+        },
+        {
+          "heading": "Основные термины",
+          "list": [
+            "Холодный розлив: напиток разливается при температуре окружающей среды или охлаждённым, поэтому бутылка не контактирует с горячим продуктом.",
+            "Горячий розлив: напиток разливается горячим, при температуре около 85–95°C, и тепло продукта помогает защитить бутылку и колпачок от микроорганизмов.",
+            "Термофиксация (heat-set): процесс выдува, при котором бутылка формуется на нагретых стенках формы; это повышает кристалличность и снимает напряжения от вытяжки, поэтому бутылка выдерживает горячий продукт.",
+            "Вакуумные панели: гибкие участки стенки или дна бутылки, которые прогибаются внутрь при остывании и сжатии горячего продукта, чтобы остальная часть бутылки сохраняла форму.",
+            "Асептический розлив: продукт и бутылка стерилизуются отдельно, а розлив выполняется в стерильной зоне, как правило, при температуре окружающей среды.",
+            "Двухстадийный выдув (с повторным нагревом): сначала преформы отливаются на литьевой машине, затем их нагревают и выдувают на отдельной выдувной машине, например SIDEL, KRONES или KHS.",
+            "Одностадийный выдув: преформа отливается и выдувается на одной машине, как в системах SIPA, ASB или AOKI."
           ]
         },
         {
@@ -180,9 +299,56 @@
           ]
         },
         {
+          "heading": "Как проходит цикл выдува с термофиксацией",
+          "paragraphs": [
+            "Цикл с термофиксацией повторяет базовую последовательность выдува с вытяжкой, как при холодном розливе, но включает дополнительные этапы для стабилизации ПЭТ. Конкретные температуры и время задаются производителем машины и конструкцией бутылки, поэтому приведённая ниже последовательность — это описание процесса, а не технологические настройки."
+          ],
+          "steps": [
+            "Преформа нагревается выше температуры стеклования ПЭТ, чтобы её можно было вытягивать.",
+            "Вытяжной шток продвигает преформу вниз, а воздух выдува раздувает её до стенок гнезда в полуформах и донной форме.",
+            "Вместо немедленного охлаждения нагретые стенки формы удерживают ПЭТ при повышенной температуре, что повышает кристалличность и снимает напряжения от вытяжки.",
+            "Перед извлечением из формы бутылку охлаждают, как правило продувкой воздуха через её внутренний объём, чтобы она сохранила форму гнезда.",
+            "На линии розлива бутылку наполняют горячим продуктом, укупоривают и охлаждают; вакуумные панели компенсируют изменение объёма при сжатии продукта."
+          ]
+        },
+        {
           "heading": "Где форма для холодного розлива экономит затраты",
           "paragraphs": [
             "Бутылкам для холодного розлива не нужна термофиксация, поэтому конструкция ориентирована на снижение расхода ПЭТ. Геометрия бутылки и дна согласуется с преформой для равномерной толщины стенки при меньшем весе, а встроенные каналы охлаждения обеспечивают стабильное качество на производственной скорости. Производителям с большим числом форматов разъёмная быстросменная форма позволяет менять только вставки гнезда и донышко, а не весь комплект."
+          ]
+        },
+        {
+          "heading": "Асептический розлив: третий вариант",
+          "paragraphs": [
+            "На асептических линиях продукт и тара стерилизуются отдельно, а розлив выполняется в стерильной зоне, как правило при температуре окружающей среды. Поскольку бутылка не контактирует с горячим продуктом, ей не нужна структура термофиксации, и её конструкция ближе к бутылке для холодного розлива. LIHE изготавливает выдувные формы для холодного, горячего и асептического розлива, поэтому выбор формы определяется способом розлива на линии, а не только видом напитка."
+          ],
+          "list": [
+            "Холодный розлив подходит для воды, газированных напитков и других продуктов, которым не нужна термообработка в бутылке.",
+            "Горячий розлив нужен, когда продукт разливается горячим при температуре около 85–95°C, например многие соки, чайные напитки и изотоники.",
+            "Асептическая форма нужна, если линия использует асептическую технологию для чувствительных продуктов, разливаемых при температуре окружающей среды."
+          ]
+        },
+        {
+          "heading": "Типичные дефекты и их обычные причины",
+          "list": [
+            "Деформация панелей или овализация после горячего розлива: конструкция бутылки, вакуумные панели или условия термофиксации не соответствуют температуре розлива.",
+            "Усадка и потеря объёма бутылок для горячего розлива: недостаточная термостабилизация, из-за которой бутылка «садится» при наполнении горячим продуктом.",
+            "Деформированное или неплотное горлышко бутылки для горячего розлива: горловина не рассчитана на горячий продукт; по этой причине в некоторых бутылках для горячего розлива применяется кристаллизованная (непрозрачная белая) горловина.",
+            "Неравномерная толщина стенки бутылок для холодного розлива: конструкция преформы и геометрия бутылки не согласованы или профиль нагрева преформы не сбалансирован.",
+            "Перламутровость (белёсая дымка) в стенке бутылки: ПЭТ вытянут слишком сильно или при слишком низкой температуре.",
+            "Неполная проработка деталей, например нечёткие логотипы или плохо сформированное дно: засорённые или недостаточные вентиляционные каналы в полуформах или донной форме.",
+            "Растрескивание под напряжением в днище бутылок для газированных напитков: геометрия дна и распределение материала не соответствуют внутреннему давлению продукта."
+          ]
+        },
+        {
+          "heading": "Обслуживание форм для горячего и холодного розлива",
+          "list": [
+            "Формы для холодного розлива: поддерживайте охлаждающую воду чистой и подготовленной, так как накипь или коррозия в каналах снижают охлаждение и ухудшают стабильность качества бутылок.",
+            "Формы для горячего розлива: регулярно проверяйте подключения масляного контура, уплотнения и шланги и следите, чтобы раздельное термостатирование корпуса и дна работало так, как задумано.",
+            "Оба типа: очищайте вентиляционные щели и отверстия, так как засорённые каналы приводят к неполному формованию и видимым следам на бутылке.",
+            "Оба типа: берегите полированные поверхности гнёзд при чистке и хранении; царапины напрямую переносятся на поверхность бутылки.",
+            "Держите запасные донные формы и вставки гнёзд для высокообъёмных форматов, чтобы повреждённая деталь не останавливала линию.",
+            "Записывайте настройки температуры формы и результаты контроля бутылок для каждого формата, чтобы быстро перезапускать форму после переналадки."
           ]
         },
         {
@@ -192,7 +358,22 @@
             "Марка и модель выдувной машины, тип формодержателя (например, KHS InnoPET Blomax или Krones Contiform).",
             "Чертёж или образец бутылки, объём и целевой вес бутылки.",
             "Спецификация преформы и горловины — или поручите нам подобрать преформу под бутылку.",
-            "Нужен ли полный комплект (полуформы, донышки и шейные плиты) или только вставки гнезда."
+            "Нужен ли полный комплект (полуформы, донышки и шейные плиты) или только вставки гнезда.",
+            "Требуемую производительность и количество гнёзд выдувной машины, чтобы полуформы и донные формы были запланированы на весь комплект.",
+            "Особые требования, например кристаллизованную горловину для горячего розлива, быстросменную конструкцию формы или испытания с rPET."
+          ]
+        },
+        {
+          "heading": "Возможности LIHE в области выдувных форм",
+          "list": [
+            "Выдувные формы для двухстадийных машин SIDEL, KRONES, SIG/KHS, TECH-LONG и NEWAMSTAR и для одностадийных машин SIPA, ASB и AOKI.",
+            "Выдувные формы для холодного розлива, горячего розлива (около 85–95°C) и асептического розлива.",
+            "Комплекты форм для холодного розлива для выдувных машин KHS InnoPET Blomax и Krones Contiform.",
+            "Разъёмные быстросменные формы, позволяющие при смене формата менять только вставки гнёзд и донные формы.",
+            "Формы для бутылок для воды распространённых объёмов: 330 мл, 500 мл, 550 мл и 1,5 л.",
+            "Предложения по облегчению преформ, снижающие их массу на 1–2 г за счёт оптимизации горловины или толщины стенки.",
+            "Контроль на собственной КИМ Zeiss; отчёты о валидации и контроле предоставляются по запросу.",
+            "Опубликованные сроки изготовления: пилотные формы — 20 дней, стандартные формы для ПЭТ — 8 недель, запасные части — 4 недели."
           ]
         }
       ],
@@ -208,6 +389,18 @@
         {
           "question": "Помогает ли LIHE с дизайном бутылки?",
           "answer": "Да. Дизайн бутылки, подбор преформы, облегчение и оптимизация толщины стенки входят в разработку выдувной формы LIHE."
+        },
+        {
+          "question": "Зачем бутылкам для горячего розлива вакуумные панели?",
+          "answer": "Когда горячий продукт остывает в закрытой бутылке, его объём уменьшается и давление внутри падает. Вакуумные панели рассчитаны на контролируемый прогиб внутрь, поэтому бутылка сохраняет ровную форму, а не сминается или вдавливается в случайных местах."
+        },
+        {
+          "question": "Асептический розлив — это то же самое, что горячий розлив?",
+          "answer": "Нет. При асептическом розливе продукт и бутылка стерилизуются отдельно, а розлив выполняется в стерильной зоне, как правило при температуре окружающей среды. Горячий розлив использует тепло самого продукта, около 85–95°C, и поэтому требует бутылки с термофиксацией."
+        },
+        {
+          "question": "Сколько времени занимает изготовление новой выдувной формы?",
+          "answer": "Опубликованные сроки LIHE: 20 дней для пилотных форм, 8 недель для стандартных форм для ПЭТ и 4 недели для запасных частей. Точный график для вашего проекта подтверждается в коммерческом предложении."
         }
       ]
     },
@@ -223,6 +416,18 @@
           "paragraphs": [
             "Un molde para llenado en frío produce botellas PET que se llenan a temperatura ambiente, como agua sin gas, bebidas carbonatadas (CSD), jugos y lácteos. Un molde para llenado en caliente (heat-set) produce botellas que se llenan en caliente, a unos 85–95°C, para productos como jugos, bebidas de té e isotónicas.",
             "La diferencia es importante porque una botella PET estándar empieza a deformarse por encima de unos 60°C. Un molde para llenado en caliente usa paredes calefactadas que cristalizan y estabilizan la botella durante el soplado, de modo que conserva su forma al recibir el producto caliente."
+          ]
+        },
+        {
+          "heading": "Términos clave de esta guía",
+          "list": [
+            "Llenado en frío: la bebida se envasa a temperatura ambiente o refrigerada, por lo que la botella nunca tiene que soportar producto caliente.",
+            "Llenado en caliente: la bebida se envasa caliente, a unos 85–95°C, de modo que el calor del producto ayuda a mantener la botella y la tapa libres de microorganismos.",
+            "Termofijado (heat-set): proceso de soplado en el que la botella se forma contra paredes de molde calientes, lo que aumenta la cristalinidad y alivia las tensiones del estirado para que la botella tolere el producto caliente.",
+            "Paneles de vacío: zonas flexibles de la pared o la base de la botella que se desplazan hacia dentro cuando el producto caliente se enfría y se contrae, para que el resto de la botella conserve su forma.",
+            "Llenado aséptico: el producto y la botella se esterilizan por separado y se llenan en un entorno estéril, normalmente a temperatura ambiente.",
+            "Soplado en dos etapas (recalentamiento): primero se inyectan las preformas y después se recalientan y se soplan con estirado en otra máquina, como una sopladora SIDEL, KRONES o KHS.",
+            "Soplado en una etapa: la preforma se inyecta y se sopla en la misma máquina, como en los sistemas SIPA, ASB o AOKI."
           ]
         },
         {
@@ -278,9 +483,56 @@
           ]
         },
         {
+          "heading": "Cómo funciona el ciclo de soplado con termofijado",
+          "paragraphs": [
+            "El ciclo con termofijado sigue la misma secuencia básica de soplado con estirado que el llenado en frío, con pasos adicionales para estabilizar el PET. Las temperaturas y los tiempos exactos los fijan el fabricante de la máquina y el diseño de la botella, así que la secuencia siguiente es una descripción del proceso, no una lista de parámetros."
+          ],
+          "steps": [
+            "La preforma se recalienta por encima de la temperatura de transición vítrea del PET para que pueda estirarse.",
+            "Una varilla de estirado empuja la preforma hacia abajo mientras el aire de soplado la expande contra las paredes de la cavidad de las carcasas y del molde de fondo.",
+            "En lugar de enfriar la botella de inmediato, las paredes calientes del molde mantienen el PET a temperatura elevada, lo que aumenta la cristalinidad y relaja las tensiones del estirado.",
+            "La botella se enfría antes de salir del molde, normalmente haciendo circular aire por su interior, para que conserve la forma de la cavidad al liberarse.",
+            "En la línea de llenado la botella se llena en caliente, se tapa y se enfría; los paneles de vacío absorben el cambio de volumen cuando el producto se contrae."
+          ]
+        },
+        {
           "heading": "Dónde ahorra costos un molde para llenado en frío",
           "paragraphs": [
             "Las botellas para llenado en frío no necesitan estructura termofijada, por lo que el diseño se centra en usar menos PET. La geometría de la botella y del fondo se ajusta a la preforma para lograr un espesor de pared uniforme con menor peso, y los canales de refrigeración integrados mantienen estable la calidad a velocidad de producción. Para productores con muchos formatos, un molde de cambio rápido tipo split permite cambiar solo los insertos de cavidad y el fondo en lugar del juego completo."
+          ]
+        },
+        {
+          "heading": "Llenado aséptico: la tercera opción",
+          "paragraphs": [
+            "Las líneas asépticas esterilizan el producto y el envase por separado y llenan en una zona estéril, normalmente a temperatura ambiente. Como la botella no recibe producto caliente, no necesita estructura termofijada y su diseño se parece más al de una botella de llenado en frío. LIHE fabrica moldes de soplado para llenado en frío, en caliente y aséptico, por lo que el método de llenado de la línea, y no solo la bebida, decide qué molde necesita."
+          ],
+          "list": [
+            "Elija llenado en frío para agua, refrescos carbonatados y otros productos que no necesitan tratamiento térmico en la botella.",
+            "Elija llenado en caliente cuando el producto se envasa caliente a unos 85–95°C, como muchos zumos, bebidas de té e isotónicas.",
+            "Elija un molde aséptico cuando su línea de llenado use tecnología aséptica para productos sensibles envasados a temperatura ambiente."
+          ]
+        },
+        {
+          "heading": "Problemas habituales y sus causas más frecuentes",
+          "list": [
+            "Deformación de paneles u ovalización tras el llenado en caliente: el diseño de la botella, los paneles de vacío o las condiciones de termofijado no corresponden a la temperatura de llenado.",
+            "Contracción y pérdida de volumen en botellas de llenado en caliente: estabilización térmica insuficiente, por lo que la botella se relaja al recibir el producto caliente.",
+            "Cuello deformado o con cierre deficiente en botellas de llenado en caliente: el acabado de cuello no es adecuado para producto caliente; por eso algunas botellas de llenado en caliente usan un cuello cristalizado (blanco opaco).",
+            "Espesor de pared irregular en botellas de llenado en frío: el diseño de la preforma y la geometría de la botella no están coordinados, o el perfil de calentamiento de la preforma no está equilibrado.",
+            "Nacarado (velo blanco) en la pared de la botella: el PET se ha estirado demasiado o a una temperatura demasiado baja.",
+            "Detalles incompletos, como logotipos poco marcados o una base mal formada: venteo obstruido o insuficiente en las carcasas o el molde de fondo.",
+            "Agrietamiento por tensión en bases de botellas carbonatadas: la geometría de la base y la distribución del material no corresponden a la presión interna del producto."
+          ]
+        },
+        {
+          "heading": "Mantenimiento de moldes para llenado en caliente y en frío",
+          "list": [
+            "Moldes de llenado en frío: mantenga el agua de refrigeración limpia y tratada, porque la cal o la corrosión en los canales reducen la refrigeración y hacen variar la calidad de la botella.",
+            "Moldes de llenado en caliente: revise con regularidad las conexiones de aceite caliente, las juntas y las mangueras, y mantenga el control de temperatura separado del cuerpo y de la base funcionando según el diseño.",
+            "Ambos tipos: limpie las ranuras y los orificios de venteo, porque un venteo obstruido provoca un formado incompleto y marcas visibles en la botella.",
+            "Ambos tipos: proteja las superficies pulidas de la cavidad durante la limpieza y el almacenamiento; los arañazos se transfieren directamente a la superficie de la botella.",
+            "Tenga moldes de fondo e insertos de cavidad de repuesto para los formatos de gran volumen, para que una pieza dañada no detenga la línea.",
+            "Registre los ajustes de temperatura del molde y los controles de calidad de la botella de cada formato, para poder reiniciar el molde rápidamente después de un cambio."
           ]
         },
         {
@@ -290,7 +542,22 @@
             "Marca y modelo de la sopladora y tipo de portamoldes (por ejemplo, KHS InnoPET Blomax o Krones Contiform).",
             "Plano o muestra de la botella, capacidad y peso objetivo.",
             "Especificación de la preforma y del cuello, o pídanos ajustar la preforma a la botella.",
-            "Si necesita el juego completo (carcasas, fondos y placas de cuello) o solo insertos de cavidad."
+            "Si necesita el juego completo (carcasas, fondos y placas de cuello) o solo insertos de cavidad.",
+            "Producción prevista y número de cavidades de la sopladora, para planificar carcasas y moldes de fondo para el juego completo.",
+            "Requisitos especiales, como un cuello cristalizado para llenado en caliente, un diseño de molde de cambio rápido o pruebas con rPET."
+          ]
+        },
+        {
+          "heading": "Capacidades de LIHE en moldes de soplado",
+          "list": [
+            "Moldes de soplado de dos etapas para máquinas SIDEL, KRONES, SIG/KHS, TECH-LONG y NEWAMSTAR, y moldes de una etapa para máquinas SIPA, ASB y AOKI.",
+            "Moldes de soplado para llenado en frío, llenado en caliente (unos 85–95°C) y llenado aséptico.",
+            "Juegos de moldes de llenado en frío para sopladoras KHS InnoPET Blomax y Krones Contiform.",
+            "Moldes partidos de cambio rápido que permiten cambiar solo los insertos de cavidad y los moldes de fondo entre formatos.",
+            "Moldes para botellas de agua en tamaños habituales como 330 ml, 500 ml, 550 ml y 1,5 L.",
+            "Propuestas de aligeramiento que reducen el peso de la preforma entre 1 g y 2 g mediante la optimización del cuello o del espesor de pared.",
+            "Inspección en una MMC Zeiss propia, con informes de validación e inspección disponibles bajo solicitud.",
+            "Plazos publicados: moldes piloto 20 días, moldes PET estándar 8 semanas, piezas de repuesto 4 semanas."
           ]
         }
       ],
@@ -306,6 +573,18 @@
         {
           "question": "¿LIHE ayuda con el diseño de la botella?",
           "answer": "Sí. El diseño de la botella, el ajuste de la preforma, el aligeramiento y la optimización del espesor de pared forman parte del desarrollo de moldes de soplado de LIHE."
+        },
+        {
+          "question": "¿Por qué las botellas de llenado en caliente tienen paneles de vacío?",
+          "answer": "Cuando un producto caliente se enfría dentro de una botella cerrada, su volumen disminuye y la presión interior baja. Los paneles de vacío están diseñados para ceder hacia dentro de forma controlada, de modo que la botella mantiene una forma regular en lugar de hundirse o abollarse en puntos al azar."
+        },
+        {
+          "question": "¿El llenado aséptico es lo mismo que el llenado en caliente?",
+          "answer": "No. El llenado aséptico esteriliza el producto y la botella por separado y llena en un entorno estéril, normalmente a temperatura ambiente. El llenado en caliente aprovecha el calor del producto, a unos 85–95°C, y por eso necesita una botella termofijada."
+        },
+        {
+          "question": "¿Cuánto tarda un molde de soplado nuevo?",
+          "answer": "Los plazos publicados por LIHE son 20 días para moldes piloto, 8 semanas para moldes PET estándar y 4 semanas para piezas de repuesto. El calendario exacto de su proyecto se confirma en la cotización."
         }
       ]
     }

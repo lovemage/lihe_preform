@@ -1,0 +1,462 @@
+{
+  "slug": "moving-pet-bottle-line-to-100-percent-rpet",
+  "questionId": "q116",
+  "date": "2026-10-13",
+  "relatedProducts": [19, 27, 22],
+  "images": {
+    "hero": "/images/news/moving-pet-bottle-line-to-100-percent-rpet-hero.webp",
+    "detail": "/images/news/moving-pet-bottle-line-to-100-percent-rpet-detail.webp",
+    "og": "/images/news/moving-pet-bottle-line-to-100-percent-rpet-hero-og.jpg"
+  },
+  "sources": [
+    { "label": "Wikipedia — PET bottle recycling", "url": "https://en.wikipedia.org/wiki/PET_bottle_recycling" },
+    { "label": "Wikipedia — Polyethylene terephthalate", "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate" },
+    { "label": "Wikipedia — Intrinsic viscosity", "url": "https://en.wikipedia.org/wiki/Intrinsic_viscosity" },
+    { "label": "Wikipedia — Acetaldehyde", "url": "https://en.wikipedia.org/wiki/Acetaldehyde" },
+    { "label": "Wikipedia — Hot runner", "url": "https://en.wikipedia.org/wiki/Hot_runner" },
+    { "label": "U.S. FDA — Recycled Plastics in Food Packaging", "url": "https://www.fda.gov/food/packaging-food-contact-substances-fcs/recycled-plastics-food-packaging" }
+  ],
+  "locales": {
+    "en": {
+      "category": "Technical Insights",
+      "title": "We're Moving a PET Bottle Line to 100% rPET—What Mold and Hot Runner Changes Do We Need?",
+      "summary": "A practical guide for plant engineers converting a PET preform and bottle line to 100% rPET: which preform mold, hot runner and cooling changes to check, how to run the conversion step by step, and how to fix the defects that typically appear.",
+      "heroAlt": "Multi-cavity PET preform injection mold in a machine with a bin of recycled PET flakes in the foreground",
+      "detailAlt": "Polished hot runner manifold with valve gate nozzles and heater bands on a workshop bench",
+      "sections": [
+        {
+          "heading": "What mold and hot runner changes does a 100% rPET line need?",
+          "paragraphs": [
+            "rPET (recycled polyethylene terephthalate) is PET recovered from used bottles and reprocessed into food-grade flakes or pellets that can replace virgin resin. In most conversions the preform mold steel and cavity layout can stay as they are; the changes concentrate on the hot runner (nozzle tips, valve pins, seals, heaters and temperature balance), on venting and cooling in the mold, and on drying and material handling in front of the machine.",
+            "The reason is that 100% rPET behaves less uniformly than virgin PET: intrinsic viscosity (IV) varies from lot to lot, the material is more sensitive to moisture and heat history, and it carries more volatiles and fine contaminants. A mold and hot runner that run well on virgin resin can show black specks, haze, gate defects and weight variation once rPET reaches 100%."
+          ]
+        },
+        {
+          "heading": "Key numbers for planning an rPET conversion",
+          "list": [
+            "Preform molds can be specified from 2 to 160 cavities; the conversion approach is the same, but every extra cavity adds a hot runner drop to balance.",
+            "LIHE valve gate hot runners are available for up to 144 preform cavities, with a 3-year leakage-proof guarantee on the Husky Ultra-type design.",
+            "Optimized mold cooling can reduce neck cooling time by up to 0.5 s, which helps recover cycle time if rPET forces a cooler, slower process.",
+            "Lightweighting proposals reduce preform weight by 1 g to 2 g; with rPET, confirm stretch behaviour before taking weight out.",
+            "Published lead times: replacement parts 4 weeks, pilot molds 20 days, standard PET molds 8 weeks."
+          ]
+        },
+        {
+          "heading": "What changes when the resin becomes 100% rPET",
+          "list": [
+            "IV variation: recycled flake and pellet lots differ in IV, so melt viscosity, fill balance and preform weight move between lots.",
+            "Moisture sensitivity: wet PET hydrolyses in the barrel and hot runner, which lowers IV and weakens the finished bottle.",
+            "Heat history: rPET has already been melted at least once, so extra residence time in the manifold raises acetaldehyde (AA) and yellowing.",
+            "Volatiles and fines: more gas and dust in the melt means faster vent fouling and deposits on cavity and core surfaces.",
+            "Contaminants: gels, specks and foreign particles that pass the recycler's filtration can partially block nozzle tips and gates.",
+            "Colour: rPET usually has a slight tint; haze or yellowness from the process is easier to see than with virgin resin."
+          ]
+        },
+        {
+          "heading": "What to prepare before you convert",
+          "list": [
+            "The rPET specification from your supplier: IV range, moisture on delivery, contamination limits and the food-contact approval of the recycling process (for example an FDA no-objection letter in the U.S.).",
+            "Baseline data from the current virgin line: cycle time, reject rate per cavity, preform weight per cavity, AA level and IV drop from pellet to preform.",
+            "A capacity check of the dryer and material conveying system, because rPET flake has a different bulk density and drying response than virgin pellets.",
+            "A condition audit of the hot runner: heater and thermocouple readings per zone, nozzle tip and valve pin wear, seal condition and any leakage history.",
+            "A condition audit of the mold: vent depth, cooling water flow and temperature difference per circuit, scale in channels and wear on neck rings and locking tapers.",
+            "The preform and bottle drawings, plus blow molding results, so that any change to wall thickness or weight can be checked on the blow molder."
+          ]
+        },
+        {
+          "heading": "Mold and hot runner changes to consider",
+          "table": {
+            "head": ["Component", "Typical issue with 100% rPET", "Change to consider"],
+            "rows": [
+              ["Nozzle tips and valve pins", "Wear, deposits, stringing and gate vestige", "Inspect every drop; replace tips, pins and seals as a set where worn"],
+              ["Heaters and thermocouples", "Weak zones cause cold drops and weight imbalance", "Replace failing heaters and sensors; rebalance zone temperatures"],
+              ["Manifold flow channels", "Dead spots hold degraded melt and release black specks", "Clean or refurbish the manifold; check for hang-up points"],
+              ["Melt filtration (machine side)", "Particles block gates and cause short shots", "Confirm filtration upstream and on the machine with the rPET supplier"],
+              ["Cavity and core venting", "Volatile deposits, burn marks, short shots", "Check vent depth and set a shorter vent-cleaning interval"],
+              ["Cooling circuits", "Haze and longer cooling to hold quality", "Descale, verify flow per circuit, consider optimized neck cooling"],
+              ["Gate inserts", "Crystalline gates, gate hole or stringing", "Check gate geometry and cooling around the gate"],
+              ["Preform design", "Different stretch behaviour on the blow molder", "Review wall thickness and weight before lightweighting"]
+            ]
+          }
+        },
+        {
+          "heading": "Step-by-step: converting the line to 100% rPET",
+          "steps": [
+            "Record a full baseline on virgin PET so every later change can be compared against real numbers.",
+            "Agree the rPET specification with your supplier and test incoming lots for IV and moisture before they reach the dryer.",
+            "Confirm dryer residence time and dew point capacity for the rPET throughput, following the resin supplier's drying data.",
+            "Service the hot runner: check every heater zone and thermocouple, replace worn nozzle tips, valve pins and seals, and clean the manifold.",
+            "Service the mold: descale cooling channels, check flow per circuit, clean and measure vents, and check neck rings and tapers.",
+            "Run a stepped material trial, increasing the rPET share in stages while measuring weight, AA, IV drop and defects per cavity.",
+            "Adjust process settings at each stage: melt temperature, hot runner zone balance, hold pressure and cooling, keeping residence time as low as possible.",
+            "Blow sample preforms on your blow molder and check bottle wall distribution, top load and appearance.",
+            "Lock the process window and update preventive maintenance intervals for vents, tips and filters to match rPET."
+          ]
+        },
+        {
+          "heading": "Common problems after switching to rPET and how to fix them",
+          "table": {
+            "head": ["Symptom", "Likely cause", "What to check or change"],
+            "rows": [
+              ["Black specks", "Degraded melt in manifold dead spots or contamination", "Clean or refurbish manifold; review filtration; reduce residence time"],
+              ["Yellowing", "Excess heat history or over-drying", "Lower melt and hot runner temperatures where possible; check dryer settings"],
+              ["High AA", "High melt temperature and long residence time", "Reduce barrel and manifold temperatures; check shot size vs barrel size"],
+              ["Haze near gate or base", "Slow cooling or moisture", "Check gate cooling, water flow and drying"],
+              ["Short shots in some cavities", "Blocked tips, cold zones, fouled vents", "Inspect tips, heaters and vents of the affected cavities"],
+              ["Stringing or long gate vestige", "Worn valve pins or tips, gate too hot", "Replace pins and tips; rebalance gate temperature"],
+              ["Weight variation between lots", "IV variation in the rPET supply", "Tighten IV specification; segregate and blend lots"],
+              ["Bubbles or splay", "Moisture or volatiles", "Verify drying; clean vents"]
+            ]
+          }
+        },
+        {
+          "heading": "Advanced tips for stable 100% rPET production",
+          "list": [
+            "Measure IV on preforms, not only on incoming material; the IV drop across the line tells you whether drying and residence time are under control.",
+            "Keep a spare set of nozzle tips, valve pins and seals on site so a blocked drop can be fixed without long downtime.",
+            "Track rejects per cavity; a single cavity that drifts usually points to a hot runner drop, a vent or a cooling circuit, not to the material.",
+            "Use cooling optimization to win back cycle time; LIHE's optimized cooling can cut neck cooling time by up to 0.5 s.",
+            "Delay any lightweighting until the rPET process is stable, then test the 1 g to 2 g reduction on the blow molder.",
+            "If the hot runner is old, compare refurbishment with a replacement; rPET exposes leakage and heater weaknesses quickly."
+          ]
+        },
+        {
+          "heading": "Related concepts",
+          "list": [
+            "Intrinsic viscosity (IV): a measure of PET molecular weight; it falls when PET is degraded by moisture or heat.",
+            "Acetaldehyde (AA): a by-product of thermal degradation of PET that can affect the taste of water and sensitive drinks.",
+            "Hydrolysis: the reaction of molten PET with water, the main reason undried material loses IV.",
+            "Valve gate hot runner: a hot runner in which a pin opens and closes each gate mechanically, giving cleaner gates than thermal gates.",
+            "Crystallinity: ordered regions in PET that appear as white haze in a preform when cooling is too slow."
+          ]
+        },
+        {
+          "heading": "How LIHE supports an rPET conversion",
+          "list": [
+            "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China.",
+            "rPET material trials and production line conversions as part of custom solutions.",
+            "Hot runner refurbishment and replacement nozzle tips, valve pins, heaters and seals for HUSKY, NETSTAL, KM and SIPA compatible systems.",
+            "Cooling optimization and conversion parts that are 100% interchangeable with Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps and Corvaglia systems.",
+            "Remote troubleshooting, on-site start-up support and preventive maintenance by a dedicated technical team."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Do we need a new preform mold to run 100% rPET?",
+          "answer": "Usually not. The cavity layout and steel can normally stay. The work focuses on the hot runner, venting, cooling and drying. A new mold is only needed if the existing mold is worn out or the preform design itself must change."
+        },
+        {
+          "question": "Which hot runner parts wear fastest with rPET?",
+          "answer": "Nozzle tips, valve pins and seals are the first parts to check, followed by heaters and thermocouples. Contaminants and deposits in rPET expose wear and weak zones faster than virgin resin."
+        },
+        {
+          "question": "Why do we see more black specks after the switch?",
+          "answer": "rPET has a longer heat history, so melt that stays in manifold dead spots degrades sooner. Cleaning or refurbishing the manifold, reducing residence time and confirming filtration usually fix it."
+        },
+        {
+          "question": "Will 100% rPET make our cycle time longer?",
+          "answer": "It can, if the process has to run cooler or slower to control AA and haze. Optimized cooling, which can reduce neck cooling time by up to 0.5 s, is one way to recover part of that time."
+        },
+        {
+          "question": "Can LIHE help with trials before we commit?",
+          "answer": "Yes. rPET material trials are part of LIHE's custom solutions, together with hot runner refurbishment and production line conversions. Contact sales@lihe-preform.com with your mold, machine and rPET details."
+        }
+      ]
+    },
+    "ru": {
+      "category": "Технические статьи",
+      "title": "Мы переводим линию ПЭТ-бутылок на 100% rPET — какие изменения пресс-формы и горячего канала нужны?",
+      "summary": "Практическое руководство для инженеров завода, переводящих линию преформ и бутылок на 100% rPET: какие изменения пресс-формы, горячеканальной системы и охлаждения проверить, как провести переход по шагам и как устранить типичные дефекты.",
+      "heroAlt": "Многогнёздная пресс-форма для ПЭТ-преформ в литьевой машине и контейнер с вторичными ПЭТ-хлопьями на переднем плане",
+      "detailAlt": "Полированный горячеканальный коллектор с клапанными соплами и ленточными нагревателями на верстаке",
+      "sections": [
+        {
+          "heading": "Какие изменения пресс-формы и горячего канала нужны для 100% rPET?",
+          "paragraphs": [
+            "rPET (вторичный полиэтилентерефталат) — это ПЭТ, полученный из использованных бутылок и переработанный в пищевые хлопья или гранулы, которые могут заменить первичную смолу. В большинстве случаев сталь пресс-формы и расположение гнёзд остаются прежними; изменения касаются горячеканальной системы (наконечники сопел, запорные иглы, уплотнения, нагреватели и баланс температур), вентиляции и охлаждения пресс-формы, а также сушки и подачи материала перед машиной.",
+            "Причина в том, что 100% rPET ведёт себя менее однородно, чем первичный ПЭТ: характеристическая вязкость (IV) меняется от партии к партии, материал чувствительнее к влаге и термической истории, в нём больше летучих веществ и мелких загрязнений. Пресс-форма и горячий канал, которые хорошо работают на первичном сырье, при 100% rPET могут давать чёрные точки, помутнение, дефекты литника и разброс веса."
+          ]
+        },
+        {
+          "heading": "Ключевые цифры для планирования перехода на rPET",
+          "list": [
+            "Пресс-формы для преформ выпускаются на 2–160 гнёзд; подход к переходу одинаков, но каждое дополнительное гнездо добавляет ещё одно сопло, которое нужно сбалансировать.",
+            "Клапанные горячеканальные системы LIHE выпускаются на количество гнёзд до 144 для преформ, с 3-летней гарантией от протечек для конструкции типа Husky Ultra.",
+            "Оптимизированное охлаждение может сократить время охлаждения горловины до 0,5 с, что помогает вернуть время цикла, если rPET требует более холодного и медленного процесса.",
+            "Предложения по облегчению снижают вес преформы на 1–2 г; при работе с rPET сначала проверьте поведение при раздуве.",
+            "Опубликованные сроки: запасные части — 4 недели, пилотные формы — 20 дней, стандартные ПЭТ-формы — 8 недель."
+          ]
+        },
+        {
+          "heading": "Что меняется, когда сырьё становится 100% rPET",
+          "list": [
+            "Разброс IV: партии вторичных хлопьев и гранул отличаются по IV, поэтому вязкость расплава, баланс заполнения и вес преформы меняются от партии к партии.",
+            "Чувствительность к влаге: влажный ПЭТ гидролизуется в цилиндре и горячем канале, что снижает IV и ослабляет готовую бутылку.",
+            "Термическая история: rPET уже как минимум один раз плавился, поэтому лишнее время пребывания в коллекторе повышает уровень ацетальдегида (AA) и пожелтение.",
+            "Летучие вещества и пыль: больше газа и мелкой фракции в расплаве — быстрее засоряются вентиляционные каналы и образуются отложения на матрицах и пуансонах.",
+            "Загрязнения: гели, точки и посторонние частицы, прошедшие фильтрацию у переработчика, могут частично перекрывать наконечники сопел и литники.",
+            "Цвет: rPET обычно имеет лёгкий оттенок; помутнение или пожелтение из-за процесса заметнее, чем на первичной смоле."
+          ]
+        },
+        {
+          "heading": "Что подготовить перед переходом",
+          "list": [
+            "Спецификацию rPET от поставщика: диапазон IV, влажность при поставке, допустимые загрязнения и допуск процесса переработки к контакту с пищевыми продуктами (например, письмо FDA об отсутствии возражений в США).",
+            "Базовые данные текущей линии на первичном ПЭТ: время цикла, процент брака по гнёздам, вес преформы по гнёздам, уровень AA и падение IV от гранулы до преформы.",
+            "Проверку производительности сушилки и системы пневмотранспорта, так как хлопья rPET имеют другую насыпную плотность и по-другому сушатся, чем первичные гранулы.",
+            "Аудит состояния горячего канала: показания нагревателей и термопар по каждой зоне, износ наконечников сопел и игл, состояние уплотнений и история протечек.",
+            "Аудит состояния пресс-формы: глубина вентиляции, расход и перепад температуры воды по каждому контуру, накипь в каналах, износ горловых колец и замковых конусов.",
+            "Чертежи преформы и бутылки, а также результаты выдува, чтобы любое изменение толщины стенки или веса можно было проверить на выдувной машине."
+          ]
+        },
+        {
+          "heading": "Изменения пресс-формы и горячего канала, которые стоит рассмотреть",
+          "table": {
+            "head": ["Узел", "Типичная проблема при 100% rPET", "Что изменить"],
+            "rows": [
+              ["Наконечники сопел и запорные иглы", "Износ, отложения, нитеобразование и след литника", "Осмотреть каждое сопло; заменять изношенные наконечники, иглы и уплотнения комплектом"],
+              ["Нагреватели и термопары", "Слабые зоны дают холодные сопла и разброс веса", "Заменить неисправные нагреватели и датчики; перебалансировать температуры зон"],
+              ["Каналы коллектора", "Застойные зоны удерживают деградированный расплав и выпускают чёрные точки", "Очистить или восстановить коллектор; проверить места застоя"],
+              ["Фильтрация расплава (на стороне машины)", "Частицы перекрывают литники и вызывают недоливы", "Согласовать фильтрацию у поставщика rPET и на машине"],
+              ["Вентиляция матриц и пуансонов", "Отложения летучих, подгары, недоливы", "Проверить глубину вентиляции и сократить интервал её чистки"],
+              ["Контуры охлаждения", "Помутнение и более долгое охлаждение для удержания качества", "Удалить накипь, проверить расход по контурам, рассмотреть оптимизацию охлаждения горловины"],
+              ["Литниковые вставки", "Кристаллический литник, отверстие или нить на литнике", "Проверить геометрию литника и охлаждение вокруг него"],
+              ["Конструкция преформы", "Иное поведение при вытяжке на выдувной машине", "Пересмотреть толщину стенки и вес до облегчения"]
+            ]
+          }
+        },
+        {
+          "heading": "Пошаговый перевод линии на 100% rPET",
+          "steps": [
+            "Зафиксируйте полные базовые данные на первичном ПЭТ, чтобы каждое последующее изменение сравнивать с реальными цифрами.",
+            "Согласуйте спецификацию rPET с поставщиком и проверяйте входящие партии на IV и влажность до загрузки в сушилку.",
+            "Подтвердите время пребывания в сушилке и производительность по точке росы для нужного расхода rPET по данным поставщика смолы.",
+            "Обслужите горячий канал: проверьте каждую зону нагрева и термопару, замените изношенные наконечники, иглы и уплотнения, очистите коллектор.",
+            "Обслужите пресс-форму: удалите накипь из каналов охлаждения, проверьте расход по контурам, очистите и измерьте вентиляцию, проверьте горловые кольца и конусы.",
+            "Проведите ступенчатое испытание материала, увеличивая долю rPET поэтапно и измеряя вес, AA, падение IV и дефекты по гнёздам.",
+            "На каждом этапе корректируйте параметры: температуру расплава, баланс зон горячего канала, давление выдержки и охлаждение, сохраняя минимальное время пребывания.",
+            "Раздуйте пробные преформы на своей выдувной машине и проверьте распределение стенки, осевую нагрузку и внешний вид бутылки.",
+            "Закрепите технологическое окно и обновите интервалы профилактики вентиляции, наконечников и фильтров под rPET."
+          ]
+        },
+        {
+          "heading": "Типичные проблемы после перехода на rPET и их устранение",
+          "table": {
+            "head": ["Симптом", "Вероятная причина", "Что проверить или изменить"],
+            "rows": [
+              ["Чёрные точки", "Деградированный расплав в застойных зонах коллектора или загрязнения", "Очистить или восстановить коллектор; пересмотреть фильтрацию; сократить время пребывания"],
+              ["Пожелтение", "Избыточная термическая история или пересушка", "Снизить температуры расплава и горячего канала, где возможно; проверить настройки сушилки"],
+              ["Высокий AA", "Высокая температура расплава и долгое время пребывания", "Снизить температуры цилиндра и коллектора; проверить соотношение дозы и объёма цилиндра"],
+              ["Помутнение у литника или дна", "Медленное охлаждение или влага", "Проверить охлаждение литника, расход воды и сушку"],
+              ["Недоливы в отдельных гнёздах", "Забитые наконечники, холодные зоны, засорённая вентиляция", "Осмотреть наконечники, нагреватели и вентиляцию проблемных гнёзд"],
+              ["Нити или длинный след литника", "Изношенные иглы или наконечники, перегретый литник", "Заменить иглы и наконечники; перебалансировать температуру литника"],
+              ["Разброс веса между партиями", "Разброс IV в поставках rPET", "Ужесточить спецификацию IV; разделять и смешивать партии"],
+              ["Пузыри или серебристость", "Влага или летучие вещества", "Проверить сушку; очистить вентиляцию"]
+            ]
+          }
+        },
+        {
+          "heading": "Практические советы для стабильного производства на 100% rPET",
+          "list": [
+            "Измеряйте IV на преформах, а не только на входящем сырье; падение IV по линии показывает, контролируются ли сушка и время пребывания.",
+            "Держите на площадке запасной комплект наконечников, игл и уплотнений, чтобы забитое сопло можно было исправить без долгого простоя.",
+            "Отслеживайте брак по гнёздам; дрейф одного гнезда обычно указывает на сопло, вентиляцию или контур охлаждения, а не на материал.",
+            "Используйте оптимизацию охлаждения, чтобы вернуть время цикла; оптимизированное охлаждение LIHE сокращает время охлаждения горловины до 0,5 с.",
+            "Откладывайте облегчение до стабилизации процесса на rPET, затем проверяйте снижение веса на 1–2 г на выдувной машине.",
+            "Если горячий канал старый, сравните восстановление с заменой; rPET быстро выявляет протечки и слабые нагреватели."
+          ]
+        },
+        {
+          "heading": "Связанные понятия",
+          "list": [
+            "Характеристическая вязкость (IV): показатель молекулярной массы ПЭТ; снижается при деградации ПЭТ от влаги или тепла.",
+            "Ацетальдегид (AA): побочный продукт термической деградации ПЭТ, который может влиять на вкус воды и чувствительных напитков.",
+            "Гидролиз: реакция расплавленного ПЭТ с водой, основная причина потери IV у непросушенного материала.",
+            "Клапанный горячий канал: горячеканальная система, в которой игла механически открывает и закрывает каждый литник, обеспечивая более чистый литник, чем термический.",
+            "Кристалличность: упорядоченные области в ПЭТ, которые проявляются как белое помутнение преформы при слишком медленном охлаждении."
+          ]
+        },
+        {
+          "heading": "Как LIHE поддерживает переход на rPET",
+          "list": [
+            "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) — производитель пресс-форм для ПЭТ-преформ, выдувных форм, форм для колпачков и компрессионных форм, горячеканальных систем и комплектующих для производства напитков и упаковки, с производством в Фошане, Китай.",
+            "Испытания материала rPET и переоборудование производственных линий в рамках индивидуальных решений.",
+            "Восстановление горячеканальных систем, а также запасные наконечники сопел, запорные иглы, нагреватели и уплотнения для систем, совместимых с HUSKY, NETSTAL, KM и SIPA.",
+            "Оптимизация охлаждения и конверсионные детали, на 100% взаимозаменяемые с системами Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps и Corvaglia.",
+            "Удалённая диагностика, поддержка пуска на месте и профилактическое обслуживание силами выделенной технической команды."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Нужна ли новая пресс-форма для работы на 100% rPET?",
+          "answer": "Обычно нет. Расположение гнёзд и сталь, как правило, остаются. Работа сосредоточена на горячем канале, вентиляции, охлаждении и сушке. Новая форма нужна, только если существующая изношена или должна измениться сама конструкция преформы."
+        },
+        {
+          "question": "Какие детали горячего канала быстрее всего изнашиваются на rPET?",
+          "answer": "Первыми проверяют наконечники сопел, запорные иглы и уплотнения, затем нагреватели и термопары. Загрязнения и отложения в rPET выявляют износ и слабые зоны быстрее, чем первичная смола."
+        },
+        {
+          "question": "Почему после перехода стало больше чёрных точек?",
+          "answer": "У rPET более длинная термическая история, поэтому расплав в застойных зонах коллектора деградирует быстрее. Обычно помогают очистка или восстановление коллектора, сокращение времени пребывания и проверка фильтрации."
+        },
+        {
+          "question": "Увеличит ли 100% rPET время цикла?",
+          "answer": "Может, если процесс приходится вести холоднее или медленнее для контроля AA и помутнения. Оптимизированное охлаждение, сокращающее время охлаждения горловины до 0,5 с, — один из способов вернуть часть этого времени."
+        },
+        {
+          "question": "Может ли LIHE помочь с испытаниями до принятия решения?",
+          "answer": "Да. Испытания материала rPET входят в индивидуальные решения LIHE вместе с восстановлением горячих каналов и переоборудованием линий. Напишите на sales@lihe-preform.com, указав данные пресс-формы, машины и rPET."
+        }
+      ]
+    },
+    "es": {
+      "category": "Artículos técnicos",
+      "title": "Vamos a pasar una línea de botellas PET a 100% rPET: ¿qué cambios necesitamos en el molde y el canal caliente?",
+      "summary": "Guía práctica para ingenieros de planta que convierten una línea de preformas y botellas a 100% rPET: qué cambios revisar en el molde de preforma, el canal caliente y la refrigeración, cómo hacer la conversión paso a paso y cómo corregir los defectos típicos.",
+      "heroAlt": "Molde de inyección de preformas PET multicavidad en la máquina, con un contenedor de escamas de PET reciclado en primer plano",
+      "detailAlt": "Distribuidor de canal caliente pulido con boquillas de válvula y resistencias de banda sobre un banco de taller",
+      "sections": [
+        {
+          "heading": "¿Qué cambios de molde y canal caliente necesita una línea con 100% rPET?",
+          "paragraphs": [
+            "El rPET (tereftalato de polietileno reciclado) es PET recuperado de botellas usadas y reprocesado en escamas o granza de grado alimentario que puede sustituir a la resina virgen. En la mayoría de las conversiones el acero del molde de preforma y la disposición de cavidades pueden quedarse como están; los cambios se concentran en el canal caliente (puntas de boquilla, agujas de válvula, sellos, resistencias y equilibrio de temperatura), en el venteo y la refrigeración del molde, y en el secado y el manejo del material antes de la máquina.",
+            "La razón es que el 100% rPET se comporta de forma menos uniforme que el PET virgen: la viscosidad intrínseca (IV) varía de un lote a otro, el material es más sensible a la humedad y al historial térmico, y contiene más volátiles y contaminantes finos. Un molde y un canal caliente que funcionan bien con resina virgen pueden mostrar puntos negros, turbidez, defectos de punto de inyección y variación de peso cuando el rPET llega al 100%."
+          ]
+        },
+        {
+          "heading": "Cifras clave para planificar una conversión a rPET",
+          "list": [
+            "Los moldes de preforma pueden especificarse de 2 a 160 cavidades; el enfoque de conversión es el mismo, pero cada cavidad adicional suma una boquilla más que equilibrar.",
+            "Los canales calientes de válvula de LIHE están disponibles hasta 144 cavidades de preforma, con una garantía de 3 años contra fugas en el diseño tipo Husky Ultra.",
+            "Una refrigeración optimizada puede reducir el tiempo de enfriamiento del cuello hasta 0,5 s, lo que ayuda a recuperar tiempo de ciclo si el rPET obliga a un proceso más frío y lento.",
+            "Las propuestas de aligeramiento reducen el peso de la preforma entre 1 g y 2 g; con rPET, confirme primero el comportamiento en el estirado-soplado.",
+            "Plazos publicados: piezas de repuesto 4 semanas, moldes piloto 20 días, moldes PET estándar 8 semanas."
+          ]
+        },
+        {
+          "heading": "Qué cambia cuando la resina pasa a ser 100% rPET",
+          "list": [
+            "Variación de IV: los lotes de escama y granza reciclada difieren en IV, por lo que la viscosidad del fundido, el equilibrio de llenado y el peso de la preforma cambian entre lotes.",
+            "Sensibilidad a la humedad: el PET húmedo se hidroliza en el cilindro y en el canal caliente, lo que baja la IV y debilita la botella final.",
+            "Historial térmico: el rPET ya se ha fundido al menos una vez, así que el tiempo de residencia extra en el distribuidor eleva el acetaldehído (AA) y el amarilleo.",
+            "Volátiles y finos: más gas y polvo en el fundido significan un ensuciamiento más rápido de los venteos y depósitos en cavidades y machos.",
+            "Contaminantes: geles, puntos y partículas extrañas que pasan la filtración del reciclador pueden obstruir parcialmente puntas de boquilla y puntos de inyección.",
+            "Color: el rPET suele tener un ligero tono; la turbidez o el amarilleo causados por el proceso se notan más que con resina virgen."
+          ]
+        },
+        {
+          "heading": "Qué preparar antes de la conversión",
+          "list": [
+            "La especificación de rPET de su proveedor: rango de IV, humedad en la entrega, límites de contaminación y la aprobación para contacto alimentario del proceso de reciclado (por ejemplo, una carta de no objeción de la FDA en EE. UU.).",
+            "Datos base de la línea actual con PET virgen: tiempo de ciclo, tasa de rechazo por cavidad, peso de preforma por cavidad, nivel de AA y caída de IV de la granza a la preforma.",
+            "Una revisión de capacidad del secador y del transporte de material, porque la escama de rPET tiene otra densidad aparente y otra respuesta al secado que la granza virgen.",
+            "Una auditoría del estado del canal caliente: lecturas de resistencias y termopares por zona, desgaste de puntas y agujas, estado de los sellos e historial de fugas.",
+            "Una auditoría del estado del molde: profundidad de venteo, caudal y diferencia de temperatura del agua por circuito, cal en los canales y desgaste de anillos de cuello y conos de cierre.",
+            "Los planos de preforma y botella, además de los resultados de soplado, para comprobar en la sopladora cualquier cambio de espesor de pared o de peso."
+          ]
+        },
+        {
+          "heading": "Cambios de molde y canal caliente a considerar",
+          "table": {
+            "head": ["Componente", "Problema típico con 100% rPET", "Cambio a considerar"],
+            "rows": [
+              ["Puntas de boquilla y agujas de válvula", "Desgaste, depósitos, hilos y marca de inyección", "Inspeccionar cada boquilla; sustituir puntas, agujas y sellos como juego donde haya desgaste"],
+              ["Resistencias y termopares", "Zonas débiles causan boquillas frías y desequilibrio de peso", "Sustituir resistencias y sensores defectuosos; reequilibrar temperaturas de zona"],
+              ["Canales del distribuidor", "Zonas muertas retienen fundido degradado y liberan puntos negros", "Limpiar o reacondicionar el distribuidor; revisar puntos de estancamiento"],
+              ["Filtración del fundido (lado máquina)", "Partículas bloquean puntos de inyección y causan inyecciones incompletas", "Confirmar la filtración con el proveedor de rPET y en la máquina"],
+              ["Venteo de cavidad y macho", "Depósitos de volátiles, quemaduras, inyecciones incompletas", "Revisar profundidad de venteo y acortar el intervalo de limpieza"],
+              ["Circuitos de refrigeración", "Turbidez y enfriamiento más largo para mantener la calidad", "Desincrustar, verificar caudal por circuito, considerar refrigeración de cuello optimizada"],
+              ["Insertos de punto de inyección", "Punto cristalino, agujero o hilos", "Revisar la geometría del punto y la refrigeración alrededor"],
+              ["Diseño de preforma", "Distinto comportamiento de estirado en la sopladora", "Revisar espesor de pared y peso antes de aligerar"]
+            ]
+          }
+        },
+        {
+          "heading": "Paso a paso: convertir la línea a 100% rPET",
+          "steps": [
+            "Registre una línea base completa con PET virgen para comparar cada cambio posterior con cifras reales.",
+            "Acuerde la especificación de rPET con su proveedor y analice la IV y la humedad de cada lote antes de que llegue al secador.",
+            "Confirme el tiempo de residencia y la capacidad de punto de rocío del secador para el caudal de rPET, según los datos de secado del proveedor de resina.",
+            "Revise el canal caliente: compruebe cada zona de calefacción y termopar, sustituya puntas, agujas y sellos desgastados y limpie el distribuidor.",
+            "Revise el molde: desincruste los canales de refrigeración, verifique el caudal por circuito, limpie y mida los venteos y compruebe anillos de cuello y conos.",
+            "Haga una prueba de material escalonada, aumentando la proporción de rPET por etapas mientras mide peso, AA, caída de IV y defectos por cavidad.",
+            "Ajuste el proceso en cada etapa: temperatura del fundido, equilibrio de zonas del canal caliente, presión de mantenimiento y enfriamiento, con el menor tiempo de residencia posible.",
+            "Sople preformas de muestra en su sopladora y revise la distribución de pared, la carga axial y el aspecto de la botella.",
+            "Fije la ventana de proceso y actualice los intervalos de mantenimiento preventivo de venteos, puntas y filtros para el rPET."
+          ]
+        },
+        {
+          "heading": "Problemas comunes tras pasar a rPET y cómo resolverlos",
+          "table": {
+            "head": ["Síntoma", "Causa probable", "Qué revisar o cambiar"],
+            "rows": [
+              ["Puntos negros", "Fundido degradado en zonas muertas del distribuidor o contaminación", "Limpiar o reacondicionar el distribuidor; revisar filtración; reducir tiempo de residencia"],
+              ["Amarilleo", "Exceso de historial térmico o sobresecado", "Bajar temperaturas de fundido y canal caliente donde sea posible; revisar el secador"],
+              ["AA alto", "Temperatura de fundido alta y residencia larga", "Reducir temperaturas de cilindro y distribuidor; revisar dosis frente a tamaño del cilindro"],
+              ["Turbidez en punto de inyección o fondo", "Enfriamiento lento o humedad", "Revisar refrigeración del punto, caudal de agua y secado"],
+              ["Inyecciones incompletas en algunas cavidades", "Puntas obstruidas, zonas frías, venteos sucios", "Inspeccionar puntas, resistencias y venteos de las cavidades afectadas"],
+              ["Hilos o marca de inyección larga", "Agujas o puntas desgastadas, punto demasiado caliente", "Sustituir agujas y puntas; reequilibrar la temperatura del punto"],
+              ["Variación de peso entre lotes", "Variación de IV en el suministro de rPET", "Ajustar la especificación de IV; separar y mezclar lotes"],
+              ["Burbujas o rayas plateadas", "Humedad o volátiles", "Verificar el secado; limpiar venteos"]
+            ]
+          }
+        },
+        {
+          "heading": "Consejos avanzados para una producción estable con 100% rPET",
+          "list": [
+            "Mida la IV en las preformas, no solo en el material de entrada; la caída de IV a lo largo de la línea indica si el secado y el tiempo de residencia están bajo control.",
+            "Tenga en planta un juego de repuesto de puntas, agujas y sellos para resolver una boquilla obstruida sin una parada larga.",
+            "Haga seguimiento de rechazos por cavidad; una sola cavidad que deriva suele apuntar a una boquilla, un venteo o un circuito de refrigeración, no al material.",
+            "Use la optimización de refrigeración para recuperar tiempo de ciclo; la refrigeración optimizada de LIHE puede reducir el enfriamiento del cuello hasta 0,5 s.",
+            "Retrase cualquier aligeramiento hasta que el proceso con rPET sea estable y luego pruebe la reducción de 1 g a 2 g en la sopladora.",
+            "Si el canal caliente es antiguo, compare el reacondicionamiento con la sustitución; el rPET pone en evidencia rápidamente fugas y resistencias débiles."
+          ]
+        },
+        {
+          "heading": "Conceptos relacionados",
+          "list": [
+            "Viscosidad intrínseca (IV): medida del peso molecular del PET; baja cuando el PET se degrada por humedad o calor.",
+            "Acetaldehído (AA): subproducto de la degradación térmica del PET que puede afectar al sabor del agua y de bebidas sensibles.",
+            "Hidrólisis: reacción del PET fundido con el agua, principal razón por la que el material sin secar pierde IV.",
+            "Canal caliente de válvula: canal caliente en el que una aguja abre y cierra mecánicamente cada punto de inyección, con puntos más limpios que los térmicos.",
+            "Cristalinidad: regiones ordenadas del PET que aparecen como turbidez blanca en la preforma cuando el enfriamiento es demasiado lento."
+          ]
+        },
+        {
+          "heading": "Cómo apoya LIHE una conversión a rPET",
+          "list": [
+            "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) es un fabricante de moldes de preforma PET, moldes de soplado, moldes de tapas y de compresión, sistemas de canal caliente y componentes de molde para la industria de bebidas y envases, con fabricación en Foshan, China.",
+            "Pruebas de material rPET y conversiones de líneas de producción como parte de sus soluciones a medida.",
+            "Reacondicionamiento de canales calientes y repuestos de puntas de boquilla, agujas de válvula, resistencias y sellos para sistemas compatibles con HUSKY, NETSTAL, KM y SIPA.",
+            "Optimización de refrigeración y piezas de conversión 100% intercambiables con sistemas Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps y Corvaglia.",
+            "Diagnóstico remoto, apoyo en la puesta en marcha en planta y mantenimiento preventivo a cargo de un equipo técnico dedicado."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Necesitamos un molde de preforma nuevo para trabajar con 100% rPET?",
+          "answer": "Normalmente no. La disposición de cavidades y el acero suelen mantenerse. El trabajo se centra en el canal caliente, el venteo, la refrigeración y el secado. Solo hace falta un molde nuevo si el actual está desgastado o si debe cambiar el propio diseño de la preforma."
+        },
+        {
+          "question": "¿Qué piezas del canal caliente se desgastan antes con rPET?",
+          "answer": "Las primeras que conviene revisar son las puntas de boquilla, las agujas de válvula y los sellos, seguidas de resistencias y termopares. Los contaminantes y depósitos del rPET ponen en evidencia el desgaste y las zonas débiles antes que la resina virgen."
+        },
+        {
+          "question": "¿Por qué vemos más puntos negros después del cambio?",
+          "answer": "El rPET tiene un historial térmico más largo, así que el fundido que queda en zonas muertas del distribuidor se degrada antes. Limpiar o reacondicionar el distribuidor, reducir el tiempo de residencia y confirmar la filtración suelen resolverlo."
+        },
+        {
+          "question": "¿El 100% rPET alargará nuestro tiempo de ciclo?",
+          "answer": "Puede hacerlo si el proceso debe trabajar más frío o más lento para controlar el AA y la turbidez. La refrigeración optimizada, que puede reducir el enfriamiento del cuello hasta 0,5 s, es una forma de recuperar parte de ese tiempo."
+        },
+        {
+          "question": "¿Puede LIHE ayudar con pruebas antes de comprometernos?",
+          "answer": "Sí. Las pruebas de material rPET forman parte de las soluciones a medida de LIHE, junto con el reacondicionamiento de canales calientes y las conversiones de línea. Escriba a sales@lihe-preform.com con los datos de su molde, máquina y rPET."
+        }
+      ]
+    }
+  }
+}

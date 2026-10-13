@@ -13,7 +13,36 @@
     "detail": "/images/news/pet-preform-mold-tooling-conversion-guide-detail.webp",
     "og": "/images/news/pet-preform-mold-tooling-conversion-guide-hero-og.jpg"
   },
-  "sources": [],
+  "sources": [
+    {
+      "label": "Wikipedia — Injection moulding",
+      "url": "https://en.wikipedia.org/wiki/Injection_moulding"
+    },
+    {
+      "label": "Wikipedia — Injection mold construction",
+      "url": "https://en.wikipedia.org/wiki/Injection_mold_construction"
+    },
+    {
+      "label": "Wikipedia — Hot runner",
+      "url": "https://en.wikipedia.org/wiki/Hot_runner"
+    },
+    {
+      "label": "Wikipedia — Process capability index",
+      "url": "https://en.wikipedia.org/wiki/Process_capability_index"
+    },
+    {
+      "label": "Wikipedia — Coordinate-measuring machine",
+      "url": "https://en.wikipedia.org/wiki/Coordinate-measuring_machine"
+    },
+    {
+      "label": "Husky Technologies — official website",
+      "url": "https://www.husky.co/en/"
+    },
+    {
+      "label": "SACMI — official website",
+      "url": "https://www.sacmi.com"
+    }
+  ],
   "locales": {
     "en": {
       "category": "Technical Insights",
@@ -30,6 +59,18 @@
           ]
         },
         {
+          "heading": "Key terms",
+          "list": [
+            "Mold stack: the set of parts that forms one preform, typically the core, cavity, gate insert and neck rings, held in place in the mold plates.",
+            "Neck rings: split inserts that form the neck finish (thread, support ring and tamper-evident bead) and open to release the preform.",
+            "Neck finish: the standardized thread and sealing geometry of the bottle opening, such as PCO 1881, PCO 1810, 2925 or 38mm; it must match the closure.",
+            "Lightweighting: reducing preform weight, usually by optimizing the neck finish or wall thickness, while keeping the bottle performance required.",
+            "Hot runner: the heated manifold and nozzles that deliver molten PET to every cavity; worn nozzle tips, valve pins, heaters and seals affect filling and preform quality.",
+            "CPK: a process capability index that compares the spread of a measured dimension with its tolerance; a higher value means more consistent parts.",
+            "CMM: a coordinate measuring machine that measures part geometry in three dimensions against the drawing."
+          ]
+        },
+        {
           "heading": "What can be converted or replaced",
           "list": [
             "Preform mold parts such as cores, cavities, neck rings and gate inserts, made to match your existing mold.",
@@ -39,12 +80,41 @@
           ]
         },
         {
+          "heading": "When conversion makes more sense than a new mold",
+          "list": [
+            "Parts are worn but the mold base, plates and hot runner are still in good condition.",
+            "The market or a brand owner moves to a different neck finish, and the injection machine and mold base can stay the same.",
+            "You want to use less resin per preform without investing in a complete new mold.",
+            "Cycle time is limited by cooling, and an upgrade of cooling in the stack can shorten it.",
+            "An aging mold needs a complete overhaul to bring it back to its original efficiency.",
+            "Spare parts from the original supplier are not available within the time your production schedule allows."
+          ]
+        },
+        {
+          "heading": "Neck finish conversion and lightweighting",
+          "paragraphs": [
+            "A neck finish conversion changes the parts that form the neck: neck rings, and usually the cores and other stack parts that meet the neck area. Because the neck must match the closure and the handling parts of the blow molder, a neck change should be planned together with the cap supplier and the blow molding line.",
+            "Lightweighting follows a similar logic. LIHE lightweighting proposals reduce preform weight by 1g to 2g through neck or wall-thickness optimization. Retrofitting an existing mold for lightweighting costs only 25%–40% of a new mold price, with a short payback period, and optimized cooling can reduce neck cooling time by up to 0.5 seconds. Any lighter preform should be checked against the bottle requirements, such as top load and, for carbonated products, pressure resistance, before series production."
+          ]
+        },
+        {
           "heading": "Capacity and quality figures",
           "list": [
             "Preform molds from 2 to 160 cavities.",
             "Over 12,000 cavities produced per year.",
             "Valve gate hot runners up to 144 cavities for preforms.",
             "Process capability CPK ≥ 1.33, with defect rates as low as 0.0064%."
+          ]
+        },
+        {
+          "heading": "Common problems that conversion projects solve",
+          "list": [
+            "Flash at the neck split line: worn neck rings or damaged shut-off surfaces.",
+            "Uneven wall thickness: core shift caused by worn alignment features between core and cavity.",
+            "Whitening or crystallinity near the gate: insufficient gate cooling or a worn gate insert.",
+            "Drooling, leaks or stringing at the gate: worn hot runner nozzle tips, valve pins or seals.",
+            "Short shots or weight differences between cavities: blocked or unbalanced hot runner channels, or failed heaters.",
+            "Long cycles: fouled cooling channels or a cooling design that limits how fast preforms can be ejected."
           ]
         },
         {
@@ -80,13 +150,46 @@
           }
         },
         {
+          "heading": "Interchangeability and quality control",
+          "list": [
+            "100% interchangeable conversion parts for Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps and Corvaglia systems.",
+            "Tooling consistently achieves CPK ≥ 1.33, with operational defect rates as low as 0.0064%.",
+            "Tooling built to withstand up to 8 million shots on Husky, SACMI and Netstal platforms.",
+            "Parts measured in an in-house Zeiss CMM lab, together with a 3D profile scanner and an optical projector.",
+            "Validation and inspection reports supplied with molds and spare parts on request."
+          ]
+        },
+        {
+          "heading": "Lead times and cost drivers",
+          "paragraphs": [
+            "LIHE's published lead times are 4 weeks for replacement parts, 20 days for pilot molds and 8 weeks for standard PET molds. The cost of a conversion depends on its scope, so an exact price requires a quotation based on your parts or drawings."
+          ],
+          "list": [
+            "Number of cavities, because every part is made once per cavity.",
+            "Number of parts per cavity that change: neck rings only, or a complete stack.",
+            "Whether the hot runner needs service, such as new nozzle tips, valve pins, heaters or seals.",
+            "Whether mold base plates need replacement or refurbishment.",
+            "Engineering work for a new neck finish or a lighter preform design."
+          ]
+        },
+        {
           "heading": "What to prepare before you start",
           "steps": [
             "Identify the mold: original mold maker, injection machine model and number of cavities.",
             "Send sample parts or drawings of the parts to be replaced.",
             "Describe the goal: like-for-like replacement, a new neck finish, a lighter preform or a shorter cycle time.",
             "Share the current preform specification, including neck finish and preform weight.",
-            "Agree on inspection: parts are measured on a Zeiss CMM, and inspection reports can be supplied with molds and spare parts on request."
+            "Agree on inspection: parts are measured on a Zeiss CMM, and inspection reports can be supplied with molds and spare parts on request.",
+            "Plan installation and start-up: LIHE's technical team can support machine interface audits, mold installation and machine start-up on site."
+          ]
+        },
+        {
+          "heading": "Maintenance after the conversion",
+          "list": [
+            "Follow a preventive maintenance plan for stacks and hot runner parts, and record shot counts per mold.",
+            "Keep cooling water clean and treated so the cooling gain from the conversion is maintained.",
+            "Keep spare neck rings and other high-wear parts for your main preform formats.",
+            "Use remote troubleshooting, on-site assistance, spare parts supply and mold refurbishment programs offered by the LIHE technical team when problems appear."
           ]
         }
       ],
@@ -102,6 +205,18 @@
         {
           "question": "Are inspection reports available?",
           "answer": "Yes. Components are checked on a Zeiss 3D coordinate measuring machine and other QC equipment, and inspection reports are supplied with molds and spare parts on request."
+        },
+        {
+          "question": "How much does a retrofit cost compared with a new mold?",
+          "answer": "Retrofitting an existing mold for lightweighting costs only 25%–40% of a new mold price, according to LIHE's published figures. The exact price depends on the scope and requires a quotation."
+        },
+        {
+          "question": "Can LIHE conversion parts be mixed with original parts?",
+          "answer": "LIHE conversion parts are made to be 100% interchangeable for Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps and Corvaglia systems, and are checked on a Zeiss CMM."
+        },
+        {
+          "question": "Does a neck finish change affect the blow molder and the closure?",
+          "answer": "Yes. The neck must match the closure, and the neck area is also used to handle the preform and bottle on the blow molder. Plan a neck finish conversion together with your cap supplier and your blow molding line."
         }
       ]
     },
@@ -120,6 +235,18 @@
           ]
         },
         {
+          "heading": "Основные термины",
+          "list": [
+            "Пакет формы (стек): набор деталей, формирующих одну преформу, обычно знак, матрица, литниковая вставка и горловые кольца, закреплённые в плитах формы.",
+            "Горловые кольца: разъёмные вставки, которые формируют горловину (резьбу, опорное кольцо и буртик контроля первого вскрытия) и раскрываются для извлечения преформы.",
+            "Горловина: стандартизированная геометрия резьбы и уплотнения горлышка бутылки, например PCO 1881, PCO 1810, 2925 или 38 мм; она должна соответствовать колпачку.",
+            "Облегчение (лайтвейтинг): снижение массы преформы, как правило за счёт оптимизации горловины или толщины стенки, при сохранении требуемых характеристик бутылки.",
+            "Горячеканальная система: обогреваемый коллектор и сопла, подающие расплав ПЭТ в каждое гнездо; изношенные наконечники сопел, запорные иглы, нагреватели и уплотнения влияют на заполнение и качество преформ.",
+            "CPK: индекс воспроизводимости процесса, сравнивающий разброс измеряемого размера с допуском; чем выше значение, тем стабильнее детали.",
+            "КИМ: координатно-измерительная машина, которая измеряет геометрию детали в трёх измерениях и сравнивает её с чертежом."
+          ]
+        },
+        {
           "heading": "Что можно заменить или переделать",
           "list": [
             "Детали пресс-формы для преформ: знаки, матрицы, шейные кольца и вставки литника — под вашу существующую форму.",
@@ -129,12 +256,41 @@
           ]
         },
         {
+          "heading": "Когда переоснастка выгоднее новой формы",
+          "list": [
+            "Детали изношены, но основание формы, плиты и горячеканальная система ещё в хорошем состоянии.",
+            "Рынок или владелец бренда переходит на другую горловину, а литьевая машина и основание формы могут остаться прежними.",
+            "Нужно снизить расход сырья на преформу без инвестиций в полностью новую форму.",
+            "Время цикла ограничено охлаждением, и модернизация охлаждения пакета может его сократить.",
+            "Стареющей форме нужен капитальный ремонт, чтобы вернуть её исходную эффективность.",
+            "Запасные части от первоначального поставщика нельзя получить в сроки, которые допускает ваш производственный график."
+          ]
+        },
+        {
+          "heading": "Переход на другую горловину и облегчение преформ",
+          "paragraphs": [
+            "При переходе на другую горловину меняются детали, формирующие горло: горловые кольца и, как правило, знаки и другие детали пакета, примыкающие к зоне горловины. Поскольку горловина должна соответствовать колпачку и узлам транспортировки выдувной машины, смену горловины следует планировать вместе с поставщиком колпачков и выдувной линией.",
+            "Облегчение строится по той же логике. Предложения LIHE по облегчению снижают массу преформы на 1–2 г за счёт оптимизации горловины или толщины стенки. Переоснастка существующей формы для облегчения стоит всего 25%–40% от цены новой формы и быстро окупается, а оптимизированное охлаждение может сократить время охлаждения горловины до 0,5 секунды. Любую облегчённую преформу перед серийным производством нужно проверить на соответствие требованиям к бутылке, например по осевой нагрузке и, для газированных продуктов, по стойкости к давлению."
+          ]
+        },
+        {
           "heading": "Мощности и показатели качества",
           "list": [
             "Пресс-формы для преформ от 2 до 160 гнёзд.",
             "Более 12 000 гнёзд в год.",
             "Горячеканальные системы с запорными иглами до 144 гнёзд для преформ.",
             "Индекс воспроизводимости процесса CPK ≥ 1,33, уровень брака до 0,0064%."
+          ]
+        },
+        {
+          "heading": "Типичные проблемы, которые решает переоснастка",
+          "list": [
+            "Облой по линии разъёма горловины: изношенные горловые кольца или повреждённые запорные поверхности.",
+            "Неравномерная толщина стенки: смещение знака из-за износа центрирующих элементов между знаком и матрицей.",
+            "Побеление или кристалличность у литника: недостаточное охлаждение литниковой зоны или изношенная литниковая вставка.",
+            "Подтекание, протечки или нитеобразование у литника: изношенные наконечники сопел, запорные иглы или уплотнения горячеканальной системы.",
+            "Недоливы или разница веса между гнёздами: засорённые или несбалансированные каналы горячеканальной системы либо вышедшие из строя нагреватели.",
+            "Длинный цикл: загрязнённые охлаждающие каналы или конструкция охлаждения, ограничивающая скорость извлечения преформ."
           ]
         },
         {
@@ -170,13 +326,46 @@
           }
         },
         {
+          "heading": "Взаимозаменяемость и контроль качества",
+          "list": [
+            "100% взаимозаменяемые детали для переоснастки систем Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps и Corvaglia.",
+            "Оснастка стабильно обеспечивает CPK ≥ 1,33 при уровне брака в эксплуатации всего 0,0064%.",
+            "Оснастка рассчитана на ресурс до 8 миллионов циклов на платформах Husky, SACMI и Netstal.",
+            "Детали измеряются в собственной лаборатории с КИМ Zeiss, а также на 3D-сканере профиля и оптическом проекторе.",
+            "Отчёты о валидации и контроле прилагаются к формам и запасным частям по запросу."
+          ]
+        },
+        {
+          "heading": "Сроки и факторы стоимости",
+          "paragraphs": [
+            "Опубликованные сроки LIHE: 4 недели для запасных частей, 20 дней для пилотных форм и 8 недель для стандартных форм для ПЭТ. Стоимость переоснастки зависит от объёма работ, поэтому точная цена определяется коммерческим предложением по вашим деталям или чертежам."
+          ],
+          "list": [
+            "Количество гнёзд, так как каждая деталь изготавливается для каждого гнезда.",
+            "Количество заменяемых деталей на гнездо: только горловые кольца или весь пакет.",
+            "Нужно ли обслуживание горячеканальной системы, например новые наконечники сопел, запорные иглы, нагреватели или уплотнения.",
+            "Нужна ли замена или восстановление плит основания формы.",
+            "Инженерные работы по новой горловине или облегчённой конструкции преформы."
+          ]
+        },
+        {
           "heading": "Что подготовить перед началом",
           "steps": [
             "Определите форму: производитель, модель термопластавтомата и количество гнёзд.",
             "Пришлите образцы или чертежи заменяемых деталей.",
             "Опишите цель: замена один к одному, новая горловина, более лёгкая преформа или более короткий цикл.",
             "Укажите текущую спецификацию преформы, включая горловину и вес.",
-            "Согласуйте контроль: детали измеряются на КИМ Zeiss, протоколы контроля прилагаются к формам и запчастям по запросу."
+            "Согласуйте контроль: детали измеряются на КИМ Zeiss, протоколы контроля прилагаются к формам и запчастям по запросу.",
+            "Спланируйте монтаж и запуск: техническая команда LIHE может провести на месте аудит интерфейса машины, монтаж формы и поддержку при запуске машины."
+          ]
+        },
+        {
+          "heading": "Обслуживание после переоснастки",
+          "list": [
+            "Соблюдайте план профилактического обслуживания пакетов и деталей горячеканальной системы и ведите учёт количества циклов каждой формы.",
+            "Поддерживайте охлаждающую воду чистой и подготовленной, чтобы сохранить выигрыш в охлаждении, полученный при переоснастке.",
+            "Держите запасные горловые кольца и другие быстроизнашивающиеся детали для основных форматов преформ.",
+            "При возникновении проблем пользуйтесь удалённой диагностикой, выездной помощью, поставкой запасных частей и программами восстановления форм технической команды LIHE."
           ]
         }
       ],
@@ -192,6 +381,18 @@
         {
           "question": "Предоставляются ли протоколы контроля?",
           "answer": "Да. Детали проверяются на координатно-измерительной машине Zeiss и другом оборудовании контроля качества, протоколы контроля прилагаются к формам и запчастям по запросу."
+        },
+        {
+          "question": "Сколько стоит переоснастка по сравнению с новой формой?",
+          "answer": "По опубликованным данным LIHE, переоснастка существующей формы для облегчения стоит всего 25%–40% от цены новой формы. Точная цена зависит от объёма работ и определяется коммерческим предложением."
+        },
+        {
+          "question": "Можно ли сочетать детали LIHE с оригинальными деталями?",
+          "answer": "Детали LIHE для переоснастки изготавливаются как 100% взаимозаменяемые для систем Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps и Corvaglia и проверяются на КИМ Zeiss."
+        },
+        {
+          "question": "Влияет ли смена горловины на выдувную машину и колпачок?",
+          "answer": "Да. Горловина должна соответствовать колпачку, а зона горловины также используется для транспортировки преформы и бутылки в выдувной машине. Планируйте смену горловины вместе с поставщиком колпачков и выдувной линией."
         }
       ]
     },
@@ -210,6 +411,18 @@
           ]
         },
         {
+          "heading": "Términos clave",
+          "list": [
+            "Conjunto de molde (stack): el grupo de piezas que forma una preforma, normalmente el macho, la cavidad, el inserto de inyección y los anillos de cuello, fijados en las placas del molde.",
+            "Anillos de cuello: insertos partidos que forman el acabado de cuello (rosca, anillo de soporte y reborde de garantía) y se abren para liberar la preforma.",
+            "Acabado de cuello: la geometría normalizada de rosca y sellado de la boca de la botella, como PCO 1881, PCO 1810, 2925 o 38 mm; debe coincidir con la tapa.",
+            "Aligeramiento: reducción del peso de la preforma, normalmente optimizando el cuello o el espesor de pared, manteniendo el rendimiento que necesita la botella.",
+            "Canal caliente: el distribuidor y las boquillas calefactados que llevan el PET fundido a cada cavidad; las puntas de boquilla, agujas de obturación, resistencias y juntas desgastadas afectan al llenado y a la calidad de la preforma.",
+            "CPK: índice de capacidad de proceso que compara la dispersión de una cota medida con su tolerancia; un valor más alto significa piezas más uniformes.",
+            "MMC: máquina de medición por coordenadas que mide la geometría de la pieza en tres dimensiones y la compara con el plano."
+          ]
+        },
+        {
           "heading": "Qué se puede convertir o reemplazar",
           "list": [
             "Piezas del molde de preforma, como machos, cavidades, anillos de cuello e insertos de punto de inyección, fabricadas para su molde actual.",
@@ -219,12 +432,41 @@
           ]
         },
         {
+          "heading": "Cuándo conviene más una conversión que un molde nuevo",
+          "list": [
+            "Las piezas están desgastadas, pero la base del molde, las placas y el canal caliente siguen en buen estado.",
+            "El mercado o el propietario de la marca cambia a otro acabado de cuello, y la inyectora y la base del molde pueden mantenerse.",
+            "Quiere usar menos resina por preforma sin invertir en un molde completo nuevo.",
+            "El tiempo de ciclo está limitado por la refrigeración y una mejora de la refrigeración del conjunto puede acortarlo.",
+            "Un molde envejecido necesita una revisión completa para recuperar su eficiencia original.",
+            "Las piezas de repuesto del proveedor original no están disponibles en el plazo que permite su plan de producción."
+          ]
+        },
+        {
+          "heading": "Conversión de acabado de cuello y aligeramiento",
+          "paragraphs": [
+            "Una conversión de acabado de cuello cambia las piezas que forman el cuello: los anillos de cuello y, normalmente, los machos y otras piezas del conjunto que llegan a la zona del cuello. Como el cuello debe coincidir con la tapa y con las piezas de manipulación de la sopladora, el cambio de cuello debe planificarse junto con el proveedor de tapas y la línea de soplado.",
+            "El aligeramiento sigue la misma lógica. Las propuestas de aligeramiento de LIHE reducen el peso de la preforma entre 1 g y 2 g mediante la optimización del cuello o del espesor de pared. Adaptar un molde existente para aligerar cuesta solo entre el 25% y el 40% del precio de un molde nuevo, con un periodo de amortización corto, y una refrigeración optimizada puede reducir el tiempo de enfriamiento del cuello hasta 0,5 segundos. Toda preforma más ligera debe comprobarse frente a los requisitos de la botella, como la carga vertical y, en productos carbonatados, la resistencia a la presión, antes de la producción en serie."
+          ]
+        },
+        {
           "heading": "Capacidad y cifras de calidad",
           "list": [
             "Moldes de preforma de 2 a 160 cavidades.",
             "Más de 12.000 cavidades producidas al año.",
             "Canales calientes con válvula de hasta 144 cavidades para preformas.",
             "Capacidad de proceso CPK ≥ 1,33, con tasas de defectos de apenas 0,0064%."
+          ]
+        },
+        {
+          "heading": "Problemas habituales que resuelve una conversión",
+          "list": [
+            "Rebaba en la línea de partición del cuello: anillos de cuello desgastados o superficies de cierre dañadas.",
+            "Espesor de pared irregular: desplazamiento del macho por desgaste de los elementos de centrado entre macho y cavidad.",
+            "Blanqueo o cristalinidad cerca del punto de inyección: refrigeración insuficiente de la zona de entrada o inserto de inyección desgastado.",
+            "Goteo, fugas o hilos en el punto de inyección: puntas de boquilla, agujas de obturación o juntas del canal caliente desgastadas.",
+            "Llenado incompleto o diferencias de peso entre cavidades: canales calientes obstruidos o desequilibrados, o resistencias averiadas.",
+            "Ciclos largos: canales de refrigeración sucios o un diseño de refrigeración que limita la rapidez con la que se pueden expulsar las preformas."
           ]
         },
         {
@@ -260,13 +502,46 @@
           }
         },
         {
+          "heading": "Intercambiabilidad y control de calidad",
+          "list": [
+            "Piezas de conversión 100% intercambiables para sistemas Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps y Corvaglia.",
+            "El utillaje alcanza de forma constante un CPK ≥ 1,33, con tasas de defectos operativos de tan solo el 0,0064%.",
+            "Utillaje construido para soportar hasta 8 millones de ciclos en plataformas Husky, SACMI y Netstal.",
+            "Piezas medidas en un laboratorio propio con MMC Zeiss, junto con un escáner de perfiles 3D y un proyector óptico.",
+            "Informes de validación e inspección suministrados con los moldes y las piezas de repuesto bajo solicitud."
+          ]
+        },
+        {
+          "heading": "Plazos y factores de coste",
+          "paragraphs": [
+            "Los plazos publicados por LIHE son 4 semanas para piezas de repuesto, 20 días para moldes piloto y 8 semanas para moldes PET estándar. El coste de una conversión depende de su alcance, por lo que el precio exacto requiere una cotización basada en sus piezas o planos."
+          ],
+          "list": [
+            "Número de cavidades, porque cada pieza se fabrica una vez por cavidad.",
+            "Número de piezas que cambian por cavidad: solo los anillos de cuello o el conjunto completo.",
+            "Si el canal caliente necesita servicio, como nuevas puntas de boquilla, agujas de obturación, resistencias o juntas.",
+            "Si las placas de la base del molde necesitan sustitución o reacondicionamiento.",
+            "Trabajo de ingeniería para un nuevo acabado de cuello o un diseño de preforma más ligero."
+          ]
+        },
+        {
           "heading": "Qué preparar antes de empezar",
           "steps": [
             "Identifique el molde: fabricante original, modelo de inyectora y número de cavidades.",
             "Envíe piezas de muestra o planos de las piezas a reemplazar.",
             "Describa el objetivo: reemplazo idéntico, nuevo cuello, preforma más ligera o ciclo más corto.",
             "Indique la especificación actual de la preforma, incluido el cuello y el peso.",
-            "Acuerde la inspección: las piezas se miden en una MMC Zeiss y, a petición, se entregan informes de inspección con moldes y repuestos."
+            "Acuerde la inspección: las piezas se miden en una MMC Zeiss y, a petición, se entregan informes de inspección con moldes y repuestos.",
+            "Planifique la instalación y la puesta en marcha: el equipo técnico de LIHE puede apoyar in situ auditorías de interfaz de máquina, la instalación del molde y la puesta en marcha de la máquina."
+          ]
+        },
+        {
+          "heading": "Mantenimiento después de la conversión",
+          "list": [
+            "Siga un plan de mantenimiento preventivo para los conjuntos y las piezas del canal caliente, y registre el número de ciclos de cada molde.",
+            "Mantenga el agua de refrigeración limpia y tratada para conservar la mejora de refrigeración obtenida con la conversión.",
+            "Tenga anillos de cuello de repuesto y otras piezas de alto desgaste para sus formatos de preforma principales.",
+            "Cuando surjan problemas, recurra a la asistencia remota, la asistencia in situ, el suministro de repuestos y los programas de reacondicionamiento de moldes del equipo técnico de LIHE."
           ]
         }
       ],
@@ -282,6 +557,18 @@
         {
           "question": "¿Se entregan informes de inspección?",
           "answer": "Sí. Los componentes se verifican en una máquina de medición por coordenadas Zeiss y otros equipos de control de calidad, y los informes de inspección se entregan con moldes y repuestos a petición."
+        },
+        {
+          "question": "¿Cuánto cuesta una adaptación frente a un molde nuevo?",
+          "answer": "Según las cifras publicadas por LIHE, adaptar un molde existente para aligerar cuesta solo entre el 25% y el 40% del precio de un molde nuevo. El precio exacto depende del alcance y requiere una cotización."
+        },
+        {
+          "question": "¿Se pueden combinar las piezas de LIHE con las piezas originales?",
+          "answer": "Las piezas de conversión de LIHE se fabrican para ser 100% intercambiables en sistemas Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps y Corvaglia, y se verifican en una MMC Zeiss."
+        },
+        {
+          "question": "¿Un cambio de acabado de cuello afecta a la sopladora y a la tapa?",
+          "answer": "Sí. El cuello debe coincidir con la tapa, y la zona del cuello también se usa para manipular la preforma y la botella en la sopladora. Planifique la conversión de cuello junto con su proveedor de tapas y su línea de soplado."
         }
       ]
     }

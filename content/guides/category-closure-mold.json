@@ -1,0 +1,359 @@
+{
+  "key": "category-closure-mold",
+  "updated": "2026-10-13",
+  "sources": [
+    { "label": "Wikipedia — Bottle cap (screw caps and tethered caps)", "url": "https://en.wikipedia.org/wiki/Bottle_cap" },
+    { "label": "European Commission — Single-use plastics, Directive (EU) 2019/904", "url": "https://environment.ec.europa.eu/topics/plastics/single-use-plastics_en" },
+    { "label": "Wikipedia — Tamper-evident technology", "url": "https://en.wikipedia.org/wiki/Tamper-evident_technology" },
+    { "label": "Wikipedia — Injection moulding", "url": "https://en.wikipedia.org/wiki/Injection_moulding" },
+    { "label": "Wikipedia — High-density polyethylene", "url": "https://en.wikipedia.org/wiki/High-density_polyethylene" },
+    { "label": "SACMI — Systems for caps, closures, preforms and containers", "url": "https://www.sacmi.com/en-US/closures-preforms-containers" }
+  ],
+  "locales": {
+    "en": {
+      "heading": "How to choose a closure mold: cap type, neck finish, cavitation and EU tethered caps",
+      "intro": "A closure mold is a multi-cavity tool that forms plastic screw caps for bottles, either on a closure injection molding machine or on a SACMI compression line. This guide is a buying checklist: it explains the decisions that define a cap mold — one-piece or two-piece cap, neck finish, number of cavities, tamper-evident band and EU tethered cap design — and how each one depends on the product you fill. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China.",
+      "sections": [
+        {
+          "heading": "One-piece vs two-piece caps: the first closure mold decision",
+          "paragraphs": [
+            "The cap construction decides how the sealing works and therefore how complex the mold is. Plastic caps are commonly made from polyethylene or polypropylene, and the choice of cap type usually comes before the choice of resin."
+          ],
+          "list": [
+            "One-piece cap: shell, thread, sealing element (for example an inner bore seal) and tamper-evident band are molded in a single shot, usually in polyethylene. No liner is inserted, so the closure line is shorter.",
+            "Two-piece cap: a rigid shell, often polypropylene, plus a separate liner or sealing insert added after molding. Used where the seal needs a different material from the shell.",
+            "Mold impact: a one-piece cap puts all sealing geometry into the core, so core steel, polish and cooling matter most. A two-piece cap moves part of the sealing function to the liner, but the shell still needs accurate thread and band geometry.",
+            "Ask your closure supplier or brand owner which construction is specified before requesting a mold quotation; it changes core design, ejection and cycle."
+          ]
+        },
+        {
+          "heading": "Neck finishes for closure molds: 26mm, 28mm, 2925, 3025 and 38mm",
+          "paragraphs": [
+            "The cap must match the bottle neck finish exactly: thread profile, thread start, sealing surface and the bead that holds the tamper-evident band. LIHE closure molds are built for 26mm, 28mm, 2925, 3025 and 38mm neck finishes, plus custom specifications."
+          ],
+          "list": [
+            "26mm: short, light neck finishes, typically used for still water.",
+            "28mm: the most widespread beverage size, used on finishes such as PCO 1881 and PCO 1810 for carbonated soft drinks and water.",
+            "2925 and 3025 (often written 29/25 and 30/25): short-height finishes used in lightweight bottle programs.",
+            "38mm: wider opening for juice, dairy-type drinks and other viscous or pulpy products.",
+            "If your preform is being changed to a lighter neck, the cap mold must change at the same time — supply the new neck drawing to both the preform and the closure mold maker."
+          ]
+        },
+        {
+          "heading": "Cavitation from 12 to 72 cavities: matching the cap mold to output",
+          "paragraphs": [
+            "Cavitation is the number of caps formed per cycle. LIHE closure injection molds range from 12 to 72 cavities, and closure hot runner systems are available for up to 96 cavities. Higher cavitation raises output per machine but needs a larger clamp, a balanced hot runner and tighter cavity-to-cavity consistency."
+          ],
+          "list": [
+            "Start from the required annual cap volume and the number of available production hours, then compare it with what one machine can deliver at each cavitation.",
+            "Check machine limits: clamp force, platen size, tie-bar distance, shot capacity and the ejection or unscrewing drive.",
+            "Lower cavitation (12–24 cavities) suits short runs, frequent color changes, larger 38mm caps and new designs still being validated.",
+            "Higher cavitation (48–72 cavities) suits high-volume 26mm and 28mm water and soft-drink caps on dedicated lines.",
+            "Plan for spare cavities: a mold that can run with individual cavities blocked keeps producing while a damaged core or cavity is repaired."
+          ]
+        },
+        {
+          "heading": "Tamper-evident band designs and EU tethered caps",
+          "paragraphs": [
+            "A tamper-evident band shows the consumer that the bottle has not been opened: when the cap is first unscrewed, the band separates or stays on the neck. The band is either molded with its final shape or molded as a skirt and then slit and folded on a separate machine after molding.",
+            "Under Directive (EU) 2019/904 on single-use plastics, plastic caps and lids on single-use beverage containers of up to 3 litres placed on the EU market must remain attached to the container during use from 3 July 2024. This is usually achieved with a tethered cap: the band and the cap stay connected by a hinge or strip after opening."
+          ],
+          "list": [
+            "Bridge-type band: thin bridges break on first opening; the band remains on the neck bead.",
+            "Folded band: an inward flap catches under the neck bead to make band separation reliable.",
+            "Tethered cap: a cut or molded pattern in the band leaves a hinge that keeps the cap attached and lets it be held open while drinking.",
+            "Tethered designs change the band geometry and often the slitting pattern, so confirm the target market (EU or not) before the mold is designed."
+          ]
+        },
+        {
+          "heading": "Closure mold selection by application",
+          "table": {
+            "head": ["Application", "Typical neck finish", "Common cap construction", "Points to check in the mold specification"],
+            "rows": [
+              ["Still water", "26mm, 2925, 3025, 28mm", "One-piece, tamper-evident band", "Lightweight cap, high cavitation, EU tethered version if sold in the EU"],
+              ["Carbonated soft drinks", "28mm (PCO 1881 / PCO 1810)", "One-piece with inner seal", "Seal geometry for gas retention, thread venting"],
+              ["Juice and tea drinks", "28mm, 38mm", "One-piece or two-piece", "Wider caps, band design suited to the filling process"],
+              ["Edible oil, condiments, soy sauce", "28mm, 38mm, custom", "One-piece or two-piece", "Pouring or dispensing features, seal against oily contents"],
+              ["Cosmetics and health-care products", "Custom", "Two-piece or one-piece", "Surface finish, color consistency, smaller cavitation"],
+              ["Pharmaceuticals and food packaging", "Custom", "Two-piece or one-piece with tamper evidence", "Tamper-evidence requirement, dimensional consistency"]
+            ]
+          }
+        },
+        {
+          "heading": "How to specify a closure mold: steps before requesting a quotation",
+          "steps": [
+            "Collect the bottle neck finish drawing, or the preform drawing, including thread, sealing surface and band bead dimensions.",
+            "Define the cap: one-piece or two-piece, cap weight target, resin (polyethylene or polypropylene grade), color and any printing or liner.",
+            "Choose the band type: standard tamper-evident band or EU tethered cap, and the target markets.",
+            "Name the machine: closure injection molding machine model, or SACMI compression line if the cap will be compression molded.",
+            "Set the cavitation from the annual volume and machine size, within the 12 to 72 cavity range, and decide whether a closure hot runner is needed.",
+            "Send cap samples if you are replacing an existing mold, so the new tool can match the current cap and capping settings.",
+            "Agree the acceptance plan: sample caps, dimensional reports from the Zeiss CMM lab and a trial on your capping line."
+          ]
+        },
+        {
+          "heading": "What LIHE supplies for closure projects",
+          "list": [
+            "Closure injection molds of 12 to 72 cavities for one-piece and two-piece caps, tamper-evident bands and EU tethered caps.",
+            "Compression molds for SACMI CCM lines when the cap is made by continuous compression molding.",
+            "Closure hot runner systems of up to 96 cavities with replacement nozzle tips, valve pins, heaters and seals.",
+            "Cap mold parts in about 4 weeks; inspection on an in-house Zeiss CMM, with validation reports available on request.",
+            "Engineering with CAD/CAM, 3D simulation and flow analysis before production; LIHE is a Coca-Cola verified mold supplier in the Asia region."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is the difference between a closure mold and a preform mold?",
+          "answer": "A preform mold forms the PET preform, including its neck finish, which is later blown into a bottle. A closure mold forms the cap that screws onto that neck finish. The two must be designed to the same neck drawing, so a neck change affects both molds."
+        },
+        {
+          "question": "Do I need a new mold to make EU tethered caps?",
+          "answer": "Usually the band area changes: a tethered cap needs a band and hinge geometry that keeps the cap attached after opening, as required for beverage containers up to 3 litres by Directive (EU) 2019/904. Depending on the existing design, this can mean new cores, new cavity inserts or a new mold. Send the current cap and drawings so the change can be assessed."
+        },
+        {
+          "question": "How many cavities should my cap mold have?",
+          "answer": "It depends on annual volume, cap size and machine. LIHE closure molds range from 12 to 72 cavities. Smaller cavitation suits larger caps and short runs; 48 to 72 cavities suits high-volume 26mm and 28mm water and soft-drink caps."
+        },
+        {
+          "question": "Can one closure mold run both 2925 and 3025 caps?",
+          "answer": "No. Each neck finish has its own thread and sealing geometry, so the cores and cavities are specific to one finish. Some features, such as the mold base, can be shared when a conversion is planned, but the forming parts must be changed."
+        },
+        {
+          "question": "Should my caps be injection molded or compression molded?",
+          "answer": "It depends mainly on the machines you run or plan to buy. LIHE builds closure injection molds for mainstream closure injection molding machines and compression molds for SACMI CCM lines; our separate article on compression vs injection molding compares the two processes."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "Как выбрать пресс-форму для колпачков: тип колпачка, горловина, гнёздность и EU tethered caps",
+      "intro": "Пресс-форма для колпачков — это многогнёздная оснастка, которая формует пластиковые винтовые колпачки для бутылок на литьевой машине для колпачков или на компрессионной линии SACMI. Это руководство — контрольный список для закупки: в нём описаны решения, которые определяют пресс-форму для колпачков, — одно- или двухкомпонентный колпачок, тип горловины, число гнёзд, кольцо контроля первого вскрытия и привязанный колпачок по требованиям ЕС, а также их зависимость от продукта розлива. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) — производитель пресс-форм для ПЭТ-преформ, выдувных форм, форм для колпачков и компрессионных форм, горячеканальных систем и комплектующих для производства напитков и упаковки, с производством в Фошане, Китай.",
+      "sections": [
+        {
+          "heading": "Однокомпонентный или двухкомпонентный колпачок: первое решение",
+          "paragraphs": [
+            "Конструкция колпачка определяет способ уплотнения и, следовательно, сложность пресс-формы. Пластиковые колпачки обычно изготавливают из полиэтилена или полипропилена, и тип колпачка, как правило, выбирают раньше, чем материал."
+          ],
+          "list": [
+            "Однокомпонентный колпачок: корпус, резьба, уплотняющий элемент (например, внутреннее уплотнение по каналу горловины) и кольцо контроля вскрытия формуются за один цикл, обычно из полиэтилена. Вкладыш не нужен, поэтому линия производства короче.",
+            "Двухкомпонентный колпачок: жёсткий корпус, часто из полипропилена, и отдельный уплотнительный вкладыш, устанавливаемый после формования. Применяется, когда уплотнение должно быть из другого материала.",
+            "Влияние на пресс-форму: в однокомпонентном колпачке вся геометрия уплотнения находится на знаке (пуансоне), поэтому важнее всего сталь, полировка и охлаждение знака. В двухкомпонентном колпачке часть функции уплотнения берёт на себя вкладыш, но резьба и кольцо по-прежнему требуют точной геометрии.",
+            "Уточните у поставщика колпачков или владельца бренда, какая конструкция утверждена, до запроса цены на пресс-форму: от этого зависят конструкция знака, съём изделия и цикл."
+          ]
+        },
+        {
+          "heading": "Горловины для пресс-форм колпачков: 26 мм, 28 мм, 2925, 3025 и 38 мм",
+          "paragraphs": [
+            "Колпачок должен точно соответствовать горловине бутылки: профилю и заходу резьбы, уплотняющей поверхности и буртику, который удерживает кольцо контроля вскрытия. Пресс-формы LIHE для колпачков выпускаются под горловины 26 мм, 28 мм, 2925, 3025 и 38 мм, а также под индивидуальные спецификации."
+          ],
+          "list": [
+            "26 мм: короткие лёгкие горловины, обычно для негазированной воды.",
+            "28 мм: самый распространённый размер для напитков, например горловины PCO 1881 и PCO 1810 для газированных напитков и воды.",
+            "2925 и 3025 (часто пишут 29/25 и 30/25): горловины уменьшенной высоты для программ облегчения бутылки.",
+            "38 мм: широкое горло для соков, молочных напитков и других вязких продуктов или продуктов с мякотью.",
+            "Если преформу переводят на более лёгкую горловину, пресс-форму для колпачков нужно менять одновременно — передайте новый чертёж горловины и изготовителю формы для преформ, и изготовителю формы для колпачков."
+          ]
+        },
+        {
+          "heading": "Гнёздность от 12 до 72 гнёзд: выбор пресс-формы под производительность",
+          "paragraphs": [
+            "Гнёздность — это число колпачков, формуемых за один цикл. Литьевые пресс-формы LIHE для колпачков имеют от 12 до 72 гнёзд, а горячеканальные системы для колпачков — до 96 гнёзд. Большее число гнёзд повышает выпуск на одной машине, но требует большего усилия смыкания, сбалансированной горячеканальной системы и более жёсткой стабильности между гнёздами."
+          ],
+          "list": [
+            "Исходите из годового объёма колпачков и доступного числа рабочих часов, затем сравните с тем, что одна машина выпускает при каждой гнёздности.",
+            "Проверьте ограничения машины: усилие смыкания, размер плит, расстояние между колоннами, объём впрыска и привод съёма или вывинчивания.",
+            "Малая гнёздность (12–24 гнезда) подходит для коротких серий, частой смены цвета, колпачков 38 мм и новых конструкций, которые ещё проходят проверку.",
+            "Высокая гнёздность (48–72 гнезда) подходит для больших объёмов колпачков 26 мм и 28 мм для воды и безалкогольных напитков на выделенных линиях.",
+            "Предусмотрите возможность работы с заглушёнными гнёздами: такая форма продолжает работать, пока повреждённый знак или матрица в ремонте."
+          ]
+        },
+        {
+          "heading": "Кольцо контроля первого вскрытия и привязанные колпачки ЕС",
+          "paragraphs": [
+            "Кольцо контроля первого вскрытия показывает покупателю, что бутылку не открывали: при первом отвинчивании кольцо отделяется или остаётся на горловине. Кольцо либо формуется сразу в окончательной форме, либо формуется как юбка, которую затем надрезают и подгибают на отдельной машине.",
+            "Согласно Директиве (ЕС) 2019/904 об одноразовых пластиковых изделиях, с 3 июля 2024 года пластиковые колпачки и крышки на одноразовых ёмкостях для напитков объёмом до 3 литров, выпускаемых на рынок ЕС, должны оставаться прикреплёнными к ёмкости во время использования. Обычно это решается привязанным колпачком (tethered cap): после вскрытия кольцо и колпачок остаются соединены шарниром или полоской."
+          ],
+          "list": [
+            "Кольцо с перемычками: тонкие перемычки разрываются при первом вскрытии, кольцо остаётся на буртике горловины.",
+            "Подогнутое кольцо: внутренний лепесток заходит под буртик и делает отделение кольца надёжным.",
+            "Привязанный колпачок: надрез или отформованный рисунок кольца оставляет шарнир, который удерживает колпачок и позволяет держать его открытым во время питья.",
+            "Привязанные конструкции меняют геометрию кольца и часто схему надреза, поэтому определите целевой рынок (ЕС или нет) до проектирования формы."
+          ]
+        },
+        {
+          "heading": "Выбор пресс-формы для колпачков по области применения",
+          "table": {
+            "head": ["Применение", "Типичная горловина", "Обычная конструкция колпачка", "Что проверить в спецификации формы"],
+            "rows": [
+              ["Негазированная вода", "26 мм, 2925, 3025, 28 мм", "Однокомпонентный, с кольцом контроля вскрытия", "Лёгкий колпачок, высокая гнёздность, привязанная версия для рынка ЕС"],
+              ["Газированные напитки", "28 мм (PCO 1881 / PCO 1810)", "Однокомпонентный с внутренним уплотнением", "Геометрия уплотнения для удержания газа, вентиляция резьбы"],
+              ["Соки и чайные напитки", "28 мм, 38 мм", "Одно- или двухкомпонентный", "Более широкие колпачки, кольцо под процесс розлива"],
+              ["Растительное масло, приправы, соевый соус", "28 мм, 38 мм, индивидуальная", "Одно- или двухкомпонентный", "Элементы для дозирования, уплотнение против масла"],
+              ["Косметика и товары для здоровья", "Индивидуальная", "Двух- или однокомпонентный", "Качество поверхности, стабильность цвета, меньшая гнёздность"],
+              ["Фармацевтика и пищевая упаковка", "Индивидуальная", "С контролем вскрытия", "Требования к контролю вскрытия, стабильность размеров"]
+            ]
+          }
+        },
+        {
+          "heading": "Как составить техническое задание на пресс-форму для колпачков",
+          "steps": [
+            "Соберите чертёж горловины бутылки или преформы с размерами резьбы, уплотняющей поверхности и буртика для кольца.",
+            "Определите колпачок: одно- или двухкомпонентный, целевую массу, материал (марку полиэтилена или полипропилена), цвет, печать или вкладыш.",
+            "Выберите тип кольца: стандартное кольцо контроля вскрытия или привязанный колпачок ЕС, а также целевые рынки.",
+            "Укажите машину: модель литьевой машины для колпачков или компрессионную линию SACMI, если колпачок будет формоваться компрессией.",
+            "Задайте гнёздность по годовому объёму и размеру машины в диапазоне от 12 до 72 гнёзд и решите, нужна ли горячеканальная система.",
+            "Пришлите образцы колпачков, если заменяется существующая форма, чтобы новая оснастка соответствовала текущему колпачку и настройкам укупорки.",
+            "Согласуйте порядок приёмки: образцы колпачков, отчёты измерений на КИМ Zeiss и испытание на вашей укупорочной линии."
+          ]
+        },
+        {
+          "heading": "Что LIHE поставляет для проектов по колпачкам",
+          "list": [
+            "Литьевые пресс-формы для колпачков на 12–72 гнезда для одно- и двухкомпонентных колпачков, колец контроля вскрытия и привязанных колпачков ЕС.",
+            "Компрессионные формы для линий SACMI CCM, если колпачок производится непрерывным компрессионным формованием.",
+            "Горячеканальные системы для колпачков до 96 гнёзд, сменные наконечники сопел, запорные иглы, нагреватели и уплотнения.",
+            "Детали пресс-форм для колпачков примерно за 4 недели; контроль на собственной КИМ Zeiss, отчёты о проверке по запросу.",
+            "Проектирование с CAD/CAM, 3D-моделированием и анализом течения до запуска производства; LIHE — проверенный компанией Coca-Cola поставщик пресс-форм в Азиатском регионе."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Чем пресс-форма для колпачков отличается от формы для преформ?",
+          "answer": "Форма для преформ формует ПЭТ-преформу вместе с горловиной, из которой затем выдувается бутылка. Пресс-форма для колпачков формует колпачок, который навинчивается на эту горловину. Обе формы проектируются по одному чертежу горловины, поэтому её изменение затрагивает обе формы."
+        },
+        {
+          "question": "Нужна ли новая пресс-форма для привязанных колпачков ЕС?",
+          "answer": "Обычно меняется зона кольца: привязанному колпачку нужна геометрия кольца и шарнира, которая удерживает колпачок после вскрытия, как требует Директива (ЕС) 2019/904 для ёмкостей до 3 литров. В зависимости от текущей конструкции это могут быть новые знаки, новые вставки матриц или новая форма. Пришлите текущий колпачок и чертежи для оценки."
+        },
+        {
+          "question": "Сколько гнёзд должно быть в пресс-форме для колпачков?",
+          "answer": "Это зависит от годового объёма, размера колпачка и машины. Пресс-формы LIHE для колпачков имеют от 12 до 72 гнёзд. Малая гнёздность подходит для крупных колпачков и коротких серий, 48–72 гнезда — для больших объёмов колпачков 26 мм и 28 мм."
+        },
+        {
+          "question": "Может ли одна пресс-форма выпускать колпачки 2925 и 3025?",
+          "answer": "Нет. У каждой горловины своя геометрия резьбы и уплотнения, поэтому знаки и матрицы рассчитаны на одну горловину. Некоторые элементы, например корпус формы, можно сохранить при запланированной переналадке, но формообразующие детали нужно менять."
+        },
+        {
+          "question": "Литьё под давлением или компрессионное формование для моих колпачков?",
+          "answer": "Это зависит прежде всего от машин, которые у вас есть или которые вы планируете купить. LIHE изготавливает литьевые формы для основных литьевых машин для колпачков и компрессионные формы для линий SACMI CCM; сравнение двух процессов приведено в нашей отдельной статье."
+        }
+      ]
+    },
+    "es": {
+      "heading": "Cómo elegir un molde de tapas: tipo de tapa, acabado de cuello, cavidades y tapas sujetas UE",
+      "intro": "Un molde de tapas es un molde de múltiples cavidades que forma tapas roscadas de plástico para botellas, en una inyectora de tapas o en una línea de compresión SACMI. Esta guía es una lista de compra: explica las decisiones que definen un molde de tapas —tapa de una o de dos piezas, acabado de cuello, número de cavidades, banda de garantía y diseño de tapa sujeta para la UE— y cómo cada una depende del producto que se envasa. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) es un fabricante de moldes de preforma PET, moldes de soplado, moldes de tapas y de compresión, sistemas de canal caliente y componentes de molde para la industria de bebidas y envases, con fabricación en Foshan, China.",
+      "sections": [
+        {
+          "heading": "Tapa de una pieza o de dos piezas: la primera decisión del molde de tapas",
+          "paragraphs": [
+            "La construcción de la tapa decide cómo se logra el sellado y, por tanto, la complejidad del molde. Las tapas de plástico suelen fabricarse en polietileno o polipropileno, y el tipo de tapa normalmente se elige antes que la resina."
+          ],
+          "list": [
+            "Tapa de una pieza: cuerpo, rosca, elemento de sellado (por ejemplo un sello interior en la boca) y banda de garantía se moldean en una sola inyección, normalmente en polietileno. No lleva liner, por lo que la línea de tapas es más corta.",
+            "Tapa de dos piezas: un cuerpo rígido, a menudo de polipropileno, más un liner o inserto de sellado añadido después del moldeo. Se usa cuando el sello necesita un material distinto al del cuerpo.",
+            "Efecto en el molde: en la tapa de una pieza toda la geometría de sellado está en el macho, por lo que el acero, el pulido y la refrigeración del macho son lo más importante. En la de dos piezas el liner asume parte del sellado, pero la rosca y la banda siguen necesitando una geometría precisa.",
+            "Consulte al proveedor de tapas o al propietario de la marca qué construcción está especificada antes de pedir una cotización del molde; cambia el diseño del macho, la extracción y el ciclo."
+          ]
+        },
+        {
+          "heading": "Acabados de cuello para moldes de tapas: 26 mm, 28 mm, 2925, 3025 y 38 mm",
+          "paragraphs": [
+            "La tapa debe coincidir exactamente con el acabado del cuello de la botella: perfil y entrada de la rosca, superficie de sellado y el resalte que retiene la banda de garantía. Los moldes de tapas de LIHE se fabrican para acabados de 26 mm, 28 mm, 2925, 3025 y 38 mm, además de especificaciones a medida."
+          ],
+          "list": [
+            "26 mm: acabados cortos y ligeros, habitualmente para agua sin gas.",
+            "28 mm: el tamaño más extendido en bebidas, en acabados como PCO 1881 y PCO 1810 para refrescos carbonatados y agua.",
+            "2925 y 3025 (a menudo escritos 29/25 y 30/25): acabados de altura reducida usados en programas de aligeramiento de botellas.",
+            "38 mm: boca más ancha para zumos, bebidas lácteas y otros productos viscosos o con pulpa.",
+            "Si la preforma pasa a un cuello más ligero, el molde de tapas debe cambiar al mismo tiempo: entregue el nuevo plano del cuello tanto al fabricante del molde de preformas como al del molde de tapas."
+          ]
+        },
+        {
+          "heading": "De 12 a 72 cavidades: ajustar el molde de tapas a la producción",
+          "paragraphs": [
+            "La cavitación es el número de tapas formadas por ciclo. Los moldes de inyección de tapas de LIHE van de 12 a 72 cavidades, y los sistemas de canal caliente para tapas están disponibles hasta 96 cavidades. Más cavidades aumentan la producción por máquina, pero exigen mayor fuerza de cierre, un canal caliente equilibrado y una consistencia más estricta entre cavidades."
+          ],
+          "list": [
+            "Parta del volumen anual de tapas y de las horas de producción disponibles, y compárelo con lo que una máquina entrega con cada cavitación.",
+            "Revise los límites de la máquina: fuerza de cierre, tamaño de platos, distancia entre columnas, capacidad de inyección y accionamiento de extracción o desenroscado.",
+            "Pocas cavidades (12–24) convienen para series cortas, cambios frecuentes de color, tapas de 38 mm y diseños nuevos aún en validación.",
+            "Muchas cavidades (48–72) convienen para grandes volúmenes de tapas de 26 mm y 28 mm para agua y refrescos en líneas dedicadas.",
+            "Prevea cavidades bloqueables: un molde que puede trabajar con cavidades individuales anuladas sigue produciendo mientras se repara un macho o una cavidad dañados."
+          ]
+        },
+        {
+          "heading": "Diseños de banda de garantía y tapas sujetas de la UE",
+          "paragraphs": [
+            "La banda de garantía (tamper-evident) indica al consumidor que la botella no se ha abierto: al desenroscar la tapa por primera vez, la banda se separa o queda en el cuello. La banda se moldea con su forma final o se moldea como una falda que después se corta y se pliega en una máquina aparte.",
+            "Según la Directiva (UE) 2019/904 sobre plásticos de un solo uso, desde el 3 de julio de 2024 las tapas y tapones de plástico de los recipientes de bebidas de un solo uso de hasta 3 litros comercializados en la UE deben permanecer unidos al recipiente durante su uso. Normalmente se consigue con una tapa sujeta (tethered cap): tras la apertura, la banda y la tapa siguen unidas por una bisagra o tira."
+          ],
+          "list": [
+            "Banda con puentes: los puentes finos se rompen en la primera apertura y la banda queda en el resalte del cuello.",
+            "Banda plegada: una solapa interior se engancha bajo el resalte para que la separación de la banda sea fiable.",
+            "Tapa sujeta: un corte o un patrón moldeado en la banda deja una bisagra que mantiene la tapa unida y permite dejarla abierta al beber.",
+            "Los diseños sujetos cambian la geometría de la banda y a menudo el patrón de corte, por lo que conviene confirmar el mercado de destino (UE o no) antes de diseñar el molde."
+          ]
+        },
+        {
+          "heading": "Selección del molde de tapas según la aplicación",
+          "table": {
+            "head": ["Aplicación", "Acabado de cuello típico", "Construcción de tapa habitual", "Puntos a revisar en la especificación del molde"],
+            "rows": [
+              ["Agua sin gas", "26 mm, 2925, 3025, 28 mm", "Una pieza, con banda de garantía", "Tapa ligera, alta cavitación, versión sujeta si se vende en la UE"],
+              ["Refrescos carbonatados", "28 mm (PCO 1881 / PCO 1810)", "Una pieza con sello interior", "Geometría de sello para retener el gas, venteo de la rosca"],
+              ["Zumos y bebidas de té", "28 mm, 38 mm", "Una o dos piezas", "Tapas más anchas, banda adecuada al proceso de llenado"],
+              ["Aceite comestible, condimentos, salsa de soja", "28 mm, 38 mm, a medida", "Una o dos piezas", "Elementos de vertido o dosificación, sello frente al aceite"],
+              ["Cosmética y productos de salud", "A medida", "Dos piezas o una pieza", "Acabado superficial, consistencia de color, menor cavitación"],
+              ["Farmacia y envases alimentarios", "A medida", "Con garantía de apertura", "Requisitos de garantía, consistencia dimensional"]
+            ]
+          }
+        },
+        {
+          "heading": "Cómo especificar un molde de tapas antes de pedir cotización",
+          "steps": [
+            "Reúna el plano del acabado de cuello de la botella o de la preforma, con las cotas de rosca, superficie de sellado y resalte de la banda.",
+            "Defina la tapa: una o dos piezas, peso objetivo, resina (grado de polietileno o polipropileno), color y si lleva impresión o liner.",
+            "Elija el tipo de banda: banda de garantía estándar o tapa sujeta UE, y los mercados de destino.",
+            "Indique la máquina: modelo de inyectora de tapas, o línea de compresión SACMI si la tapa se moldeará por compresión.",
+            "Fije la cavitación según el volumen anual y el tamaño de la máquina, dentro del rango de 12 a 72 cavidades, y decida si necesita canal caliente.",
+            "Envíe muestras de tapas si sustituye un molde existente, para que el nuevo molde coincida con la tapa actual y los ajustes de taponado.",
+            "Acuerde el plan de aceptación: tapas de muestra, informes dimensionales del laboratorio CMM Zeiss y una prueba en su línea de taponado."
+          ]
+        },
+        {
+          "heading": "Qué suministra LIHE para proyectos de tapas",
+          "list": [
+            "Moldes de inyección de tapas de 12 a 72 cavidades para tapas de una y dos piezas, bandas de garantía y tapas sujetas UE.",
+            "Moldes de compresión para líneas SACMI CCM cuando la tapa se fabrica por moldeo por compresión continuo.",
+            "Sistemas de canal caliente para tapas de hasta 96 cavidades, con puntas de boquilla, agujas de válvula, resistencias y juntas de repuesto.",
+            "Piezas de moldes de tapas en unas 4 semanas; inspección en CMM Zeiss propia, con informes de validación bajo pedido.",
+            "Ingeniería con CAD/CAM, simulación 3D y análisis de flujo antes de la producción; LIHE es proveedor de moldes verificado por Coca-Cola en la región de Asia."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Qué diferencia hay entre un molde de tapas y un molde de preformas?",
+          "answer": "El molde de preformas forma la preforma PET, incluido su acabado de cuello, que luego se sopla para obtener la botella. El molde de tapas forma la tapa que se enrosca en ese cuello. Ambos se diseñan con el mismo plano de cuello, por lo que un cambio de cuello afecta a los dos moldes."
+        },
+        {
+          "question": "¿Necesito un molde nuevo para fabricar tapas sujetas de la UE?",
+          "answer": "Normalmente cambia la zona de la banda: una tapa sujeta necesita una geometría de banda y bisagra que mantenga la tapa unida tras la apertura, como exige la Directiva (UE) 2019/904 para recipientes de hasta 3 litros. Según el diseño actual, puede significar nuevos machos, nuevos insertos de cavidad o un molde nuevo. Envíe la tapa actual y los planos para evaluarlo."
+        },
+        {
+          "question": "¿Cuántas cavidades debe tener mi molde de tapas?",
+          "answer": "Depende del volumen anual, del tamaño de la tapa y de la máquina. Los moldes de tapas de LIHE van de 12 a 72 cavidades. Pocas cavidades convienen para tapas grandes y series cortas; de 48 a 72 cavidades, para grandes volúmenes de tapas de 26 mm y 28 mm."
+        },
+        {
+          "question": "¿Puede un mismo molde producir tapas 2925 y 3025?",
+          "answer": "No. Cada acabado de cuello tiene su propia geometría de rosca y sellado, por lo que machos y cavidades son específicos de un acabado. Algunos elementos, como la base del molde, pueden mantenerse en una conversión planificada, pero las piezas de formado deben cambiarse."
+        },
+        {
+          "question": "¿Mis tapas deben fabricarse por inyección o por compresión?",
+          "answer": "Depende sobre todo de las máquinas que tiene o piensa comprar. LIHE fabrica moldes de inyección para las inyectoras de tapas más habituales y moldes de compresión para líneas SACMI CCM; nuestro artículo aparte sobre compresión frente a inyección compara ambos procesos."
+        }
+      ]
+    }
+  }
+}

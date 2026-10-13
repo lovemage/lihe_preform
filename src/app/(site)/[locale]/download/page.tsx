@@ -5,6 +5,7 @@ import Breadcrumb from "@/components/ui/Breadcrumb/Breadcrumb";
 import SectionHeading from "@/components/ui/SectionHeading/SectionHeading";
 import Button from "@/components/ui/Button/Button";
 import styles from "./page.module.css";
+import PageGuide from "@/components/content/PageGuide";
 
 export async function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -69,6 +70,7 @@ export default async function DownloadPage({
           </Button>
         </div>
       </div>
+      <PageGuide locale={locale} guideKey="page-download" />
     </div>
   );
 }

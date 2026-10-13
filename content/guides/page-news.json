@@ -1,0 +1,457 @@
+{
+  "key": "page-news",
+  "updated": "2026-10-13",
+  "sources": [
+    {
+      "label": "Wikipedia — Polyethylene terephthalate",
+      "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate"
+    },
+    {
+      "label": "Wikipedia — Compression molding",
+      "url": "https://en.wikipedia.org/wiki/Compression_molding"
+    },
+    {
+      "label": "Wikipedia — Blow molding",
+      "url": "https://en.wikipedia.org/wiki/Blow_molding"
+    },
+    {
+      "label": "Wikipedia — Plastic recycling",
+      "url": "https://en.wikipedia.org/wiki/Plastic_recycling"
+    },
+    {
+      "label": "International Society of Beverage Technologists (ISBT)",
+      "url": "https://www.isbt.com/"
+    }
+  ],
+  "locales": {
+    "en": {
+      "heading": "LIHE News & Insights: a technical library on PET preform molds, closures, blow molds and rPET",
+      "intro": "LIHE News & Insights is a technical library of practical articles on PET preform molds, hot runners, closure molding, blow molds and line conversions, written by the LIHE Precision Engineering Team for the people who specify, run and buy this tooling. This guide explains which topics the library covers, suggests reading paths for buyers, plant engineers and procurement teams, and shows how to turn an article into a precise enquiry.",
+      "sections": [
+        {
+          "heading": "Topics covered: PET preform molds, hot runners, closures, blow molds and rPET",
+          "paragraphs": [
+            "Each article answers one concrete question that comes up when a plant changes a product, a material, a machine or a supplier. The articles fall into five topic areas."
+          ],
+          "list": [
+            "Blow molds and filling: hot fill vs cold fill PET blow molds, which beverages each mold type suits and what to specify when ordering. Standard PET deforms above about 60°C, while hot fill runs at about 85–95°C.",
+            "Closures: compression vs injection molding for plastic caps, the molds each process needs and how to decide which fits your cap line.",
+            "Replacement and compatible tooling: compatible replacement molds for existing PET injection systems, replacement parts and tooling conversion for Husky, SACMI and Otto preform molds, replacement molds and hot runners for SACMI, SIPA and NETSTAL machines, and drop-in replacement hot runners.",
+            "Upgrades and troubleshooting: increasing cavitation on an existing preform mold, finding the causes of slow cycles and preform defects, and moving a PET bottle line to 100% rPET.",
+            "Supplier evaluation: how LIHE compares with OEM suppliers for cap molds, blow molds and retrofits, the risks of non-OEM molds and how to control them, and what to check when buying Husky-compatible preform molds."
+          ]
+        },
+        {
+          "heading": "Reading path for buyers and project owners",
+          "list": [
+            "Start with the article that matches your decision: new blow mold, new cap process, or reuse of an existing preform mold.",
+            "Read the comparison tables first; they summarise the trade-offs in one place.",
+            "Note the published LIHE figures in each article, such as lead times of 20 days for pilot molds and 8 weeks for standard PET molds, and use them for planning.",
+            "Finish with the FAQ section, which answers the questions buyers most often ask about scope and compatibility.",
+            "Follow the related product links at the end of each article to the matching product page."
+          ]
+        },
+        {
+          "heading": "Reading path for plant and maintenance engineers",
+          "list": [
+            "For a running problem, start with the troubleshooting article: it gives a step-by-step procedure and a defect table before you decide whether to call in the mold maker.",
+            "Use the step-by-step sections as a checklist for a conversion: they follow the order in which a line is changed.",
+            "In the rPET article, check the defect and cause lists against what you see on your preforms before changing settings.",
+            "In the tooling conversion article, check which worn parts can be reproduced from your existing Husky, SACMI or Otto parts; replacement parts take 4 weeks.",
+            "Use the references at the end of each article to check general engineering background, such as how PET behaves or how compression molding works."
+          ]
+        },
+        {
+          "heading": "Reading path for procurement teams",
+          "list": [
+            "When qualifying a non-OEM supplier, read the supplier evaluation articles first: they include a risk checklist of what to verify before ordering and questions to ask any mold supplier.",
+            "Use the articles to understand which technical inputs your engineers must provide before a quote can be prepared.",
+            "Compare routes by cost logic: retrofitting an existing mold for lightweighting costs 25%–40% of a new mold price, according to LIHE's published figures.",
+            "Check guarantee and lead time statements: the 3-year leakage-proof guarantee applies to Husky Ultra-type hot runners; replacement parts and cap mold parts take 4 weeks.",
+            "Note that articles do not contain prices; prices are always set in a project quotation."
+          ]
+        },
+        {
+          "heading": "Which article answers which question",
+          "table": {
+            "head": [
+              "Your question",
+              "Article topic",
+              "Related product family"
+            ],
+            "rows": [
+              [
+                "Our new juice or tea product is filled hot. Which blow mold do we need?",
+                "Hot fill vs cold fill PET blow molds",
+                "Blow molds, hot fill blow mold"
+              ],
+              [
+                "Should our new cap line use compression or injection?",
+                "Compression vs injection molding for plastic closures",
+                "Compression molds, closure molds, hot runners"
+              ],
+              [
+                "Can we change a neck finish or lightweight a preform without a new mold?",
+                "Replacement parts and tooling conversion for Husky, SACMI and Otto preform molds",
+                "Tooling conversion, preform molds, mold bases"
+              ],
+              [
+                "What changes when we move to 100% recycled PET?",
+                "Moving a PET bottle line to 100% rPET",
+                "Preform molds, hot runners"
+              ],
+              [
+                "Our preform mold runs slow and produces defects. Where do we start?",
+                "Troubleshooting a slow PET preform mold with defects",
+                "Preform molds, hot runners, QC equipment"
+              ],
+              [
+                "Can we add cavities to the mold we already have?",
+                "Increasing cavitation on an existing PET preform mold",
+                "Preform molds, hot runners, mold bases"
+              ],
+              [
+                "Our hot runner needs replacing. Is there a drop-in option?",
+                "Drop-in replacement hot runners for PET preform molds",
+                "Hot runner systems, tooling conversion"
+              ],
+              [
+                "Is a non-OEM mold a risk for our line?",
+                "Risks of non-OEM molds; LIHE compared with OEM suppliers",
+                "Tooling conversion, preform molds, closure molds"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "How to turn an article into a precise enquiry",
+          "steps": [
+            "Pick the article that matches your project and read its key numbers and FAQ.",
+            "Write down the inputs the article asks for, such as neck finish, preform weight, cavitation, machine model and filling type.",
+            "Collect drawings or samples of your current preform, cap or bottle.",
+            "Send the inputs to sales@lihe-preform.com, quoting the article title so the engineering team knows which route you are considering.",
+            "Review LIHE's engineering feedback and quotation, then confirm the scope and lead time."
+          ]
+        },
+        {
+          "heading": "How LIHE writes its technical content",
+          "list": [
+            "LIHE-specific figures, such as CPK ≥ 1.33, defect rates as low as 0.0064% and cavitation up to 160 cavities, come only from data LIHE publishes on this site.",
+            "General engineering statements are supported by external references listed at the end of each article.",
+            "Each article shows its publication date and author, the LIHE Precision Engineering Team.",
+            "Articles are published in English, Russian and Spanish with the same content in each language.",
+            "Articles explain trade-offs plainly and do not include prices, named customers or performance promises that are not published by LIHE."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Who writes the articles in News & Insights?",
+          "answer": "The articles are written by the LIHE Precision Engineering Team. LIHE-specific figures come from LIHE's published data, and general engineering background is supported by external references."
+        },
+        {
+          "question": "Are the numbers in the articles guaranteed for my project?",
+          "answer": "The LIHE figures are published values, such as 8 weeks for a standard PET mold or a 1g to 2g preform weight reduction through lightweighting. The figures for your project are confirmed in its quotation after the engineering review."
+        },
+        {
+          "question": "Can I suggest a topic for a new article?",
+          "answer": "Yes. Send your question to sales@lihe-preform.com. Questions that come up repeatedly from plants and buyers are the basis for new articles."
+        },
+        {
+          "question": "Are the articles available in other languages?",
+          "answer": "Yes. Every article is published in English, Russian and Spanish."
+        },
+        {
+          "question": "Why do the articles not show prices?",
+          "answer": "Mold prices depend on cavitation, neck finish, machine platform and scope, so they cannot be stated in a general article. Each project is quoted individually."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "LIHE News & Insights: техническая библиотека о пресс-формах для ПЭТ-преформ, колпачках, выдувных формах и rPET",
+      "intro": "LIHE News & Insights — это техническая библиотека практических статей о пресс-формах для ПЭТ-преформ, горячеканальных системах, производстве колпачков, выдувных формах и переналадке линий, которую пишет инженерная команда LIHE Precision для тех, кто выбирает, эксплуатирует и закупает такую оснастку. Это руководство объясняет, какие темы охватывает библиотека, предлагает маршруты чтения для покупателей, инженеров производства и отделов закупок и показывает, как превратить статью в точный запрос.",
+      "sections": [
+        {
+          "heading": "Темы: пресс-формы для ПЭТ-преформ, горячие каналы, колпачки, выдувные формы и rPET",
+          "paragraphs": [
+            "Каждая статья отвечает на один конкретный вопрос, который возникает, когда завод меняет продукт, материал, машину или поставщика. Статьи объединены в пять тематических групп."
+          ],
+          "list": [
+            "Выдувные формы и розлив: выдувные формы ПЭТ для горячего и холодного розлива, для каких напитков подходит каждый тип и что указать при заказе. Стандартный ПЭТ деформируется при температуре выше примерно 60°C, а горячий розлив идёт при 85–95°C.",
+            "Колпачки: компрессионное формование и литьё под давлением для пластиковых колпачков, какие формы нужны каждому процессу и как выбрать вариант для вашей линии.",
+            "Сменная и совместимая оснастка: совместимые сменные формы для существующих систем литья ПЭТ, запасные части и переоснащение пресс-форм для преформ Husky, SACMI и Otto, сменные формы и горячие каналы для машин SACMI, SIPA и NETSTAL, а также горячие каналы для прямой замены.",
+            "Модернизация и устранение неполадок: увеличение гнёздности существующей пресс-формы для преформ, поиск причин медленного цикла и дефектов преформ и перевод линии ПЭТ-бутылок на 100% rPET.",
+            "Оценка поставщика: как LIHE соотносится с OEM-поставщиками форм для колпачков, выдувных форм и модернизации, риски форм не от OEM и как ими управлять, а также что проверить при покупке пресс-форм для преформ, совместимых с Husky."
+          ]
+        },
+        {
+          "heading": "Маршрут чтения для покупателей и владельцев проектов",
+          "list": [
+            "Начните со статьи, соответствующей вашему решению: новая выдувная форма, новый способ производства колпачков или сохранение существующей пресс-формы для преформ.",
+            "Сначала прочитайте сравнительные таблицы: в них компромиссы собраны в одном месте.",
+            "Отметьте опубликованные цифры LIHE в каждой статье, например сроки 20 дней для пилотных форм и 8 недель для стандартных форм ПЭТ, и используйте их для планирования.",
+            "Завершите разделом вопросов и ответов, где разобраны вопросы о составе работ и совместимости, которые покупатели задают чаще всего.",
+            "Перейдите по ссылкам на связанные продукты в конце каждой статьи на соответствующую страницу продукта."
+          ]
+        },
+        {
+          "heading": "Маршрут чтения для инженеров производства и обслуживания",
+          "list": [
+            "Если проблема возникла на работающей линии, начните со статьи об устранении неполадок: в ней есть пошаговая процедура и таблица дефектов, которые помогут решить, нужно ли привлекать изготовителя формы.",
+            "Используйте пошаговые разделы как чек-лист для переналадки: они идут в том порядке, в котором меняется линия.",
+            "В статье о rPET сверьте списки дефектов и их причин с тем, что вы видите на своих преформах, прежде чем менять настройки.",
+            "В статье о переоснащении проверьте, какие изношенные детали можно изготовить по вашим существующим деталям Husky, SACMI или Otto; срок изготовления запасных частей — 4 недели.",
+            "Используйте ссылки в конце каждой статьи для проверки общих инженерных сведений, например о поведении ПЭТ или о принципе компрессионного формования."
+          ]
+        },
+        {
+          "heading": "Маршрут чтения для отделов закупок",
+          "list": [
+            "При квалификации поставщика, не являющегося OEM, сначала прочитайте статьи об оценке поставщика: в них есть чек-лист рисков с тем, что проверить до заказа, и вопросы, которые стоит задать любому производителю форм.",
+            "Используйте статьи, чтобы понять, какие технические данные должны предоставить ваши инженеры, прежде чем можно будет подготовить предложение.",
+            "Сравнивайте варианты по логике затрат: модернизация существующей формы для облегчения преформы стоит 25–40% цены новой формы, согласно опубликованным данным LIHE.",
+            "Проверяйте заявления о гарантии и сроках: гарантия 3 года от протечек относится к горячим каналам типа Husky Ultra; запасные части и детали форм для колпачков изготавливаются за 4 недели.",
+            "Учитывайте, что в статьях нет цен; цена всегда устанавливается в коммерческом предложении по проекту."
+          ]
+        },
+        {
+          "heading": "Какая статья отвечает на какой вопрос",
+          "table": {
+            "head": [
+              "Ваш вопрос",
+              "Тема статьи",
+              "Связанная продуктовая группа"
+            ],
+            "rows": [
+              [
+                "Наш новый сок или чай разливается горячим. Какая выдувная форма нужна?",
+                "Выдувные формы для горячего и холодного розлива ПЭТ",
+                "Выдувные формы, форма для горячего розлива"
+              ],
+              [
+                "Что выбрать для новой линии колпачков — компрессию или литьё?",
+                "Компрессионное формование и литьё под давлением для пластиковых колпачков",
+                "Компрессионные формы, формы для колпачков, горячие каналы"
+              ],
+              [
+                "Можно ли сменить горловину или облегчить преформу без новой формы?",
+                "Запасные части и переоснащение пресс-форм для преформ Husky, SACMI и Otto",
+                "Переоснащение, пресс-формы для преформ, плиты пресс-форм"
+              ],
+              [
+                "Что меняется при переходе на 100% вторичный ПЭТ?",
+                "Перевод линии ПЭТ-бутылок на 100% rPET",
+                "Пресс-формы для преформ, горячие каналы"
+              ],
+              [
+                "Наша пресс-форма для преформ работает медленно и даёт дефекты. С чего начать?",
+                "Устранение неполадок медленной пресс-формы для ПЭТ-преформ с дефектами",
+                "Пресс-формы для преформ, горячие каналы, оборудование контроля"
+              ],
+              [
+                "Можно ли добавить гнёзда в уже имеющуюся форму?",
+                "Увеличение гнёздности существующей пресс-формы для ПЭТ-преформ",
+                "Пресс-формы для преформ, горячие каналы, плиты пресс-форм"
+              ],
+              [
+                "Горячий канал нужно заменить. Есть ли вариант прямой замены?",
+                "Горячие каналы для прямой замены в пресс-формах для ПЭТ-преформ",
+                "Горячеканальные системы, переоснащение"
+              ],
+              [
+                "Рискованно ли использовать форму не от OEM?",
+                "Риски форм не от OEM; сравнение LIHE с OEM-поставщиками",
+                "Переоснащение, пресс-формы для преформ, формы для колпачков"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Как превратить статью в точный запрос",
+          "steps": [
+            "Выберите статью, соответствующую вашему проекту, и прочитайте её ключевые цифры и раздел вопросов и ответов.",
+            "Выпишите данные, которые требуются по статье: горловину, массу преформы, гнёздность, модель машины и тип розлива.",
+            "Соберите чертежи или образцы текущей преформы, колпачка или бутылки.",
+            "Отправьте данные на sales@lihe-preform.com и укажите название статьи, чтобы инженерная команда понимала, какой вариант вы рассматриваете.",
+            "Изучите инженерный отзыв и коммерческое предложение LIHE, затем подтвердите объём работ и срок."
+          ]
+        },
+        {
+          "heading": "Как LIHE готовит технические материалы",
+          "list": [
+            "Цифры, относящиеся к LIHE, например CPK ≥ 1,33, уровень брака всего 0,0064% и гнёздность до 160 гнёзд, берутся только из данных, которые LIHE публикует на этом сайте.",
+            "Общие инженерные утверждения подкреплены внешними источниками, перечисленными в конце каждой статьи.",
+            "В каждой статье указаны дата публикации и автор — инженерная команда LIHE Precision.",
+            "Статьи публикуются на английском, русском и испанском языках с одинаковым содержанием.",
+            "Статьи прямо объясняют компромиссы и не содержат цен, названий клиентов или обещаний характеристик, не опубликованных LIHE."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Кто пишет статьи в News & Insights?",
+          "answer": "Статьи пишет инженерная команда LIHE Precision. Цифры, относящиеся к LIHE, берутся из опубликованных данных LIHE, а общие инженерные сведения подкреплены внешними источниками."
+        },
+        {
+          "question": "Гарантированы ли цифры из статей для моего проекта?",
+          "answer": "Цифры LIHE — это опубликованные значения, например 8 недель для стандартной формы ПЭТ или снижение массы преформы на 1–2 г за счёт облегчения. Цифры для вашего проекта подтверждаются в коммерческом предложении после инженерного анализа."
+        },
+        {
+          "question": "Можно ли предложить тему для новой статьи?",
+          "answer": "Да. Отправьте свой вопрос на sales@lihe-preform.com. Вопросы, которые часто задают заводы и покупатели, становятся основой для новых статей."
+        },
+        {
+          "question": "Доступны ли статьи на других языках?",
+          "answer": "Да. Каждая статья публикуется на английском, русском и испанском языках."
+        },
+        {
+          "question": "Почему в статьях нет цен?",
+          "answer": "Цена формы зависит от гнёздности, горловины, платформы машины и объёма работ, поэтому её нельзя указать в общей статье. Каждый проект рассчитывается отдельно."
+        }
+      ]
+    },
+    "es": {
+      "heading": "LIHE News & Insights: una biblioteca técnica sobre moldes de preforma PET, tapas, moldes de soplado y rPET",
+      "intro": "LIHE News & Insights es una biblioteca técnica de artículos prácticos sobre moldes de preforma PET, canales calientes, moldeo de tapas, moldes de soplado y conversiones de línea, escrita por el equipo de ingeniería de LIHE Precision para quienes especifican, operan y compran este utillaje. Esta guía explica qué temas cubre la biblioteca, propone recorridos de lectura para compradores, ingenieros de planta y equipos de compras, y muestra cómo convertir un artículo en una consulta precisa.",
+      "sections": [
+        {
+          "heading": "Temas: moldes de preforma PET, canales calientes, tapas, moldes de soplado y rPET",
+          "paragraphs": [
+            "Cada artículo responde a una pregunta concreta que surge cuando una planta cambia de producto, de material, de máquina o de proveedor. Los artículos se agrupan en cinco áreas temáticas."
+          ],
+          "list": [
+            "Moldes de soplado y llenado: moldes de soplado PET para llenado en caliente y en frío, para qué bebidas sirve cada tipo y qué especificar al hacer el pedido. El PET estándar se deforma por encima de unos 60°C, mientras que el llenado en caliente trabaja a unos 85–95°C.",
+            "Tapas: moldeo por compresión frente a inyección para tapas de plástico, qué moldes necesita cada proceso y cómo decidir cuál encaja en su línea de tapas.",
+            "Utillaje de reposición y compatible: moldes de reposición compatibles para sistemas de inyección PET existentes, piezas de repuesto y conversión de utillaje para moldes de preforma Husky, SACMI y Otto, moldes y canales calientes de reposición para máquinas SACMI, SIPA y NETSTAL, y canales calientes de sustitución directa.",
+            "Mejoras y resolución de problemas: aumentar el número de cavidades de un molde de preforma existente, encontrar las causas de ciclos lentos y defectos en preformas, y pasar una línea de botellas PET a 100% rPET.",
+            "Evaluación de proveedores: cómo se compara LIHE con los proveedores OEM en moldes de tapas, moldes de soplado y reacondicionamientos, los riesgos de los moldes no OEM y cómo controlarlos, y qué comprobar al comprar moldes de preforma compatibles con Husky."
+          ]
+        },
+        {
+          "heading": "Recorrido de lectura para compradores y responsables de proyecto",
+          "list": [
+            "Empiece por el artículo que corresponde a su decisión: un nuevo molde de soplado, un nuevo proceso de tapas o la reutilización de un molde de preforma existente.",
+            "Lea primero las tablas comparativas; resumen las ventajas e inconvenientes en un solo lugar.",
+            "Anote las cifras publicadas por LIHE en cada artículo, como los plazos de 20 días para moldes piloto y 8 semanas para moldes PET estándar, y úselas para planificar.",
+            "Termine con la sección de preguntas frecuentes, que responde a las dudas más habituales de los compradores sobre alcance y compatibilidad.",
+            "Siga los enlaces a productos relacionados al final de cada artículo hasta la página de producto correspondiente."
+          ]
+        },
+        {
+          "heading": "Recorrido de lectura para ingenieros de planta y de mantenimiento",
+          "list": [
+            "Ante un problema en una línea en marcha, empiece por el artículo de resolución de problemas: ofrece un procedimiento paso a paso y una tabla de defectos antes de decidir si llamar al fabricante del molde.",
+            "Use las secciones paso a paso como lista de comprobación para una conversión: siguen el orden en que se cambia una línea.",
+            "En el artículo sobre rPET, compare las listas de defectos y causas con lo que ve en sus preformas antes de cambiar ajustes.",
+            "En el artículo sobre conversión de utillaje, compruebe qué piezas desgastadas pueden reproducirse a partir de sus piezas existentes de Husky, SACMI u Otto; las piezas de repuesto tardan 4 semanas.",
+            "Use las referencias al final de cada artículo para comprobar la base de ingeniería general, como el comportamiento del PET o el funcionamiento del moldeo por compresión."
+          ]
+        },
+        {
+          "heading": "Recorrido de lectura para equipos de compras",
+          "list": [
+            "Al homologar un proveedor no OEM, lea primero los artículos de evaluación de proveedores: incluyen una lista de comprobación de riesgos antes de hacer el pedido y preguntas para cualquier fabricante de moldes.",
+            "Use los artículos para entender qué datos técnicos deben aportar sus ingenieros antes de poder preparar una cotización.",
+            "Compare opciones por lógica de costes: reacondicionar un molde existente para aligerar la preforma cuesta entre el 25% y el 40% del precio de un molde nuevo, según las cifras publicadas por LIHE.",
+            "Revise las indicaciones de garantía y plazos: la garantía de 3 años contra fugas se aplica a los canales calientes tipo Husky Ultra; las piezas de repuesto y las piezas de molde de tapas tardan 4 semanas.",
+            "Tenga en cuenta que los artículos no incluyen precios; el precio se fija siempre en la cotización del proyecto."
+          ]
+        },
+        {
+          "heading": "Qué artículo responde a qué pregunta",
+          "table": {
+            "head": [
+              "Su pregunta",
+              "Tema del artículo",
+              "Familia de productos relacionada"
+            ],
+            "rows": [
+              [
+                "Nuestro nuevo zumo o té se llena en caliente. ¿Qué molde de soplado necesitamos?",
+                "Moldes de soplado PET para llenado en caliente y en frío",
+                "Moldes de soplado, molde de soplado para llenado en caliente"
+              ],
+              [
+                "¿Nuestra nueva línea de tapas debe usar compresión o inyección?",
+                "Moldeo por compresión frente a inyección para tapas de plástico",
+                "Moldes de compresión, moldes de tapas, canales calientes"
+              ],
+              [
+                "¿Podemos cambiar un cuello o aligerar una preforma sin un molde nuevo?",
+                "Piezas de repuesto y conversión de utillaje para moldes de preforma Husky, SACMI y Otto",
+                "Conversión de utillaje, moldes de preforma, bases de molde"
+              ],
+              [
+                "¿Qué cambia al pasar a PET 100% reciclado?",
+                "Pasar una línea de botellas PET a 100% rPET",
+                "Moldes de preforma, canales calientes"
+              ],
+              [
+                "Nuestro molde de preforma va lento y produce defectos. ¿Por dónde empezamos?",
+                "Resolución de problemas de un molde de preforma PET lento y con defectos",
+                "Moldes de preforma, canales calientes, equipos de control de calidad"
+              ],
+              [
+                "¿Podemos añadir cavidades al molde que ya tenemos?",
+                "Aumentar las cavidades de un molde de preforma PET existente",
+                "Moldes de preforma, canales calientes, bases de molde"
+              ],
+              [
+                "Hay que sustituir nuestro canal caliente. ¿Existe una opción de sustitución directa?",
+                "Canales calientes de sustitución directa para moldes de preforma PET",
+                "Sistemas de canal caliente, conversión de utillaje"
+              ],
+              [
+                "¿Es un riesgo usar un molde no OEM en nuestra línea?",
+                "Riesgos de los moldes no OEM; LIHE frente a proveedores OEM",
+                "Conversión de utillaje, moldes de preforma, moldes de tapas"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Cómo convertir un artículo en una consulta precisa",
+          "steps": [
+            "Elija el artículo que corresponde a su proyecto y lea sus cifras clave y sus preguntas frecuentes.",
+            "Anote los datos que pide el artículo, como el cuello, el peso de la preforma, el número de cavidades, el modelo de máquina y el tipo de llenado.",
+            "Reúna planos o muestras de su preforma, tapa o botella actual.",
+            "Envíe los datos a sales@lihe-preform.com citando el título del artículo, para que el equipo de ingeniería sepa qué opción está considerando.",
+            "Revise la respuesta técnica y la cotización de LIHE, y confirme el alcance y el plazo."
+          ]
+        },
+        {
+          "heading": "Cómo elabora LIHE su contenido técnico",
+          "list": [
+            "Las cifras propias de LIHE, como CPK ≥ 1,33, tasas de defectos tan bajas como el 0,0064% y hasta 160 cavidades, proceden solo de los datos que LIHE publica en este sitio.",
+            "Las afirmaciones de ingeniería general se apoyan en referencias externas enumeradas al final de cada artículo.",
+            "Cada artículo muestra su fecha de publicación y su autor, el equipo de ingeniería de LIHE Precision.",
+            "Los artículos se publican en inglés, ruso y español con el mismo contenido en cada idioma.",
+            "Los artículos explican las ventajas e inconvenientes con claridad y no incluyen precios, nombres de clientes ni promesas de rendimiento que LIHE no haya publicado."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Quién escribe los artículos de News & Insights?",
+          "answer": "Los artículos los escribe el equipo de ingeniería de LIHE Precision. Las cifras propias de LIHE proceden de sus datos publicados, y la base de ingeniería general se apoya en referencias externas."
+        },
+        {
+          "question": "¿Las cifras de los artículos están garantizadas para mi proyecto?",
+          "answer": "Las cifras de LIHE son valores publicados, como 8 semanas para un molde PET estándar o una reducción de 1 g a 2 g en el peso de la preforma mediante aligeramiento. Las cifras de su proyecto se confirman en su cotización tras la revisión de ingeniería."
+        },
+        {
+          "question": "¿Puedo proponer un tema para un nuevo artículo?",
+          "answer": "Sí. Envíe su pregunta a sales@lihe-preform.com. Las preguntas que plantean con frecuencia las plantas y los compradores son la base de los nuevos artículos."
+        },
+        {
+          "question": "¿Los artículos están disponibles en otros idiomas?",
+          "answer": "Sí. Cada artículo se publica en inglés, ruso y español."
+        },
+        {
+          "question": "¿Por qué los artículos no muestran precios?",
+          "answer": "El precio de un molde depende del número de cavidades, el cuello, la plataforma de máquina y el alcance, por lo que no puede indicarse en un artículo general. Cada proyecto se cotiza por separado."
+        }
+      ]
+    }
+  }
+}

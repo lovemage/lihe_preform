@@ -1,0 +1,365 @@
+{
+  "key": "category-hot-runner-system",
+  "updated": "2026-10-13",
+  "sources": [
+    { "label": "Wikipedia — Hot runner", "url": "https://en.wikipedia.org/wiki/Hot_runner" },
+    { "label": "Wikipedia — Acetaldehyde", "url": "https://en.wikipedia.org/wiki/Acetaldehyde" },
+    { "label": "Wikipedia — Polyethylene terephthalate", "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate" },
+    { "label": "Wikipedia — Polymer degradation", "url": "https://en.wikipedia.org/wiki/Polymer_degradation" },
+    { "label": "Wikipedia — Injection moulding", "url": "https://en.wikipedia.org/wiki/Injection_moulding" },
+    { "label": "Mold-Masters — hot runner systems", "url": "https://www.moldmasters.com/" }
+  ],
+  "locales": {
+    "en": {
+      "heading": "Hot runner basics for PET preform molds: valve gate vs open gate, balanced manifold and AA control",
+      "intro": "A hot runner is a heated system of manifold and nozzles inside an injection mold that keeps plastic molten all the way from the machine nozzle to each cavity gate, so no solid runner is produced and no material is wasted. For PET preforms and closures, the hot runner decides how evenly every cavity fills, how clean the gate is and how much acetaldehyde (AA) the melt picks up on its way. This guide explains these basics so buyers can compare hot runner designs. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China.",
+      "sections": [
+        {
+          "heading": "What a hot runner system does in a PET preform mold",
+          "paragraphs": [
+            "In a cold runner mold, the channels that carry melt to the cavities freeze each cycle and are ejected as scrap. In a hot runner mold, those channels are heated and stay molten, so only the preforms are ejected. For high-cavitation PET molds this is standard practice: cold runners would waste resin and could not fill dozens of cavities evenly."
+          ],
+          "list": [
+            "Sprue bushing — receives melt from the injection machine nozzle.",
+            "Manifold — a heated steel block with channels that split the melt flow to every nozzle.",
+            "Nozzles and nozzle tips — carry melt from the manifold to the gate of each cavity.",
+            "Valve pins and actuators — in valve gate systems, pins open and close each gate mechanically.",
+            "Heaters and thermocouples — heat each zone and measure its temperature.",
+            "Temperature controller — keeps every zone at its set point.",
+            "Backing plate and insulation — hold the manifold in place while limiting heat flow into the cooled mold plates."
+          ]
+        },
+        {
+          "heading": "Valve gate vs open gate hot runners compared",
+          "paragraphs": [
+            "The gate is the small opening where melt enters the preform base. Hot runners use either a thermal (open) gate, which relies on temperature to freeze and reopen the gate, or a valve gate, where a pin closes the gate mechanically. Most PET preform molds use valve gates."
+          ],
+          "table": {
+            "head": ["", "Valve gate hot runner", "Open (thermal) gate hot runner"],
+            "rows": [
+              ["How the gate closes", "A valve pin moves forward and seals the gate", "Melt at the gate freezes as the mold cools"],
+              ["Gate vestige on the preform", "Small and clean", "Larger, can show stringing or a nub"],
+              ["Gate quality over long runs", "Stable, controlled by pin timing", "Depends closely on gate temperature control"],
+              ["Risk of drooling or stringing", "Low", "Higher, especially with PET"],
+              ["Mechanical complexity", "Higher — pins, actuators and seals", "Lower — fewer moving parts"],
+              ["Maintenance items", "Valve pins, pin guides, seals, tips, heaters", "Nozzle tips, heaters"],
+              ["Typical PET preform use", "Standard for multi-cavity preform and closure molds", "Limited to simpler or low-cavitation applications"]
+            ]
+          }
+        },
+        {
+          "heading": "Why hot runner balance matters: preform weight and wall thickness",
+          "paragraphs": [
+            "A hot runner is balanced when every cavity receives melt at the same pressure, temperature and time. If one cavity fills earlier or with hotter melt, its preform will be heavier or have a different wall thickness than the others. These differences show up later as bottles that blow differently, with uneven material distribution or weak spots.",
+            "With 96 or 144 cavities, even small differences between flow paths are repeated many times, so balance becomes the main hot runner design target."
+          ],
+          "list": [
+            "Naturally (geometrically) balanced manifold — every flow path from sprue to gate has the same length, diameter and number of bends, so cavities fill evenly by design.",
+            "Uniform heating — each manifold section and nozzle is held at a stable temperature, so melt viscosity is the same at every gate.",
+            "Equal valve pin timing — all gates open and close together.",
+            "Check in production by weighing preforms from every cavity and comparing the spread, not only the average weight."
+          ]
+        },
+        {
+          "heading": "Acetaldehyde (AA) generation and melt residence time",
+          "paragraphs": [
+            "Acetaldehyde is a by-product formed when PET is degraded by heat. Small amounts migrate from the bottle wall into the drink and can be noticed as a taste change, which is most critical for still water. For this reason, AA level is a common quality specification for water preforms.",
+            "The hot runner is one of the places where AA forms, because melt stays hot inside it until it is injected. AA generation increases with melt temperature, residence time and shear."
+          ],
+          "list": [
+            "Small, streamlined melt channels reduce residence time and avoid dead spots where melt can stagnate.",
+            "Even heating avoids local hot spots that degrade the melt.",
+            "Moderate shear at gates and channel transitions limits extra heating of the melt.",
+            "Correct drying of PET before processing limits hydrolysis, which also reduces melt quality."
+          ]
+        },
+        {
+          "heading": "Temperature control: heaters, thermocouples and zones",
+          "list": [
+            "Each heated zone has its own heater and thermocouple; large preform hot runners have many zones.",
+            "A failed heater or thermocouple causes one area to run hot or cold, which shows up as weight or gate problems in specific cavities.",
+            "Zone mapping — knowing which zone feeds which cavities — makes troubleshooting much faster.",
+            "Controllers should alarm on open circuits and deviations rather than silently holding output."
+          ]
+        },
+        {
+          "heading": "How to evaluate a hot runner for a PET preform or closure mold",
+          "steps": [
+            "Define the application: preform or closure, cavitation, resin, and AA or gate quality requirements.",
+            "Confirm the injection machine (for example HUSKY, NETSTAL, KM or SIPA) and the controller and connector interface.",
+            "Review the manifold layout: is it naturally balanced, and how are flow paths and nozzle zones arranged?",
+            "Check the gate type and valve pin actuation, including how pins and seals are replaced.",
+            "Ask for the spare parts list (nozzle tips, valve pins, heaters, seals) and its lead time.",
+            "Agree acceptance tests: cavity-to-cavity weight spread, gate appearance and leak checks.",
+            "Confirm service: refurbishment options, remote troubleshooting and the written guarantee terms."
+          ]
+        },
+        {
+          "heading": "LIHE hot runner systems at a glance",
+          "list": [
+            "Valve gate hot runner systems for up to 144 cavities (PET preform) and 96 cavities (closure).",
+            "Compatible with HUSKY, NETSTAL, KM, SIPA and other platforms.",
+            "Husky Ultra-type design with a 3-year leakage-proof guarantee.",
+            "Replacement nozzle tips, valve pins, heaters and seals, plus refurbishment of existing hot runners."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Why do PET preform molds use valve gate hot runners?",
+          "answer": "A valve pin closes each gate mechanically, which gives a small, clean gate vestige and stable gate quality over long runs, and reduces drooling and stringing compared with thermal gates."
+        },
+        {
+          "question": "What does a balanced manifold do?",
+          "answer": "It gives every cavity the same flow path, so melt arrives at the same pressure and temperature. The result is uniform preform weight and wall thickness across all cavities."
+        },
+        {
+          "question": "How does the hot runner affect acetaldehyde in PET preforms?",
+          "answer": "AA forms when PET is held hot. A hot runner with short residence time, no dead spots and even heating limits AA generation in the melt."
+        },
+        {
+          "question": "How many cavities can a LIHE hot runner support?",
+          "answer": "Up to 144 cavities for PET preform molds and 96 cavities for closure molds."
+        },
+        {
+          "question": "Can an existing hot runner be reused with a new mold?",
+          "answer": "Often yes, if the layout, pitch and cavitation match and the hot runner is in good condition. LIHE also refurbishes existing hot runners."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "Основы горячеканальных систем для форм ПЭТ-преформ: запорное сопло или открытый литник, сбалансированный коллектор и контроль АА",
+      "intro": "Горячеканальная система — это нагреваемая система из коллектора и сопел внутри литьевой формы, которая поддерживает пластик в расплавленном состоянии на всём пути от сопла машины до впуска каждого гнезда, поэтому холодный литник не образуется и материал не теряется. Для ПЭТ-преформ и колпачков именно горячеканальная система определяет, насколько равномерно заполняются гнёзда, насколько чист литник и сколько ацетальдегида (АА) образуется в расплаве по пути. Руководство объясняет эти основы, чтобы покупатель мог сравнивать конструкции. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) — производитель пресс-форм для ПЭТ-преформ, выдувных форм, форм для колпачков и компрессионных форм, горячеканальных систем и комплектующих для производства напитков и упаковки, с производством в Фошане, Китай.",
+      "sections": [
+        {
+          "heading": "Что делает горячеканальная система в пресс-форме для ПЭТ-преформ",
+          "paragraphs": [
+            "В форме с холодным литником каналы, по которым расплав идёт к гнёздам, застывают в каждом цикле и удаляются как отход. В горячеканальной форме эти каналы нагреваются и остаются расплавленными, поэтому из формы извлекаются только преформы. Для многогнёздных ПЭТ-форм это стандарт: холодные литники давали бы отход смолы и не обеспечивали бы равномерного заполнения десятков гнёзд."
+          ],
+          "list": [
+            "Литниковая втулка — принимает расплав от сопла литьевой машины.",
+            "Коллектор — нагреваемый стальной блок с каналами, распределяющими поток расплава ко всем соплам.",
+            "Сопла и наконечники — подают расплав от коллектора к впуску каждого гнезда.",
+            "Запорные иглы и приводы — в системах с запорными соплами иглы механически открывают и закрывают каждый впуск.",
+            "Нагреватели и термопары — нагревают каждую зону и измеряют её температуру.",
+            "Контроллер температуры — поддерживает заданную температуру каждой зоны.",
+            "Опорная плита и изоляция — удерживают коллектор и ограничивают теплопередачу к охлаждаемым плитам формы."
+          ]
+        },
+        {
+          "heading": "Сравнение: запорное сопло и открытый (термический) литник",
+          "paragraphs": [
+            "Впуск — это небольшое отверстие, через которое расплав входит в дно преформы. В горячеканальных системах используется либо термический (открытый) литник, который закрывается и открывается за счёт температуры, либо запорное сопло, где впуск механически перекрывается иглой. В большинстве форм для ПЭТ-преформ используются запорные сопла."
+          ],
+          "table": {
+            "head": ["", "Горячеканальная система с запорными соплами", "Горячеканальная система с открытым литником"],
+            "rows": [
+              ["Как закрывается впуск", "Игла выдвигается и перекрывает впуск", "Расплав во впуске застывает при охлаждении формы"],
+              ["След литника на преформе", "Небольшой и чистый", "Крупнее, возможны нити или выступ"],
+              ["Качество литника на длинных сериях", "Стабильное, задаётся таймингом иглы", "Сильно зависит от контроля температуры впуска"],
+              ["Риск подтекания и нитей", "Низкий", "Выше, особенно с ПЭТ"],
+              ["Механическая сложность", "Выше — иглы, приводы и уплотнения", "Ниже — меньше подвижных деталей"],
+              ["Объекты обслуживания", "Запорные иглы, направляющие игл, уплотнения, наконечники, нагреватели", "Наконечники сопел, нагреватели"],
+              ["Типичное применение для ПЭТ-преформ", "Стандарт для многогнёздных форм преформ и колпачков", "Ограничено простыми или малогнёздными задачами"]
+            ]
+          }
+        },
+        {
+          "heading": "Почему важен баланс горячеканальной системы: вес преформы и толщина стенки",
+          "paragraphs": [
+            "Горячеканальная система сбалансирована, если каждое гнездо получает расплав с одинаковым давлением, температурой и в одно и то же время. Если одно гнездо заполняется раньше или более горячим расплавом, его преформа будет тяжелее или с иной толщиной стенки. Эти различия затем проявляются как бутылки, которые раздуваются по-разному, с неравномерным распределением материала или слабыми местами.",
+            "При 96 или 144 гнёздах даже небольшие различия между путями потока повторяются многократно, поэтому баланс становится главной целью проектирования горячеканальной системы."
+          ],
+          "list": [
+            "Естественно (геометрически) сбалансированный коллектор — каждый путь от литниковой втулки до впуска имеет одинаковую длину, диаметр и число поворотов, поэтому гнёзда заполняются равномерно уже по конструкции.",
+            "Равномерный нагрев — каждая секция коллектора и сопло поддерживаются при стабильной температуре, поэтому вязкость расплава одинакова на всех впусках.",
+            "Одинаковый тайминг игл — все впуски открываются и закрываются одновременно.",
+            "Проверка в производстве — взвешивание преформ из каждого гнезда и сравнение разброса, а не только среднего веса."
+          ]
+        },
+        {
+          "heading": "Образование ацетальдегида (АА) и время пребывания расплава",
+          "paragraphs": [
+            "Ацетальдегид — побочный продукт термической деструкции ПЭТ. Его небольшие количества переходят из стенки бутылки в напиток и могут ощущаться как изменение вкуса, что особенно критично для негазированной воды. Поэтому уровень АА — распространённое требование к качеству преформ для воды.",
+            "Горячеканальная система — одно из мест образования АА, так как расплав остаётся в ней горячим до впрыска. Образование АА растёт с температурой расплава, временем пребывания и сдвигом."
+          ],
+          "list": [
+            "Небольшие обтекаемые каналы сокращают время пребывания и исключают застойные зоны, где расплав может задерживаться.",
+            "Равномерный нагрев исключает локальные перегревы, разрушающие расплав.",
+            "Умеренный сдвиг во впусках и на переходах каналов ограничивает дополнительный разогрев расплава.",
+            "Правильная сушка ПЭТ перед переработкой ограничивает гидролиз, который также ухудшает качество расплава."
+          ]
+        },
+        {
+          "heading": "Контроль температуры: нагреватели, термопары и зоны",
+          "list": [
+            "У каждой зоны нагрева свой нагреватель и термопара; крупные горячеканальные системы для преформ имеют много зон.",
+            "Отказ нагревателя или термопары приводит к перегреву или недогреву одной зоны, что проявляется как проблемы с весом или литником в определённых гнёздах.",
+            "Карта зон — знание того, какая зона питает какие гнёзда, — значительно ускоряет поиск неисправностей.",
+            "Контроллеры должны выдавать сигнал тревоги при обрыве цепи и отклонениях, а не молча удерживать мощность."
+          ]
+        },
+        {
+          "heading": "Как оценить горячеканальную систему для формы преформ или колпачков",
+          "steps": [
+            "Определите задачу: преформа или колпачок, гнездность, сырьё, требования к АА или качеству литника.",
+            "Подтвердите литьевую машину (например, HUSKY, NETSTAL, KM или SIPA) и интерфейс контроллера и разъёмов.",
+            "Проверьте схему коллектора: сбалансирована ли она естественным образом, как расположены пути потока и зоны сопел.",
+            "Проверьте тип впуска и привод запорных игл, в том числе порядок замены игл и уплотнений.",
+            "Запросите перечень запчастей (наконечники сопел, запорные иглы, нагреватели, уплотнения) и сроки поставки.",
+            "Согласуйте приёмочные испытания: разброс веса между гнёздами, внешний вид литника, проверку на утечки.",
+            "Уточните сервис: варианты восстановления, удалённую диагностику и письменные условия гарантии."
+          ]
+        },
+        {
+          "heading": "Горячеканальные системы LIHE: кратко",
+          "list": [
+            "Горячеканальные системы с запорными соплами до 144 гнёзд (ПЭТ-преформы) и до 96 гнёзд (колпачки).",
+            "Совместимость с HUSKY, NETSTAL, KM, SIPA и другими платформами.",
+            "Конструкция типа Husky Ultra с 3-летней гарантией от протечек.",
+            "Запасные наконечники сопел, запорные иглы, нагреватели и уплотнения, а также восстановление существующих горячеканальных систем."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Почему в формах для ПЭТ-преформ используют запорные сопла?",
+          "answer": "Игла механически закрывает каждый впуск, что даёт небольшой чистый след литника и стабильное качество на длинных сериях, а также снижает подтекание и образование нитей по сравнению с термическими литниками."
+        },
+        {
+          "question": "Что даёт сбалансированный коллектор?",
+          "answer": "Каждое гнездо получает одинаковый путь потока, поэтому расплав приходит с одинаковым давлением и температурой. Результат — равномерный вес преформ и толщина стенки во всех гнёздах."
+        },
+        {
+          "question": "Как горячеканальная система влияет на ацетальдегид в ПЭТ-преформах?",
+          "answer": "АА образуется, когда ПЭТ долго находится в горячем состоянии. Горячеканальная система с коротким временем пребывания, без застойных зон и с равномерным нагревом ограничивает образование АА."
+        },
+        {
+          "question": "Сколько гнёзд поддерживает горячеканальная система LIHE?",
+          "answer": "До 144 гнёзд для форм ПЭТ-преформ и до 96 гнёзд для форм колпачков."
+        },
+        {
+          "question": "Можно ли использовать существующую горячеканальную систему с новой формой?",
+          "answer": "Часто да, если совпадают схема, шаг и гнездность, а система в хорошем состоянии. LIHE также восстанавливает существующие горячеканальные системы."
+        }
+      ]
+    },
+    "es": {
+      "heading": "Conceptos básicos del canal caliente para moldes de preforma PET: válvula frente a entrada abierta, colector equilibrado y control del AA",
+      "intro": "Un canal caliente es un sistema calefactado de colector y boquillas dentro de un molde de inyección que mantiene el plástico fundido desde la boquilla de la máquina hasta la entrada de cada cavidad, de modo que no se produce colada sólida ni se desperdicia material. En preformas PET y tapas, el canal caliente decide con qué uniformidad se llena cada cavidad, lo limpia que queda la entrada y cuánto acetaldehído (AA) incorpora el material fundido en su recorrido. Esta guía explica estos conceptos para que el comprador pueda comparar diseños. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) es un fabricante de moldes de preforma PET, moldes de soplado, moldes de tapas y de compresión, sistemas de canal caliente y componentes de molde para la industria de bebidas y envases, con fabricación en Foshan, China.",
+      "sections": [
+        {
+          "heading": "Qué hace un sistema de canal caliente en un molde de preforma PET",
+          "paragraphs": [
+            "En un molde de canal frío, los canales que llevan el material a las cavidades se solidifican en cada ciclo y se expulsan como desecho. En un molde de canal caliente, esos canales están calefactados y permanecen fundidos, por lo que solo se expulsan las preformas. En los moldes PET de alta cavitación es la práctica estándar: los canales fríos desperdiciarían resina y no podrían llenar decenas de cavidades de forma uniforme."
+          ],
+          "list": [
+            "Bebedero: recibe el material fundido de la boquilla de la máquina de inyección.",
+            "Colector (manifold): bloque de acero calefactado con canales que reparten el flujo a todas las boquillas.",
+            "Boquillas y puntas: llevan el material del colector a la entrada de cada cavidad.",
+            "Agujas de válvula y actuadores: en los sistemas de válvula, las agujas abren y cierran cada entrada mecánicamente.",
+            "Resistencias y termopares: calientan cada zona y miden su temperatura.",
+            "Controlador de temperatura: mantiene cada zona en su valor de consigna.",
+            "Placa de apoyo y aislamiento: sujetan el colector y limitan el paso de calor a las placas refrigeradas del molde."
+          ]
+        },
+        {
+          "heading": "Comparación: canal caliente con válvula frente a entrada abierta",
+          "paragraphs": [
+            "La entrada es la pequeña abertura por la que el material fundido entra en el fondo de la preforma. Los canales calientes usan una entrada térmica (abierta), que depende de la temperatura para solidificarse y volver a abrirse, o una entrada de válvula, en la que una aguja cierra la entrada mecánicamente. La mayoría de los moldes de preforma PET usan entradas de válvula."
+          ],
+          "table": {
+            "head": ["", "Canal caliente con válvula", "Canal caliente con entrada abierta (térmica)"],
+            "rows": [
+              ["Cómo se cierra la entrada", "Una aguja avanza y sella la entrada", "El material en la entrada se solidifica al enfriarse el molde"],
+              ["Marca de entrada en la preforma", "Pequeña y limpia", "Más grande, puede mostrar hilos o un resto"],
+              ["Calidad de la entrada en series largas", "Estable, controlada por la temporización de la aguja", "Muy dependiente del control de temperatura de la entrada"],
+              ["Riesgo de goteo o hilos", "Bajo", "Mayor, sobre todo con PET"],
+              ["Complejidad mecánica", "Mayor: agujas, actuadores y juntas", "Menor: menos piezas móviles"],
+              ["Elementos de mantenimiento", "Agujas, guías de aguja, juntas, puntas, resistencias", "Puntas de boquilla, resistencias"],
+              ["Uso típico en preformas PET", "Estándar en moldes multicavidad de preformas y tapas", "Limitado a aplicaciones sencillas o de pocas cavidades"]
+            ]
+          }
+        },
+        {
+          "heading": "Por qué importa el equilibrio del canal caliente: peso de la preforma y espesor de pared",
+          "paragraphs": [
+            "Un canal caliente está equilibrado cuando todas las cavidades reciben el material a la misma presión, temperatura y en el mismo momento. Si una cavidad se llena antes o con material más caliente, su preforma será más pesada o tendrá un espesor de pared distinto. Estas diferencias aparecen después como botellas que se soplan de forma distinta, con distribución irregular del material o puntos débiles.",
+            "Con 96 o 144 cavidades, incluso pequeñas diferencias entre recorridos de flujo se repiten muchas veces, por lo que el equilibrio se convierte en el objetivo principal del diseño del canal caliente."
+          ],
+          "list": [
+            "Colector equilibrado de forma natural (geométrica): cada recorrido desde el bebedero hasta la entrada tiene la misma longitud, diámetro y número de curvas, de modo que las cavidades se llenan por igual por diseño.",
+            "Calentamiento uniforme: cada sección del colector y cada boquilla se mantienen a temperatura estable, de modo que la viscosidad del material es la misma en todas las entradas.",
+            "Temporización igual de las agujas: todas las entradas abren y cierran a la vez.",
+            "Comprobación en producción: pesar preformas de cada cavidad y comparar la dispersión, no solo el peso medio."
+          ]
+        },
+        {
+          "heading": "Generación de acetaldehído (AA) y tiempo de residencia del material",
+          "paragraphs": [
+            "El acetaldehído es un subproducto que se forma cuando el PET se degrada por el calor. Pequeñas cantidades migran de la pared de la botella a la bebida y pueden notarse como un cambio de sabor, lo que es especialmente crítico en el agua sin gas. Por eso el nivel de AA es una especificación de calidad habitual en las preformas para agua.",
+            "El canal caliente es uno de los lugares donde se forma AA, porque el material permanece caliente en su interior hasta que se inyecta. La generación de AA aumenta con la temperatura del material, el tiempo de residencia y la cizalla."
+          ],
+          "list": [
+            "Canales pequeños y de flujo suave reducen el tiempo de residencia y evitan zonas muertas donde el material pueda estancarse.",
+            "Un calentamiento uniforme evita puntos calientes locales que degradan el material.",
+            "Una cizalla moderada en entradas y transiciones de canal limita el calentamiento adicional del material.",
+            "Un secado correcto del PET antes del procesado limita la hidrólisis, que también empeora la calidad del material fundido."
+          ]
+        },
+        {
+          "heading": "Control de temperatura: resistencias, termopares y zonas",
+          "list": [
+            "Cada zona calefactada tiene su propia resistencia y su termopar; los canales calientes grandes para preformas tienen muchas zonas.",
+            "Una resistencia o un termopar averiados hacen que una zona funcione demasiado caliente o fría, lo que aparece como problemas de peso o de entrada en cavidades concretas.",
+            "El mapa de zonas, es decir, saber qué zona alimenta qué cavidades, acelera mucho la localización de averías.",
+            "Los controladores deben dar alarma ante circuitos abiertos y desviaciones, en lugar de mantener la potencia sin avisar."
+          ]
+        },
+        {
+          "heading": "Cómo evaluar un canal caliente para un molde de preformas o de tapas",
+          "steps": [
+            "Defina la aplicación: preforma o tapa, número de cavidades, resina y requisitos de AA o de calidad de entrada.",
+            "Confirme la máquina de inyección (por ejemplo HUSKY, NETSTAL, KM o SIPA) y la interfaz de controlador y conectores.",
+            "Revise la disposición del colector: si está equilibrado de forma natural y cómo se organizan los recorridos y las zonas de boquilla.",
+            "Compruebe el tipo de entrada y el accionamiento de las agujas, incluido cómo se cambian agujas y juntas.",
+            "Pida la lista de repuestos (puntas de boquilla, agujas de válvula, resistencias, juntas) y su plazo.",
+            "Acuerde las pruebas de aceptación: dispersión de peso entre cavidades, aspecto de la entrada y pruebas de fugas.",
+            "Confirme el servicio: opciones de reacondicionamiento, diagnóstico remoto y las condiciones escritas de la garantía."
+          ]
+        },
+        {
+          "heading": "Sistemas de canal caliente LIHE en resumen",
+          "list": [
+            "Sistemas de canal caliente con válvula para hasta 144 cavidades (preforma PET) y 96 cavidades (tapas).",
+            "Compatibles con HUSKY, NETSTAL, KM, SIPA y otras plataformas.",
+            "Diseño tipo Husky Ultra con garantía antifugas de 3 años.",
+            "Puntas de boquilla, agujas de válvula, resistencias y juntas de recambio, además del reacondicionamiento de canales calientes existentes."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Por qué los moldes de preforma PET usan canales calientes con válvula?",
+          "answer": "Una aguja cierra cada entrada mecánicamente, lo que da una marca de entrada pequeña y limpia y una calidad estable en series largas, y reduce el goteo y los hilos frente a las entradas térmicas."
+        },
+        {
+          "question": "¿Para qué sirve un colector equilibrado?",
+          "answer": "Da a cada cavidad el mismo recorrido de flujo, de modo que el material llega con la misma presión y temperatura. El resultado es un peso de preforma y un espesor de pared uniformes en todas las cavidades."
+        },
+        {
+          "question": "¿Cómo influye el canal caliente en el acetaldehído de las preformas PET?",
+          "answer": "El AA se forma cuando el PET permanece caliente. Un canal caliente con tiempo de residencia corto, sin zonas muertas y con calentamiento uniforme limita la generación de AA."
+        },
+        {
+          "question": "¿Cuántas cavidades admite un canal caliente de LIHE?",
+          "answer": "Hasta 144 cavidades en moldes de preforma PET y 96 cavidades en moldes de tapas."
+        },
+        {
+          "question": "¿Se puede reutilizar un canal caliente existente con un molde nuevo?",
+          "answer": "A menudo sí, si coinciden la disposición, el paso y el número de cavidades y el canal caliente está en buen estado. LIHE también reacondiciona canales calientes existentes."
+        }
+      ]
+    }
+  }
+}

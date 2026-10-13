@@ -139,4 +139,17 @@ for (const loc of LOCALES) {
     `${JSON.stringify({ articles: out }, null, 2)}\n`,
   );
 }
+// Keep the article list in public/llms.txt in sync with the published articles.
+const llmsPath = path.join(ROOT, "public", "llms.txt");
+if (fs.existsSync(llmsPath)) {
+  const list = articles
+    .slice()
+    .sort((a, b) => b.date.localeCompare(a.date) || a.slug.localeCompare(b.slug))
+    .map((a) => `- [${a.locales.en.title}](https://lihe-preform.com/en/news/${a.slug}/): ${a.locales.en.summary}`)
+    .join("\n");
+  const llms = fs.readFileSync(llmsPath, "utf8");
+  const next = llms.replace(/## Technical articles\n\n[\s\S]*?(?=\n## |$)/, `## Technical articles\n\n${list}\n`);
+  if (next !== llms) fs.writeFileSync(llmsPath, next);
+}
+
 console.log(`build-news: wrote ${articles.length} articles × ${LOCALES.length} locales`);

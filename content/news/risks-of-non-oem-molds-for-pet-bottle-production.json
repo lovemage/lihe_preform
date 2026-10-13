@@ -1,0 +1,718 @@
+{
+  "slug": "risks-of-non-oem-molds-for-pet-bottle-production",
+  "questionId": "q112",
+  "date": "2026-10-13",
+  "relatedProducts": [
+    34,
+    19,
+    18
+  ],
+  "images": {
+    "hero": "/images/news/risks-of-non-oem-molds-for-pet-bottle-production-hero.webp",
+    "detail": "/images/news/risks-of-non-oem-molds-for-pet-bottle-production-detail.webp",
+    "og": "/images/news/risks-of-non-oem-molds-for-pet-bottle-production-hero-og.jpg"
+  },
+  "sources": [
+    {
+      "label": "Wikipedia — Original equipment manufacturer",
+      "url": "https://en.wikipedia.org/wiki/Original_equipment_manufacturer"
+    },
+    {
+      "label": "Wikipedia — Process capability index",
+      "url": "https://en.wikipedia.org/wiki/Process_capability_index"
+    },
+    {
+      "label": "Wikipedia — Coordinate-measuring machine",
+      "url": "https://en.wikipedia.org/wiki/Coordinate-measuring_machine"
+    },
+    {
+      "label": "Wikipedia — Blow molding",
+      "url": "https://en.wikipedia.org/wiki/Blow_molding"
+    },
+    {
+      "label": "Husky Technologies — official website (PET tooling lifecycle solutions, parts, services)",
+      "url": "https://www.husky.co/"
+    },
+    {
+      "label": "SACMI — official website (closures, preforms, containers)",
+      "url": "https://sacmi.com/"
+    }
+  ],
+  "locales": {
+    "en": {
+      "category": "Technical Insights",
+      "title": "How Risky Is It to Use Non-OEM Molds for PET Bottle Production? A Buyer's Risk Guide",
+      "summary": "Using non-OEM molds for PET bottle production carries manageable risk when the supplier can prove interface fit, dimensional capability and after-sales support, and high risk when it cannot. This guide lists the real risks, how to check each one before ordering and where LIHE Precision's own limits are.",
+      "heroAlt": "Coordinate measuring machine probe inspecting a PET preform mold cavity insert in a quality lab",
+      "detailAlt": "Clear PET preforms and bottles on an inspection table next to a steel mold component",
+      "sections": [
+        {
+          "heading": "How risky is it to use non-OEM molds for PET bottle production?",
+          "paragraphs": [
+            "The risk is moderate and controllable. It depends less on the OEM or non-OEM label than on whether the mold maker can prove three things: that the mold fits your machine, that it holds the preform or bottle dimensions consistently, and that it can support you when something goes wrong. A supplier that can show capability data, inspection reports and a working service team is a low-risk choice; one that cannot is a high-risk choice, whatever its price.",
+            "A non-OEM mold is a preform, blow or closure mold made by a company other than the original equipment manufacturer of the production machine, built to run on that machine without modifying it.",
+            "Disclosure: this article is published by LIHE Precision, which makes non-OEM molds. We describe machine makers only by what their own websites state and we list our own limitations below."
+          ]
+        },
+        {
+          "heading": "Where the risk actually comes from",
+          "list": [
+            "Interface mismatch: the mold mounts but does not match the hot runner, cooling circuits or take-out plate, which delays start-up.",
+            "Dimensional variation: neck finish, wall thickness or preform weight drift between cavities, which shows up as closure leaks, uneven bottle walls or rejects on the blow molder.",
+            "Wear life: steel, heat treatment or surface finish that do not last the planned number of shots.",
+            "Hot runner leaks: poor sealing or balance that stops the mold and causes cleaning downtime.",
+            "Documentation: no drawings, inspection reports or spare-part lists, which makes later repairs slow.",
+            "Support: no one available to help with installation, start-up or troubleshooting.",
+            "Contracts: some machine service agreements may set conditions on third-party tooling; only your agreement and the OEM can confirm this."
+          ]
+        },
+        {
+          "heading": "Risk checklist: what to verify before ordering",
+          "table": {
+            "head": [
+              "Risk",
+              "What can go wrong",
+              "How to check before ordering",
+              "LIHE published reference point"
+            ],
+            "rows": [
+              [
+                "Interface fit",
+                "Mold mounts but fails at start-up",
+                "Ask for a machine interface audit and design review",
+                "On-site machine interface audits; CAD/CAM, 3D simulation and flow analysis before production"
+              ],
+              [
+                "Dimensional consistency",
+                "Neck and wall variation between cavities",
+                "Ask for process capability (CPK) data",
+                "Tooling consistently achieves CPK ≥ 1.33"
+              ],
+              [
+                "Defect rate",
+                "High reject rate in production",
+                "Ask for operational defect data",
+                "Operational defect rates as low as 0.0064%"
+              ],
+              [
+                "Inspection evidence",
+                "Parts out of tolerance not detected",
+                "Ask for CMM inspection reports",
+                "In-house Zeiss CMM lab; reports supplied on request"
+              ],
+              [
+                "Wear life",
+                "Early wear of cores, cavities and neck rings",
+                "Ask what shot count the tooling is built for",
+                "Built to withstand up to 8 million shots on Husky, SACMI and Netstal platforms"
+              ],
+              [
+                "Hot runner leaks",
+                "Mold stops, cleaning downtime",
+                "Ask for a written leakage guarantee",
+                "3-year leakage-proof guarantee on the Husky Ultra-type design"
+              ],
+              [
+                "Interchangeability",
+                "Parts do not swap with existing ones",
+                "Test with your existing parts",
+                "100% interchangeable conversion parts for Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps and Corvaglia systems"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "OEM molds vs non-OEM molds compared",
+          "paragraphs": [
+            "The useful comparison is not OEM against non-OEM, but OEM tooling against a verified non-OEM supplier and an unverified one. Machine makers such as Husky (husky.co) and SACMI (sacmi.com) list preform and closure solutions and service offerings on their websites; independent suppliers vary much more."
+          ],
+          "table": {
+            "head": [
+              "",
+              "OEM tooling",
+              "Non-OEM, verified supplier",
+              "Non-OEM, unverified supplier"
+            ],
+            "rows": [
+              [
+                "Interface data",
+                "OEM's own machine data",
+                "Machine audit and customer data",
+                "Often only a sample or a photo"
+              ],
+              [
+                "Quality evidence",
+                "OEM documentation",
+                "CPK data and CMM reports provided",
+                "Usually none"
+              ],
+              [
+                "Platform coverage",
+                "Mainly the OEM's own machines",
+                "Several machine brands",
+                "Unclear"
+              ],
+              [
+                "Lead time",
+                "Quoted per project",
+                "Published or quoted",
+                "Often promised, rarely documented"
+              ],
+              [
+                "Support",
+                "OEM service network",
+                "Installation, start-up and remote support",
+                "Limited or none"
+              ],
+              [
+                "Price",
+                "Quoted per project",
+                "Quoted per project",
+                "Often lowest at purchase"
+              ],
+              [
+                "Overall risk",
+                "Low",
+                "Low to moderate",
+                "High"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "What LIHE Precision is, and what it is not",
+          "paragraphs": [
+            "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China."
+          ],
+          "list": [
+            "Manufacturing in Shishan Town, Nanhai District, Foshan, with a 15,000 sqm facility and over 10,000 sqm of climate-controlled production floor.",
+            "More than 20 years of experience and customers in 50+ countries.",
+            "Coca-Cola verified mold supplier in the Asia region. LIHE is not owned or operated by Coca-Cola.",
+            "Machining on Mazak, Makino, Okamoto, Haas, Hardinge, Beijing Jingdiao and Sodick EDM equipment; inspection with Zeiss CMM, a 3D profile scanner, an optical projector and bottle sample inspection.",
+            "LIHE is not a machine OEM. It does not build injection molding or blow molding machines and does not offer machine warranties.",
+            "LIHE does not publish a price list; every project is quoted.",
+            "LIHE's published guarantee is limited to the 3-year leakage-proof guarantee on its Husky Ultra-type hot runner design."
+          ]
+        },
+        {
+          "heading": "LIHE's key published numbers",
+          "list": [
+            "Process capability: CPK ≥ 1.33.",
+            "Operational defect rate: as low as 0.0064%.",
+            "Tool life: up to 8 million shots on Husky, SACMI and Netstal platforms.",
+            "Preform molds: 2 to 160 cavities, with over 12,000 cavities produced per year.",
+            "Hot runners: valve gate, up to 144 cavities for preforms and 96 cavities for closures.",
+            "Lead times: pilot molds 20 days, standard PET molds 8 weeks, replacement parts 4 weeks, cap mold parts 4 weeks.",
+            "Lightweighting: preform weight reduced by 1g to 2g; retrofits cost 25%–40% of a new mold price; neck cooling time reduced by up to 0.5 seconds with optimized cooling."
+          ]
+        },
+        {
+          "heading": "Who non-OEM molds suit, and who they do not",
+          "list": [
+            "Suit: plants running several machine brands that want one tooling supplier across platforms.",
+            "Suit: plants that need replacement parts made from existing Husky, SACMI or Otto parts, or neck finish conversions and lightweighting.",
+            "Suit: plants that want to retrofit an aging mold instead of replacing it.",
+            "Suit: blow molding lines on SIDEL, KRONES, SIG/KHS, TECH-LONG and NEWAMSTAR two-step machines or SIPA, ASB and AOKI one-step machines that need cold fill, hot fill or aseptic blow molds.",
+            "Do not suit: plants whose machine contract requires OEM tooling.",
+            "Do not suit: buyers who need a machine and mold under one warranty from one company.",
+            "Do not suit: projects where no drawings, samples or machine data can be provided."
+          ]
+        },
+        {
+          "heading": "Questions to ask any mold supplier, OEM or not",
+          "list": [
+            "Which machine platforms have you built molds for, and can you show inspection reports from those projects?",
+            "What CPK do you commit to for critical dimensions such as the neck finish, and how is it measured?",
+            "Who installs the mold and supports start-up, and what remote support is available after that?",
+            "What is the lead time for the full mold, for pilot tooling and for single replacement parts?",
+            "What exactly does your written guarantee cover, and for how long?",
+            "Can you make parts that are interchangeable with the ones already in my plant, and how is that verified?"
+          ]
+        },
+        {
+          "heading": "How to reduce the risk of a non-OEM mold purchase",
+          "steps": [
+            "Define the requirement: machine brand and model, preform or bottle drawing, neck finish, cavity count and target weight.",
+            "Ask the supplier for evidence: CPK data, sample CMM reports and a list of platforms it has built for.",
+            "Arrange a machine interface audit, or send complete machine and mold data if an on-site visit is not possible.",
+            "Review the design, 3D simulation and flow analysis before steel is cut.",
+            "Start with a pilot mold or a partial order when the design is new; LIHE delivers pilot molds in 20 days.",
+            "Agree acceptance criteria and inspection reports for delivery, then plan installation, start-up and preventive maintenance with the supplier's team."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Will a non-OEM mold void my machine warranty?",
+          "answer": "That depends on your machine contract, not on the mold. Ask the machine maker and read your service agreement before ordering. LIHE does not offer machine warranties."
+        },
+        {
+          "question": "Are non-OEM molds lower quality than OEM molds?",
+          "answer": "Not necessarily. Quality depends on the supplier's machining, inspection and process control. Ask for CPK data and CMM reports; LIHE publishes CPK ≥ 1.33 and defect rates as low as 0.0064%, and supplies inspection reports on request."
+        },
+        {
+          "question": "How long do non-OEM preform molds last?",
+          "answer": "Life depends on steel, design, resin and maintenance. LIHE tooling is built to withstand up to 8 million shots on Husky, SACMI and Netstal platforms."
+        },
+        {
+          "question": "Is LIHE owned by Coca-Cola?",
+          "answer": "No. LIHE is a Coca-Cola verified mold supplier in the Asia region. It is not owned or operated by Coca-Cola."
+        },
+        {
+          "question": "How much does a non-OEM mold cost?",
+          "answer": "LIHE does not publish prices; every mold is quoted after we receive drawings and machine data. Retrofitting an existing mold for lightweighting costs 25%–40% of a new mold price."
+        }
+      ]
+    },
+    "ru": {
+      "category": "Технические статьи",
+      "title": "Насколько рискованно использовать неоригинальные (не OEM) пресс-формы для производства ПЭТ-бутылок? Руководство по рискам для покупателя",
+      "summary": "Использование неоригинальных пресс-форм для производства ПЭТ-бутылок несёт управляемый риск, если поставщик может подтвердить соответствие интерфейсу, размерную стабильность и послепродажную поддержку, и высокий риск, если не может. В статье перечислены реальные риски, способы проверить каждый из них до заказа и собственные ограничения LIHE Precision.",
+      "heroAlt": "Щуп координатно-измерительной машины проверяет вставку матрицы пресс-формы для ПЭТ-преформ в лаборатории контроля качества",
+      "detailAlt": "Прозрачные ПЭТ-преформы и бутылки на контрольном столе рядом со стальной деталью пресс-формы",
+      "sections": [
+        {
+          "heading": "Насколько рискованно использовать неоригинальные пресс-формы для производства ПЭТ-бутылок?",
+          "paragraphs": [
+            "Риск умеренный и управляемый. Он зависит не столько от ярлыка «OEM» или «не OEM», сколько от того, может ли изготовитель формы доказать три вещи: что форма подходит к вашей машине, что она стабильно выдерживает размеры преформы или бутылки и что он сможет помочь, если что-то пойдёт не так. Поставщик, который показывает данные о воспроизводимости процесса, протоколы контроля и работающую сервисную команду, — это низкий риск; поставщик, который этого не может, — высокий риск при любой цене.",
+            "Неоригинальная (не OEM) пресс-форма — это форма для преформ, выдувная форма или форма для колпачков, изготовленная не производителем оригинального оборудования производственной машины, а другой компанией, и рассчитанная на работу на этой машине без её доработки.",
+            "Раскрытие информации: статья опубликована LIHE Precision, которая производит неоригинальные пресс-формы. Мы описываем производителей машин только по сведениям с их официальных сайтов и ниже перечисляем собственные ограничения."
+          ]
+        },
+        {
+          "heading": "Откуда на самом деле берётся риск",
+          "list": [
+            "Несоответствие интерфейсу: форма устанавливается, но не согласуется с горячим каналом, контурами охлаждения или плитой съёмника, что задерживает пуск.",
+            "Размерный разброс: горловина, толщина стенки или масса преформы различаются между гнёздами, что проявляется протечками под колпачком, неравномерными стенками бутылки или браком на выдувной машине.",
+            "Ресурс: сталь, термообработка или качество поверхности не выдерживают запланированного числа циклов.",
+            "Протечки горячего канала: плохое уплотнение или балансировка останавливают форму и требуют простоя на очистку.",
+            "Документация: нет чертежей, протоколов контроля или перечней запчастей, что замедляет последующие ремонты.",
+            "Поддержка: некому помочь с монтажом, пуском или поиском неисправностей.",
+            "Договоры: некоторые сервисные соглашения на машины могут устанавливать условия для сторонней оснастки; подтвердить это могут только ваш договор и OEM."
+          ]
+        },
+        {
+          "heading": "Чек-лист рисков: что проверить до заказа",
+          "table": {
+            "head": [
+              "Риск",
+              "Что может пойти не так",
+              "Как проверить до заказа",
+              "Опубликованный ориентир LIHE"
+            ],
+            "rows": [
+              [
+                "Соответствие интерфейсу",
+                "Форма устанавливается, но не запускается",
+                "Запросите аудит интерфейса машины и проверку конструкции",
+                "Аудит интерфейса машины на месте; CAD/CAM, 3D-моделирование и анализ течения расплава до производства"
+              ],
+              [
+                "Размерная стабильность",
+                "Разброс горловины и стенки между гнёздами",
+                "Запросите данные о воспроизводимости процесса (CPK)",
+                "Оснастка стабильно достигает CPK ≥ 1,33"
+              ],
+              [
+                "Уровень брака",
+                "Высокий процент брака в производстве",
+                "Запросите эксплуатационные данные о браке",
+                "Эксплуатационный уровень брака от 0,0064%"
+              ],
+              [
+                "Подтверждение контроля",
+                "Детали вне допуска не выявлены",
+                "Запросите протоколы контроля на КИМ",
+                "Собственная лаборатория с КИМ Zeiss; протоколы по запросу"
+              ],
+              [
+                "Ресурс",
+                "Ранний износ пуансонов, матриц и горловых колец",
+                "Спросите, на какое число циклов рассчитана оснастка",
+                "Ресурс до 8 миллионов циклов на платформах Husky, SACMI и Netstal"
+              ],
+              [
+                "Протечки горячего канала",
+                "Остановка формы, простой на очистку",
+                "Запросите письменную гарантию от протечек",
+                "3-летняя гарантия от протечек для конструкции типа Husky Ultra"
+              ],
+              [
+                "Взаимозаменяемость",
+                "Детали не меняются с существующими",
+                "Проверьте с вашими существующими деталями",
+                "Конверсионные детали на 100% взаимозаменяемы для систем Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps и Corvaglia"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Сравнение оригинальных и неоригинальных пресс-форм",
+          "paragraphs": [
+            "Полезно сравнивать не OEM с «не OEM», а оснастку OEM с проверенным неоригинальным поставщиком и с непроверенным. Производители машин, такие как Husky (husky.co) и SACMI (sacmi.com), указывают на своих сайтах решения для преформ и колпачков и сервисные предложения; независимые поставщики различаются гораздо сильнее."
+          ],
+          "table": {
+            "head": [
+              "",
+              "Оснастка OEM",
+              "Не OEM, проверенный поставщик",
+              "Не OEM, непроверенный поставщик"
+            ],
+            "rows": [
+              [
+                "Данные интерфейса",
+                "Собственные данные OEM о машине",
+                "Аудит машины и данные заказчика",
+                "Часто только образец или фото"
+              ],
+              [
+                "Подтверждение качества",
+                "Документация OEM",
+                "Предоставляются данные CPK и протоколы КИМ",
+                "Обычно нет"
+              ],
+              [
+                "Охват платформ",
+                "В основном собственные машины OEM",
+                "Несколько марок машин",
+                "Неясно"
+              ],
+              [
+                "Срок поставки",
+                "По предложению",
+                "Опубликован или по предложению",
+                "Часто обещается, редко документируется"
+              ],
+              [
+                "Поддержка",
+                "Сервисная сеть OEM",
+                "Монтаж, пуск и удалённая поддержка",
+                "Ограниченная или отсутствует"
+              ],
+              [
+                "Цена",
+                "По предложению",
+                "По предложению",
+                "Часто самая низкая при покупке"
+              ],
+              [
+                "Общий риск",
+                "Низкий",
+                "От низкого до умеренного",
+                "Высокий"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Что такое LIHE Precision и чем она не является",
+          "paragraphs": [
+            "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) — производитель пресс-форм для ПЭТ-преформ, выдувных форм, форм для колпачков и компрессионных форм, горячеканальных систем и комплектующих для производства напитков и упаковки, с производством в Фошане, Китай."
+          ],
+          "list": [
+            "Производство в посёлке Шишань, район Наньхай, Фошань: площадка 15 000 кв. м и более 10 000 кв. м производственных площадей с климат-контролем.",
+            "Более 20 лет опыта и заказчики более чем в 50 странах.",
+            "Проверенный поставщик пресс-форм Coca-Cola в Азиатском регионе. LIHE не принадлежит Coca-Cola и не управляется ею.",
+            "Обработка на оборудовании Mazak, Makino, Okamoto, Haas, Hardinge, Beijing Jingdiao и электроэрозионных станках Sodick; контроль на КИМ Zeiss, 3D-сканере профиля, оптическом проекторе и проверка образцов бутылок.",
+            "LIHE не является OEM машин. Компания не производит литьевые или выдувные машины и не даёт гарантий на машины.",
+            "LIHE не публикует прайс-лист; каждый проект рассчитывается индивидуально.",
+            "Опубликованная гарантия LIHE ограничена 3-летней гарантией от протечек для горячих каналов конструкции типа Husky Ultra."
+          ]
+        },
+        {
+          "heading": "Ключевые опубликованные показатели LIHE",
+          "list": [
+            "Воспроизводимость процесса: CPK ≥ 1,33.",
+            "Эксплуатационный уровень брака: от 0,0064%.",
+            "Ресурс оснастки: до 8 миллионов циклов на платформах Husky, SACMI и Netstal.",
+            "Пресс-формы для преформ: от 2 до 160 гнёзд, более 12 000 гнёзд в год.",
+            "Горячие каналы: запорные затворы, до 144 гнёзд для преформ и 96 гнёзд для колпачков.",
+            "Сроки: пилотные формы 20 дней, стандартные ПЭТ-формы 8 недель, сменные детали 4 недели, детали форм для колпачков 4 недели.",
+            "Облегчение: масса преформы снижается на 1–2 г; модернизация стоит 25–40% от цены новой формы; время охлаждения горловины сокращается до 0,5 секунды за счёт оптимизированного охлаждения."
+          ]
+        },
+        {
+          "heading": "Кому подходят неоригинальные пресс-формы, а кому нет",
+          "list": [
+            "Подходят: заводам с машинами разных марок, которым нужен один поставщик оснастки для всех платформ.",
+            "Подходят: заводам, которым нужны сменные детали по существующим деталям Husky, SACMI или Otto, конверсия горловины или облегчение преформы.",
+            "Подходят: заводам, которые хотят модернизировать старую форму, а не заменять её.",
+            "Подходят: линиям выдува на двухстадийных машинах SIDEL, KRONES, SIG/KHS, TECH-LONG и NEWAMSTAR или одностадийных SIPA, ASB и AOKI, которым нужны выдувные формы для холодного, горячего или асептического розлива.",
+            "Не подходят: заводам, у которых договор на машину требует оригинальную оснастку.",
+            "Не подходят: покупателям, которым нужны машина и форма под одной гарантией от одной компании.",
+            "Не подходят: проектам, по которым невозможно предоставить чертежи, образцы или данные машины."
+          ]
+        },
+        {
+          "heading": "Вопросы любому поставщику пресс-форм, OEM или нет",
+          "list": [
+            "Для каких платформ машин вы уже делали формы и можете ли показать протоколы контроля по этим проектам?",
+            "Какой CPK вы гарантируете для критичных размеров, например горловины, и как он измеряется?",
+            "Кто устанавливает форму и сопровождает пуск и какая удалённая поддержка доступна после этого?",
+            "Каков срок изготовления полной формы, пилотной оснастки и отдельных сменных деталей?",
+            "Что именно покрывает ваша письменная гарантия и на какой срок?",
+            "Можете ли вы изготовить детали, взаимозаменяемые с уже имеющимися на заводе, и как это проверяется?"
+          ]
+        },
+        {
+          "heading": "Как снизить риск при покупке неоригинальной пресс-формы",
+          "steps": [
+            "Определите требования: марку и модель машины, чертёж преформы или бутылки, горловину, число гнёзд и целевую массу.",
+            "Запросите у поставщика подтверждения: данные CPK, образцы протоколов КИМ и перечень платформ, для которых он уже делал формы.",
+            "Организуйте аудит интерфейса машины или отправьте полные данные машины и формы, если выезд на место невозможен.",
+            "Проверьте конструкцию, 3D-моделирование и анализ течения расплава до начала обработки стали.",
+            "При новой конструкции начните с пилотной формы или частичного заказа; LIHE поставляет пилотные формы за 20 дней.",
+            "Согласуйте критерии приёмки и протоколы контроля при поставке, затем спланируйте с командой поставщика монтаж, пуск и профилактическое обслуживание."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Лишит ли неоригинальная пресс-форма гарантии на мою машину?",
+          "answer": "Это зависит от договора на машину, а не от формы. Перед заказом спросите производителя машины и прочитайте своё сервисное соглашение. LIHE не даёт гарантий на машины."
+        },
+        {
+          "question": "Неоригинальные пресс-формы хуже оригинальных?",
+          "answer": "Не обязательно. Качество зависит от обработки, контроля и управления процессом у поставщика. Запросите данные CPK и протоколы КИМ; LIHE публикует CPK ≥ 1,33 и уровень брака от 0,0064% и предоставляет протоколы контроля по запросу."
+        },
+        {
+          "question": "Как долго служат неоригинальные пресс-формы для преформ?",
+          "answer": "Срок службы зависит от стали, конструкции, материала и обслуживания. Оснастка LIHE рассчитана на ресурс до 8 миллионов циклов на платформах Husky, SACMI и Netstal."
+        },
+        {
+          "question": "Принадлежит ли LIHE компании Coca-Cola?",
+          "answer": "Нет. LIHE — проверенный поставщик пресс-форм Coca-Cola в Азиатском регионе. Компания не принадлежит Coca-Cola и не управляется ею."
+        },
+        {
+          "question": "Сколько стоит неоригинальная пресс-форма?",
+          "answer": "LIHE не публикует цены; каждая форма рассчитывается после получения чертежей и данных машины. Модернизация существующей формы для облегчения стоит 25–40% от цены новой формы."
+        }
+      ]
+    },
+    "es": {
+      "category": "Artículos técnicos",
+      "title": "¿Qué tan arriesgado es usar moldes no OEM para la producción de botellas PET? Guía de riesgos para compradores",
+      "summary": "Usar moldes no OEM para la producción de botellas PET implica un riesgo controlable cuando el proveedor puede demostrar el ajuste de interfaz, la capacidad dimensional y el soporte posventa, y un riesgo alto cuando no puede. Esta guía enumera los riesgos reales, cómo comprobar cada uno antes del pedido y cuáles son los límites propios de LIHE Precision.",
+      "heroAlt": "Palpador de una máquina de medición por coordenadas inspeccionando un inserto de cavidad de un molde de preformas PET en un laboratorio de calidad",
+      "detailAlt": "Preformas y botellas PET transparentes sobre una mesa de inspección junto a un componente de molde de acero",
+      "sections": [
+        {
+          "heading": "¿Qué tan arriesgado es usar moldes no OEM para la producción de botellas PET?",
+          "paragraphs": [
+            "El riesgo es moderado y controlable. Depende menos de la etiqueta OEM o no OEM que de si el fabricante del molde puede demostrar tres cosas: que el molde encaja en su máquina, que mantiene de forma constante las dimensiones de la preforma o de la botella y que puede apoyarle cuando algo falla. Un proveedor que muestra datos de capacidad de proceso, informes de inspección y un equipo de servicio operativo es una opción de bajo riesgo; uno que no puede hacerlo es una opción de alto riesgo, sea cual sea su precio.",
+            "Un molde no OEM es un molde de preforma, de soplado o de tapas fabricado por una empresa distinta del fabricante original de la máquina de producción, construido para funcionar en esa máquina sin modificarla.",
+            "Aviso: este artículo lo publica LIHE Precision, que fabrica moldes no OEM. Describimos a los fabricantes de máquinas solo con lo que indican sus sitios web oficiales y enumeramos nuestras propias limitaciones más abajo."
+          ]
+        },
+        {
+          "heading": "De dónde viene realmente el riesgo",
+          "list": [
+            "Desajuste de interfaz: el molde se monta pero no coincide con el canal caliente, los circuitos de refrigeración o la placa de extracción, lo que retrasa la puesta en marcha.",
+            "Variación dimensional: el cuello, el espesor de pared o el peso de la preforma varían entre cavidades, lo que se traduce en fugas en el cierre, paredes de botella irregulares o rechazos en la sopladora.",
+            "Vida útil: acero, tratamiento térmico o acabado superficial que no aguantan el número de ciclos previsto.",
+            "Fugas en el canal caliente: un mal sellado o equilibrado detiene el molde y provoca paradas de limpieza.",
+            "Documentación: sin planos, informes de inspección ni listas de repuestos, las reparaciones posteriores son lentas.",
+            "Soporte: nadie disponible para ayudar en la instalación, la puesta en marcha o la resolución de problemas.",
+            "Contratos: algunos acuerdos de servicio de máquinas pueden fijar condiciones sobre el utillaje de terceros; solo su contrato y el OEM pueden confirmarlo."
+          ]
+        },
+        {
+          "heading": "Lista de riesgos: qué comprobar antes del pedido",
+          "table": {
+            "head": [
+              "Riesgo",
+              "Qué puede fallar",
+              "Cómo comprobarlo antes del pedido",
+              "Referencia publicada de LIHE"
+            ],
+            "rows": [
+              [
+                "Ajuste de interfaz",
+                "El molde se monta pero falla en la puesta en marcha",
+                "Pida una auditoría de interfaz de la máquina y una revisión del diseño",
+                "Auditorías de interfaz en planta; CAD/CAM, simulación 3D y análisis de flujo antes de fabricar"
+              ],
+              [
+                "Consistencia dimensional",
+                "Variación de cuello y pared entre cavidades",
+                "Pida datos de capacidad de proceso (CPK)",
+                "El utillaje alcanza de forma constante CPK ≥ 1,33"
+              ],
+              [
+                "Tasa de defectos",
+                "Alta tasa de rechazo en producción",
+                "Pida datos operativos de defectos",
+                "Tasas de defectos operativas desde 0,0064%"
+              ],
+              [
+                "Evidencia de inspección",
+                "Piezas fuera de tolerancia no detectadas",
+                "Pida informes de inspección con MMC",
+                "Laboratorio propio con MMC Zeiss; informes bajo pedido"
+              ],
+              [
+                "Vida útil",
+                "Desgaste prematuro de machos, cavidades y anillos de cuello",
+                "Pregunte para qué número de ciclos está construido el utillaje",
+                "Construido para soportar hasta 8 millones de ciclos en plataformas Husky, SACMI y Netstal"
+              ],
+              [
+                "Fugas en el canal caliente",
+                "Parada del molde y tiempo de limpieza",
+                "Pida una garantía antifugas por escrito",
+                "Garantía antifugas de 3 años en el diseño tipo Husky Ultra"
+              ],
+              [
+                "Intercambiabilidad",
+                "Las piezas no se intercambian con las existentes",
+                "Pruebe con sus piezas existentes",
+                "Piezas de conversión 100% intercambiables para sistemas Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps y Corvaglia"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Moldes OEM frente a moldes no OEM",
+          "paragraphs": [
+            "La comparación útil no es OEM contra no OEM, sino el utillaje OEM frente a un proveedor no OEM verificado y uno sin verificar. Fabricantes de máquinas como Husky (husky.co) y SACMI (sacmi.com) presentan en sus sitios web soluciones para preformas y tapas y ofertas de servicio; los proveedores independientes varían mucho más."
+          ],
+          "table": {
+            "head": [
+              "",
+              "Utillaje OEM",
+              "No OEM, proveedor verificado",
+              "No OEM, proveedor sin verificar"
+            ],
+            "rows": [
+              [
+                "Datos de interfaz",
+                "Datos propios del OEM sobre la máquina",
+                "Auditoría de la máquina y datos del cliente",
+                "A menudo solo una muestra o una foto"
+              ],
+              [
+                "Evidencia de calidad",
+                "Documentación del OEM",
+                "Se entregan datos de CPK e informes de MMC",
+                "Normalmente ninguna"
+              ],
+              [
+                "Plataformas",
+                "Principalmente las máquinas propias del OEM",
+                "Varias marcas de máquinas",
+                "Poco claro"
+              ],
+              [
+                "Plazo de entrega",
+                "Cotizado por proyecto",
+                "Publicado o cotizado",
+                "A menudo prometido, rara vez documentado"
+              ],
+              [
+                "Soporte",
+                "Red de servicio del OEM",
+                "Instalación, puesta en marcha y soporte remoto",
+                "Limitado o inexistente"
+              ],
+              [
+                "Precio",
+                "Cotizado por proyecto",
+                "Cotizado por proyecto",
+                "A menudo el más bajo en la compra"
+              ],
+              [
+                "Riesgo global",
+                "Bajo",
+                "De bajo a moderado",
+                "Alto"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Qué es LIHE Precision y qué no es",
+          "paragraphs": [
+            "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) es un fabricante de moldes de preforma PET, moldes de soplado, moldes de tapas y de compresión, sistemas de canal caliente y componentes de molde para la industria de bebidas y envases, con fabricación en Foshan, China."
+          ],
+          "list": [
+            "Fabricación en Shishan, distrito de Nanhai, Foshan, con unas instalaciones de 15.000 m² y más de 10.000 m² de planta de producción climatizada.",
+            "Más de 20 años de experiencia y clientes en más de 50 países.",
+            "Proveedor de moldes verificado por Coca-Cola en la región de Asia. LIHE no es propiedad de Coca-Cola ni está operada por ella.",
+            "Mecanizado con equipos Mazak, Makino, Okamoto, Haas, Hardinge, Beijing Jingdiao y electroerosión Sodick; inspección con MMC Zeiss, escáner de perfil 3D, proyector óptico e inspección de botellas de muestra.",
+            "LIHE no es un OEM de máquinas. No fabrica inyectoras ni sopladoras y no ofrece garantías de máquinas.",
+            "LIHE no publica una lista de precios; cada proyecto se cotiza.",
+            "La garantía publicada de LIHE se limita a la garantía antifugas de 3 años en su diseño de canal caliente tipo Husky Ultra."
+          ]
+        },
+        {
+          "heading": "Cifras clave publicadas por LIHE",
+          "list": [
+            "Capacidad de proceso: CPK ≥ 1,33.",
+            "Tasa de defectos operativa: desde 0,0064%.",
+            "Vida del utillaje: hasta 8 millones de ciclos en plataformas Husky, SACMI y Netstal.",
+            "Moldes de preforma: de 2 a 160 cavidades, con más de 12.000 cavidades producidas al año.",
+            "Canales calientes: obturador de válvula, hasta 144 cavidades para preformas y 96 cavidades para tapas.",
+            "Plazos: moldes piloto 20 días, moldes PET estándar 8 semanas, piezas de reemplazo 4 semanas, piezas de moldes de tapas 4 semanas.",
+            "Aligeramiento: peso de preforma reducido entre 1 g y 2 g; las readaptaciones cuestan entre el 25% y el 40% del precio de un molde nuevo; tiempo de enfriamiento del cuello reducido hasta 0,5 segundos con refrigeración optimizada."
+          ]
+        },
+        {
+          "heading": "Para quién son adecuados los moldes no OEM y para quién no",
+          "list": [
+            "Adecuados: plantas con máquinas de varias marcas que quieren un único proveedor de utillaje para todas las plataformas.",
+            "Adecuados: plantas que necesitan piezas de reemplazo fabricadas a partir de piezas existentes de Husky, SACMI u Otto, conversiones de cuello o aligeramiento.",
+            "Adecuados: plantas que prefieren readaptar un molde antiguo en lugar de sustituirlo.",
+            "Adecuados: líneas de soplado con máquinas de dos etapas SIDEL, KRONES, SIG/KHS, TECH-LONG y NEWAMSTAR o de una etapa SIPA, ASB y AOKI que necesitan moldes de soplado para llenado en frío, en caliente o aséptico.",
+            "No adecuados: plantas cuyo contrato de máquina exige utillaje OEM.",
+            "No adecuados: compradores que necesitan máquina y molde bajo una sola garantía de una sola empresa.",
+            "No adecuados: proyectos en los que no se pueden aportar planos, muestras ni datos de la máquina."
+          ]
+        },
+        {
+          "heading": "Preguntas para cualquier proveedor de moldes, OEM o no",
+          "list": [
+            "¿Para qué plataformas de máquinas ha fabricado moldes y puede mostrar informes de inspección de esos proyectos?",
+            "¿Qué CPK garantiza para dimensiones críticas como el acabado de cuello y cómo se mide?",
+            "¿Quién instala el molde y apoya la puesta en marcha, y qué soporte remoto hay después?",
+            "¿Cuál es el plazo de entrega del molde completo, del utillaje piloto y de las piezas de reemplazo sueltas?",
+            "¿Qué cubre exactamente su garantía escrita y durante cuánto tiempo?",
+            "¿Puede fabricar piezas intercambiables con las que ya tengo en planta y cómo se verifica?"
+          ]
+        },
+        {
+          "heading": "Cómo reducir el riesgo al comprar un molde no OEM",
+          "steps": [
+            "Defina el requisito: marca y modelo de la máquina, plano de la preforma o de la botella, acabado de cuello, número de cavidades y peso objetivo.",
+            "Pida pruebas al proveedor: datos de CPK, informes de MMC de muestra y una lista de las plataformas para las que ya ha fabricado.",
+            "Organice una auditoría de interfaz de la máquina, o envíe los datos completos de la máquina y el molde si no es posible una visita.",
+            "Revise el diseño, la simulación 3D y el análisis de flujo antes de mecanizar el acero.",
+            "Si el diseño es nuevo, empiece con un molde piloto o un pedido parcial; LIHE entrega moldes piloto en 20 días.",
+            "Acuerde los criterios de aceptación y los informes de inspección para la entrega, y luego planifique con el equipo del proveedor la instalación, la puesta en marcha y el mantenimiento preventivo."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Un molde no OEM anulará la garantía de mi máquina?",
+          "answer": "Eso depende de su contrato de máquina, no del molde. Pregunte al fabricante de la máquina y lea su acuerdo de servicio antes de hacer el pedido. LIHE no ofrece garantías de máquinas."
+        },
+        {
+          "question": "¿Los moldes no OEM son de menor calidad que los OEM?",
+          "answer": "No necesariamente. La calidad depende del mecanizado, la inspección y el control de proceso del proveedor. Pida datos de CPK e informes de MMC; LIHE publica CPK ≥ 1,33 y tasas de defectos desde 0,0064%, y entrega informes de inspección bajo pedido."
+        },
+        {
+          "question": "¿Cuánto duran los moldes de preforma no OEM?",
+          "answer": "La vida útil depende del acero, el diseño, la resina y el mantenimiento. El utillaje de LIHE está construido para soportar hasta 8 millones de ciclos en plataformas Husky, SACMI y Netstal."
+        },
+        {
+          "question": "¿LIHE pertenece a Coca-Cola?",
+          "answer": "No. LIHE es un proveedor de moldes verificado por Coca-Cola en la región de Asia. No es propiedad de Coca-Cola ni está operada por ella."
+        },
+        {
+          "question": "¿Cuánto cuesta un molde no OEM?",
+          "answer": "LIHE no publica precios; cada molde se cotiza después de recibir los planos y los datos de la máquina. Readaptar un molde existente para aligeramiento cuesta entre el 25% y el 40% del precio de un molde nuevo."
+        }
+      ]
+    }
+  }
+}

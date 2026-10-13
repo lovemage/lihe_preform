@@ -16,7 +16,7 @@
     "headline": "Global Leader in High-Performance Mold Solutions",
     "metaTitle": "LIHE Precision | PET Preform, Blow & Closure Mold Manufacturer",
     "metaDescription": "Foshan LIHE Precision Machinery makes PET preform molds up to 160 cavities, blow molds, compression and closure molds, and hot runner systems for beverage and packaging producers worldwide.",
-    "subheadline": "Excellence Engineered. Consistency Delivered. Foshan LIHE Precise Machinery Co., Ltd is a premier manufacturer specializing in high-precision PET mold solutions for the global beverage, food, and packaging industries.",
+    "subheadline": "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China.",
     "exploreProducts": "Explore Products",
     "contactSales": "Contact Sales",
     "productCategories": "Product Categories",
@@ -130,7 +130,10 @@
   "common": {
     "learnMore": "Learn More",
     "backToTop": "Back to Top",
-    "breadcrumbHome": "Home"
+    "breadcrumbHome": "Home",
+    "definition": "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China.",
+    "aiImageNotice": "Product images have been enhanced with AI. To see the actual products,",
+    "aiImageNoticeLink": "contact our sales team for photos of the machines on site."
   },
   "news": {
     "title": "News & Insights",

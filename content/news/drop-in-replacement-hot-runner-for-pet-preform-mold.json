@@ -1,0 +1,459 @@
+{
+  "slug": "drop-in-replacement-hot-runner-for-pet-preform-mold",
+  "questionId": "q108",
+  "date": "2026-10-13",
+  "relatedProducts": [27, 34, 19],
+  "images": {
+    "hero": "/images/news/drop-in-replacement-hot-runner-for-pet-preform-mold-hero.webp",
+    "detail": "/images/news/drop-in-replacement-hot-runner-for-pet-preform-mold-detail.webp",
+    "og": "/images/news/drop-in-replacement-hot-runner-for-pet-preform-mold-hero-og.jpg"
+  },
+  "sources": [
+    { "label": "Wikipedia — Hot runner", "url": "https://en.wikipedia.org/wiki/Hot_runner" },
+    { "label": "Wikipedia — Injection mold construction", "url": "https://en.wikipedia.org/wiki/Injection_mold_construction" },
+    { "label": "Wikipedia — Polyethylene terephthalate", "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate" },
+    { "label": "Husky Technologies — official website (Ultra hot runners, Hot Runner Care program, hot runner refurbishment)", "url": "https://www.husky.co/" },
+    { "label": "Mold-Masters — official website (PET-Series hot runners, MasterCARE aftermarket services)", "url": "https://www.moldmasters.com/" },
+    { "label": "SIPA — official website (hot runner refurbishment, original spare parts)", "url": "https://sipasolutions.com/en/" }
+  ],
+  "locales": {
+    "en": {
+      "category": "Technical Insights",
+      "title": "What Are My Options If I Need a Drop-in Replacement Hot Runner for a PET Preform Mold?",
+      "summary": "If you need a drop-in replacement hot runner for a PET preform mold, you can refurbish the existing system, buy new from the original hot runner maker, order a compatible system from an independent supplier, or replace only the worn components. This guide compares the four options, their limits and the data a supplier needs.",
+      "heroAlt": "Hot runner manifold plate for a multi-cavity PET preform mold with rows of nozzles and bundled wiring on a workbench",
+      "detailAlt": "Hot runner nozzle tips, valve pins and coil heaters arranged on a steel tray",
+      "sections": [
+        {
+          "heading": "What are my options if I need a drop-in replacement hot runner for a PET preform mold?",
+          "paragraphs": [
+            "You have four options: refurbish the hot runner you already have, buy a new system from the original hot runner maker, order a compatible system from an independent supplier, or replace only the worn components such as nozzle tips, valve pins, heaters and seals. The right option depends on the condition of the manifold and plates, how long the mold must keep running and how much downtime you can accept.",
+            "A drop-in replacement hot runner is a hot runner system — manifold, nozzles, heaters and valve gates — built to fit the existing mold plates, gate positions, wiring and temperature controller of a PET preform mold, so it can be installed without redesigning the mold.",
+            "Disclosure: this article is published by LIHE Precision. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China. We are one of the independent suppliers described below, not a machine OEM."
+          ],
+          "list": [
+            "Refurbishment: best when the manifold and plates are sound and the problems are wear, leaks or heater failures.",
+            "New from the original hot runner maker: best when you want the same design, documentation and service channel as before.",
+            "Compatible system from an independent supplier: best when you want a new system for an existing mold at a separately quoted price, or the original design is no longer supported.",
+            "Component replacement only: best when a few nozzles or heaters fail and the rest of the system performs well."
+          ]
+        },
+        {
+          "heading": "What “drop-in” must match",
+          "paragraphs": [
+            "A hot runner keeps PET molten from the machine nozzle to each gate. In a preform mold it sits between the machine and the cavity plate, so a replacement has to match several interfaces at once. Each item below should be confirmed with drawings or measurements from the actual mold."
+          ],
+          "list": [
+            "Plate dimensions and stack height, so the mold closes and clamps exactly as before.",
+            "Nozzle pitch and gate positions, which must line up with every cavity.",
+            "Gate type: most preform hot runners use valve gates, where a valve pin opens and closes each gate.",
+            "Valve pin actuation and air supply, matched to the mold's existing pneumatic circuit.",
+            "Heater zones, wattage and thermocouple type, matched to the existing controller and its cable connectors.",
+            "Melt channel design, so the melt is balanced across all cavities and residence time stays short; PET is sensitive to heat history, and uneven melt temperature shows up as variation between cavities."
+          ]
+        },
+        {
+          "heading": "How we compare the options",
+          "paragraphs": [
+            "We compare the four options on the same dimensions. LIHE values come from LIHE's published product and company pages. For hot runner makers we only repeat what their official websites list and cite those sites in the references. Values that depend on a quote are marked as quoted, not estimated."
+          ],
+          "list": [
+            "Scope: what is actually replaced.",
+            "Fit risk: how likely the result is to need adjustment at installation.",
+            "Lead time: published or quoted.",
+            "Cavity and platform coverage.",
+            "Guarantee: what the supplier states in writing.",
+            "Typical use case."
+          ]
+        },
+        {
+          "heading": "Drop-in replacement hot runner options compared",
+          "table": {
+            "head": ["", "Refurbish existing", "New from original maker", "Compatible system from independent supplier", "Replace components only"],
+            "rows": [
+              ["Scope", "Clean, inspect, replace worn parts, re-test", "Complete new system to the original design", "Complete new system built to the existing mold", "Nozzle tips, valve pins, heaters, seals"],
+              ["Fit risk", "Low, same plates and pitch", "Low if the design is still current", "Depends on drawings and measurements supplied", "Low if parts match the original specification"],
+              ["Lead time", "Quoted per job", "Quoted per project", "Quoted per project", "At LIHE, replacement parts 4 weeks"],
+              ["Coverage", "Depends on the service provider", "That maker's own designs", "At LIHE: valve gate, up to 144 cavities (preform) and 96 cavities (closure); compatible with HUSKY, NETSTAL, KM, SIPA", "At LIHE: replacement nozzle tips, valve pins, heaters and seals"],
+              ["Guarantee", "As stated by the provider", "As stated by the maker", "At LIHE: 3-year leakage-proof guarantee on the Husky Ultra-type design", "As stated by the supplier"],
+              ["When it makes sense", "Sound manifold, recurring small failures", "Want to stay with the original design and service", "Original design unavailable, or a second source wanted", "Isolated failures in a healthy system"]
+            ]
+          }
+        },
+        {
+          "heading": "What hot runner makers list on their own websites",
+          "paragraphs": [
+            "The original maker of your hot runner is a natural first contact. The summary below repeats only what each company's official website lists in its navigation as of October 2026."
+          ],
+          "list": [
+            "Husky (husky.co) lists Ultra hot runners, Altanium mold controllers, a Hot Runner Care program, hot runner refurbishment and a parts ordering portal.",
+            "Mold-Masters (moldmasters.com) lists PET-Series hot runners, TempMaster controllers and MasterCARE aftermarket services including spare parts, service and repairs, refurbishment and preventative maintenance.",
+            "SIPA (sipasolutions.com) lists hot runner refurbishment and original spare parts among its services.",
+            "LIHE's own published hot runner range is described in the comparison table above; we make no claim about how other makers' products perform."
+          ]
+        },
+        {
+          "heading": "Limitations of each option, including LIHE's",
+          "list": [
+            "Refurbishment cannot fix a manifold with a design problem, such as poor balance; it restores the original condition, not a better one.",
+            "A new system from the original maker keeps you on one design, but only while that design is still supported.",
+            "A compatible system from any independent supplier depends on accurate data. Missing drawings or a mold that was modified over the years increase the fit risk.",
+            "Replacing single components can hide a wider problem; if several zones fail, have the whole system inspected.",
+            "LIHE's published hot runner compatibility covers HUSKY, NETSTAL, KM and SIPA. Other systems need a separate feasibility check, and we may decline.",
+            "LIHE's 3-year guarantee is a leakage-proof guarantee on the Husky Ultra-type design. It is not a general warranty on every component or every hot runner we supply.",
+            "Temperature controllers are not part of LIHE's published product range, so the existing controller's zone count and thermocouple type must be confirmed as compatible.",
+            "LIHE does not publish prices. Every hot runner, refurbishment and parts order is quoted per project."
+          ]
+        },
+        {
+          "heading": "How to choose: a decision path",
+          "list": [
+            "Is the manifold cracked, or does it leak at the manifold rather than at the nozzles? Plan for a new system, either from the original maker or from a compatible supplier.",
+            "Is the manifold sound but several nozzles, heaters or seals fail? Refurbish the existing hot runner.",
+            "Is only one zone or nozzle affected? Replace that component and record the failure so patterns become visible.",
+            "Is the original design no longer supported, or do you want a second source? Ask an independent supplier for a compatible system and send full drawings.",
+            "Are you also changing cavity count, neck finish or preform weight? Treat it as a mold project, not a drop-in replacement; LIHE lightweighting proposals reduce preform weight by 1g to 2g, and retrofits cost 25%–40% of a new mold price."
+          ]
+        },
+        {
+          "heading": "Price and total cost of ownership",
+          "paragraphs": [
+            "Hot runner prices are always quoted per project, because they depend on cavity count, pitch, gate type and the state of the existing system. Compare options on total cost, not on purchase price alone."
+          ],
+          "list": [
+            "Cavity count: a 144-cavity system has many more nozzles, heaters and valve pins than a small one.",
+            "Downtime: a leaking hot runner stops the whole mold, so the cost of lost production often exceeds the cost of parts.",
+            "Leak risk: a written leakage guarantee, such as LIHE's 3-year leakage-proof guarantee on its Husky Ultra-type design, moves part of that risk to the supplier.",
+            "Mold life: there is little value in a new hot runner on a mold near the end of its life; LIHE tooling is built to withstand up to 8 million shots on Husky, SACMI and Netstal platforms.",
+            "Spare parts: keep critical spares — nozzle tips, heaters, valve pins — on site; LIHE quotes replacement parts at 4 weeks."
+          ]
+        },
+        {
+          "heading": "How to request a drop-in replacement hot runner",
+          "steps": [
+            "Record the current system: maker, model, number of drops, nozzle pitch, gate type and the mold's cavity count.",
+            "Collect the hot runner and mold plate drawings; if none exist, ask the supplier about measuring the existing system.",
+            "Note the controller make, number of zones, heater wattage and thermocouple type.",
+            "Describe the failure history: which zones leak or fail, how often, and after how many cycles.",
+            "Ask the supplier which option it recommends — refurbishment, new system or parts — and why, with a written scope and guarantee.",
+            "Plan installation and start-up with the supplier's technical team, and agree a preventive maintenance schedule."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Can a non-original hot runner be used in a Husky-type preform mold?",
+          "answer": "Yes, if it is built to the mold's plates, pitch, gates and controller. LIHE's published hot runners are compatible with HUSKY, NETSTAL, KM and SIPA systems, and its Husky Ultra-type design carries a 3-year leakage-proof guarantee. Check any service agreement with your mold or machine supplier first."
+        },
+        {
+          "question": "Is it better to refurbish or replace a hot runner?",
+          "answer": "Refurbish when the manifold and plates are sound and failures are limited to nozzles, heaters or seals. Replace when the manifold leaks, is damaged or has a design problem that refurbishment cannot fix."
+        },
+        {
+          "question": "How many cavities can LIHE hot runners serve?",
+          "answer": "LIHE publishes valve gate hot runners for up to 144 cavities in preform molds and up to 96 cavities in closure molds."
+        },
+        {
+          "question": "How fast can I get replacement nozzle tips and heaters?",
+          "answer": "LIHE's published lead time for replacement parts is 4 weeks. For urgent stops, keeping critical spares on site is the most reliable protection."
+        },
+        {
+          "question": "Does LIHE supply hot runner controllers?",
+          "answer": "Controllers are not part of LIHE's published product range. A replacement hot runner from LIHE is matched to your existing controller, so please send its make, zone count and thermocouple type."
+        }
+      ]
+    },
+    "ru": {
+      "category": "Технические статьи",
+      "title": "Какие у меня варианты, если нужна взаимозаменяемая (drop-in) горячеканальная система для пресс-формы ПЭТ-преформ?",
+      "summary": "Если нужна взаимозаменяемая горячеканальная система для пресс-формы ПЭТ-преформ, можно восстановить существующую систему, купить новую у её производителя, заказать совместимую систему у независимого поставщика или заменить только изношенные компоненты. В статье сравниваются четыре варианта, их ограничения и данные, которые нужны поставщику.",
+      "heroAlt": "Плита коллектора горячего канала для многогнездной пресс-формы ПЭТ-преформ с рядами сопел и жгутами проводов на верстаке",
+      "detailAlt": "Наконечники сопел, запорные иглы и спиральные нагреватели горячего канала на стальном лотке",
+      "sections": [
+        {
+          "heading": "Какие у меня варианты, если нужна взаимозаменяемая горячеканальная система для пресс-формы ПЭТ-преформ?",
+          "paragraphs": [
+            "Вариантов четыре: восстановить имеющийся горячий канал, купить новую систему у первоначального производителя, заказать совместимую систему у независимого поставщика или заменить только изношенные компоненты — наконечники сопел, запорные иглы, нагреватели и уплотнения. Выбор зависит от состояния коллектора и плит, от того, сколько ещё должна работать форма, и от допустимого простоя.",
+            "Взаимозаменяемая (drop-in) горячеканальная система — это горячеканальная система (коллектор, сопла, нагреватели и запорные затворы), изготовленная под существующие плиты формы, положения впусков, проводку и терморегулятор пресс-формы для ПЭТ-преформ, чтобы её можно было установить без перепроектирования формы.",
+            "Раскрытие информации: статья опубликована LIHE Precision. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) — производитель пресс-форм для ПЭТ-преформ, выдувных форм, форм для колпачков и компрессионных форм, горячеканальных систем и комплектующих для производства напитков и упаковки, с производством в Фошане, Китай. Мы один из независимых поставщиков, описанных ниже, а не производитель машин (OEM)."
+          ],
+          "list": [
+            "Восстановление: лучше всего, если коллектор и плиты в порядке, а проблемы — износ, протечки или отказы нагревателей.",
+            "Новая система от первоначального производителя: лучше всего, если нужны та же конструкция, документация и сервисный канал.",
+            "Совместимая система от независимого поставщика: лучше всего, если нужна новая система для существующей формы по отдельному предложению или исходная конструкция больше не поддерживается.",
+            "Замена только компонентов: лучше всего, если отказали отдельные сопла или нагреватели, а остальная система работает хорошо."
+          ]
+        },
+        {
+          "heading": "Чему должна соответствовать система drop-in",
+          "paragraphs": [
+            "Горячий канал поддерживает ПЭТ в расплавленном состоянии от сопла машины до каждого впуска. В пресс-форме для преформ он находится между машиной и плитой матриц, поэтому замена должна одновременно соответствовать нескольким интерфейсам. Каждый пункт ниже нужно подтвердить чертежами или замерами реальной формы."
+          ],
+          "list": [
+            "Размеры плит и высота пакета, чтобы форма смыкалась и зажималась точно как раньше.",
+            "Шаг сопел и положения впусков, которые должны совпадать с каждым гнездом.",
+            "Тип впуска: большинство горячих каналов для преформ используют запорные затворы, где запорная игла открывает и закрывает каждый впуск.",
+            "Привод запорных игл и подача воздуха, согласованные с существующим пневмоконтуром формы.",
+            "Зоны нагрева, мощность и тип термопар, согласованные с существующим контроллером и его разъёмами.",
+            "Конструкция каналов расплава, чтобы расплав был сбалансирован по всем гнёздам, а время пребывания оставалось коротким; ПЭТ чувствителен к термической истории, и неравномерная температура расплава проявляется как разброс между гнёздами."
+          ]
+        },
+        {
+          "heading": "Как мы сравниваем варианты",
+          "paragraphs": [
+            "Мы сравниваем четыре варианта по одним и тем же параметрам. Значения LIHE взяты с опубликованных страниц продукции и компании LIHE. О производителях горячих каналов мы повторяем только то, что указано на их официальных сайтах, и приводим эти сайты в источниках. Значения, зависящие от предложения, так и отмечены, без оценок."
+          ],
+          "list": [
+            "Объём работ: что именно заменяется.",
+            "Риск несоответствия: насколько вероятна подгонка при монтаже.",
+            "Срок поставки: опубликованный или по предложению.",
+            "Охват по числу гнёзд и платформам.",
+            "Гарантия: что поставщик указывает письменно.",
+            "Типичный случай применения."
+          ]
+        },
+        {
+          "heading": "Сравнение вариантов взаимозаменяемых горячих каналов",
+          "table": {
+            "head": ["", "Восстановление существующей", "Новая от первоначального производителя", "Совместимая система от независимого поставщика", "Замена только компонентов"],
+            "rows": [
+              ["Объём работ", "Очистка, проверка, замена изношенных деталей, повторное испытание", "Полностью новая система по исходной конструкции", "Полностью новая система под существующую форму", "Наконечники сопел, запорные иглы, нагреватели, уплотнения"],
+              ["Риск несоответствия", "Низкий: те же плиты и шаг", "Низкий, если конструкция ещё актуальна", "Зависит от переданных чертежей и замеров", "Низкий, если детали соответствуют исходной спецификации"],
+              ["Срок поставки", "По предложению", "По предложению", "По предложению", "В LIHE сменные детали — 4 недели"],
+              ["Охват", "Зависит от сервисной компании", "Собственные конструкции производителя", "В LIHE: запорные затворы, до 144 гнёзд (преформы) и 96 гнёзд (колпачки); совместимость с HUSKY, NETSTAL, KM, SIPA", "В LIHE: сменные наконечники сопел, запорные иглы, нагреватели и уплотнения"],
+              ["Гарантия", "Как указано сервисной компанией", "Как указано производителем", "В LIHE: 3-летняя гарантия от протечек для конструкции типа Husky Ultra", "Как указано поставщиком"],
+              ["Когда оправдано", "Исправный коллектор, повторяющиеся мелкие отказы", "Хотите сохранить исходную конструкцию и сервис", "Исходная конструкция недоступна или нужен второй источник", "Единичные отказы в исправной системе"]
+            ]
+          }
+        },
+        {
+          "heading": "Что производители горячих каналов указывают на своих сайтах",
+          "paragraphs": [
+            "Первоначальный производитель вашего горячего канала — естественный первый контакт. Ниже повторено только то, что указано в навигации официальных сайтов компаний по состоянию на октябрь 2026 года."
+          ],
+          "list": [
+            "Husky (husky.co) указывает горячие каналы Ultra, контроллеры форм Altanium, программу Hot Runner Care, восстановление горячих каналов и портал заказа запчастей.",
+            "Mold-Masters (moldmasters.com) указывает горячие каналы PET-Series, контроллеры TempMaster и послепродажные услуги MasterCARE, включая запчасти, сервис и ремонт, восстановление и профилактическое обслуживание.",
+            "SIPA (sipasolutions.com) указывает среди своих услуг восстановление горячих каналов и оригинальные запчасти.",
+            "Опубликованный ассортимент горячих каналов LIHE описан в таблице сравнения выше; мы не делаем заявлений о характеристиках продукции других производителей."
+          ]
+        },
+        {
+          "heading": "Ограничения каждого варианта, включая LIHE",
+          "list": [
+            "Восстановление не исправит коллектор с конструктивной проблемой, например плохой балансировкой; оно возвращает исходное состояние, а не улучшает его.",
+            "Новая система от первоначального производителя сохраняет единую конструкцию, но только пока эта конструкция поддерживается.",
+            "Совместимая система от любого независимого поставщика зависит от точности данных. Отсутствие чертежей или форма, дорабатывавшаяся годами, повышают риск несоответствия.",
+            "Замена отдельных компонентов может скрыть более широкую проблему; если отказывают несколько зон, проверьте всю систему.",
+            "Опубликованная совместимость горячих каналов LIHE охватывает HUSKY, NETSTAL, KM и SIPA. Для других систем нужна отдельная проверка осуществимости, и мы можем отказаться.",
+            "3-летняя гарантия LIHE — это гарантия от протечек для конструкции типа Husky Ultra. Это не общая гарантия на все компоненты или все поставляемые нами горячие каналы.",
+            "Терморегуляторы не входят в опубликованный ассортимент LIHE, поэтому совместимость существующего контроллера по числу зон и типу термопар нужно подтвердить.",
+            "LIHE не публикует цены. Каждый горячий канал, восстановление и заказ запчастей рассчитывается по проекту."
+          ]
+        },
+        {
+          "heading": "Как выбрать: схема решений",
+          "list": [
+            "Коллектор треснул или протекает сам коллектор, а не сопла? Планируйте новую систему — от первоначального производителя или от совместимого поставщика.",
+            "Коллектор исправен, но отказывают несколько сопел, нагревателей или уплотнений? Восстановите существующий горячий канал.",
+            "Затронута только одна зона или одно сопло? Замените этот компонент и фиксируйте отказ, чтобы увидеть закономерности.",
+            "Исходная конструкция больше не поддерживается или нужен второй источник? Запросите совместимую систему у независимого поставщика и передайте полные чертежи.",
+            "Одновременно меняются число гнёзд, горловина или масса преформы? Это проект пресс-формы, а не простая замена; предложения LIHE по облегчению снижают массу преформы на 1–2 г, а модернизация стоит 25–40% от цены новой формы."
+          ]
+        },
+        {
+          "heading": "Цена и совокупная стоимость владения",
+          "paragraphs": [
+            "Цены на горячие каналы всегда рассчитываются по проекту, так как зависят от числа гнёзд, шага, типа впуска и состояния существующей системы. Сравнивайте варианты по совокупной стоимости, а не только по цене покупки."
+          ],
+          "list": [
+            "Число гнёзд: в системе на 144 гнезда гораздо больше сопел, нагревателей и запорных игл, чем в небольшой.",
+            "Простой: протекающий горячий канал останавливает всю форму, поэтому потери производства часто превышают стоимость деталей.",
+            "Риск протечек: письменная гарантия от протечек, например 3-летняя гарантия LIHE для конструкции типа Husky Ultra, переносит часть этого риска на поставщика.",
+            "Ресурс формы: новый горячий канал мало оправдан на форме, близкой к концу срока службы; оснастка LIHE рассчитана на ресурс до 8 миллионов циклов на платформах Husky, SACMI и Netstal.",
+            "Запчасти: держите критичные запасные части — наконечники сопел, нагреватели, запорные иглы — на месте; срок LIHE для сменных деталей — 4 недели."
+          ]
+        },
+        {
+          "heading": "Как запросить взаимозаменяемую горячеканальную систему",
+          "steps": [
+            "Зафиксируйте текущую систему: производителя, модель, число впусков, шаг сопел, тип впуска и число гнёзд формы.",
+            "Соберите чертежи горячего канала и плит формы; если их нет, спросите поставщика о замерах существующей системы.",
+            "Укажите производителя контроллера, число зон, мощность нагревателей и тип термопар.",
+            "Опишите историю отказов: какие зоны протекают или отказывают, как часто и после скольких циклов.",
+            "Спросите поставщика, какой вариант он рекомендует — восстановление, новую систему или детали — и почему, с письменным объёмом работ и гарантией.",
+            "Спланируйте монтаж и пуск с технической командой поставщика и согласуйте график профилактического обслуживания."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Можно ли использовать неоригинальный горячий канал в пресс-форме для преформ типа Husky?",
+          "answer": "Да, если он изготовлен под плиты, шаг, впуски и контроллер формы. Опубликованные горячие каналы LIHE совместимы с системами HUSKY, NETSTAL, KM и SIPA, а конструкция типа Husky Ultra имеет 3-летнюю гарантию от протечек. Сначала проверьте сервисные соглашения с поставщиком формы или машины."
+        },
+        {
+          "question": "Что лучше — восстановить или заменить горячий канал?",
+          "answer": "Восстанавливайте, если коллектор и плиты исправны, а отказы ограничены соплами, нагревателями или уплотнениями. Заменяйте, если протекает или повреждён коллектор либо есть конструктивная проблема, которую восстановление не устранит."
+        },
+        {
+          "question": "На сколько гнёзд рассчитаны горячие каналы LIHE?",
+          "answer": "LIHE публикует горячие каналы с запорными затворами до 144 гнёзд для форм преформ и до 96 гнёзд для форм колпачков."
+        },
+        {
+          "question": "Как быстро можно получить сменные наконечники сопел и нагреватели?",
+          "answer": "Опубликованный срок LIHE для сменных деталей — 4 недели. На случай срочных остановок самая надёжная защита — держать критичные запасные части на месте."
+        },
+        {
+          "question": "Поставляет ли LIHE контроллеры горячих каналов?",
+          "answer": "Контроллеры не входят в опубликованный ассортимент LIHE. Сменный горячий канал LIHE подбирается под ваш существующий контроллер, поэтому сообщите его производителя, число зон и тип термопар."
+        }
+      ]
+    },
+    "es": {
+      "category": "Artículos técnicos",
+      "title": "¿Qué opciones tengo si necesito un canal caliente de reemplazo directo (drop-in) para un molde de preformas PET?",
+      "summary": "Si necesita un canal caliente de reemplazo directo para un molde de preformas PET, puede reacondicionar el sistema actual, comprar uno nuevo al fabricante original, encargar un sistema compatible a un proveedor independiente o sustituir solo los componentes desgastados. Esta guía compara las cuatro opciones, sus límites y los datos que necesita el proveedor.",
+      "heroAlt": "Placa distribuidora de canal caliente para un molde de preformas PET de múltiples cavidades, con filas de boquillas y cableado agrupado sobre un banco de trabajo",
+      "detailAlt": "Puntas de boquilla, agujas de válvula y resistencias en espiral de canal caliente sobre una bandeja de acero",
+      "sections": [
+        {
+          "heading": "¿Qué opciones tengo si necesito un canal caliente de reemplazo directo para un molde de preformas PET?",
+          "paragraphs": [
+            "Tiene cuatro opciones: reacondicionar el canal caliente que ya tiene, comprar un sistema nuevo al fabricante original del canal caliente, encargar un sistema compatible a un proveedor independiente o sustituir solo los componentes desgastados, como puntas de boquilla, agujas de válvula, resistencias y juntas. La opción adecuada depende del estado del distribuidor y las placas, del tiempo que el molde deba seguir funcionando y de la parada que pueda asumir.",
+            "Un canal caliente de reemplazo directo (drop-in) es un sistema de canal caliente — distribuidor, boquillas, resistencias y obturadores de válvula — construido para encajar en las placas, las posiciones de entrada, el cableado y el controlador de temperatura existentes de un molde de preformas PET, de modo que pueda instalarse sin rediseñar el molde.",
+            "Aviso: este artículo lo publica LIHE Precision. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) es un fabricante de moldes de preforma PET, moldes de soplado, moldes de tapas y de compresión, sistemas de canal caliente y componentes de molde para la industria de bebidas y envases, con fabricación en Foshan, China. Somos uno de los proveedores independientes descritos a continuación, no un fabricante de máquinas (OEM)."
+          ],
+          "list": [
+            "Reacondicionamiento: lo mejor cuando el distribuidor y las placas están en buen estado y los problemas son desgaste, fugas o fallos de resistencias.",
+            "Nuevo del fabricante original: lo mejor cuando quiere el mismo diseño, la misma documentación y el mismo canal de servicio.",
+            "Sistema compatible de un proveedor independiente: lo mejor cuando quiere un sistema nuevo para un molde existente con una cotización separada, o cuando el diseño original ya no tiene soporte.",
+            "Solo sustitución de componentes: lo mejor cuando fallan algunas boquillas o resistencias y el resto del sistema funciona bien."
+          ]
+        },
+        {
+          "heading": "Qué debe coincidir en un reemplazo directo",
+          "paragraphs": [
+            "Un canal caliente mantiene el PET fundido desde la boquilla de la máquina hasta cada entrada. En un molde de preformas se sitúa entre la máquina y la placa de cavidades, por lo que un reemplazo debe coincidir con varias interfaces a la vez. Cada punto siguiente debe confirmarse con planos o mediciones del molde real."
+          ],
+          "list": [
+            "Dimensiones de las placas y altura del conjunto, para que el molde cierre y se sujete exactamente como antes.",
+            "Paso de boquillas y posiciones de entrada, que deben alinearse con cada cavidad.",
+            "Tipo de entrada: la mayoría de los canales calientes para preformas usan obturadores de válvula, en los que una aguja abre y cierra cada entrada.",
+            "Accionamiento de las agujas y suministro de aire, ajustados al circuito neumático existente del molde.",
+            "Zonas de calentamiento, potencia y tipo de termopar, ajustados al controlador existente y sus conectores.",
+            "Diseño de los canales de fundido, para que el material esté equilibrado en todas las cavidades y el tiempo de residencia sea corto; el PET es sensible a su historial térmico, y una temperatura de fundido desigual se traduce en variación entre cavidades."
+          ]
+        },
+        {
+          "heading": "Cómo comparamos las opciones",
+          "paragraphs": [
+            "Comparamos las cuatro opciones con los mismos criterios. Los valores de LIHE proceden de sus páginas publicadas de productos y empresa. De los fabricantes de canales calientes solo repetimos lo que indican sus sitios web oficiales, que citamos en las referencias. Los valores que dependen de una cotización se marcan como tales, sin estimaciones."
+          ],
+          "list": [
+            "Alcance: qué se sustituye realmente.",
+            "Riesgo de ajuste: probabilidad de que haya que ajustar algo en la instalación.",
+            "Plazo de entrega: publicado o cotizado.",
+            "Cobertura de cavidades y plataformas.",
+            "Garantía: lo que el proveedor declara por escrito.",
+            "Caso de uso típico."
+          ]
+        },
+        {
+          "heading": "Comparación de opciones de canal caliente de reemplazo directo",
+          "table": {
+            "head": ["", "Reacondicionar el existente", "Nuevo del fabricante original", "Sistema compatible de proveedor independiente", "Solo sustituir componentes"],
+            "rows": [
+              ["Alcance", "Limpiar, inspeccionar, sustituir piezas desgastadas y volver a probar", "Sistema completo nuevo con el diseño original", "Sistema completo nuevo construido para el molde existente", "Puntas de boquilla, agujas de válvula, resistencias, juntas"],
+              ["Riesgo de ajuste", "Bajo: mismas placas y mismo paso", "Bajo si el diseño sigue vigente", "Depende de los planos y mediciones aportados", "Bajo si las piezas cumplen la especificación original"],
+              ["Plazo de entrega", "Cotizado por trabajo", "Cotizado por proyecto", "Cotizado por proyecto", "En LIHE, piezas de reemplazo 4 semanas"],
+              ["Cobertura", "Depende del proveedor de servicio", "Los diseños propios de ese fabricante", "En LIHE: obturador de válvula, hasta 144 cavidades (preformas) y 96 cavidades (tapas); compatible con HUSKY, NETSTAL, KM, SIPA", "En LIHE: puntas de boquilla, agujas de válvula, resistencias y juntas de reemplazo"],
+              ["Garantía", "Según indique el proveedor", "Según indique el fabricante", "En LIHE: garantía antifugas de 3 años en el diseño tipo Husky Ultra", "Según indique el proveedor"],
+              ["Cuándo conviene", "Distribuidor en buen estado, fallos pequeños recurrentes", "Quiere mantener el diseño y el servicio originales", "Diseño original no disponible o se busca una segunda fuente", "Fallos aislados en un sistema sano"]
+            ]
+          }
+        },
+        {
+          "heading": "Lo que los fabricantes de canales calientes indican en sus sitios web",
+          "paragraphs": [
+            "El fabricante original de su canal caliente es un primer contacto natural. El resumen siguiente repite solo lo que indica la navegación del sitio web oficial de cada empresa en octubre de 2026."
+          ],
+          "list": [
+            "Husky (husky.co) presenta canales calientes Ultra, controladores de molde Altanium, un programa Hot Runner Care, reacondicionamiento de canales calientes y un portal de pedido de repuestos.",
+            "Mold-Masters (moldmasters.com) presenta canales calientes PET-Series, controladores TempMaster y servicios posventa MasterCARE que incluyen repuestos, servicio y reparaciones, reacondicionamiento y mantenimiento preventivo.",
+            "SIPA (sipasolutions.com) incluye entre sus servicios el reacondicionamiento de canales calientes y los repuestos originales.",
+            "La gama publicada de canales calientes de LIHE se describe en la tabla comparativa anterior; no hacemos afirmaciones sobre el rendimiento de los productos de otros fabricantes."
+          ]
+        },
+        {
+          "heading": "Limitaciones de cada opción, incluidas las de LIHE",
+          "list": [
+            "El reacondicionamiento no corrige un distribuidor con un problema de diseño, como un mal equilibrado; devuelve el estado original, no lo mejora.",
+            "Un sistema nuevo del fabricante original le mantiene en un mismo diseño, pero solo mientras ese diseño tenga soporte.",
+            "Un sistema compatible de cualquier proveedor independiente depende de datos precisos. La falta de planos o un molde modificado a lo largo de los años aumentan el riesgo de ajuste.",
+            "Sustituir componentes sueltos puede ocultar un problema mayor; si fallan varias zonas, haga inspeccionar todo el sistema.",
+            "La compatibilidad publicada de los canales calientes de LIHE cubre HUSKY, NETSTAL, KM y SIPA. Otros sistemas requieren un estudio de viabilidad aparte y podemos declinar el proyecto.",
+            "La garantía de 3 años de LIHE es una garantía antifugas para el diseño tipo Husky Ultra. No es una garantía general sobre todos los componentes ni sobre todos los canales calientes que suministramos.",
+            "Los controladores de temperatura no forman parte de la gama publicada de LIHE, por lo que hay que confirmar que el controlador existente es compatible en número de zonas y tipo de termopar.",
+            "LIHE no publica precios. Cada canal caliente, reacondicionamiento y pedido de piezas se cotiza por proyecto."
+          ]
+        },
+        {
+          "heading": "Cómo elegir: una ruta de decisión",
+          "list": [
+            "¿El distribuidor está agrietado o la fuga está en el distribuidor y no en las boquillas? Prevea un sistema nuevo, del fabricante original o de un proveedor compatible.",
+            "¿El distribuidor está sano pero fallan varias boquillas, resistencias o juntas? Reacondicione el canal caliente existente.",
+            "¿Solo está afectada una zona o una boquilla? Sustituya ese componente y registre el fallo para detectar patrones.",
+            "¿El diseño original ya no tiene soporte o quiere una segunda fuente? Pida un sistema compatible a un proveedor independiente y envíe planos completos.",
+            "¿También cambia el número de cavidades, el cuello o el peso de la preforma? Trátelo como un proyecto de molde, no como un reemplazo directo; las propuestas de aligeramiento de LIHE reducen el peso de la preforma entre 1 g y 2 g, y las readaptaciones cuestan entre el 25% y el 40% del precio de un molde nuevo."
+          ]
+        },
+        {
+          "heading": "Precio y coste total de propiedad",
+          "paragraphs": [
+            "Los precios de los canales calientes siempre se cotizan por proyecto, porque dependen del número de cavidades, el paso, el tipo de entrada y el estado del sistema existente. Compare las opciones por coste total, no solo por precio de compra."
+          ],
+          "list": [
+            "Número de cavidades: un sistema de 144 cavidades tiene muchas más boquillas, resistencias y agujas de válvula que uno pequeño.",
+            "Tiempo de parada: un canal caliente con fugas detiene todo el molde, por lo que la producción perdida suele costar más que las piezas.",
+            "Riesgo de fugas: una garantía antifugas por escrito, como la garantía de 3 años de LIHE para su diseño tipo Husky Ultra, traslada parte de ese riesgo al proveedor.",
+            "Vida del molde: un canal caliente nuevo aporta poco en un molde al final de su vida útil; el utillaje de LIHE está construido para soportar hasta 8 millones de ciclos en plataformas Husky, SACMI y Netstal.",
+            "Repuestos: mantenga en planta los repuestos críticos — puntas de boquilla, resistencias, agujas de válvula —; el plazo de LIHE para piezas de reemplazo es de 4 semanas."
+          ]
+        },
+        {
+          "heading": "Cómo solicitar un canal caliente de reemplazo directo",
+          "steps": [
+            "Registre el sistema actual: fabricante, modelo, número de puntos de inyección, paso de boquillas, tipo de entrada y número de cavidades del molde.",
+            "Reúna los planos del canal caliente y de las placas del molde; si no existen, pregunte al proveedor por la medición del sistema existente.",
+            "Anote la marca del controlador, el número de zonas, la potencia de las resistencias y el tipo de termopar.",
+            "Describa el historial de fallos: qué zonas tienen fugas o fallan, con qué frecuencia y después de cuántos ciclos.",
+            "Pregunte al proveedor qué opción recomienda — reacondicionamiento, sistema nuevo o piezas — y por qué, con un alcance y una garantía por escrito.",
+            "Planifique la instalación y la puesta en marcha con el equipo técnico del proveedor y acuerde un calendario de mantenimiento preventivo."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Se puede usar un canal caliente no original en un molde de preformas tipo Husky?",
+          "answer": "Sí, si está construido según las placas, el paso, las entradas y el controlador del molde. Los canales calientes publicados por LIHE son compatibles con sistemas HUSKY, NETSTAL, KM y SIPA, y su diseño tipo Husky Ultra tiene una garantía antifugas de 3 años. Revise antes cualquier acuerdo de servicio con su proveedor de molde o de máquina."
+        },
+        {
+          "question": "¿Es mejor reacondicionar o sustituir un canal caliente?",
+          "answer": "Reacondicione cuando el distribuidor y las placas estén en buen estado y los fallos se limiten a boquillas, resistencias o juntas. Sustitúyalo cuando el distribuidor tenga fugas, esté dañado o tenga un problema de diseño que el reacondicionamiento no puede resolver."
+        },
+        {
+          "question": "¿Para cuántas cavidades sirven los canales calientes de LIHE?",
+          "answer": "LIHE publica canales calientes de obturador de válvula para hasta 144 cavidades en moldes de preforma y hasta 96 cavidades en moldes de tapas."
+        },
+        {
+          "question": "¿Con qué rapidez puedo recibir puntas de boquilla y resistencias de reemplazo?",
+          "answer": "El plazo publicado por LIHE para piezas de reemplazo es de 4 semanas. Para paradas urgentes, la protección más fiable es tener los repuestos críticos en planta."
+        },
+        {
+          "question": "¿LIHE suministra controladores de canal caliente?",
+          "answer": "Los controladores no forman parte de la gama publicada de LIHE. Un canal caliente de reemplazo de LIHE se adapta a su controlador existente, así que envíenos su marca, número de zonas y tipo de termopar."
+        }
+      ]
+    }
+  }
+}

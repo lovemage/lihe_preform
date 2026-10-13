@@ -1,0 +1,350 @@
+{
+  "key": "page-contact",
+  "updated": "2026-10-13",
+  "sources": [
+    { "label": "Wikipedia — Request for quotation", "url": "https://en.wikipedia.org/wiki/Request_for_quotation" },
+    { "label": "Wikipedia — Preform", "url": "https://en.wikipedia.org/wiki/Preform" },
+    { "label": "Wikipedia — Blow molding", "url": "https://en.wikipedia.org/wiki/Blow_molding" },
+    { "label": "Wikipedia — Hot runner", "url": "https://en.wikipedia.org/wiki/Hot_runner" },
+    { "label": "Wikipedia — Bottle cap", "url": "https://en.wikipedia.org/wiki/Bottle_cap" },
+    { "label": "Wikipedia — Incoterms", "url": "https://en.wikipedia.org/wiki/Incoterms" }
+  ],
+  "locales": {
+    "en": {
+      "heading": "How to send a PET preform mold, blow mold or hot runner enquiry that gets an accurate quote fast",
+      "intro": "A mold enquiry is a request for quotation (RFQ) that tells a toolmaker what part you need to produce, on which machine and in what volume, so the mold can be designed, priced and scheduled. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China. This guide lists the information our sales and engineering team needs for each product type, what happens after you send it, and which contact channel to use.",
+      "sections": [
+        {
+          "heading": "Why a complete mold enquiry gets a faster, more accurate quotation",
+          "paragraphs": [
+            "Most delays in mold quotations come from back-and-forth questions, not from engineering work. A preform mold for a Husky machine and one for a SACMI or Netstal machine have different interfaces, a 2925 neck needs different neck rings than a PCO 1881 neck, and a hot-fill blow mold is built differently from a cold-fill one. If these points are missing, the first reply can only be a list of questions."
+          ],
+          "list": [
+            "Name the machine: brand, model and, if possible, the serial number or the existing mold number.",
+            "Name the product: preform, closure, bottle or part, with a drawing, a 3D file or a physical sample.",
+            "Give the quantity: number of cavities, number of molds or number of spare parts.",
+            "State what you already have: existing molds, hot runners or parts that the new tooling must fit or replace.",
+            "State the target: new product, capacity increase, lightweighting, neck finish change or replacement of worn parts.",
+            "Add the delivery country and the delivery term you prefer, for example FOB or CIF, so logistics can be included in the offer."
+          ]
+        },
+        {
+          "heading": "Mold enquiry checklist by product type",
+          "paragraphs": [
+            "Use the table as a checklist before you write. Lead times are the standard figures LIHE publishes; the exact date is confirmed in the quotation after the engineering review."
+          ],
+          "table": {
+            "head": ["Product type", "Must-have information", "Helpful files", "Published lead time"],
+            "rows": [
+              ["PET preform mold", "Injection machine brand and model, cavitation (2 to 160 cavities), neck finish, preform weight in g, resin (PET or rPET share)", "Preform drawing, 3D file or samples; drawing of the existing mold", "Pilot mold 20 days; standard PET mold 8 weeks"],
+              ["Closure or compression mold", "Cap type (one-piece, two-piece, tethered), neck size such as 26mm, 28mm or 38mm, cavitation (12 to 72 cavities), injection machine or SACMI compression line", "Cap drawing, cap samples, drawing of the bottle neck", "Cap mold parts 4 weeks; complete molds confirmed in the quotation"],
+              ["Blow mold", "Blowing machine brand and model (one-step or two-step), bottle volume in ml, fill type (cold fill, hot fill or aseptic), number of cavities per mold", "Bottle drawing or 3D file, preform drawing, label panel and base requirements", "Confirmed in the quotation"],
+              ["Hot runner system", "Machine and mold it must fit, cavitation (up to 144 cavities for preforms, 96 for closures), valve gate requirement", "Existing hot runner or mold drawings, photos of the nameplate", "Confirmed in the quotation"],
+              ["Spare and conversion parts", "Part name or number, machine or mold it belongs to, quantity, whether it is a replacement or a conversion", "Original drawings or the existing part as a sample, photos with dimensions", "Replacement parts 4 weeks"]
+            ]
+          }
+        },
+        {
+          "heading": "PET preform mold and hot runner enquiries: details that change the quote",
+          "list": [
+            "Neck finish: state the standard (for example PCO 1881, PCO 1810, 1716, 3025, 2925, 38mm or a wide-mouth size) or send the neck drawing for a custom finish.",
+            "Preform weight and length: give the target weight in g and the wall thickness if known; if you plan lightweighting, give the current and the target weight.",
+            "Cavitation and machine: the number of cavities has to match the machine's clamp, shot size and platen layout, so name the exact model rather than only the brand.",
+            "Hot runner scope: say whether you need a complete new mold with hot runner, a hot runner only, or refurbishment and spare parts for an existing hot runner (nozzle tips, valve pins, heaters, seals).",
+            "Material: say whether you run virgin PET or a share of rPET, because this affects venting and maintenance planning.",
+            "Existing tooling: if you run a Husky, SACMI, Netstal, SIPA or similar mold today, say whether the new parts must be interchangeable with it."
+          ]
+        },
+        {
+          "heading": "Closure, compression and blow mold enquiries: details that change the quote",
+          "list": [
+            "Closures: give the cap type (one-piece, two-piece, with tamper-evident band, EU tethered), the neck finish it fits and the cap weight in g.",
+            "Closures: state whether production is by injection molding or on a SACMI CCM compression line, because the tooling is different.",
+            "Blow molds: give the bottle volume (for example 330ml, 500ml or 1.5L), the fill type and the machine; a hot-fill bottle filled at about 85 to 95°C needs a heat-set design, while standard PET deforms above about 60°C.",
+            "Blow molds: say whether you need split-type quick-change molds, base molds only, or a complete set including shells and clamping bases.",
+            "Blow molds: if the bottle must run on a different blowing machine than the one it was designed for, mention it so conversion parts are quoted together with the mold."
+          ]
+        },
+        {
+          "heading": "Spare parts and conversion parts: send what you already have",
+          "paragraphs": [
+            "Replacement and conversion parts for Husky, SACMI, Otto and similar systems are made from the customer's existing parts or drawings. The fastest enquiries include clear references to the original part."
+          ],
+          "list": [
+            "The original part number, if the OEM part number is still readable.",
+            "A photo of the part next to a ruler, plus the key dimensions you can measure.",
+            "The machine or mold serial number and the position of the part in the mold.",
+            "The reason for replacement: wear, damage, a new neck finish or a new bottle format.",
+            "Whether you can send one used part as a sample for measurement."
+          ]
+        },
+        {
+          "heading": "What happens after you send your mold enquiry",
+          "steps": [
+            "The international sales department at the factory confirms your enquiry and, if something on the checklist is missing, asks for it in one list instead of several separate emails.",
+            "The engineering team reviews the machine platform, cavitation, neck finish and drawings, and checks whether existing parts, drawings or samples are needed as a reference.",
+            "You receive a quotation that states the scope of supply and the lead time; prices are only given in the written quotation, never on the website.",
+            "After the order, the engineering and design center prepares the design with CAD/CAM, 3D simulation and flow analysis, and the design is agreed with you before production starts.",
+            "The mold or parts are machined, measured in the in-house Zeiss CMM lab and shipped; validation and inspection reports are supplied on request.",
+            "If needed, the technical team supports machine interface audits, mold installation and machine start-up, on site or remotely."
+          ]
+        },
+        {
+          "heading": "Contact channels for mold quotations and technical support",
+          "list": [
+            "Email sales@lihe-preform.com for quotations with drawings, 3D files and photos attached; email keeps every file in one thread.",
+            "Phone or WhatsApp +886 938 198 675 for quick questions, follow-ups and sending photos of parts or nameplates.",
+            "The contact form on this page for a first enquiry; choose Request a Quote, Technical Consultation or After-Sales Support as the subject.",
+            "Factory visits: manufacturing is in Shishan Town, Nanhai District, Foshan, Guangdong, China; arrange the date with sales in advance."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Can I get a mold price without a drawing?",
+          "answer": "A budget discussion is possible with the machine model, cavitation, neck finish and preform weight, but a firm quotation needs a drawing, a 3D file or a sample. Prices are given only in written quotations."
+        },
+        {
+          "question": "How long does a new PET preform mold take?",
+          "answer": "LIHE publishes 20 days for pilot molds and 8 weeks for standard PET molds. Replacement parts and cap mold parts take 4 weeks. The confirmed lead time is stated in each quotation."
+        },
+        {
+          "question": "Do I deal with an agent or with the factory?",
+          "answer": "The contact details on this page belong to LIHE's own international sales department at the factory, so engineering questions go directly to the team that designs and builds the mold."
+        },
+        {
+          "question": "Can you quote replacement parts for a Husky or SACMI mold?",
+          "answer": "Yes. Conversion parts are made to be 100% interchangeable with Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps and Corvaglia systems. Send the part number, photos or a sample part with your enquiry."
+        },
+        {
+          "question": "Can I ask for an inspection report with the quotation?",
+          "answer": "Inspection and validation reports from the Zeiss CMM lab are supplied on request. Mention in your enquiry which dimensions or features you want reported so they can be included in the scope."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "Как отправить запрос на пресс-форму для ПЭТ-преформ, выдувную форму или горячий канал и быстро получить точное предложение",
+      "intro": "Запрос на пресс-форму — это запрос коммерческого предложения (RFQ), в котором заказчик сообщает изготовителю оснастки, какое изделие нужно производить, на какой машине и в каком объёме, чтобы форму можно было спроектировать, рассчитать и запланировать. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) — производитель пресс-форм для ПЭТ-преформ, выдувных форм, форм для колпачков и компрессионных форм, горячеканальных систем и комплектующих для производства напитков и упаковки, с производством в Фошане, Китай. В этом руководстве перечислено, какие данные нужны нашему отделу продаж и инженерам для каждого типа продукции, что происходит после отправки запроса и какой канал связи выбрать.",
+      "sections": [
+        {
+          "heading": "Почему полный запрос на пресс-форму даёт более быстрое и точное предложение",
+          "paragraphs": [
+            "Большинство задержек при расчёте пресс-формы возникает из-за уточняющих вопросов, а не из-за инженерной работы. Форма для преформ под машину Husky и форма под SACMI или Netstal имеют разные интерфейсы, горловине 2925 нужны другие горловые кольца, чем горловине PCO 1881, а выдувная форма для горячего розлива устроена иначе, чем для холодного. Если этих данных нет, первым ответом может быть только список вопросов."
+          ],
+          "list": [
+            "Укажите машину: марку, модель и, по возможности, серийный номер или номер существующей формы.",
+            "Укажите изделие: преформа, колпачок, бутылка или деталь — с чертежом, 3D-моделью или физическим образцом.",
+            "Укажите количество: число гнёзд, число форм или число запасных частей.",
+            "Опишите, что уже есть: существующие формы, горячие каналы или детали, с которыми новая оснастка должна совпадать или которые она заменяет.",
+            "Сформулируйте цель: новый продукт, рост производительности, облегчение преформы, смена горловины или замена изношенных деталей.",
+            "Добавьте страну поставки и желаемые условия поставки, например FOB или CIF, чтобы логистика была учтена в предложении."
+          ]
+        },
+        {
+          "heading": "Чек-лист запроса на пресс-форму по типам продукции",
+          "paragraphs": [
+            "Используйте таблицу как чек-лист перед отправкой. Сроки — это стандартные значения, которые публикует LIHE; точная дата подтверждается в коммерческом предложении после инженерной проверки."
+          ],
+          "table": {
+            "head": ["Тип продукции", "Обязательные данные", "Полезные файлы", "Опубликованный срок"],
+            "rows": [
+              ["Пресс-форма для ПЭТ-преформ", "Марка и модель ТПА, число гнёзд (от 2 до 160), тип горловины, масса преформы в г, сырьё (ПЭТ или доля rPET)", "Чертёж преформы, 3D-модель или образцы; чертёж существующей формы", "Пилотная форма 20 дней; стандартная ПЭТ-форма 8 недель"],
+              ["Форма для колпачков или компрессионная форма", "Тип колпачка (цельный, двухкомпонентный, привязной), размер горловины, например 26 мм, 28 мм или 38 мм, число гнёзд (от 12 до 72), ТПА или компрессионная линия SACMI", "Чертёж колпачка, образцы колпачков, чертёж горловины бутылки", "Детали форм для колпачков 4 недели; полные формы — в предложении"],
+              ["Выдувная форма", "Марка и модель выдувной машины (одностадийная или двухстадийная), объём бутылки в мл, тип розлива (холодный, горячий или асептический), число гнёзд на форму", "Чертёж или 3D-модель бутылки, чертёж преформы, требования к зоне этикетки и дну", "Подтверждается в предложении"],
+              ["Горячеканальная система", "Машина и форма, к которым она должна подходить, число гнёзд (до 144 для преформ, до 96 для колпачков), требование к игольчатому затвору", "Чертежи существующего горячего канала или формы, фото шильдика", "Подтверждается в предложении"],
+              ["Запасные и переходные детали", "Название или номер детали, машина или форма, к которой она относится, количество, замена или переоснастка", "Оригинальные чертежи или существующая деталь как образец, фото с размерами", "Запасные части 4 недели"]
+            ]
+          }
+        },
+        {
+          "heading": "Запросы на пресс-формы для ПЭТ-преформ и горячие каналы: что влияет на предложение",
+          "list": [
+            "Горловина: укажите стандарт (например, PCO 1881, PCO 1810, 1716, 3025, 2925, 38 мм или широкую горловину) или пришлите чертёж нестандартной горловины.",
+            "Масса и длина преформы: укажите целевую массу в г и толщину стенки, если она известна; при облегчении укажите текущую и целевую массу.",
+            "Число гнёзд и машина: количество гнёзд должно соответствовать усилию смыкания, объёму впрыска и плитам машины, поэтому называйте точную модель, а не только марку.",
+            "Объём работ по горячему каналу: новая форма с горячим каналом, только горячий канал или ремонт и запасные части для существующего (наконечники сопел, запорные иглы, нагреватели, уплотнения).",
+            "Материал: укажите, работаете ли вы на первичном ПЭТ или с долей rPET, так как это влияет на вентиляцию формы и график обслуживания.",
+            "Существующая оснастка: если сейчас вы работаете на форме Husky, SACMI, Netstal, SIPA или аналогичной, укажите, должны ли новые детали быть с ней взаимозаменяемы."
+          ]
+        },
+        {
+          "heading": "Запросы на формы для колпачков, компрессионные и выдувные формы: что влияет на предложение",
+          "list": [
+            "Колпачки: укажите тип (цельный, двухкомпонентный, с кольцом контроля первого вскрытия, привязной по нормам ЕС), горловину, под которую он рассчитан, и массу колпачка в г.",
+            "Колпачки: укажите, производится ли колпачок литьём под давлением или на компрессионной линии SACMI CCM — оснастка для них разная.",
+            "Выдувные формы: укажите объём бутылки (например, 330 мл, 500 мл или 1,5 л), тип розлива и машину; бутылке для горячего розлива при температуре около 85–95 °C нужна термофиксирующая конструкция, а обычный ПЭТ деформируется примерно выше 60 °C.",
+            "Выдувные формы: укажите, нужны ли разъёмные быстросменные формы, только донные вставки или полный комплект с кожухами и монтажными основаниями.",
+            "Выдувные формы: если бутылка должна работать на другой выдувной машине, чем та, под которую она проектировалась, сообщите об этом, чтобы переходные детали были рассчитаны вместе с формой."
+          ]
+        },
+        {
+          "heading": "Запасные и переходные детали: присылайте то, что уже есть",
+          "paragraphs": [
+            "Запасные и переходные детали для систем Husky, SACMI, Otto и аналогичных изготавливаются по существующим деталям или чертежам заказчика. Быстрее всего обрабатываются запросы с понятными ссылками на оригинальную деталь."
+          ],
+          "list": [
+            "Оригинальный номер детали, если номер производителя ещё читается.",
+            "Фото детали рядом с линейкой и основные размеры, которые вы можете измерить.",
+            "Серийный номер машины или формы и положение детали в форме.",
+            "Причина замены: износ, повреждение, новая горловина или новый формат бутылки.",
+            "Можете ли вы прислать одну использованную деталь как образец для измерения."
+          ]
+        },
+        {
+          "heading": "Что происходит после отправки запроса на пресс-форму",
+          "steps": [
+            "Международный отдел продаж на заводе подтверждает получение запроса и, если в чек-листе чего-то не хватает, запрашивает недостающее одним списком, а не несколькими письмами.",
+            "Инженеры проверяют платформу машины, число гнёзд, горловину и чертежи, а также определяют, нужны ли существующие детали, чертежи или образцы как эталон.",
+            "Вы получаете коммерческое предложение с объёмом поставки и сроком; цены указываются только в письменном предложении и никогда — на сайте.",
+            "После заказа инженерно-конструкторский центр выполняет проектирование в CAD/CAM, 3D-моделирование и анализ течения расплава, и конструкция согласуется с вами до начала производства.",
+            "Форма или детали изготавливаются, измеряются в собственной лаборатории с КИМ Zeiss и отгружаются; отчёты о валидации и контроле предоставляются по запросу.",
+            "При необходимости техническая команда помогает с аудитом интерфейса машины, установкой формы и запуском — на месте или удалённо."
+          ]
+        },
+        {
+          "heading": "Каналы связи для расчёта пресс-форм и технической поддержки",
+          "list": [
+            "Email sales@lihe-preform.com — для запросов с чертежами, 3D-моделями и фото; в переписке по email все файлы остаются в одной цепочке.",
+            "Телефон или WhatsApp +886 938 198 675 — для быстрых вопросов, уточнений и отправки фото деталей или шильдиков.",
+            "Форма обратной связи на этой странице — для первого запроса; выберите тему «Запрос коммерческого предложения», «Техническая консультация» или «Послепродажное обслуживание».",
+            "Посещение завода: производство находится в посёлке Шишань, район Наньхай, Фошань, провинция Гуандун, Китай; дату согласуйте с отделом продаж заранее."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Можно ли узнать цену пресс-формы без чертежа?",
+          "answer": "Ориентировочное обсуждение возможно по модели машины, числу гнёзд, горловине и массе преформы, но для твёрдого предложения нужен чертёж, 3D-модель или образец. Цены указываются только в письменных предложениях."
+        },
+        {
+          "question": "Сколько времени занимает изготовление новой пресс-формы для ПЭТ-преформ?",
+          "answer": "LIHE публикует срок 20 дней для пилотных форм и 8 недель для стандартных ПЭТ-форм. Запасные части и детали форм для колпачков — 4 недели. Подтверждённый срок указывается в каждом предложении."
+        },
+        {
+          "question": "Я общаюсь с агентом или с заводом?",
+          "answer": "Контакты на этой странице принадлежат собственному международному отделу продаж LIHE на заводе, поэтому инженерные вопросы попадают напрямую к команде, которая проектирует и изготавливает форму."
+        },
+        {
+          "question": "Можете ли вы рассчитать запасные части для формы Husky или SACMI?",
+          "answer": "Да. Переходные детали изготавливаются со 100% взаимозаменяемостью для систем Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps и Corvaglia. Приложите к запросу номер детали, фото или образец."
+        },
+        {
+          "question": "Можно ли запросить протокол контроля вместе с предложением?",
+          "answer": "Отчёты о контроле и валидации из лаборатории КИМ Zeiss предоставляются по запросу. Укажите в запросе, какие размеры или элементы нужно включить в отчёт, чтобы это вошло в объём работ."
+        }
+      ]
+    },
+    "es": {
+      "heading": "Cómo enviar una consulta de molde de preforma PET, molde de soplado o canal caliente que obtenga una cotización precisa y rápida",
+      "intro": "Una consulta de molde es una solicitud de cotización (RFQ) que indica al fabricante de moldes qué pieza necesita producir, en qué máquina y en qué volumen, para que el molde pueda diseñarse, cotizarse y planificarse. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) es un fabricante de moldes de preforma PET, moldes de soplado, moldes de tapas y de compresión, sistemas de canal caliente y componentes de molde para la industria de bebidas y envases, con fabricación en Foshan, China. Esta guía enumera la información que necesita nuestro equipo de ventas e ingeniería para cada tipo de producto, qué ocurre después de enviarla y qué canal de contacto conviene usar.",
+      "sections": [
+        {
+          "heading": "Por qué una consulta de molde completa obtiene una cotización más rápida y precisa",
+          "paragraphs": [
+            "La mayoría de los retrasos en las cotizaciones de moldes se deben a preguntas de ida y vuelta, no al trabajo de ingeniería. Un molde de preforma para una máquina Husky y otro para una SACMI o Netstal tienen interfaces distintas, un cuello 2925 necesita anillos de cuello diferentes a los de un cuello PCO 1881, y un molde de soplado para llenado en caliente se construye de forma distinta a uno para llenado en frío. Si faltan estos datos, la primera respuesta solo puede ser una lista de preguntas."
+          ],
+          "list": [
+            "Indique la máquina: marca, modelo y, si es posible, el número de serie o el número del molde existente.",
+            "Indique el producto: preforma, tapa, botella o pieza, con un plano, un archivo 3D o una muestra física.",
+            "Indique la cantidad: número de cavidades, número de moldes o número de repuestos.",
+            "Describa lo que ya tiene: moldes, canales calientes o piezas existentes con los que el nuevo utillaje debe encajar o a los que debe sustituir.",
+            "Indique el objetivo: producto nuevo, aumento de capacidad, aligeramiento, cambio de cuello o sustitución de piezas desgastadas.",
+            "Añada el país de entrega y el término de entrega que prefiere, por ejemplo FOB o CIF, para que la logística se incluya en la oferta."
+          ]
+        },
+        {
+          "heading": "Lista de verificación de la consulta de molde por tipo de producto",
+          "paragraphs": [
+            "Use la tabla como lista de verificación antes de escribir. Los plazos son las cifras estándar que publica LIHE; la fecha exacta se confirma en la cotización después de la revisión de ingeniería."
+          ],
+          "table": {
+            "head": ["Tipo de producto", "Información imprescindible", "Archivos útiles", "Plazo publicado"],
+            "rows": [
+              ["Molde de preforma PET", "Marca y modelo de la inyectora, número de cavidades (de 2 a 160), tipo de cuello, peso de la preforma en g, material (PET virgen o porcentaje de rPET)", "Plano de la preforma, archivo 3D o muestras; plano del molde existente", "Molde piloto 20 días; molde PET estándar 8 semanas"],
+              ["Molde de tapas o de compresión", "Tipo de tapa (una pieza, dos piezas, tapa unida), tamaño de cuello como 26mm, 28mm o 38mm, número de cavidades (de 12 a 72), inyectora o línea de compresión SACMI", "Plano de la tapa, muestras de tapas, plano del cuello de la botella", "Piezas de moldes de tapas 4 semanas; moldes completos según cotización"],
+              ["Molde de soplado", "Marca y modelo de la sopladora (una etapa o dos etapas), volumen de la botella en ml, tipo de llenado (frío, caliente o aséptico), cavidades por molde", "Plano o archivo 3D de la botella, plano de la preforma, requisitos de zona de etiqueta y fondo", "Se confirma en la cotización"],
+              ["Sistema de canal caliente", "Máquina y molde en los que debe montarse, número de cavidades (hasta 144 para preformas, 96 para tapas), requisito de obturador (valve gate)", "Planos del canal caliente o del molde existente, fotos de la placa de identificación", "Se confirma en la cotización"],
+              ["Repuestos y piezas de conversión", "Nombre o número de pieza, máquina o molde al que pertenece, cantidad, si es sustitución o conversión", "Planos originales o la pieza existente como muestra, fotos con medidas", "Repuestos 4 semanas"]
+            ]
+          }
+        },
+        {
+          "heading": "Consultas de moldes de preforma PET y canal caliente: datos que cambian la cotización",
+          "list": [
+            "Cuello: indique el estándar (por ejemplo PCO 1881, PCO 1810, 1716, 3025, 2925, 38mm o un tamaño de boca ancha) o envíe el plano del cuello si es personalizado.",
+            "Peso y longitud de la preforma: indique el peso objetivo en g y el espesor de pared si lo conoce; si planea aligerar, indique el peso actual y el peso objetivo.",
+            "Cavidades y máquina: el número de cavidades debe ajustarse a la fuerza de cierre, la capacidad de inyección y los platos de la máquina, así que indique el modelo exacto y no solo la marca.",
+            "Alcance del canal caliente: indique si necesita un molde nuevo completo con canal caliente, solo el canal caliente o el reacondicionamiento y los repuestos de uno existente (puntas de boquilla, agujas de obturador, resistencias, juntas).",
+            "Material: indique si trabaja con PET virgen o con un porcentaje de rPET, porque influye en la ventilación y en el plan de mantenimiento.",
+            "Utillaje existente: si hoy trabaja con un molde Husky, SACMI, Netstal, SIPA o similar, indique si las piezas nuevas deben ser intercambiables con él."
+          ]
+        },
+        {
+          "heading": "Consultas de moldes de tapas, compresión y soplado: datos que cambian la cotización",
+          "list": [
+            "Tapas: indique el tipo (una pieza, dos piezas, con banda de garantía, tapa unida según la normativa de la UE), el cuello al que se ajusta y el peso de la tapa en g.",
+            "Tapas: indique si la producción es por inyección o en una línea de compresión SACMI CCM, porque el utillaje es distinto.",
+            "Moldes de soplado: indique el volumen de la botella (por ejemplo 330ml, 500ml o 1,5L), el tipo de llenado y la máquina; una botella de llenado en caliente a unos 85–95°C necesita un diseño termofijado, mientras que el PET estándar se deforma por encima de unos 60°C.",
+            "Moldes de soplado: indique si necesita moldes partidos de cambio rápido, solo fondos o un juego completo con carcasas y bases de sujeción.",
+            "Moldes de soplado: si la botella debe funcionar en una sopladora distinta de aquella para la que se diseñó, indíquelo para cotizar las piezas de conversión junto con el molde."
+          ]
+        },
+        {
+          "heading": "Repuestos y piezas de conversión: envíe lo que ya tiene",
+          "paragraphs": [
+            "Los repuestos y piezas de conversión para sistemas Husky, SACMI, Otto y similares se fabrican a partir de las piezas o planos existentes del cliente. Las consultas más rápidas incluyen referencias claras a la pieza original."
+          ],
+          "list": [
+            "El número de pieza original, si el número del fabricante aún es legible.",
+            "Una foto de la pieza junto a una regla, más las medidas principales que pueda tomar.",
+            "El número de serie de la máquina o del molde y la posición de la pieza en el molde.",
+            "El motivo de la sustitución: desgaste, daño, un cuello nuevo o un formato de botella nuevo.",
+            "Si puede enviar una pieza usada como muestra para medirla."
+          ]
+        },
+        {
+          "heading": "Qué ocurre después de enviar su consulta de molde",
+          "steps": [
+            "El departamento de ventas internacionales de la fábrica confirma su consulta y, si falta algo de la lista de verificación, lo solicita en una sola lista en lugar de varios correos separados.",
+            "El equipo de ingeniería revisa la plataforma de la máquina, las cavidades, el cuello y los planos, y comprueba si se necesitan piezas, planos o muestras existentes como referencia.",
+            "Usted recibe una cotización con el alcance del suministro y el plazo; los precios solo se indican en la cotización escrita, nunca en el sitio web.",
+            "Tras el pedido, el centro de ingeniería y diseño prepara el diseño con CAD/CAM, simulación 3D y análisis de flujo, y el diseño se acuerda con usted antes de iniciar la producción.",
+            "El molde o las piezas se mecanizan, se miden en el laboratorio propio con MMC Zeiss y se envían; los informes de validación e inspección se entregan bajo solicitud.",
+            "Si es necesario, el equipo técnico da apoyo en auditorías de interfaz de máquina, instalación del molde y puesta en marcha, in situ o a distancia."
+          ]
+        },
+        {
+          "heading": "Canales de contacto para cotizaciones de moldes y soporte técnico",
+          "list": [
+            "Correo sales@lihe-preform.com para cotizaciones con planos, archivos 3D y fotos adjuntos; el correo mantiene todos los archivos en un mismo hilo.",
+            "Teléfono o WhatsApp +886 938 198 675 para preguntas rápidas, seguimiento y envío de fotos de piezas o placas de identificación.",
+            "El formulario de contacto de esta página para una primera consulta; elija como asunto Solicitar Cotizacion, Consultoria Tecnica o Soporte Postventa.",
+            "Visitas a la fábrica: la fabricación está en Shishan Town, distrito de Nanhai, Foshan, Guangdong, China; acuerde la fecha con ventas con antelación."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Puedo obtener el precio de un molde sin plano?",
+          "answer": "Se puede hablar de un presupuesto orientativo con el modelo de máquina, las cavidades, el cuello y el peso de la preforma, pero una cotización firme necesita un plano, un archivo 3D o una muestra. Los precios solo se dan en cotizaciones escritas."
+        },
+        {
+          "question": "¿Cuánto tarda un molde nuevo de preforma PET?",
+          "answer": "LIHE publica 20 días para moldes piloto y 8 semanas para moldes PET estándar. Los repuestos y las piezas de moldes de tapas tardan 4 semanas. El plazo confirmado se indica en cada cotización."
+        },
+        {
+          "question": "¿Trato con un agente o con la fábrica?",
+          "answer": "Los datos de contacto de esta página pertenecen al propio departamento de ventas internacionales de LIHE en la fábrica, por lo que las preguntas de ingeniería llegan directamente al equipo que diseña y construye el molde."
+        },
+        {
+          "question": "¿Pueden cotizar repuestos para un molde Husky o SACMI?",
+          "answer": "Sí. Las piezas de conversión se fabrican para ser 100% intercambiables con sistemas Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps y Corvaglia. Envíe con su consulta el número de pieza, fotos o una pieza de muestra."
+        },
+        {
+          "question": "¿Puedo pedir un informe de inspección junto con la cotización?",
+          "answer": "Los informes de inspección y validación del laboratorio MMC Zeiss se entregan bajo solicitud. Indique en su consulta qué medidas o características quiere que se informen para incluirlas en el alcance."
+        }
+      ]
+    }
+  }
+}

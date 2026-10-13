@@ -1,0 +1,370 @@
+{
+  "key": "page-factory",
+  "updated": "2026-10-13",
+  "sources": [
+    { "label": "Wikipedia — Computer-aided manufacturing", "url": "https://en.wikipedia.org/wiki/Computer-aided_manufacturing" },
+    { "label": "Wikipedia — Electrical discharge machining", "url": "https://en.wikipedia.org/wiki/Electrical_discharge_machining" },
+    { "label": "Wikipedia — Coordinate-measuring machine", "url": "https://en.wikipedia.org/wiki/Coordinate-measuring_machine" },
+    { "label": "Wikipedia — Factory acceptance test", "url": "https://en.wikipedia.org/wiki/Factory_acceptance_test" },
+    { "label": "Wikipedia — Preventive maintenance", "url": "https://en.wikipedia.org/wiki/Preventive_maintenance" }
+  ],
+  "locales": {
+    "en": {
+      "heading": "Inside the LIHE PET mold factory: how a preform mold moves from design to shipping",
+      "intro": "The LIHE factory is a 15,000 sqm PET mold manufacturing facility in Shishan Town, Nanhai District, Foshan, China, where preform molds, blow molds, closure molds and hot runner components are designed, machined, assembled and inspected on one site. This guide follows a mold through each stage of the facility, lists the capacity figures that matter for planning, and explains what support continues after the mold has shipped.",
+      "sections": [
+        {
+          "heading": "Stage 1: mold design, 3D simulation and flow analysis",
+          "paragraphs": [
+            "Every project starts in the engineering and design center. Decisions made here fix cavitation, cooling layout and part geometry, so most later problems are cheaper to prevent at this stage than to correct on the shop floor."
+          ],
+          "list": [
+            "The preform, closure or bottle drawing is checked against the neck finish standard, for example PCO 1881, PCO 1810, 29/25 or 38mm.",
+            "The mold is modelled in CAD and the machining programs are prepared in CAM.",
+            "3D simulation and flow analysis are used to check filling balance and cooling before any steel is cut.",
+            "Lightweighting or cooling changes are evaluated at this stage, for example a preform weight reduction of 1g to 2g or a neck cooling time reduction of up to 0.5 seconds."
+          ]
+        },
+        {
+          "heading": "Stage 2: CNC machining, EDM and grinding of cores, cavities and neck rings",
+          "paragraphs": [
+            "Machining takes place on over 10,000 sqm of climate-controlled production floor. A stable temperature matters because steel expands and contracts with heat, and multi-cavity molds depend on every cavity being machined to the same dimensions."
+          ],
+          "list": [
+            "CNC machining centers from Mazak and Makino (Japan) and Haas and Hardinge (USA), plus Beijing Jingdiao high-speed machines, cut cores, cavities, neck rings and mold base plates.",
+            "Sodick EDM machines produce fine features and sharp internal shapes that cutting tools cannot reach, such as details on gate inserts.",
+            "Okamoto grinders finish mold base plates and critical faces for flatness and parallelism.",
+            "Mold bases for preform molds up to 160 cavities are machined on Mazak, Makino and Haas equipment and ground on Okamoto."
+          ]
+        },
+        {
+          "heading": "Stage 3 and 4: assembly and quality inspection with Zeiss CMM",
+          "paragraphs": [
+            "Machined parts are measured before and after assembly. The quality lab is equipped with a Zeiss coordinate measuring machine, a 3D profile scanner, an optical projector and bottle sample inspection equipment. These checks are what stand behind LIHE's published process capability of CPK ≥ 1.33 and operational defect rates as low as 0.0064%."
+          ],
+          "list": [
+            "Zeiss CMM: measures the 3D geometry of cores, cavities, neck rings and mold bases against the CAD model.",
+            "3D profile scanner: captures 3D surface shapes for comparison with the design model.",
+            "Optical projector: checks small profiles such as neck threads and edges.",
+            "Bottle sample inspection: evaluates finished bottle samples for blow mold projects.",
+            "Validation and inspection reports are supplied to the customer on request."
+          ]
+        },
+        {
+          "heading": "Stage 5: sample evaluation, packing and shipping",
+          "paragraphs": [
+            "Before a mold leaves the factory, buyers commonly agree an acceptance step: a review of inspection data and, where the project calls for it, of sample preforms or bottles. This is often called a factory acceptance test. Agree the acceptance criteria, sample quantities and report format in the purchase order so that both sides measure the same things."
+          ],
+          "list": [
+            "Pilot molds are delivered in 20 days, which lets you approve a new design on samples before ordering full cavitation.",
+            "Standard PET molds are delivered in 8 weeks.",
+            "Replacement parts and cap mold parts are delivered in 4 weeks.",
+            "Molds are shipped to customers in more than 50 countries across Asia, Europe, the Americas, Africa and the Middle East."
+          ]
+        },
+        {
+          "heading": "LIHE factory capacity in numbers",
+          "table": {
+            "head": ["Capacity item", "Figure", "Note for planning"],
+            "rows": [
+              ["Total facility", "15,000 sqm", "Design, machining, assembly and inspection on one site"],
+              ["Climate-controlled production floor", "Over 10,000 sqm", "Stable conditions for precision machining"],
+              ["Preform mold cavities produced", "Over 12,000 per year", "Basis for repeat cavities and spare parts"],
+              ["Preform mold size", "2 to 160 cavities", "Mold bases built for up to 160 cavities"],
+              ["Closure injection molds", "12 to 72 cavities", "One-piece, two-piece and tethered caps"],
+              ["Hot runner systems", "Up to 144 preform or 96 closure cavities", "Valve gate design"],
+              ["Mold durability", "Up to 8 million shots", "On Husky, SACMI and Netstal platforms"],
+              ["Experience", "20+ years", "Mold manufacturing in Foshan"]
+            ]
+          }
+        },
+        {
+          "heading": "The full PET mold workflow, step by step",
+          "steps": [
+            "Engineering review of the drawing or sample, neck finish, cavitation and machine model.",
+            "CAD design, 3D simulation and flow analysis, followed by design approval by the customer.",
+            "CNC machining, EDM and grinding of cores, cavities, neck rings and the mold base in the climate-controlled workshop.",
+            "Measurement of critical parts on the Zeiss CMM, then assembly of the mold or hot runner.",
+            "Final inspection and the agreed acceptance step, with validation and inspection reports on request.",
+            "Packing and shipping, followed by mold installation and machine start-up support at the customer's plant."
+          ]
+        },
+        {
+          "heading": "After-sales support: installation, preventive maintenance and refurbishment",
+          "paragraphs": [
+            "Support does not end at shipment. LIHE's dedicated technical team covers the period from installation through years of production."
+          ],
+          "list": [
+            "On-site machine interface audits before or during installation.",
+            "Mold installation and machine start-up support.",
+            "Regular preventive maintenance to keep wear parts within tolerance.",
+            "Remote troubleshooting and on-site technical assistance.",
+            "Spare parts supply, with replacement parts in 4 weeks.",
+            "Mold refurbishment programs and complete overhauls that restore aging molds to OEM-level efficiency.",
+            "Hot runner refurbishment with replacement nozzle tips, valve pins, heaters and seals; Husky Ultra-type hot runners carry a 3-year leakage-proof guarantee."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Where is the LIHE factory?",
+          "answer": "The factory is in Shishan Town, Nanhai District, Foshan, Guangdong, China. LIHE also has a sales office in Taiwan."
+        },
+        {
+          "question": "Which machine tools does LIHE use?",
+          "answer": "CNC machining centers from Mazak, Makino, Haas, Hardinge and Beijing Jingdiao, Sodick EDM machines and Okamoto grinders. Inspection uses a Zeiss CMM, a 3D profile scanner, an optical projector and bottle sample inspection equipment."
+        },
+        {
+          "question": "How long does it take to build a PET preform mold?",
+          "answer": "The published lead time for a standard PET mold is 8 weeks. Pilot molds take 20 days, and replacement parts and cap mold parts take 4 weeks."
+        },
+        {
+          "question": "Why does climate control matter in a mold factory?",
+          "answer": "Steel changes size with temperature. Machining in a stable environment helps every cavity of a multi-cavity mold reach the same dimensions, which is important when a mold has up to 160 cavities."
+        },
+        {
+          "question": "Does LIHE help install the mold at our plant?",
+          "answer": "Yes. The technical team provides on-site machine interface audits, mold installation and machine start-up support, and remote troubleshooting afterwards."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "Внутри завода пресс-форм ПЭТ LIHE: путь пресс-формы для преформ от проектирования до отгрузки",
+      "intro": "Завод LIHE — это производственная площадка пресс-форм ПЭТ площадью 15 000 кв. м в посёлке Шишань, район Наньхай, Фошань, Китай, где пресс-формы для преформ, выдувные формы, формы для колпачков и компоненты горячих каналов проектируются, обрабатываются, собираются и проверяются в одном месте. Это руководство проводит форму через каждый этап производства, приводит производственные показатели, важные для планирования, и объясняет, какая поддержка продолжается после отгрузки.",
+      "sections": [
+        {
+          "heading": "Этап 1: проектирование формы, 3D-моделирование и анализ течения расплава",
+          "paragraphs": [
+            "Каждый проект начинается в инженерно-конструкторском центре. Здесь фиксируются гнёздность, схема охлаждения и геометрия изделия, поэтому большинство будущих проблем дешевле предотвратить на этом этапе, чем исправлять в цехе."
+          ],
+          "list": [
+            "Чертёж преформы, колпачка или бутылки сверяется со стандартом горловины, например PCO 1881, PCO 1810, 29/25 или 38 мм.",
+            "Форма моделируется в CAD, а программы обработки готовятся в CAM.",
+            "3D-моделирование и анализ течения расплава используются для проверки баланса заполнения и охлаждения до начала резки стали.",
+            "На этом этапе оцениваются облегчение и изменения охлаждения, например снижение массы преформы на 1–2 г или сокращение времени охлаждения горловины до 0,5 секунды."
+          ]
+        },
+        {
+          "heading": "Этап 2: обработка на ЧПУ, электроэрозия и шлифование знаков, матриц и горловых колец",
+          "paragraphs": [
+            "Обработка ведётся на производственных площадях с климат-контролем более 10 000 кв. м. Стабильная температура важна, потому что сталь расширяется и сжимается при нагреве, а многогнёздная форма требует, чтобы каждое гнездо было обработано в одинаковые размеры."
+          ],
+          "list": [
+            "Обрабатывающие центры с ЧПУ Mazak и Makino (Япония), Haas и Hardinge (США), а также высокоскоростные станки Beijing Jingdiao обрабатывают знаки, матрицы, горловые кольца и плиты пресс-форм.",
+            "Электроэрозионные станки Sodick выполняют тонкие элементы и острые внутренние контуры, недоступные режущему инструменту, например детали литниковых вставок.",
+            "Шлифовальные станки Okamoto обеспечивают плоскостность и параллельность плит и критических поверхностей.",
+            "Плиты для пресс-форм преформ до 160 гнёзд обрабатываются на оборудовании Mazak, Makino и Haas и шлифуются на Okamoto."
+          ]
+        },
+        {
+          "heading": "Этапы 3 и 4: сборка и контроль качества на КИМ Zeiss",
+          "paragraphs": [
+            "Обработанные детали измеряются до и после сборки. Лаборатория качества оснащена координатно-измерительной машиной Zeiss, 3D-сканером профиля, оптическим проектором и оборудованием для контроля образцов бутылок. Именно эти проверки стоят за опубликованными показателями LIHE: CPK ≥ 1,33 и уровень брака в эксплуатации всего 0,0064%."
+          ],
+          "list": [
+            "КИМ Zeiss: измеряет трёхмерную геометрию знаков, матриц, горловых колец и плит и сравнивает её с CAD-моделью.",
+            "3D-сканер профиля: снимает трёхмерную форму поверхностей для сравнения с проектной моделью.",
+            "Оптический проектор: проверяет мелкие профили, такие как резьба горловины и кромки.",
+            "Контроль образцов бутылок: оценка готовых образцов бутылок в проектах выдувных форм.",
+            "Протоколы валидации и контроля предоставляются заказчику по запросу."
+          ]
+        },
+        {
+          "heading": "Этап 5: оценка образцов, упаковка и отгрузка",
+          "paragraphs": [
+            "Перед отгрузкой формы с завода покупатели обычно согласуют этап приёмки: проверку данных контроля и, если проект этого требует, образцов преформ или бутылок. Такой этап часто называют заводскими приёмочными испытаниями. Зафиксируйте критерии приёмки, количество образцов и формат протокола в заказе, чтобы обе стороны измеряли одно и то же."
+          ],
+          "list": [
+            "Пилотные формы поставляются за 20 дней, что позволяет утвердить новую конструкцию на образцах до заказа полной гнёздности.",
+            "Стандартные формы ПЭТ поставляются за 8 недель.",
+            "Запасные части и детали форм для колпачков поставляются за 4 недели.",
+            "Формы отгружаются клиентам более чем в 50 странах Азии, Европы, Америки, Африки и Ближнего Востока."
+          ]
+        },
+        {
+          "heading": "Производственные возможности завода LIHE в цифрах",
+          "table": {
+            "head": ["Показатель", "Значение", "Примечание для планирования"],
+            "rows": [
+              ["Общая площадь", "15 000 кв. м", "Проектирование, обработка, сборка и контроль в одном месте"],
+              ["Производственные площади с климат-контролем", "Более 10 000 кв. м", "Стабильные условия для прецизионной обработки"],
+              ["Изготовлено гнёзд пресс-форм для преформ", "Более 12 000 в год", "Основа для повторных гнёзд и запасных частей"],
+              ["Размер пресс-форм для преформ", "От 2 до 160 гнёзд", "Плиты изготавливаются до 160 гнёзд"],
+              ["Литьевые формы для колпачков", "От 12 до 72 гнёзд", "Одно- и двухкомпонентные и привязанные колпачки"],
+              ["Горячеканальные системы", "До 144 гнёзд для преформ или 96 для колпачков", "Конструкция с запорными соплами"],
+              ["Ресурс пресс-формы", "До 8 млн циклов", "На платформах Husky, SACMI и Netstal"],
+              ["Опыт", "Более 20 лет", "Производство пресс-форм в Фошане"]
+            ]
+          }
+        },
+        {
+          "heading": "Полный цикл изготовления пресс-формы ПЭТ по шагам",
+          "steps": [
+            "Инженерный анализ чертежа или образца, горловины, гнёздности и модели машины.",
+            "Проектирование в CAD, 3D-моделирование и анализ течения расплава, затем утверждение конструкции заказчиком.",
+            "Обработка на ЧПУ, электроэрозия и шлифование знаков, матриц, горловых колец и плит в цехе с климат-контролем.",
+            "Измерение критических деталей на КИМ Zeiss, затем сборка формы или горячеканальной системы.",
+            "Окончательный контроль и согласованный этап приёмки, протоколы валидации и контроля по запросу.",
+            "Упаковка и отгрузка, затем помощь в установке формы и пуске машины на заводе заказчика."
+          ]
+        },
+        {
+          "heading": "Послепродажная поддержка: установка, плановое обслуживание и восстановление",
+          "paragraphs": [
+            "Поддержка не заканчивается отгрузкой. Специальная техническая команда LIHE сопровождает период от установки до многих лет производства."
+          ],
+          "list": [
+            "Аудит интерфейса машины на месте до или во время установки.",
+            "Установка формы и помощь в пуске машины.",
+            "Регулярное плановое обслуживание, чтобы изнашиваемые детали оставались в допуске.",
+            "Удалённая диагностика и техническая помощь на месте.",
+            "Поставка запасных частей, срок изготовления — 4 недели.",
+            "Программы восстановления и капитальный ремонт, возвращающие изношенные формы к эффективности уровня OEM.",
+            "Восстановление горячих каналов со сменой наконечников сопел, запорных игл, нагревателей и уплотнений; на горячие каналы типа Husky Ultra действует гарантия 3 года от протечек."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Где находится завод LIHE?",
+          "answer": "Завод расположен в посёлке Шишань, район Наньхай, Фошань, провинция Гуандун, Китай. У LIHE также есть офис продаж на Тайване."
+        },
+        {
+          "question": "Какое станочное оборудование использует LIHE?",
+          "answer": "Обрабатывающие центры с ЧПУ Mazak, Makino, Haas, Hardinge и Beijing Jingdiao, электроэрозионные станки Sodick и шлифовальные станки Okamoto. Для контроля используются КИМ Zeiss, 3D-сканер профиля, оптический проектор и оборудование для контроля образцов бутылок."
+        },
+        {
+          "question": "Сколько времени занимает изготовление пресс-формы для ПЭТ-преформ?",
+          "answer": "Опубликованный срок изготовления стандартной формы ПЭТ — 8 недель. Пилотные формы изготавливаются за 20 дней, запасные части и детали форм для колпачков — за 4 недели."
+        },
+        {
+          "question": "Почему на заводе пресс-форм важен климат-контроль?",
+          "answer": "Размеры стали меняются с температурой. Обработка в стабильных условиях помогает получить одинаковые размеры во всех гнёздах многогнёздной формы, что особенно важно, когда в форме до 160 гнёзд."
+        },
+        {
+          "question": "Помогает ли LIHE установить форму на нашем заводе?",
+          "answer": "Да. Техническая команда проводит аудит интерфейса машины на месте, помогает с установкой формы и пуском машины, а затем обеспечивает удалённую диагностику."
+        }
+      ]
+    },
+    "es": {
+      "heading": "Dentro de la fábrica de moldes PET de LIHE: el recorrido de un molde de preforma del diseño al envío",
+      "intro": "La fábrica de LIHE es una planta de fabricación de moldes PET de 15.000 m² en Shishan, distrito de Nanhai, Foshan, China, donde moldes de preforma, moldes de soplado, moldes de tapas y componentes de canal caliente se diseñan, mecanizan, montan e inspeccionan en un mismo lugar. Esta guía sigue un molde a través de cada etapa de la planta, recoge las cifras de capacidad que importan para planificar y explica qué soporte continúa después del envío.",
+      "sections": [
+        {
+          "heading": "Etapa 1: diseño del molde, simulación 3D y análisis de flujo",
+          "paragraphs": [
+            "Todo proyecto empieza en el centro de ingeniería y diseño. Aquí se fijan el número de cavidades, el esquema de refrigeración y la geometría de la pieza, por lo que la mayoría de los problemas posteriores sale más barato evitarlos en esta etapa que corregirlos en el taller."
+          ],
+          "list": [
+            "El plano de la preforma, la tapa o la botella se comprueba frente a la norma del cuello, por ejemplo PCO 1881, PCO 1810, 29/25 o 38 mm.",
+            "El molde se modela en CAD y los programas de mecanizado se preparan en CAM.",
+            "La simulación 3D y el análisis de flujo se usan para comprobar el equilibrio de llenado y la refrigeración antes de cortar el acero.",
+            "En esta etapa se evalúan el aligeramiento y los cambios de refrigeración, por ejemplo una reducción del peso de la preforma de 1 g a 2 g o una reducción del enfriamiento del cuello de hasta 0,5 segundos."
+          ]
+        },
+        {
+          "heading": "Etapa 2: mecanizado CNC, electroerosión y rectificado de machos, cavidades y anillos de cuello",
+          "paragraphs": [
+            "El mecanizado se realiza en más de 10.000 m² de superficie de producción climatizada. Una temperatura estable es importante porque el acero se dilata y se contrae con el calor, y un molde multicavidad depende de que cada cavidad se mecanice con las mismas dimensiones."
+          ],
+          "list": [
+            "Centros de mecanizado CNC de Mazak y Makino (Japón) y Haas y Hardinge (EE. UU.), además de máquinas de alta velocidad Beijing Jingdiao, mecanizan machos, cavidades, anillos de cuello y placas de la base de molde.",
+            "Las máquinas de electroerosión Sodick producen detalles finos y formas internas agudas que las herramientas de corte no alcanzan, como detalles de los insertos de entrada.",
+            "Las rectificadoras Okamoto acaban las placas de la base de molde y las caras críticas para lograr planitud y paralelismo.",
+            "Las bases de molde para moldes de preforma de hasta 160 cavidades se mecanizan en equipos Mazak, Makino y Haas y se rectifican en Okamoto."
+          ]
+        },
+        {
+          "heading": "Etapas 3 y 4: montaje e inspección de calidad con MMC Zeiss",
+          "paragraphs": [
+            "Las piezas mecanizadas se miden antes y después del montaje. El laboratorio de calidad dispone de una máquina de medición por coordenadas Zeiss, un escáner de perfiles 3D, un proyector óptico y equipos de inspección de muestras de botellas. Estos controles respaldan la capacidad de proceso publicada por LIHE, CPK ≥ 1,33, y tasas de defectos en operación tan bajas como el 0,0064%."
+          ],
+          "list": [
+            "MMC Zeiss: mide la geometría 3D de machos, cavidades, anillos de cuello y bases de molde frente al modelo CAD.",
+            "Escáner de perfiles 3D: captura formas de superficie en 3D para compararlas con el modelo de diseño.",
+            "Proyector óptico: comprueba perfiles pequeños como roscas de cuello y aristas.",
+            "Inspección de muestras de botellas: evalúa las botellas de muestra en proyectos de moldes de soplado.",
+            "Los informes de validación e inspección se entregan al cliente a petición."
+          ]
+        },
+        {
+          "heading": "Etapa 5: evaluación de muestras, embalaje y envío",
+          "paragraphs": [
+            "Antes de que un molde salga de fábrica, los compradores suelen acordar un paso de aceptación: la revisión de los datos de inspección y, cuando el proyecto lo requiere, de preformas o botellas de muestra. Este paso se conoce a menudo como prueba de aceptación en fábrica. Fije los criterios de aceptación, la cantidad de muestras y el formato del informe en el pedido para que ambas partes midan lo mismo."
+          ],
+          "list": [
+            "Los moldes piloto se entregan en 20 días, lo que permite aprobar un nuevo diseño con muestras antes de pedir el número completo de cavidades.",
+            "Los moldes PET estándar se entregan en 8 semanas.",
+            "Las piezas de repuesto y las piezas de molde de tapas se entregan en 4 semanas.",
+            "Los moldes se envían a clientes de más de 50 países de Asia, Europa, América, África y Oriente Medio."
+          ]
+        },
+        {
+          "heading": "La capacidad de la fábrica de LIHE en cifras",
+          "table": {
+            "head": ["Concepto", "Cifra", "Nota para planificar"],
+            "rows": [
+              ["Superficie total", "15.000 m²", "Diseño, mecanizado, montaje e inspección en un mismo lugar"],
+              ["Superficie de producción climatizada", "Más de 10.000 m²", "Condiciones estables para mecanizado de precisión"],
+              ["Cavidades de molde de preforma fabricadas", "Más de 12.000 al año", "Base para cavidades repetidas y repuestos"],
+              ["Tamaño de molde de preforma", "De 2 a 160 cavidades", "Bases de molde para hasta 160 cavidades"],
+              ["Moldes de inyección de tapas", "De 12 a 72 cavidades", "Tapas de una y dos piezas y tapas cautivas"],
+              ["Sistemas de canal caliente", "Hasta 144 cavidades de preforma o 96 de tapa", "Diseño con obturador"],
+              ["Durabilidad del molde", "Hasta 8 millones de ciclos", "En plataformas Husky, SACMI y Netstal"],
+              ["Experiencia", "Más de 20 años", "Fabricación de moldes en Foshan"]
+            ]
+          }
+        },
+        {
+          "heading": "El flujo completo de un molde PET, paso a paso",
+          "steps": [
+            "Revisión de ingeniería del plano o la muestra, el cuello, el número de cavidades y el modelo de máquina.",
+            "Diseño CAD, simulación 3D y análisis de flujo, seguidos de la aprobación del diseño por el cliente.",
+            "Mecanizado CNC, electroerosión y rectificado de machos, cavidades, anillos de cuello y base de molde en el taller climatizado.",
+            "Medición de las piezas críticas en la MMC Zeiss y montaje del molde o del canal caliente.",
+            "Inspección final y paso de aceptación acordado, con informes de validación e inspección a petición.",
+            "Embalaje y envío, seguidos del apoyo a la instalación del molde y la puesta en marcha de la máquina en la planta del cliente."
+          ]
+        },
+        {
+          "heading": "Servicio posventa: instalación, mantenimiento preventivo y reacondicionamiento",
+          "paragraphs": [
+            "El soporte no termina con el envío. El equipo técnico dedicado de LIHE acompaña desde la instalación hasta años de producción."
+          ],
+          "list": [
+            "Auditorías in situ de la interfaz con la máquina antes o durante la instalación.",
+            "Instalación del molde y apoyo en la puesta en marcha de la máquina.",
+            "Mantenimiento preventivo periódico para mantener las piezas de desgaste dentro de tolerancia.",
+            "Asistencia remota y asistencia técnica in situ.",
+            "Suministro de repuestos, con piezas de repuesto en 4 semanas.",
+            "Programas de reacondicionamiento y revisiones completas que devuelven los moldes envejecidos a la eficiencia de nivel OEM.",
+            "Reacondicionamiento de canales calientes con puntas de boquilla, agujas obturadoras, resistencias y juntas de repuesto; los canales calientes tipo Husky Ultra tienen una garantía de 3 años contra fugas."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Dónde está la fábrica de LIHE?",
+          "answer": "La fábrica está en Shishan, distrito de Nanhai, Foshan, Guangdong, China. LIHE también tiene una oficina comercial en Taiwán."
+        },
+        {
+          "question": "¿Qué máquinas herramienta utiliza LIHE?",
+          "answer": "Centros de mecanizado CNC de Mazak, Makino, Haas, Hardinge y Beijing Jingdiao, máquinas de electroerosión Sodick y rectificadoras Okamoto. La inspección usa una MMC Zeiss, un escáner de perfiles 3D, un proyector óptico y equipos de inspección de muestras de botellas."
+        },
+        {
+          "question": "¿Cuánto se tarda en fabricar un molde de preforma PET?",
+          "answer": "El plazo publicado para un molde PET estándar es de 8 semanas. Los moldes piloto tardan 20 días, y las piezas de repuesto y piezas de molde de tapas, 4 semanas."
+        },
+        {
+          "question": "¿Por qué importa la climatización en una fábrica de moldes?",
+          "answer": "El acero cambia de tamaño con la temperatura. Mecanizar en un entorno estable ayuda a que todas las cavidades de un molde multicavidad tengan las mismas dimensiones, algo importante cuando un molde tiene hasta 160 cavidades."
+        },
+        {
+          "question": "¿LIHE ayuda a instalar el molde en nuestra planta?",
+          "answer": "Sí. El equipo técnico realiza auditorías in situ de la interfaz con la máquina, apoya la instalación del molde y la puesta en marcha, y después ofrece asistencia remota."
+        }
+      ]
+    }
+  }
+}

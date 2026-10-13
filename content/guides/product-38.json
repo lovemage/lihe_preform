@@ -1,0 +1,319 @@
+{
+  "key": "product-38",
+  "updated": "2026-10-13",
+  "sources": [
+    { "label": "Wikipedia — Stretch blow molding", "url": "https://en.wikipedia.org/wiki/Stretch_blow_molding" },
+    { "label": "Wikipedia — Single-minute exchange of die", "url": "https://en.wikipedia.org/wiki/Single-minute_exchange_of_die" },
+    { "label": "Wikipedia — Thermal conductivity", "url": "https://en.wikipedia.org/wiki/Thermal_conductivity" },
+    { "label": "Wikipedia — Aluminium alloy", "url": "https://en.wikipedia.org/wiki/Aluminium_alloy" },
+    { "label": "Sidel — official website", "url": "https://www.sidel.com/en" }
+  ],
+  "locales": {
+    "en": {
+      "heading": "Blow mold shell systems for quick change: shells vs cavity inserts, cooling and when to buy complete molds",
+      "intro": "A mold shell system is a two-level blow mold design in which a permanent shell (shell holder) stays mounted in the machine's mold carrier and only the bottle-shaped cavity inserts are exchanged when the format changes. The shell takes over the machine interface and cooling distribution, while the insert carries the bottle shape. This guide explains how the work is divided between shells and inserts, what to check on the cooling connections, and how to decide between buying shells with inserts or complete blow molds.",
+      "sections": [
+        {
+          "heading": "How a shell-type quick-change blow mold divides the work",
+          "paragraphs": [
+            "In a conventional blow mold, each mold half is one solid block that contains both the bottle cavity and all mounting and cooling features. A shell system splits these functions into two parts."
+          ],
+          "list": [
+            "Mold shell: mounts in the mold carrier or on the clamping base, holds the cavity half in position, and distributes cooling water from the machine to the insert.",
+            "Cavity insert: carries the bottle shape, the surface finish, vent details and any embossing or label panel. It is the part that changes with the bottle design.",
+            "Base mold: forms the bottle base (for example a petaloid base for carbonated drinks) and usually changes with the bottle as well.",
+            "Locating features between shell and insert decide repeatability: the insert must return to the same position after every change.",
+            "Because only inserts and base molds change, a new bottle format needs less machined material and fewer heavy parts are lifted during the changeover."
+          ]
+        },
+        {
+          "heading": "Cooling connections in mold shells",
+          "paragraphs": [
+            "The bottle is cooled by contact with the cavity, so mold temperature control directly affects bottle shape, shrinkage and cycle stability. In a shell system, the heat has to pass from the insert through the shell contact surface into the cooling water."
+          ],
+          "list": [
+            "Drilled channels in the shell carry water close to the insert; their layout must match the machine's water connections.",
+            "Insert-to-shell contact surfaces must be clean and flat; dirt or scale on these faces reduces heat transfer.",
+            "Where water passes from shell to insert, O-rings or seals are used; damaged seals cause leaks and lower flow in that mold half.",
+            "Aluminum alloy shells are lightweight and have high thermal conductivity, which supports even mold temperature.",
+            "Hot fill bottles (filled at about 85–95°C, while standard PET deforms above about 60°C) use heat-set molds with a different temperature control design, so the fill type must be known before shells are specified.",
+            "After every change, pressure-check the circuit and confirm flow in both halves before production."
+          ]
+        },
+        {
+          "heading": "Shells with inserts vs complete blow molds: comparison table",
+          "table": {
+            "head": ["Factor", "Shell system with cavity inserts", "Complete (one-piece) blow mold"],
+            "rows": [
+              ["Parts changed per new bottle", "Cavity inserts and base mold", "Whole mold halves and base mold"],
+              ["Changeover handling", "Lighter parts; shells stay in the carrier", "Heavier parts; full mold removed and mounted"],
+              ["Cost of a new bottle format", "Lower, because shells are reused", "Higher, because every format needs full mold halves"],
+              ["Heat transfer path", "Insert to shell to water: one extra contact surface", "Direct from cavity to drilled channels in the same block"],
+              ["Best fit", "Lines running many bottle formats with frequent changes", "Lines running one format for long periods, or special temperature requirements"],
+              ["Main risk", "Wear or dirt on shell-insert interface affects repeatability", "Long changeovers and higher tooling cost per format"]
+            ]
+          }
+        },
+        {
+          "heading": "When to buy mold shells vs complete blow molds",
+          "list": [
+            "Choose shells when the line runs several bottle sizes, for example 330ml, 500ml, 550ml and 1.5L water bottles, and changes format often.",
+            "Choose shells when new bottle designs are introduced regularly, because each design then needs only inserts and a base mold.",
+            "Choose complete molds when a line runs one bottle for a long time and changeover speed is not a priority.",
+            "Check what the machine supports: some blow molding machines are designed for shell-type quick-change molds, others for complete molds only.",
+            "LIHE supplies split-type quick-change blow molds for two-step machines such as SIDEL, KRONES, SIG/KHS, TECH-LONG and NEWAMSTAR, and mold shells made from customers' existing parts or drawings for SIDEL, KRONES, KHS and other machines.",
+            "If existing shells are in good condition, a new format may only need new inserts; if the shells are worn, replace them first."
+          ]
+        },
+        {
+          "heading": "Format changeover steps with a shell-type blow mold",
+          "steps": [
+            "Prepare the new cavity inserts, base molds and any blowing pins or conversion parts for the new bottle before stopping the line.",
+            "Stop the machine, follow the lockout procedure, vent blowing air and drain or isolate the mold cooling circuit.",
+            "Unbolt and remove the old cavity inserts from the shells, leaving the shells mounted in the carrier.",
+            "Clean the shell contact surfaces and locating features, and inspect the seals at the water transfer points.",
+            "Mount the new inserts on the locating features and tighten the fasteners to the specified torque.",
+            "Change the base mold, reconnect cooling, and pressure-check every station for leaks.",
+            "Load the process settings for the new bottle, run a trial and inspect parting line, base center and bottle dimensions from each station."
+          ]
+        },
+        {
+          "heading": "Mold shell inspection, wear and replacement",
+          "list": [
+            "Inspect locating faces and pins of the shell at each format change; worn locators allow inserts to shift and create parting line steps.",
+            "Look for corrosion or scale in cooling channels and on contact faces, and check water quality if deposits return quickly.",
+            "Check threads of fastening holes; damaged threads prevent correct clamping of inserts.",
+            "LIHE's stated lead time for replacement parts is 4 weeks, so order replacement shells before worn ones affect production.",
+            "LIHE has an in-house Zeiss CMM lab and supplies inspection reports on request, which helps verify that new shells match existing inserts."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is the difference between a mold shell and a cavity insert?",
+          "answer": "The mold shell is the permanent holder that mounts in the machine and connects to the cooling circuit. The cavity insert carries the bottle shape and is exchanged when the bottle format changes."
+        },
+        {
+          "question": "Does a shell system affect bottle cooling?",
+          "answer": "Heat passes from the insert through the shell contact surface into the cooling water, so this interface must be clean and flat and the water seals intact. With good contact and correct channel layout, the shell system supports even mold temperature."
+        },
+        {
+          "question": "Can I use my existing shells for a new bottle design?",
+          "answer": "Often yes, if the new bottle fits the insert envelope of the existing shells and the shells are not worn. Send the shell drawing or a sample with the new bottle drawing to confirm."
+        },
+        {
+          "question": "Are shell systems suitable for hot fill bottles?",
+          "answer": "Hot fill bottles, filled at about 85–95°C, need heat-set molds with specific temperature control. State the fill type at the start so the shell and insert design match the application."
+        },
+        {
+          "question": "What do I need to send to order mold shells?",
+          "answer": "Send the machine make and model, existing shells or their drawings, the cooling connection layout and the bottle drawing. LIHE makes mold shells from customers' existing parts or drawings."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "Системы корпусов выдувных форм для быстрой смены: корпуса и вставки, охлаждение и когда покупать цельные формы",
+      "intro": "Система корпусов выдувной формы — это двухуровневая конструкция, в которой постоянный корпус (держатель вставок) остаётся установленным в формодержателе машины, а при смене формата меняются только вставки с формой бутылки. Корпус отвечает за сопряжение с машиной и распределение охлаждения, а вставка несёт форму бутылки. В руководстве описано, как распределяются функции между корпусами и вставками, что проверять на соединениях охлаждения и как выбрать между корпусами со вставками и цельными выдувными формами.",
+      "sections": [
+        {
+          "heading": "Как корпусная выдувная форма быстрой смены распределяет функции",
+          "paragraphs": [
+            "В обычной выдувной форме каждая половина — это цельный блок, который содержит и полость бутылки, и все элементы крепления и охлаждения. Корпусная система разделяет эти функции на две детали."
+          ],
+          "list": [
+            "Корпус формы: крепится в формодержателе или на прижимном основании, фиксирует половину полости и распределяет охлаждающую воду от машины к вставке.",
+            "Вставка полости: несёт форму бутылки, качество поверхности, вентиляционные элементы, рельеф и зону этикетки. Именно она меняется вместе с дизайном бутылки.",
+            "Донная форма: формирует дно бутылки (например, лепестковое дно для газированных напитков) и обычно тоже меняется вместе с бутылкой.",
+            "Фиксирующие элементы между корпусом и вставкой определяют повторяемость: после каждой смены вставка должна вставать в то же положение.",
+            "Поскольку меняются только вставки и донные формы, новый формат требует меньше обработанного металла, а при переналадке поднимается меньше тяжёлых деталей."
+          ]
+        },
+        {
+          "heading": "Соединения охлаждения в корпусах форм",
+          "paragraphs": [
+            "Бутылка охлаждается при контакте с полостью, поэтому температура формы напрямую влияет на геометрию, усадку и стабильность цикла. В корпусной системе тепло проходит от вставки через контактную поверхность корпуса в охлаждающую воду."
+          ],
+          "list": [
+            "Сверлёные каналы корпуса подводят воду близко к вставке; их схема должна совпадать с водяными подключениями машины.",
+            "Контактные поверхности вставки и корпуса должны быть чистыми и ровными; грязь и накипь снижают теплопередачу.",
+            "В местах перехода воды из корпуса во вставку стоят уплотнительные кольца; повреждённые уплотнения дают протечки и снижают расход в этой половине.",
+            "Корпуса из алюминиевого сплава лёгкие и обладают высокой теплопроводностью, что помогает поддерживать равномерную температуру формы.",
+            "Для горячего розлива (около 85–95 °C, тогда как обычный ПЭТ деформируется выше примерно 60 °C) используются термофиксирующие формы с другой системой термостатирования, поэтому тип розлива нужно знать до выбора корпусов.",
+            "После каждой смены опрессуйте контур и убедитесь в наличии расхода в обеих половинах до запуска."
+          ]
+        },
+        {
+          "heading": "Корпуса со вставками или цельные выдувные формы: таблица сравнения",
+          "table": {
+            "head": ["Фактор", "Корпусная система со вставками", "Цельная выдувная форма"],
+            "rows": [
+              ["Что меняется для новой бутылки", "Вставки полости и донная форма", "Половины формы целиком и донная форма"],
+              ["Работа при переналадке", "Детали легче; корпуса остаются в формодержателе", "Детали тяжелее; форма снимается и ставится целиком"],
+              ["Стоимость нового формата", "Ниже, так как корпуса используются повторно", "Выше, так как для каждого формата нужны полные половины"],
+              ["Путь отвода тепла", "Вставка — корпус — вода: одна дополнительная контактная поверхность", "Напрямую от полости к каналам в одном блоке"],
+              ["Лучше всего подходит", "Линиям с множеством форматов и частой сменой", "Линиям с одним форматом на долгий срок или особыми температурными требованиями"],
+              ["Главный риск", "Износ или грязь на стыке корпуса и вставки ухудшают повторяемость", "Долгая переналадка и более высокая стоимость оснастки на формат"]
+            ]
+          }
+        },
+        {
+          "heading": "Когда покупать корпуса форм, а когда цельные выдувные формы",
+          "list": [
+            "Выбирайте корпуса, если линия выпускает несколько размеров бутылок, например бутылки для воды 330 мл, 500 мл, 550 мл и 1,5 л, и часто меняет формат.",
+            "Выбирайте корпуса, если регулярно выводятся новые дизайны бутылок: для каждого дизайна тогда нужны только вставки и донная форма.",
+            "Выбирайте цельные формы, если линия долго работает на одной бутылке и скорость переналадки не важна.",
+            "Проверьте, что поддерживает машина: одни выдувные машины рассчитаны на корпусные формы быстрой смены, другие — только на цельные формы.",
+            "LIHE поставляет разъёмные выдувные формы быстрой смены для двухстадийных машин SIDEL, KRONES, SIG/KHS, TECH-LONG и NEWAMSTAR, а также корпуса форм по существующим деталям или чертежам заказчика для машин SIDEL, KRONES, KHS и других.",
+            "Если существующие корпуса в хорошем состоянии, для нового формата могут понадобиться только новые вставки; если корпуса изношены, сначала замените их."
+          ]
+        },
+        {
+          "heading": "Порядок смены формата с корпусной выдувной формой",
+          "steps": [
+            "Подготовьте новые вставки, донные формы и, при необходимости, дутьевые ниппели и сменные детали для новой бутылки до остановки линии.",
+            "Остановите машину, выполните блокировку, сбросьте дутьевой воздух и слейте или перекройте контур охлаждения формы.",
+            "Открутите и снимите старые вставки из корпусов, оставив корпуса в формодержателе.",
+            "Очистите контактные поверхности и фиксирующие элементы корпуса и проверьте уплотнения в точках перехода воды.",
+            "Установите новые вставки на фиксаторы и затяните крепёж с указанным моментом.",
+            "Замените донную форму, подключите охлаждение и опрессуйте каждую станцию на протечки.",
+            "Загрузите параметры процесса для новой бутылки, выполните пробный пуск и проверьте линию разъёма, центр дна и размеры бутылок с каждой станции."
+          ]
+        },
+        {
+          "heading": "Контроль, износ и замена корпусов форм",
+          "list": [
+            "Проверяйте базовые поверхности и штифты корпуса при каждой смене формата; изношенные фиксаторы позволяют вставкам смещаться и дают ступеньку по линии разъёма.",
+            "Ищите коррозию и накипь в каналах охлаждения и на контактных поверхностях; если отложения быстро возвращаются, проверьте качество воды.",
+            "Проверяйте резьбу крепёжных отверстий; повреждённая резьба мешает правильно зажать вставки.",
+            "Заявленный LIHE срок поставки запасных частей — 4 недели, поэтому заказывайте новые корпуса до того, как износ скажется на производстве.",
+            "У LIHE есть собственная лаборатория с КИМ Zeiss, протоколы контроля предоставляются по запросу — это помогает подтвердить, что новые корпуса подходят к существующим вставкам."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Чем корпус формы отличается от вставки полости?",
+          "answer": "Корпус — это постоянный держатель, который крепится в машине и подключается к контуру охлаждения. Вставка несёт форму бутылки и меняется при смене формата."
+        },
+        {
+          "question": "Влияет ли корпусная система на охлаждение бутылки?",
+          "answer": "Тепло проходит от вставки через контактную поверхность корпуса в охлаждающую воду, поэтому стык должен быть чистым и ровным, а уплотнения — целыми. При хорошем контакте и правильной схеме каналов система обеспечивает равномерную температуру формы."
+        },
+        {
+          "question": "Можно ли использовать существующие корпуса для новой бутылки?",
+          "answer": "Часто да, если новая бутылка помещается в габарит вставок существующих корпусов, а корпуса не изношены. Для подтверждения пришлите чертёж или образец корпуса вместе с чертежом новой бутылки."
+        },
+        {
+          "question": "Подходят ли корпусные системы для бутылок горячего розлива?",
+          "answer": "Бутылки горячего розлива при около 85–95 °C требуют термофиксирующих форм с особым термостатированием. Укажите тип розлива в самом начале, чтобы конструкция корпуса и вставки соответствовала задаче."
+        },
+        {
+          "question": "Что нужно прислать для заказа корпусов форм?",
+          "answer": "Укажите марку и модель машины, пришлите существующие корпуса или их чертежи, схему подключения охлаждения и чертёж бутылки. LIHE изготавливает корпуса по существующим деталям или чертежам заказчика."
+        }
+      ]
+    },
+    "es": {
+      "heading": "Sistemas de carcasas para moldes de soplado de cambio rápido: carcasas e insertos, refrigeración y cuándo comprar moldes completos",
+      "intro": "Un sistema de carcasas de molde es un diseño de molde de soplado en dos niveles en el que una carcasa permanente (portainsertos) queda montada en el portamoldes de la máquina y solo se cambian los insertos de cavidad con la forma de la botella cuando cambia el formato. La carcasa asume la interfaz con la máquina y la distribución de la refrigeración, mientras que el inserto lleva la forma de la botella. Esta guía explica cómo se reparte el trabajo entre carcasas e insertos, qué revisar en las conexiones de refrigeración y cómo decidir entre comprar carcasas con insertos o moldes de soplado completos.",
+      "sections": [
+        {
+          "heading": "Cómo reparte el trabajo un molde de soplado de cambio rápido con carcasas",
+          "paragraphs": [
+            "En un molde de soplado convencional, cada mitad es un bloque macizo que contiene la cavidad de la botella y todos los elementos de montaje y refrigeración. Un sistema de carcasas divide estas funciones en dos piezas."
+          ],
+          "list": [
+            "Carcasa del molde: se monta en el portamoldes o sobre la base de cierre, mantiene en posición la mitad de cavidad y distribuye el agua de refrigeración de la máquina al inserto.",
+            "Inserto de cavidad: lleva la forma de la botella, el acabado superficial, los detalles de venteo y cualquier relieve o panel de etiqueta. Es la pieza que cambia con el diseño de la botella.",
+            "Molde de fondo: forma el fondo de la botella (por ejemplo un fondo petaloide para bebidas carbonatadas) y normalmente también cambia con la botella.",
+            "Los elementos de posicionamiento entre carcasa e inserto deciden la repetibilidad: el inserto debe volver a la misma posición tras cada cambio.",
+            "Como solo cambian insertos y moldes de fondo, un nuevo formato requiere menos material mecanizado y se levantan menos piezas pesadas durante el cambio."
+          ]
+        },
+        {
+          "heading": "Conexiones de refrigeración en las carcasas de molde",
+          "paragraphs": [
+            "La botella se enfría por contacto con la cavidad, por lo que el control de temperatura del molde afecta directamente a la forma, la contracción y la estabilidad del ciclo. En un sistema de carcasas, el calor pasa del inserto a través de la superficie de contacto de la carcasa hasta el agua de refrigeración."
+          ],
+          "list": [
+            "Los canales taladrados de la carcasa llevan el agua cerca del inserto; su trazado debe coincidir con las conexiones de agua de la máquina.",
+            "Las superficies de contacto entre inserto y carcasa deben estar limpias y planas; la suciedad o la cal reducen la transferencia de calor.",
+            "Donde el agua pasa de la carcasa al inserto se usan juntas tóricas; las juntas dañadas provocan fugas y menos caudal en esa mitad.",
+            "Las carcasas de aleación de aluminio son ligeras y tienen alta conductividad térmica, lo que favorece una temperatura uniforme del molde.",
+            "Las botellas de llenado en caliente (a unos 85–95 °C, mientras que el PET estándar se deforma por encima de unos 60 °C) usan moldes termofijados con otro diseño de control de temperatura, por lo que el tipo de llenado debe conocerse antes de especificar las carcasas.",
+            "Tras cada cambio, compruebe la estanqueidad del circuito a presión y confirme el caudal en ambas mitades antes de producir."
+          ]
+        },
+        {
+          "heading": "Carcasas con insertos o moldes de soplado completos: tabla comparativa",
+          "table": {
+            "head": ["Factor", "Sistema de carcasas con insertos", "Molde de soplado completo (una pieza)"],
+            "rows": [
+              ["Piezas que cambian por botella nueva", "Insertos de cavidad y molde de fondo", "Mitades completas y molde de fondo"],
+              ["Manipulación en el cambio", "Piezas más ligeras; las carcasas quedan en el portamoldes", "Piezas más pesadas; se desmonta y monta el molde entero"],
+              ["Coste de un nuevo formato", "Menor, porque las carcasas se reutilizan", "Mayor, porque cada formato necesita mitades completas"],
+              ["Camino del calor", "Inserto, carcasa y agua: una superficie de contacto adicional", "Directo de la cavidad a los canales del mismo bloque"],
+              ["Mejor uso", "Líneas con muchos formatos y cambios frecuentes", "Líneas con un formato durante largos periodos o requisitos térmicos especiales"],
+              ["Riesgo principal", "Desgaste o suciedad en la unión carcasa-inserto afecta a la repetibilidad", "Cambios largos y mayor coste de utillaje por formato"]
+            ]
+          }
+        },
+        {
+          "heading": "Cuándo comprar carcasas de molde y cuándo moldes de soplado completos",
+          "list": [
+            "Elija carcasas cuando la línea produce varios tamaños, por ejemplo botellas de agua de 330 ml, 500 ml, 550 ml y 1,5 L, y cambia de formato a menudo.",
+            "Elija carcasas cuando se introducen nuevos diseños de botella con regularidad, porque cada diseño solo necesita insertos y un molde de fondo.",
+            "Elija moldes completos cuando una línea produce una sola botella durante mucho tiempo y la velocidad de cambio no es prioritaria.",
+            "Compruebe lo que admite la máquina: algunas sopladoras están diseñadas para moldes de cambio rápido con carcasas y otras solo para moldes completos.",
+            "LIHE suministra moldes de soplado partidos de cambio rápido para máquinas de dos etapas como SIDEL, KRONES, SIG/KHS, TECH-LONG y NEWAMSTAR, y carcasas de molde fabricadas a partir de piezas o planos existentes del cliente para SIDEL, KRONES, KHS y otras.",
+            "Si las carcasas existentes están en buen estado, un formato nuevo puede requerir solo insertos nuevos; si están gastadas, sustitúyalas primero."
+          ]
+        },
+        {
+          "heading": "Pasos de cambio de formato con un molde de soplado de carcasas",
+          "steps": [
+            "Prepare los nuevos insertos de cavidad, moldes de fondo y, si hace falta, toberas o piezas de conversión para la nueva botella antes de parar la línea.",
+            "Detenga la máquina, aplique el bloqueo, libere el aire de soplado y vacíe o aísle el circuito de refrigeración del molde.",
+            "Desatornille y retire los insertos antiguos de las carcasas, dejando las carcasas montadas en el portamoldes.",
+            "Limpie las superficies de contacto y los posicionadores de la carcasa e inspeccione las juntas en los puntos de paso de agua.",
+            "Monte los nuevos insertos sobre los posicionadores y apriete los tornillos al par especificado.",
+            "Cambie el molde de fondo, vuelva a conectar la refrigeración y compruebe a presión cada estación por fugas.",
+            "Cargue los parámetros de proceso de la nueva botella, haga una prueba e inspeccione la línea de partición, el centro del fondo y las dimensiones de botellas de cada estación."
+          ]
+        },
+        {
+          "heading": "Inspección, desgaste y sustitución de carcasas de molde",
+          "list": [
+            "Revise las caras y pasadores de posicionamiento de la carcasa en cada cambio de formato; los posicionadores gastados dejan moverse los insertos y crean escalones en la línea de partición.",
+            "Busque corrosión o cal en los canales de refrigeración y en las caras de contacto, y revise la calidad del agua si los depósitos vuelven rápido.",
+            "Compruebe las roscas de los agujeros de fijación; una rosca dañada impide sujetar correctamente los insertos.",
+            "El plazo de entrega indicado por LIHE para piezas de recambio es de 4 semanas, así que pida carcasas nuevas antes de que el desgaste afecte a la producción.",
+            "LIHE dispone de un laboratorio propio con MMC Zeiss y entrega informes de inspección bajo pedido, lo que ayuda a verificar que las carcasas nuevas encajan con los insertos existentes."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Qué diferencia hay entre una carcasa de molde y un inserto de cavidad?",
+          "answer": "La carcasa es el soporte permanente que se monta en la máquina y se conecta al circuito de refrigeración. El inserto de cavidad lleva la forma de la botella y se cambia cuando cambia el formato."
+        },
+        {
+          "question": "¿Un sistema de carcasas afecta a la refrigeración de la botella?",
+          "answer": "El calor pasa del inserto a través de la superficie de contacto de la carcasa hasta el agua, por lo que esa unión debe estar limpia y plana y las juntas de agua intactas. Con buen contacto y un trazado de canales correcto, el sistema mantiene una temperatura de molde uniforme."
+        },
+        {
+          "question": "¿Puedo usar mis carcasas actuales para un nuevo diseño de botella?",
+          "answer": "A menudo sí, si la nueva botella cabe en el volumen de inserto de las carcasas existentes y estas no están gastadas. Envíe el plano o una muestra de la carcasa junto con el plano de la nueva botella para confirmarlo."
+        },
+        {
+          "question": "¿Los sistemas de carcasas sirven para botellas de llenado en caliente?",
+          "answer": "Las botellas de llenado en caliente, a unos 85–95 °C, necesitan moldes termofijados con un control de temperatura específico. Indique el tipo de llenado desde el principio para que el diseño de carcasa e inserto se ajuste a la aplicación."
+        },
+        {
+          "question": "¿Qué debo enviar para pedir carcasas de molde?",
+          "answer": "Indique la marca y el modelo de la máquina y envíe las carcasas existentes o sus planos, el esquema de conexiones de refrigeración y el plano de la botella. LIHE fabrica carcasas a partir de piezas o planos existentes del cliente."
+        }
+      ]
+    }
+  }
+}

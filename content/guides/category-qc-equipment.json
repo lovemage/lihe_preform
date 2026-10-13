@@ -1,0 +1,343 @@
+{
+  "key": "category-qc-equipment",
+  "updated": "2026-10-13",
+  "sources": [
+    { "label": "Wikipedia — Supplier evaluation", "url": "https://en.wikipedia.org/wiki/Supplier_evaluation" },
+    { "label": "Wikipedia — Process capability index", "url": "https://en.wikipedia.org/wiki/Process_capability_index" },
+    { "label": "Wikipedia — Measurement system analysis", "url": "https://en.wikipedia.org/wiki/Measurement_system_analysis" },
+    { "label": "Wikipedia — Production part approval process", "url": "https://en.wikipedia.org/wiki/Production_part_approval_process" },
+    { "label": "Wikipedia — Calibration", "url": "https://en.wikipedia.org/wiki/Calibration" }
+  ],
+  "locales": {
+    "en": {
+      "heading": "How to evaluate a PET mold supplier's QC capability: buyer's checklist for preform, blow and closure molds",
+      "intro": "A supplier's QC capability is its ability to measure, record and prove that every mold part and every sample preform or bottle meets the specification — not just the list of instruments it owns. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China. This checklist helps buyers assess any mold supplier's quality control: the questions to ask, the documents to request and the red flags to watch for.",
+      "sections": [
+        {
+          "heading": "Why QC capability decides mold performance on your line",
+          "paragraphs": [
+            "Two PET preform molds can look identical on delivery and behave very differently in production. The difference usually comes from what was measured during manufacturing and how strictly deviations were corrected. A supplier with weak measurement cannot show you whether cavity 1 and cavity 96 are the same."
+          ],
+          "list": [
+            "Uneven cavities lead to uneven preform weight and wall thickness, which shows up as blowing problems.",
+            "Unmeasured fits lead to early wear, flash and unplanned maintenance.",
+            "Spare parts without dimensional records may not interchange with the originals.",
+            "Claims without documents cannot be checked when a problem appears months later."
+          ]
+        },
+        {
+          "heading": "Questions to ask a mold supplier about quality control",
+          "list": [
+            "Which instruments do you use, and are they in-house or outsourced? Ask specifically about a CMM, an optical projector or comparator, a 3D scanner and preform or bottle sample inspection.",
+            "Which parts are measured — every core, cavity and neck ring, or a sample from each batch?",
+            "At which stages do you measure: incoming steel, after machining, after heat treatment, after assembly, on sample parts?",
+            "What capability level do your critical dimensions reach, and can you show a Cpk calculation for repeated features?",
+            "How are instruments calibrated, and how often?",
+            "What happens when a part fails: rework, scrap, concession? Who decides?",
+            "Can you share a real anonymized inspection report before I place an order?"
+          ]
+        },
+        {
+          "heading": "Documents to request before and after the order",
+          "list": [
+            "Sample dimensional report: nominal, tolerance, measured value and deviation per feature, with part number and drawing revision.",
+            "Capability data: Cpk values for features that repeat across cavities. A Cpk of 1.33 corresponds to the process average being at least four standard deviations from the nearer limit.",
+            "Sample preform and bottle reports: weight in grams, wall thickness, neck finish dimensions and, for bottles, capacity.",
+            "Calibration records for the main measuring instruments.",
+            "Material certificates for mold steel.",
+            "Trial or approval report from mold start-up, if the supplier provides on-site start-up support."
+          ]
+        },
+        {
+          "heading": "Red flags in a mold supplier's QC",
+          "list": [
+            "Only a final visual check, or only sample preforms measured, with no component measurement.",
+            "A CMM listed on the website but reports that only show hand-gauge readings.",
+            "Reports with all values exactly at nominal — real measurements always vary slightly.",
+            "No traceability between a report and a specific part number.",
+            "Refusal to share any example report, even anonymized.",
+            "Capability claims without a stated tolerance, sample size or calculation method.",
+            "No answer about calibration."
+          ]
+        },
+        {
+          "heading": "QC evaluation scorecard",
+          "table": {
+            "head": ["Area", "Good sign", "Red flag"],
+            "rows": [
+              ["Instruments", "In-house CMM, optical projector, 3D scanner, sample inspection", "Outsourced or unspecified measurement"],
+              ["Coverage", "Every core, cavity and neck ring measured", "Random checks only, or final visual check"],
+              ["Stages", "Components, assembly and sample parts measured", "Only finished mold or only samples"],
+              ["Statistics", "Cpk stated with method; 1.33 or higher on critical features", "No statistics, or numbers without explanation"],
+              ["Reports", "Traceable to part number and drawing revision", "Generic reports without part identification"],
+              ["Calibration", "Records available for main instruments", "No calibration information"]
+            ]
+          }
+        },
+        {
+          "heading": "How to run a QC evaluation of a mold supplier",
+          "steps": [
+            "Desk review: collect the supplier's instrument list, a sample report and its answers to the questions above.",
+            "Compare the sample report with the scorecard and mark gaps.",
+            "Audit the QC lab on site or by live video: see the CMM in use, ask how a neck ring is measured and how temperature is controlled.",
+            "Start with a small order — a pilot mold or a set of replacement parts — and require full dimensional reports.",
+            "Measure some delivered parts yourself, or compare preform weight and wall thickness on your line, and check that they agree with the supplier's reports.",
+            "Decide on larger orders based on what the documents and your own checks showed, not on the equipment list alone."
+          ]
+        },
+        {
+          "heading": "How LIHE answers this checklist",
+          "list": [
+            "Instruments: in-house Zeiss CMM lab, 3D profile scanner, optical projector and bottle sample inspection.",
+            "Reports: validation and inspection reports supplied on request.",
+            "Capability: tooling consistently achieves CPK ≥ 1.33; operational defect rates as low as 0.0064%.",
+            "Status: Coca-Cola verified mold supplier in the Asia region.",
+            "Small first orders: pilot molds in 20 days, replacement parts in 4 weeks."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Is owning a CMM enough to prove a supplier's QC capability?",
+          "answer": "No. The CMM must be used on the right parts at the right stages, calibrated and documented. Ask for a real report and check that it is traceable to a part number."
+        },
+        {
+          "question": "What Cpk should I ask for on PET mold parts?",
+          "answer": "1.33 is a widely used minimum for capable processes; it means the average is at least four standard deviations from the nearer tolerance limit. Ask the supplier which features the value applies to and how it was calculated."
+        },
+        {
+          "question": "Should I measure sample preforms myself?",
+          "answer": "Yes, where possible. Comparing your own preform weight and wall thickness results with the supplier's reports is the simplest way to confirm that their measurements are reliable."
+        },
+        {
+          "question": "What is the most common QC red flag?",
+          "answer": "Reports that cannot be linked to a specific part, or values that are all exactly nominal. Both suggest the report was not produced from real measurement of the delivered parts."
+        },
+        {
+          "question": "Can I see LIHE's inspection reports?",
+          "answer": "Yes. LIHE supplies validation and inspection reports on request. Contact sales@lihe-preform.com."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "Как оценить возможности контроля качества поставщика ПЭТ-форм: чек-лист покупателя для преформных, выдувных форм и форм для колпачков",
+      "intro": "Возможности контроля качества поставщика — это его способность измерить, записать и доказать, что каждая деталь формы и каждый образец преформы или бутылки соответствуют спецификации, а не просто список имеющихся приборов. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) — производитель пресс-форм для ПЭТ-преформ, выдувных форм, форм для колпачков и компрессионных форм, горячеканальных систем и комплектующих для производства напитков и упаковки, с производством в Фошане, Китай. Этот чек-лист помогает покупателю оценить контроль качества любого изготовителя форм: какие вопросы задать, какие документы запросить и на какие тревожные признаки обратить внимание.",
+      "sections": [
+        {
+          "heading": "Почему контроль качества определяет работу формы на вашей линии",
+          "paragraphs": [
+            "Две пресс-формы для ПЭТ-преформ могут выглядеть одинаково при поставке и совершенно по-разному работать в производстве. Разница обычно объясняется тем, что измерялось при изготовлении и насколько строго исправлялись отклонения. Поставщик со слабой метрологией не может показать, одинаковы ли гнездо 1 и гнездо 96."
+          ],
+          "list": [
+            "Неодинаковые гнёзда дают неравномерную массу и толщину стенки преформ, что проявляется проблемами при выдуве.",
+            "Неизмеренные посадки приводят к раннему износу, облою и внеплановому обслуживанию.",
+            "Запасные части без размерных записей могут оказаться невзаимозаменяемыми с оригиналами.",
+            "Заявления без документов невозможно проверить, когда проблема проявится через несколько месяцев."
+          ]
+        },
+        {
+          "heading": "Вопросы поставщику форм о контроле качества",
+          "list": [
+            "Какие приборы вы используете — собственные или сторонние? Спросите конкретно о КИМ, оптическом проекторе или компараторе, 3D-сканере и контроле образцов преформ или бутылок.",
+            "Какие детали измеряются — каждый пуансон, матрица и горловое кольцо или выборка из партии?",
+            "На каких этапах вы измеряете: входящая сталь, после обработки, после термообработки, после сборки, на образцах изделий?",
+            "Какого уровня воспроизводимости достигают критичные размеры и можете ли вы показать расчёт Cpk для повторяющихся элементов?",
+            "Как и как часто калибруются приборы?",
+            "Что происходит, если деталь не прошла контроль: доработка, брак, допуск по отклонению? Кто принимает решение?",
+            "Можете ли вы показать реальный обезличенный протокол контроля до размещения заказа?"
+          ]
+        },
+        {
+          "heading": "Документы, которые нужно запросить до и после заказа",
+          "list": [
+            "Образец размерного протокола: номинал, допуск, измеренное значение и отклонение по каждому элементу, с номером детали и ревизией чертежа.",
+            "Данные о воспроизводимости: значения Cpk для элементов, повторяющихся во всех гнёздах. Cpk 1,33 означает, что среднее значение процесса не менее чем в четырёх стандартных отклонениях от ближайшей границы.",
+            "Протоколы образцов преформ и бутылок: масса в граммах, толщина стенки, размеры горловины и, для бутылок, объём.",
+            "Записи о калибровке основных измерительных приборов.",
+            "Сертификаты на сталь для форм.",
+            "Протокол пуска или приёмки формы, если поставщик оказывает поддержку при запуске на месте."
+          ]
+        },
+        {
+          "heading": "Тревожные признаки в контроле качества поставщика форм",
+          "list": [
+            "Только финальный визуальный осмотр или только измерение образцов преформ без измерения деталей.",
+            "КИМ указана на сайте, но протоколы содержат лишь показания ручного мерительного инструмента.",
+            "Протоколы, где все значения точно равны номиналу, — реальные измерения всегда немного различаются.",
+            "Нет прослеживаемости между протоколом и конкретным номером детали.",
+            "Отказ показать хотя бы один пример протокола, даже обезличенный.",
+            "Заявления о воспроизводимости без указания допуска, объёма выборки или метода расчёта.",
+            "Нет ответа о калибровке."
+          ]
+        },
+        {
+          "heading": "Оценочная карта контроля качества",
+          "table": {
+            "head": ["Область", "Хороший признак", "Тревожный признак"],
+            "rows": [
+              ["Приборы", "Собственные КИМ, оптический проектор, 3D-сканер, контроль образцов", "Сторонние или не указанные измерения"],
+              ["Охват", "Измеряется каждый пуансон, матрица и горловое кольцо", "Только выборочные проверки или финальный осмотр"],
+              ["Этапы", "Измеряются детали, сборка и образцы изделий", "Только готовая форма или только образцы"],
+              ["Статистика", "Cpk указан с методом; 1,33 и выше на критичных элементах", "Нет статистики или цифры без пояснений"],
+              ["Протоколы", "Прослеживаются до номера детали и ревизии чертежа", "Общие протоколы без идентификации детали"],
+              ["Калибровка", "Есть записи по основным приборам", "Нет информации о калибровке"]
+            ]
+          }
+        },
+        {
+          "heading": "Как провести оценку контроля качества поставщика форм",
+          "steps": [
+            "Предварительный анализ: соберите перечень приборов поставщика, образец протокола и ответы на вопросы выше.",
+            "Сравните образец протокола с оценочной картой и отметьте пробелы.",
+            "Проведите аудит лаборатории на месте или по видеосвязи: посмотрите КИМ в работе, спросите, как измеряется горловое кольцо и как контролируется температура.",
+            "Начните с небольшого заказа — пилотной формы или комплекта запасных частей — и потребуйте полные размерные протоколы.",
+            "Измерьте часть поставленных деталей сами или сравните массу и толщину стенки преформ на своей линии и проверьте совпадение с протоколами поставщика.",
+            "Решайте о более крупных заказах по тому, что показали документы и ваши собственные проверки, а не только по списку оборудования."
+          ]
+        },
+        {
+          "heading": "Как LIHE отвечает на этот чек-лист",
+          "list": [
+            "Приборы: собственная лаборатория с КИМ Zeiss, 3D-сканер профиля, оптический проектор и контроль образцов бутылок.",
+            "Протоколы: протоколы валидации и контроля предоставляются по запросу.",
+            "Воспроизводимость: оснастка стабильно достигает CPK ≥ 1,33; операционный уровень брака до 0,0064%.",
+            "Статус: проверенный поставщик пресс-форм Coca-Cola в Азиатском регионе.",
+            "Небольшие первые заказы: пилотные формы за 20 дней, запасные части за 4 недели."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Достаточно ли наличия КИМ, чтобы доказать возможности контроля качества поставщика?",
+          "answer": "Нет. КИМ должна применяться для нужных деталей на нужных этапах, быть откалиброванной, а результаты — документироваться. Запросите реальный протокол и проверьте, что он прослеживается до номера детали."
+        },
+        {
+          "question": "Какой Cpk запрашивать для деталей ПЭТ-форм?",
+          "answer": "1,33 — широко применяемый минимум для воспроизводимых процессов: среднее значение находится не менее чем в четырёх стандартных отклонениях от ближайшей границы допуска. Уточните у поставщика, к каким элементам относится значение и как оно рассчитано."
+        },
+        {
+          "question": "Стоит ли самому измерять образцы преформ?",
+          "answer": "Да, по возможности. Сравнение собственных результатов по массе и толщине стенки преформ с протоколами поставщика — самый простой способ убедиться, что его измерения надёжны."
+        },
+        {
+          "question": "Какой тревожный признак встречается чаще всего?",
+          "answer": "Протоколы, которые нельзя связать с конкретной деталью, или значения, точно равные номиналу. И то и другое говорит о том, что протокол составлен не по реальным измерениям поставленных деталей."
+        },
+        {
+          "question": "Можно ли увидеть протоколы контроля LIHE?",
+          "answer": "Да. LIHE предоставляет протоколы валидации и контроля по запросу. Пишите на sales@lihe-preform.com."
+        }
+      ]
+    },
+    "es": {
+      "heading": "Cómo evaluar la capacidad de control de calidad de un proveedor de moldes PET: lista de verificación para moldes de preforma, soplado y tapas",
+      "intro": "La capacidad de control de calidad de un proveedor es su capacidad para medir, registrar y demostrar que cada pieza del molde y cada muestra de preforma o botella cumplen la especificación, no solo la lista de instrumentos que posee. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) es un fabricante de moldes de preforma PET, moldes de soplado, moldes de tapas y de compresión, sistemas de canal caliente y componentes de molde para la industria de bebidas y envases, con fabricación en Foshan, China. Esta lista ayuda a los compradores a evaluar el control de calidad de cualquier fabricante de moldes: qué preguntar, qué documentos solicitar y qué señales de alerta vigilar.",
+      "sections": [
+        {
+          "heading": "Por qué la capacidad de control de calidad decide el rendimiento del molde en su línea",
+          "paragraphs": [
+            "Dos moldes de preforma PET pueden parecer idénticos en la entrega y comportarse de forma muy distinta en producción. La diferencia suele venir de lo que se midió durante la fabricación y del rigor con que se corrigieron las desviaciones. Un proveedor con una medición débil no puede demostrar si la cavidad 1 y la cavidad 96 son iguales."
+          ],
+          "list": [
+            "Cavidades desiguales generan peso y espesor de pared desiguales en la preforma, lo que aparece como problemas de soplado.",
+            "Ajustes no medidos provocan desgaste prematuro, rebabas y mantenimiento no planificado.",
+            "Los repuestos sin registros dimensionales pueden no ser intercambiables con los originales.",
+            "Las afirmaciones sin documentos no pueden comprobarse cuando aparece un problema meses después."
+          ]
+        },
+        {
+          "heading": "Preguntas para un proveedor de moldes sobre el control de calidad",
+          "list": [
+            "¿Qué instrumentos utiliza y son propios o subcontratados? Pregunte en concreto por una CMM, un proyector o comparador óptico, un escáner 3D y la inspección de muestras de preformas o botellas.",
+            "¿Qué piezas se miden: cada macho, cavidad y anillo de cuello, o una muestra de cada lote?",
+            "¿En qué etapas mide: acero de entrada, tras el mecanizado, tras el tratamiento térmico, tras el montaje, en piezas de muestra?",
+            "¿Qué nivel de capacidad alcanzan sus cotas críticas y puede mostrar un cálculo de Cpk para características repetidas?",
+            "¿Cómo y con qué frecuencia se calibran los instrumentos?",
+            "¿Qué ocurre cuando una pieza no es conforme: retrabajo, desecho, concesión? ¿Quién lo decide?",
+            "¿Puede compartir un informe de inspección real y anonimizado antes de que haga el pedido?"
+          ]
+        },
+        {
+          "heading": "Documentos que conviene solicitar antes y después del pedido",
+          "list": [
+            "Informe dimensional de ejemplo: nominal, tolerancia, valor medido y desviación por característica, con número de pieza y revisión del plano.",
+            "Datos de capacidad: valores de Cpk para características que se repiten en todas las cavidades. Un Cpk de 1,33 equivale a que la media del proceso está al menos a cuatro desviaciones estándar del límite más cercano.",
+            "Informes de muestras de preformas y botellas: peso en gramos, espesor de pared, dimensiones del acabado de cuello y, en botellas, capacidad.",
+            "Registros de calibración de los principales instrumentos de medición.",
+            "Certificados de material del acero del molde.",
+            "Informe de prueba o aprobación de la puesta en marcha del molde, si el proveedor ofrece asistencia de arranque en planta."
+          ]
+        },
+        {
+          "heading": "Señales de alerta en el control de calidad de un proveedor de moldes",
+          "list": [
+            "Solo una revisión visual final, o solo medición de muestras de preformas, sin medición de componentes.",
+            "Una CMM en el sitio web pero informes que solo muestran lecturas de calibres manuales.",
+            "Informes con todos los valores exactamente en el nominal; las mediciones reales siempre varían un poco.",
+            "Sin trazabilidad entre un informe y un número de pieza concreto.",
+            "Negativa a compartir cualquier informe de ejemplo, aunque sea anonimizado.",
+            "Afirmaciones de capacidad sin tolerancia, tamaño de muestra ni método de cálculo.",
+            "Ninguna respuesta sobre calibración."
+          ]
+        },
+        {
+          "heading": "Tabla de evaluación del control de calidad",
+          "table": {
+            "head": ["Área", "Buena señal", "Señal de alerta"],
+            "rows": [
+              ["Instrumentos", "CMM propia, proyector óptico, escáner 3D, inspección de muestras", "Medición subcontratada o sin especificar"],
+              ["Cobertura", "Se mide cada macho, cavidad y anillo de cuello", "Solo controles aleatorios o revisión visual final"],
+              ["Etapas", "Se miden componentes, montaje y piezas de muestra", "Solo el molde terminado o solo las muestras"],
+              ["Estadística", "Cpk indicado con su método; 1,33 o más en cotas críticas", "Sin estadística, o cifras sin explicación"],
+              ["Informes", "Trazables hasta número de pieza y revisión del plano", "Informes genéricos sin identificación de pieza"],
+              ["Calibración", "Registros disponibles de los instrumentos principales", "Sin información de calibración"]
+            ]
+          }
+        },
+        {
+          "heading": "Cómo realizar una evaluación del control de calidad de un proveedor de moldes",
+          "steps": [
+            "Revisión documental: reúna la lista de instrumentos del proveedor, un informe de ejemplo y sus respuestas a las preguntas anteriores.",
+            "Compare el informe de ejemplo con la tabla de evaluación y marque las carencias.",
+            "Audite el laboratorio en planta o por vídeo en directo: vea la CMM en uso, pregunte cómo se mide un anillo de cuello y cómo se controla la temperatura.",
+            "Empiece con un pedido pequeño — un molde piloto o un juego de repuestos — y exija informes dimensionales completos.",
+            "Mida usted mismo algunas piezas entregadas, o compare el peso y el espesor de pared de las preformas en su línea, y verifique que coinciden con los informes del proveedor.",
+            "Decida los pedidos mayores según lo que mostraron los documentos y sus propias comprobaciones, no solo según la lista de equipos."
+          ]
+        },
+        {
+          "heading": "Cómo responde LIHE a esta lista",
+          "list": [
+            "Instrumentos: laboratorio propio de CMM Zeiss, escáner de perfil 3D, proyector óptico e inspección de muestras de botellas.",
+            "Informes: informes de validación e inspección entregados bajo solicitud.",
+            "Capacidad: los utillajes alcanzan de forma constante un CPK ≥ 1,33; tasas de defectos operativos de apenas un 0,0064%.",
+            "Estatus: proveedor de moldes verificado por Coca-Cola en la región de Asia.",
+            "Primeros pedidos pequeños: moldes piloto en 20 días, repuestos en 4 semanas."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Basta con tener una CMM para demostrar la capacidad de control de calidad de un proveedor?",
+          "answer": "No. La CMM debe usarse en las piezas y etapas adecuadas, estar calibrada y documentar sus resultados. Pida un informe real y compruebe que es trazable hasta un número de pieza."
+        },
+        {
+          "question": "¿Qué Cpk debo exigir en piezas de moldes PET?",
+          "answer": "1,33 es un mínimo muy utilizado para procesos capaces: significa que la media está al menos a cuatro desviaciones estándar del límite de tolerancia más cercano. Pregunte al proveedor a qué características se aplica el valor y cómo se calculó."
+        },
+        {
+          "question": "¿Debo medir yo mismo las muestras de preformas?",
+          "answer": "Sí, cuando sea posible. Comparar sus propios resultados de peso y espesor de pared con los informes del proveedor es la forma más sencilla de confirmar que sus mediciones son fiables."
+        },
+        {
+          "question": "¿Cuál es la señal de alerta más común?",
+          "answer": "Informes que no se pueden vincular a una pieza concreta, o valores que coinciden todos exactamente con el nominal. Ambos indican que el informe no se elaboró a partir de la medición real de las piezas entregadas."
+        },
+        {
+          "question": "¿Puedo ver los informes de inspección de LIHE?",
+          "answer": "Sí. LIHE entrega informes de validación e inspección bajo solicitud. Escriba a sales@lihe-preform.com."
+        }
+      ]
+    }
+  }
+}

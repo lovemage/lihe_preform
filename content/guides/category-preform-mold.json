@@ -1,0 +1,365 @@
+{
+  "key": "category-preform-mold",
+  "updated": "2026-10-13",
+  "sources": [
+    { "label": "Wikipedia — Preform", "url": "https://en.wikipedia.org/wiki/Preform" },
+    { "label": "Wikipedia — Polyethylene terephthalate", "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate" },
+    { "label": "Wikipedia — Injection moulding", "url": "https://en.wikipedia.org/wiki/Injection_moulding" },
+    { "label": "Wikipedia — Blow molding", "url": "https://en.wikipedia.org/wiki/Blow_molding" },
+    { "label": "International Society of Beverage Technologists (ISBT)", "url": "https://www.isbt.com/" },
+    { "label": "Husky Technologies", "url": "https://www.husky.co/" }
+  ],
+  "locales": {
+    "en": {
+      "heading": "How to choose a PET preform mold: cavitation, neck finish, machine platform and preform weight",
+      "intro": "A PET preform mold is an injection mold that forms test-tube-shaped polyethylene terephthalate preforms, which are later stretch blow molded into bottles and jars. This buyer's guide explains the four decisions that define a preform mold specification — cavitation, neck finish, machine platform and preform weight — and how they affect each other. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China.",
+      "sections": [
+        {
+          "heading": "Start from output: how cavitation and cycle time set preform volume",
+          "paragraphs": [
+            "The output of a preform mold is simple arithmetic: number of cavities × shots per hour × productive hours. Cavitation is fixed when the mold is built, while cycle time depends on preform wall thickness, cooling design, resin, machine and post-mold cooling. For that reason, cycle time should come from your own production records or from the machine maker's data for a comparable preform, not from a general rule.",
+            "Choose cavitation by working backwards from demand rather than by picking the largest mold the machine can carry. A mold that is too large for the volume ties up capital and makes changeovers expensive; a mold that is too small forces overtime or a second machine."
+          ],
+          "list": [
+            "Annual preform demand for each bottle size and neck finish.",
+            "Planned operating hours per year and realistic overall efficiency.",
+            "Number of SKUs (weights and colors) that will share the same mold.",
+            "Capacity of the downstream blow molders and filling lines.",
+            "Growth plan for the next 3–5 years, so the mold is not undersized on day one."
+          ]
+        },
+        {
+          "heading": "Cavitation tiers compared: low, mid and high cavitation preform molds",
+          "paragraphs": [
+            "LIHE builds PET preform molds from 2 to 160 cavities. The table below compares cavitation tiers in qualitative terms; actual cycle times and outputs must be calculated for the specific preform and machine."
+          ],
+          "table": {
+            "head": ["", "Low cavitation (2–16 cavities)", "Mid cavitation (24–72 cavities)", "High cavitation (96–160 cavities)"],
+            "rows": [
+              ["Typical use", "Pilot runs, market tests, special or wide-mouth preforms, small regional plants", "Regional bottlers, several SKUs per machine, medium volumes", "High-volume water and CSD lines running one preform for long periods"],
+              ["Machine size", "Small machines or one-step machines", "Mid-size preform systems", "Large dedicated preform systems"],
+              ["Investment per mold", "Lowest", "Medium", "Highest, but lowest cost per preform at volume"],
+              ["Changeover flexibility", "High", "Medium", "Low — changeovers are planned events"],
+              ["Sensitivity to hot runner balance", "Low", "Medium", "High — small differences multiply across many cavities"],
+              ["Spare parts stock", "Small", "Moderate", "Large set of neck rings, cores, cavities and seals"],
+              ["Best fit", "Low volume, many designs", "Balanced volume and flexibility", "Maximum volume, stable design"]
+            ]
+          }
+        },
+        {
+          "heading": "Neck finish families: PCO 1881, PCO 1810, 29/25, 38mm and wide mouth",
+          "paragraphs": [
+            "The neck finish is the threaded top of the preform. It is not stretched during blow molding, so its dimensions and weight go straight into the bottle. The finish must match the closure and the capping equipment, so always work from the closure supplier's finish drawing and the relevant industry finish standard."
+          ],
+          "list": [
+            "PCO 1810 — the earlier 28mm carbonated soft drink (CSD) finish with a taller neck; still in use on many established CSD lines.",
+            "PCO 1881 — a shorter 28mm CSD finish with less material in the neck than PCO 1810; switching requires matching closures and capper settings.",
+            "29/25 (2925), 30/25 (3025), 26/22 (2622), 25/22 (2522) and 1716 — short, lightweight finishes mainly used for still water and other non-carbonated drinks.",
+            "38mm — common for juice, dairy, isotonic and hot-fill bottles, usually with larger closures.",
+            "45mm, 68mm, 80mm and 90mm wide mouth — jars and containers for food and products that need a wide opening.",
+            "ROPP and custom finishes — roll-on pilfer-proof closures and finishes designed to a customer drawing."
+          ]
+        },
+        {
+          "heading": "Machine platform compatibility: Husky, Netstal, SACMI, SIPA and others",
+          "paragraphs": [
+            "A preform mold is built for a specific injection machine. LIHE designs preform molds for HUSKY, NETSTAL, SACMI, SIPA, Milacron and other platforms, and its technical team can carry out an on-site machine interface audit before design starts. The points below must be confirmed for each machine:"
+          ],
+          "list": [
+            "Platen size, tie-bar spacing, mold height range and clamp force.",
+            "Shot size and screw capacity relative to total shot weight (cavities × preform weight).",
+            "Hot runner interface: nozzle position, heater zones, controller connectors and valve-gate actuation.",
+            "Ejection and stripper system, neck ring slide actuation and cam layout.",
+            "Cooling water connections, flow and temperature available at the mold.",
+            "Pitch and layout of the robot take-out plate and post-mold cooling tubes."
+          ]
+        },
+        {
+          "heading": "Preform weight and lightweight preform design",
+          "paragraphs": [
+            "Preform weight is set by bottle volume, neck finish, wall thickness and the stretch ratio needed to reach the bottle shape. Resin is usually the largest running cost in preform production, so every gram removed matters over millions of preforms.",
+            "Weight can be removed in two places: the neck (by changing to a shorter finish, for example PCO 1810 to PCO 1881) or the body and base (by reducing wall thickness while keeping enough material for the required bottle performance). LIHE lightweighting proposals reduce preform weight by 1g to 2g through neck or wall-thickness optimization, and retrofitting an existing mold for lightweighting costs 25%–40% of a new mold price. Custom work also includes rPET material trials and special neck finishes such as PCO 1881 and 29/25."
+          ]
+        },
+        {
+          "heading": "Steps to specify a PET preform mold",
+          "steps": [
+            "Collect the bottle drawing, target preform weight, neck finish drawing and closure details.",
+            "Calculate annual demand and choose the cavitation from the required output and available machine hours.",
+            "Confirm the injection machine model and its interface data, ideally through a machine interface audit.",
+            "Agree the preform design (wall thickness, length, gate and base) and check it against the blow molder.",
+            "Review the mold design, hot runner layout and cooling with the mold maker before steel is cut.",
+            "Plan sampling: a pilot mold (LIHE lead time 20 days) or direct production mold (LIHE standard PET mold lead time 8 weeks).",
+            "Approve samples with dimensional reports and blow trials, then plan installation, start-up and spare parts."
+          ]
+        },
+        {
+          "heading": "Quality points to check when comparing preform mold suppliers",
+          "list": [
+            "Process capability on critical preform dimensions — LIHE tooling consistently achieves CPK ≥ 1.33.",
+            "Inspection equipment — LIHE uses an in-house Zeiss CMM lab and supplies validation reports on request.",
+            "Expected mold life — LIHE molds are built to withstand up to 8 million shots on Husky/SACMI/Netstal platforms.",
+            "Spare parts lead time — LIHE replacement parts take 4 weeks.",
+            "After-sales service — installation, start-up support, remote troubleshooting and preventive maintenance."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "How many cavities should my PET preform mold have?",
+          "answer": "Divide annual preform demand by the productive hours available, then by the expected shots per hour for that preform on your machine. The result gives the minimum cavitation; add margin for growth and downtime. LIHE builds molds from 2 to 160 cavities."
+        },
+        {
+          "question": "Can one preform mold produce different preform weights?",
+          "answer": "Weight is set by the core and cavity geometry, so a different weight normally needs new cores, cavities or both. With the same neck finish, the rest of the mold can often be kept, which is the basis of a tooling conversion project."
+        },
+        {
+          "question": "Should I choose PCO 1881 or PCO 1810 for a CSD bottle?",
+          "answer": "PCO 1881 uses less resin in the neck, while PCO 1810 matches older closures and cappers. The choice depends on your closure supply and capping line. LIHE supports both finishes and neck finish conversions."
+        },
+        {
+          "question": "Which injection machines are LIHE preform molds compatible with?",
+          "answer": "LIHE designs preform molds for HUSKY, NETSTAL, SACMI, SIPA, Milacron and other injection molding machine platforms."
+        },
+        {
+          "question": "How long does it take to get a new preform mold?",
+          "answer": "LIHE lead times are 20 days for pilot molds and 8 weeks for standard PET molds. Replacement parts take 4 weeks."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "Как выбрать пресс-форму для ПЭТ-преформ: гнездность, горловина, платформа машины и вес преформы",
+      "intro": "Пресс-форма для ПЭТ-преформ — это литьевая форма, которая отливает преформы из полиэтилентерефталата в форме пробирки; затем преформы раздувают в бутылки и банки методом раздува с вытяжкой. В этом руководстве для покупателя разобраны четыре решения, из которых складывается спецификация пресс-формы — гнездность, тип горловины, платформа машины и вес преформы — и то, как они влияют друг на друга. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) — производитель пресс-форм для ПЭТ-преформ, выдувных форм, форм для колпачков и компрессионных форм, горячеканальных систем и комплектующих для производства напитков и упаковки, с производством в Фошане, Китай.",
+      "sections": [
+        {
+          "heading": "Начните с производительности: как гнездность и время цикла определяют объём выпуска",
+          "paragraphs": [
+            "Производительность пресс-формы считается просто: число гнёзд × число циклов в час × рабочие часы. Гнездность задаётся при изготовлении формы, а время цикла зависит от толщины стенки преформы, системы охлаждения, сырья, машины и охлаждения после извлечения. Поэтому время цикла нужно брать из собственных производственных данных или из данных производителя машины для сопоставимой преформы, а не из общих правил.",
+            "Выбирайте гнездность, исходя из потребности, а не по принципу «самая большая форма, которую выдержит машина». Слишком большая форма замораживает капитал и делает переналадки дорогими; слишком маленькая вынуждает работать сверхурочно или ставить вторую машину."
+          ],
+          "list": [
+            "Годовая потребность в преформах для каждого объёма бутылки и типа горловины.",
+            "Плановое число рабочих часов в год и реалистичная общая эффективность.",
+            "Количество SKU (вес и цвет), которые будут выпускаться на одной форме.",
+            "Мощность выдувных машин и линий розлива.",
+            "План роста на 3–5 лет, чтобы форма не оказалась недостаточной с первого дня."
+          ]
+        },
+        {
+          "heading": "Сравнение уровней гнездности: малая, средняя и высокая гнездность пресс-форм",
+          "paragraphs": [
+            "LIHE изготавливает пресс-формы для ПЭТ-преформ от 2 до 160 гнёзд. Таблица сравнивает уровни гнездности качественно; фактическое время цикла и производительность рассчитываются для конкретной преформы и машины."
+          ],
+          "table": {
+            "head": ["", "Малая гнездность (2–16 гнёзд)", "Средняя гнездность (24–72 гнезда)", "Высокая гнездность (96–160 гнёзд)"],
+            "rows": [
+              ["Типичное применение", "Пилотные партии, тесты рынка, специальные и широкогорлые преформы, небольшие региональные заводы", "Региональные разливщики, несколько SKU на одной машине, средние объёмы", "Крупные линии воды и газированных напитков с одной преформой в течение долгого времени"],
+              ["Размер машины", "Небольшие или одностадийные машины", "Системы для преформ среднего размера", "Крупные специализированные системы для преформ"],
+              ["Инвестиции в форму", "Минимальные", "Средние", "Максимальные, но минимальная стоимость преформы при больших объёмах"],
+              ["Гибкость переналадки", "Высокая", "Средняя", "Низкая — переналадки планируются заранее"],
+              ["Чувствительность к балансу горячеканальной системы", "Низкая", "Средняя", "Высокая — малые отклонения умножаются на много гнёзд"],
+              ["Запас запчастей", "Небольшой", "Умеренный", "Большой комплект горловых колец, пуансонов, матриц и уплотнений"],
+              ["Оптимальный выбор", "Малые объёмы, много дизайнов", "Баланс объёма и гибкости", "Максимальный объём, стабильный дизайн"]
+            ]
+          }
+        },
+        {
+          "heading": "Семейства горловин: PCO 1881, PCO 1810, 29/25, 38 мм и широкое горло",
+          "paragraphs": [
+            "Горловина — это резьбовая верхняя часть преформы. При раздуве она не растягивается, поэтому её размеры и вес переходят в бутылку без изменений. Горловина должна соответствовать колпачку и укупорочному оборудованию, поэтому работайте по чертежу горловины от поставщика колпачков и соответствующему отраслевому стандарту."
+          ],
+          "list": [
+            "PCO 1810 — более ранняя 28-мм горловина для газированных напитков с высоким горлом; до сих пор используется на многих действующих линиях.",
+            "PCO 1881 — более короткая 28-мм горловина для газированных напитков с меньшим количеством материала, чем PCO 1810; переход требует соответствующих колпачков и настройки укупорщика.",
+            "29/25 (2925), 30/25 (3025), 26/22 (2622), 25/22 (2522) и 1716 — короткие облегчённые горловины, в основном для негазированной воды и других негазированных напитков.",
+            "38 мм — распространена для соков, молочных, изотонических напитков и горячего розлива, обычно с более крупными колпачками.",
+            "45 мм, 68 мм, 80 мм и 90 мм (широкое горло) — банки и ёмкости для продуктов, которым нужно широкое отверстие.",
+            "ROPP и нестандартные горловины — под алюминиевые колпачки с защитой от вскрытия и по чертежу заказчика."
+          ]
+        },
+        {
+          "heading": "Совместимость с машинами: Husky, Netstal, SACMI, SIPA и другие",
+          "paragraphs": [
+            "Пресс-форма для преформ проектируется под конкретную литьевую машину. LIHE проектирует пресс-формы для HUSKY, NETSTAL, SACMI, SIPA, Milacron и других платформ, а техническая команда может провести аудит интерфейса машины на месте до начала проектирования. Для каждой машины нужно подтвердить:"
+          ],
+          "list": [
+            "Размер плит, расстояние между колоннами, диапазон высоты формы и усилие смыкания.",
+            "Объём впрыска и производительность шнека относительно общего веса впрыска (гнёзда × вес преформы).",
+            "Интерфейс горячеканальной системы: положение сопла, зоны нагрева, разъёмы контроллера и привод запорных игл.",
+            "Систему выталкивания и съёма, привод слайдеров горловых колец и расположение кулачков.",
+            "Подключения охлаждающей воды, доступный расход и температуру на форме.",
+            "Шаг и схему плиты робота-съёмника и трубок охлаждения после извлечения."
+          ]
+        },
+        {
+          "heading": "Вес преформы и облегчённые преформы",
+          "paragraphs": [
+            "Вес преформы определяется объёмом бутылки, типом горловины, толщиной стенки и степенью вытяжки, необходимой для получения формы бутылки. Сырьё обычно является самой крупной текущей статьёй затрат в производстве преформ, поэтому каждый снятый грамм важен на миллионах преформ.",
+            "Снизить вес можно в двух местах: в горловине (переходом на более короткую горловину, например с PCO 1810 на PCO 1881) или в корпусе и дне (уменьшением толщины стенки при сохранении нужных характеристик бутылки). Предложения LIHE по облегчению снижают вес преформы на 1–2 г за счёт оптимизации горловины или толщины стенки, а переделка существующей формы под облегчение стоит 25%–40% цены новой формы. Индивидуальные работы включают также испытания с rPET и специальные горловины, например PCO 1881 и 29/25."
+          ]
+        },
+        {
+          "heading": "Шаги при составлении спецификации пресс-формы для ПЭТ-преформ",
+          "steps": [
+            "Соберите чертёж бутылки, целевой вес преформы, чертёж горловины и данные колпачка.",
+            "Рассчитайте годовую потребность и выберите гнездность по требуемой производительности и доступным часам работы машины.",
+            "Подтвердите модель литьевой машины и данные её интерфейса, лучше всего через аудит интерфейса машины.",
+            "Согласуйте дизайн преформы (толщина стенки, длина, литник и дно) и проверьте его на выдувной машине.",
+            "Проверьте с изготовителем конструкцию формы, схему горячеканальной системы и охлаждение до начала обработки стали.",
+            "Запланируйте образцы: пилотная форма (срок LIHE — 20 дней) или сразу серийная форма (стандартный срок LIHE для ПЭТ-форм — 8 недель).",
+            "Утвердите образцы по отчётам об измерениях и пробному раздуву, затем спланируйте установку, запуск и запчасти."
+          ]
+        },
+        {
+          "heading": "На что смотреть при сравнении поставщиков пресс-форм",
+          "list": [
+            "Воспроизводимость процесса по критичным размерам преформы — оснастка LIHE стабильно обеспечивает CPK ≥ 1,33.",
+            "Измерительное оборудование — у LIHE собственная лаборатория с КИМ Zeiss, отчёты о валидации предоставляются по запросу.",
+            "Ожидаемый ресурс формы — формы LIHE рассчитаны на срок службы до 8 млн циклов на платформах Husky/SACMI/Netstal.",
+            "Срок поставки запчастей — запасные части LIHE изготавливаются за 4 недели.",
+            "Сервис — установка, поддержка запуска, удалённая диагностика и плановое техническое обслуживание."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Сколько гнёзд должно быть в моей пресс-форме для ПЭТ-преформ?",
+          "answer": "Разделите годовую потребность в преформах на доступные рабочие часы, затем на ожидаемое число циклов в час для этой преформы на вашей машине. Результат даёт минимальную гнездность; добавьте запас на рост и простои. LIHE изготавливает формы от 2 до 160 гнёзд."
+        },
+        {
+          "question": "Может ли одна пресс-форма выпускать преформы разного веса?",
+          "answer": "Вес задаётся геометрией пуансона и матрицы, поэтому другой вес обычно требует новых пуансонов, матриц или и того, и другого. При той же горловине остальную часть формы часто можно сохранить — на этом основан проект переоснащения."
+        },
+        {
+          "question": "Что выбрать для газированных напитков: PCO 1881 или PCO 1810?",
+          "answer": "PCO 1881 расходует меньше смолы в горловине, а PCO 1810 подходит для старых колпачков и укупорщиков. Выбор зависит от поставок колпачков и укупорочной линии. LIHE работает с обеими горловинами и выполняет переход с одной на другую."
+        },
+        {
+          "question": "С какими литьевыми машинами совместимы пресс-формы LIHE?",
+          "answer": "LIHE проектирует пресс-формы для HUSKY, NETSTAL, SACMI, SIPA, Milacron и других платформ литьевых машин."
+        },
+        {
+          "question": "Сколько времени занимает изготовление новой пресс-формы?",
+          "answer": "Сроки LIHE: 20 дней для пилотных форм и 8 недель для стандартных ПЭТ-форм. Запасные части изготавливаются за 4 недели."
+        }
+      ]
+    },
+    "es": {
+      "heading": "Cómo elegir un molde de preforma PET: cavidades, acabado de cuello, plataforma de máquina y peso de la preforma",
+      "intro": "Un molde de preforma PET es un molde de inyección que fabrica preformas de tereftalato de polietileno con forma de tubo de ensayo, que después se transforman en botellas y frascos mediante soplado con estirado. Esta guía de compra explica las cuatro decisiones que definen la especificación de un molde de preforma —número de cavidades, acabado de cuello, plataforma de máquina y peso de la preforma— y cómo se influyen entre sí. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) es un fabricante de moldes de preforma PET, moldes de soplado, moldes de tapas y de compresión, sistemas de canal caliente y componentes de molde para la industria de bebidas y envases, con fabricación en Foshan, China.",
+      "sections": [
+        {
+          "heading": "Empiece por la producción: cómo las cavidades y el tiempo de ciclo fijan el volumen",
+          "paragraphs": [
+            "La producción de un molde de preforma es una cuenta sencilla: número de cavidades × ciclos por hora × horas productivas. Las cavidades se fijan al construir el molde, mientras que el tiempo de ciclo depende del espesor de pared de la preforma, del diseño de refrigeración, de la resina, de la máquina y del enfriamiento posterior al moldeo. Por eso el tiempo de ciclo debe salir de sus propios registros de producción o de los datos del fabricante de la máquina para una preforma comparable, no de una regla general.",
+            "Elija el número de cavidades a partir de la demanda y no escogiendo el molde más grande que admita la máquina. Un molde demasiado grande inmoviliza capital y encarece los cambios; uno demasiado pequeño obliga a hacer horas extra o a comprar una segunda máquina."
+          ],
+          "list": [
+            "Demanda anual de preformas para cada tamaño de botella y acabado de cuello.",
+            "Horas de operación previstas al año y eficiencia global realista.",
+            "Número de referencias (pesos y colores) que compartirán el mismo molde.",
+            "Capacidad de las sopladoras y líneas de llenado posteriores.",
+            "Plan de crecimiento para los próximos 3–5 años, para que el molde no quede corto desde el primer día."
+          ]
+        },
+        {
+          "heading": "Comparación de niveles de cavidades: moldes de preforma de baja, media y alta cavitación",
+          "paragraphs": [
+            "LIHE fabrica moldes de preforma PET de 2 a 160 cavidades. La tabla compara los niveles de cavitación en términos cualitativos; los tiempos de ciclo y la producción reales se calculan para cada preforma y máquina concreta."
+          ],
+          "table": {
+            "head": ["", "Baja cavitación (2–16 cavidades)", "Cavitación media (24–72 cavidades)", "Alta cavitación (96–160 cavidades)"],
+            "rows": [
+              ["Uso típico", "Series piloto, pruebas de mercado, preformas especiales o de boca ancha, plantas regionales pequeñas", "Embotelladores regionales, varias referencias por máquina, volúmenes medios", "Líneas de agua y bebidas carbonatadas de gran volumen con una sola preforma durante largos periodos"],
+              ["Tamaño de máquina", "Máquinas pequeñas o de una etapa", "Sistemas de preforma medianos", "Grandes sistemas dedicados a preformas"],
+              ["Inversión por molde", "La más baja", "Media", "La más alta, pero con el menor coste por preforma a gran volumen"],
+              ["Flexibilidad de cambio", "Alta", "Media", "Baja: los cambios se planifican"],
+              ["Sensibilidad al equilibrio del canal caliente", "Baja", "Media", "Alta: las pequeñas diferencias se multiplican en muchas cavidades"],
+              ["Stock de repuestos", "Pequeño", "Moderado", "Amplio juego de anillos de cuello, machos, cavidades y juntas"],
+              ["Mejor opción para", "Poco volumen y muchos diseños", "Equilibrio entre volumen y flexibilidad", "Máximo volumen y diseño estable"]
+            ]
+          }
+        },
+        {
+          "heading": "Familias de acabado de cuello: PCO 1881, PCO 1810, 29/25, 38 mm y boca ancha",
+          "paragraphs": [
+            "El acabado de cuello es la parte superior roscada de la preforma. No se estira durante el soplado, por lo que sus dimensiones y su peso pasan directamente a la botella. El cuello debe coincidir con la tapa y con el equipo de taponado, así que trabaje siempre con el plano de cuello del proveedor de tapas y con la norma de la industria correspondiente."
+          ],
+          "list": [
+            "PCO 1810: el acabado anterior de 28 mm para bebidas carbonatadas, con cuello más alto; todavía se usa en muchas líneas existentes.",
+            "PCO 1881: acabado de 28 mm más corto para bebidas carbonatadas, con menos material en el cuello que el PCO 1810; el cambio exige tapas y ajustes de taponadora compatibles.",
+            "29/25 (2925), 30/25 (3025), 26/22 (2622), 25/22 (2522) y 1716: acabados cortos y ligeros, usados sobre todo para agua sin gas y otras bebidas no carbonatadas.",
+            "38 mm: habitual en zumos, lácteos, bebidas isotónicas y botellas de llenado en caliente, normalmente con tapas más grandes.",
+            "Boca ancha de 45 mm, 68 mm, 80 mm y 90 mm: frascos y envases para productos que necesitan una abertura amplia.",
+            "ROPP y acabados personalizados: tapas de aluminio inviolables y cuellos diseñados según el plano del cliente."
+          ]
+        },
+        {
+          "heading": "Compatibilidad con máquinas: Husky, Netstal, SACMI, SIPA y otras",
+          "paragraphs": [
+            "Un molde de preforma se construye para una máquina de inyección concreta. LIHE diseña moldes de preforma para HUSKY, NETSTAL, SACMI, SIPA, Milacron y otras plataformas, y su equipo técnico puede realizar una auditoría de la interfaz de la máquina in situ antes de empezar el diseño. Para cada máquina hay que confirmar:"
+          ],
+          "list": [
+            "Tamaño de platos, distancia entre columnas, rango de altura de molde y fuerza de cierre.",
+            "Capacidad de inyección y del husillo frente al peso total de la inyección (cavidades × peso de preforma).",
+            "Interfaz del canal caliente: posición de la boquilla, zonas de calefacción, conectores del controlador y accionamiento de las válvulas.",
+            "Sistema de expulsión y extracción, accionamiento de las correderas de los anillos de cuello y disposición de levas.",
+            "Conexiones de agua de refrigeración, caudal y temperatura disponibles en el molde.",
+            "Paso y disposición de la placa del robot de extracción y de los tubos de enfriamiento posterior."
+          ]
+        },
+        {
+          "heading": "Peso de la preforma y diseño de preformas aligeradas",
+          "paragraphs": [
+            "El peso de la preforma depende del volumen de la botella, del acabado de cuello, del espesor de pared y de la relación de estirado necesaria para llegar a la forma de la botella. La resina suele ser el mayor coste operativo en la producción de preformas, por lo que cada gramo eliminado cuenta a lo largo de millones de preformas.",
+            "El peso se puede reducir en dos zonas: el cuello (pasando a un acabado más corto, por ejemplo de PCO 1810 a PCO 1881) o el cuerpo y el fondo (reduciendo el espesor de pared sin perder las prestaciones exigidas a la botella). Las propuestas de aligeramiento de LIHE reducen el peso de la preforma entre 1 g y 2 g optimizando el cuello o el espesor de pared, y adaptar un molde existente para aligerarlo cuesta entre el 25% y el 40% del precio de un molde nuevo. Los trabajos a medida incluyen también pruebas con rPET y acabados especiales como PCO 1881 y 29/25."
+          ]
+        },
+        {
+          "heading": "Pasos para especificar un molde de preforma PET",
+          "steps": [
+            "Reúna el plano de la botella, el peso objetivo de la preforma, el plano del acabado de cuello y los datos de la tapa.",
+            "Calcule la demanda anual y elija el número de cavidades según la producción requerida y las horas de máquina disponibles.",
+            "Confirme el modelo de máquina de inyección y sus datos de interfaz, idealmente mediante una auditoría de interfaz.",
+            "Acuerde el diseño de la preforma (espesor de pared, longitud, punto de inyección y fondo) y compruébelo con la sopladora.",
+            "Revise con el fabricante el diseño del molde, la disposición del canal caliente y la refrigeración antes de mecanizar el acero.",
+            "Planifique el muestreo: un molde piloto (plazo LIHE de 20 días) o directamente un molde de producción (plazo estándar LIHE para moldes PET de 8 semanas).",
+            "Apruebe las muestras con informes dimensionales y pruebas de soplado, y después planifique la instalación, la puesta en marcha y los repuestos."
+          ]
+        },
+        {
+          "heading": "Puntos de calidad al comparar proveedores de moldes de preforma",
+          "list": [
+            "Capacidad de proceso en las dimensiones críticas de la preforma: el utillaje de LIHE alcanza de forma constante un CPK ≥ 1,33.",
+            "Equipos de inspección: LIHE cuenta con un laboratorio propio con MMC Zeiss y entrega informes de validación bajo petición.",
+            "Vida esperada del molde: los moldes de LIHE están construidos para soportar hasta 8 millones de inyecciones en plataformas Husky/SACMI/Netstal.",
+            "Plazo de repuestos: las piezas de recambio de LIHE tardan 4 semanas.",
+            "Servicio posventa: instalación, apoyo en la puesta en marcha, diagnóstico remoto y mantenimiento preventivo."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Cuántas cavidades debe tener mi molde de preforma PET?",
+          "answer": "Divida la demanda anual de preformas entre las horas productivas disponibles y después entre los ciclos por hora previstos para esa preforma en su máquina. El resultado es la cavitación mínima; añada margen para crecimiento y paradas. LIHE fabrica moldes de 2 a 160 cavidades."
+        },
+        {
+          "question": "¿Puede un mismo molde producir preformas de distinto peso?",
+          "answer": "El peso lo fija la geometría del macho y de la cavidad, así que un peso distinto suele requerir machos nuevos, cavidades nuevas o ambos. Con el mismo acabado de cuello, a menudo se puede conservar el resto del molde, que es la base de un proyecto de conversión de utillaje."
+        },
+        {
+          "question": "¿PCO 1881 o PCO 1810 para una botella de bebida carbonatada?",
+          "answer": "El PCO 1881 usa menos resina en el cuello, mientras que el PCO 1810 coincide con tapas y taponadoras más antiguas. La elección depende del suministro de tapas y de la línea de taponado. LIHE trabaja con ambos acabados y realiza conversiones de cuello."
+        },
+        {
+          "question": "¿Con qué máquinas de inyección son compatibles los moldes de preforma de LIHE?",
+          "answer": "LIHE diseña moldes de preforma para HUSKY, NETSTAL, SACMI, SIPA, Milacron y otras plataformas de máquinas de inyección."
+        },
+        {
+          "question": "¿Cuánto tarda la fabricación de un molde de preforma nuevo?",
+          "answer": "Los plazos de LIHE son 20 días para moldes piloto y 8 semanas para moldes PET estándar. Las piezas de recambio tardan 4 semanas."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "key": "product-28",
+  "updated": "2026-10-13",
+  "sources": [
+    { "label": "Wikipedia — Stretch blow molding", "url": "https://en.wikipedia.org/wiki/Stretch_blow_molding" },
+    { "label": "Wikipedia — Blow molding", "url": "https://en.wikipedia.org/wiki/Blow_molding" },
+    { "label": "Wikipedia — Preform", "url": "https://en.wikipedia.org/wiki/Preform" },
+    { "label": "Wikipedia — O-ring", "url": "https://en.wikipedia.org/wiki/O-ring" },
+    { "label": "Wikipedia — Preventive maintenance", "url": "https://en.wikipedia.org/wiki/Preventive_maintenance" },
+    { "label": "Wikipedia — Compressed air", "url": "https://en.wikipedia.org/wiki/Compressed_air" }
+  ],
+  "locales": {
+    "en": {
+      "heading": "Blowing pin and stretch rod wear: inspection, replacement planning and neck finish matching",
+      "intro": "A stretch rod is a precision rod that pushes the heated PET preform down to the base of the blow mold before and during blowing, while the blowing pin (blowing nozzle) seals the preform neck and delivers the blowing air. Both parts work in every cycle, so they wear gradually and the first warning signs usually appear in the bottles and in air consumption, not in the parts themselves. This guide explains how to recognise wear, how to inspect blowing pins and stretch rods, and how to plan replacement parts so a stretch blow molding machine keeps producing consistent bottles.",
+      "sections": [
+        {
+          "heading": "How blowing pins and stretch rods wear in a stretch blow molding machine",
+          "paragraphs": [
+            "In two-step stretch blow molding, the blowing pin moves down onto the preform neck in every cycle, and the stretch rod travels through the neck and along the full preform length. Wear comes from this repeated contact and movement, not from a single event."
+          ],
+          "list": [
+            "Sealing faces and seals on the blowing pin flatten, scratch or harden, so the seal against the preform neck finish becomes less reliable.",
+            "Guide bushings around the stretch rod wear oval, which lets the rod move sideways instead of running straight down the preform axis.",
+            "The stretch rod itself can bend after a preform misfeed or a collision, and its surface can be scored by dirt or worn guides.",
+            "The stretch rod tip is the part that touches the hot preform base; a damaged or worn tip leaves marks on the bottle base and can shift the gate off center.",
+            "O-rings and dynamic seals in the blowing head lose elasticity over time, especially in stations that run hot or are cleaned with aggressive agents."
+          ]
+        },
+        {
+          "heading": "Signs of wear: air leaks, off-center stretching and bottle defects",
+          "paragraphs": [
+            "Most wear problems show up first as bottle defects that appear in one blowing station and not in the others. Sorting rejects by station number is the fastest way to find the worn part."
+          ],
+          "list": [
+            "Air leaks: an audible hiss at the nozzle during blowing, higher compressed-air consumption, or bottles that are not fully formed at the shoulder, base or corners.",
+            "Off-center stretching: the injection point (gate) is not in the center of the bottle base, wall thickness differs from one side of the bottle to the other, or bottles lean.",
+            "Base defects: pinholes or blow-outs at the gate, rod-tip marks, thin or unstable petaloid feet.",
+            "Neck finish damage: scratches, dents or ovality on the top sealing surface of the neck, which can later cause cap leaks.",
+            "Station-specific rejects: defects that follow one blowing station even after the blow mold has been cleaned point to the blowing pin or stretch rod of that station."
+          ]
+        },
+        {
+          "heading": "Wear symptom comparison table",
+          "table": {
+            "head": ["Symptom", "Likely worn part", "What to check", "Typical action"],
+            "rows": [
+              ["Hissing during blowing, underblown bottles", "Blowing pin seal or sealing face", "Seal condition, sealing face scratches, nozzle-to-neck contact", "Replace seal; rework or replace the blowing pin"],
+              ["Gate off center in the bottle base", "Stretch rod or guide bushing", "Rod straightness, bushing play, rod-to-mold alignment", "Replace bent rod or worn bushing; realign the station"],
+              ["Marks or pinholes at the base center", "Stretch rod tip", "Tip shape, scratches, adhesion of PET residue", "Polish or replace the tip"],
+              ["Damaged neck finish top surface", "Blowing pin", "Nozzle alignment and stroke, contact surface condition", "Correct alignment; replace the nozzle if damaged"],
+              ["Defects in one station only", "Parts of that station", "Swap parts between stations to confirm", "Replace the confirmed worn part"]
+            ]
+          }
+        },
+        {
+          "heading": "Inspection steps for blowing pins and stretch rods",
+          "steps": [
+            "Stop the machine, follow the lockout procedure and vent the compressed-air system before touching the blowing head.",
+            "Record which stations produce rejects and keep sample bottles from each station for comparison.",
+            "Remove the blowing pin and inspect the sealing face and seals under good light for flattening, cuts, cracks and hardening.",
+            "Check the stretch rod for straightness by rolling it on V-blocks with a dial indicator, and look for scoring along its length.",
+            "Inspect the stretch rod tip for wear, chips and PET residue, and compare its profile with a new part or the drawing.",
+            "Check play between the stretch rod and its guide bushing; any noticeable side movement means the bushing should be replaced.",
+            "Measure critical diameters against the drawing or a reference part and record the results per station.",
+            "Reassemble, check alignment of the nozzle to the mold neck area, then run a short trial and inspect the gate position and neck surface on the bottles."
+          ]
+        },
+        {
+          "heading": "Replacement planning for blowing pins and stretch rods",
+          "list": [
+            "Keep at least one complete spare set (blowing pin, stretch rod, tip, seals) for the most used format, so a worn station can be changed during a short stop.",
+            "Replace seals and O-rings as consumables at planned maintenance stops, instead of waiting for leaks.",
+            "Keep a station log of inspections and part changes; patterns in the log show which parts reach end of life first on your line.",
+            "Order replacement parts before stock runs out: LIHE's stated lead time for replacement parts is 4 weeks.",
+            "LIHE makes blowing pins and stretch rods from customers' existing parts or drawings for SIDEL, KRONES, KHS and other blow molding machines, so send a sample part or drawing with the order.",
+            "When a new bottle format is planned, order the blowing pins and stretch rods together with the blow mold as one conversion package."
+          ]
+        },
+        {
+          "heading": "Neck finish matching: PCO 1881, 38mm and other finishes",
+          "paragraphs": [
+            "The blowing pin must seal on the correct surface of the preform neck finish. Two neck finishes can look similar but differ in sealing surface diameter, neck height and inner diameter, so a nozzle made for one finish may leak or damage another."
+          ],
+          "list": [
+            "A neck finish conversion, for example from PCO 1810 to PCO 1881 or to a 38mm finish, usually requires new or modified blowing pins.",
+            "The stretch rod diameter must leave enough clearance to the preform inner diameter, and the rod stroke must suit the preform length and bottle height.",
+            "Wide-mouth finishes such as 45mm, 68mm or 90mm need nozzles sized for the larger sealing diameter.",
+            "Send the preform drawing, neck finish drawing and bottle drawing so the nozzle, rod and tip can be matched to all three."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "How do I know if a blowing pin is leaking?",
+          "answer": "Typical signs are a hissing sound at the nozzle during blowing, rising compressed-air consumption and bottles that are not fully formed at the shoulder or base. If the problem stays with one station, inspect that station's blowing pin seal and sealing face first."
+        },
+        {
+          "question": "What causes the gate to be off center in the bottle base?",
+          "answer": "The most common causes are a bent stretch rod, a worn guide bushing that lets the rod move sideways, or a worn rod tip. Uneven preform heating can produce a similar defect, so check the rod and bushing first and then review the heating profile."
+        },
+        {
+          "question": "Can stretch rods be repaired or must they be replaced?",
+          "answer": "A rod with minor tip marks can sometimes be polished, but a bent or deeply scored rod should be replaced, because straightening rarely restores the original accuracy. Worn guide bushings are normally replaced, not repaired."
+        },
+        {
+          "question": "Do I need new blowing pins when I change the neck finish?",
+          "answer": "Usually yes. The nozzle seals on the neck finish, and the sealing diameter and neck height change between finishes such as PCO 1810, PCO 1881 and 38mm. Check the nozzle against the new neck finish drawing before production."
+        },
+        {
+          "question": "What should I send to order replacement blowing pins and stretch rods?",
+          "answer": "Send the machine make and model, an existing part or its drawing, and the preform and bottle drawings. LIHE makes these parts from customers' existing parts or drawings and states a lead time of 4 weeks for replacement parts."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "Износ дутьевых ниппелей и вытяжных штоков: контроль, планирование замены и соответствие горловине",
+      "intro": "Вытяжной шток — это прецизионный стержень, который перед выдувом и во время него вытягивает нагретую ПЭТ-преформу до дна выдувной формы, а дутьевой ниппель (дутьевое сопло) герметизирует горловину преформы и подаёт воздух для выдува. Обе детали работают в каждом цикле, поэтому изнашиваются постепенно, и первые признаки износа обычно видны по бутылкам и расходу воздуха, а не по самим деталям. В этом руководстве описано, как распознать износ, как проверять дутьевые ниппели и вытяжные штоки и как планировать запасные части, чтобы выдувная машина стабильно выпускала качественные бутылки.",
+      "sections": [
+        {
+          "heading": "Как изнашиваются дутьевые ниппели и вытяжные штоки в выдувной машине",
+          "paragraphs": [
+            "В двухстадийном выдувном формовании с вытяжкой дутьевой ниппель в каждом цикле опускается на горловину преформы, а вытяжной шток проходит через горловину по всей длине преформы. Износ возникает из-за этого многократного контакта и движения, а не из-за одного события."
+          ],
+          "list": [
+            "Уплотняющие поверхности и уплотнения ниппеля сминаются, царапаются или твердеют, и герметичность по горловине преформы снижается.",
+            "Направляющие втулки штока изнашиваются в овал, и шток начинает смещаться в сторону вместо движения строго по оси преформы.",
+            "Сам шток может погнуться после неправильной подачи преформы или столкновения, а его поверхность может покрыться задирами от грязи или изношенных направляющих.",
+            "Наконечник штока касается горячего дна преформы; повреждённый или изношенный наконечник оставляет следы на дне бутылки и может сместить точку литника от центра.",
+            "Уплотнительные кольца и подвижные уплотнения в дутьевой головке со временем теряют эластичность, особенно на горячих станциях или при агрессивной мойке."
+          ]
+        },
+        {
+          "heading": "Признаки износа: утечки воздуха, смещённая вытяжка и дефекты бутылок",
+          "paragraphs": [
+            "Большинство проблем износа сначала проявляется как дефекты бутылок с одной выдувной станции. Сортировка брака по номеру станции — самый быстрый способ найти изношенную деталь."
+          ],
+          "list": [
+            "Утечки воздуха: слышимое шипение у сопла при выдуве, рост расхода сжатого воздуха, недодутые плечи, дно или углы бутылки.",
+            "Смещённая вытяжка: точка литника не в центре дна, толщина стенки различается с разных сторон, бутылки наклоняются.",
+            "Дефекты дна: проколы или прорывы в зоне литника, следы наконечника, тонкие или неустойчивые лепестки дна.",
+            "Повреждение горловины: царапины, вмятины или овальность верхней уплотняющей поверхности, что позже может вызвать протечки под колпачком.",
+            "Брак одной станции: если дефект остаётся на одной станции даже после чистки формы, причина, скорее всего, в ниппеле или штоке этой станции."
+          ]
+        },
+        {
+          "heading": "Таблица сравнения признаков износа",
+          "table": {
+            "head": ["Признак", "Вероятно изношенная деталь", "Что проверить", "Типичное действие"],
+            "rows": [
+              ["Шипение при выдуве, недодутые бутылки", "Уплотнение или торец ниппеля", "Состояние уплотнения, царапины на торце, контакт сопла с горловиной", "Заменить уплотнение; доработать или заменить ниппель"],
+              ["Литник смещён от центра дна", "Вытяжной шток или втулка", "Прямолинейность штока, люфт втулки, соосность штока и формы", "Заменить погнутый шток или изношенную втулку; выставить станцию"],
+              ["Следы или проколы в центре дна", "Наконечник штока", "Форма наконечника, царапины, налипание ПЭТ", "Отполировать или заменить наконечник"],
+              ["Повреждена верхняя поверхность горловины", "Дутьевой ниппель", "Соосность и ход сопла, состояние контактной поверхности", "Исправить соосность; заменить повреждённое сопло"],
+              ["Дефекты только на одной станции", "Детали этой станции", "Переставить детали между станциями для проверки", "Заменить подтверждённую изношенную деталь"]
+            ]
+          }
+        },
+        {
+          "heading": "Порядок проверки дутьевых ниппелей и вытяжных штоков",
+          "steps": [
+            "Остановите машину, выполните процедуру блокировки и сбросьте давление в системе сжатого воздуха перед работой с дутьевой головкой.",
+            "Запишите, какие станции дают брак, и сохраните образцы бутылок с каждой станции для сравнения.",
+            "Снимите ниппель и при хорошем освещении осмотрите уплотняющий торец и уплотнения на смятие, порезы, трещины и затвердевание.",
+            "Проверьте прямолинейность штока, прокатывая его на призмах с индикатором часового типа, и осмотрите поверхность на задиры.",
+            "Осмотрите наконечник штока на износ, сколы и остатки ПЭТ и сравните его профиль с новой деталью или чертежом.",
+            "Проверьте люфт между штоком и направляющей втулкой; заметное боковое смещение означает, что втулку нужно заменить.",
+            "Измерьте критические диаметры по чертежу или эталонной детали и запишите результаты по каждой станции.",
+            "Соберите узел, проверьте соосность сопла и зоны горловины формы, затем выполните короткий пробный пуск и проверьте положение литника и поверхность горловины на бутылках."
+          ]
+        },
+        {
+          "heading": "Планирование замены дутьевых ниппелей и вытяжных штоков",
+          "list": [
+            "Держите хотя бы один полный запасной комплект (ниппель, шток, наконечник, уплотнения) для самого востребованного формата, чтобы заменить изношенную станцию во время короткой остановки.",
+            "Меняйте уплотнения и кольца как расходные материалы на плановых остановках, не дожидаясь утечек.",
+            "Ведите журнал станций с проверками и заменами; по нему видно, какие детали изнашиваются первыми на вашей линии.",
+            "Заказывайте детали заранее: заявленный LIHE срок поставки запасных частей — 4 недели.",
+            "LIHE изготавливает ниппели и штоки по существующим деталям или чертежам заказчика для машин SIDEL, KRONES, KHS и других, поэтому приложите к заказу образец или чертёж.",
+            "При планировании нового формата бутылки заказывайте ниппели и штоки вместе с выдувной формой как единый комплект переналадки."
+          ]
+        },
+        {
+          "heading": "Соответствие горловине: PCO 1881, 38 мм и другие стандарты",
+          "paragraphs": [
+            "Дутьевой ниппель должен уплотнять правильную поверхность горловины преформы. Две горловины могут выглядеть похоже, но различаться диаметром уплотняющей поверхности, высотой и внутренним диаметром, поэтому сопло для одной горловины может не держать или повредить другую."
+          ],
+          "list": [
+            "Переход на другую горловину, например с PCO 1810 на PCO 1881 или на горловину 38 мм, обычно требует новых или доработанных ниппелей.",
+            "Диаметр штока должен оставлять достаточный зазор до внутреннего диаметра преформы, а ход штока должен соответствовать длине преформы и высоте бутылки.",
+            "Для широких горловин 45 мм, 68 мм или 90 мм нужны сопла под больший уплотняемый диаметр.",
+            "Пришлите чертежи преформы, горловины и бутылки, чтобы сопло, шток и наконечник были согласованы со всеми тремя."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Как понять, что дутьевой ниппель пропускает воздух?",
+          "answer": "Типичные признаки — шипение у сопла при выдуве, рост расхода сжатого воздуха и недодутые плечи или дно бутылок. Если проблема привязана к одной станции, сначала проверьте уплотнение и торец ниппеля этой станции."
+        },
+        {
+          "question": "Почему литник смещается от центра дна бутылки?",
+          "answer": "Чаще всего причина в погнутом штоке, изношенной направляющей втулке, из-за которой шток уходит в сторону, или в изношенном наконечнике. Похожий дефект даёт и неравномерный нагрев преформы, поэтому сначала проверьте шток и втулку, затем профиль нагрева."
+        },
+        {
+          "question": "Можно ли ремонтировать вытяжные штоки или их нужно менять?",
+          "answer": "Небольшие следы на наконечнике иногда можно отполировать, но погнутый или сильно повреждённый шток лучше заменить: правка редко восстанавливает исходную точность. Изношенные направляющие втулки обычно меняют, а не ремонтируют."
+        },
+        {
+          "question": "Нужны ли новые ниппели при смене горловины?",
+          "answer": "Как правило, да. Сопло уплотняет горловину, а уплотняемый диаметр и высота горловины у PCO 1810, PCO 1881 и 38 мм различаются. Проверьте сопло по чертежу новой горловины до запуска производства."
+        },
+        {
+          "question": "Что прислать для заказа запасных ниппелей и штоков?",
+          "answer": "Укажите марку и модель машины, пришлите существующую деталь или её чертёж, а также чертежи преформы и бутылки. LIHE изготавливает эти детали по образцам или чертежам заказчика; заявленный срок поставки запасных частей — 4 недели."
+        }
+      ]
+    },
+    "es": {
+      "heading": "Desgaste de toberas de soplado y varillas de estiramiento: inspección, planificación de recambios y ajuste al cuello",
+      "intro": "Una varilla de estiramiento es una varilla de precisión que empuja la preforma PET calentada hasta el fondo del molde de soplado antes y durante el soplado, mientras que la tobera de soplado (pin de soplado) sella el cuello de la preforma y entrega el aire de soplado. Ambas piezas trabajan en cada ciclo, por lo que se desgastan de forma gradual y las primeras señales suelen aparecer en las botellas y en el consumo de aire, no en las propias piezas. Esta guía explica cómo reconocer el desgaste, cómo inspeccionar toberas y varillas, y cómo planificar los recambios para que la sopladora siga produciendo botellas uniformes.",
+      "sections": [
+        {
+          "heading": "Cómo se desgastan las toberas de soplado y las varillas de estiramiento en una sopladora",
+          "paragraphs": [
+            "En el moldeo por estirado-soplado de dos etapas, la tobera baja sobre el cuello de la preforma en cada ciclo y la varilla recorre el cuello y toda la longitud de la preforma. El desgaste se debe a este contacto y movimiento repetidos, no a un único evento."
+          ],
+          "list": [
+            "Las caras de sellado y las juntas de la tobera se aplastan, se rayan o se endurecen, y el sellado sobre el acabado del cuello pierde fiabilidad.",
+            "Los casquillos guía de la varilla se ovalizan y permiten que la varilla se desplace lateralmente en lugar de bajar recta por el eje de la preforma.",
+            "La varilla puede doblarse tras una mala alimentación de preformas o un choque, y su superficie puede rayarse por suciedad o guías gastadas.",
+            "La punta de la varilla toca el fondo caliente de la preforma; una punta dañada o gastada deja marcas en el fondo y puede descentrar el punto de inyección.",
+            "Las juntas tóricas y los sellos dinámicos del cabezal pierden elasticidad con el tiempo, sobre todo en estaciones calientes o con limpieza agresiva."
+          ]
+        },
+        {
+          "heading": "Señales de desgaste: fugas de aire, estiramiento descentrado y defectos en botellas",
+          "paragraphs": [
+            "La mayoría de los problemas de desgaste aparecen primero como defectos en botellas de una sola estación de soplado. Clasificar los rechazos por número de estación es la forma más rápida de encontrar la pieza gastada."
+          ],
+          "list": [
+            "Fugas de aire: silbido audible en la tobera durante el soplado, mayor consumo de aire comprimido o botellas sin formar del todo en hombros, fondo o esquinas.",
+            "Estiramiento descentrado: el punto de inyección no está en el centro del fondo, el espesor de pared varía de un lado a otro o las botellas se inclinan.",
+            "Defectos en el fondo: poros o reventones en el punto de inyección, marcas de la punta, pies petaloides delgados o inestables.",
+            "Daños en el cuello: rayas, golpes u ovalidad en la superficie superior de sellado, que más tarde pueden causar fugas en la tapa.",
+            "Rechazos de una estación: si el defecto sigue en una estación incluso tras limpiar el molde, la causa probable es la tobera o la varilla de esa estación."
+          ]
+        },
+        {
+          "heading": "Tabla comparativa de síntomas de desgaste",
+          "table": {
+            "head": ["Síntoma", "Pieza probablemente gastada", "Qué revisar", "Acción habitual"],
+            "rows": [
+              ["Silbido al soplar, botellas mal sopladas", "Junta o cara de sellado de la tobera", "Estado de la junta, rayas en la cara, contacto tobera-cuello", "Cambiar la junta; reparar o sustituir la tobera"],
+              ["Punto de inyección descentrado en el fondo", "Varilla o casquillo guía", "Rectitud de la varilla, holgura del casquillo, alineación varilla-molde", "Sustituir varilla doblada o casquillo gastado; realinear la estación"],
+              ["Marcas o poros en el centro del fondo", "Punta de la varilla", "Forma de la punta, rayas, restos de PET adheridos", "Pulir o sustituir la punta"],
+              ["Superficie superior del cuello dañada", "Tobera de soplado", "Alineación y carrera de la tobera, estado de la superficie de contacto", "Corregir la alineación; sustituir la tobera dañada"],
+              ["Defectos solo en una estación", "Piezas de esa estación", "Intercambiar piezas entre estaciones para confirmar", "Sustituir la pieza gastada confirmada"]
+            ]
+          }
+        },
+        {
+          "heading": "Pasos de inspección de toberas de soplado y varillas de estiramiento",
+          "steps": [
+            "Detenga la máquina, aplique el procedimiento de bloqueo y despresurice el sistema de aire comprimido antes de tocar el cabezal de soplado.",
+            "Registre qué estaciones producen rechazos y guarde botellas de muestra de cada estación para compararlas.",
+            "Desmonte la tobera e inspeccione con buena luz la cara de sellado y las juntas en busca de aplastamiento, cortes, grietas y endurecimiento.",
+            "Compruebe la rectitud de la varilla haciéndola rodar sobre bloques en V con un reloj comparador y busque rayas a lo largo de su superficie.",
+            "Inspeccione la punta de la varilla por desgaste, astillas y restos de PET, y compare su perfil con una pieza nueva o con el plano.",
+            "Verifique la holgura entre la varilla y su casquillo guía; cualquier movimiento lateral apreciable indica que el casquillo debe cambiarse.",
+            "Mida los diámetros críticos frente al plano o una pieza de referencia y registre los resultados por estación.",
+            "Vuelva a montar, compruebe la alineación de la tobera con la zona del cuello del molde y haga una prueba corta revisando la posición del punto de inyección y la superficie del cuello en las botellas."
+          ]
+        },
+        {
+          "heading": "Planificación de recambios de toberas y varillas de estiramiento",
+          "list": [
+            "Mantenga al menos un juego completo de repuesto (tobera, varilla, punta y juntas) para el formato más usado, para cambiar una estación gastada durante una parada corta.",
+            "Cambie juntas y juntas tóricas como consumibles en las paradas de mantenimiento planificadas, sin esperar a que haya fugas.",
+            "Lleve un registro por estación de inspecciones y cambios; los patrones muestran qué piezas llegan antes al final de su vida útil en su línea.",
+            "Pida los recambios antes de agotar el stock: el plazo de entrega indicado por LIHE para piezas de recambio es de 4 semanas.",
+            "LIHE fabrica toberas y varillas a partir de piezas o planos existentes del cliente para sopladoras SIDEL, KRONES, KHS y otras, por lo que conviene enviar una pieza de muestra o el plano con el pedido.",
+            "Cuando se planifique un nuevo formato de botella, pida las toberas y varillas junto con el molde de soplado como un único paquete de conversión."
+          ]
+        },
+        {
+          "heading": "Ajuste al acabado del cuello: PCO 1881, 38 mm y otros",
+          "paragraphs": [
+            "La tobera debe sellar sobre la superficie correcta del acabado del cuello de la preforma. Dos acabados pueden parecer similares pero diferir en el diámetro de la superficie de sellado, la altura del cuello y el diámetro interior, por lo que una tobera hecha para un acabado puede fugar o dañar otro."
+          ],
+          "list": [
+            "Un cambio de acabado de cuello, por ejemplo de PCO 1810 a PCO 1881 o a un cuello de 38 mm, normalmente requiere toberas nuevas o modificadas.",
+            "El diámetro de la varilla debe dejar holgura suficiente respecto al diámetro interior de la preforma, y su carrera debe corresponder a la longitud de la preforma y la altura de la botella.",
+            "Los cuellos de boca ancha de 45 mm, 68 mm o 90 mm requieren toberas dimensionadas para el mayor diámetro de sellado.",
+            "Envíe los planos de la preforma, del acabado del cuello y de la botella para que tobera, varilla y punta se ajusten a los tres."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Cómo sé si una tobera de soplado tiene fugas?",
+          "answer": "Las señales típicas son un silbido en la tobera durante el soplado, un consumo de aire comprimido creciente y botellas sin formar del todo en hombros o fondo. Si el problema se mantiene en una estación, revise primero la junta y la cara de sellado de esa tobera."
+        },
+        {
+          "question": "¿Qué provoca que el punto de inyección quede descentrado en el fondo?",
+          "answer": "Las causas más comunes son una varilla doblada, un casquillo guía gastado que deja moverse la varilla lateralmente o una punta gastada. Un calentamiento desigual de la preforma puede producir un defecto parecido, así que revise primero la varilla y el casquillo y después el perfil de calentamiento."
+        },
+        {
+          "question": "¿Se pueden reparar las varillas de estiramiento o hay que sustituirlas?",
+          "answer": "Una varilla con marcas leves en la punta a veces puede pulirse, pero una varilla doblada o con rayas profundas debe sustituirse, porque enderezarla rara vez recupera la precisión original. Los casquillos guía gastados normalmente se sustituyen, no se reparan."
+        },
+        {
+          "question": "¿Necesito toberas nuevas al cambiar el acabado del cuello?",
+          "answer": "Normalmente sí. La tobera sella sobre el cuello, y el diámetro de sellado y la altura del cuello cambian entre acabados como PCO 1810, PCO 1881 y 38 mm. Compruebe la tobera con el plano del nuevo cuello antes de producir."
+        },
+        {
+          "question": "¿Qué debo enviar para pedir toberas y varillas de recambio?",
+          "answer": "Indique la marca y el modelo de la máquina y envíe una pieza existente o su plano, junto con los planos de preforma y botella. LIHE fabrica estas piezas a partir de piezas o planos del cliente e indica un plazo de 4 semanas para piezas de recambio."
+        }
+      ]
+    }
+  }
+}

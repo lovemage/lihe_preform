@@ -1,0 +1,368 @@
+{
+  "key": "product-20",
+  "updated": "2026-10-13",
+  "sources": [
+    { "label": "Wikipedia — Injection moulding", "url": "https://en.wikipedia.org/wiki/Injection_moulding" },
+    { "label": "Wikipedia — Hot runner", "url": "https://en.wikipedia.org/wiki/Hot_runner" },
+    { "label": "Wikipedia — Mold (manufacturing)", "url": "https://en.wikipedia.org/wiki/Mold_(manufacturing)" },
+    { "label": "Wikipedia — Screw cap", "url": "https://en.wikipedia.org/wiki/Screw_cap" },
+    { "label": "Wikipedia — Tool steel", "url": "https://en.wikipedia.org/wiki/Tool_steel" },
+    { "label": "Wikipedia — Process capability index", "url": "https://en.wikipedia.org/wiki/Process_capability_index" }
+  ],
+  "locales": {
+    "en": {
+      "heading": "Closure mold technical reference: core and cavity, ejection, hot runner, cooling and wear parts",
+      "intro": "A closure injection mold is a multi-cavity tool in which molten plastic is injected through a hot runner into cap-shaped cavities, cooled against steel cores and then ejected as finished screw caps. This page is a technical reference for engineers who run or buy cap molds: how the forming parts are arranged, how threaded caps are released from the core, what the hot runner and cooling circuits do, which parts wear and what to send when ordering. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China.",
+      "sections": [
+        {
+          "heading": "Closure mold anatomy: core, cavity and mold base",
+          "paragraphs": [
+            "Every cavity of a cap mold is a small set of precision inserts mounted in a common mold base. The cavity side forms the outside of the cap (top panel, knurling or grip ribs, skirt); the core side forms the inside (thread, inner seal, tamper-evident band). Because the thread and seal are on the core, most of the dimensional risk in a closure mold sits on the core side."
+          ],
+          "list": [
+            "Cavity insert: forms the outer shell and top panel; its surface finish defines cap appearance and printability.",
+            "Core insert and inner core: form the thread, the inner bore seal or olive seal and the band geometry.",
+            "Stripper ring or sleeve: pushes the cap off the core at ejection and forms the lower edge of the skirt or band.",
+            "Mold base: plates, guide pillars and taper locks that hold every cavity in alignment so that cap walls stay even.",
+            "Hot runner half: manifold and nozzles that deliver melt to each gate at the top center of the cap.",
+            "Cooling circuits: channels in cavity plates and bubblers or baffles inside each core."
+          ]
+        },
+        {
+          "heading": "Unscrewing vs stripping ejection for threaded caps",
+          "paragraphs": [
+            "A screw cap has an internal thread, which is an undercut: the cap cannot simply be pushed straight off a rigid core without either rotating it or flexing it. Closure molds solve this in two general ways. Which one fits depends on the thread profile, the resin and the band design, and it is decided together with the cap design."
+          ],
+          "table": {
+            "head": ["", "Unscrewing ejection", "Stripping (bump-off) ejection"],
+            "rows": [
+              ["Principle", "Cores rotate and unscrew the cap while it is held against rotation, then the cap is ejected", "A stripper ring pushes the cap off the core; the cap skirt flexes elastically over the thread"],
+              ["Drive", "Rack and gear, hydraulic or electric motor drive in the mold", "Ejector stroke of the machine or mold; no rotating parts"],
+              ["Thread profiles", "Deep, sharp or long threads; rigid resins", "Shallow, rounded thread profiles; flexible resins such as polyethylene"],
+              ["Mold complexity", "Higher: gears, bearings and seals per cavity", "Lower: fewer moving parts per cavity"],
+              ["Maintenance focus", "Gear wear, bearing lubrication, rotating seals", "Stripper ring wear, core polish, ejection timing"],
+              ["Typical use", "Two-piece shells, special closures", "High-volume one-piece beverage caps"]
+            ]
+          }
+        },
+        {
+          "heading": "Closure hot runner systems up to 96 cavities",
+          "paragraphs": [
+            "In a multi-cavity cap mold, the hot runner keeps the plastic molten from the machine nozzle to each gate, so no cold runner is produced and every cavity fills at the same time. LIHE supplies closure hot runner systems of up to 96 cavities; LIHE hot runners use a Husky Ultra-type design with a 3-year leakage-proof guarantee."
+          ],
+          "list": [
+            "Balance: the manifold layout gives every cavity the same flow length so cap weights stay consistent across the mold.",
+            "Gate type: valve gates close mechanically and leave a clean gate mark on the cap top panel; this is important for printed or visible top panels.",
+            "Temperature zones: each nozzle has its own heater and thermocouple, so a cold or overheated zone shows as a short or heavy cap in that cavity.",
+            "Service parts: nozzle tips, valve pins, heaters and seals are replaced as wear parts; existing hot runners can also be refurbished."
+          ]
+        },
+        {
+          "heading": "Cooling design in cap molds",
+          "paragraphs": [
+            "Cooling usually takes the largest share of the injection molding cycle, so cooling layout has a direct effect on output. In a closure mold the core is the hard part to cool, because the heat from the cap interior must be removed through a small-diameter core."
+          ],
+          "list": [
+            "Core cooling: a bubbler tube or baffle inside each core brings water close to the cap top and thread area.",
+            "Cavity cooling: drilled channels or cooling sleeves around each cavity insert cool the outer shell and top panel.",
+            "Flow balance: each cavity should receive the same water flow; restrictions in one branch cause oval or warped caps in those cavities.",
+            "Water quality: scale and corrosion reduce flow over time; filtered and treated water keeps cooling performance stable.",
+            "Highly conductive insert materials can be used in core tips where extra heat removal is needed."
+          ]
+        },
+        {
+          "heading": "Wear parts and spare parts for closure molds",
+          "paragraphs": [
+            "Closure molds run at high cycle counts, so a defined spare parts set protects production. LIHE tooling is built to withstand up to 8 million shots on Husky, SACMI and Netstal platforms, and cap mold parts have a lead time of about 4 weeks."
+          ],
+          "list": [
+            "Forming parts: core inserts, inner cores, cavity inserts and stripper rings, which wear at the thread, seal and band edges.",
+            "Hot runner parts: nozzle tips, valve pins, heaters, thermocouples and seals.",
+            "Moving parts: gears, bearings and racks in unscrewing molds; ejector components in stripping molds.",
+            "Alignment parts: guide pillars, bushings and taper locks; worn alignment shows as uneven wall thickness or flash.",
+            "Consumables: O-rings and cooling seals, replaced at every major service."
+          ]
+        },
+        {
+          "heading": "Closure mold ordering checklist",
+          "steps": [
+            "Send the cap drawing or cap samples and the matching neck finish drawing (26mm, 28mm, 2925, 3025, 38mm or custom).",
+            "State the cap construction, resin grade, cap weight target and whether the band is tamper-evident only or an EU tethered design.",
+            "Give the machine model, clamp force, platen and tie-bar dimensions, ejection stroke and any unscrewing drive interface.",
+            "Specify cavitation (12 to 72 cavities) and hot runner requirements: valve or open gate, controller type and number of zones.",
+            "List cooling water conditions at the mold: available flow, pressure and water treatment.",
+            "Agree the spare parts set and the acceptance criteria: sample caps, CMM dimensional reports and a process capability target.",
+            "Plan installation and start-up support with the LIHE technical team for the first production run."
+          ]
+        },
+        {
+          "heading": "Inspection and acceptance of a closure mold",
+          "list": [
+            "Forming parts are measured on an in-house Zeiss CMM; validation and inspection reports are supplied on request.",
+            "LIHE tooling consistently achieves CPK ≥ 1.33, a common process capability threshold for critical dimensions.",
+            "Cap samples from every cavity are checked for weight spread, thread and seal dimensions and band function.",
+            "Operational defect rates as low as 0.0064% have been achieved on LIHE tooling."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Why do some cap molds unscrew and others strip the cap off the core?",
+          "answer": "It depends on the thread and the resin. A shallow, rounded thread in a flexible resin can flex over the core and be stripped off, which keeps the mold simpler. Deeper or sharper threads, or more rigid resins, need rotating cores that unscrew the cap before ejection."
+        },
+        {
+          "question": "How many cavities can a LIHE closure mold hot runner serve?",
+          "answer": "Closure molds are available from 12 to 72 cavities, and LIHE closure hot runner systems are available for up to 96 cavities."
+        },
+        {
+          "question": "Which closure mold parts should I keep in stock?",
+          "answer": "Keep core inserts, cavity inserts and stripper rings for the cavities that wear first, plus hot runner nozzle tips, heaters, thermocouples and seals, and O-rings for the cooling circuits. Cap mold parts have a lead time of about 4 weeks, so the stock should cover at least that period."
+        },
+        {
+          "question": "What causes cap weight differences between cavities?",
+          "answer": "Common causes are an unbalanced or partly blocked hot runner zone, a heater or thermocouple fault, uneven cooling flow between cavities, or worn alignment parts that shift the core. Checking zone temperatures and cooling flow per cavity is the usual starting point."
+        },
+        {
+          "question": "Is the closure mold compatible with my machine?",
+          "answer": "LIHE closure molds are made for mainstream closure injection molding machines and SACMI compression machines. Send the machine model and interface dimensions with your request so the mold base, ejection and hot runner connection are designed to fit."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "Пресс-форма для колпачков: знак и матрица, съём, горячий канал, охлаждение и изнашиваемые детали",
+      "intro": "Литьевая пресс-форма для колпачков — это многогнёздная оснастка, в которой расплав пластика через горячеканальную систему впрыскивается в гнёзда в форме колпачка, охлаждается на стальных знаках и снимается в виде готовых винтовых колпачков. Эта страница — технический справочник для инженеров, которые эксплуатируют или закупают такие формы: как устроены формообразующие детали, как резьбовой колпачок снимается со знака, что делают горячий канал и контуры охлаждения, какие детали изнашиваются и что прислать при заказе. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) — производитель пресс-форм для ПЭТ-преформ, выдувных форм, форм для колпачков и компрессионных форм, горячеканальных систем и комплектующих для производства напитков и упаковки, с производством в Фошане, Китай.",
+      "sections": [
+        {
+          "heading": "Устройство пресс-формы для колпачков: знак, матрица и корпус формы",
+          "paragraphs": [
+            "Каждое гнездо формы для колпачков — это небольшой набор точных вставок в общем корпусе формы. Матрица формует наружную поверхность колпачка (верхнюю панель, рифление, юбку), знак — внутреннюю (резьбу, внутреннее уплотнение, кольцо контроля вскрытия). Поскольку резьба и уплотнение находятся на знаке, основной размерный риск в форме для колпачков связан именно со стороной знака."
+          ],
+          "list": [
+            "Вставка матрицы: формует наружную оболочку и верхнюю панель; качество её поверхности определяет внешний вид колпачка и пригодность к печати.",
+            "Вставка знака и внутренний знак: формуют резьбу, внутреннее уплотнение и геометрию кольца.",
+            "Съёмное кольцо или втулка: сталкивает колпачок со знака при съёме и формует нижний край юбки или кольца.",
+            "Корпус формы: плиты, направляющие колонки и конические замки, которые удерживают все гнёзда соосно, чтобы стенки колпачка были равномерными.",
+            "Горячеканальная половина: коллектор и сопла, подающие расплав к литнику в центре верхней панели колпачка.",
+            "Контуры охлаждения: каналы в плитах матриц и барботёры или перегородки внутри каждого знака."
+          ]
+        },
+        {
+          "heading": "Съём резьбовых колпачков: вывинчивание или сталкивание",
+          "paragraphs": [
+            "У винтового колпачка внутренняя резьба, то есть поднутрение: колпачок нельзя просто стянуть с жёсткого знака, не повернув его и не деформировав. В пресс-формах для колпачков эта задача решается двумя основными способами. Выбор зависит от профиля резьбы, материала и конструкции кольца и делается вместе с проектированием колпачка."
+          ],
+          "table": {
+            "head": ["", "Вывинчивание", "Сталкивание (принудительный съём)"],
+            "rows": [
+              ["Принцип", "Знаки вращаются и вывинчивают колпачок, удерживаемый от проворота, затем колпачок сталкивается", "Съёмное кольцо сталкивает колпачок со знака; юбка колпачка упруго проходит через резьбу"],
+              ["Привод", "Рейка и шестерни, гидравлический или электрический привод в форме", "Ход выталкивателя машины или формы; вращающихся деталей нет"],
+              ["Профиль резьбы", "Глубокая, острая или длинная резьба; жёсткие материалы", "Неглубокий скруглённый профиль; гибкие материалы, например полиэтилен"],
+              ["Сложность формы", "Выше: шестерни, подшипники и уплотнения на каждое гнездо", "Ниже: меньше подвижных деталей на гнездо"],
+              ["Акцент обслуживания", "Износ шестерён, смазка подшипников, вращающиеся уплотнения", "Износ съёмных колец, полировка знаков, синхронизация съёма"],
+              ["Типичное применение", "Корпуса двухкомпонентных колпачков, специальные укупорки", "Массовые однокомпонентные колпачки для напитков"]
+            ]
+          }
+        },
+        {
+          "heading": "Горячеканальные системы для колпачков до 96 гнёзд",
+          "paragraphs": [
+            "В многогнёздной форме для колпачков горячий канал держит пластик расплавленным от сопла машины до каждого литника, поэтому холодный литник не образуется, а все гнёзда заполняются одновременно. LIHE поставляет горячеканальные системы для колпачков до 96 гнёзд; горячие каналы LIHE выполнены по конструкции типа Husky Ultra с 3-летней гарантией от протечек."
+          ],
+          "list": [
+            "Баланс: разводка коллектора даёт каждому гнезду одинаковую длину течения, поэтому масса колпачков одинакова по всей форме.",
+            "Тип литника: запорные сопла закрываются механически и оставляют аккуратный след литника на верхней панели — это важно для колпачков с печатью или видимой панелью.",
+            "Температурные зоны: у каждого сопла свой нагреватель и термопара, поэтому холодная или перегретая зона проявляется как недолив или перевес колпачка в этом гнезде.",
+            "Сервисные детали: наконечники сопел, запорные иглы, нагреватели и уплотнения заменяются как изнашиваемые детали; существующие горячие каналы также можно восстановить."
+          ]
+        },
+        {
+          "heading": "Охлаждение в пресс-формах для колпачков",
+          "paragraphs": [
+            "Охлаждение обычно занимает наибольшую часть цикла литья, поэтому схема охлаждения напрямую влияет на производительность. В форме для колпачков труднее всего охлаждать знак: тепло изнутри колпачка нужно отвести через знак малого диаметра."
+          ],
+          "list": [
+            "Охлаждение знака: барботёр или перегородка внутри каждого знака подводит воду близко к верху колпачка и зоне резьбы.",
+            "Охлаждение матрицы: сверлёные каналы или охлаждающие гильзы вокруг каждой вставки охлаждают наружную оболочку и верхнюю панель.",
+            "Баланс расхода: каждое гнездо должно получать одинаковый расход воды; сужение в одной ветви даёт овальные или покоробленные колпачки в этих гнёздах.",
+            "Качество воды: накипь и коррозия со временем снижают расход; фильтрованная и подготовленная вода сохраняет стабильное охлаждение.",
+            "В вершинах знаков, где нужен дополнительный отвод тепла, можно применять вставки из материалов с высокой теплопроводностью."
+          ]
+        },
+        {
+          "heading": "Изнашиваемые и запасные детали пресс-форм для колпачков",
+          "paragraphs": [
+            "Формы для колпачков работают с очень большим числом циклов, поэтому определённый комплект запчастей защищает производство. Оснастка LIHE рассчитана на ресурс до 8 миллионов циклов на платформах Husky, SACMI и Netstal, а срок изготовления деталей форм для колпачков составляет около 4 недель."
+          ],
+          "list": [
+            "Формообразующие детали: вставки знаков, внутренние знаки, вставки матриц и съёмные кольца, которые изнашиваются по кромкам резьбы, уплотнения и кольца.",
+            "Детали горячего канала: наконечники сопел, запорные иглы, нагреватели, термопары и уплотнения.",
+            "Подвижные детали: шестерни, подшипники и рейки в формах с вывинчиванием; элементы выталкивания в формах со сталкиванием.",
+            "Детали центрирования: направляющие колонки, втулки и конические замки; их износ проявляется как разнотолщинность или облой.",
+            "Расходные материалы: уплотнительные кольца и уплотнения контура охлаждения, заменяемые при каждом капитальном обслуживании."
+          ]
+        },
+        {
+          "heading": "Контрольный список для заказа пресс-формы для колпачков",
+          "steps": [
+            "Пришлите чертёж или образцы колпачка и соответствующий чертёж горловины (26 мм, 28 мм, 2925, 3025, 38 мм или индивидуальная).",
+            "Укажите конструкцию колпачка, марку материала, целевую массу и тип кольца: только контроль вскрытия или привязанный колпачок ЕС.",
+            "Сообщите модель машины, усилие смыкания, размеры плит и расстояние между колоннами, ход выталкивания и интерфейс привода вывинчивания.",
+            "Задайте гнёздность (от 12 до 72 гнёзд) и требования к горячему каналу: запорный или открытый литник, тип контроллера и число зон.",
+            "Укажите параметры охлаждающей воды у формы: доступный расход, давление и водоподготовку.",
+            "Согласуйте комплект запчастей и критерии приёмки: образцы колпачков, отчёты КИМ и целевой индекс воспроизводимости процесса.",
+            "Запланируйте монтаж и поддержку запуска с технической командой LIHE для первой производственной партии."
+          ]
+        },
+        {
+          "heading": "Контроль и приёмка пресс-формы для колпачков",
+          "list": [
+            "Формообразующие детали измеряются на собственной КИМ Zeiss; отчёты о валидации и контроле предоставляются по запросу.",
+            "Оснастка LIHE стабильно достигает CPK ≥ 1,33 — распространённого порога воспроизводимости процесса для критичных размеров.",
+            "Образцы колпачков из каждого гнезда проверяются на разброс массы, размеры резьбы и уплотнения и работу кольца.",
+            "На оснастке LIHE достигнут эксплуатационный уровень брака всего 0,0064%."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Почему в одних формах колпачок вывинчивается, а в других сталкивается со знака?",
+          "answer": "Это зависит от резьбы и материала. Неглубокая скруглённая резьба в гибком материале может упруго пройти через знак, и колпачок сталкивается — форма получается проще. Для более глубокой или острой резьбы и жёстких материалов нужны вращающиеся знаки, которые вывинчивают колпачок перед съёмом."
+        },
+        {
+          "question": "Сколько гнёзд обслуживает горячий канал LIHE для колпачков?",
+          "answer": "Пресс-формы для колпачков выпускаются на 12–72 гнезда, а горячеканальные системы LIHE для колпачков — до 96 гнёзд."
+        },
+        {
+          "question": "Какие детали пресс-формы для колпачков держать на складе?",
+          "answer": "Держите вставки знаков, вставки матриц и съёмные кольца для гнёзд, которые изнашиваются первыми, а также наконечники сопел, нагреватели, термопары и уплотнения горячего канала и уплотнительные кольца контуров охлаждения. Срок изготовления деталей около 4 недель, поэтому запас должен покрывать как минимум этот период."
+        },
+        {
+          "question": "Почему масса колпачков различается по гнёздам?",
+          "answer": "Частые причины — несбалансированная или частично забитая зона горячего канала, неисправность нагревателя или термопары, неравномерный расход охлаждения между гнёздами или износ деталей центрирования, смещающий знак. Обычно начинают с проверки температур зон и расхода воды по гнёздам."
+        },
+        {
+          "question": "Подходит ли пресс-форма для колпачков к моей машине?",
+          "answer": "Пресс-формы LIHE для колпачков изготавливаются для основных литьевых машин для колпачков и компрессионных машин SACMI. Пришлите модель машины и присоединительные размеры вместе с запросом, чтобы корпус формы, система съёма и подключение горячего канала были спроектированы под неё."
+        }
+      ]
+    },
+    "es": {
+      "heading": "Referencia técnica del molde de tapas: macho y cavidad, extracción, canal caliente, refrigeración y piezas de desgaste",
+      "intro": "Un molde de inyección de tapas es un molde de múltiples cavidades en el que el plástico fundido se inyecta a través de un canal caliente en cavidades con forma de tapa, se enfría sobre machos de acero y se expulsa como tapas roscadas terminadas. Esta página es una referencia técnica para ingenieros que operan o compran moldes de tapas: cómo se disponen las piezas de formado, cómo se libera una tapa roscada del macho, qué hacen el canal caliente y los circuitos de refrigeración, qué piezas se desgastan y qué enviar al hacer el pedido. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) es un fabricante de moldes de preforma PET, moldes de soplado, moldes de tapas y de compresión, sistemas de canal caliente y componentes de molde para la industria de bebidas y envases, con fabricación en Foshan, China.",
+      "sections": [
+        {
+          "heading": "Anatomía del molde de tapas: macho, cavidad y base del molde",
+          "paragraphs": [
+            "Cada cavidad de un molde de tapas es un pequeño conjunto de insertos de precisión montados en una base común. El lado de la cavidad forma el exterior de la tapa (panel superior, moleteado o nervios de agarre, falda); el lado del macho forma el interior (rosca, sello interior, banda de garantía). Como la rosca y el sello están en el macho, la mayor parte del riesgo dimensional de un molde de tapas está en el lado del macho."
+          ],
+          "list": [
+            "Inserto de cavidad: forma la envolvente exterior y el panel superior; su acabado superficial define el aspecto de la tapa y su aptitud para la impresión.",
+            "Inserto de macho y macho interior: forman la rosca, el sello interior y la geometría de la banda.",
+            "Anillo o manguito extractor: empuja la tapa fuera del macho en la expulsión y forma el borde inferior de la falda o de la banda.",
+            "Base del molde: placas, columnas guía y centradores cónicos que mantienen todas las cavidades alineadas para que las paredes de la tapa sean uniformes.",
+            "Mitad de canal caliente: distribuidor y boquillas que llevan el material fundido a cada punto de inyección en el centro del panel superior.",
+            "Circuitos de refrigeración: canales en las placas de cavidades y burbujeadores o tabiques dentro de cada macho."
+          ]
+        },
+        {
+          "heading": "Extracción por desenroscado o por botado forzado en tapas roscadas",
+          "paragraphs": [
+            "Una tapa roscada tiene una rosca interior, es decir, una contrasalida: no puede sacarse en línea recta de un macho rígido sin girarla o deformarla. Los moldes de tapas resuelven esto de dos formas generales. La elección depende del perfil de rosca, de la resina y del diseño de la banda, y se decide junto con el diseño de la tapa."
+          ],
+          "table": {
+            "head": ["", "Extracción por desenroscado", "Botado forzado (stripping)"],
+            "rows": [
+              ["Principio", "Los machos giran y desenroscan la tapa mientras se impide su giro; después se expulsa", "Un anillo extractor empuja la tapa fuera del macho; la falda se deforma elásticamente sobre la rosca"],
+              ["Accionamiento", "Cremallera y engranajes, motor hidráulico o eléctrico en el molde", "Carrera de expulsión de la máquina o del molde; sin piezas giratorias"],
+              ["Perfiles de rosca", "Roscas profundas, agudas o largas; resinas rígidas", "Perfiles poco profundos y redondeados; resinas flexibles como el polietileno"],
+              ["Complejidad del molde", "Mayor: engranajes, rodamientos y juntas por cavidad", "Menor: menos piezas móviles por cavidad"],
+              ["Mantenimiento", "Desgaste de engranajes, lubricación de rodamientos, juntas giratorias", "Desgaste de anillos extractores, pulido de machos, sincronización de la expulsión"],
+              ["Uso típico", "Cuerpos de tapas de dos piezas, cierres especiales", "Tapas de bebida de una pieza en grandes volúmenes"]
+            ]
+          }
+        },
+        {
+          "heading": "Sistemas de canal caliente para tapas de hasta 96 cavidades",
+          "paragraphs": [
+            "En un molde de tapas de múltiples cavidades, el canal caliente mantiene el plástico fundido desde la boquilla de la máquina hasta cada entrada, de modo que no se genera colada fría y todas las cavidades se llenan a la vez. LIHE suministra sistemas de canal caliente para tapas de hasta 96 cavidades; los canales calientes de LIHE usan un diseño tipo Husky Ultra con garantía de 3 años contra fugas."
+          ],
+          "list": [
+            "Equilibrio: el trazado del distribuidor da a cada cavidad la misma longitud de flujo, de modo que el peso de las tapas es uniforme en todo el molde.",
+            "Tipo de entrada: las boquillas de válvula cierran mecánicamente y dejan una marca limpia en el panel superior, importante en tapas impresas o con panel visible.",
+            "Zonas de temperatura: cada boquilla tiene su propia resistencia y termopar, por lo que una zona fría o sobrecalentada aparece como tapa incompleta o pesada en esa cavidad.",
+            "Piezas de servicio: puntas de boquilla, agujas de válvula, resistencias y juntas se sustituyen como piezas de desgaste; los canales calientes existentes también pueden reacondicionarse."
+          ]
+        },
+        {
+          "heading": "Diseño de la refrigeración en moldes de tapas",
+          "paragraphs": [
+            "La refrigeración suele ocupar la mayor parte del ciclo de inyección, por lo que su diseño influye directamente en la producción. En un molde de tapas, lo más difícil de refrigerar es el macho, porque el calor del interior de la tapa debe evacuarse a través de un macho de diámetro pequeño."
+          ],
+          "list": [
+            "Refrigeración del macho: un tubo burbujeador o un tabique dentro de cada macho lleva el agua cerca de la parte superior de la tapa y de la zona de rosca.",
+            "Refrigeración de la cavidad: canales taladrados o camisas de refrigeración alrededor de cada inserto enfrían la envolvente exterior y el panel superior.",
+            "Equilibrio de caudal: cada cavidad debe recibir el mismo caudal de agua; una restricción en un ramal produce tapas ovaladas o deformadas en esas cavidades.",
+            "Calidad del agua: la cal y la corrosión reducen el caudal con el tiempo; el agua filtrada y tratada mantiene estable la refrigeración.",
+            "En las puntas de los machos que necesitan evacuar más calor pueden usarse insertos de materiales de alta conductividad."
+          ]
+        },
+        {
+          "heading": "Piezas de desgaste y repuestos para moldes de tapas",
+          "paragraphs": [
+            "Los moldes de tapas trabajan con un número de ciclos muy alto, por lo que un juego de repuestos definido protege la producción. Los moldes de LIHE están construidos para resistir hasta 8 millones de ciclos en plataformas Husky, SACMI y Netstal, y las piezas de moldes de tapas tienen un plazo de unas 4 semanas."
+          ],
+          "list": [
+            "Piezas de formado: insertos de macho, machos interiores, insertos de cavidad y anillos extractores, que se desgastan en los bordes de rosca, sello y banda.",
+            "Piezas del canal caliente: puntas de boquilla, agujas de válvula, resistencias, termopares y juntas.",
+            "Piezas móviles: engranajes, rodamientos y cremalleras en moldes de desenroscado; componentes de expulsión en moldes de botado forzado.",
+            "Piezas de alineación: columnas guía, casquillos y centradores cónicos; su desgaste se ve como espesor de pared desigual o rebaba.",
+            "Consumibles: juntas tóricas y juntas de refrigeración, que se cambian en cada mantenimiento mayor."
+          ]
+        },
+        {
+          "heading": "Lista de verificación para pedir un molde de tapas",
+          "steps": [
+            "Envíe el plano o las muestras de la tapa y el plano del acabado de cuello correspondiente (26 mm, 28 mm, 2925, 3025, 38 mm o a medida).",
+            "Indique la construcción de la tapa, el grado de resina, el peso objetivo y si la banda es solo de garantía o una tapa sujeta UE.",
+            "Facilite el modelo de máquina, fuerza de cierre, medidas de platos y columnas, carrera de expulsión y la interfaz del accionamiento de desenroscado.",
+            "Especifique la cavitación (de 12 a 72 cavidades) y los requisitos del canal caliente: entrada de válvula o abierta, tipo de controlador y número de zonas.",
+            "Indique las condiciones del agua de refrigeración en el molde: caudal disponible, presión y tratamiento del agua.",
+            "Acuerde el juego de repuestos y los criterios de aceptación: tapas de muestra, informes dimensionales de CMM y un objetivo de capacidad de proceso.",
+            "Planifique la instalación y el apoyo a la puesta en marcha con el equipo técnico de LIHE para la primera producción."
+          ]
+        },
+        {
+          "heading": "Inspección y aceptación de un molde de tapas",
+          "list": [
+            "Las piezas de formado se miden en una CMM Zeiss propia; los informes de validación e inspección se entregan bajo pedido.",
+            "Los moldes de LIHE alcanzan de forma constante un CPK ≥ 1,33, un umbral habitual de capacidad de proceso para cotas críticas.",
+            "Se revisan tapas de muestra de cada cavidad: dispersión de peso, cotas de rosca y sello y funcionamiento de la banda.",
+            "En moldes de LIHE se han logrado tasas operativas de defectos de solo el 0,0064%."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Por qué unos moldes de tapas desenroscan y otros expulsan la tapa por botado forzado?",
+          "answer": "Depende de la rosca y de la resina. Una rosca poco profunda y redondeada en una resina flexible puede deformarse sobre el macho y expulsarse a la fuerza, lo que simplifica el molde. Las roscas más profundas o agudas, o las resinas más rígidas, necesitan machos giratorios que desenrosquen la tapa antes de expulsarla."
+        },
+        {
+          "question": "¿A cuántas cavidades puede dar servicio un canal caliente de LIHE para tapas?",
+          "answer": "Los moldes de tapas están disponibles de 12 a 72 cavidades, y los sistemas de canal caliente de LIHE para tapas llegan hasta 96 cavidades."
+        },
+        {
+          "question": "¿Qué piezas del molde de tapas conviene tener en almacén?",
+          "answer": "Insertos de macho, insertos de cavidad y anillos extractores de las cavidades que se desgastan primero, además de puntas de boquilla, resistencias, termopares y juntas del canal caliente, y juntas tóricas de los circuitos de refrigeración. Las piezas tienen un plazo de unas 4 semanas, así que el stock debe cubrir al menos ese periodo."
+        },
+        {
+          "question": "¿Qué provoca diferencias de peso entre cavidades?",
+          "answer": "Las causas habituales son una zona del canal caliente desequilibrada o parcialmente obstruida, un fallo de resistencia o termopar, un caudal de refrigeración desigual entre cavidades o piezas de alineación desgastadas que desplazan el macho. Lo normal es empezar revisando las temperaturas de zona y el caudal de agua por cavidad."
+        },
+        {
+          "question": "¿El molde de tapas es compatible con mi máquina?",
+          "answer": "Los moldes de tapas de LIHE se fabrican para las inyectoras de tapas más habituales y para máquinas de compresión SACMI. Envíe el modelo de máquina y las cotas de interfaz con su solicitud para que la base del molde, la expulsión y la conexión del canal caliente se diseñen a medida."
+        }
+      ]
+    }
+  }
+}

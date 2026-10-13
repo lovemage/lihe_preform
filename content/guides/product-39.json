@@ -1,0 +1,326 @@
+{
+  "key": "product-39",
+  "updated": "2026-10-13",
+  "sources": [
+    { "label": "Wikipedia — Blow molding", "url": "https://en.wikipedia.org/wiki/Blow_molding" },
+    { "label": "Wikipedia — Parting line", "url": "https://en.wikipedia.org/wiki/Parting_line" },
+    { "label": "Wikipedia — Aluminium alloy", "url": "https://en.wikipedia.org/wiki/Aluminium_alloy" },
+    { "label": "Wikipedia — Tool steel", "url": "https://en.wikipedia.org/wiki/Tool_steel" },
+    { "label": "Wikipedia — Engineering tolerance", "url": "https://en.wikipedia.org/wiki/Engineering_tolerance" },
+    { "label": "Wikipedia — Coordinate-measuring machine", "url": "https://en.wikipedia.org/wiki/Coordinate-measuring_machine" }
+  ],
+  "locales": {
+    "en": {
+      "heading": "Blow mold clamping base alignment: parting line quality, remounting and aluminum vs steel",
+      "intro": "A clamping base is the machined base plate that connects the blow mold halves and the base mold to the mold carrier of a stretch blow molding machine and fixes their position. Because every mold change starts and ends at the clamping base, its mounting faces and locating features decide whether the two bottle halves meet exactly at the parting line. This guide explains what misalignment does to bottles, how to inspect and remount a clamping base, and how aluminum and steel bases compare in general terms.",
+      "sections": [
+        {
+          "heading": "What clamping base misalignment causes in PET blow molds",
+          "paragraphs": [
+            "When the clamping base, shells or base mold do not sit in their intended position, the mold halves no longer close on a common plane. The result is visible on the bottle long before the mold is damaged."
+          ],
+          "list": [
+            "Parting line mismatch: a step between the two bottle halves that can be felt with a fingernail and is visible on labels and transparent bottles.",
+            "Flash or a raised seam: material pushed into a gap between halves that do not close fully under blowing pressure.",
+            "Base mismatch: an off-center or stepped base when the base mold is not concentric with the side halves.",
+            "Dimensional variation: bottle diameter, ovality or height that differs between stations of the same machine.",
+            "Accelerated wear: uneven contact concentrates load on part of the parting face, which wears shells and inserts faster.",
+            "Cooling problems: shifted mounting can strain water connections and cause leaks or reduced flow in one mold half."
+          ]
+        },
+        {
+          "heading": "Where alignment comes from: mounting faces, locating features and fasteners",
+          "list": [
+            "Mounting faces: flat, clean contact surfaces between the carrier, the clamping base and the shell or mold half. Dents, burrs or dried deposits tilt the mold.",
+            "Locating features: dowel pins, keys, bushings or locating shoulders that set the position of each part. Worn pins and enlarged holes allow movement after each mold change.",
+            "Fasteners: bolts tightened to the machine maker's specified torque in the specified order. Uneven tightening can pull a half out of position.",
+            "Base mold guidance: the base mold must be centered relative to the side halves at the closed position; its guide and lift mechanism also affect the base parting line.",
+            "Temperature: heated or cooled molds expand and contract, so alignment should be checked at operating temperature as well as cold."
+          ]
+        },
+        {
+          "heading": "Aluminum vs steel clamping bases: general comparison table",
+          "paragraphs": [
+            "LIHE machines clamping bases from high-strength aluminum alloy or steel according to machine requirements. The table compares the two materials in general terms; the right choice depends on the machine design, not on a single property."
+          ],
+          "table": {
+            "head": ["Property", "Aluminum alloy base", "Steel base"],
+            "rows": [
+              ["Density", "About 2.7 g/cm³, so parts are light and easier to handle during mold changes", "About 7.8 g/cm³, so parts are heavier and may need lifting aids"],
+              ["Thermal conductivity", "High; heat moves quickly between mold and cooling circuit", "Lower; temperature changes more slowly"],
+              ["Wear and dent resistance", "Softer surfaces; locating features may need hardened inserts or bushings", "Harder surfaces; locating features hold their size longer"],
+              ["Machinability", "Fast to machine to tight tolerances", "Slower to machine; may need heat treatment and grinding"],
+              ["Corrosion in water channels", "Depends on alloy and surface treatment; water quality matters", "Carbon steel can rust unless protected or made from corrosion-resistant grade"],
+              ["Typical use", "Machines that require light mold carrier parts and fast changes", "Machines or positions that require high stiffness and wear resistance"]
+            ]
+          }
+        },
+        {
+          "heading": "Inspection steps before remounting a clamping base",
+          "steps": [
+            "Stop the machine, follow the lockout procedure, release blowing air and drain the cooling circuit of the mold station.",
+            "Remove the mold halves and base mold and clean all mounting faces on the carrier and clamping base with a non-abrasive method.",
+            "Inspect mounting faces for dents, burrs, corrosion and deposits; remove raised burrs carefully without changing the face geometry.",
+            "Check dowel pins, keys and locating bores for wear, looseness and enlarged diameters, and replace worn locating parts.",
+            "Check flatness of the clamping base on a surface plate or with a straightedge and feeler gauges, and compare with the drawing.",
+            "Inspect water connections and seals, and replace seals that are flattened or cracked.",
+            "Record the findings per station so that recurring problems on one position can be traced."
+          ]
+        },
+        {
+          "heading": "Remounting steps for clean parting lines",
+          "steps": [
+            "Mount the clamping base on its locating features first, then tighten the fasteners to the specified torque in a cross pattern.",
+            "Mount the mold halves on the clamping base, engaging the locating pins before any bolt is tightened.",
+            "Close the mold slowly in setup mode and check that both halves meet evenly; a contact check with marking compound shows gaps on the parting faces.",
+            "Check centering and height of the base mold in the closed position.",
+            "Connect cooling water, pressure the circuit and check every connection for leaks before heating or blowing.",
+            "Run a short trial, then inspect the parting line, base center and key dimensions of bottles from each station.",
+            "Keep the first bottles from each station as reference samples for the next mold change."
+          ]
+        },
+        {
+          "heading": "Clamping base replacement and dimensional verification",
+          "list": [
+            "Replace a clamping base when its locating bores or mounting faces are worn beyond what new pins or bushings can correct.",
+            "LIHE makes clamping bases from customers' existing parts or drawings for SIDEL, KRONES, KHS and other blow molding machines.",
+            "Water connections and channels are matched to the mold's cooling circuit, so send the existing cooling layout with the order.",
+            "LIHE has an in-house Zeiss CMM lab, and inspection reports are supplied on request.",
+            "LIHE's stated lead time for replacement parts is 4 weeks; plan replacements together with scheduled mold changes.",
+            "For hot fill bottles, where the mold runs at a different temperature than for cold fill (filling at about 85–95°C), state the fill type so the base and its cooling connections suit the application."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Why does my bottle show a step at the parting line?",
+          "answer": "A step usually means the two mold halves are offset. Common causes are dirt or burrs on mounting faces, worn dowel pins or bushings, uneven bolt tightening, or a worn clamping base. Check the station that produces the step first."
+        },
+        {
+          "question": "Is flash at the parting line always caused by the clamping base?",
+          "answer": "No. Flash can also come from worn parting faces on the mold halves, insufficient clamping or locking force, or damage to the mold edges. If the mold halves are in good condition and flash remains, check the clamping base mounting and locating features."
+        },
+        {
+          "question": "Should I choose an aluminum or a steel clamping base?",
+          "answer": "Follow the machine design. Aluminum is lighter and conducts heat well; steel is stiffer and more wear resistant. LIHE machines clamping bases from high-strength aluminum alloy or steel according to machine requirements."
+        },
+        {
+          "question": "How often should clamping base alignment be checked?",
+          "answer": "Check it at every mold change, after any collision or blow-out, and whenever parting line or base defects appear in one station. Logging the results per station shows when wear starts."
+        },
+        {
+          "question": "What information is needed to order a replacement clamping base?",
+          "answer": "Send the machine make and model, the existing part or its drawing, the cooling connection layout and the bottle drawing. LIHE makes clamping bases from customers' existing parts or drawings."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "Соосность прижимного основания выдувной формы: качество линии разъёма, перемонтаж и алюминий против стали",
+      "intro": "Прижимное основание (clamping base) — это механически обработанная базовая плита, которая соединяет половины выдувной формы и донную форму с формодержателем выдувной машины и фиксирует их положение. Каждая смена формы начинается и заканчивается на прижимном основании, поэтому его монтажные поверхности и фиксирующие элементы определяют, сойдутся ли две половины бутылки точно по линии разъёма. В этом руководстве описано, к чему приводит несоосность, как проверять и перемонтировать основание и чем в общих чертах отличаются алюминиевые и стальные основания.",
+      "sections": [
+        {
+          "heading": "К чему приводит несоосность прижимного основания в выдувных формах ПЭТ",
+          "paragraphs": [
+            "Если основание, корпуса или донная форма стоят не на своём месте, половины формы перестают смыкаться в одной плоскости. Это видно на бутылке задолго до повреждения формы."
+          ],
+          "list": [
+            "Ступенька по линии разъёма: уступ между половинами бутылки, который ощущается ногтем и заметен на этикетке и прозрачных бутылках.",
+            "Облой или выступающий шов: материал выдавливается в зазор между не полностью сомкнутыми половинами под давлением выдува.",
+            "Смещение дна: дно не по центру или со ступенькой, если донная форма не соосна с боковыми половинами.",
+            "Разброс размеров: диаметр, овальность или высота бутылки различаются между станциями одной машины.",
+            "Ускоренный износ: неравномерный контакт нагружает часть поверхности разъёма, и корпуса и вставки изнашиваются быстрее.",
+            "Проблемы охлаждения: смещённый монтаж нагружает водяные соединения и вызывает протечки или снижение расхода в одной половине."
+          ]
+        },
+        {
+          "heading": "Откуда берётся соосность: монтажные поверхности, фиксаторы и крепёж",
+          "list": [
+            "Монтажные поверхности: ровные чистые контактные плоскости между формодержателем, основанием и корпусом или половиной формы. Вмятины, заусенцы и отложения перекашивают форму.",
+            "Фиксирующие элементы: штифты, шпонки, втулки или базирующие уступы задают положение каждой детали. Изношенные штифты и разбитые отверстия допускают смещение после каждой смены формы.",
+            "Крепёж: болты затягиваются с моментом и в порядке, указанными производителем машины. Неравномерная затяжка может сдвинуть половину.",
+            "Направление донной формы: в закрытом положении донная форма должна быть отцентрирована относительно боковых половин; её направляющие и механизм подъёма влияют на линию разъёма дна.",
+            "Температура: нагреваемые или охлаждаемые формы расширяются и сжимаются, поэтому соосность стоит проверять не только в холодном состоянии, но и при рабочей температуре."
+          ]
+        },
+        {
+          "heading": "Алюминиевое или стальное прижимное основание: таблица сравнения",
+          "paragraphs": [
+            "LIHE изготавливает прижимные основания из высокопрочного алюминиевого сплава или стали в зависимости от требований машины. Таблица сравнивает материалы в общих чертах; выбор определяется конструкцией машины, а не одним свойством."
+          ],
+          "table": {
+            "head": ["Свойство", "Основание из алюминиевого сплава", "Стальное основание"],
+            "rows": [
+              ["Плотность", "Около 2,7 г/см³: детали лёгкие и удобны при смене форм", "Около 7,8 г/см³: детали тяжелее, могут понадобиться подъёмные приспособления"],
+              ["Теплопроводность", "Высокая; тепло быстро передаётся между формой и контуром охлаждения", "Ниже; температура меняется медленнее"],
+              ["Стойкость к износу и вмятинам", "Поверхности мягче; для фиксаторов могут понадобиться закалённые вставки или втулки", "Поверхности твёрже; фиксирующие элементы дольше сохраняют размер"],
+              ["Обрабатываемость", "Быстрая обработка с жёсткими допусками", "Обработка медленнее; может потребоваться термообработка и шлифование"],
+              ["Коррозия в каналах охлаждения", "Зависит от сплава и покрытия; важно качество воды", "Углеродистая сталь ржавеет без защиты или коррозионностойкой марки"],
+              ["Типичное применение", "Машины, где нужны лёгкие детали формодержателя и быстрая смена", "Машины или позиции, где нужны высокая жёсткость и износостойкость"]
+            ]
+          }
+        },
+        {
+          "heading": "Порядок проверки перед перемонтажом основания",
+          "steps": [
+            "Остановите машину, выполните блокировку, сбросьте дутьевой воздух и слейте воду из контура охлаждения станции.",
+            "Снимите половины формы и донную форму и очистите все монтажные поверхности формодержателя и основания неабразивным способом.",
+            "Осмотрите монтажные поверхности на вмятины, заусенцы, коррозию и отложения; аккуратно удалите выступающие заусенцы, не меняя геометрию поверхности.",
+            "Проверьте штифты, шпонки и базовые отверстия на износ, люфт и увеличение диаметра; изношенные фиксаторы замените.",
+            "Проверьте плоскостность основания на поверочной плите или лекальной линейкой со щупами и сравните с чертежом.",
+            "Осмотрите водяные соединения и уплотнения; смятые или треснувшие уплотнения замените.",
+            "Запишите результаты по каждой станции, чтобы отслеживать повторяющиеся проблемы на одной позиции."
+          ]
+        },
+        {
+          "heading": "Порядок перемонтажа для чистой линии разъёма",
+          "steps": [
+            "Сначала установите основание на фиксирующие элементы, затем затяните крепёж с указанным моментом крест-накрест.",
+            "Установите половины формы на основание, посадив их на штифты до затяжки болтов.",
+            "Медленно закройте форму в наладочном режиме и проверьте равномерность смыкания; проверка пятна контакта с краской показывает зазоры по плоскости разъёма.",
+            "Проверьте центровку и высоту донной формы в закрытом положении.",
+            "Подключите охлаждающую воду, подайте давление и проверьте все соединения на протечки до нагрева или выдува.",
+            "Выполните короткий пробный пуск и проверьте линию разъёма, центр дна и основные размеры бутылок с каждой станции.",
+            "Сохраните первые бутылки с каждой станции как эталонные образцы для следующей смены формы."
+          ]
+        },
+        {
+          "heading": "Замена прижимного основания и проверка размеров",
+          "list": [
+            "Меняйте основание, если базовые отверстия или монтажные поверхности изношены настолько, что новые штифты или втулки уже не исправляют положение.",
+            "LIHE изготавливает прижимные основания по существующим деталям или чертежам заказчика для машин SIDEL, KRONES, KHS и других.",
+            "Водяные соединения и каналы согласуются с контуром охлаждения формы, поэтому приложите к заказу существующую схему охлаждения.",
+            "У LIHE есть собственная лаборатория с КИМ Zeiss; протоколы контроля предоставляются по запросу.",
+            "Заявленный LIHE срок поставки запасных частей — 4 недели; планируйте замену вместе с плановой сменой форм.",
+            "Для бутылок горячего розлива (около 85–95 °C), где форма работает при иной температуре, чем при холодном розливе, укажите тип розлива, чтобы основание и его соединения охлаждения соответствовали задаче."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Почему на бутылке видна ступенька по линии разъёма?",
+          "answer": "Ступенька обычно означает смещение половин формы. Частые причины — грязь или заусенцы на монтажных поверхностях, изношенные штифты или втулки, неравномерная затяжка болтов или изношенное основание. Начните проверку со станции, которая даёт ступеньку."
+        },
+        {
+          "question": "Облой по линии разъёма всегда вызван прижимным основанием?",
+          "answer": "Нет. Облой также дают изношенные поверхности разъёма половин формы, недостаточное усилие запирания или повреждённые кромки формы. Если половины в хорошем состоянии, а облой остаётся, проверьте монтаж и фиксаторы основания."
+        },
+        {
+          "question": "Что выбрать: алюминиевое или стальное основание?",
+          "answer": "Следуйте конструкции машины. Алюминий легче и хорошо проводит тепло; сталь жёстче и износостойче. LIHE изготавливает основания из высокопрочного алюминиевого сплава или стали в зависимости от требований машины."
+        },
+        {
+          "question": "Как часто проверять соосность основания?",
+          "answer": "При каждой смене формы, после любого столкновения или прорыва бутылки и всякий раз, когда на одной станции появляются дефекты линии разъёма или дна. Журнал по станциям показывает, когда начинается износ."
+        },
+        {
+          "question": "Какие данные нужны для заказа нового прижимного основания?",
+          "answer": "Укажите марку и модель машины, пришлите существующую деталь или чертёж, схему подключения охлаждения и чертёж бутылки. LIHE изготавливает основания по существующим деталям или чертежам заказчика."
+        }
+      ]
+    },
+    "es": {
+      "heading": "Alineación de la base de cierre del molde de soplado: calidad de la línea de partición, remontaje y aluminio frente a acero",
+      "intro": "Una base de cierre es una placa base mecanizada que une las mitades del molde de soplado y el molde de fondo al portamoldes de una sopladora y fija su posición. Como cada cambio de molde empieza y termina en la base de cierre, sus caras de montaje y elementos de posicionamiento deciden si las dos mitades de la botella coinciden exactamente en la línea de partición. Esta guía explica qué provoca la desalineación en las botellas, cómo inspeccionar y volver a montar una base de cierre y cómo se comparan en términos generales las bases de aluminio y de acero.",
+      "sections": [
+        {
+          "heading": "Qué provoca la desalineación de la base de cierre en moldes de soplado PET",
+          "paragraphs": [
+            "Cuando la base de cierre, las carcasas o el molde de fondo no están en su posición prevista, las mitades del molde ya no cierran sobre un plano común. El resultado se ve en la botella mucho antes de que el molde se dañe."
+          ],
+          "list": [
+            "Desajuste en la línea de partición: un escalón entre las dos mitades de la botella que se nota con la uña y se ve en etiquetas y botellas transparentes.",
+            "Rebaba o costura elevada: material empujado hacia una holgura entre mitades que no cierran del todo bajo la presión de soplado.",
+            "Desajuste del fondo: fondo descentrado o con escalón cuando el molde de fondo no es concéntrico con las mitades laterales.",
+            "Variación dimensional: diámetro, ovalidad o altura de la botella que difieren entre estaciones de la misma máquina.",
+            "Desgaste acelerado: un contacto desigual concentra la carga en parte de la cara de partición y desgasta antes carcasas e insertos.",
+            "Problemas de refrigeración: un montaje desplazado puede forzar las conexiones de agua y causar fugas o menos caudal en una mitad."
+          ]
+        },
+        {
+          "heading": "De dónde viene la alineación: caras de montaje, posicionadores y tornillería",
+          "list": [
+            "Caras de montaje: superficies de contacto planas y limpias entre el portamoldes, la base de cierre y la carcasa o mitad de molde. Golpes, rebabas o depósitos secos inclinan el molde.",
+            "Elementos de posicionamiento: pasadores, chavetas, casquillos o resaltes que fijan la posición de cada pieza. Pasadores gastados y agujeros agrandados permiten movimiento tras cada cambio de molde.",
+            "Tornillería: tornillos apretados al par y en el orden especificados por el fabricante de la máquina. Un apriete desigual puede sacar de posición una mitad.",
+            "Guiado del molde de fondo: en posición cerrada, el molde de fondo debe quedar centrado respecto a las mitades laterales; su guía y mecanismo de elevación también afectan a la línea de partición del fondo.",
+            "Temperatura: los moldes calentados o refrigerados se dilatan y contraen, por lo que la alineación debe comprobarse también a temperatura de trabajo, no solo en frío."
+          ]
+        },
+        {
+          "heading": "Base de cierre de aluminio o de acero: tabla comparativa general",
+          "paragraphs": [
+            "LIHE mecaniza las bases de cierre en aleación de aluminio de alta resistencia o en acero según los requisitos de la máquina. La tabla compara ambos materiales en términos generales; la elección depende del diseño de la máquina, no de una sola propiedad."
+          ],
+          "table": {
+            "head": ["Propiedad", "Base de aleación de aluminio", "Base de acero"],
+            "rows": [
+              ["Densidad", "Unos 2,7 g/cm³: piezas ligeras y fáciles de manipular en los cambios", "Unos 7,8 g/cm³: piezas más pesadas que pueden requerir medios de elevación"],
+              ["Conductividad térmica", "Alta; el calor pasa rápido entre el molde y el circuito de refrigeración", "Menor; la temperatura cambia más despacio"],
+              ["Resistencia al desgaste y a golpes", "Superficies más blandas; los posicionadores pueden requerir insertos o casquillos templados", "Superficies más duras; los posicionadores mantienen la medida más tiempo"],
+              ["Mecanizado", "Rápido de mecanizar con tolerancias estrechas", "Más lento; puede requerir tratamiento térmico y rectificado"],
+              ["Corrosión en canales de agua", "Depende de la aleación y del tratamiento superficial; importa la calidad del agua", "El acero al carbono se oxida si no se protege o no es de grado resistente a la corrosión"],
+              ["Uso típico", "Máquinas que requieren piezas de portamoldes ligeras y cambios rápidos", "Máquinas o posiciones que requieren alta rigidez y resistencia al desgaste"]
+            ]
+          }
+        },
+        {
+          "heading": "Pasos de inspección antes de volver a montar la base de cierre",
+          "steps": [
+            "Detenga la máquina, aplique el bloqueo, libere el aire de soplado y vacíe el circuito de refrigeración de la estación.",
+            "Desmonte las mitades y el molde de fondo y limpie todas las caras de montaje del portamoldes y de la base con un método no abrasivo.",
+            "Inspeccione las caras de montaje en busca de golpes, rebabas, corrosión y depósitos; elimine con cuidado las rebabas sin alterar la geometría de la cara.",
+            "Revise pasadores, chavetas y alojamientos de posicionamiento por desgaste, holgura y diámetros agrandados, y sustituya los elementos gastados.",
+            "Compruebe la planitud de la base sobre un mármol o con regla y galgas de espesores, y compárela con el plano.",
+            "Inspeccione las conexiones de agua y sus juntas, y cambie las juntas aplastadas o agrietadas.",
+            "Registre los resultados por estación para poder rastrear problemas repetidos en una misma posición."
+          ]
+        },
+        {
+          "heading": "Pasos de remontaje para una línea de partición limpia",
+          "steps": [
+            "Monte primero la base de cierre sobre sus posicionadores y apriete los tornillos al par especificado en cruz.",
+            "Monte las mitades del molde sobre la base, encajando los pasadores antes de apretar ningún tornillo.",
+            "Cierre el molde despacio en modo de ajuste y compruebe que ambas mitades contactan de forma uniforme; una prueba de contacto con pasta de marcar muestra holguras en las caras de partición.",
+            "Compruebe el centrado y la altura del molde de fondo en posición cerrada.",
+            "Conecte el agua de refrigeración, presurice el circuito y revise cada conexión por fugas antes de calentar o soplar.",
+            "Haga una prueba corta e inspeccione la línea de partición, el centro del fondo y las dimensiones clave de botellas de cada estación.",
+            "Guarde las primeras botellas de cada estación como muestras de referencia para el siguiente cambio de molde."
+          ]
+        },
+        {
+          "heading": "Sustitución de la base de cierre y verificación dimensional",
+          "list": [
+            "Sustituya la base cuando sus alojamientos o caras de montaje estén tan gastados que pasadores o casquillos nuevos ya no corrijan la posición.",
+            "LIHE fabrica bases de cierre a partir de piezas o planos existentes del cliente para sopladoras SIDEL, KRONES, KHS y otras.",
+            "Las conexiones y canales de agua se adaptan al circuito de refrigeración del molde, así que envíe el esquema de refrigeración existente con el pedido.",
+            "LIHE dispone de un laboratorio propio con MMC Zeiss y entrega informes de inspección bajo pedido.",
+            "El plazo de entrega indicado por LIHE para piezas de recambio es de 4 semanas; planifique la sustitución junto con los cambios de molde programados.",
+            "Para botellas de llenado en caliente (a unos 85–95 °C), en las que el molde trabaja a otra temperatura que en llenado en frío, indique el tipo de llenado para que la base y sus conexiones de refrigeración se ajusten a la aplicación."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Por qué mi botella muestra un escalón en la línea de partición?",
+          "answer": "Un escalón suele indicar que las dos mitades del molde están desplazadas. Las causas comunes son suciedad o rebabas en las caras de montaje, pasadores o casquillos gastados, apriete desigual de tornillos o una base de cierre gastada. Revise primero la estación que produce el escalón."
+        },
+        {
+          "question": "¿La rebaba en la línea de partición siempre se debe a la base de cierre?",
+          "answer": "No. La rebaba también puede venir de caras de partición gastadas en las mitades del molde, de una fuerza de cierre insuficiente o de bordes del molde dañados. Si las mitades están en buen estado y la rebaba persiste, revise el montaje y los posicionadores de la base."
+        },
+        {
+          "question": "¿Elijo una base de cierre de aluminio o de acero?",
+          "answer": "Siga el diseño de la máquina. El aluminio es más ligero y conduce bien el calor; el acero es más rígido y resistente al desgaste. LIHE mecaniza las bases en aleación de aluminio de alta resistencia o en acero según los requisitos de la máquina."
+        },
+        {
+          "question": "¿Con qué frecuencia hay que revisar la alineación de la base?",
+          "answer": "En cada cambio de molde, después de cualquier choque o reventón de botella y siempre que aparezcan defectos de partición o de fondo en una estación. Registrar los resultados por estación muestra cuándo empieza el desgaste."
+        },
+        {
+          "question": "¿Qué información se necesita para pedir una base de cierre de recambio?",
+          "answer": "Indique la marca y el modelo de la máquina y envíe la pieza existente o su plano, el esquema de conexiones de refrigeración y el plano de la botella. LIHE fabrica bases de cierre a partir de piezas o planos existentes del cliente."
+        }
+      ]
+    }
+  }
+}

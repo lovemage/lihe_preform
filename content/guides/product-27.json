@@ -1,0 +1,350 @@
+{
+  "key": "product-27",
+  "updated": "2026-10-13",
+  "sources": [
+    { "label": "Wikipedia — Hot runner", "url": "https://en.wikipedia.org/wiki/Hot_runner" },
+    { "label": "Wikipedia — Injection moulding", "url": "https://en.wikipedia.org/wiki/Injection_moulding" },
+    { "label": "Wikipedia — Preventive maintenance", "url": "https://en.wikipedia.org/wiki/Preventive_maintenance" },
+    { "label": "Wikipedia — Polymer degradation", "url": "https://en.wikipedia.org/wiki/Polymer_degradation" },
+    { "label": "Husky Technologies", "url": "https://www.husky.co/" },
+    { "label": "Mold-Masters — hot runner systems", "url": "https://www.moldmasters.com/" }
+  ],
+  "locales": {
+    "en": {
+      "heading": "Hot runner system specification and service reference: cavitation, Husky and Netstal compatibility, spare parts, refurbishment and troubleshooting",
+      "intro": "A valve gate hot runner system is the heated manifold, nozzle and valve pin assembly that delivers PET or closure resin to every cavity of a multi-cavity mold and closes each gate with a pin. This page is a working reference for buyers and maintenance teams: what the LIHE hot runner covers, which spare parts to stock, when to refurbish and how to troubleshoot common hot runner faults. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China.",
+      "sections": [
+        {
+          "heading": "LIHE hot runner specification summary",
+          "list": [
+            "Gate type: valve gate.",
+            "Preform molds: up to 144 cavities.",
+            "Closure molds: up to 96 cavities.",
+            "Machine compatibility: HUSKY, NETSTAL, KM, SIPA and other preform injection machines, plus mainstream closure injection machines.",
+            "Design: Husky Ultra-type design.",
+            "Guarantee: 3-year leakage-proof guarantee.",
+            "Service: replacement nozzle tips, valve pins, heaters and seals, plus refurbishment of existing hot runners."
+          ]
+        },
+        {
+          "heading": "Hot runner spare parts to keep in stock",
+          "paragraphs": [
+            "A hot runner stops the whole mold when one critical part fails, so a small stock of wear parts is cheaper than lost production. The parts below are the ones LIHE supplies as replacements. Stock levels should follow your own failure history and the number of cavities."
+          ],
+          "list": [
+            "Nozzle tips — wear from melt flow and contact with the gate insert; worn tips affect gate quality.",
+            "Valve pins — the pin tip seals the gate every cycle; wear or damage shows as gate defects in a specific cavity.",
+            "Heaters — manifold and nozzle heaters can fail open-circuit or lose output with age.",
+            "Seals — seals between manifold, nozzles and pin actuators prevent leaks and must be replaced when the hot runner is opened.",
+            "Keep a record of which cavity or zone each replacement was fitted to, so repeat failures can be traced."
+          ]
+        },
+        {
+          "heading": "Repair, refurbish or replace a hot runner",
+          "table": {
+            "head": ["Option", "When it fits", "Typical scope", "What to send or prepare"],
+            "rows": [
+              ["Spot repair", "One or a few cavities or zones show faults", "Replace a tip, valve pin, heater or seal", "Cavity and zone numbers, photos of defects"],
+              ["Refurbishment", "General wear after long service, leaks or several weak zones", "Strip, clean, inspect, replace wear parts and seals, test and reassemble", "Hot runner and its history, controller data"],
+              ["Replacement", "Cavitation, pitch or machine changes, or damage beyond repair", "New hot runner built to the mold and machine", "Mold drawings, machine model, cavitation"]
+            ]
+          }
+        },
+        {
+          "heading": "Hot runner refurbishment: what is usually done",
+          "paragraphs": [
+            "Refurbishment returns a used hot runner to stable production condition. LIHE refurbishes existing hot runners and, more broadly, offers mold refurbishment programs and project retrofitting to restore aging assets to OEM-level efficiency. A typical refurbishment covers the following work, adjusted to the condition found on inspection:"
+          ],
+          "list": [
+            "Disassembly and cleaning of manifold, nozzles and valve pin assemblies to remove degraded resin.",
+            "Inspection of melt channels, nozzle seats and sealing faces for wear, cracks or erosion.",
+            "Electrical testing of every heater and thermocouple circuit.",
+            "Replacement of seals, worn nozzle tips and valve pins.",
+            "Reassembly, leak testing and functional checks of valve pin movement before return."
+          ]
+        },
+        {
+          "heading": "Troubleshooting a hot runner: step-by-step procedure",
+          "steps": [
+            "Identify the affected cavities and note the symptom: short shot, heavy or light preform, gate defect, stringing or leak.",
+            "Check the controller: compare actual and set temperatures for every zone and look for open circuits or zones at full output.",
+            "Map the affected cavities to their heater zones and nozzles to see whether the fault follows one zone.",
+            "Check valve pin operation: actuation pressure, timing and whether the pin closes fully in the affected cavity.",
+            "Inspect the gate insert and nozzle tip area of the affected cavity for damage, wear or contamination.",
+            "Replace the faulty part (tip, pin, heater or seal) and confirm by weighing preforms from the affected and neighboring cavities.",
+            "If several zones fail or leaks appear, plan a full refurbishment and contact LIHE for remote troubleshooting or on-site assistance."
+          ]
+        },
+        {
+          "heading": "Common hot runner symptoms and where to look",
+          "table": {
+            "head": ["Symptom", "Possible causes", "First checks"],
+            "rows": [
+              ["Short shot in one cavity", "Cold zone, failed heater, blocked tip, valve pin not opening", "Zone temperature, heater circuit, pin movement"],
+              ["Heavy or light preform in some cavities", "Temperature differences between zones, worn tips", "Zone readings, cavity-by-cavity weights"],
+              ["Gate defects or stringing", "Worn valve pin or tip, gate too hot, pin timing", "Pin tip condition, gate insert, timing settings"],
+              ["Resin leak", "Worn or damaged seals, incorrect heat-up sequence", "Seal condition, assembly, start-up procedure"],
+              ["Yellowing or black specks", "Degraded resin in dead spots, overheating", "Set temperatures, cleaning history"]
+            ]
+          }
+        },
+        {
+          "heading": "Leakage-proof guarantee and after-sales support",
+          "list": [
+            "LIHE hot runners use a Husky Ultra-type design with a 3-year leakage-proof guarantee. Ask LIHE sales for the written guarantee terms with your quotation.",
+            "A dedicated technical team provides mold installation, machine start-up support and regular preventive maintenance.",
+            "Remote troubleshooting, on-site assistance, spare parts supply and mold refurbishment programs are available.",
+            "Replacement parts lead time at LIHE is 4 weeks.",
+            "Contact: sales@lihe-preform.com or +886 938 198 675 (also WhatsApp)."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Which machines are LIHE hot runners compatible with?",
+          "answer": "HUSKY, NETSTAL, KM, SIPA and other preform injection machines, plus mainstream closure injection machines."
+        },
+        {
+          "question": "What is the maximum cavitation of a LIHE hot runner?",
+          "answer": "Up to 144 cavities for PET preform molds and up to 96 cavities for closure molds."
+        },
+        {
+          "question": "Can LIHE supply spare parts for a hot runner it did not build?",
+          "answer": "LIHE supplies replacement nozzle tips, valve pins, heaters and seals and refurbishes existing hot runners. Send the hot runner make, model and sample parts or drawings so compatibility can be confirmed."
+        },
+        {
+          "question": "What does the 3-year leakage-proof guarantee cover?",
+          "answer": "LIHE hot runners with the Husky Ultra-type design carry a 3-year leakage-proof guarantee. The written terms are provided by LIHE sales with the quotation."
+        },
+        {
+          "question": "When should a hot runner be refurbished instead of repaired?",
+          "answer": "When faults appear in several zones, seals start to leak, or the hot runner has run for a long period without a full service. A single faulty tip, pin or heater can usually be replaced as a spot repair."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "Горячеканальная система: спецификация и сервисный справочник — гнездность, совместимость с Husky и Netstal, запчасти, восстановление и диагностика",
+      "intro": "Горячеканальная система с запорными соплами — это нагреваемый узел из коллектора, сопел и запорных игл, который подаёт ПЭТ или материал для колпачков в каждое гнездо многогнёздной формы и закрывает каждый впуск иглой. Эта страница — рабочий справочник для покупателей и служб обслуживания: что входит в горячеканальную систему LIHE, какие запчасти держать на складе, когда проводить восстановление и как искать типичные неисправности. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) — производитель пресс-форм для ПЭТ-преформ, выдувных форм, форм для колпачков и компрессионных форм, горячеканальных систем и комплектующих для производства напитков и упаковки, с производством в Фошане, Китай.",
+      "sections": [
+        {
+          "heading": "Краткая спецификация горячеканальной системы LIHE",
+          "list": [
+            "Тип впуска: запорное сопло (valve gate).",
+            "Формы для преформ: до 144 гнёзд.",
+            "Формы для колпачков: до 96 гнёзд.",
+            "Совместимость: HUSKY, NETSTAL, KM, SIPA и другие машины для преформ, а также основные машины для литья колпачков.",
+            "Конструкция: типа Husky Ultra.",
+            "Гарантия: 3 года от протечек.",
+            "Сервис: запасные наконечники сопел, запорные иглы, нагреватели и уплотнения, а также восстановление существующих горячеканальных систем."
+          ]
+        },
+        {
+          "heading": "Запчасти для горячеканальной системы, которые стоит держать на складе",
+          "paragraphs": [
+            "При отказе одной критичной детали горячеканальная система останавливает всю форму, поэтому небольшой запас изнашиваемых деталей обходится дешевле потерянного выпуска. Ниже перечислены детали, которые LIHE поставляет как запасные. Объём запаса следует определять по собственной статистике отказов и числу гнёзд."
+          ],
+          "list": [
+            "Наконечники сопел — изнашиваются от потока расплава и контакта с литниковой вставкой; изношенный наконечник ухудшает качество литника.",
+            "Запорные иглы — наконечник иглы перекрывает впуск в каждом цикле; износ или повреждение проявляется дефектами литника в определённом гнезде.",
+            "Нагреватели — нагреватели коллектора и сопел могут выйти из строя с обрывом цепи или терять мощность со временем.",
+            "Уплотнения — уплотнения между коллектором, соплами и приводами игл предотвращают протечки и заменяются при каждом вскрытии системы.",
+            "Ведите учёт, в какое гнездо или зону установлена каждая запасная деталь, чтобы отслеживать повторные отказы."
+          ]
+        },
+        {
+          "heading": "Ремонт, восстановление или замена горячеканальной системы",
+          "table": {
+            "head": ["Вариант", "Когда подходит", "Типичный объём работ", "Что отправить или подготовить"],
+            "rows": [
+              ["Точечный ремонт", "Неисправности в одном или нескольких гнёздах или зонах", "Замена наконечника, иглы, нагревателя или уплотнения", "Номера гнёзд и зон, фото дефектов"],
+              ["Восстановление", "Общий износ после долгой эксплуатации, протечки или несколько слабых зон", "Разборка, очистка, осмотр, замена изнашиваемых деталей и уплотнений, испытания и сборка", "Горячеканальная система и её история, данные контроллера"],
+              ["Замена", "Изменение гнездности, шага или машины, либо повреждения без возможности ремонта", "Новая система под форму и машину", "Чертежи формы, модель машины, гнездность"]
+            ]
+          }
+        },
+        {
+          "heading": "Восстановление горячеканальной системы: что обычно выполняется",
+          "paragraphs": [
+            "Восстановление возвращает бывшую в работе горячеканальную систему в состояние стабильного производства. LIHE восстанавливает существующие горячеканальные системы, а также предлагает программы восстановления форм и модернизацию для возвращения стареющего оборудования к эффективности уровня оригинала. Типичное восстановление включает следующие работы, которые корректируются по результатам осмотра:"
+          ],
+          "list": [
+            "Разборка и очистка коллектора, сопел и узлов запорных игл от деградировавшего материала.",
+            "Осмотр каналов расплава, посадок сопел и уплотнительных поверхностей на износ, трещины и эрозию.",
+            "Электрическая проверка каждой цепи нагревателя и термопары.",
+            "Замена уплотнений, изношенных наконечников сопел и запорных игл.",
+            "Сборка, испытание на герметичность и проверка хода запорных игл перед возвратом."
+          ]
+        },
+        {
+          "heading": "Поиск неисправностей горячеканальной системы: пошаговый порядок",
+          "steps": [
+            "Определите затронутые гнёзда и симптом: недолив, тяжёлая или лёгкая преформа, дефект литника, нити или протечка.",
+            "Проверьте контроллер: сравните фактическую и заданную температуру каждой зоны, найдите обрывы цепи или зоны на полной мощности.",
+            "Сопоставьте затронутые гнёзда с зонами нагрева и соплами, чтобы понять, связан ли дефект с одной зоной.",
+            "Проверьте работу запорных игл: давление привода, тайминг и полное закрытие иглы в затронутом гнезде.",
+            "Осмотрите литниковую вставку и наконечник сопла в затронутом гнезде на повреждения, износ или загрязнение.",
+            "Замените неисправную деталь (наконечник, иглу, нагреватель или уплотнение) и подтвердите результат взвешиванием преформ из затронутого и соседних гнёзд.",
+            "Если отказывают несколько зон или появляются протечки, запланируйте полное восстановление и обратитесь в LIHE за удалённой диагностикой или выездом специалиста."
+          ]
+        },
+        {
+          "heading": "Типичные симптомы неисправностей и где искать причину",
+          "table": {
+            "head": ["Симптом", "Возможные причины", "Первые проверки"],
+            "rows": [
+              ["Недолив в одном гнезде", "Холодная зона, отказ нагревателя, засорённый наконечник, игла не открывается", "Температура зоны, цепь нагревателя, ход иглы"],
+              ["Тяжёлые или лёгкие преформы в части гнёзд", "Разница температур между зонами, изношенные наконечники", "Показания зон, вес по каждому гнезду"],
+              ["Дефекты литника или нити", "Изношенная игла или наконечник, перегрев впуска, тайминг иглы", "Состояние иглы, литниковая вставка, настройки тайминга"],
+              ["Протечка смолы", "Изношенные или повреждённые уплотнения, неправильный порядок разогрева", "Состояние уплотнений, сборка, порядок запуска"],
+              ["Пожелтение или чёрные точки", "Деградировавший материал в застойных зонах, перегрев", "Заданные температуры, история очистки"]
+            ]
+          }
+        },
+        {
+          "heading": "Гарантия от протечек и сервисная поддержка",
+          "list": [
+            "Горячеканальные системы LIHE имеют конструкцию типа Husky Ultra и 3-летнюю гарантию от протечек. Письменные условия гарантии запрашивайте у отдела продаж LIHE вместе с коммерческим предложением.",
+            "Специальная техническая команда обеспечивает установку формы, поддержку запуска машины и плановое техническое обслуживание.",
+            "Доступны удалённая диагностика, помощь на месте, поставка запчастей и программы восстановления форм.",
+            "Срок изготовления запасных частей в LIHE — 4 недели.",
+            "Контакты: sales@lihe-preform.com или +886 938 198 675 (также WhatsApp)."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "С какими машинами совместимы горячеканальные системы LIHE?",
+          "answer": "С HUSKY, NETSTAL, KM, SIPA и другими машинами для преформ, а также с основными машинами для литья колпачков."
+        },
+        {
+          "question": "Какая максимальная гнездность у горячеканальной системы LIHE?",
+          "answer": "До 144 гнёзд для форм ПЭТ-преформ и до 96 гнёзд для форм колпачков."
+        },
+        {
+          "question": "Может ли LIHE поставить запчасти для системы другого производителя?",
+          "answer": "LIHE поставляет запасные наконечники сопел, запорные иглы, нагреватели и уплотнения и восстанавливает существующие горячеканальные системы. Отправьте производителя, модель системы и образцы деталей или чертежи, чтобы подтвердить совместимость."
+        },
+        {
+          "question": "Что покрывает 3-летняя гарантия от протечек?",
+          "answer": "Горячеканальные системы LIHE с конструкцией типа Husky Ultra имеют 3-летнюю гарантию от протечек. Письменные условия предоставляет отдел продаж LIHE вместе с коммерческим предложением."
+        },
+        {
+          "question": "Когда систему лучше восстановить, а не ремонтировать точечно?",
+          "answer": "Когда неисправности появляются в нескольких зонах, начинают протекать уплотнения или система долго работала без полного обслуживания. Один неисправный наконечник, иглу или нагреватель обычно можно заменить точечно."
+        }
+      ]
+    },
+    "es": {
+      "heading": "Sistema de canal caliente: especificación y referencia de servicio — cavidades, compatibilidad con Husky y Netstal, repuestos, reacondicionamiento y diagnóstico",
+      "intro": "Un sistema de canal caliente con válvula es el conjunto calefactado de colector, boquillas y agujas de válvula que lleva la resina PET o de tapas a cada cavidad de un molde multicavidad y cierra cada entrada con una aguja. Esta página es una referencia de trabajo para compradores y equipos de mantenimiento: qué incluye el canal caliente de LIHE, qué repuestos conviene tener, cuándo reacondicionar y cómo diagnosticar las averías más comunes. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) es un fabricante de moldes de preforma PET, moldes de soplado, moldes de tapas y de compresión, sistemas de canal caliente y componentes de molde para la industria de bebidas y envases, con fabricación en Foshan, China.",
+      "sections": [
+        {
+          "heading": "Resumen de especificaciones del canal caliente LIHE",
+          "list": [
+            "Tipo de entrada: válvula (valve gate).",
+            "Moldes de preforma: hasta 144 cavidades.",
+            "Moldes de tapas: hasta 96 cavidades.",
+            "Compatibilidad: HUSKY, NETSTAL, KM, SIPA y otras máquinas de preformas, además de las principales máquinas de inyección de tapas.",
+            "Diseño: tipo Husky Ultra.",
+            "Garantía: garantía antifugas de 3 años.",
+            "Servicio: puntas de boquilla, agujas de válvula, resistencias y juntas de recambio, además del reacondicionamiento de canales calientes existentes."
+          ]
+        },
+        {
+          "heading": "Repuestos del canal caliente que conviene tener en almacén",
+          "paragraphs": [
+            "Cuando falla una pieza crítica, el canal caliente detiene todo el molde, por lo que un pequeño stock de piezas de desgaste sale más barato que la producción perdida. Las piezas siguientes son las que LIHE suministra como recambio. El nivel de stock debe basarse en su propio historial de averías y en el número de cavidades."
+          ],
+          "list": [
+            "Puntas de boquilla: se desgastan por el flujo del material y el contacto con el inserto de entrada; una punta gastada afecta a la calidad de la entrada.",
+            "Agujas de válvula: la punta de la aguja sella la entrada en cada ciclo; el desgaste o daño aparece como defectos de entrada en una cavidad concreta.",
+            "Resistencias: las resistencias del colector y de las boquillas pueden fallar en circuito abierto o perder potencia con el tiempo.",
+            "Juntas: las juntas entre colector, boquillas y actuadores de aguja evitan fugas y deben cambiarse cada vez que se abre el canal caliente.",
+            "Registre en qué cavidad o zona se montó cada recambio para poder rastrear averías repetidas."
+          ]
+        },
+        {
+          "heading": "Reparar, reacondicionar o sustituir un canal caliente",
+          "table": {
+            "head": ["Opción", "Cuándo conviene", "Alcance típico", "Qué enviar o preparar"],
+            "rows": [
+              ["Reparación puntual", "Una o pocas cavidades o zonas con fallos", "Cambiar una punta, aguja, resistencia o junta", "Números de cavidad y zona, fotos de los defectos"],
+              ["Reacondicionamiento", "Desgaste general tras largo servicio, fugas o varias zonas débiles", "Desmontar, limpiar, inspeccionar, cambiar piezas de desgaste y juntas, probar y montar", "El canal caliente y su historial, datos del controlador"],
+              ["Sustitución", "Cambio de cavidades, paso o máquina, o daños irreparables", "Canal caliente nuevo para el molde y la máquina", "Planos del molde, modelo de máquina, número de cavidades"]
+            ]
+          }
+        },
+        {
+          "heading": "Reacondicionamiento del canal caliente: qué se hace normalmente",
+          "paragraphs": [
+            "El reacondicionamiento devuelve un canal caliente usado a un estado de producción estable. LIHE reacondiciona canales calientes existentes y, de forma más amplia, ofrece programas de reacondicionamiento de moldes y proyectos de readaptación para devolver los equipos envejecidos a una eficiencia de nivel OEM. Un reacondicionamiento típico incluye los trabajos siguientes, ajustados al estado encontrado en la inspección:"
+          ],
+          "list": [
+            "Desmontaje y limpieza del colector, las boquillas y los conjuntos de aguja para eliminar la resina degradada.",
+            "Inspección de los canales de material, los asientos de boquilla y las superficies de sellado en busca de desgaste, grietas o erosión.",
+            "Prueba eléctrica de cada circuito de resistencia y termopar.",
+            "Sustitución de juntas, puntas de boquilla y agujas de válvula gastadas.",
+            "Montaje, prueba de estanqueidad y comprobación del movimiento de las agujas antes de la devolución."
+          ]
+        },
+        {
+          "heading": "Diagnóstico del canal caliente: procedimiento paso a paso",
+          "steps": [
+            "Identifique las cavidades afectadas y anote el síntoma: llenado incompleto, preforma pesada o ligera, defecto de entrada, hilos o fuga.",
+            "Revise el controlador: compare la temperatura real y la de consigna de cada zona y busque circuitos abiertos o zonas al máximo de potencia.",
+            "Relacione las cavidades afectadas con sus zonas de calefacción y boquillas para ver si el fallo sigue a una zona.",
+            "Compruebe el funcionamiento de las agujas: presión de accionamiento, temporización y cierre completo en la cavidad afectada.",
+            "Inspeccione el inserto de entrada y la punta de boquilla de la cavidad afectada en busca de daños, desgaste o suciedad.",
+            "Sustituya la pieza defectuosa (punta, aguja, resistencia o junta) y confírmelo pesando preformas de la cavidad afectada y de las vecinas.",
+            "Si fallan varias zonas o aparecen fugas, planifique un reacondicionamiento completo y contacte con LIHE para diagnóstico remoto o asistencia in situ."
+          ]
+        },
+        {
+          "heading": "Síntomas comunes del canal caliente y dónde buscar",
+          "table": {
+            "head": ["Síntoma", "Causas posibles", "Primeras comprobaciones"],
+            "rows": [
+              ["Llenado incompleto en una cavidad", "Zona fría, resistencia averiada, punta obstruida, aguja que no abre", "Temperatura de la zona, circuito de la resistencia, movimiento de la aguja"],
+              ["Preformas pesadas o ligeras en algunas cavidades", "Diferencias de temperatura entre zonas, puntas gastadas", "Lecturas de zona, pesos por cavidad"],
+              ["Defectos de entrada o hilos", "Aguja o punta gastada, entrada demasiado caliente, temporización de aguja", "Estado de la aguja, inserto de entrada, ajustes de temporización"],
+              ["Fuga de resina", "Juntas gastadas o dañadas, secuencia de calentamiento incorrecta", "Estado de las juntas, montaje, procedimiento de arranque"],
+              ["Amarilleo o puntos negros", "Resina degradada en zonas muertas, sobrecalentamiento", "Temperaturas de consigna, historial de limpieza"]
+            ]
+          }
+        },
+        {
+          "heading": "Garantía antifugas y servicio posventa",
+          "list": [
+            "Los canales calientes de LIHE usan un diseño tipo Husky Ultra con garantía antifugas de 3 años. Solicite al equipo comercial de LIHE las condiciones escritas de la garantía junto con la cotización.",
+            "Un equipo técnico dedicado ofrece instalación del molde, apoyo en la puesta en marcha de la máquina y mantenimiento preventivo periódico.",
+            "Hay disponibles diagnóstico remoto, asistencia in situ, suministro de repuestos y programas de reacondicionamiento de moldes.",
+            "El plazo de LIHE para piezas de recambio es de 4 semanas.",
+            "Contacto: sales@lihe-preform.com o +886 938 198 675 (también WhatsApp)."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Con qué máquinas son compatibles los canales calientes de LIHE?",
+          "answer": "Con HUSKY, NETSTAL, KM, SIPA y otras máquinas de preformas, además de las principales máquinas de inyección de tapas."
+        },
+        {
+          "question": "¿Cuál es el número máximo de cavidades de un canal caliente de LIHE?",
+          "answer": "Hasta 144 cavidades en moldes de preforma PET y hasta 96 cavidades en moldes de tapas."
+        },
+        {
+          "question": "¿Puede LIHE suministrar repuestos para un canal caliente de otro fabricante?",
+          "answer": "LIHE suministra puntas de boquilla, agujas de válvula, resistencias y juntas de recambio y reacondiciona canales calientes existentes. Envíe la marca, el modelo y piezas de muestra o planos para confirmar la compatibilidad."
+        },
+        {
+          "question": "¿Qué cubre la garantía antifugas de 3 años?",
+          "answer": "Los canales calientes de LIHE con diseño tipo Husky Ultra tienen una garantía antifugas de 3 años. El equipo comercial de LIHE facilita las condiciones escritas junto con la cotización."
+        },
+        {
+          "question": "¿Cuándo conviene reacondicionar un canal caliente en lugar de repararlo?",
+          "answer": "Cuando aparecen fallos en varias zonas, las juntas empiezan a fugar o el canal caliente ha trabajado mucho tiempo sin una revisión completa. Una sola punta, aguja o resistencia defectuosa suele poder cambiarse como reparación puntual."
+        }
+      ]
+    }
+  }
+}

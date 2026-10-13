@@ -1,0 +1,468 @@
+{
+  "slug": "compatible-replacement-molds-for-pet-injection-systems",
+  "questionId": "q107",
+  "date": "2026-10-13",
+  "relatedProducts": [34, 19, 40],
+  "images": {
+    "hero": "/images/news/compatible-replacement-molds-for-pet-injection-systems-hero.webp",
+    "detail": "/images/news/compatible-replacement-molds-for-pet-injection-systems-detail.webp",
+    "og": "/images/news/compatible-replacement-molds-for-pet-injection-systems-hero-og.jpg"
+  },
+  "sources": [
+    { "label": "Wikipedia — Injection moulding", "url": "https://en.wikipedia.org/wiki/Injection_moulding" },
+    { "label": "Wikipedia — Preform", "url": "https://en.wikipedia.org/wiki/Preform" },
+    { "label": "Wikipedia — Original equipment manufacturer", "url": "https://en.wikipedia.org/wiki/Original_equipment_manufacturer" },
+    { "label": "Husky Technologies — official website (beverage preforms, PET tooling lifecycle solutions, parts, hot runner refurbishment)", "url": "https://www.husky.co/" },
+    { "label": "SIPA — official website (preform tooling, refurbishment and conversion, original spare parts)", "url": "https://sipasolutions.com/en/" },
+    { "label": "Netstal — official website (PET-Line, maintenance, modification, general overhaul)", "url": "https://www.netstal.com/en/" }
+  ],
+  "locales": {
+    "en": {
+      "category": "Technical Insights",
+      "title": "Where Can I Find Compatible Replacement Molds for an Existing PET Injection Molding System?",
+      "summary": "Compatible replacement molds for an existing PET injection molding system come from three places: the machine maker, independent preform mold makers and conversion specialists that build from your existing parts. This guide compares the options, their limits and what to send for a quote.",
+      "heroAlt": "Multi-cavity PET preform mold lifted by an overhead crane between the platens of an injection molding machine",
+      "detailAlt": "Replacement preform mold parts — cores, cavity inserts, neck rings and lock rings — on a granite inspection table",
+      "sections": [
+        {
+          "heading": "Where can I find compatible replacement molds for an existing PET injection molding system?",
+          "paragraphs": [
+            "You can find compatible replacement molds from three kinds of suppliers: the machine maker's own tooling and service division, independent PET preform mold makers that build to your machine's interface, and conversion specialists that manufacture new parts from your existing mold components. The right choice depends on whether you need an identical copy, a modified preform or a complete new mold, and on what your service contracts allow.",
+            "A compatible replacement mold is a preform mold, or a set of mold parts, made to fit an existing injection molding machine's platens, hot runner interface, cooling circuits and take-out system without modifying the machine itself.",
+            "Disclosure: this article is published by LIHE Precision. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China. We are an independent mold maker, not a machine OEM, and we describe machine makers only by what their own websites state."
+          ],
+          "list": [
+            "Machine OEM tooling: suits plants that want one supplier for machine and mold, or whose service agreement specifies OEM tooling.",
+            "Independent mold maker: suits plants that want a new mold, a different cavity count, a new neck finish or a lighter preform on a machine they already own.",
+            "Conversion from existing parts: suits plants that need worn cores, cavities, neck rings or lock rings replaced so they match the current mold exactly."
+          ]
+        },
+        {
+          "heading": "What “compatible” has to cover",
+          "paragraphs": [
+            "In injection molding the mold is only one part of a system. A replacement mold must work with every machine-side element it touches, and each of the points below should be checked against the real machine, not only against a catalogue model name."
+          ],
+          "list": [
+            "Machine interface: platen mounting pattern, locating ring, clamp stroke and mold shut height.",
+            "Hot runner interface: nozzle pitch, gate design, manifold layout, and heater and thermocouple wiring to the existing controller.",
+            "Cooling: water circuit layout, connectors and flow capacity for cores, cavities and neck rings.",
+            "Post-mold handling: cavity pitch and geometry that match the robot take-out plate and its cooling tubes.",
+            "Preform specification: neck finish (for example PCO 1881, 1716, 2925 or 38mm), wall thickness, weight and length.",
+            "Cavitation: the same cavity count as before, or a change that the machine's shot size and clamp force can support."
+          ]
+        },
+        {
+          "heading": "How we compare the options",
+          "paragraphs": [
+            "We compare the three sources on the same eight dimensions. Where a value is a LIHE figure, it comes from LIHE's published product and company pages. Where it concerns a machine OEM, we only repeat what the OEM's own website lists, and we cite that site in the references. Anything that is quoted per project is marked as such instead of estimated."
+          ],
+          "list": [
+            "Interface fit: how the supplier gets the machine data it designs against.",
+            "Input needed: what you must send before design work can start.",
+            "Lead time: published or quoted delivery time.",
+            "Cavity range and platforms: which machines and cavity counts are covered.",
+            "Quality evidence: capability data and inspection reports available to the buyer.",
+            "Hot runners: whether the supplier can also supply or refurbish the hot runner.",
+            "After-sales: installation, start-up and maintenance support.",
+            "Pricing: whether prices are published or quoted."
+          ]
+        },
+        {
+          "heading": "Replacement mold sources compared",
+          "table": {
+            "head": ["", "Machine OEM tooling", "Independent mold maker (general)", "LIHE Precision (published figures)"],
+            "rows": [
+              ["Interface fit", "Designed against the OEM's own machine data", "Depends on the maker's data and machine audits", "Built to the customer's machine; on-site machine interface audits offered"],
+              ["Input needed", "Machine details and preform drawing", "Preform drawing, machine data, often sample parts", "Preform drawing or sample, machine data, existing parts for conversions"],
+              ["Lead time", "Quoted per project", "Varies by supplier", "Pilot molds 20 days; standard PET molds 8 weeks; replacement parts 4 weeks"],
+              ["Cavity range", "According to the OEM's product range", "Varies by supplier", "2 to 160 cavities"],
+              ["Platforms covered", "Mainly the OEM's own machines", "Varies by supplier", "Husky, Netstal, SACMI, SIPA, Milacron and others"],
+              ["Quality evidence", "According to OEM documentation", "Ask for capability data and CMM reports", "CPK ≥ 1.33; Zeiss CMM inspection reports on request"],
+              ["Hot runners", "OEM hot runners and refurbishment, as listed on husky.co and sipasolutions.com", "Some makers build hot runners, many do not", "Valve gate hot runners up to 144 cavities; 3-year leakage-proof guarantee on the Husky Ultra-type design"],
+              ["Pricing", "Quoted per project", "Quoted per project", "No public price list; quoted per project"]
+            ]
+          }
+        },
+        {
+          "heading": "What the machine makers list on their own websites",
+          "paragraphs": [
+            "Machine makers are a legitimate first stop for replacement tooling. The summary below repeats only what each company's official website lists in its navigation as of October 2026; for details, go to the source."
+          ],
+          "list": [
+            "Husky (husky.co) lists beverage preform systems, PET tooling lifecycle solutions, Ultra hot runners, a parts ordering portal, hot runner refurbishment and upgrades.",
+            "SIPA (sipasolutions.com) lists preform tooling, blowing moulds, mould refurbishment and conversion, original spare parts and hot runner refurbishment.",
+            "Netstal (netstal.com) lists PET-Line preform machines and services including maintenance, process optimization, modification and general overhaul.",
+            "If your machine is under an OEM service contract, ask the OEM whether third-party tooling affects that contract. Only the OEM and your own agreement can answer that question."
+          ]
+        },
+        {
+          "heading": "Limitations of each option, including LIHE's",
+          "list": [
+            "OEM tooling: usually focused on the OEM's own platform, so a plant running machines from several brands may deal with several tooling suppliers.",
+            "Independent makers in general: quality and documentation vary widely, and the buyer carries the work of checking capability data, steel certificates and inspection reports.",
+            "Copying from worn parts: a part copied from a worn component can reproduce the wear. The original drawing or an unworn reference part gives a better result.",
+            "LIHE is a mold and tooling maker, not a machine OEM. We do not build injection molding machines and cannot supply machine-side spare parts, machine software or OEM machine warranties.",
+            "LIHE does not publish a price list. Every mold and conversion is quoted per project.",
+            "LIHE's standard PET mold lead time is 8 weeks. If a line is down today, a spare part already in stock somewhere may be faster than any new mold.",
+            "LIHE conversion parts are 100% interchangeable for Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps and Corvaglia systems. Platforms outside that list need a separate feasibility check before we can commit."
+          ]
+        },
+        {
+          "heading": "How to choose: a simple decision path",
+          "list": [
+            "Is the machine under an OEM contract that requires OEM tooling? If yes, start with the OEM.",
+            "Do you only need worn parts replaced to the current design? Use a conversion supplier that makes parts from your existing Husky, SACMI or Otto parts; LIHE's published lead time for replacement parts is 4 weeks.",
+            "Do you need a new neck finish, a lighter preform or a different cavity count? Use a maker with design and flow-analysis capability; LIHE lightweighting proposals reduce preform weight by 1g to 2g through neck or wall-thickness optimization.",
+            "Is the mold old but the machine still sound? Consider a retrofit before buying new; LIHE retrofits for lightweighting cost 25%–40% of a new mold price.",
+            "Do you want to test a new preform before committing to full cavitation? A pilot mold, which LIHE delivers in 20 days, lets you validate the design first."
+          ]
+        },
+        {
+          "heading": "Price and total cost of ownership",
+          "paragraphs": [
+            "No supplier can give a firm price without the preform drawing and machine data, so compare quotes on total cost over the mold's life rather than on mold price alone. These are the main cost drivers."
+          ],
+          "list": [
+            "Cavity count and pitch: more cavities mean more cores, cavities, neck rings and hot runner nozzles.",
+            "Hot runner: reusing and refurbishing the existing hot runner costs less than a new one if its condition allows.",
+            "Steel and wear life: steel is chosen for the resin, including rPET, and for the expected shot count. LIHE tooling is built to withstand up to 8 million shots on Husky, SACMI and Netstal platforms.",
+            "Cooling design: optimized cooling can reduce neck cooling time by up to 0.5 seconds, which affects output over the whole life of the mold.",
+            "Downtime: installation and start-up support shorten the time a machine is not producing.",
+            "Resin per preform: a 1g to 2g weight reduction is multiplied across every preform the mold makes."
+          ]
+        },
+        {
+          "heading": "How to request a compatible replacement mold",
+          "steps": [
+            "Collect machine data: brand, model, serial number, clamp force and the current mold's cavity count.",
+            "Send the preform drawing or a sample preform, including neck finish, target weight and any rPET content.",
+            "Share existing mold drawings, or send worn and unworn sample parts if you want parts made from existing components.",
+            "Describe the hot runner: make, nozzle count, controller, and whether it should be reused, refurbished or replaced.",
+            "Review the supplier's design, 3D simulation and flow analysis, and agree on acceptance criteria such as CPK values and CMM reports.",
+            "Plan installation and start-up with the supplier's technical team, and set a preventive maintenance schedule from the first production run."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Can a non-OEM preform mold run on a Husky, SACMI or Netstal machine?",
+          "answer": "Yes, if it is designed against the machine's actual interface, hot runner and take-out system. LIHE builds preform molds for Husky, Netstal, SACMI, SIPA, Milacron and other machines, and its tooling is built to withstand up to 8 million shots on Husky, SACMI and Netstal platforms. Check your service contract with the machine maker before ordering."
+        },
+        {
+          "question": "How long does a compatible replacement mold take?",
+          "answer": "At LIHE, pilot molds take 20 days, standard PET molds 8 weeks and replacement parts 4 weeks. Machine makers and other mold makers quote their own lead times per project."
+        },
+        {
+          "question": "Can I order only the worn parts instead of a full mold?",
+          "answer": "Yes. Cores, cavities, neck rings and lock rings can be replaced individually. LIHE makes replacement parts from customers' existing Husky, SACMI and Otto parts, and its conversion parts are 100% interchangeable for the systems listed in this article."
+        },
+        {
+          "question": "Does LIHE publish mold prices?",
+          "answer": "No. Every project is quoted after we receive the preform drawing and machine data. The one published cost figure is that retrofitting an existing mold for lightweighting costs 25%–40% of a new mold price."
+        },
+        {
+          "question": "Is LIHE a machine OEM?",
+          "answer": "No. LIHE is an independent manufacturer of molds, hot runners and mold components. It does not build injection molding machines and does not offer machine warranties."
+        }
+      ]
+    },
+    "ru": {
+      "category": "Технические статьи",
+      "title": "Где найти совместимые сменные пресс-формы для существующей системы литья ПЭТ под давлением?",
+      "summary": "Совместимые сменные пресс-формы для действующей системы литья ПЭТ можно получить у трёх типов поставщиков: производителя машины, независимых производителей пресс-форм для преформ и специалистов по конверсии, которые изготавливают детали по вашим существующим компонентам. В статье сравниваются эти варианты, их ограничения и данные, нужные для запроса цены.",
+      "heroAlt": "Многогнездная пресс-форма для ПЭТ-преформ, поднятая мостовым краном между плитами литьевой машины",
+      "detailAlt": "Сменные детали пресс-формы для преформ — пуансоны, матрицы, горловые кольца и запорные кольца — на гранитном контрольном столе",
+      "sections": [
+        {
+          "heading": "Где найти совместимые сменные пресс-формы для существующей системы литья ПЭТ под давлением?",
+          "paragraphs": [
+            "Совместимые сменные пресс-формы предлагают три типа поставщиков: инструментальное и сервисное подразделение производителя машины, независимые производители пресс-форм для ПЭТ-преформ, работающие по интерфейсу вашей машины, и специалисты по конверсии, изготавливающие новые детали по вашим существующим компонентам. Выбор зависит от того, нужна ли вам точная копия, изменённая преформа или полностью новая форма, а также от условий ваших сервисных договоров.",
+            "Совместимая сменная пресс-форма — это пресс-форма для преформ или комплект её деталей, изготовленный под плиты, интерфейс горячего канала, контуры охлаждения и систему съёма существующей литьевой машины без её доработки.",
+            "Раскрытие информации: статья опубликована LIHE Precision. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) — производитель пресс-форм для ПЭТ-преформ, выдувных форм, форм для колпачков и компрессионных форм, горячеканальных систем и комплектующих для производства напитков и упаковки, с производством в Фошане, Китай. Мы независимый производитель пресс-форм, а не производитель машин (OEM), и описываем производителей машин только по сведениям с их официальных сайтов."
+          ],
+          "list": [
+            "Оснастка от OEM машины: подходит заводам, которым нужен один поставщик машины и формы, или если сервисный договор предписывает оригинальную оснастку.",
+            "Независимый производитель пресс-форм: подходит заводам, которым нужна новая форма, другое число гнёзд, новая горловина или более лёгкая преформа на уже имеющейся машине.",
+            "Конверсия по существующим деталям: подходит, когда нужно заменить изношенные пуансоны, матрицы, горловые или запорные кольца точно под текущую форму."
+          ]
+        },
+        {
+          "heading": "Что должна охватывать «совместимость»",
+          "paragraphs": [
+            "При литье под давлением пресс-форма — лишь часть системы. Сменная форма должна работать со всеми элементами машины, с которыми она соприкасается, и каждый пункт ниже нужно проверять на реальной машине, а не только по названию модели в каталоге."
+          ],
+          "list": [
+            "Интерфейс машины: схема крепления к плитам, центрирующее кольцо, ход смыкания и монтажная высота формы.",
+            "Интерфейс горячего канала: шаг сопел, конструкция литника, схема коллектора, подключение нагревателей и термопар к существующему контроллеру.",
+            "Охлаждение: схема водяных контуров, разъёмы и пропускная способность для пуансонов, матриц и горловых колец.",
+            "Съём после литья: шаг и геометрия гнёзд, соответствующие плите робота-съёмника и её охлаждающим трубкам.",
+            "Спецификация преформы: горловина (например, PCO 1881, 1716, 2925 или 38mm), толщина стенки, масса и длина.",
+            "Число гнёзд: прежнее количество или изменение, которое выдержат объём впрыска и усилие смыкания машины."
+          ]
+        },
+        {
+          "heading": "Как мы сравниваем варианты",
+          "paragraphs": [
+            "Мы сравниваем три источника по одним и тем же восьми параметрам. Значения LIHE взяты с опубликованных страниц продукции и компании LIHE. Сведения об OEM-производителях машин повторяют только то, что указано на их официальных сайтах, которые приведены в списке источников. Всё, что рассчитывается индивидуально, так и отмечено, без оценок."
+          ],
+          "list": [
+            "Соответствие интерфейсу: откуда поставщик получает данные машины для проектирования.",
+            "Исходные данные: что нужно отправить до начала проектирования.",
+            "Срок поставки: опубликованный или указанный в предложении.",
+            "Диапазон гнёзд и платформы: какие машины и количества гнёзд охватываются.",
+            "Подтверждение качества: данные о воспроизводимости процесса и протоколы контроля для покупателя.",
+            "Горячие каналы: может ли поставщик также поставить или восстановить горячий канал.",
+            "Послепродажное обслуживание: монтаж, пуск и техническое обслуживание.",
+            "Цены: публикуются или рассчитываются по запросу."
+          ]
+        },
+        {
+          "heading": "Сравнение источников сменных пресс-форм",
+          "table": {
+            "head": ["", "Оснастка от OEM машины", "Независимый производитель (в целом)", "LIHE Precision (опубликованные данные)"],
+            "rows": [
+              ["Соответствие интерфейсу", "Проектируется по собственным данным OEM о машине", "Зависит от данных производителя и аудита машины", "Изготавливается под машину заказчика; предлагается аудит интерфейса машины на месте"],
+              ["Исходные данные", "Сведения о машине и чертёж преформы", "Чертёж преформы, данные машины, часто образцы деталей", "Чертёж или образец преформы, данные машины, существующие детали для конверсии"],
+              ["Срок поставки", "По индивидуальному предложению", "Зависит от поставщика", "Пилотные формы 20 дней; стандартные ПЭТ-формы 8 недель; сменные детали 4 недели"],
+              ["Диапазон гнёзд", "В рамках линейки OEM", "Зависит от поставщика", "От 2 до 160 гнёзд"],
+              ["Платформы", "В основном собственные машины OEM", "Зависит от поставщика", "Husky, Netstal, SACMI, SIPA, Milacron и другие"],
+              ["Подтверждение качества", "Согласно документации OEM", "Запросите данные о воспроизводимости и протоколы КИМ", "CPK ≥ 1,33; протоколы контроля на КИМ Zeiss по запросу"],
+              ["Горячие каналы", "Горячие каналы и их восстановление от OEM, как указано на husky.co и sipasolutions.com", "Одни производители делают горячие каналы, многие нет", "Горячие каналы с запорными иглами до 144 гнёзд; 3-летняя гарантия от протечек для конструкции типа Husky Ultra"],
+              ["Цены", "По индивидуальному предложению", "По индивидуальному предложению", "Прайс-лист не публикуется; расчёт по проекту"]
+            ]
+          }
+        },
+        {
+          "heading": "Что производители машин указывают на своих сайтах",
+          "paragraphs": [
+            "Производитель машины — вполне разумная первая точка обращения за сменной оснасткой. Ниже повторено только то, что указано в навигации официальных сайтов компаний по состоянию на октябрь 2026 года; подробности смотрите в первоисточнике."
+          ],
+          "list": [
+            "Husky (husky.co) указывает системы для производства преформ для напитков, решения по жизненному циклу ПЭТ-оснастки (PET tooling lifecycle solutions), горячие каналы Ultra, портал заказа запчастей, восстановление горячих каналов и модернизацию.",
+            "SIPA (sipasolutions.com) указывает оснастку для преформ, выдувные формы, восстановление и конверсию форм, оригинальные запчасти и восстановление горячих каналов.",
+            "Netstal (netstal.com) указывает машины PET-Line для преформ и услуги, включая техническое обслуживание, оптимизацию процесса, модификацию и капитальный ремонт.",
+            "Если машина находится на сервисном договоре OEM, уточните у OEM, влияет ли сторонняя оснастка на этот договор. Ответить на этот вопрос могут только OEM и ваш договор."
+          ]
+        },
+        {
+          "heading": "Ограничения каждого варианта, включая LIHE",
+          "list": [
+            "Оснастка OEM: обычно ориентирована на собственную платформу OEM, поэтому заводу с машинами разных марок, возможно, придётся работать с несколькими поставщиками оснастки.",
+            "Независимые производители в целом: качество и документация сильно различаются, и проверка данных о воспроизводимости, сертификатов на сталь и протоколов контроля ложится на покупателя.",
+            "Копирование по изношенным деталям: деталь, скопированная с изношенного компонента, может повторить износ. Оригинальный чертёж или неизношенная эталонная деталь дают лучший результат.",
+            "LIHE — производитель пресс-форм и оснастки, а не OEM машин. Мы не производим литьевые машины и не можем поставлять запчасти для машин, программное обеспечение машин или гарантии OEM на машины.",
+            "LIHE не публикует прайс-лист. Каждая форма и конверсия рассчитывается по проекту.",
+            "Стандартный срок изготовления ПЭТ-формы в LIHE — 8 недель. Если линия стоит сегодня, запасная деталь, уже имеющаяся где-то на складе, может оказаться быстрее любой новой формы.",
+            "Конверсионные детали LIHE на 100% взаимозаменяемы для систем Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps и Corvaglia. Для платформ вне этого списка нужна отдельная проверка осуществимости до принятия обязательств."
+          ]
+        },
+        {
+          "heading": "Как выбрать: простая схема решений",
+          "list": [
+            "Машина на договоре OEM, который требует оригинальную оснастку? Если да, начните с OEM.",
+            "Нужно только заменить изношенные детали по текущей конструкции? Обратитесь к поставщику конверсии, который делает детали по вашим существующим деталям Husky, SACMI или Otto; опубликованный срок LIHE для сменных деталей — 4 недели.",
+            "Нужна новая горловина, более лёгкая преформа или другое число гнёзд? Выбирайте производителя с возможностями проектирования и анализа течения расплава; предложения LIHE по облегчению снижают массу преформы на 1–2 г за счёт оптимизации горловины или толщины стенки.",
+            "Форма старая, а машина ещё в хорошем состоянии? Рассмотрите модернизацию до покупки новой; модернизация LIHE для облегчения стоит 25–40% от цены новой формы.",
+            "Хотите проверить новую преформу до заказа полной многогнездности? Пилотная форма, которую LIHE поставляет за 20 дней, позволяет сначала подтвердить конструкцию."
+          ]
+        },
+        {
+          "heading": "Цена и совокупная стоимость владения",
+          "paragraphs": [
+            "Ни один поставщик не назовёт твёрдую цену без чертежа преформы и данных машины, поэтому сравнивайте предложения по совокупной стоимости за весь срок службы формы, а не только по цене формы. Основные факторы стоимости:"
+          ],
+          "list": [
+            "Количество гнёзд и шаг: больше гнёзд — больше пуансонов, матриц, горловых колец и сопел горячего канала.",
+            "Горячий канал: повторное использование и восстановление существующего горячего канала обходится дешевле нового, если позволяет его состояние.",
+            "Сталь и ресурс: сталь подбирается под материал, включая rPET, и под ожидаемое число циклов. Оснастка LIHE рассчитана на ресурс до 8 миллионов циклов на платформах Husky, SACMI и Netstal.",
+            "Конструкция охлаждения: оптимизированное охлаждение может сократить время охлаждения горловины до 0,5 секунды, что влияет на выпуск за весь срок службы формы.",
+            "Простой: поддержка при монтаже и пуске сокращает время, когда машина не производит продукцию.",
+            "Материал на преформу: снижение массы на 1–2 г умножается на каждую преформу, выпущенную формой."
+          ]
+        },
+        {
+          "heading": "Как запросить совместимую сменную пресс-форму",
+          "steps": [
+            "Соберите данные машины: марку, модель, серийный номер, усилие смыкания и число гнёзд текущей формы.",
+            "Отправьте чертёж преформы или образец, включая горловину, целевую массу и долю rPET, если она есть.",
+            "Передайте чертежи существующей формы или отправьте изношенные и неизношенные образцы деталей, если детали нужно изготовить по существующим компонентам.",
+            "Опишите горячий канал: производителя, число сопел, контроллер и что требуется — повторное использование, восстановление или замена.",
+            "Проверьте конструкцию поставщика, 3D-моделирование и анализ течения расплава и согласуйте критерии приёмки, например значения CPK и протоколы КИМ.",
+            "Спланируйте монтаж и пуск с технической командой поставщика и установите график профилактического обслуживания с первой производственной партии."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Может ли пресс-форма для преформ не от OEM работать на машине Husky, SACMI или Netstal?",
+          "answer": "Да, если она спроектирована под фактический интерфейс машины, горячий канал и систему съёма. LIHE производит пресс-формы для преформ для машин Husky, Netstal, SACMI, SIPA, Milacron и других, а её оснастка рассчитана на ресурс до 8 миллионов циклов на платформах Husky, SACMI и Netstal. Перед заказом проверьте сервисный договор с производителем машины."
+        },
+        {
+          "question": "Сколько времени занимает изготовление совместимой сменной формы?",
+          "answer": "В LIHE пилотные формы изготавливаются за 20 дней, стандартные ПЭТ-формы — за 8 недель, сменные детали — за 4 недели. Производители машин и другие изготовители форм указывают свои сроки в индивидуальных предложениях."
+        },
+        {
+          "question": "Можно ли заказать только изношенные детали вместо целой формы?",
+          "answer": "Да. Пуансоны, матрицы, горловые и запорные кольца можно заменять по отдельности. LIHE изготавливает сменные детали по существующим деталям заказчика Husky, SACMI и Otto, а её конверсионные детали на 100% взаимозаменяемы для систем, перечисленных в статье."
+        },
+        {
+          "question": "Публикует ли LIHE цены на пресс-формы?",
+          "answer": "Нет. Каждый проект рассчитывается после получения чертежа преформы и данных машины. Единственный опубликованный показатель стоимости: модернизация существующей формы для облегчения стоит 25–40% от цены новой формы."
+        },
+        {
+          "question": "Является ли LIHE производителем машин (OEM)?",
+          "answer": "Нет. LIHE — независимый производитель пресс-форм, горячих каналов и комплектующих для форм. Компания не производит литьевые машины и не предоставляет гарантий на машины."
+        }
+      ]
+    },
+    "es": {
+      "category": "Artículos técnicos",
+      "title": "¿Dónde puedo encontrar moldes de reemplazo compatibles para un sistema existente de inyección de PET?",
+      "summary": "Los moldes de reemplazo compatibles para un sistema existente de inyección de PET provienen de tres fuentes: el fabricante de la máquina, fabricantes independientes de moldes de preforma y especialistas en conversión que fabrican a partir de sus piezas existentes. Esta guía compara las opciones, sus límites y lo que debe enviar para pedir una cotización.",
+      "heroAlt": "Molde de preformas PET de múltiples cavidades elevado por una grúa puente entre los platos de una inyectora",
+      "detailAlt": "Piezas de reemplazo de un molde de preformas — machos, insertos de cavidad, anillos de cuello y anillos de bloqueo — sobre una mesa de inspección de granito",
+      "sections": [
+        {
+          "heading": "¿Dónde puedo encontrar moldes de reemplazo compatibles para un sistema existente de inyección de PET?",
+          "paragraphs": [
+            "Puede obtener moldes de reemplazo compatibles de tres tipos de proveedores: la división de utillaje y servicio del fabricante de la máquina, fabricantes independientes de moldes de preforma PET que trabajan según la interfaz de su máquina y especialistas en conversión que fabrican piezas nuevas a partir de los componentes de su molde actual. La elección depende de si necesita una copia idéntica, una preforma modificada o un molde completamente nuevo, y de lo que permitan sus contratos de servicio.",
+            "Un molde de reemplazo compatible es un molde de preforma, o un juego de piezas de molde, fabricado para encajar en los platos, la interfaz de canal caliente, los circuitos de refrigeración y el sistema de extracción de una inyectora existente sin modificar la máquina.",
+            "Aviso: este artículo lo publica LIHE Precision. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) es un fabricante de moldes de preforma PET, moldes de soplado, moldes de tapas y de compresión, sistemas de canal caliente y componentes de molde para la industria de bebidas y envases, con fabricación en Foshan, China. Somos un fabricante independiente de moldes, no un fabricante de máquinas (OEM), y describimos a los fabricantes de máquinas solo con lo que indican sus sitios web oficiales."
+          ],
+          "list": [
+            "Utillaje del OEM de la máquina: conviene a plantas que quieren un único proveedor de máquina y molde, o cuyo contrato de servicio exige utillaje original.",
+            "Fabricante independiente de moldes: conviene a plantas que quieren un molde nuevo, otro número de cavidades, un cuello nuevo o una preforma más ligera en la máquina que ya tienen.",
+            "Conversión a partir de piezas existentes: conviene cuando hay que sustituir machos, cavidades, anillos de cuello o anillos de bloqueo desgastados para que coincidan exactamente con el molde actual."
+          ]
+        },
+        {
+          "heading": "Qué debe cubrir la «compatibilidad»",
+          "paragraphs": [
+            "En el moldeo por inyección, el molde es solo una parte del sistema. Un molde de reemplazo debe funcionar con cada elemento de la máquina con el que tiene contacto, y cada punto de la lista debe comprobarse en la máquina real, no solo con el nombre del modelo en un catálogo."
+          ],
+          "list": [
+            "Interfaz de la máquina: patrón de fijación a los platos, anillo de centrado, carrera de cierre y altura del molde.",
+            "Interfaz de canal caliente: paso de boquillas, diseño de la entrada, disposición del distribuidor y cableado de resistencias y termopares al controlador existente.",
+            "Refrigeración: disposición de los circuitos de agua, conectores y caudal para machos, cavidades y anillos de cuello.",
+            "Manipulación posterior: paso y geometría de cavidades que coincidan con la placa del robot de extracción y sus tubos de enfriamiento.",
+            "Especificación de la preforma: acabado de cuello (por ejemplo PCO 1881, 1716, 2925 o 38mm), espesor de pared, peso y longitud.",
+            "Número de cavidades: el mismo que antes, o un cambio que soporten el volumen de inyección y la fuerza de cierre de la máquina."
+          ]
+        },
+        {
+          "heading": "Cómo comparamos las opciones",
+          "paragraphs": [
+            "Comparamos las tres fuentes con los mismos ocho criterios. Cuando un valor es de LIHE, procede de las páginas publicadas de productos y empresa de LIHE. Cuando se refiere a un OEM de máquinas, solo repetimos lo que indica su sitio web oficial y lo citamos en las referencias. Lo que se cotiza por proyecto se indica así, sin estimaciones."
+          ],
+          "list": [
+            "Ajuste de interfaz: de dónde obtiene el proveedor los datos de la máquina con los que diseña.",
+            "Información necesaria: qué debe enviar antes de que empiece el diseño.",
+            "Plazo de entrega: publicado o indicado en la cotización.",
+            "Rango de cavidades y plataformas: qué máquinas y números de cavidades se cubren.",
+            "Evidencia de calidad: datos de capacidad de proceso e informes de inspección disponibles para el comprador.",
+            "Canales calientes: si el proveedor también puede suministrar o reacondicionar el canal caliente.",
+            "Posventa: instalación, puesta en marcha y mantenimiento.",
+            "Precios: si se publican o se cotizan."
+          ]
+        },
+        {
+          "heading": "Comparación de fuentes de moldes de reemplazo",
+          "table": {
+            "head": ["", "Utillaje del OEM de la máquina", "Fabricante independiente (en general)", "LIHE Precision (datos publicados)"],
+            "rows": [
+              ["Ajuste de interfaz", "Diseñado con los datos propios del OEM sobre la máquina", "Depende de los datos del fabricante y de auditorías de la máquina", "Fabricado para la máquina del cliente; se ofrecen auditorías de interfaz en planta"],
+              ["Información necesaria", "Datos de la máquina y plano de la preforma", "Plano de la preforma, datos de la máquina, a menudo piezas de muestra", "Plano o muestra de preforma, datos de la máquina, piezas existentes para conversiones"],
+              ["Plazo de entrega", "Cotizado por proyecto", "Varía según el proveedor", "Moldes piloto 20 días; moldes PET estándar 8 semanas; piezas de reemplazo 4 semanas"],
+              ["Rango de cavidades", "Según la gama del OEM", "Varía según el proveedor", "De 2 a 160 cavidades"],
+              ["Plataformas", "Principalmente las máquinas propias del OEM", "Varía según el proveedor", "Husky, Netstal, SACMI, SIPA, Milacron y otras"],
+              ["Evidencia de calidad", "Según la documentación del OEM", "Solicite datos de capacidad e informes de MMC", "CPK ≥ 1,33; informes de inspección con MMC Zeiss bajo pedido"],
+              ["Canales calientes", "Canales calientes y reacondicionamiento del OEM, según husky.co y sipasolutions.com", "Algunos fabricantes los hacen, muchos no", "Canales calientes de válvula hasta 144 cavidades; garantía antifugas de 3 años en el diseño tipo Husky Ultra"],
+              ["Precios", "Cotizado por proyecto", "Cotizado por proyecto", "Sin lista de precios pública; cotización por proyecto"]
+            ]
+          }
+        },
+        {
+          "heading": "Lo que los fabricantes de máquinas indican en sus sitios web",
+          "paragraphs": [
+            "El fabricante de la máquina es una primera opción legítima para el utillaje de reemplazo. El resumen siguiente repite solo lo que indica la navegación del sitio web oficial de cada empresa en octubre de 2026; para más detalles, consulte la fuente."
+          ],
+          "list": [
+            "Husky (husky.co) presenta sistemas para preformas de bebidas, soluciones de ciclo de vida para utillaje PET (PET tooling lifecycle solutions), canales calientes Ultra, un portal de pedido de repuestos, reacondicionamiento de canales calientes y actualizaciones.",
+            "SIPA (sipasolutions.com) presenta utillaje para preformas, moldes de soplado, reacondicionamiento y conversión de moldes, repuestos originales y reacondicionamiento de canales calientes.",
+            "Netstal (netstal.com) presenta las máquinas PET-Line para preformas y servicios que incluyen mantenimiento, optimización de procesos, modificación y revisión general.",
+            "Si su máquina tiene un contrato de servicio con el OEM, pregunte al OEM si el utillaje de terceros afecta a ese contrato. Solo el OEM y su propio contrato pueden responder a esa pregunta."
+          ]
+        },
+        {
+          "heading": "Limitaciones de cada opción, incluidas las de LIHE",
+          "list": [
+            "Utillaje del OEM: suele centrarse en la plataforma propia del OEM, por lo que una planta con máquinas de varias marcas puede tratar con varios proveedores de utillaje.",
+            "Fabricantes independientes en general: la calidad y la documentación varían mucho, y el comprador asume el trabajo de revisar datos de capacidad, certificados del acero e informes de inspección.",
+            "Copiar piezas desgastadas: una pieza copiada de un componente desgastado puede reproducir el desgaste. El plano original o una pieza de referencia sin desgaste da mejor resultado.",
+            "LIHE es un fabricante de moldes y utillaje, no un OEM de máquinas. No fabricamos inyectoras y no podemos suministrar repuestos del lado de la máquina, software de la máquina ni garantías de máquina del OEM.",
+            "LIHE no publica una lista de precios. Cada molde y cada conversión se cotiza por proyecto.",
+            "El plazo estándar de LIHE para un molde PET es de 8 semanas. Si una línea está parada hoy, un repuesto ya disponible en algún almacén puede ser más rápido que cualquier molde nuevo.",
+            "Las piezas de conversión de LIHE son 100% intercambiables para sistemas Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps y Corvaglia. Las plataformas fuera de esa lista requieren un estudio de viabilidad aparte antes de comprometernos."
+          ]
+        },
+        {
+          "heading": "Cómo elegir: una ruta de decisión sencilla",
+          "list": [
+            "¿La máquina tiene un contrato con el OEM que exige utillaje original? Si es así, empiece por el OEM.",
+            "¿Solo necesita sustituir piezas desgastadas con el diseño actual? Recurra a un proveedor de conversión que fabrique piezas a partir de sus piezas existentes de Husky, SACMI u Otto; el plazo publicado por LIHE para piezas de reemplazo es de 4 semanas.",
+            "¿Necesita un cuello nuevo, una preforma más ligera u otro número de cavidades? Elija un fabricante con capacidad de diseño y análisis de flujo; las propuestas de aligeramiento de LIHE reducen el peso de la preforma entre 1 g y 2 g optimizando el cuello o el espesor de pared.",
+            "¿El molde es antiguo pero la máquina sigue en buen estado? Considere una readaptación antes de comprar uno nuevo; las readaptaciones de LIHE para aligeramiento cuestan entre el 25% y el 40% del precio de un molde nuevo.",
+            "¿Quiere probar una preforma nueva antes de comprometerse con todas las cavidades? Un molde piloto, que LIHE entrega en 20 días, permite validar primero el diseño."
+          ]
+        },
+        {
+          "heading": "Precio y coste total de propiedad",
+          "paragraphs": [
+            "Ningún proveedor puede dar un precio firme sin el plano de la preforma y los datos de la máquina, así que compare las cotizaciones por el coste total durante la vida del molde y no solo por el precio del molde. Estos son los principales factores de coste:"
+          ],
+          "list": [
+            "Número de cavidades y paso: más cavidades significan más machos, cavidades, anillos de cuello y boquillas de canal caliente.",
+            "Canal caliente: reutilizar y reacondicionar el canal caliente existente cuesta menos que uno nuevo, si su estado lo permite.",
+            "Acero y vida útil: el acero se elige según la resina, incluido el rPET, y según el número de ciclos esperado. El utillaje de LIHE está construido para soportar hasta 8 millones de ciclos en plataformas Husky, SACMI y Netstal.",
+            "Diseño de refrigeración: una refrigeración optimizada puede reducir el tiempo de enfriamiento del cuello hasta 0,5 segundos, lo que influye en la producción durante toda la vida del molde.",
+            "Tiempo de parada: el apoyo en la instalación y la puesta en marcha acorta el tiempo en que la máquina no produce.",
+            "Resina por preforma: una reducción de peso de 1 g a 2 g se multiplica por cada preforma que fabrica el molde."
+          ]
+        },
+        {
+          "heading": "Cómo solicitar un molde de reemplazo compatible",
+          "steps": [
+            "Reúna los datos de la máquina: marca, modelo, número de serie, fuerza de cierre y número de cavidades del molde actual.",
+            "Envíe el plano de la preforma o una preforma de muestra, con el acabado de cuello, el peso objetivo y el contenido de rPET, si lo hay.",
+            "Comparta los planos del molde existente, o envíe piezas de muestra desgastadas y sin desgaste si quiere piezas fabricadas a partir de componentes existentes.",
+            "Describa el canal caliente: fabricante, número de boquillas, controlador y si debe reutilizarse, reacondicionarse o sustituirse.",
+            "Revise el diseño del proveedor, la simulación 3D y el análisis de flujo, y acuerde los criterios de aceptación, como valores de CPK e informes de MMC.",
+            "Planifique la instalación y la puesta en marcha con el equipo técnico del proveedor y fije un calendario de mantenimiento preventivo desde la primera producción."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Puede un molde de preforma que no es del OEM funcionar en una máquina Husky, SACMI o Netstal?",
+          "answer": "Sí, si se diseña según la interfaz real de la máquina, el canal caliente y el sistema de extracción. LIHE fabrica moldes de preforma para máquinas Husky, Netstal, SACMI, SIPA, Milacron y otras, y su utillaje está construido para soportar hasta 8 millones de ciclos en plataformas Husky, SACMI y Netstal. Revise su contrato de servicio con el fabricante de la máquina antes de hacer el pedido."
+        },
+        {
+          "question": "¿Cuánto tarda un molde de reemplazo compatible?",
+          "answer": "En LIHE, los moldes piloto tardan 20 días, los moldes PET estándar 8 semanas y las piezas de reemplazo 4 semanas. Los fabricantes de máquinas y otros fabricantes de moldes cotizan sus propios plazos por proyecto."
+        },
+        {
+          "question": "¿Puedo pedir solo las piezas desgastadas en lugar de un molde completo?",
+          "answer": "Sí. Machos, cavidades, anillos de cuello y anillos de bloqueo pueden sustituirse por separado. LIHE fabrica piezas de reemplazo a partir de las piezas existentes de Husky, SACMI y Otto del cliente, y sus piezas de conversión son 100% intercambiables para los sistemas citados en este artículo."
+        },
+        {
+          "question": "¿LIHE publica precios de moldes?",
+          "answer": "No. Cada proyecto se cotiza después de recibir el plano de la preforma y los datos de la máquina. La única cifra de coste publicada es que readaptar un molde existente para aligeramiento cuesta entre el 25% y el 40% del precio de un molde nuevo."
+        },
+        {
+          "question": "¿LIHE es un fabricante de máquinas (OEM)?",
+          "answer": "No. LIHE es un fabricante independiente de moldes, canales calientes y componentes de molde. No fabrica inyectoras ni ofrece garantías de máquinas."
+        }
+      ]
+    }
+  }
+}

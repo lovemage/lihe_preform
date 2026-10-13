@@ -1,0 +1,359 @@
+{
+  "key": "product-34",
+  "updated": "2026-10-13",
+  "sources": [
+    { "label": "Wikipedia — Preform", "url": "https://en.wikipedia.org/wiki/Preform" },
+    { "label": "Wikipedia — Polyethylene terephthalate", "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate" },
+    { "label": "Wikipedia — PET bottle recycling", "url": "https://en.wikipedia.org/wiki/PET_bottle_recycling" },
+    { "label": "Wikipedia — Injection mold construction", "url": "https://en.wikipedia.org/wiki/Injection_mold_construction" },
+    { "label": "Wikipedia — Conformal cooling channel", "url": "https://en.wikipedia.org/wiki/Conformal_cooling_channel" },
+    { "label": "Husky Technologies", "url": "https://www.husky.co/" }
+  ],
+  "locales": {
+    "en": {
+      "heading": "PET preform mold conversion guide: replacement parts, neck finish conversion, lightweight preforms and cooling upgrades",
+      "intro": "A tooling conversion is a project that changes or renews the stack parts of an existing PET preform mold — instead of buying a complete new mold — to replace worn parts, change the neck finish, reduce preform weight or shorten the cycle. This guide sorts conversion work into four project types and lists what is needed for each, so a plant can prepare the right data before asking for a quotation. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China.",
+      "sections": [
+        {
+          "heading": "Four types of preform mold conversion projects compared",
+          "paragraphs": [
+            "Most conversion requests fall into one of the four types below. Several can be combined in one project — for example, a neck finish change that also reduces preform weight."
+          ],
+          "table": {
+            "head": ["Project type", "Goal", "Parts usually changed", "Key input from the customer"],
+            "rows": [
+              ["Like-for-like replacement", "Restore a worn mold to original condition", "Worn cores, cavities, neck rings, gate inserts, lock rings", "Sample parts or drawings, mold make and serial number"],
+              ["Neck finish conversion", "Change to a different closure, e.g. PCO 1810 to PCO 1881", "Neck rings, often cores and cavity top parts", "New finish drawing, closure sample, capper details"],
+              ["Lightweighting", "Reduce preform weight by 1g to 2g", "Cores and/or cavities, sometimes neck rings", "Bottle drawing, current preform, bottle performance targets"],
+              ["Cooling upgrade", "Shorten cooling and cycle time", "Stack parts with revised cooling, neck rings", "Current cycle data, water temperature and flow, known defects"]
+            ]
+          }
+        },
+        {
+          "heading": "Like-for-like replacement parts for Husky, SACMI and Otto molds",
+          "paragraphs": [
+            "Like-for-like replacement means making new stack parts that fit an existing mold without changes to the mold plates or hot runner. LIHE works from the customer's existing Husky, SACMI or Otto parts and supplies the same tooling parts for direct replacement. Conversion parts are 100% interchangeable for Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps and Corvaglia systems."
+          ],
+          "list": [
+            "Send one set of sample parts (or full drawings) for each part to be copied.",
+            "State the mold make, cavitation, machine model and the preform produced.",
+            "List the quantity per part, including spares to keep in stock.",
+            "Report known problems with the current parts, so they are not copied into the new ones.",
+            "Plan for the LIHE replacement parts lead time of 4 weeks."
+          ]
+        },
+        {
+          "heading": "Neck finish conversion, for example PCO 1810 to PCO 1881",
+          "paragraphs": [
+            "A neck finish conversion changes the threaded top of the preform so the bottle can use a different closure. Because the neck is formed by the neck rings and the top of the core, these parts are always replaced; the cavity and cavity-side parts may also change if the preform body changes. LIHE supports special neck finishes such as PCO 1881 and 29/25 as well as production line conversions.",
+            "A neck change also affects equipment outside the mold. Blow molders and conveyors handle bottles by the neck, so neck grippers, guides and star wheels may need new parts as well."
+          ],
+          "list": [
+            "Finish drawing of the new neck and a sample of the new closure.",
+            "Capper model and the closure supplier's application data.",
+            "Preform drawing for the converted preform and the bottle it must produce.",
+            "List of handling parts on the blow molder and filler that touch the neck."
+          ]
+        },
+        {
+          "heading": "Lightweight preform conversion and rPET",
+          "paragraphs": [
+            "Lightweighting removes resin from the preform while keeping the bottle within its performance limits. LIHE lightweighting proposals reduce preform weight by 1g to 2g through neck or wall-thickness optimization. Retrofitting an existing mold for lightweighting costs only 25%–40% of a new mold price, with a short payback period because resin savings start with the first production run.",
+            "Lighter preforms change how the bottle blows, so the project should include blow trials on the customer's blow molder. When the plant is moving to recycled PET, LIHE can include rPET material trials in the same project."
+          ],
+          "list": [
+            "Bottle drawing and current preform drawing with actual weight.",
+            "Performance targets for the bottle, such as top load, burst or filling conditions.",
+            "Blow molder model and current blowing parameters.",
+            "Resin grade and planned rPET content."
+          ]
+        },
+        {
+          "heading": "Cooling upgrade to shorten preform cycle time",
+          "paragraphs": [
+            "A cooling upgrade redesigns how heat leaves the stack — typically around the neck, which is the thickest part of the preform. LIHE optimizes cooling efficiency and blowing conditions to shorten cycle times; optimized cooling can reduce neck cooling time by up to 0.5 seconds. The resulting cycle depends on the full system, so LIHE does not quote cycle times without the customer's data."
+          ],
+          "list": [
+            "Current cycle time broken down into injection, hold, cooling and mold open time.",
+            "Cooling water temperature, flow and water treatment at the mold.",
+            "Defects that appear when the cycle is shortened (for example ovality or gate marks).",
+            "Machine model and post-mold cooling layout."
+          ]
+        },
+        {
+          "heading": "How a tooling conversion project runs, step by step",
+          "steps": [
+            "Define the goal: replacement, neck finish change, weight reduction, cooling upgrade or a combination.",
+            "Send drawings, sample parts and production data listed for that project type.",
+            "LIHE reviews the mold and, if needed, carries out an on-site machine interface audit.",
+            "Agree the converted preform design and the parts list, then confirm price and lead time.",
+            "LIHE designs with CAD/CAM, 3D simulation and flow analysis, then machines the parts.",
+            "Parts are inspected on the Zeiss CMM; inspection reports are supplied on request.",
+            "Install the parts, run samples and blow trials, and approve the converted mold for production."
+          ]
+        },
+        {
+          "heading": "Conversion or new mold: how to decide",
+          "list": [
+            "Conversion is usually the better choice when mold plates and hot runner are in good condition and only stack parts need to change.",
+            "A new mold is usually needed when cavitation or machine platform changes, or when the base mold is beyond repair.",
+            "For aging molds, LIHE also offers project retrofitting: complete mold overhauls and performance upgrades to restore aging assets to OEM-level efficiency.",
+            "Compare the conversion cost (25%–40% of a new mold for lightweighting retrofits) with the resin savings and remaining mold life."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Do I need to send the original drawings for replacement parts?",
+          "answer": "No. LIHE can work from your existing parts from Husky, SACMI or Otto molds. Drawings help, but sample parts are enough to produce the same tooling parts."
+        },
+        {
+          "question": "Are converted parts interchangeable with the original parts?",
+          "answer": "Yes. LIHE conversion parts are 100% interchangeable for Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps and Corvaglia systems."
+        },
+        {
+          "question": "How much weight can a lightweighting conversion remove?",
+          "answer": "LIHE lightweighting proposals reduce preform weight by 1g to 2g through neck or wall-thickness optimization. The achievable amount depends on the bottle and its performance requirements."
+        },
+        {
+          "question": "What does a lightweighting retrofit cost compared with a new mold?",
+          "answer": "Retrofitting an existing mold for lightweighting costs 25%–40% of a new mold price."
+        },
+        {
+          "question": "How long does a conversion take?",
+          "answer": "Replacement parts have a 4-week lead time at LIHE. Larger conversion projects are scheduled after the design is agreed."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "Переоснащение пресс-форм для ПЭТ-преформ: запасные части, смена горловины, облегчение преформы и модернизация охлаждения",
+      "intro": "Переоснащение — это проект, при котором заменяют или обновляют детали формообразующих пакетов существующей пресс-формы для ПЭТ-преформ вместо покупки новой формы, чтобы заменить изношенные детали, сменить горловину, снизить вес преформы или сократить цикл. В этом руководстве работы по переоснащению разделены на четыре типа проектов и для каждого указано, что нужно подготовить, чтобы завод мог собрать нужные данные до запроса цены. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) — производитель пресс-форм для ПЭТ-преформ, выдувных форм, форм для колпачков и компрессионных форм, горячеканальных систем и комплектующих для производства напитков и упаковки, с производством в Фошане, Китай.",
+      "sections": [
+        {
+          "heading": "Сравнение четырёх типов проектов переоснащения пресс-форм",
+          "paragraphs": [
+            "Большинство запросов на переоснащение относятся к одному из четырёх типов ниже. Несколько типов можно объединить в одном проекте — например, смену горловины вместе со снижением веса преформы."
+          ],
+          "table": {
+            "head": ["Тип проекта", "Цель", "Обычно заменяемые детали", "Ключевые данные от заказчика"],
+            "rows": [
+              ["Замена «один к одному»", "Вернуть изношенную форму в исходное состояние", "Изношенные пуансоны, матрицы, горловые кольца, литниковые вставки, запорные кольца", "Образцы деталей или чертежи, производитель и серийный номер формы"],
+              ["Смена горловины", "Переход на другой колпачок, например с PCO 1810 на PCO 1881", "Горловые кольца, часто пуансоны и верхние детали матрицы", "Чертёж новой горловины, образец колпачка, данные укупорщика"],
+              ["Облегчение преформы", "Снизить вес преформы на 1–2 г", "Пуансоны и/или матрицы, иногда горловые кольца", "Чертёж бутылки, текущая преформа, требования к бутылке"],
+              ["Модернизация охлаждения", "Сократить время охлаждения и цикла", "Детали пакета с новым охлаждением, горловые кольца", "Данные текущего цикла, температура и расход воды, известные дефекты"]
+            ]
+          }
+        },
+        {
+          "heading": "Запасные части «один к одному» для форм Husky, SACMI и Otto",
+          "paragraphs": [
+            "Замена «один к одному» означает изготовление новых деталей пакета, которые устанавливаются в существующую форму без изменения плит или горячеканальной системы. LIHE работает по существующим деталям заказчика от форм Husky, SACMI или Otto и поставляет такие же детали для прямой замены. Детали для переоснащения на 100% взаимозаменяемы для систем Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps и Corvaglia."
+          ],
+          "list": [
+            "Отправьте по одному комплекту образцов (или полные чертежи) для каждой копируемой детали.",
+            "Укажите производителя формы, гнездность, модель машины и выпускаемую преформу.",
+            "Укажите количество по каждой детали, включая запас на складе.",
+            "Сообщите об известных проблемах текущих деталей, чтобы не перенести их в новые.",
+            "Учитывайте срок изготовления запасных частей LIHE — 4 недели."
+          ]
+        },
+        {
+          "heading": "Смена горловины, например с PCO 1810 на PCO 1881",
+          "paragraphs": [
+            "Смена горловины изменяет резьбовую часть преформы, чтобы бутылка работала с другим колпачком. Горловина формируется горловыми кольцами и верхней частью пуансона, поэтому эти детали всегда заменяются; матрица и детали со стороны матрицы могут меняться, если меняется корпус преформы. LIHE работает со специальными горловинами, например PCO 1881 и 29/25, и выполняет переналадку производственных линий.",
+            "Смена горловины влияет и на оборудование за пределами формы. Выдувные машины и конвейеры захватывают бутылку за горло, поэтому захваты горловины, направляющие и звёздочки тоже могут потребовать новых деталей."
+          ],
+          "list": [
+            "Чертёж новой горловины и образец нового колпачка.",
+            "Модель укупорщика и данные поставщика колпачков по укупорке.",
+            "Чертёж новой преформы и бутылки, которую она должна давать.",
+            "Перечень деталей выдувной машины и розлива, контактирующих с горлом."
+          ]
+        },
+        {
+          "heading": "Облегчение преформы и переход на rPET",
+          "paragraphs": [
+            "Облегчение убирает смолу из преформы, сохраняя характеристики бутылки в допустимых пределах. Предложения LIHE по облегчению снижают вес преформы на 1–2 г за счёт оптимизации горловины или толщины стенки. Переделка существующей формы под облегчение стоит лишь 25%–40% цены новой формы и быстро окупается, так как экономия смолы начинается с первой производственной партии.",
+            "Более лёгкая преформа иначе раздувается, поэтому проект должен включать пробный раздув на выдувной машине заказчика. Если завод переходит на вторичный ПЭТ, LIHE может провести испытания с rPET в рамках того же проекта."
+          ],
+          "list": [
+            "Чертёж бутылки и текущей преформы с фактическим весом.",
+            "Требования к бутылке, например нагрузка сверху, давление разрыва или условия розлива.",
+            "Модель выдувной машины и текущие параметры раздува.",
+            "Марка смолы и планируемая доля rPET."
+          ]
+        },
+        {
+          "heading": "Модернизация охлаждения для сокращения времени цикла",
+          "paragraphs": [
+            "Модернизация охлаждения меняет путь отвода тепла от пакета — как правило, в зоне горловины, самой толстой части преформы. LIHE оптимизирует эффективность охлаждения и условия раздува для сокращения цикла; оптимизированное охлаждение позволяет сократить время охлаждения горловины до 0,5 секунды. Итоговый цикл зависит от всей системы, поэтому LIHE не называет время цикла без данных заказчика."
+          ],
+          "list": [
+            "Текущее время цикла с разбивкой на впрыск, выдержку, охлаждение и раскрытие формы.",
+            "Температура, расход и водоподготовка охлаждающей воды на форме.",
+            "Дефекты, возникающие при сокращении цикла (например, овальность или следы литника).",
+            "Модель машины и схема охлаждения после извлечения."
+          ]
+        },
+        {
+          "heading": "Как проходит проект переоснащения: шаг за шагом",
+          "steps": [
+            "Определите цель: замена, смена горловины, снижение веса, модернизация охлаждения или их сочетание.",
+            "Отправьте чертежи, образцы деталей и производственные данные для выбранного типа проекта.",
+            "LIHE анализирует форму и при необходимости проводит аудит интерфейса машины на месте.",
+            "Согласуйте конструкцию новой преформы и перечень деталей, затем подтвердите цену и срок.",
+            "LIHE проектирует с использованием CAD/CAM, 3D-моделирования и анализа течения, затем изготавливает детали.",
+            "Детали проверяются на КИМ Zeiss; отчёты о контроле предоставляются по запросу.",
+            "Установите детали, проведите отбор образцов и пробный раздув и утвердите переоснащённую форму для производства."
+          ]
+        },
+        {
+          "heading": "Переоснащение или новая форма: как решить",
+          "list": [
+            "Переоснащение обычно выгоднее, если плиты формы и горячеканальная система в хорошем состоянии и менять нужно только детали пакетов.",
+            "Новая форма обычно нужна при изменении гнездности или платформы машины, а также если основа формы не подлежит ремонту.",
+            "Для стареющих форм LIHE также выполняет модернизацию: полный капитальный ремонт и улучшение характеристик для восстановления эффективности до уровня оригинального оборудования.",
+            "Сравните стоимость переоснащения (25%–40% цены новой формы для облегчения) с экономией смолы и оставшимся ресурсом формы."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Нужны ли оригинальные чертежи для изготовления запасных частей?",
+          "answer": "Нет. LIHE может работать по вашим существующим деталям от форм Husky, SACMI или Otto. Чертежи полезны, но образцов деталей достаточно для изготовления таких же деталей."
+        },
+        {
+          "question": "Взаимозаменяемы ли новые детали с оригинальными?",
+          "answer": "Да. Детали LIHE для переоснащения на 100% взаимозаменяемы для систем Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps и Corvaglia."
+        },
+        {
+          "question": "На сколько можно снизить вес преформы при облегчении?",
+          "answer": "Предложения LIHE снижают вес преформы на 1–2 г за счёт оптимизации горловины или толщины стенки. Достижимое значение зависит от бутылки и требований к ней."
+        },
+        {
+          "question": "Сколько стоит переделка под облегчение по сравнению с новой формой?",
+          "answer": "Переделка существующей формы под облегчение стоит 25%–40% цены новой формы."
+        },
+        {
+          "question": "Сколько времени занимает переоснащение?",
+          "answer": "Срок изготовления запасных частей в LIHE — 4 недели. Более крупные проекты планируются после согласования конструкции."
+        }
+      ]
+    },
+    "es": {
+      "heading": "Guía de conversión de moldes de preforma PET: piezas de recambio, cambio de acabado de cuello, preformas aligeradas y mejoras de refrigeración",
+      "intro": "Una conversión de utillaje es un proyecto que cambia o renueva las piezas del conjunto de moldeo de un molde de preforma PET existente —en lugar de comprar un molde nuevo— para sustituir piezas gastadas, cambiar el acabado de cuello, reducir el peso de la preforma o acortar el ciclo. Esta guía clasifica los trabajos de conversión en cuatro tipos de proyecto e indica lo que se necesita para cada uno, para que la planta pueda preparar los datos correctos antes de pedir una cotización. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) es un fabricante de moldes de preforma PET, moldes de soplado, moldes de tapas y de compresión, sistemas de canal caliente y componentes de molde para la industria de bebidas y envases, con fabricación en Foshan, China.",
+      "sections": [
+        {
+          "heading": "Comparación de los cuatro tipos de proyectos de conversión de moldes de preforma",
+          "paragraphs": [
+            "La mayoría de las solicitudes de conversión encajan en uno de los cuatro tipos siguientes. Varios pueden combinarse en un mismo proyecto, por ejemplo un cambio de cuello que además reduce el peso de la preforma."
+          ],
+          "table": {
+            "head": ["Tipo de proyecto", "Objetivo", "Piezas que suelen cambiar", "Información clave del cliente"],
+            "rows": [
+              ["Recambio idéntico", "Devolver un molde gastado a su estado original", "Machos, cavidades, anillos de cuello, insertos de entrada y anillos de bloqueo gastados", "Piezas de muestra o planos, marca y número de serie del molde"],
+              ["Cambio de acabado de cuello", "Pasar a otra tapa, p. ej. de PCO 1810 a PCO 1881", "Anillos de cuello y, a menudo, machos y piezas superiores de la cavidad", "Plano del nuevo cuello, muestra de tapa, datos de la taponadora"],
+              ["Aligeramiento", "Reducir el peso de la preforma entre 1 g y 2 g", "Machos y/o cavidades, a veces anillos de cuello", "Plano de la botella, preforma actual, requisitos de la botella"],
+              ["Mejora de refrigeración", "Acortar el enfriamiento y el ciclo", "Piezas del conjunto con refrigeración rediseñada, anillos de cuello", "Datos del ciclo actual, temperatura y caudal de agua, defectos conocidos"]
+            ]
+          }
+        },
+        {
+          "heading": "Piezas de recambio idénticas para moldes Husky, SACMI y Otto",
+          "paragraphs": [
+            "El recambio idéntico consiste en fabricar nuevas piezas del conjunto que encajan en el molde existente sin modificar las placas ni el canal caliente. LIHE trabaja a partir de las piezas existentes del cliente de moldes Husky, SACMI u Otto y suministra las mismas piezas para su sustitución directa. Las piezas de conversión son 100% intercambiables para sistemas Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps y Corvaglia."
+          ],
+          "list": [
+            "Envíe un juego de piezas de muestra (o planos completos) de cada pieza que se vaya a copiar.",
+            "Indique la marca del molde, el número de cavidades, el modelo de máquina y la preforma que produce.",
+            "Indique la cantidad por pieza, incluidos los repuestos para almacén.",
+            "Comunique los problemas conocidos de las piezas actuales para no copiarlos en las nuevas.",
+            "Tenga en cuenta el plazo de LIHE para piezas de recambio: 4 semanas."
+          ]
+        },
+        {
+          "heading": "Cambio de acabado de cuello, por ejemplo de PCO 1810 a PCO 1881",
+          "paragraphs": [
+            "Un cambio de acabado de cuello modifica la parte roscada de la preforma para que la botella pueda usar otra tapa. Como el cuello lo forman los anillos de cuello y la parte superior del macho, estas piezas se sustituyen siempre; la cavidad y las piezas del lado de la cavidad pueden cambiar también si cambia el cuerpo de la preforma. LIHE trabaja con acabados especiales como PCO 1881 y 29/25 y realiza conversiones de líneas de producción.",
+            "El cambio de cuello afecta además a equipos fuera del molde. Las sopladoras y los transportadores manipulan la botella por el cuello, por lo que las pinzas de cuello, las guías y las estrellas pueden necesitar piezas nuevas."
+          ],
+          "list": [
+            "Plano del nuevo acabado de cuello y una muestra de la nueva tapa.",
+            "Modelo de taponadora y datos de aplicación del proveedor de tapas.",
+            "Plano de la preforma convertida y de la botella que debe producir.",
+            "Lista de piezas de manipulación de la sopladora y la llenadora que tocan el cuello."
+          ]
+        },
+        {
+          "heading": "Conversión a preforma aligerada y rPET",
+          "paragraphs": [
+            "El aligeramiento elimina resina de la preforma manteniendo la botella dentro de sus límites de prestaciones. Las propuestas de aligeramiento de LIHE reducen el peso de la preforma entre 1 g y 2 g optimizando el cuello o el espesor de pared. Adaptar un molde existente para aligerarlo cuesta solo entre el 25% y el 40% del precio de un molde nuevo, con un periodo de amortización corto porque el ahorro de resina empieza con la primera producción.",
+            "Una preforma más ligera se sopla de otra manera, por lo que el proyecto debe incluir pruebas de soplado en la sopladora del cliente. Si la planta va a usar PET reciclado, LIHE puede incluir pruebas con rPET en el mismo proyecto."
+          ],
+          "list": [
+            "Plano de la botella y plano de la preforma actual con su peso real.",
+            "Requisitos de la botella, como carga vertical, presión de estallido o condiciones de llenado.",
+            "Modelo de sopladora y parámetros de soplado actuales.",
+            "Grado de resina y contenido de rPET previsto."
+          ]
+        },
+        {
+          "heading": "Mejora de refrigeración para acortar el tiempo de ciclo de la preforma",
+          "paragraphs": [
+            "Una mejora de refrigeración rediseña la forma en que el calor sale del conjunto, normalmente en la zona del cuello, que es la parte más gruesa de la preforma. LIHE optimiza la eficiencia de refrigeración y las condiciones de soplado para acortar los ciclos; una refrigeración optimizada puede reducir el tiempo de enfriamiento del cuello hasta 0,5 segundos. El ciclo resultante depende de todo el sistema, por lo que LIHE no indica tiempos de ciclo sin los datos del cliente."
+          ],
+          "list": [
+            "Tiempo de ciclo actual desglosado en inyección, mantenimiento, enfriamiento y apertura del molde.",
+            "Temperatura, caudal y tratamiento del agua de refrigeración en el molde.",
+            "Defectos que aparecen al acortar el ciclo (por ejemplo ovalidad o marcas en la entrada).",
+            "Modelo de máquina y disposición del enfriamiento posterior al moldeo."
+          ]
+        },
+        {
+          "heading": "Cómo se desarrolla un proyecto de conversión, paso a paso",
+          "steps": [
+            "Defina el objetivo: recambio, cambio de cuello, reducción de peso, mejora de refrigeración o una combinación.",
+            "Envíe los planos, las piezas de muestra y los datos de producción indicados para ese tipo de proyecto.",
+            "LIHE revisa el molde y, si es necesario, realiza una auditoría de la interfaz de la máquina in situ.",
+            "Acuerde el diseño de la preforma convertida y la lista de piezas, y después confirme precio y plazo.",
+            "LIHE diseña con CAD/CAM, simulación 3D y análisis de flujo, y después mecaniza las piezas.",
+            "Las piezas se inspeccionan en la MMC Zeiss; los informes de inspección se entregan bajo petición.",
+            "Instale las piezas, haga muestras y pruebas de soplado y apruebe el molde convertido para producción."
+          ]
+        },
+        {
+          "heading": "Conversión o molde nuevo: cómo decidir",
+          "list": [
+            "La conversión suele ser la mejor opción cuando las placas del molde y el canal caliente están en buen estado y solo hay que cambiar piezas del conjunto.",
+            "Normalmente se necesita un molde nuevo cuando cambia el número de cavidades o la plataforma de máquina, o cuando la base del molde ya no se puede reparar.",
+            "Para moldes envejecidos, LIHE ofrece además proyectos de readaptación: revisiones completas y mejoras de rendimiento para devolver los equipos a una eficiencia de nivel OEM.",
+            "Compare el coste de la conversión (entre el 25% y el 40% de un molde nuevo en adaptaciones de aligeramiento) con el ahorro de resina y la vida restante del molde."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Necesito enviar los planos originales para las piezas de recambio?",
+          "answer": "No. LIHE puede trabajar a partir de sus piezas existentes de moldes Husky, SACMI u Otto. Los planos ayudan, pero las piezas de muestra son suficientes para fabricar las mismas piezas."
+        },
+        {
+          "question": "¿Las piezas de conversión son intercambiables con las originales?",
+          "answer": "Sí. Las piezas de conversión de LIHE son 100% intercambiables para sistemas Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps y Corvaglia."
+        },
+        {
+          "question": "¿Cuánto peso puede eliminar una conversión de aligeramiento?",
+          "answer": "Las propuestas de LIHE reducen el peso de la preforma entre 1 g y 2 g optimizando el cuello o el espesor de pared. La cantidad alcanzable depende de la botella y de sus requisitos."
+        },
+        {
+          "question": "¿Cuánto cuesta una adaptación de aligeramiento frente a un molde nuevo?",
+          "answer": "Adaptar un molde existente para aligerarlo cuesta entre el 25% y el 40% del precio de un molde nuevo."
+        },
+        {
+          "question": "¿Cuánto tarda una conversión?",
+          "answer": "Las piezas de recambio tienen un plazo de 4 semanas en LIHE. Los proyectos de conversión más grandes se programan una vez acordado el diseño."
+        }
+      ]
+    }
+  }
+}

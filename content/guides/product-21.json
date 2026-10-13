@@ -1,0 +1,311 @@
+{
+  "key": "product-21",
+  "updated": "2026-10-13",
+  "sources": [
+    { "label": "SACMI — Compression molding", "url": "https://www.sacmi.com/en-US/closures-preforms-containers/Compression-Molding" },
+    { "label": "SACMI — Systems for caps, closures, preforms and containers", "url": "https://www.sacmi.com/en-US/closures-preforms-containers" },
+    { "label": "Wikipedia — Compression molding", "url": "https://en.wikipedia.org/wiki/Compression_molding" },
+    { "label": "Wikipedia — Coordinate-measuring machine", "url": "https://en.wikipedia.org/wiki/Coordinate-measuring_machine" },
+    { "label": "Wikipedia — Tool steel", "url": "https://en.wikipedia.org/wiki/Tool_steel" },
+    { "label": "Wikipedia — Process capability index", "url": "https://en.wikipedia.org/wiki/Process_capability_index" }
+  ],
+  "locales": {
+    "en": {
+      "heading": "SACMI CCM replacement tooling: punches, dies, cores, cooling inserts and wear parts",
+      "intro": "Replacement compression tooling refers to the punches, dies, cores, cooling inserts and wear parts that are remade to the same dimensions as the originals so that a SACMI CCM continuous compression molding line can keep running after its tooling wears. This page is a practical reference for maintenance and purchasing teams: which parts wear and how to recognise it, how to send existing parts to LIHE so they can be reproduced, how replacement parts are inspected and how to maintain tooling between replacements. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China.",
+      "sections": [
+        {
+          "heading": "Why compression tooling needs replacement",
+          "paragraphs": [
+            "A CCM machine carries many identical tooling stations on its carousel, and every station closes once per revolution. Over millions of cycles the forming surfaces, sealing edges and contact faces wear. Because all stations must produce the same cap, one worn station can cause rejects even when the rest of the carousel is in good condition."
+          ],
+          "list": [
+            "Typical triggers: cap dimensions drifting out of tolerance, flash at the band or top panel, sticking during extraction, or cooling water leaks.",
+            "Replacing a few stations at a time keeps the line running; replacing the whole carousel set is usually planned with a cap design change or neck conversion.",
+            "LIHE makes replacement tooling from customers' existing parts, so the new parts match the machine and the current cap without a full redesign.",
+            "LIHE tooling is built to withstand up to 8 million shots on Husky, SACMI and Netstal platforms."
+          ]
+        },
+        {
+          "heading": "Compression tooling parts: what wears and what to look for",
+          "table": {
+            "head": ["Part", "Where wear appears", "Typical symptom on the cap or line", "Usual action"],
+            "rows": [
+              ["Punch", "Forming surface, thread area, sealing features", "Thread or seal dimensions out of tolerance, cap sticking on the punch", "Replace or remake from the existing part"],
+              ["Die (cavity)", "Top panel surface, entry edge", "Surface marks on the top panel, flash at the parting area", "Polish if minor; replace if dimensions are lost"],
+              ["Core", "Thread and band forming edges", "Weak or uneven tamper-evident band, poor thread form", "Replace as a set with matching parts"],
+              ["Cooling inserts", "Water passages, seal faces", "Uneven cap dimensions between stations, water leaks", "Clean passages; replace inserts and seals"],
+              ["Wear parts (sleeves, seals, contact parts)", "Sliding and sealing faces", "Misalignment, leaks, irregular extraction", "Replace at planned intervals"]
+            ]
+          }
+        },
+        {
+          "heading": "How to send existing parts for replacement tooling",
+          "steps": [
+            "Identify the machine: SACMI CCM model, number of molds on the carousel and any modifications made to the tooling.",
+            "Select reference parts: send one complete, representative station set (punch, die, core, cooling insert) in the best available condition, plus a worn part if you want the wear pattern assessed.",
+            "Add the cap information: cap drawing or samples, neck finish (26mm, 28mm, 2925, 3025, 38mm or custom), cap weight and band type, including EU tethered designs.",
+            "Include any drawings or previous inspection reports you hold, and note which dimensions have caused problems in production.",
+            "Clean and protect the parts: remove resin residue, dry the water passages, apply rust protection and pack each part separately so forming surfaces cannot touch.",
+            "State the quantity needed: number of complete stations, individual parts and spare stock.",
+            "Agree the inspection reports and the line trial before production of the full quantity starts."
+          ]
+        },
+        {
+          "heading": "Inspection of replacement compression tooling",
+          "paragraphs": [
+            "A replacement part is only useful if it is interchangeable with the parts already on the carousel. LIHE checks this with in-house measuring equipment and compares new parts against the customer's reference parts and drawings."
+          ],
+          "list": [
+            "Zeiss CMM: dimensional measurement of punches, dies and cores against the reference part and drawing; validation and inspection reports are supplied on request.",
+            "3D profile scanner and optical projector: checking of profiles such as thread and band forming edges.",
+            "Process capability: LIHE tooling consistently achieves CPK ≥ 1.33.",
+            "Cap trial: caps from the new stations are compared with caps from existing stations for weight, dimensions and band function."
+          ]
+        },
+        {
+          "heading": "Maintenance steps between tooling replacements",
+          "steps": [
+            "Record cycles and rejects per station so that worn stations are identified before they affect the whole lot.",
+            "At each planned stop, clean resin residue from punches, dies and cores with non-abrasive methods that do not damage polished surfaces.",
+            "Check cooling water flow per station and descale or flush passages where flow has dropped.",
+            "Inspect seals and wear parts and replace any that show leaks, cuts or deformation.",
+            "Check forming edges at the thread, seal and band for damage, and measure critical dimensions on sample caps.",
+            "Protect removed parts against corrosion and store them in individual packaging, labelled by station.",
+            "Reorder spare parts early: cap mold parts have a lead time of about 4 weeks."
+          ]
+        },
+        {
+          "heading": "Spare parts planning for SACMI CCM lines",
+          "list": [
+            "Keep complete spare station sets so that a worn station can be swapped as one unit and checked off-line.",
+            "Keep a separate stock of seals and small wear parts, which are replaced more often than forming parts.",
+            "Size the spare stock to cover at least the 4-week lead time for cap mold parts, plus transport time.",
+            "When a cap design changes, plan the replacement tooling and the change of spare stock together.",
+            "Remote troubleshooting, on-site assistance, spare parts supply and mold refurbishment programs are available from the LIHE technical team."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Can LIHE make replacement tooling from my existing parts?",
+          "answer": "Yes. LIHE makes replacement compression tooling from customers' existing parts. Send a representative set of parts and cap samples, and add any drawings you hold."
+        },
+        {
+          "question": "Will the replacement parts be interchangeable with my existing stations?",
+          "answer": "That is the purpose of measuring against your reference parts. New parts are checked on a Zeiss CMM and in a cap trial against caps from your existing stations; inspection reports are supplied on request."
+        },
+        {
+          "question": "How long does replacement tooling take?",
+          "answer": "Cap mold parts have a lead time of about 4 weeks. Larger scopes, such as a full carousel set or a neck conversion, are scheduled after the parts and cap information have been reviewed."
+        },
+        {
+          "question": "Can replacement tooling be used to change the cap design?",
+          "answer": "Yes, a replacement set can include design changes such as a different neck finish, a tamper-evident band change or an EU tethered cap. Describe the change when sending the parts so it is included in the design."
+        },
+        {
+          "question": "Which parts should I replace first?",
+          "answer": "Start with the stations that produce rejects. Seals and small wear parts are usually replaced most often; punches, dies and cores are replaced when cap dimensions or band function can no longer be held."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "Сменная оснастка для SACMI CCM: пуансоны, матрицы, знаки, охлаждающие вставки и изнашиваемые детали",
+      "intro": "Сменная компрессионная оснастка — это пуансоны, матрицы, знаки, охлаждающие вставки и изнашиваемые детали, которые изготавливаются заново в размерах оригинала, чтобы линия непрерывного компрессионного формования SACMI CCM продолжала работать после износа оснастки. Эта страница — практический справочник для служб обслуживания и закупок: какие детали изнашиваются и как это распознать, как отправить существующие детали в LIHE для воспроизведения, как контролируются сменные детали и как обслуживать оснастку между заменами. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) — производитель пресс-форм для ПЭТ-преформ, выдувных форм, форм для колпачков и компрессионных форм, горячеканальных систем и комплектующих для производства напитков и упаковки, с производством в Фошане, Китай.",
+      "sections": [
+        {
+          "heading": "Почему компрессионную оснастку нужно заменять",
+          "paragraphs": [
+            "На карусели машины CCM установлено много одинаковых станций оснастки, и каждая смыкается один раз за оборот. За миллионы циклов изнашиваются формующие поверхности, уплотняющие кромки и контактные поверхности. Поскольку все станции должны выпускать одинаковый колпачок, одна изношенная станция может давать брак, даже если остальная карусель в хорошем состоянии."
+          ],
+          "list": [
+            "Типичные признаки: уход размеров колпачка за допуск, облой на кольце или верхней панели, залипание при извлечении, протечки охлаждающей воды.",
+            "Замена нескольких станций за раз позволяет не останавливать линию; замену всего комплекта карусели обычно планируют вместе со сменой конструкции колпачка или горловины.",
+            "LIHE изготавливает сменную оснастку по существующим деталям заказчика, поэтому новые детали соответствуют машине и текущему колпачку без полного перепроектирования.",
+            "Оснастка LIHE рассчитана на ресурс до 8 миллионов циклов на платформах Husky, SACMI и Netstal."
+          ]
+        },
+        {
+          "heading": "Детали компрессионной оснастки: что изнашивается и на что смотреть",
+          "table": {
+            "head": ["Деталь", "Где проявляется износ", "Типичный признак на колпачке или линии", "Обычное действие"],
+            "rows": [
+              ["Пуансон", "Формующая поверхность, зона резьбы, элементы уплотнения", "Размеры резьбы или уплотнения вне допуска, залипание колпачка на пуансоне", "Замена или изготовление по существующей детали"],
+              ["Матрица", "Поверхность верхней панели, входная кромка", "Следы на верхней панели, облой в зоне разъёма", "Полировка при небольшом износе; замена при потере размеров"],
+              ["Знак", "Кромки, формующие резьбу и кольцо", "Слабое или неравномерное кольцо контроля вскрытия, плохая резьба", "Замена комплектом с сопряжёнными деталями"],
+              ["Охлаждающие вставки", "Водяные каналы, поверхности уплотнений", "Разные размеры колпачков по станциям, протечки воды", "Очистка каналов; замена вставок и уплотнений"],
+              ["Изнашиваемые детали (втулки, уплотнения, контактные детали)", "Поверхности скольжения и уплотнения", "Несоосность, протечки, нестабильное извлечение", "Замена с плановой периодичностью"]
+            ]
+          }
+        },
+        {
+          "heading": "Как отправить существующие детали для изготовления сменной оснастки",
+          "steps": [
+            "Укажите машину: модель SACMI CCM, число форм на карусели и все изменения, внесённые в оснастку.",
+            "Выберите эталонные детали: пришлите один полный представительный комплект станции (пуансон, матрица, знак, охлаждающая вставка) в лучшем доступном состоянии и, при необходимости оценки износа, изношенную деталь.",
+            "Добавьте данные о колпачке: чертёж или образцы, горловину (26 мм, 28 мм, 2925, 3025, 38 мм или индивидуальную), массу колпачка и тип кольца, включая привязанные колпачки ЕС.",
+            "Приложите имеющиеся чертежи или прежние отчёты контроля и отметьте размеры, вызывавшие проблемы в производстве.",
+            "Очистите и защитите детали: удалите остатки полимера, просушите водяные каналы, нанесите антикоррозионную защиту и упакуйте каждую деталь отдельно, чтобы формующие поверхности не соприкасались.",
+            "Укажите количество: число полных станций, отдельных деталей и запаса.",
+            "Согласуйте отчёты контроля и испытание на линии до начала изготовления всего количества."
+          ]
+        },
+        {
+          "heading": "Контроль сменной компрессионной оснастки",
+          "paragraphs": [
+            "Сменная деталь полезна только тогда, когда она взаимозаменяема с деталями, уже установленными на карусели. LIHE проверяет это на собственном измерительном оборудовании и сравнивает новые детали с эталонными деталями и чертежами заказчика."
+          ],
+          "list": [
+            "КИМ Zeiss: измерение размеров пуансонов, матриц и знаков относительно эталонной детали и чертежа; отчёты о валидации и контроле предоставляются по запросу.",
+            "3D-сканер профиля и оптический проектор: проверка профилей, например кромок, формующих резьбу и кольцо.",
+            "Воспроизводимость процесса: оснастка LIHE стабильно достигает CPK ≥ 1,33.",
+            "Пробное формование: колпачки с новых станций сравниваются с колпачками существующих станций по массе, размерам и работе кольца."
+          ]
+        },
+        {
+          "heading": "Обслуживание оснастки между заменами",
+          "steps": [
+            "Ведите учёт циклов и брака по каждой станции, чтобы выявлять изношенные станции до того, как они повлияют на всю партию.",
+            "При каждой плановой остановке удаляйте остатки полимера с пуансонов, матриц и знаков неабразивными методами, не повреждающими полированные поверхности.",
+            "Проверяйте расход охлаждающей воды по станциям и промывайте или очищайте от накипи каналы, где расход снизился.",
+            "Осматривайте уплотнения и изнашиваемые детали и заменяйте те, у которых есть протечки, порезы или деформация.",
+            "Проверяйте формующие кромки резьбы, уплотнения и кольца на повреждения и измеряйте критичные размеры на образцах колпачков.",
+            "Защищайте снятые детали от коррозии и храните их в индивидуальной упаковке с маркировкой станции.",
+            "Заказывайте запчасти заранее: срок изготовления деталей форм для колпачков — около 4 недель."
+          ]
+        },
+        {
+          "heading": "Планирование запасных частей для линий SACMI CCM",
+          "list": [
+            "Держите полные запасные комплекты станций, чтобы изношенную станцию можно было заменить целиком и проверить вне линии.",
+            "Держите отдельный запас уплотнений и мелких изнашиваемых деталей — их меняют чаще, чем формующие детали.",
+            "Рассчитывайте запас так, чтобы он покрывал как минимум 4-недельный срок изготовления деталей плюс время доставки.",
+            "При изменении конструкции колпачка планируйте сменную оснастку и обновление запаса одновременно.",
+            "Техническая команда LIHE предоставляет удалённую диагностику, помощь на месте, поставку запчастей и программы восстановления форм."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Может ли LIHE изготовить сменную оснастку по моим существующим деталям?",
+          "answer": "Да. LIHE изготавливает сменную компрессионную оснастку по существующим деталям заказчика. Пришлите представительный комплект деталей и образцы колпачков и приложите имеющиеся чертежи."
+        },
+        {
+          "question": "Будут ли сменные детали взаимозаменяемы с моими станциями?",
+          "answer": "Именно для этого детали измеряются относительно ваших эталонных деталей. Новые детали проверяются на КИМ Zeiss и в пробном формовании в сравнении с колпачками ваших существующих станций; отчёты контроля предоставляются по запросу."
+        },
+        {
+          "question": "Сколько времени занимает изготовление сменной оснастки?",
+          "answer": "Срок изготовления деталей форм для колпачков — около 4 недель. Более крупные объёмы, например полный комплект карусели или переход на другую горловину, планируются после изучения деталей и данных о колпачке."
+        },
+        {
+          "question": "Можно ли при замене оснастки изменить конструкцию колпачка?",
+          "answer": "Да, сменный комплект может включать изменения: другую горловину, изменённое кольцо контроля вскрытия или привязанный колпачок ЕС. Опишите изменение при отправке деталей, чтобы его учли в конструкции."
+        },
+        {
+          "question": "Какие детали менять в первую очередь?",
+          "answer": "Начните со станций, которые дают брак. Уплотнения и мелкие изнашиваемые детали обычно меняют чаще всего; пуансоны, матрицы и знаки — когда размеры колпачка или работу кольца больше не удаётся удерживать."
+        }
+      ]
+    },
+    "es": {
+      "heading": "Utillaje de reposición para SACMI CCM: punzones, matrices, machos, insertos de refrigeración y piezas de desgaste",
+      "intro": "El utillaje de compresión de reposición es el conjunto de punzones, matrices, machos, insertos de refrigeración y piezas de desgaste que se fabrican de nuevo con las mismas dimensiones que los originales para que una línea de moldeo por compresión continuo SACMI CCM siga funcionando cuando su utillaje se desgasta. Esta página es una referencia práctica para los equipos de mantenimiento y compras: qué piezas se desgastan y cómo reconocerlo, cómo enviar piezas existentes a LIHE para reproducirlas, cómo se inspeccionan las piezas de reposición y cómo mantener el utillaje entre sustituciones. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) es un fabricante de moldes de preforma PET, moldes de soplado, moldes de tapas y de compresión, sistemas de canal caliente y componentes de molde para la industria de bebidas y envases, con fabricación en Foshan, China.",
+      "sections": [
+        {
+          "heading": "Por qué hay que reponer el utillaje de compresión",
+          "paragraphs": [
+            "Una máquina CCM lleva muchas estaciones de utillaje idénticas en su carrusel, y cada estación cierra una vez por vuelta. A lo largo de millones de ciclos se desgastan las superficies de formado, los bordes de sellado y las caras de contacto. Como todas las estaciones deben producir la misma tapa, una sola estación desgastada puede generar rechazos aunque el resto del carrusel esté en buen estado."
+          ],
+          "list": [
+            "Señales típicas: cotas de la tapa que se salen de tolerancia, rebaba en la banda o en el panel superior, tapas que se pegan en la extracción o fugas de agua de refrigeración.",
+            "Sustituir unas pocas estaciones cada vez mantiene la línea en marcha; el cambio del juego completo del carrusel suele planificarse junto con un cambio de diseño de tapa o de cuello.",
+            "LIHE fabrica utillaje de reposición a partir de las piezas existentes del cliente, de modo que las nuevas piezas encajan con la máquina y con la tapa actual sin rediseño completo.",
+            "Los moldes de LIHE están construidos para resistir hasta 8 millones de ciclos en plataformas Husky, SACMI y Netstal."
+          ]
+        },
+        {
+          "heading": "Piezas del utillaje de compresión: qué se desgasta y qué observar",
+          "table": {
+            "head": ["Pieza", "Dónde aparece el desgaste", "Síntoma típico en la tapa o la línea", "Acción habitual"],
+            "rows": [
+              ["Punzón", "Superficie de formado, zona de rosca, elementos de sellado", "Cotas de rosca o sello fuera de tolerancia, tapa pegada al punzón", "Sustituir o fabricar a partir de la pieza existente"],
+              ["Matriz (cavidad)", "Superficie del panel superior, borde de entrada", "Marcas en el panel superior, rebaba en la zona de cierre", "Pulir si es leve; sustituir si se pierden cotas"],
+              ["Macho", "Bordes que forman la rosca y la banda", "Banda de garantía débil o irregular, rosca mal formada", "Sustituir en juego con las piezas que acoplan"],
+              ["Insertos de refrigeración", "Conductos de agua, caras de las juntas", "Cotas desiguales entre estaciones, fugas de agua", "Limpiar conductos; sustituir insertos y juntas"],
+              ["Piezas de desgaste (casquillos, juntas, piezas de contacto)", "Caras de deslizamiento y sellado", "Desalineación, fugas, extracción irregular", "Sustituir a intervalos planificados"]
+            ]
+          }
+        },
+        {
+          "heading": "Cómo enviar piezas existentes para fabricar utillaje de reposición",
+          "steps": [
+            "Identifique la máquina: modelo SACMI CCM, número de moldes del carrusel y cualquier modificación hecha en el utillaje.",
+            "Elija piezas de referencia: envíe un juego de estación completo y representativo (punzón, matriz, macho, inserto de refrigeración) en el mejor estado disponible y, si quiere que se evalúe el desgaste, también una pieza desgastada.",
+            "Añada la información de la tapa: plano o muestras, acabado de cuello (26 mm, 28 mm, 2925, 3025, 38 mm o a medida), peso de la tapa y tipo de banda, incluidas las tapas sujetas UE.",
+            "Incluya los planos o informes de inspección anteriores que tenga e indique qué cotas han dado problemas en producción.",
+            "Limpie y proteja las piezas: retire restos de resina, seque los conductos de agua, aplique protección anticorrosiva y embale cada pieza por separado para que las superficies de formado no se toquen.",
+            "Indique la cantidad necesaria: número de estaciones completas, piezas sueltas y stock de repuesto.",
+            "Acuerde los informes de inspección y la prueba en línea antes de empezar la producción de toda la cantidad."
+          ]
+        },
+        {
+          "heading": "Inspección del utillaje de compresión de reposición",
+          "paragraphs": [
+            "Una pieza de reposición solo sirve si es intercambiable con las piezas que ya están en el carrusel. LIHE lo comprueba con equipos de medición propios y compara las piezas nuevas con las piezas de referencia y los planos del cliente."
+          ],
+          "list": [
+            "CMM Zeiss: medición dimensional de punzones, matrices y machos frente a la pieza de referencia y el plano; los informes de validación e inspección se entregan bajo pedido.",
+            "Escáner de perfiles 3D y proyector óptico: control de perfiles como los bordes que forman la rosca y la banda.",
+            "Capacidad de proceso: los moldes de LIHE alcanzan de forma constante un CPK ≥ 1,33.",
+            "Prueba de tapas: las tapas de las estaciones nuevas se comparan con las de las estaciones existentes en peso, cotas y funcionamiento de la banda."
+          ]
+        },
+        {
+          "heading": "Pasos de mantenimiento entre reposiciones de utillaje",
+          "steps": [
+            "Registre ciclos y rechazos por estación para detectar las estaciones desgastadas antes de que afecten a todo el lote.",
+            "En cada parada planificada, limpie los restos de resina de punzones, matrices y machos con métodos no abrasivos que no dañen las superficies pulidas.",
+            "Compruebe el caudal de agua de refrigeración por estación y desincruste o lave los conductos donde haya bajado.",
+            "Revise juntas y piezas de desgaste y sustituya las que presenten fugas, cortes o deformaciones.",
+            "Revise los bordes de formado de rosca, sello y banda en busca de daños y mida las cotas críticas en tapas de muestra.",
+            "Proteja de la corrosión las piezas desmontadas y guárdelas en embalajes individuales etiquetados por estación.",
+            "Pida los repuestos con antelación: las piezas de moldes de tapas tienen un plazo de unas 4 semanas."
+          ]
+        },
+        {
+          "heading": "Planificación de repuestos para líneas SACMI CCM",
+          "list": [
+            "Mantenga juegos completos de estación de repuesto para cambiar una estación desgastada como unidad y revisarla fuera de línea.",
+            "Mantenga un stock aparte de juntas y pequeñas piezas de desgaste, que se cambian con más frecuencia que las piezas de formado.",
+            "Dimensione el stock para cubrir al menos el plazo de 4 semanas de las piezas de moldes de tapas, más el tiempo de transporte.",
+            "Cuando cambie el diseño de la tapa, planifique a la vez el utillaje de reposición y el cambio del stock de repuestos.",
+            "El equipo técnico de LIHE ofrece diagnóstico remoto, asistencia in situ, suministro de repuestos y programas de reacondicionamiento de moldes."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Puede LIHE fabricar utillaje de reposición a partir de mis piezas existentes?",
+          "answer": "Sí. LIHE fabrica utillaje de compresión de reposición a partir de las piezas existentes del cliente. Envíe un juego representativo de piezas y muestras de tapas, y añada los planos que tenga."
+        },
+        {
+          "question": "¿Las piezas de reposición serán intercambiables con mis estaciones actuales?",
+          "answer": "Ese es el objetivo de medir frente a sus piezas de referencia. Las piezas nuevas se comprueban en una CMM Zeiss y en una prueba de tapas comparándolas con las de sus estaciones existentes; los informes de inspección se entregan bajo pedido."
+        },
+        {
+          "question": "¿Cuánto tarda el utillaje de reposición?",
+          "answer": "Las piezas de moldes de tapas tienen un plazo de unas 4 semanas. Los alcances mayores, como un juego completo de carrusel o una conversión de cuello, se programan después de revisar las piezas y la información de la tapa."
+        },
+        {
+          "question": "¿Se puede cambiar el diseño de la tapa con el utillaje de reposición?",
+          "answer": "Sí, un juego de reposición puede incluir cambios como otro acabado de cuello, una modificación de la banda de garantía o una tapa sujeta UE. Describa el cambio al enviar las piezas para que se incluya en el diseño."
+        },
+        {
+          "question": "¿Qué piezas conviene sustituir primero?",
+          "answer": "Empiece por las estaciones que generan rechazos. Las juntas y pequeñas piezas de desgaste suelen cambiarse con más frecuencia; punzones, matrices y machos se sustituyen cuando ya no se pueden mantener las cotas de la tapa o el funcionamiento de la banda."
+        }
+      ]
+    }
+  }
+}

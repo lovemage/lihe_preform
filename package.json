@@ -4,10 +4,12 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "prebuild": "node scripts/build-news.mjs",
+    "prebuild": "node scripts/build-news.mjs && node scripts/build-guides.mjs",
     "build": "next build",
     "news:build": "node scripts/build-news.mjs",
     "news:check": "node scripts/build-news.mjs --check",
+    "guides:build": "node scripts/build-guides.mjs",
+    "guides:check": "node scripts/build-guides.mjs --check",
     "cf:build": "opennextjs-cloudflare build",
     "next:build": "next build",
     "start": "next start",

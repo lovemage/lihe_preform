@@ -1,0 +1,332 @@
+{
+  "key": "product-30",
+  "updated": "2026-10-13",
+  "sources": [
+    { "label": "Wikipedia — Tool steel", "url": "https://en.wikipedia.org/wiki/Tool_steel" },
+    { "label": "Wikipedia — Stainless steel", "url": "https://en.wikipedia.org/wiki/Stainless_steel" },
+    { "label": "Wikipedia — Nitriding", "url": "https://en.wikipedia.org/wiki/Nitriding" },
+    { "label": "Wikipedia — Gun drill", "url": "https://en.wikipedia.org/wiki/Gun_drill" },
+    { "label": "Wikipedia — Coordinate-measuring machine", "url": "https://en.wikipedia.org/wiki/Coordinate-measuring_machine" },
+    { "label": "Wikipedia — Engineering drawing", "url": "https://en.wikipedia.org/wiki/Engineering_drawing" }
+  ],
+  "locales": {
+    "en": {
+      "heading": "Precision mold base ordering guide: plate stack, materials, Zeiss CMM inspection and drawings for PET preform molds",
+      "intro": "A precision mold base is a set of machined and ground plates, with guide elements and cooling channels, made to the tight geometric tolerances that multi-cavity PET preform, closure and blow molds need. This page is an ordering reference: it lists the scope options, the plate-by-plate information to include in a specification, how materials and surface treatments are usually specified, what the Zeiss CMM inspection covers, and the difference between a base built to your drawing and one designed by LIHE's engineering team.",
+      "sections": [
+        {
+          "heading": "Scope options when ordering a precision mold base",
+          "table": {
+            "head": ["Scope", "Typical use", "What to send with the enquiry", "Inspection"],
+            "rows": [
+              ["Complete mold base", "New preform mold up to 160 cavities, new closure or blow mold", "Mold layout or product and machine data for in-house design", "Zeiss CMM, report on request"],
+              ["Individual plate", "Adding or replacing one plate in an existing stack", "Plate drawing, or the mating plates' drawings", "Zeiss CMM, report on request"],
+              ["Replacement plate", "Damaged or cracked plate in a running mold", "Original drawing or the plate itself as reference, mold number", "Zeiss CMM, report on request"],
+              ["Refurbished plate", "Worn faces or bores on a sound plate", "The plate, a description of the wear, any previous measurement data", "Remeasured on Zeiss CMM after repair"]
+            ]
+          }
+        },
+        {
+          "heading": "Plate stack checklist for a preform mold base specification",
+          "paragraphs": [
+            "A preform mold base consists of a hot half and a cold half. For each plate in the order, the specification should state the following, either on the drawing or in a separate list."
+          ],
+          "list": [
+            "Plate name and position in the stack: manifold plate, backing plate, cavity plate, core plate, stripper plate or slide plates.",
+            "Outer dimensions and thickness in mm, with the tolerance for thickness and the required flatness and parallelism.",
+            "Bore pattern: number of cavities, pitch, bore diameters and the positional tolerance of each bore, all referenced to one datum.",
+            "Guide and locating features: guide pin and bushing bores, locating ring, dowel holes and taper lock seats.",
+            "Cooling: channel diameters, positions, depth and connection threads; deep-hole drilled channels must be shown with their entry and exit points.",
+            "Threads and fixings: thread standard (metric or inch) for clamping, lifting and water connections, to match your plant's fittings.",
+            "Markings: plate number, mold number and cavity numbering, so plates can be traced during maintenance."
+          ]
+        },
+        {
+          "heading": "Mold base materials and surface treatments in general terms",
+          "paragraphs": [
+            "Material and treatment choices depend on the plate's function, the mold's expected service life and the cooling water quality in your plant. The points below describe common practice in mold making; the material for your order is agreed during the quotation and shown on the drawing."
+          ],
+          "list": [
+            "Pre-hardened mold steels are widely used for plates because they can be machined to final size without a hardening step that could distort the plate.",
+            "Stainless mold steels are often chosen for plates with many cooling channels, because they resist corrosion from cooling water and keep channel cross-sections open.",
+            "Hardened tool steels are used for wear parts such as guide bushings, taper locks and inserts that slide or lock against each other.",
+            "Surface treatments such as nitriding increase surface hardness on wear areas; corrosion-protection coatings are used on surfaces exposed to moisture.",
+            "If your plant already runs molds of the same type, state the materials used in them, so new and existing plates behave alike in maintenance."
+          ]
+        },
+        {
+          "heading": "Inspection on Zeiss CMM: what is measured before delivery",
+          "paragraphs": [
+            "Plates are machined on Mazak, Makino and Haas CNC centers and ground on Okamoto precision grinders. Before delivery, flatness, parallelism and cavity-position accuracy are verified on the in-house Zeiss CMM, and validation and inspection reports are supplied on request."
+          ],
+          "list": [
+            "Flatness of the main faces and parallelism between them.",
+            "Position of every cavity and core bore relative to the datum, which matters most on 72-cavity to 160-cavity layouts.",
+            "Diameters of guide, locating and cavity bores.",
+            "Positions of cooling channel entries and connection points.",
+            "On request, a report that lists nominal values, tolerances and measured values, which you can keep as a baseline for later wear checks."
+          ]
+        },
+        {
+          "heading": "Built to your drawing vs designed in-house by LIHE",
+          "paragraphs": [
+            "Mold bases are manufactured to customer drawings or designed in-house for new molds. The choice affects what you send and who is responsible for the design."
+          ],
+          "table": {
+            "head": ["Aspect", "Built to customer drawing", "Designed in-house by LIHE"],
+            "rows": [
+              ["Typical case", "Replacement plates, second sets, standardized mold bases", "New molds, new cavitation, neck finish conversions"],
+              ["What you send", "Complete 2D drawings with tolerances, 3D model, material and treatment notes", "Machine model, cavitation, product drawing (preform, closure or bottle)"],
+              ["Design responsibility", "Customer", "LIHE engineering and design center (CAD/CAM, 3D simulation, flow analysis)"],
+              ["Approval step", "Drawing review and confirmation of open points", "Design approval by the customer before machining"]
+            ]
+          }
+        },
+        {
+          "heading": "How to order a precision mold base from LIHE",
+          "steps": [
+            "Send the scope (complete base, plate, replacement or refurbishment), the machine model and the cavitation to sales@lihe-preform.com.",
+            "Attach drawings and a 3D model if the base is built to your drawing, or the product drawing and machine data if LIHE is to design it.",
+            "State material, treatment, thread standard and any inspection report requirements.",
+            "Review the quotation, which confirms scope and lead time; LIHE publishes 4 weeks for replacement parts and 8 weeks for standard PET molds.",
+            "Approve the drawing or design; machining, grinding and Zeiss CMM inspection follow, and the report is supplied if requested."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Can you make a single replacement plate for a Husky or SACMI mold?",
+          "answer": "Yes. Individual and replacement plates for existing molds are part of the scope. Send the original drawing, or the plate and the mold number, so the new plate matches the mating plates."
+        },
+        {
+          "question": "Which steel should I specify for the plates?",
+          "answer": "It depends on the plate's function, the expected service life and the cooling water conditions. Pre-hardened and stainless mold steels are common choices; the material is agreed in the quotation and noted on the drawing."
+        },
+        {
+          "question": "Do I receive the CMM measurement data?",
+          "answer": "Flatness, parallelism and cavity-position accuracy are verified on Zeiss CMM before delivery, and inspection reports are supplied on request. State in your order which features the report should include."
+        },
+        {
+          "question": "What is the largest cavitation you build mold bases for?",
+          "answer": "Mold bases and plates are made for preform molds up to 160 cavities, as well as for closure molds and blow molds."
+        },
+        {
+          "question": "Can a worn plate be refurbished instead of replaced?",
+          "answer": "Often yes, if the plate is not cracked and the cooling channels are sound. Refurbished plates are remeasured on the Zeiss CMM after repair."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "Как заказать прецизионный пакет плит: состав пакета, материалы, контроль на КИМ Zeiss и чертежи для форм ПЭТ-преформ",
+      "intro": "Прецизионный пакет плит — это комплект обработанных и шлифованных плит с направляющими элементами и каналами охлаждения, изготовленных с жёсткими геометрическими допусками, которые нужны многогнёздным формам для ПЭТ-преформ, колпачков и выдувным формам. Эта страница — справочник для заказа: в ней перечислены варианты объёма поставки, данные по каждой плите для спецификации, общие подходы к выбору материалов и покрытий, объём контроля на КИМ Zeiss и разница между пакетом по вашему чертежу и пакетом, спроектированным инженерами LIHE.",
+      "sections": [
+        {
+          "heading": "Варианты объёма поставки прецизионного пакета плит",
+          "table": {
+            "head": ["Объём", "Типичное применение", "Что приложить к запросу", "Контроль"],
+            "rows": [
+              ["Полный пакет плит", "Новая форма для преформ до 160 гнёзд, новая форма для колпачков или выдувная форма", "Компоновка формы или данные изделия и машины для проектирования в LIHE", "КИМ Zeiss, протокол по запросу"],
+              ["Отдельная плита", "Добавление или замена одной плиты в существующем пакете", "Чертёж плиты или чертежи сопрягаемых плит", "КИМ Zeiss, протокол по запросу"],
+              ["Сменная плита", "Повреждённая или треснувшая плита в работающей форме", "Оригинальный чертёж или сама плита как образец, номер формы", "КИМ Zeiss, протокол по запросу"],
+              ["Восстановленная плита", "Изношенные поверхности или отверстия при целой плите", "Плита, описание износа, имеющиеся данные измерений", "Повторное измерение на КИМ Zeiss после ремонта"]
+            ]
+          }
+        },
+        {
+          "heading": "Чек-лист состава пакета плит для спецификации формы преформ",
+          "paragraphs": [
+            "Пакет плит формы для преформ состоит из горячей и холодной половин. Для каждой плиты в заказе спецификация должна содержать следующие данные — на чертеже или в отдельном перечне."
+          ],
+          "list": [
+            "Название плиты и её место в пакете: плита коллектора, опорная плита, плита матриц, плита пуансонов, съёмная плита или плиты ползунов.",
+            "Габариты и толщина в мм с допуском на толщину, а также требуемая плоскостность и параллельность.",
+            "Схема отверстий: число гнёзд, шаг, диаметры отверстий и позиционный допуск каждого отверстия от единой базы.",
+            "Направляющие и центрирующие элементы: отверстия под колонки и втулки, центрирующее кольцо, отверстия под штифты и посадки конических замков.",
+            "Охлаждение: диаметры, положение и глубина каналов, присоединительные резьбы; каналы глубокого сверления указываются с точками входа и выхода.",
+            "Резьбы и крепёж: стандарт резьбы (метрическая или дюймовая) для зажима, подъёма и подключения воды, соответствующий фитингам вашего завода.",
+            "Маркировка: номер плиты, номер формы и нумерация гнёзд, чтобы плиты можно было отследить при обслуживании."
+          ]
+        },
+        {
+          "heading": "Материалы и покрытия плит пресс-формы: общие принципы",
+          "paragraphs": [
+            "Выбор материала и обработки зависит от функции плиты, ожидаемого ресурса формы и качества охлаждающей воды на вашем заводе. Ниже описана общепринятая практика в изготовлении форм; материал для вашего заказа согласуется при подготовке предложения и указывается на чертеже."
+          ],
+          "list": [
+            "Предварительно закалённые инструментальные стали широко применяются для плит, так как их можно обработать в окончательный размер без закалки, способной деформировать плиту.",
+            "Нержавеющие стали для форм часто выбирают для плит с большим числом каналов охлаждения, потому что они устойчивы к коррозии от воды и сохраняют сечение каналов.",
+            "Закалённые инструментальные стали применяются для изнашиваемых деталей — направляющих втулок, конических замков и вставок, которые скользят или фиксируются друг относительно друга.",
+            "Поверхностные обработки, например азотирование, повышают твёрдость в зонах износа; антикоррозионные покрытия применяются на поверхностях, контактирующих с влагой.",
+            "Если на вашем заводе уже работают формы того же типа, укажите применённые в них материалы, чтобы новые и существующие плиты одинаково вели себя при обслуживании."
+          ]
+        },
+        {
+          "heading": "Контроль на КИМ Zeiss: что измеряется перед поставкой",
+          "paragraphs": [
+            "Плиты обрабатываются на обрабатывающих центрах с ЧПУ Mazak, Makino и Haas и шлифуются на прецизионных шлифовальных станках Okamoto. Перед поставкой плоскостность, параллельность и точность позиций гнёзд проверяются на собственной КИМ Zeiss, а отчёты о валидации и контроле предоставляются по запросу."
+          ],
+          "list": [
+            "Плоскостность основных поверхностей и параллельность между ними.",
+            "Позиция каждого отверстия под матрицу и пуансон относительно базы — это особенно важно для компоновок от 72 до 160 гнёзд.",
+            "Диаметры направляющих, центрирующих и гнездовых отверстий.",
+            "Положение входов каналов охлаждения и точек подключения.",
+            "По запросу — протокол с номинальными значениями, допусками и измеренными значениями, который можно хранить как исходные данные для последующей проверки износа."
+          ]
+        },
+        {
+          "heading": "По чертежу заказчика или собственная разработка LIHE",
+          "paragraphs": [
+            "Пакеты плит изготавливаются по чертежам заказчика или проектируются в LIHE для новых форм. От выбора зависит, что вы присылаете и кто отвечает за конструкцию."
+          ],
+          "table": {
+            "head": ["Аспект", "По чертежу заказчика", "Разработка LIHE"],
+            "rows": [
+              ["Типичный случай", "Сменные плиты, второй комплект, стандартизированные пакеты", "Новые формы, новое число гнёзд, смена горловины"],
+              ["Что вы присылаете", "Полные 2D-чертежи с допусками, 3D-модель, указания по материалу и обработке", "Модель машины, число гнёзд, чертёж изделия (преформа, колпачок или бутылка)"],
+              ["Ответственность за конструкцию", "Заказчик", "Инженерно-конструкторский центр LIHE (CAD/CAM, 3D-моделирование, анализ течения)"],
+              ["Этап согласования", "Проверка чертежей и подтверждение открытых вопросов", "Согласование конструкции заказчиком до начала обработки"]
+            ]
+          }
+        },
+        {
+          "heading": "Как заказать прецизионный пакет плит у LIHE",
+          "steps": [
+            "Отправьте на sales@lihe-preform.com объём поставки (полный пакет, плита, замена или восстановление), модель машины и число гнёзд.",
+            "Приложите чертежи и 3D-модель, если пакет делается по вашему чертежу, или чертёж изделия и данные машины, если проектировать будет LIHE.",
+            "Укажите материал, обработку, стандарт резьбы и требования к протоколу контроля.",
+            "Проверьте коммерческое предложение с подтверждённым объёмом и сроком; LIHE публикует срок 4 недели для запасных частей и 8 недель для стандартных ПЭТ-форм.",
+            "Согласуйте чертёж или конструкцию; далее следуют обработка, шлифование и контроль на КИМ Zeiss, а протокол предоставляется по запросу."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Можете ли вы изготовить одну сменную плиту для формы Husky или SACMI?",
+          "answer": "Да. Отдельные и сменные плиты для существующих форм входят в объём работ. Пришлите оригинальный чертёж или саму плиту и номер формы, чтобы новая плита совпала с сопрягаемыми."
+        },
+        {
+          "question": "Какую сталь указывать для плит?",
+          "answer": "Это зависит от функции плиты, ожидаемого ресурса и качества охлаждающей воды. Распространённый выбор — предварительно закалённые и нержавеющие стали для форм; материал согласуется в предложении и указывается на чертеже."
+        },
+        {
+          "question": "Получу ли я данные измерений на КИМ?",
+          "answer": "Плоскостность, параллельность и точность позиций гнёзд проверяются на КИМ Zeiss перед поставкой, а протоколы контроля предоставляются по запросу. Укажите в заказе, какие элементы должны войти в протокол."
+        },
+        {
+          "question": "Для какого максимального числа гнёзд вы делаете пакеты плит?",
+          "answer": "Пакеты и плиты изготавливаются для форм преформ до 160 гнёзд, а также для форм колпачков и выдувных форм."
+        },
+        {
+          "question": "Можно ли восстановить изношенную плиту вместо замены?",
+          "answer": "Часто да, если плита без трещин, а каналы охлаждения в порядке. Восстановленные плиты после ремонта повторно измеряются на КИМ Zeiss."
+        }
+      ]
+    },
+    "es": {
+      "heading": "Guía de pedido de una base de molde de precisión: apilamiento de placas, materiales, inspección en MMC Zeiss y planos para moldes de preforma PET",
+      "intro": "Una base de molde de precisión es un conjunto de placas mecanizadas y rectificadas, con elementos de guía y canales de refrigeración, fabricadas con las tolerancias geométricas estrechas que necesitan los moldes multicavidad de preforma PET, de tapas y de soplado. Esta página es una referencia para el pedido: enumera las opciones de alcance, la información por placa que debe incluir una especificación, cómo se suelen especificar materiales y tratamientos superficiales, qué cubre la inspección en la MMC Zeiss y la diferencia entre una base fabricada según su plano y una diseñada por el equipo de ingeniería de LIHE.",
+      "sections": [
+        {
+          "heading": "Opciones de alcance al pedir una base de molde de precisión",
+          "table": {
+            "head": ["Alcance", "Uso típico", "Qué enviar con la consulta", "Inspección"],
+            "rows": [
+              ["Base de molde completa", "Molde de preforma nuevo de hasta 160 cavidades, molde de tapas o de soplado nuevo", "Disposición del molde o datos del producto y de la máquina para el diseño propio de LIHE", "MMC Zeiss, informe bajo solicitud"],
+              ["Placa individual", "Añadir o sustituir una placa en un apilamiento existente", "Plano de la placa o planos de las placas que encajan con ella", "MMC Zeiss, informe bajo solicitud"],
+              ["Placa de sustitución", "Placa dañada o agrietada en un molde en servicio", "Plano original o la propia placa como referencia, número de molde", "MMC Zeiss, informe bajo solicitud"],
+              ["Placa reacondicionada", "Caras o agujeros desgastados en una placa sana", "La placa, una descripción del desgaste, datos de mediciones anteriores", "Nueva medición en MMC Zeiss tras la reparación"]
+            ]
+          }
+        },
+        {
+          "heading": "Lista de verificación del apilamiento de placas para especificar una base de molde de preforma",
+          "paragraphs": [
+            "Una base de molde de preforma consta de un lado caliente y un lado frío. Para cada placa del pedido, la especificación debe indicar lo siguiente, en el plano o en una lista aparte."
+          ],
+          "list": [
+            "Nombre de la placa y su posición en el apilamiento: placa del distribuidor, placa de respaldo, placa de cavidades, placa de núcleos, placa extractora o placas de correderas.",
+            "Dimensiones exteriores y espesor en mm, con la tolerancia de espesor y la planitud y el paralelismo requeridos.",
+            "Patrón de agujeros: número de cavidades, paso, diámetros de los agujeros y tolerancia de posición de cada agujero, todo referido a un mismo dato de referencia.",
+            "Elementos de guía y centrado: agujeros de columnas y casquillos, anillo de centrado, agujeros de pasadores y asientos de conos de centrado.",
+            "Refrigeración: diámetros, posiciones y profundidad de los canales y roscas de conexión; los canales de taladrado profundo deben mostrarse con sus puntos de entrada y salida.",
+            "Roscas y fijaciones: estándar de rosca (métrica o en pulgadas) para sujeción, elevación y conexiones de agua, acorde con los accesorios de su planta.",
+            "Marcado: número de placa, número de molde y numeración de cavidades, para poder rastrear las placas durante el mantenimiento."
+          ]
+        },
+        {
+          "heading": "Materiales y tratamientos superficiales de la base de molde en términos generales",
+          "paragraphs": [
+            "La elección de material y tratamiento depende de la función de la placa, de la vida útil prevista del molde y de la calidad del agua de refrigeración de su planta. Los puntos siguientes describen la práctica habitual en la fabricación de moldes; el material de su pedido se acuerda durante la cotización y figura en el plano."
+          ],
+          "list": [
+            "Los aceros para moldes pretemplados se usan mucho en placas porque pueden mecanizarse a medida final sin un temple que podría deformar la placa.",
+            "Los aceros inoxidables para moldes se eligen a menudo para placas con muchos canales de refrigeración, porque resisten la corrosión del agua y mantienen abierta la sección de los canales.",
+            "Los aceros de herramienta templados se usan en piezas de desgaste como casquillos guía, conos de centrado e insertos que deslizan o se bloquean entre sí.",
+            "Tratamientos superficiales como la nitruración aumentan la dureza en zonas de desgaste; los recubrimientos anticorrosión se usan en superficies expuestas a la humedad.",
+            "Si su planta ya trabaja con moldes del mismo tipo, indique los materiales que llevan, para que las placas nuevas y las existentes se comporten igual en el mantenimiento."
+          ]
+        },
+        {
+          "heading": "Inspección en MMC Zeiss: qué se mide antes de la entrega",
+          "paragraphs": [
+            "Las placas se mecanizan en centros CNC Mazak, Makino y Haas y se rectifican en rectificadoras de precisión Okamoto. Antes de la entrega, la planitud, el paralelismo y la precisión de posición de las cavidades se verifican en la MMC Zeiss propia, y los informes de validación e inspección se entregan bajo solicitud."
+          ],
+          "list": [
+            "Planitud de las caras principales y paralelismo entre ellas.",
+            "Posición de cada agujero de cavidad y de núcleo respecto a la referencia, lo que más importa en disposiciones de 72 a 160 cavidades.",
+            "Diámetros de los agujeros de guía, de centrado y de cavidad.",
+            "Posiciones de las entradas de los canales de refrigeración y de los puntos de conexión.",
+            "Bajo solicitud, un informe con valores nominales, tolerancias y valores medidos, que puede guardar como referencia para futuras revisiones de desgaste."
+          ]
+        },
+        {
+          "heading": "Fabricada según su plano o diseñada por LIHE",
+          "paragraphs": [
+            "Las bases de molde se fabrican según planos del cliente o se diseñan en LIHE para moldes nuevos. La elección determina qué envía usted y quién es responsable del diseño."
+          ],
+          "table": {
+            "head": ["Aspecto", "Según plano del cliente", "Diseño propio de LIHE"],
+            "rows": [
+              ["Caso típico", "Placas de sustitución, segundos juegos, bases de molde estandarizadas", "Moldes nuevos, nueva cavitación, conversiones de cuello"],
+              ["Qué envía usted", "Planos 2D completos con tolerancias, modelo 3D, notas de material y tratamiento", "Modelo de máquina, cavidades, plano del producto (preforma, tapa o botella)"],
+              ["Responsable del diseño", "El cliente", "Centro de ingeniería y diseño de LIHE (CAD/CAM, simulación 3D, análisis de flujo)"],
+              ["Paso de aprobación", "Revisión de planos y confirmación de puntos abiertos", "Aprobación del diseño por el cliente antes del mecanizado"]
+            ]
+          }
+        },
+        {
+          "heading": "Cómo pedir una base de molde de precisión a LIHE",
+          "steps": [
+            "Envíe a sales@lihe-preform.com el alcance (base completa, placa, sustitución o reacondicionamiento), el modelo de máquina y la cavitación.",
+            "Adjunte planos y modelo 3D si la base se fabrica según su plano, o el plano del producto y los datos de la máquina si LIHE debe diseñarla.",
+            "Indique material, tratamiento, estándar de rosca y requisitos del informe de inspección.",
+            "Revise la cotización, que confirma alcance y plazo; LIHE publica 4 semanas para repuestos y 8 semanas para moldes PET estándar.",
+            "Apruebe el plano o el diseño; siguen el mecanizado, el rectificado y la inspección en MMC Zeiss, y el informe se entrega si se ha solicitado."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Pueden fabricar una sola placa de sustitución para un molde Husky o SACMI?",
+          "answer": "Sí. Las placas individuales y de sustitución para moldes existentes forman parte del alcance. Envíe el plano original, o la placa y el número de molde, para que la placa nueva encaje con las placas contiguas."
+        },
+        {
+          "question": "¿Qué acero debo especificar para las placas?",
+          "answer": "Depende de la función de la placa, de la vida útil prevista y de las condiciones del agua de refrigeración. Los aceros pretemplados e inoxidables para moldes son opciones habituales; el material se acuerda en la cotización y se indica en el plano."
+        },
+        {
+          "question": "¿Recibo los datos de medición de la MMC?",
+          "answer": "La planitud, el paralelismo y la precisión de posición de las cavidades se verifican en MMC Zeiss antes de la entrega, y los informes de inspección se entregan bajo solicitud. Indique en su pedido qué características debe incluir el informe."
+        },
+        {
+          "question": "¿Cuál es la mayor cavitación para la que fabrican bases de molde?",
+          "answer": "Se fabrican bases y placas para moldes de preforma de hasta 160 cavidades, así como para moldes de tapas y de soplado."
+        },
+        {
+          "question": "¿Se puede reacondicionar una placa desgastada en lugar de sustituirla?",
+          "answer": "A menudo sí, si la placa no está agrietada y los canales de refrigeración están en buen estado. Las placas reacondicionadas se vuelven a medir en la MMC Zeiss tras la reparación."
+        }
+      ]
+    }
+  }
+}

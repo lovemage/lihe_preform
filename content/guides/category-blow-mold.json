@@ -1,0 +1,343 @@
+{
+  "key": "category-blow-mold",
+  "updated": "2026-10-13",
+  "sources": [
+    { "label": "Wikipedia — Blow molding", "url": "https://en.wikipedia.org/wiki/Blow_molding" },
+    { "label": "Wikipedia — Polyethylene terephthalate", "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate" },
+    { "label": "Wikipedia — Aseptic processing", "url": "https://en.wikipedia.org/wiki/Aseptic_processing" },
+    { "label": "Sidel — official website", "url": "https://www.sidel.com/en" },
+    { "label": "Krones — official website", "url": "https://www.krones.com/en/" },
+    { "label": "KHS — official website", "url": "https://www.khs.com/en/" },
+    { "label": "SIPA — official website", "url": "https://www.sipa.it/en" },
+    { "label": "Nissei ASB Machine — official website", "url": "https://www.nisseiasb.co.jp/en/" }
+  ],
+  "locales": {
+    "en": {
+      "heading": "PET blow mold overview: two-step vs one-step stretch blow molding, machine platforms and fill types",
+      "intro": "A PET blow mold is the tool that gives a heated PET preform its final bottle shape: a stretch rod and compressed air expand the preform against the cavity formed by the mold shells and the base mold. This overview explains the two stretch blow molding processes, the machine platforms LIHE builds blow molds for, how cold fill, hot fill and aseptic filling change the mold, and how to choose the right mold set. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China.",
+      "sections": [
+        {
+          "heading": "How stretch blow molding turns a PET preform into a bottle",
+          "paragraphs": [
+            "PET bottles are made in two stages of shaping. An injection mold first produces a preform, a small test-tube shape with the finished neck thread already molded. The blow mold then turns that preform into the bottle body. The preform is brought to a temperature above the glass transition of PET, placed in the closed blow mold, stretched lengthwise by a stretch rod and expanded sideways by compressed air until it touches the cavity walls.",
+            "Stretching in two directions orients the PET molecules, which gives the thin bottle wall its strength, clarity and gas barrier. The blow mold controls the final shape, the surface appearance and the cooling of the bottle, so the bottle design and the mold design are developed together."
+          ],
+          "list": [
+            "Mold shells: the two halves that form the bottle body and shoulder.",
+            "Base mold: the separate bottom insert that forms the bottle base, for example a petaloid base for carbonated drinks or a flat base for still water.",
+            "Neck plate: the part that supports the preform neck so the finished thread is not deformed during blowing.",
+            "Conversion parts: adapters that let one bottle design run on different machines."
+          ]
+        },
+        {
+          "heading": "Two-step vs one-step (ISBM) blow molding compared",
+          "paragraphs": [
+            "Blow molds are built for one of two process routes. In two-step (reheat) stretch blow molding, preforms are injection molded on one machine, stored and later reheated in an infrared oven on a separate blow molder. In one-step injection stretch blow molding (ISBM), the same machine injects the preform and blows it while the preform still holds heat from injection."
+          ],
+          "table": {
+            "head": ["", "Two-step (reheat) blow molding", "One-step (ISBM) blow molding"],
+            "rows": [
+              ["Process sequence", "Injection molding, storage, reheating, stretch blowing on separate machines", "Injection, conditioning and stretch blowing on one machine"],
+              ["Preform source", "Preforms made in-house or bought from a preform supplier", "Preforms made on the same machine and never stored"],
+              ["Machine platforms in LIHE range", "SIDEL, KRONES, SIG/KHS, TECH-LONG, NEWAMSTAR", "SIPA, ASB, AOKI"],
+              ["Typical use", "High-output beverage lines for water, CSD, juice and dairy", "Lower to medium volumes, special shapes, food, cosmetic and pharmaceutical containers"],
+              ["Mold set content", "Mold shells, base molds and neck plates for each blowing station", "Blow cavities and base molds matched to the injection and conditioning stations of the machine"],
+              ["Bottle format change", "Exchange of blow molds; preform can be shared between several bottles", "Blow mold and often injection and conditioning tooling change together"]
+            ]
+          }
+        },
+        {
+          "heading": "Blow mold machine platforms: SIDEL, KRONES, KHS, TECH-LONG, NEWAMSTAR, SIPA, ASB and AOKI",
+          "paragraphs": [
+            "Every blow molder holds its molds in a machine-specific mold carrier, with its own clamping, locking, cooling connections and base mold movement. A blow mold must be machined to that interface, so the machine brand and model are the first piece of information a mold maker needs."
+          ],
+          "list": [
+            "SIDEL: rotary two-step stretch blow molders widely used for water, CSD and sensitive beverages, including heat-set versions for hot fill.",
+            "KRONES: Contiform rotary two-step stretch blow molders, with manual and tool-free quick-change mold carriers on many models.",
+            "SIG/KHS: InnoPET Blomax rotary stretch blow molders, originally developed under the SIG brand and now built by KHS.",
+            "TECH-LONG and NEWAMSTAR: rotary two-step blow molders built in China and often installed as part of complete filling lines.",
+            "SIPA: one-step injection stretch blow molding systems that make the preform and the bottle on one machine.",
+            "ASB (Nissei ASB) and AOKI: one-step injection stretch blow molding machines used for beverage, food, cosmetic and pharmaceutical containers."
+          ]
+        },
+        {
+          "heading": "Cold fill, hot fill and aseptic blow molds",
+          "paragraphs": [
+            "The filling method of the line decides how the mold must work. Standard PET bottles start to deform above about 60°C, so a bottle that will be filled hot needs a heat-set mold, while cold fill and aseptic bottles are blown in cooled molds."
+          ],
+          "table": {
+            "head": ["", "Cold fill", "Hot fill (heat-set)", "Aseptic"],
+            "rows": [
+              ["Filling temperature", "Ambient or chilled", "About 85–95°C", "Usually ambient, in a sterile zone"],
+              ["Typical products", "Still water, CSD, juice, dairy", "Juice, tea drinks, isotonic beverages", "Sensitive juices, dairy and still drinks"],
+              ["Mold temperature control", "Cooling water in shells and base mold", "Hot oil in the shells, separate control of body and base", "Cooling water, as for cold fill"],
+              ["Bottle design focus", "Lightweighting, even wall thickness, pressure-resistant base for CSD", "Vacuum panels, ribs and a stable base", "Light weight and compatibility with bottle sterilization"]
+            ]
+          }
+        },
+        {
+          "heading": "How to choose a PET blow mold",
+          "steps": [
+            "Confirm the filling method and the actual filling temperature of the product: cold fill, hot fill or aseptic.",
+            "Identify the blow molding machine brand, model and mold carrier type, and whether the line is two-step or one-step.",
+            "Fix the bottle: capacity, target weight, neck finish, label area and base type, or send a sample bottle.",
+            "Match the preform to the bottle, or ask the mold maker to propose a preform that gives even wall thickness at the target weight.",
+            "Decide the scope: a complete set of mold shells, base molds and neck plates for every cavity, or a split-type quick-change mold with exchangeable inserts.",
+            "Plan the trial: blow sample bottles, check wall thickness, volume and top load, and approve the design before the full set is produced."
+          ]
+        },
+        {
+          "heading": "Bottle sizes, lightweighting and quick-change blow molds",
+          "list": [
+            "Common water bottle molds cover 330ml, 500ml, 550ml and 1.5L formats; other capacities are built to the bottle drawing.",
+            "Lightweighting is done on both tools: preform lightweighting proposals reduce preform weight by 1g to 2g through neck or wall-thickness optimization, and the blow mold geometry is adjusted so the lighter preform still gives an even wall.",
+            "Split-type quick-change molds let a producer exchange only cavity inserts and base molds between formats instead of the whole mold set.",
+            "Beyond beverages, blow molds are built for edible oil, condiment, food, cosmetic, toiletry and pharmaceutical containers.",
+            "Published lead times: pilot molds 20 days, standard PET molds 8 weeks, replacement parts 4 weeks.",
+            "Finished parts are inspected on an in-house Zeiss CMM, and validation and inspection reports are available on request."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is the difference between a preform mold and a blow mold?",
+          "answer": "A preform mold is an injection mold that makes the preform, including the finished neck thread. A blow mold shapes the body and base of the bottle from that preform. In a two-step line the two tools run on different machines; in a one-step ISBM machine they work on the same machine."
+        },
+        {
+          "question": "Can one blow mold run on different blow molding machines?",
+          "answer": "A bottle design can usually be transferred, but the mold shells, base molds and neck plates must fit each machine's mold carrier. LIHE supplies conversion parts so that one mold design can run on different machines, or builds a separate set for each platform."
+        },
+        {
+          "question": "Do I need a hot fill mold for juice?",
+          "answer": "Only if the juice is filled hot. Products filled at about 85–95°C need a heat-set mold and a bottle with vacuum panels. If your line fills juice aseptically or cold, a cooled mold and a bottle designed for that method are used."
+        },
+        {
+          "question": "Which is better for my plant, two-step or one-step blow molding?",
+          "answer": "Two-step lines suit high outputs and let you buy or store preforms separately. One-step ISBM machines suit smaller runs and special container shapes because the preform and bottle are made together. The choice is usually made when the line is bought; the blow mold then follows the installed machine."
+        },
+        {
+          "question": "What information does LIHE need to quote a blow mold?",
+          "answer": "The machine brand and model, the filling method and temperature, a bottle drawing or sample with capacity and target weight, the preform and neck finish, and the number of cavities to be fitted. Send these to sales@lihe-preform.com."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "Обзор выдувных форм для ПЭТ: двухстадийное и одностадийное выдувное формование, платформы машин и типы розлива",
+      "intro": "Выдувная форма для ПЭТ — это инструмент, который придаёт нагретой ПЭТ-преформе окончательную форму бутылки: вытягивающий шток и сжатый воздух раздувают преформу до стенок полости, образованной полуформами и донной формой. В обзоре описаны два процесса выдувного формования с вытяжкой, платформы машин, для которых LIHE изготавливает выдувные формы, влияние холодного, горячего и асептического розлива на конструкцию формы, а также порядок выбора комплекта. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) — производитель пресс-форм для ПЭТ-преформ, выдувных форм, форм для колпачков и компрессионных форм, горячеканальных систем и комплектующих для производства напитков и упаковки, с производством в Фошане, Китай.",
+      "sections": [
+        {
+          "heading": "Как выдувное формование с вытяжкой превращает ПЭТ-преформу в бутылку",
+          "paragraphs": [
+            "ПЭТ-бутылка формуется в два этапа. Сначала литьевая пресс-форма изготавливает преформу — небольшую заготовку в форме пробирки с уже готовой резьбой горла. Затем выдувная форма превращает преформу в корпус бутылки. Преформу нагревают выше температуры стеклования ПЭТ, помещают в закрытую выдувную форму, вытягивают в длину штоком и раздувают сжатым воздухом в стороны, пока материал не прижмётся к стенкам полости.",
+            "Вытяжка в двух направлениях ориентирует молекулы ПЭТ, что даёт тонкой стенке бутылки прочность, прозрачность и газобарьерные свойства. Выдувная форма определяет окончательную геометрию, внешний вид поверхности и охлаждение бутылки, поэтому конструкцию бутылки и формы разрабатывают вместе."
+          ],
+          "list": [
+            "Полуформы: две половины, которые формируют корпус и плечики бутылки.",
+            "Донная форма: отдельная вставка, формирующая дно бутылки, например лепестковое дно для газированных напитков или плоское дно для негазированной воды.",
+            "Плита горла: деталь, поддерживающая горло преформы, чтобы готовая резьба не деформировалась при выдуве.",
+            "Переходные детали: адаптеры, позволяющие использовать одну конструкцию бутылки на разных машинах."
+          ]
+        },
+        {
+          "heading": "Сравнение двухстадийного и одностадийного (ISBM) выдувного формования",
+          "paragraphs": [
+            "Выдувные формы проектируются под один из двух технологических маршрутов. При двухстадийном (с повторным нагревом) выдувном формовании преформы отливают на одной машине, хранят, а затем нагревают в инфракрасной печи на отдельной выдувной машине. При одностадийном литье с раздувом и вытяжкой (ISBM) одна и та же машина отливает преформу и выдувает её, пока преформа ещё сохраняет тепло после литья."
+          ],
+          "table": {
+            "head": ["", "Двухстадийное выдувное формование", "Одностадийное формование (ISBM)"],
+            "rows": [
+              ["Последовательность процесса", "Литьё, хранение, повторный нагрев и выдув с вытяжкой на разных машинах", "Литьё, кондиционирование и выдув с вытяжкой на одной машине"],
+              ["Источник преформ", "Собственное литьё или покупка у поставщика преформ", "Преформы изготавливаются на той же машине и не хранятся"],
+              ["Платформы машин в ассортименте LIHE", "SIDEL, KRONES, SIG/KHS, TECH-LONG, NEWAMSTAR", "SIPA, ASB, AOKI"],
+              ["Типичное применение", "Высокопроизводительные линии воды, газированных напитков, соков и молочной продукции", "Малые и средние объёмы, особые формы, тара для пищевых продуктов, косметики и фармацевтики"],
+              ["Состав комплекта формы", "Полуформы, донные формы и плиты горла для каждой выдувной станции", "Выдувные полости и донные формы, согласованные с литьевой станцией и станцией кондиционирования"],
+              ["Смена формата бутылки", "Замена выдувных форм; одна преформа может использоваться для нескольких бутылок", "Выдувная форма и часто литьевая оснастка меняются вместе"]
+            ]
+          }
+        },
+        {
+          "heading": "Платформы выдувных машин: SIDEL, KRONES, KHS, TECH-LONG, NEWAMSTAR, SIPA, ASB и AOKI",
+          "paragraphs": [
+            "Каждая выдувная машина удерживает формы в собственном формодержателе со своей системой зажима, фиксации, подключения охлаждения и движения донной формы. Выдувная форма должна быть обработана точно под этот интерфейс, поэтому марка и модель машины — первое, что нужно знать изготовителю формы."
+          ],
+          "list": [
+            "SIDEL: ротационные двухстадийные выдувные машины, широко применяемые для воды, газированных и чувствительных напитков, в том числе версии с термофиксацией для горячего розлива.",
+            "KRONES: ротационные двухстадийные машины Contiform, на многих моделях с ручными и бесинструментальными формодержателями быстрой смены.",
+            "SIG/KHS: ротационные выдувные машины InnoPET Blomax, первоначально разработанные под маркой SIG, а сейчас выпускаемые KHS.",
+            "TECH-LONG и NEWAMSTAR: ротационные двухстадийные выдувные машины китайского производства, часто поставляемые в составе комплектных линий розлива.",
+            "SIPA: одностадийные системы литья с раздувом и вытяжкой, изготавливающие преформу и бутылку на одной машине.",
+            "ASB (Nissei ASB) и AOKI: одностадийные машины литья с раздувом и вытяжкой для тары напитков, пищевых продуктов, косметики и фармацевтики."
+          ]
+        },
+        {
+          "heading": "Выдувные формы для холодного, горячего и асептического розлива",
+          "paragraphs": [
+            "Способ розлива на линии определяет, как должна работать форма. Стандартные ПЭТ-бутылки начинают деформироваться при температуре выше примерно 60°C, поэтому для бутылки горячего розлива нужна форма с термофиксацией, а бутылки холодного и асептического розлива выдувают в охлаждаемых формах."
+          ],
+          "table": {
+            "head": ["", "Холодный розлив", "Горячий розлив (термофиксация)", "Асептический розлив"],
+            "rows": [
+              ["Температура розлива", "Комнатная или охлаждённый продукт", "Около 85–95°C", "Обычно комнатная, в стерильной зоне"],
+              ["Типичные продукты", "Негазированная вода, газированные напитки, соки, молочная продукция", "Соки, чайные напитки, изотоники", "Чувствительные соки, молочные и негазированные напитки"],
+              ["Термостатирование формы", "Охлаждающая вода в полуформах и донной форме", "Горячее масло в полуформах, раздельное регулирование корпуса и дна", "Охлаждающая вода, как при холодном розливе"],
+              ["Акцент в конструкции бутылки", "Облегчение, равномерная толщина стенки, устойчивое к давлению дно для газированных напитков", "Вакуумные панели, рёбра и устойчивое дно", "Малый вес и совместимость со стерилизацией бутылки"]
+            ]
+          }
+        },
+        {
+          "heading": "Как выбрать выдувную форму для ПЭТ",
+          "steps": [
+            "Определите способ розлива и фактическую температуру продукта: холодный, горячий или асептический розлив.",
+            "Укажите марку и модель выдувной машины, тип формодержателя, а также двухстадийная это линия или одностадийная.",
+            "Зафиксируйте параметры бутылки: объём, целевой вес, горло, зону этикетки и тип дна, либо отправьте образец бутылки.",
+            "Подберите преформу под бутылку или попросите изготовителя формы предложить преформу, дающую равномерную стенку при целевом весе.",
+            "Определите объём поставки: полный комплект полуформ, донных форм и плит горла для каждого гнезда или разъёмная форма быстрой смены со сменными вставками.",
+            "Спланируйте испытания: выдуйте пробные бутылки, проверьте толщину стенки, объём и осевую нагрузку и утвердите конструкцию до изготовления полного комплекта."
+          ]
+        },
+        {
+          "heading": "Объёмы бутылок, облегчение и выдувные формы быстрой смены",
+          "list": [
+            "Типовые формы для бутылок воды охватывают форматы 330ml, 500ml, 550ml и 1.5L; другие объёмы изготавливаются по чертежу бутылки.",
+            "Облегчение выполняется на обоих инструментах: предложения по облегчению преформ снижают её вес на 1g–2g за счёт оптимизации горла или толщины стенки, а геометрия выдувной формы корректируется так, чтобы более лёгкая преформа давала равномерную стенку.",
+            "Разъёмные формы быстрой смены позволяют менять между форматами только вставки полостей и донные формы, а не весь комплект.",
+            "Помимо напитков, выдувные формы изготавливаются для тары растительного масла, приправ, пищевых продуктов, косметики, бытовой химии и фармацевтики.",
+            "Опубликованные сроки: пилотные формы — 20 дней, стандартные ПЭТ-формы — 8 недель, запасные части — 4 недели.",
+            "Готовые детали проверяются на собственной КИМ Zeiss; протоколы валидации и контроля предоставляются по запросу."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Чем пресс-форма для преформ отличается от выдувной формы?",
+          "answer": "Пресс-форма для преформ — это литьевая форма, которая изготавливает преформу вместе с готовой резьбой горла. Выдувная форма формирует из преформы корпус и дно бутылки. На двухстадийной линии эти инструменты работают на разных машинах, на одностадийной машине ISBM — на одной."
+        },
+        {
+          "question": "Можно ли использовать одну выдувную форму на разных машинах?",
+          "answer": "Конструкцию бутылки обычно можно перенести, но полуформы, донные формы и плиты горла должны подходить к формодержателю каждой машины. LIHE поставляет переходные детали, чтобы одна конструкция формы работала на разных машинах, или изготавливает отдельный комплект для каждой платформы."
+        },
+        {
+          "question": "Нужна ли форма горячего розлива для сока?",
+          "answer": "Только если сок разливают горячим. Для продуктов, разливаемых при температуре около 85–95°C, нужны форма с термофиксацией и бутылка с вакуумными панелями. Если сок разливают асептически или холодным, применяется охлаждаемая форма и бутылка, рассчитанная на этот способ."
+        },
+        {
+          "question": "Что лучше для моего завода — двухстадийное или одностадийное формование?",
+          "answer": "Двухстадийные линии подходят для высокой производительности и позволяют покупать или хранить преформы отдельно. Одностадийные машины ISBM подходят для небольших партий и особых форм тары, так как преформа и бутылка изготавливаются вместе. Выбор обычно делается при покупке линии, а выдувная форма затем подбирается под установленную машину."
+        },
+        {
+          "question": "Какая информация нужна LIHE для расчёта выдувной формы?",
+          "answer": "Марка и модель машины, способ и температура розлива, чертёж или образец бутылки с объёмом и целевым весом, преформа и горло, а также количество гнёзд для комплектации. Отправьте эти данные на sales@lihe-preform.com."
+        }
+      ]
+    },
+    "es": {
+      "heading": "Guía de moldes de soplado PET: soplado en dos etapas frente a una etapa, plataformas de máquina y tipos de llenado",
+      "intro": "Un molde de soplado PET es la herramienta que da a una preforma PET calentada la forma final de la botella: una varilla de estirado y aire comprimido expanden la preforma contra la cavidad que forman las carcasas del molde y el molde de fondo. Esta guía explica los dos procesos de soplado con estirado, las plataformas de máquina para las que LIHE fabrica moldes de soplado, cómo el llenado en frío, en caliente y aséptico cambia el molde, y cómo elegir el juego de moldes adecuado. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) es un fabricante de moldes de preforma PET, moldes de soplado, moldes de tapas y de compresión, sistemas de canal caliente y componentes de molde para la industria de bebidas y envases, con fabricación en Foshan, China.",
+      "sections": [
+        {
+          "heading": "Cómo el soplado con estirado convierte una preforma PET en una botella",
+          "paragraphs": [
+            "Las botellas PET se conforman en dos etapas. Primero, un molde de inyección produce la preforma, una pieza pequeña con forma de tubo de ensayo que ya lleva la rosca del cuello terminada. Después, el molde de soplado convierte esa preforma en el cuerpo de la botella. La preforma se lleva a una temperatura superior a la transición vítrea del PET, se coloca en el molde de soplado cerrado, se estira a lo largo con una varilla y se expande lateralmente con aire comprimido hasta tocar las paredes de la cavidad.",
+            "El estirado en dos direcciones orienta las moléculas de PET, lo que da a la pared fina de la botella resistencia, transparencia y barrera a los gases. El molde de soplado define la forma final, el aspecto de la superficie y el enfriamiento de la botella, por eso el diseño de la botella y el del molde se desarrollan juntos."
+          ],
+          "list": [
+            "Carcasas del molde: las dos mitades que forman el cuerpo y el hombro de la botella.",
+            "Molde de fondo: el inserto separado que forma la base de la botella, por ejemplo una base petaloide para bebidas carbonatadas o una base plana para agua sin gas.",
+            "Placa de cuello: la pieza que sostiene el cuello de la preforma para que la rosca terminada no se deforme durante el soplado.",
+            "Piezas de conversión: adaptadores que permiten usar un mismo diseño de botella en distintas máquinas."
+          ]
+        },
+        {
+          "heading": "Soplado en dos etapas frente a una etapa (ISBM)",
+          "paragraphs": [
+            "Los moldes de soplado se fabrican para una de dos rutas de proceso. En el soplado con estirado en dos etapas (recalentamiento), las preformas se inyectan en una máquina, se almacenan y luego se recalientan en un horno de infrarrojos de una sopladora separada. En la inyección-soplado con estirado en una etapa (ISBM), la misma máquina inyecta la preforma y la sopla mientras aún conserva el calor de la inyección."
+          ],
+          "table": {
+            "head": ["", "Soplado en dos etapas (recalentamiento)", "Soplado en una etapa (ISBM)"],
+            "rows": [
+              ["Secuencia del proceso", "Inyección, almacenamiento, recalentamiento y soplado con estirado en máquinas separadas", "Inyección, acondicionamiento y soplado con estirado en una sola máquina"],
+              ["Origen de la preforma", "Preformas fabricadas en planta o compradas a un proveedor", "Preformas fabricadas en la misma máquina, sin almacenamiento"],
+              ["Plataformas en la gama LIHE", "SIDEL, KRONES, SIG/KHS, TECH-LONG, NEWAMSTAR", "SIPA, ASB, AOKI"],
+              ["Uso típico", "Líneas de alta producción de agua, bebidas carbonatadas, zumos y lácteos", "Volúmenes bajos a medios, formas especiales, envases de alimentos, cosmética y farmacia"],
+              ["Contenido del juego de moldes", "Carcasas, moldes de fondo y placas de cuello para cada estación de soplado", "Cavidades de soplado y moldes de fondo adaptados a las estaciones de inyección y acondicionamiento"],
+              ["Cambio de formato", "Se cambian los moldes de soplado; una preforma puede servir para varias botellas", "El molde de soplado y a menudo el utillaje de inyección cambian juntos"]
+            ]
+          }
+        },
+        {
+          "heading": "Plataformas de sopladoras: SIDEL, KRONES, KHS, TECH-LONG, NEWAMSTAR, SIPA, ASB y AOKI",
+          "paragraphs": [
+            "Cada sopladora sujeta sus moldes en un portamoldes propio de la máquina, con su sistema de cierre, bloqueo, conexiones de refrigeración y movimiento del molde de fondo. El molde de soplado debe mecanizarse para esa interfaz, por eso la marca y el modelo de la máquina son el primer dato que necesita un fabricante de moldes."
+          ],
+          "list": [
+            "SIDEL: sopladoras rotativas de dos etapas muy utilizadas para agua, bebidas carbonatadas y bebidas sensibles, incluidas versiones de termofijado para llenado en caliente.",
+            "KRONES: sopladoras rotativas Contiform de dos etapas, con portamoldes de cambio rápido manual y sin herramientas en muchos modelos.",
+            "SIG/KHS: sopladoras rotativas InnoPET Blomax, desarrolladas originalmente bajo la marca SIG y fabricadas hoy por KHS.",
+            "TECH-LONG y NEWAMSTAR: sopladoras rotativas de dos etapas fabricadas en China, a menudo instaladas como parte de líneas de llenado completas.",
+            "SIPA: sistemas de inyección-soplado con estirado en una etapa que fabrican la preforma y la botella en la misma máquina.",
+            "ASB (Nissei ASB) y AOKI: máquinas de inyección-soplado con estirado en una etapa para envases de bebidas, alimentos, cosmética y farmacia."
+          ]
+        },
+        {
+          "heading": "Moldes de soplado para llenado en frío, en caliente y aséptico",
+          "paragraphs": [
+            "El método de llenado de la línea decide cómo debe trabajar el molde. Las botellas PET estándar empiezan a deformarse por encima de unos 60°C, por lo que una botella que se llenará en caliente necesita un molde de termofijado, mientras que las botellas de llenado en frío y aséptico se soplan en moldes refrigerados."
+          ],
+          "table": {
+            "head": ["", "Llenado en frío", "Llenado en caliente (termofijado)", "Llenado aséptico"],
+            "rows": [
+              ["Temperatura de llenado", "Ambiente o refrigerado", "Unos 85–95°C", "Normalmente ambiente, en zona estéril"],
+              ["Productos típicos", "Agua sin gas, bebidas carbonatadas, zumos, lácteos", "Zumos, bebidas de té, bebidas isotónicas", "Zumos sensibles, lácteos y bebidas sin gas"],
+              ["Control de temperatura del molde", "Agua de refrigeración en carcasas y molde de fondo", "Aceite caliente en las carcasas, control separado de cuerpo y fondo", "Agua de refrigeración, como en llenado en frío"],
+              ["Prioridad en el diseño de la botella", "Aligeramiento, espesor de pared uniforme, base resistente a la presión para bebidas carbonatadas", "Paneles de vacío, nervios y base estable", "Poco peso y compatibilidad con la esterilización de la botella"]
+            ]
+          }
+        },
+        {
+          "heading": "Cómo elegir un molde de soplado PET",
+          "steps": [
+            "Confirme el método de llenado y la temperatura real del producto: llenado en frío, en caliente o aséptico.",
+            "Identifique la marca y el modelo de la sopladora, el tipo de portamoldes y si la línea es de dos etapas o de una etapa.",
+            "Defina la botella: capacidad, peso objetivo, acabado de cuello, zona de etiqueta y tipo de base, o envíe una botella de muestra.",
+            "Adapte la preforma a la botella, o pida al fabricante del molde que proponga una preforma que dé un espesor de pared uniforme con el peso objetivo.",
+            "Decida el alcance: un juego completo de carcasas, moldes de fondo y placas de cuello para cada cavidad, o un molde de cambio rápido tipo partido con insertos intercambiables.",
+            "Planifique la prueba: sople botellas de muestra, compruebe espesor de pared, volumen y carga vertical, y apruebe el diseño antes de fabricar el juego completo."
+          ]
+        },
+        {
+          "heading": "Tamaños de botella, aligeramiento y moldes de soplado de cambio rápido",
+          "list": [
+            "Los moldes habituales para botellas de agua cubren formatos de 330ml, 500ml, 550ml y 1.5L; otras capacidades se fabrican según el plano de la botella.",
+            "El aligeramiento se trabaja en las dos herramientas: las propuestas de aligeramiento de preformas reducen su peso de 1g a 2g optimizando el cuello o el espesor de pared, y la geometría del molde de soplado se ajusta para que la preforma más ligera siga dando una pared uniforme.",
+            "Los moldes de cambio rápido tipo partido permiten cambiar entre formatos solo los insertos de cavidad y los moldes de fondo, en lugar de todo el juego.",
+            "Además de bebidas, se fabrican moldes de soplado para envases de aceite comestible, condimentos, alimentos, cosmética, artículos de aseo y farmacia.",
+            "Plazos de entrega publicados: moldes piloto 20 días, moldes PET estándar 8 semanas, piezas de repuesto 4 semanas.",
+            "Las piezas terminadas se inspeccionan en una MMC Zeiss propia, y los informes de validación e inspección están disponibles bajo solicitud."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Qué diferencia hay entre un molde de preforma y un molde de soplado?",
+          "answer": "Un molde de preforma es un molde de inyección que fabrica la preforma, incluida la rosca terminada del cuello. Un molde de soplado da forma al cuerpo y a la base de la botella a partir de esa preforma. En una línea de dos etapas las dos herramientas trabajan en máquinas distintas; en una máquina ISBM de una etapa trabajan en la misma máquina."
+        },
+        {
+          "question": "¿Puede un molde de soplado funcionar en distintas sopladoras?",
+          "answer": "El diseño de la botella normalmente se puede transferir, pero las carcasas, los moldes de fondo y las placas de cuello deben encajar en el portamoldes de cada máquina. LIHE suministra piezas de conversión para que un mismo diseño de molde funcione en distintas máquinas, o fabrica un juego separado para cada plataforma."
+        },
+        {
+          "question": "¿Necesito un molde de llenado en caliente para zumo?",
+          "answer": "Solo si el zumo se llena en caliente. Los productos llenados a unos 85–95°C necesitan un molde de termofijado y una botella con paneles de vacío. Si su línea llena el zumo en aséptico o en frío, se usa un molde refrigerado y una botella diseñada para ese método."
+        },
+        {
+          "question": "¿Qué conviene más a mi planta, soplado en dos etapas o en una etapa?",
+          "answer": "Las líneas de dos etapas se adaptan a producciones altas y permiten comprar o almacenar preformas por separado. Las máquinas ISBM de una etapa se adaptan a series más cortas y a formas especiales, porque la preforma y la botella se fabrican juntas. La elección suele hacerse al comprar la línea; después, el molde de soplado se adapta a la máquina instalada."
+        },
+        {
+          "question": "¿Qué información necesita LIHE para cotizar un molde de soplado?",
+          "answer": "La marca y el modelo de la máquina, el método y la temperatura de llenado, un plano o muestra de la botella con capacidad y peso objetivo, la preforma y el acabado de cuello, y el número de cavidades a equipar. Envíe estos datos a sales@lihe-preform.com."
+        }
+      ]
+    }
+  }
+}

@@ -11,6 +11,7 @@ import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import JsonLd from "@/components/seo/JsonLd";
 import YandexMetrica from "@/components/analytics/YandexMetrica";
+import AttributionCapture from "@/components/analytics/AttributionCapture";
 import "@/styles/globals.css";
 import { DM_Sans, Plus_Jakarta_Sans } from "next/font/google";
 
@@ -131,6 +132,8 @@ export default async function LocaleLayout({
     "@context": "https://schema.org",
     "@type": "Organization",
     name: "Foshan Lihe Precision Machinery Co.,Ltd.",
+    alternateName: ["LIHE Precision", "LIHE Preform"],
+    description: (messages as any).common.definition,
     url: "https://lihe-preform.com",
     logo: "https://lihe-preform.com/images/logo/logo.webp",
     contactPoint: {
@@ -175,6 +178,7 @@ export default async function LocaleLayout({
           <main lang={locale}>{children}</main>
           <Footer siteData={siteData} />
           <YandexMetrica />
+          <AttributionCapture />
         </NextIntlClientProvider>
       </body>
     </html>

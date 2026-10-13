@@ -7,6 +7,8 @@ import Stats from "@/components/home/Stats";
 import MoldHighlights from "@/components/home/MoldHighlights";
 import CategoryShowcase from "@/components/home/CategoryShowcase";
 import FeaturedProducts from "@/components/home/FeaturedProducts";
+import PageGuide from "@/components/content/PageGuide";
+import AiImageNotice from "@/components/ui/AiImageNotice/AiImageNotice";
 
 // Curated for the home page: one visually distinct product shot per card.
 // The first ID is rendered as the large feature card.
@@ -86,6 +88,9 @@ export default async function HomePage({
         title={t("coreCapabilities")}
         subtitle={t("coreCapabilitiesSub")}
       />
+      <div className="container">
+        <AiImageNotice align="center" />
+      </div>
       <FeaturedProducts
         products={featuredProducts}
         title={t("featuredProducts")}
@@ -93,6 +98,10 @@ export default async function HomePage({
         moreLabel={t("more")}
         viewAllLabel={t("viewAllProducts")}
       />
+      <div className="container">
+        <AiImageNotice align="center" />
+      </div>
+      <PageGuide locale={locale} guideKey="page-home" />
     </>
   );
 }

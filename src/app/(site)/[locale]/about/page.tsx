@@ -6,6 +6,8 @@ import { clampDescription, getLocaleAlternates } from "@/lib/seo";
 import Breadcrumb from "@/components/ui/Breadcrumb/Breadcrumb";
 import SectionHeading from "@/components/ui/SectionHeading/SectionHeading";
 import styles from "./page.module.css";
+import PageGuide from "@/components/content/PageGuide";
+import AiImageNotice from "@/components/ui/AiImageNotice/AiImageNotice";
 
 export async function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -58,6 +60,9 @@ export default async function AboutPage({
           </div>
         </div>
       </section>
+      <div className="container">
+        <AiImageNotice />
+      </div>
 
       {/* Breadcrumb */}
       <div className={styles.container}>
@@ -74,6 +79,7 @@ export default async function AboutPage({
         <div className={styles.container}>
           <SectionHeading title={t("companyIntroHeading")} variant="none" />
           <div className={styles.introContent}>
+            <p className={styles.introParagraph}>{tCommon("definition")}</p>
             <p className={styles.introParagraph}>{data.companyIntro}</p>
             <p className={styles.introParagraph}>{data.philosophy}</p>
           </div>
@@ -143,6 +149,7 @@ export default async function AboutPage({
           </div>
         </div>
       </section>
+      <PageGuide locale={locale} guideKey="page-about" />
     </div>
   );
 }

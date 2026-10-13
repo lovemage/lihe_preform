@@ -1,0 +1,375 @@
+{
+  "key": "product-17",
+  "updated": "2026-10-13",
+  "sources": [
+    { "label": "Mazak — official website", "url": "https://www.mazak.com/" },
+    { "label": "Makino — official website", "url": "https://www.makino.com/" },
+    { "label": "Sodick — official website", "url": "https://www.sodick.com/" },
+    { "label": "Hardinge — official website", "url": "https://www.hardinge.com/" },
+    { "label": "Okamoto — official website", "url": "https://www.okamoto.co.jp/" },
+    { "label": "Beijing Jingdiao — official website", "url": "https://www.jingdiao.com/" },
+    { "label": "Wikipedia — Haas Automation", "url": "https://en.wikipedia.org/wiki/Haas_Automation" }
+  ],
+  "locales": {
+    "en": {
+      "heading": "Machining equipment reference for PET preform and blow molds: Mazak, Makino, Okamoto, Haas, Hardinge, Beijing Jingdiao and Sodick",
+      "intro": "Machining equipment in mold making refers to the CNC machine tools — machining centers, turning centers, grinders, engraving machines and EDM machines — that shape steel into mold plates, cores, cavities, neck rings and blow mold cavities. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China. This page is a brand-by-brand reference: what each machine builder is known for and what its machines do in PET mold making.",
+      "sections": [
+        {
+          "heading": "Why the machine brand matters in PET preform mold making",
+          "paragraphs": [
+            "Machine tool builders specialize. Some focus on rigid multi-axis machining centers, some on precision turning, some on grinding or EDM. A buyer who knows what each brand is built for can judge whether a mold maker has the right machine for each part — not just a long list of machines."
+          ],
+          "list": [
+            "Accuracy and repeatability: a machine's spindle, guideways and thermal behavior set how closely it holds size over a long batch of identical parts.",
+            "Specialization: turning, milling, grinding and EDM each need a dedicated machine type to reach their best results.",
+            "Consistency: a mold with up to 160 cavities needs the same part machined many times with the same result.",
+            "Limits: a brand is not a guarantee by itself — programming, tooling, fixturing and measurement decide the final result."
+          ]
+        },
+        {
+          "heading": "Mazak and Makino (Japan): machining centers for mold plates, cavities and blow mold shells",
+          "paragraphs": [
+            "Yamazaki Mazak is a Japanese builder of machining centers, turning centers and multi-tasking machines that combine turning and milling. Makino, also from Japan, is known for machining centers and EDM machines aimed at die and mold work, including high-speed machining of hardened steel."
+          ],
+          "list": [
+            "Mold making role: multi-axis milling of mold plates and mold bases, cavity pockets, cooling channels and blow mold shells.",
+            "Why multi-axis matters: machining several faces in one clamping keeps bores, pockets and faces in correct relation to each other.",
+            "Why high-speed machining matters: small tools at high spindle speeds produce accurate contours and good surface finish on blow mold cavities, reducing polishing time.",
+            "At LIHE, mold bases are machined on Mazak, Makino and Haas machines."
+          ]
+        },
+        {
+          "heading": "Okamoto (Japan): precision surface grinding of plates and components",
+          "paragraphs": [
+            "Okamoto is a Japanese builder of grinding machines, including surface grinders. Grinding works on hardened steel and produces flat, parallel faces with fine finish."
+          ],
+          "list": [
+            "Mold making role: finishing mold plates and components to flatness and parallelism after heat treatment.",
+            "Why it matters: equal stack heights across all cavities depend on plates being flat and parallel; sealing faces must close without flash.",
+            "At LIHE, mold bases are ground on Okamoto machines and then verified on the Zeiss CMM."
+          ]
+        },
+        {
+          "heading": "Haas and Hardinge (USA): general CNC machining and precision turning",
+          "paragraphs": [
+            "Haas Automation, based in California, builds CNC vertical and horizontal machining centers and lathes that are widely used for general machining. Hardinge, based in New York State, is known for precision lathes and turning centers designed for close-tolerance round parts."
+          ],
+          "list": [
+            "Haas mold making role: general milling of plates, fixtures and supporting parts, and capacity for mold base machining.",
+            "Hardinge mold making role: turning of preform cores, cavities and neck rings — round parts where diameter and concentricity set preform wall thickness.",
+            "Why precision turning matters: turned features are naturally concentric, which is what core-to-cavity alignment needs."
+          ]
+        },
+        {
+          "heading": "Beijing Jingdiao (China): high-speed engraving for fine detail",
+          "paragraphs": [
+            "Beijing Jingdiao builds high-speed precision machining and engraving centers designed for small tools, fine features and high surface quality."
+          ],
+          "list": [
+            "Mold making role: embossed text, logos, grip patterns and fine radii in blow mold cavities, and small precise features on inserts.",
+            "Why it matters: fine detail cut accurately needs less hand finishing, which keeps cavities consistent across a multi-cavity blow mold set.",
+            "At LIHE, Jingdiao machines are used for fine details and polished blow mold cavities."
+          ]
+        },
+        {
+          "heading": "Sodick (Japan): EDM and wire EDM for hardened details",
+          "paragraphs": [
+            "Sodick is a Japanese builder of electrical discharge machines, including die-sinking EDM and wire EDM. EDM removes metal with electrical sparks, so it can cut fully hardened steel and produce sharp internal corners and narrow slots that cutting tools cannot reach."
+          ],
+          "list": [
+            "Mold making role: gate inserts, hot runner details, neck ring vents and thread details, and through-profiles in inserts and plates.",
+            "Why it matters: gate details control gate quality on every preform; making them after hardening avoids distortion from heat treatment."
+          ]
+        },
+        {
+          "heading": "Brand reference table",
+          "table": {
+            "head": ["Brand", "Country", "Machine type", "Typical mold making use"],
+            "rows": [
+              ["Mazak", "Japan", "Machining centers, multi-tasking and turning centers", "Mold plates and bases, cavities, blow mold shells"],
+              ["Makino", "Japan", "High-speed machining centers", "Mold plates, cavities, hardened contours, blow mold shells"],
+              ["Okamoto", "Japan", "Surface grinders", "Flatness and parallelism of plates and components"],
+              ["Haas", "USA", "CNC machining centers and lathes", "General machining, fixtures, mold bases"],
+              ["Hardinge", "USA", "Precision turning centers", "Cores, cavities and neck rings"],
+              ["Beijing Jingdiao", "China", "High-speed engraving machines", "Fine details, polished blow mold cavities"],
+              ["Sodick", "Japan", "EDM and wire EDM", "Gate inserts, hot runner details, neck ring details"]
+            ]
+          }
+        },
+        {
+          "heading": "How a mold base moves across the machines",
+          "steps": [
+            "Rough and finish-mill the plates — pockets, bores, cooling channels and bolt patterns — on Mazak, Makino or Haas machining centers.",
+            "Grind the plate faces flat and parallel on Okamoto surface grinders.",
+            "Cut any hardened slots or fine profiles by Sodick EDM where needed.",
+            "Verify plate geometry and bore positions on the Zeiss CMM.",
+            "Release the mold base for assembly with cores, cavities and neck rings turned on Hardinge machines."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Why does LIHE use machines from several brands instead of one?",
+          "answer": "Each builder specializes: Mazak and Makino in machining centers, Hardinge in precision turning, Okamoto in grinding, Beijing Jingdiao in high-speed engraving and Sodick in EDM. Matching the machine type to the part gives better accuracy and finish."
+        },
+        {
+          "question": "Which machines make the preform core and cavity?",
+          "answer": "Cores, cavities and neck rings are turned on Hardinge precision turning centers, with Mazak and Makino machining centers used for cavity features and Sodick EDM for fine hardened details."
+        },
+        {
+          "question": "Are mold bases ground after milling?",
+          "answer": "Yes. LIHE mold bases are machined on Mazak, Makino and Haas, ground on Okamoto and verified on the Zeiss CMM, for preform molds up to 160 cavities."
+        },
+        {
+          "question": "Does the equipment also support replacement parts for Husky or SACMI molds?",
+          "answer": "Yes. The same machines produce replacement and conversion parts. LIHE makes replacement parts from customers' existing Husky, SACMI or Otto parts, with a published lead time of 4 weeks for replacement parts."
+        },
+        {
+          "question": "What tool life can I expect from parts made on this equipment?",
+          "answer": "LIHE molds are built to withstand up to 8 million shots on Husky, SACMI and Netstal platforms. Actual life depends on resin, process and maintenance."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "Справочник по станочному оборудованию для преформных и выдувных форм: Mazak, Makino, Okamoto, Haas, Hardinge, Beijing Jingdiao и Sodick",
+      "intro": "Станочное оборудование в производстве пресс-форм — это станки с ЧПУ: обрабатывающие центры, токарные центры, шлифовальные, гравировальные и электроэрозионные станки, которые превращают сталь в плиты, пуансоны, матрицы, горловые кольца и полости выдувных форм. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) — производитель пресс-форм для ПЭТ-преформ, выдувных форм, форм для колпачков и компрессионных форм, горячеканальных систем и комплектующих для производства напитков и упаковки, с производством в Фошане, Китай. Эта страница — справочник по маркам: чем известен каждый производитель станков и что его станки делают при изготовлении ПЭТ-форм.",
+      "sections": [
+        {
+          "heading": "Почему марка станка важна при изготовлении пресс-форм для ПЭТ-преформ",
+          "paragraphs": [
+            "Производители станков специализируются. Одни делают жёсткие многоосевые обрабатывающие центры, другие — прецизионные токарные станки, третьи — шлифовальные или электроэрозионные. Покупатель, который знает, для чего создана каждая марка, может оценить, есть ли у изготовителя форм подходящий станок для каждой детали, а не просто длинный список оборудования."
+          ],
+          "list": [
+            "Точность и повторяемость: шпиндель, направляющие и тепловое поведение станка определяют, насколько точно он держит размер на длинной партии одинаковых деталей.",
+            "Специализация: точение, фрезерование, шлифование и электроэрозия требуют своего типа станка для наилучшего результата.",
+            "Стабильность: форма на 160 гнёзд требует многократного изготовления одной и той же детали с одинаковым результатом.",
+            "Ограничения: марка сама по себе не гарантия — итог определяют программирование, инструмент, закрепление и измерения."
+          ]
+        },
+        {
+          "heading": "Mazak и Makino (Япония): обрабатывающие центры для плит, матриц и корпусов выдувных форм",
+          "paragraphs": [
+            "Yamazaki Mazak — японский производитель обрабатывающих центров, токарных центров и многофункциональных станков, совмещающих точение и фрезерование. Makino, также из Японии, известна обрабатывающими центрами и электроэрозионными станками для штампового и пресс-формового производства, включая высокоскоростную обработку закалённой стали."
+          ],
+          "list": [
+            "Роль в производстве форм: многоосевое фрезерование плит и оснований форм, карманов матриц, каналов охлаждения и корпусов выдувных форм.",
+            "Почему важна многоосевая обработка: обработка нескольких сторон за одну установку сохраняет правильное взаимное положение отверстий, карманов и плоскостей.",
+            "Почему важна высокоскоростная обработка: малый инструмент на высоких оборотах даёт точные контуры и хорошую поверхность полостей выдувных форм и сокращает полирование.",
+            "В LIHE основания форм обрабатываются на станках Mazak, Makino и Haas."
+          ]
+        },
+        {
+          "heading": "Okamoto (Япония): прецизионное плоское шлифование плит и деталей",
+          "paragraphs": [
+            "Okamoto — японский производитель шлифовальных станков, в том числе плоскошлифовальных. Шлифование работает по закалённой стали и даёт плоские параллельные поверхности с тонкой шероховатостью."
+          ],
+          "list": [
+            "Роль в производстве форм: доводка плит и деталей по плоскостности и параллельности после термообработки.",
+            "Почему это важно: одинаковая высота пакетов во всех гнёздах зависит от плоскостности и параллельности плит; уплотняющие поверхности должны смыкаться без облоя.",
+            "В LIHE основания форм шлифуются на станках Okamoto, а затем проверяются на КИМ Zeiss."
+          ]
+        },
+        {
+          "heading": "Haas и Hardinge (США): общая обработка на ЧПУ и прецизионное точение",
+          "paragraphs": [
+            "Haas Automation из Калифорнии выпускает вертикальные и горизонтальные обрабатывающие центры и токарные станки с ЧПУ, широко используемые для общей механообработки. Hardinge из штата Нью-Йорк известна прецизионными токарными станками и токарными центрами для круглых деталей с жёсткими допусками."
+          ],
+          "list": [
+            "Роль Haas в производстве форм: общее фрезерование плит, оснастки и вспомогательных деталей, а также мощности для обработки оснований форм.",
+            "Роль Hardinge в производстве форм: точение пуансонов, матриц и горловых колец — круглых деталей, у которых диаметр и соосность задают толщину стенки преформы.",
+            "Почему важно прецизионное точение: точёные элементы естественным образом соосны, а именно это требуется для центрирования пуансона относительно матрицы."
+          ]
+        },
+        {
+          "heading": "Beijing Jingdiao (Китай): высокоскоростное гравирование мелких деталей",
+          "paragraphs": [
+            "Beijing Jingdiao выпускает высокоскоростные прецизионные обрабатывающие и гравировальные центры, рассчитанные на малый инструмент, мелкие элементы и высокое качество поверхности."
+          ],
+          "list": [
+            "Роль в производстве форм: рельефные надписи, логотипы, рисунок захвата и мелкие радиусы в полостях выдувных форм, а также небольшие точные элементы вставок.",
+            "Почему это важно: точно прорезанные мелкие детали требуют меньше ручной доводки, что сохраняет одинаковость полостей в многогнёздном комплекте выдувных форм.",
+            "В LIHE станки Jingdiao используются для мелких деталей и полированных полостей выдувных форм."
+          ]
+        },
+        {
+          "heading": "Sodick (Япония): электроэрозия и проволочная электроэрозия для закалённых элементов",
+          "paragraphs": [
+            "Sodick — японский производитель электроэрозионных станков, включая копировально-прошивочные и проволочно-вырезные. Электроэрозия снимает металл электрическими разрядами, поэтому режет полностью закалённую сталь и даёт острые внутренние углы и узкие пазы, недоступные режущему инструменту."
+          ],
+          "list": [
+            "Роль в производстве форм: литниковые вставки, элементы горячего канала, вентиляция и детали резьбы горловых колец, сквозные контуры во вставках и плитах.",
+            "Почему это важно: элементы литника определяют качество литника на каждой преформе; их изготовление после закалки исключает деформацию от термообработки."
+          ]
+        },
+        {
+          "heading": "Справочная таблица марок",
+          "table": {
+            "head": ["Марка", "Страна", "Тип станка", "Типичное применение в производстве форм"],
+            "rows": [
+              ["Mazak", "Япония", "Обрабатывающие центры, многофункциональные и токарные центры", "Плиты и основания форм, матрицы, корпуса выдувных форм"],
+              ["Makino", "Япония", "Высокоскоростные обрабатывающие центры", "Плиты, матрицы, закалённые контуры, корпуса выдувных форм"],
+              ["Okamoto", "Япония", "Плоскошлифовальные станки", "Плоскостность и параллельность плит и деталей"],
+              ["Haas", "США", "Обрабатывающие центры и токарные станки с ЧПУ", "Общая обработка, оснастка, основания форм"],
+              ["Hardinge", "США", "Прецизионные токарные центры", "Пуансоны, матрицы и горловые кольца"],
+              ["Beijing Jingdiao", "Китай", "Высокоскоростные гравировальные станки", "Мелкие детали, полированные полости выдувных форм"],
+              ["Sodick", "Япония", "Электроэрозия и проволочная электроэрозия", "Литниковые вставки, элементы горячего канала, горловые кольца"]
+            ]
+          }
+        },
+        {
+          "heading": "Как основание формы проходит через станки",
+          "steps": [
+            "Черновое и чистовое фрезерование плит — карманы, отверстия, каналы охлаждения и крепёжные отверстия — на обрабатывающих центрах Mazak, Makino или Haas.",
+            "Шлифование плоскостей плит в плоскость и параллельность на плоскошлифовальных станках Okamoto.",
+            "При необходимости вырезание закалённых пазов или тонких профилей на электроэрозионных станках Sodick.",
+            "Проверка геометрии плит и положения отверстий на КИМ Zeiss.",
+            "Передача основания формы на сборку с пуансонами, матрицами и горловыми кольцами, выточенными на станках Hardinge."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Почему LIHE использует станки нескольких марок, а не одной?",
+          "answer": "Каждый производитель специализируется: Mazak и Makino — на обрабатывающих центрах, Hardinge — на прецизионном точении, Okamoto — на шлифовании, Beijing Jingdiao — на высокоскоростном гравировании, Sodick — на электроэрозии. Подбор типа станка под деталь даёт лучшую точность и качество поверхности."
+        },
+        {
+          "question": "На каких станках изготавливают пуансон и матрицу преформы?",
+          "answer": "Пуансоны, матрицы и горловые кольца точат на прецизионных токарных центрах Hardinge; для элементов матриц используются обрабатывающие центры Mazak и Makino, а для мелких закалённых деталей — электроэрозия Sodick."
+        },
+        {
+          "question": "Шлифуют ли основания форм после фрезерования?",
+          "answer": "Да. Основания форм LIHE обрабатываются на Mazak, Makino и Haas, шлифуются на Okamoto и проверяются на КИМ Zeiss — для преформных форм до 160 гнёзд."
+        },
+        {
+          "question": "Подходит ли это оборудование для запасных частей к формам Husky или SACMI?",
+          "answer": "Да. На тех же станках изготавливаются запасные части и детали переоснастки. LIHE делает запасные части по существующим деталям Husky, SACMI или Otto заказчика; опубликованный срок для запасных частей — 4 недели."
+        },
+        {
+          "question": "Какой ресурс можно ожидать от деталей, изготовленных на этом оборудовании?",
+          "answer": "Формы LIHE рассчитаны на выдерживание до 8 миллионов циклов на платформах Husky, SACMI и Netstal. Фактический ресурс зависит от сырья, процесса и обслуживания."
+        }
+      ]
+    },
+    "es": {
+      "heading": "Referencia de equipos de mecanizado para moldes de preforma PET y de soplado: Mazak, Makino, Okamoto, Haas, Hardinge, Beijing Jingdiao y Sodick",
+      "intro": "El equipo de mecanizado en la fabricación de moldes es el conjunto de máquinas herramienta CNC — centros de mecanizado, centros de torneado, rectificadoras, máquinas de grabado y de electroerosión — que transforman el acero en placas, machos, cavidades, anillos de cuello y cavidades de moldes de soplado. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) es un fabricante de moldes de preforma PET, moldes de soplado, moldes de tapas y de compresión, sistemas de canal caliente y componentes de molde para la industria de bebidas y envases, con fabricación en Foshan, China. Esta página es una referencia marca por marca: por qué es conocido cada fabricante de máquinas y qué hacen sus máquinas en la fabricación de moldes PET.",
+      "sections": [
+        {
+          "heading": "Por qué importa la marca de la máquina en la fabricación de moldes de preforma PET",
+          "paragraphs": [
+            "Los fabricantes de máquinas herramienta se especializan. Unos se centran en centros de mecanizado multieje rígidos, otros en torneado de precisión y otros en rectificado o electroerosión. Un comprador que sabe para qué está pensada cada marca puede juzgar si un fabricante de moldes tiene la máquina adecuada para cada pieza, y no solo una larga lista de equipos."
+          ],
+          "list": [
+            "Precisión y repetibilidad: el husillo, las guías y el comportamiento térmico de una máquina determinan cuánto mantiene la medida en una serie larga de piezas idénticas.",
+            "Especialización: torneado, fresado, rectificado y electroerosión necesitan cada uno su tipo de máquina para dar el mejor resultado.",
+            "Constancia: un molde de hasta 160 cavidades exige mecanizar la misma pieza muchas veces con el mismo resultado.",
+            "Límites: una marca no es una garantía por sí sola; la programación, las herramientas, la sujeción y la medición deciden el resultado final."
+          ]
+        },
+        {
+          "heading": "Mazak y Makino (Japón): centros de mecanizado para placas, cavidades y carcasas de moldes de soplado",
+          "paragraphs": [
+            "Yamazaki Mazak es un fabricante japonés de centros de mecanizado, centros de torneado y máquinas multitarea que combinan torneado y fresado. Makino, también japonesa, es conocida por sus centros de mecanizado y máquinas de electroerosión orientados a matrices y moldes, incluido el mecanizado de alta velocidad de acero templado."
+          ],
+          "list": [
+            "Papel en la fabricación de moldes: fresado multieje de placas y bases de molde, cajeras de cavidades, canales de refrigeración y carcasas de moldes de soplado.",
+            "Por qué importa el multieje: mecanizar varias caras en una sola sujeción mantiene alojamientos, cajeras y caras en la relación correcta.",
+            "Por qué importa la alta velocidad: herramientas pequeñas a altas revoluciones producen contornos precisos y buen acabado en las cavidades de soplado, lo que reduce el tiempo de pulido.",
+            "En LIHE, las bases de molde se mecanizan en máquinas Mazak, Makino y Haas."
+          ]
+        },
+        {
+          "heading": "Okamoto (Japón): rectificado plano de precisión de placas y componentes",
+          "paragraphs": [
+            "Okamoto es un fabricante japonés de rectificadoras, entre ellas rectificadoras planas. El rectificado trabaja sobre acero templado y produce caras planas y paralelas con un acabado fino."
+          ],
+          "list": [
+            "Papel en la fabricación de moldes: acabado de placas y componentes en planitud y paralelismo tras el tratamiento térmico.",
+            "Por qué importa: alturas de conjunto iguales en todas las cavidades dependen de placas planas y paralelas; las caras de sellado deben cerrar sin rebaba.",
+            "En LIHE, las bases de molde se rectifican en máquinas Okamoto y luego se verifican en la CMM Zeiss."
+          ]
+        },
+        {
+          "heading": "Haas y Hardinge (EE. UU.): mecanizado CNC general y torneado de precisión",
+          "paragraphs": [
+            "Haas Automation, con sede en California, fabrica centros de mecanizado verticales y horizontales y tornos CNC muy utilizados para el mecanizado general. Hardinge, con sede en el estado de Nueva York, es conocida por sus tornos y centros de torneado de precisión para piezas redondas de tolerancias estrechas."
+          ],
+          "list": [
+            "Papel de Haas: fresado general de placas, utillajes y piezas auxiliares, y capacidad para mecanizar bases de molde.",
+            "Papel de Hardinge: torneado de machos, cavidades y anillos de cuello de preforma, piezas redondas en las que el diámetro y la concentricidad fijan el espesor de pared de la preforma.",
+            "Por qué importa el torneado de precisión: las características torneadas son concéntricas por naturaleza, que es justo lo que exige la alineación entre macho y cavidad."
+          ]
+        },
+        {
+          "heading": "Beijing Jingdiao (China): grabado de alta velocidad para detalles finos",
+          "paragraphs": [
+            "Beijing Jingdiao fabrica centros de mecanizado y grabado de alta velocidad y precisión pensados para herramientas pequeñas, detalles finos y alta calidad superficial."
+          ],
+          "list": [
+            "Papel en la fabricación de moldes: textos en relieve, logotipos, zonas de agarre y radios finos en cavidades de moldes de soplado, y detalles pequeños y precisos en insertos.",
+            "Por qué importa: un detalle fino cortado con precisión requiere menos acabado manual, lo que mantiene iguales las cavidades de un juego de moldes de soplado multicavidad.",
+            "En LIHE, las máquinas Jingdiao se utilizan para detalles finos y cavidades pulidas de moldes de soplado."
+          ]
+        },
+        {
+          "heading": "Sodick (Japón): electroerosión y electroerosión por hilo para detalles templados",
+          "paragraphs": [
+            "Sodick es un fabricante japonés de máquinas de electroerosión, tanto por penetración como por hilo. La electroerosión elimina metal mediante chispas eléctricas, por lo que corta acero totalmente templado y produce esquinas interiores vivas y ranuras estrechas que las herramientas de corte no alcanzan."
+          ],
+          "list": [
+            "Papel en la fabricación de moldes: insertos de entrada, detalles de canal caliente, venteos y detalles de rosca de los anillos de cuello y perfiles pasantes en insertos y placas.",
+            "Por qué importa: los detalles de la entrada controlan su calidad en cada preforma; fabricarlos tras el temple evita la distorsión del tratamiento térmico."
+          ]
+        },
+        {
+          "heading": "Tabla de referencia de marcas",
+          "table": {
+            "head": ["Marca", "País", "Tipo de máquina", "Uso típico en la fabricación de moldes"],
+            "rows": [
+              ["Mazak", "Japón", "Centros de mecanizado, multitarea y de torneado", "Placas y bases de molde, cavidades, carcasas de soplado"],
+              ["Makino", "Japón", "Centros de mecanizado de alta velocidad", "Placas, cavidades, contornos templados, carcasas de soplado"],
+              ["Okamoto", "Japón", "Rectificadoras planas", "Planitud y paralelismo de placas y componentes"],
+              ["Haas", "EE. UU.", "Centros de mecanizado y tornos CNC", "Mecanizado general, utillajes, bases de molde"],
+              ["Hardinge", "EE. UU.", "Centros de torneado de precisión", "Machos, cavidades y anillos de cuello"],
+              ["Beijing Jingdiao", "China", "Máquinas de grabado de alta velocidad", "Detalles finos, cavidades pulidas de soplado"],
+              ["Sodick", "Japón", "Electroerosión y electroerosión por hilo", "Insertos de entrada, detalles de canal caliente, anillos de cuello"]
+            ]
+          }
+        },
+        {
+          "heading": "Cómo recorre una base de molde las máquinas",
+          "steps": [
+            "Desbastar y fresar en acabado las placas — cajeras, alojamientos, canales de refrigeración y patrones de tornillos — en centros de mecanizado Mazak, Makino o Haas.",
+            "Rectificar las caras de las placas planas y paralelas en rectificadoras planas Okamoto.",
+            "Cortar ranuras templadas o perfiles finos por electroerosión Sodick cuando sea necesario.",
+            "Verificar la geometría de las placas y la posición de los alojamientos en la CMM Zeiss.",
+            "Liberar la base de molde para el montaje con los machos, cavidades y anillos de cuello torneados en máquinas Hardinge."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Por qué LIHE usa máquinas de varias marcas en lugar de una sola?",
+          "answer": "Cada fabricante se especializa: Mazak y Makino en centros de mecanizado, Hardinge en torneado de precisión, Okamoto en rectificado, Beijing Jingdiao en grabado de alta velocidad y Sodick en electroerosión. Asignar el tipo de máquina a cada pieza da mejor precisión y acabado."
+        },
+        {
+          "question": "¿Qué máquinas fabrican el macho y la cavidad de la preforma?",
+          "answer": "Machos, cavidades y anillos de cuello se tornean en centros de torneado de precisión Hardinge; los centros de mecanizado Mazak y Makino se usan para características de la cavidad y la electroerosión Sodick para detalles templados finos."
+        },
+        {
+          "question": "¿Se rectifican las bases de molde después del fresado?",
+          "answer": "Sí. Las bases de molde de LIHE se mecanizan en Mazak, Makino y Haas, se rectifican en Okamoto y se verifican en la CMM Zeiss, para moldes de preforma de hasta 160 cavidades."
+        },
+        {
+          "question": "¿Este equipo sirve también para repuestos de moldes Husky o SACMI?",
+          "answer": "Sí. Las mismas máquinas producen repuestos y piezas de conversión. LIHE fabrica repuestos a partir de las piezas Husky, SACMI u Otto existentes del cliente, con un plazo publicado de 4 semanas para repuestos."
+        },
+        {
+          "question": "¿Qué vida útil cabe esperar de las piezas hechas con este equipo?",
+          "answer": "Los moldes de LIHE están construidos para resistir hasta 8 millones de ciclos en plataformas Husky, SACMI y Netstal. La vida real depende de la resina, el proceso y el mantenimiento."
+        }
+      ]
+    }
+  }
+}

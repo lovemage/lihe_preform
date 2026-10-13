@@ -1,0 +1,15 @@
+.notice {
+  margin: var(--space-sm) 0 0;
+  font-size: 0.8rem;
+  line-height: 1.6;
+  color: var(--color-gray-500);
+}
+
+.center {
+  text-align: center;
+}
+
+.link {
+  color: var(--color-primary);
+  text-decoration: underline;
+}

@@ -1,0 +1,366 @@
+{
+  "key": "page-download",
+  "updated": "2026-10-13",
+  "sources": [
+    { "label": "Wikipedia — Technical drawing", "url": "https://en.wikipedia.org/wiki/Technical_drawing" },
+    { "label": "Wikipedia — ISO 10303-21 (STEP file)", "url": "https://en.wikipedia.org/wiki/ISO_10303-21" },
+    { "label": "Wikipedia — IGES", "url": "https://en.wikipedia.org/wiki/IGES" },
+    { "label": "Wikipedia — AutoCAD DXF", "url": "https://en.wikipedia.org/wiki/AutoCAD_DXF" },
+    { "label": "Wikipedia — Coordinate-measuring machine", "url": "https://en.wikipedia.org/wiki/Coordinate-measuring_machine" },
+    { "label": "Wikipedia — Process capability index", "url": "https://en.wikipedia.org/wiki/Process_capability_index" },
+    { "label": "Wikipedia — First article inspection", "url": "https://en.wikipedia.org/wiki/First_article_inspection" }
+  ],
+  "locales": {
+    "en": {
+      "heading": "Technical documents for PET preform molds, blow molds and hot runners: what buyers need and how to request them",
+      "intro": "A technical document package is the set of drawings, specifications, inspection reports and machine interface data that a buyer uses to approve, install, maintain and re-order a mold. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China. Catalogs and technical documents are currently provided by the sales team on request; this guide explains which documents to ask for at each project stage and which file formats are common.",
+      "sections": [
+        {
+          "heading": "Which technical documents PET mold buyers typically need",
+          "paragraphs": [
+            "Different people in a bottling or preform plant need different documents. Purchasing compares offers, the process engineer checks the product, the maintenance team needs part references, and quality needs measured data. Asking for the right document at the right time avoids delays at approval and at start-up."
+          ],
+          "list": [
+            "Product catalog and capability overview: product range, cavitation range, supported machines and neck finishes, for supplier evaluation.",
+            "Product drawings: preform, closure or bottle drawings with dimensions and tolerances, for product approval.",
+            "Mold layout or general arrangement drawing: overall mold dimensions, cavitation, connection points, for checking machine fit.",
+            "Part drawings and spare parts lists: core, cavity, neck ring, gate insert or blow mold parts, for maintenance and re-ordering.",
+            "Inspection and validation reports: measured dimensions from the CMM, for incoming quality control.",
+            "Machine interface data: mounting, cooling, electrical and ejection connections, for installation."
+          ]
+        },
+        {
+          "heading": "Technical document reference table for mold projects",
+          "table": {
+            "head": ["Document", "Main use", "Project stage", "Common file formats"],
+            "rows": [
+              ["Catalog or capability overview", "Supplier evaluation, internal approval", "Before the enquiry", "PDF"],
+              ["Preform, closure or bottle drawing", "Product approval, weight and neck finish check", "Quotation and design", "PDF drawing plus STEP or IGES 3D model"],
+              ["Mold general arrangement drawing", "Machine fit check, installation planning", "Design approval", "PDF, DWG or DXF"],
+              ["Part drawings and spare parts list", "Maintenance, re-ordering of wear parts", "Delivery and service life", "PDF, STEP, spreadsheet list"],
+              ["CMM inspection report", "Incoming inspection, process capability", "Before shipment", "PDF report"],
+              ["Machine interface data", "Installation and start-up", "Design and installation", "PDF drawing, checklist"]
+            ]
+          }
+        },
+        {
+          "heading": "Drawings and 3D files: STEP, IGES, DWG, DXF and PDF",
+          "paragraphs": [
+            "Mold and product geometry is usually exchanged in neutral formats so that both sides can open it regardless of the CAD system they use. Tell sales which format your team works with when you request or send drawings."
+          ],
+          "list": [
+            "STEP (ISO 10303-21) is the most common neutral format for 3D solid models of preforms, bottles, closures and mold parts.",
+            "IGES is an older neutral format that is still used for surfaces and for exchange with older CAD systems.",
+            "DWG and DXF are 2D drawing formats often used for layouts, plate drawings and machine interface drawings.",
+            "PDF is used for dimensioned drawings, reports and approvals, because it shows tolerances and notes exactly as issued.",
+            "For approval, a 3D model alone is not enough: dimensioned 2D drawings show the tolerances that are checked during inspection."
+          ]
+        },
+        {
+          "heading": "Preform, closure and bottle specifications",
+          "paragraphs": [
+            "A specification sheet records the values that the mold must deliver. It is the reference for design approval and later for checking samples. Typical contents depend on the product."
+          ],
+          "list": [
+            "Preforms: weight in g, total length, neck finish (for example PCO 1881, PCO 1810, 2925 or 38mm), wall thickness profile and resin (PET or a share of rPET).",
+            "Closures: cap type (one-piece, two-piece, tamper-evident, EU tethered), neck size such as 26mm or 28mm, cap weight and material.",
+            "Bottles: volume in ml, fill type (cold fill, hot fill at about 85 to 95°C, or aseptic), base design, label panel and the matching preform.",
+            "Lightweighting projects: the current and target weight; LIHE lightweighting proposals reduce preform weight by 1g to 2g through neck or wall-thickness optimization.",
+            "Every change to a specification should be recorded with a revision letter and date, so that drawings, molds and samples can be traced."
+          ]
+        },
+        {
+          "heading": "Inspection and validation reports from the Zeiss CMM lab",
+          "paragraphs": [
+            "LIHE measures mold components in its in-house Zeiss CMM lab, and validation and inspection reports are supplied on request. A coordinate-measuring machine (CMM) measures points on a part and compares them with the nominal geometry, so the report shows actual values against tolerances."
+          ],
+          "list": [
+            "Ask for the report in your enquiry or order, and list the dimensions or features you want included, for example cavity, core and neck ring dimensions.",
+            "For high-cavitation molds, ask how many cavities or parts are measured, because a 72-cavity or 96-cavity mold has many identical positions.",
+            "Process capability is often stated as Cpk; LIHE tooling consistently achieves CPK ≥ 1.33.",
+            "Keep the report with the mold records: it is the baseline for later wear checks and refurbishment."
+          ]
+        },
+        {
+          "heading": "Machine interface data for mold installation",
+          "paragraphs": [
+            "Machine interface data describe how the mold connects to the injection or blowing machine. Errors here are found only at installation, so this data should be agreed during design. LIHE's technical team also carries out on-site machine interface audits."
+          ],
+          "list": [
+            "Mounting: platen dimensions, tie-bar clearance, locating ring and clamping pattern.",
+            "Cooling: water connection positions, thread types and circuit layout.",
+            "Hot runner: heater zones, thermocouple type and connector layout, valve gate actuation.",
+            "Ejection and take-out: stroke and interface to the robot or take-out plate.",
+            "Blow molds: mold carrier type, shell or clamping base interface and base mold connection."
+          ]
+        },
+        {
+          "heading": "How to request technical documents from LIHE sales",
+          "steps": [
+            "Email sales@lihe-preform.com or use the contact form, and state the product type and the machine brand and model.",
+            "List the documents you need, using the table above, and the file format your team prefers (for example PDF and STEP).",
+            "If the request concerns an existing mold or part, add the mold number, part number or photos so the correct drawing revision is used.",
+            "Sales confirms which documents can be supplied at the current stage; project-specific drawings and reports are prepared for your project, not taken from a general download library.",
+            "Review the received drawings, mark any changes and return them with a revision note before design approval."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Can I download catalogs and drawings from this page?",
+          "answer": "Not yet. Download resources will be available later; until then, catalogs and technical specifications are sent by the sales team on request."
+        },
+        {
+          "question": "Do you supply an inspection report with every mold?",
+          "answer": "Validation and inspection reports from the in-house Zeiss CMM lab are supplied on request. Ask for them in the enquiry or order so the scope of the report is agreed in advance."
+        },
+        {
+          "question": "Which 3D format should I send for a preform or bottle?",
+          "answer": "STEP is the most widely used neutral format. Add a dimensioned PDF drawing with tolerances, because the 3D model alone does not show what will be checked."
+        },
+        {
+          "question": "Can you make parts if I only have the old part and no drawing?",
+          "answer": "Yes. Replacement and conversion parts are made from customers' existing parts or drawings, so a sample part can serve as the reference when no drawing is available. Replacement parts have a published lead time of 4 weeks."
+        },
+        {
+          "question": "Will I receive the machine interface data before the mold arrives?",
+          "answer": "Interface data should be agreed during design, before production. If you are unsure about your machine's interface, the technical team can carry out an on-site machine interface audit."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "Техническая документация на пресс-формы для ПЭТ-преформ, выдувные формы и горячие каналы: что нужно покупателю и как её запросить",
+      "intro": "Пакет технической документации — это набор чертежей, спецификаций, протоколов контроля и данных об интерфейсе машины, по которым покупатель согласовывает, устанавливает, обслуживает и повторно заказывает пресс-форму. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) — производитель пресс-форм для ПЭТ-преформ, выдувных форм, форм для колпачков и компрессионных форм, горячеканальных систем и комплектующих для производства напитков и упаковки, с производством в Фошане, Китай. Каталоги и техническая документация сейчас предоставляются отделом продаж по запросу; в этом руководстве объясняется, какие документы запрашивать на каждом этапе проекта и какие форматы файлов распространены.",
+      "sections": [
+        {
+          "heading": "Какая техническая документация обычно нужна покупателям ПЭТ-форм",
+          "paragraphs": [
+            "Разным специалистам на заводе розлива или производства преформ нужны разные документы. Закупки сравнивают предложения, технолог проверяет изделие, служба обслуживания работает с номерами деталей, а отдел качества — с результатами измерений. Если запросить нужный документ в нужный момент, согласование и запуск проходят без задержек."
+          ],
+          "list": [
+            "Каталог и обзор возможностей: ассортимент, диапазон числа гнёзд, поддерживаемые машины и горловины — для оценки поставщика.",
+            "Чертежи изделия: чертежи преформы, колпачка или бутылки с размерами и допусками — для согласования продукта.",
+            "Общий вид или компоновка формы: габариты, число гнёзд, точки подключения — для проверки совместимости с машиной.",
+            "Чертежи деталей и перечень запасных частей: пуансон, матрица, горловое кольцо, вставка литника или детали выдувной формы — для обслуживания и повторных заказов.",
+            "Протоколы контроля и валидации: измеренные размеры с КИМ — для входного контроля.",
+            "Данные об интерфейсе машины: крепление, охлаждение, электрика и выталкивание — для монтажа."
+          ]
+        },
+        {
+          "heading": "Справочная таблица технической документации для проектов пресс-форм",
+          "table": {
+            "head": ["Документ", "Основное назначение", "Этап проекта", "Распространённые форматы"],
+            "rows": [
+              ["Каталог или обзор возможностей", "Оценка поставщика, внутреннее согласование", "До запроса", "PDF"],
+              ["Чертёж преформы, колпачка или бутылки", "Согласование продукта, проверка массы и горловины", "Предложение и проектирование", "PDF-чертёж и 3D-модель STEP или IGES"],
+              ["Общий вид пресс-формы", "Проверка совместимости с машиной, планирование монтажа", "Согласование конструкции", "PDF, DWG или DXF"],
+              ["Чертежи деталей и перечень запчастей", "Обслуживание, повторный заказ изнашиваемых деталей", "Поставка и эксплуатация", "PDF, STEP, табличный перечень"],
+              ["Протокол измерений на КИМ", "Входной контроль, оценка воспроизводимости процесса", "Перед отгрузкой", "PDF-отчёт"],
+              ["Данные об интерфейсе машины", "Монтаж и запуск", "Проектирование и монтаж", "PDF-чертёж, чек-лист"]
+            ]
+          }
+        },
+        {
+          "heading": "Чертежи и 3D-модели: STEP, IGES, DWG, DXF и PDF",
+          "paragraphs": [
+            "Геометрию формы и изделия обычно передают в нейтральных форматах, чтобы обе стороны могли открыть файлы независимо от своей CAD-системы. При запросе или отправке чертежей сообщите отделу продаж, с каким форматом работает ваша команда."
+          ],
+          "list": [
+            "STEP (ISO 10303-21) — самый распространённый нейтральный формат для твердотельных 3D-моделей преформ, бутылок, колпачков и деталей форм.",
+            "IGES — более старый нейтральный формат, который до сих пор применяется для поверхностей и обмена со старыми CAD-системами.",
+            "DWG и DXF — форматы 2D-чертежей, часто используемые для компоновок, чертежей плит и интерфейса машины.",
+            "PDF используется для чертежей с размерами, отчётов и согласований, потому что показывает допуски и примечания именно в выпущенном виде.",
+            "Для согласования одной 3D-модели недостаточно: допуски, которые проверяются при контроле, видны только на 2D-чертеже с размерами."
+          ]
+        },
+        {
+          "heading": "Спецификации преформ, колпачков и бутылок",
+          "paragraphs": [
+            "В спецификации фиксируются значения, которые должна обеспечивать форма. Она служит эталоном при согласовании конструкции и при последующей проверке образцов. Содержание зависит от изделия."
+          ],
+          "list": [
+            "Преформы: масса в г, общая длина, горловина (например, PCO 1881, PCO 1810, 2925 или 38 мм), профиль толщины стенки и сырьё (ПЭТ или доля rPET).",
+            "Колпачки: тип (цельный, двухкомпонентный, с контролем вскрытия, привязной по нормам ЕС), размер горловины, например 26 мм или 28 мм, масса и материал колпачка.",
+            "Бутылки: объём в мл, тип розлива (холодный, горячий при температуре около 85–95 °C или асептический), конструкция дна, зона этикетки и соответствующая преформа.",
+            "Проекты облегчения: текущая и целевая масса; предложения LIHE по облегчению снижают массу преформы на 1–2 г за счёт оптимизации горловины или толщины стенки.",
+            "Каждое изменение спецификации следует фиксировать буквой ревизии и датой, чтобы чертежи, формы и образцы можно было отследить."
+          ]
+        },
+        {
+          "heading": "Протоколы контроля и валидации из лаборатории КИМ Zeiss",
+          "paragraphs": [
+            "LIHE измеряет детали форм в собственной лаборатории с координатно-измерительной машиной Zeiss, а отчёты о валидации и контроле предоставляются по запросу. Координатно-измерительная машина (КИМ) измеряет точки на детали и сравнивает их с номинальной геометрией, поэтому в протоколе видны фактические значения относительно допусков."
+          ],
+          "list": [
+            "Запросите протокол в запросе или заказе и перечислите размеры или элементы, которые нужно включить, например размеры матрицы, пуансона и горлового кольца.",
+            "Для многогнёздных форм уточните, сколько гнёзд или деталей измеряется: в форме на 72 или 96 гнёзд много одинаковых позиций.",
+            "Воспроизводимость процесса часто выражают индексом Cpk; оснастка LIHE стабильно достигает CPK ≥ 1,33.",
+            "Храните протокол вместе с документацией на форму: это исходная точка для последующей проверки износа и восстановления."
+          ]
+        },
+        {
+          "heading": "Данные об интерфейсе машины для монтажа пресс-формы",
+          "paragraphs": [
+            "Данные об интерфейсе описывают, как форма подключается к литьевой или выдувной машине. Ошибки в них обнаруживаются только при монтаже, поэтому эти данные нужно согласовать на этапе проектирования. Техническая команда LIHE также проводит аудит интерфейса машины на месте."
+          ],
+          "list": [
+            "Крепление: размеры плит, расстояние между колоннами, центрирующее кольцо и схема зажима.",
+            "Охлаждение: расположение штуцеров, типы резьбы и схема контуров.",
+            "Горячий канал: зоны нагрева, тип термопар и раскладка разъёмов, привод игольчатых затворов.",
+            "Выталкивание и съём: ход и интерфейс с роботом или плитой съёма.",
+            "Выдувные формы: тип формодержателя, интерфейс кожуха или монтажного основания и подключение донной вставки."
+          ]
+        },
+        {
+          "heading": "Как запросить техническую документацию у отдела продаж LIHE",
+          "steps": [
+            "Напишите на sales@lihe-preform.com или воспользуйтесь формой обратной связи и укажите тип продукции, марку и модель машины.",
+            "Перечислите нужные документы по таблице выше и формат файлов, который предпочитает ваша команда (например, PDF и STEP).",
+            "Если запрос касается существующей формы или детали, добавьте номер формы, номер детали или фото, чтобы использовалась правильная ревизия чертежа.",
+            "Отдел продаж подтверждает, какие документы можно предоставить на текущем этапе; чертежи и отчёты по проекту готовятся для вашего проекта, а не берутся из общей библиотеки загрузок.",
+            "Проверьте полученные чертежи, отметьте изменения и верните их с примечанием о ревизии до согласования конструкции."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Можно ли скачать каталоги и чертежи на этой странице?",
+          "answer": "Пока нет. Материалы для загрузки появятся позже; до этого каталоги и технические характеристики отправляет отдел продаж по запросу."
+        },
+        {
+          "question": "Предоставляете ли вы протокол контроля к каждой форме?",
+          "answer": "Отчёты о валидации и контроле из собственной лаборатории КИМ Zeiss предоставляются по запросу. Укажите это в запросе или заказе, чтобы объём отчёта был согласован заранее."
+        },
+        {
+          "question": "В каком 3D-формате присылать преформу или бутылку?",
+          "answer": "Наиболее распространённый нейтральный формат — STEP. Добавьте PDF-чертёж с размерами и допусками, потому что одна 3D-модель не показывает, что именно будет проверяться."
+        },
+        {
+          "question": "Можете ли вы изготовить деталь, если есть только старая деталь без чертежа?",
+          "answer": "Да. Запасные и переходные детали изготавливаются по существующим деталям или чертежам заказчика, поэтому при отсутствии чертежа эталоном может служить образец. Опубликованный срок для запасных частей — 4 недели."
+        },
+        {
+          "question": "Получу ли я данные об интерфейсе машины до прибытия формы?",
+          "answer": "Данные об интерфейсе нужно согласовать на этапе проектирования, до производства. Если вы не уверены в интерфейсе своей машины, техническая команда может провести аудит интерфейса на месте."
+        }
+      ]
+    },
+    "es": {
+      "heading": "Documentación técnica para moldes de preforma PET, moldes de soplado y canales calientes: qué necesita el comprador y cómo solicitarla",
+      "intro": "Un paquete de documentación técnica es el conjunto de planos, especificaciones, informes de inspección y datos de interfaz de máquina que el comprador usa para aprobar, instalar, mantener y volver a pedir un molde. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) es un fabricante de moldes de preforma PET, moldes de soplado, moldes de tapas y de compresión, sistemas de canal caliente y componentes de molde para la industria de bebidas y envases, con fabricación en Foshan, China. Por ahora, los catálogos y documentos técnicos los envía el equipo de ventas bajo solicitud; esta guía explica qué documentos pedir en cada etapa del proyecto y qué formatos de archivo son habituales.",
+      "sections": [
+        {
+          "heading": "Qué documentos técnicos suelen necesitar los compradores de moldes PET",
+          "paragraphs": [
+            "Cada persona de una planta de embotellado o de preformas necesita documentos distintos. Compras compara ofertas, el ingeniero de proceso revisa el producto, mantenimiento necesita referencias de piezas y calidad necesita datos medidos. Pedir el documento correcto en el momento correcto evita retrasos en la aprobación y en la puesta en marcha."
+          ],
+          "list": [
+            "Catálogo y resumen de capacidades: gama de productos, rango de cavidades, máquinas y cuellos compatibles, para evaluar al proveedor.",
+            "Planos del producto: planos de preforma, tapa o botella con medidas y tolerancias, para aprobar el producto.",
+            "Plano de conjunto del molde: dimensiones generales, cavidades y puntos de conexión, para comprobar el encaje en la máquina.",
+            "Planos de piezas y lista de repuestos: núcleo, cavidad, anillo de cuello, inserto de entrada o piezas del molde de soplado, para mantenimiento y nuevos pedidos.",
+            "Informes de inspección y validación: medidas tomadas con la MMC, para el control de calidad de recepción.",
+            "Datos de interfaz de máquina: conexiones de montaje, refrigeración, eléctricas y de expulsión, para la instalación."
+          ]
+        },
+        {
+          "heading": "Tabla de referencia de documentos técnicos para proyectos de moldes",
+          "table": {
+            "head": ["Documento", "Uso principal", "Etapa del proyecto", "Formatos habituales"],
+            "rows": [
+              ["Catálogo o resumen de capacidades", "Evaluación del proveedor, aprobación interna", "Antes de la consulta", "PDF"],
+              ["Plano de preforma, tapa o botella", "Aprobación del producto, revisión de peso y cuello", "Cotización y diseño", "Plano PDF más modelo 3D STEP o IGES"],
+              ["Plano de conjunto del molde", "Comprobación de encaje en la máquina, planificación de la instalación", "Aprobación del diseño", "PDF, DWG o DXF"],
+              ["Planos de piezas y lista de repuestos", "Mantenimiento, nuevos pedidos de piezas de desgaste", "Entrega y vida útil", "PDF, STEP, lista en hoja de cálculo"],
+              ["Informe de inspección MMC", "Inspección de recepción, capacidad de proceso", "Antes del envío", "Informe PDF"],
+              ["Datos de interfaz de máquina", "Instalación y puesta en marcha", "Diseño e instalación", "Plano PDF, lista de verificación"]
+            ]
+          }
+        },
+        {
+          "heading": "Planos y archivos 3D: STEP, IGES, DWG, DXF y PDF",
+          "paragraphs": [
+            "La geometría del molde y del producto suele intercambiarse en formatos neutros para que ambas partes puedan abrirla con independencia del sistema CAD que usen. Indique a ventas con qué formato trabaja su equipo cuando solicite o envíe planos."
+          ],
+          "list": [
+            "STEP (ISO 10303-21) es el formato neutro más común para modelos sólidos 3D de preformas, botellas, tapas y piezas de molde.",
+            "IGES es un formato neutro más antiguo que todavía se usa para superficies y para intercambiar con sistemas CAD antiguos.",
+            "DWG y DXF son formatos de dibujo 2D que se usan a menudo para disposiciones generales, planos de placas y planos de interfaz de máquina.",
+            "PDF se usa para planos acotados, informes y aprobaciones, porque muestra las tolerancias y notas tal como se emitieron.",
+            "Para aprobar, un modelo 3D no basta: los planos 2D acotados muestran las tolerancias que se comprueban en la inspección."
+          ]
+        },
+        {
+          "heading": "Especificaciones de preformas, tapas y botellas",
+          "paragraphs": [
+            "Una hoja de especificaciones recoge los valores que el molde debe cumplir. Es la referencia para aprobar el diseño y, más tarde, para revisar las muestras. Su contenido depende del producto."
+          ],
+          "list": [
+            "Preformas: peso en g, longitud total, cuello (por ejemplo PCO 1881, PCO 1810, 2925 o 38mm), perfil de espesor de pared y material (PET o un porcentaje de rPET).",
+            "Tapas: tipo (una pieza, dos piezas, con banda de garantía, tapa unida según la UE), tamaño de cuello como 26mm o 28mm, peso y material de la tapa.",
+            "Botellas: volumen en ml, tipo de llenado (frío, en caliente a unos 85–95°C o aséptico), diseño del fondo, zona de etiqueta y preforma correspondiente.",
+            "Proyectos de aligeramiento: peso actual y peso objetivo; las propuestas de aligeramiento de LIHE reducen el peso de la preforma entre 1g y 2g optimizando el cuello o el espesor de pared.",
+            "Cada cambio de especificación debe registrarse con una letra de revisión y una fecha, para poder rastrear planos, moldes y muestras."
+          ]
+        },
+        {
+          "heading": "Informes de inspección y validación del laboratorio MMC Zeiss",
+          "paragraphs": [
+            "LIHE mide los componentes de molde en su laboratorio propio con MMC Zeiss, y los informes de validación e inspección se entregan bajo solicitud. Una máquina de medición por coordenadas (MMC) mide puntos de la pieza y los compara con la geometría nominal, de modo que el informe muestra los valores reales frente a las tolerancias."
+          ],
+          "list": [
+            "Pida el informe en su consulta o pedido e indique las medidas o características que deben incluirse, por ejemplo las de cavidad, núcleo y anillo de cuello.",
+            "En moldes de alta cavitación, pregunte cuántas cavidades o piezas se miden, porque un molde de 72 o 96 cavidades tiene muchas posiciones idénticas.",
+            "La capacidad de proceso suele expresarse como Cpk; el utillaje de LIHE alcanza de forma constante un CPK ≥ 1,33.",
+            "Guarde el informe con la documentación del molde: es la referencia para futuras revisiones de desgaste y reacondicionamiento."
+          ]
+        },
+        {
+          "heading": "Datos de interfaz de máquina para instalar el molde",
+          "paragraphs": [
+            "Los datos de interfaz describen cómo se conecta el molde a la inyectora o a la sopladora. Los errores en estos datos solo aparecen en la instalación, por lo que deben acordarse durante el diseño. El equipo técnico de LIHE también realiza auditorías de interfaz de máquina in situ."
+          ],
+          "list": [
+            "Montaje: dimensiones de los platos, paso entre columnas, anillo de centrado y patrón de sujeción.",
+            "Refrigeración: posición de las conexiones de agua, tipos de rosca y disposición de los circuitos.",
+            "Canal caliente: zonas de calefacción, tipo de termopar y disposición de conectores, accionamiento de los obturadores.",
+            "Expulsión y extracción: carrera e interfaz con el robot o la placa de extracción.",
+            "Moldes de soplado: tipo de portamoldes, interfaz de la carcasa o de la base de sujeción y conexión del fondo."
+          ]
+        },
+        {
+          "heading": "Cómo solicitar documentos técnicos al equipo de ventas de LIHE",
+          "steps": [
+            "Escriba a sales@lihe-preform.com o use el formulario de contacto, e indique el tipo de producto y la marca y modelo de la máquina.",
+            "Enumere los documentos que necesita, según la tabla anterior, y el formato de archivo que prefiere su equipo (por ejemplo PDF y STEP).",
+            "Si la solicitud se refiere a un molde o pieza existente, añada el número de molde, el número de pieza o fotos para usar la revisión correcta del plano.",
+            "Ventas confirma qué documentos pueden entregarse en la etapa actual; los planos e informes específicos se preparan para su proyecto y no proceden de una biblioteca general de descargas.",
+            "Revise los planos recibidos, marque los cambios y devuélvalos con una nota de revisión antes de aprobar el diseño."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Puedo descargar catálogos y planos desde esta página?",
+          "answer": "Todavía no. Los recursos de descarga estarán disponibles más adelante; mientras tanto, el equipo de ventas envía catálogos y especificaciones técnicas bajo solicitud."
+        },
+        {
+          "question": "¿Entregan un informe de inspección con cada molde?",
+          "answer": "Los informes de validación e inspección del laboratorio propio con MMC Zeiss se entregan bajo solicitud. Pídalos en la consulta o en el pedido para acordar de antemano el alcance del informe."
+        },
+        {
+          "question": "¿Qué formato 3D debo enviar para una preforma o botella?",
+          "answer": "STEP es el formato neutro más utilizado. Añada un plano PDF acotado con tolerancias, porque el modelo 3D por sí solo no muestra qué se va a comprobar."
+        },
+        {
+          "question": "¿Pueden fabricar piezas si solo tengo la pieza antigua y ningún plano?",
+          "answer": "Sí. Los repuestos y piezas de conversión se fabrican a partir de las piezas o planos existentes del cliente, así que una pieza de muestra puede servir de referencia cuando no hay plano. Los repuestos tienen un plazo publicado de 4 semanas."
+        },
+        {
+          "question": "¿Recibiré los datos de interfaz de máquina antes de que llegue el molde?",
+          "answer": "Los datos de interfaz deben acordarse durante el diseño, antes de la producción. Si no está seguro de la interfaz de su máquina, el equipo técnico puede realizar una auditoría de interfaz in situ."
+        }
+      ]
+    }
+  }
+}

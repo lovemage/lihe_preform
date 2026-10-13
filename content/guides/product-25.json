@@ -1,0 +1,377 @@
+{
+  "key": "product-25",
+  "updated": "2026-10-13",
+  "sources": [
+    { "label": "Wikipedia — Single-minute exchange of die (SMED)", "url": "https://en.wikipedia.org/wiki/Single-minute_exchange_of_die" },
+    { "label": "Wikipedia — Blow molding", "url": "https://en.wikipedia.org/wiki/Blow_molding" },
+    { "label": "Wikipedia — Stock keeping unit", "url": "https://en.wikipedia.org/wiki/Stock_keeping_unit" },
+    { "label": "Wikipedia — Overall equipment effectiveness", "url": "https://en.wikipedia.org/wiki/Overall_equipment_effectiveness" },
+    { "label": "Wikipedia — Lean manufacturing", "url": "https://en.wikipedia.org/wiki/Lean_manufacturing" },
+    { "label": "Sidel — PET packaging and blow moulding equipment", "url": "https://www.sidel.com/en" }
+  ],
+  "locales": {
+    "en": {
+      "heading": "Blow mold changeover cost: when a split-type quick-change system pays off vs full mold sets",
+      "intro": "A split-type quick-change blow mold is a blow mold in which the bottle-shaped cavity inserts and the base are separate from mold shells that stay mounted in the machine, so a format change replaces only the inserts. This guide looks at the full cost of changeovers on a rotary blow molder and shows when a split-type system pays off compared with buying a complete mold set for every bottle. It also gives a changeover procedure and a method for planning SKUs around shared shells.",
+      "sections": [
+        {
+          "heading": "What a blow mold changeover really costs",
+          "paragraphs": [
+            "The price of a mold set is only one part of the cost of running many bottle formats. Each format change also stops the line and consumes labor and material. These costs repeat every time the format changes, so they grow with the number of SKUs and the frequency of changes."
+          ],
+          "list": [
+            "Line downtime: the blow molder, and usually the filler behind it, produce nothing while molds are changed and the new format is started.",
+            "Labor: technicians for mold removal, installation, adjustment and first-bottle checks, often with a crane or lifting device for full mold sets.",
+            "Start-up scrap: preforms and bottles rejected while the heating profile and blowing conditions are tuned for the new shape.",
+            "Tooling investment: a complete mold set per cavity for every bottle shape, or one set of shells plus inserts for each shape.",
+            "Storage and handling: full mold sets are heavier and take more storage space, protection and handling equipment than inserts.",
+            "Wear and damage risk: frequent removal and remounting of heavy parts increases the chance of damaged cooling connections and locating surfaces."
+          ]
+        },
+        {
+          "heading": "Full mold set vs split-type quick-change blow mold: comparison",
+          "table": {
+            "head": ["", "Full mold set per format", "Split-type quick-change mold"],
+            "rows": [
+              ["What is changed", "Complete mold halves, shells and base for every cavity", "Cavity inserts and base only; shells stay in the mold carrier"],
+              ["Tooling for a new bottle shape", "New complete mold set", "New inserts and base (shells reused if the bottle fits the shell envelope)"],
+              ["Weight handled during changeover", "Higher; lifting aids often needed", "Lower; inserts are lighter parts"],
+              ["Changeover downtime", "Longer, because more parts are disconnected and aligned", "Shorter, because shells and their connections stay in place"],
+              ["Storage per format", "Full sets per cavity", "Inserts and bases per cavity"],
+              ["Best fit", "Few formats, long runs, very different bottle sizes", "Many SKUs, frequent changes, bottles within one size family"],
+              ["Limits", "Higher cost per new shape", "New shape must fit the existing shell size; shells must be in good condition"]
+            ]
+          }
+        },
+        {
+          "heading": "When a split-type quick-change blow mold pays off",
+          "paragraphs": [
+            "A split-type system makes sense when the savings from shorter changeovers and cheaper new shapes are larger than the cost of the shells and the engineering needed to fit several bottles into one shell family."
+          ],
+          "list": [
+            "The line runs many SKUs in one size family, for example several 500ml shapes for different brands or customers.",
+            "Formats change weekly or more often, so downtime per changeover is multiplied many times per year.",
+            "New bottle shapes are launched regularly, such as seasonal or promotional packaging.",
+            "Bottles share the same neck finish and preform, so the heating and stretch settings change little between formats.",
+            "A full set still makes sense when a line runs one or two formats for months at a time, or when the new bottle is so different in diameter or height that it cannot fit the existing shell."
+          ]
+        },
+        {
+          "heading": "Estimating annual changeover cost: a simple worksheet",
+          "paragraphs": [
+            "Use your own line data. The figures below only show how to set up the calculation; they are not performance data for any specific mold."
+          ],
+          "list": [
+            "Changeovers per year = changeovers per week × operating weeks. Example: 3 changeovers per week × 52 weeks = 156 changeovers per year.",
+            "Downtime per year = changeovers per year × hours per changeover (measured from last good bottle to first good bottle).",
+            "Lost output = downtime per year × line output per hour.",
+            "Start-up scrap = changeovers per year × preforms rejected per start-up.",
+            "Tooling = (number of new shapes per year × cost of a full set) compared with (shells once + number of new shapes × cost of inserts and base).",
+            "Compare the totals over the expected life of the shells; the difference is the value of moving to a split-type system.",
+            "Track changeover time as part of overall equipment effectiveness (OEE), where it appears as availability loss."
+          ]
+        },
+        {
+          "heading": "Quick-change blow mold changeover procedure",
+          "paragraphs": [
+            "SMED (single-minute exchange of die) is a lean method that aims to bring tool changes under 10 minutes by separating work done while the machine runs (external) from work done while it is stopped (internal). The steps below apply that idea to a split-type blow mold."
+          ],
+          "steps": [
+            "Before stopping the line, prepare the next format: inserts and bases cleaned, checked and labeled by cavity, tools and the machine recipe ready.",
+            "Run out the current format and stop the blow molder according to its safety procedure.",
+            "Open the mold stations and release the inserts and base from the shells, leaving the shells in the mold carrier.",
+            "Install the new inserts and base in each station and lock them, checking that each part is seated correctly.",
+            "If the preform changes, change the preform-related parts and settings as well, such as the stretch rod stroke and oven heating profile.",
+            "Load the new machine recipe, start at reduced output and check the first bottles for volume, wall distribution, base shape and dimensions.",
+            "Release to full speed, then record the changeover time and any problems so the next change can be shorter."
+          ]
+        },
+        {
+          "heading": "SKU planning around shared shells",
+          "list": [
+            "Group bottles into size families that fit one shell envelope, for example 500ml and 550ml shapes with similar diameter and height.",
+            "Keep the same neck finish and, where possible, the same preform within a family so only the inserts and base change.",
+            "Sequence production so that formats from the same family run back to back, and changes between families are planned for scheduled stops.",
+            "Keep one spare set of inserts and bases for the highest-volume shapes so worn parts can be replaced without stopping production.",
+            "Design new SKUs to fit an existing shell family whenever the marketing brief allows it; this keeps tooling to inserts only.",
+            "Document every insert set by cavity number and format, and store them in protective racks near the machine."
+          ]
+        },
+        {
+          "heading": "What LIHE needs to quote a split-type quick-change mold",
+          "list": [
+            "Blow molding machine brand, model and mold carrier type; LIHE builds blow molds for SIDEL, KRONES, SIG/KHS, TECH-LONG and NEWAMSTAR two-step machines and SIPA, ASB and AOKI one-step machines.",
+            "Drawings or samples of all bottles to run in the shell family, with their preforms and neck finishes.",
+            "Expected number of formats and how often they change.",
+            "Whether existing shells are to be reused, with their drawings or condition, or new shells are needed.",
+            "Any related accessories such as stretch rods, blowing pins or neck grippers for formats with different preforms."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Can any new bottle shape use the existing shells?",
+          "answer": "Only if it fits the shell envelope, mainly the maximum diameter and height, and uses a compatible neck and base arrangement. Bottles that are much larger or smaller usually need their own shells or a full mold set."
+        },
+        {
+          "question": "How much changeover time does a split-type mold save?",
+          "answer": "It depends on the machine, the number of cavities and how the changeover is organized. Measure your current time from last good bottle to first good bottle, then compare it with a trial changeover of inserts only. Good preparation of external tasks often matters as much as the mold design."
+        },
+        {
+          "question": "Do I still need to change parts other than the inserts?",
+          "answer": "If the new format uses the same preform and neck finish, usually only the inserts and base change. If the preform or neck changes, preform-related parts such as stretch rods and neck handling parts, and the machine settings, also change."
+        },
+        {
+          "question": "Is a split-type mold suitable for hot fill bottles?",
+          "answer": "Hot fill bottles, filled at about 85–95°C, need heat-set molds with heated mold surfaces because standard PET deforms above about 60°C. Whether a quick-change insert design suits a specific hot fill bottle and machine has to be checked case by case."
+        },
+        {
+          "question": "Which machines can use LIHE split-type quick-change molds?",
+          "answer": "They are adapted to the quick-change mold carriers of mainstream rotary blow molding machines. Send the machine brand, model and carrier type so the shell interface can be confirmed."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "Стоимость переналадки выдувных форм: когда окупается разъёмная форма быстрой смены, а когда полный комплект",
+      "intro": "Разъёмная выдувная форма быстрой смены — это выдувная форма, в которой вставки с формой бутылки и дно отделены от корпусов (оболочек), остающихся установленными в машине, поэтому при смене формата меняются только вставки. В этом руководстве разобрана полная стоимость переналадок на ротационной выдувной машине и показано, когда разъёмная система окупается по сравнению с покупкой полного комплекта форм для каждой бутылки. Также приведены порядок переналадки и метод планирования ассортимента (SKU) вокруг общих корпусов.",
+      "sections": [
+        {
+          "heading": "Из чего складывается стоимость переналадки выдувной формы",
+          "paragraphs": [
+            "Цена комплекта форм — лишь часть затрат на выпуск многих форматов бутылок. Каждая смена формата останавливает линию и требует труда и материала. Эти затраты повторяются при каждой смене, поэтому растут вместе с числом SKU и частотой переналадок."
+          ],
+          "list": [
+            "Простой линии: выдувная машина и обычно стоящий за ней наполнитель ничего не выпускают, пока меняют формы и запускают новый формат.",
+            "Труд: наладчики снимают, устанавливают и регулируют формы и проверяют первые бутылки; для полных комплектов часто нужен кран или подъёмное устройство.",
+            "Брак при запуске: преформы и бутылки, отбракованные, пока профиль нагрева и параметры выдува настраиваются под новую форму.",
+            "Инвестиции в оснастку: полный комплект формы на каждое гнездо для каждой формы бутылки или один набор корпусов плюс вставки для каждой формы.",
+            "Хранение и перемещение: полные комплекты тяжелее и требуют больше места, защиты и подъёмного оборудования, чем вставки.",
+            "Риск износа и повреждений: частое снятие и установка тяжёлых деталей повышает вероятность повреждения подключений охлаждения и базовых поверхностей."
+          ]
+        },
+        {
+          "heading": "Полный комплект или разъёмная форма быстрой смены: сравнение",
+          "table": {
+            "head": ["", "Полный комплект на формат", "Разъёмная форма быстрой смены"],
+            "rows": [
+              ["Что меняется", "Полуформы целиком, корпуса и дно для каждого гнезда", "Только вставки и дно; корпуса остаются в формодержателе"],
+              ["Оснастка для новой формы бутылки", "Новый полный комплект", "Новые вставки и дно (корпуса используются повторно, если бутылка вписывается в габарит корпуса)"],
+              ["Масса деталей при переналадке", "Больше; часто нужны подъёмные средства", "Меньше; вставки — более лёгкие детали"],
+              ["Простой при переналадке", "Дольше, так как отсоединяется и выравнивается больше деталей", "Короче, так как корпуса и их подключения остаются на месте"],
+              ["Хранение на формат", "Полные комплекты на гнёзда", "Вставки и донья на гнёзда"],
+              ["Когда лучше всего", "Мало форматов, длинные партии, сильно различающиеся объёмы", "Много SKU, частые смены, бутылки одного размерного ряда"],
+              ["Ограничения", "Выше стоимость каждой новой формы", "Новая форма должна вписываться в существующий корпус; корпуса должны быть в хорошем состоянии"]
+            ]
+          }
+        },
+        {
+          "heading": "Когда окупается разъёмная выдувная форма быстрой смены",
+          "paragraphs": [
+            "Разъёмная система оправдана, когда экономия от коротких переналадок и более дешёвых новых форм больше стоимости корпусов и инженерной работы по размещению нескольких бутылок в одном семействе корпусов."
+          ],
+          "list": [
+            "Линия выпускает много SKU одного размерного ряда, например несколько форм 500 мл для разных брендов или заказчиков.",
+            "Форматы меняются еженедельно или чаще, поэтому простой одной переналадки многократно умножается за год.",
+            "Регулярно выводятся новые формы бутылок, например сезонная или промоупаковка.",
+            "Бутылки имеют одно горло и одну преформу, поэтому параметры нагрева и вытяжки между форматами меняются мало.",
+            "Полный комплект по-прежнему оправдан, если линия месяцами выпускает один-два формата или если новая бутылка так отличается по диаметру или высоте, что не вписывается в существующий корпус."
+          ]
+        },
+        {
+          "heading": "Оценка годовой стоимости переналадок: простая расчётная схема",
+          "paragraphs": [
+            "Используйте данные своей линии. Цифры ниже лишь показывают, как построить расчёт; это не показатели какой-либо конкретной формы."
+          ],
+          "list": [
+            "Переналадок в год = переналадок в неделю × рабочих недель. Пример: 3 переналадки в неделю × 52 недели = 156 переналадок в год.",
+            "Простой в год = переналадок в год × часов на переналадку (от последней годной бутылки до первой годной).",
+            "Потерянный выпуск = простой в год × производительность линии в час.",
+            "Брак при запуске = переналадок в год × число отбракованных преформ на запуск.",
+            "Оснастка = (число новых форм в год × стоимость полного комплекта) в сравнении с (корпуса один раз + число новых форм × стоимость вставок и дна).",
+            "Сравните итоги за ожидаемый срок службы корпусов; разница — ценность перехода на разъёмную систему.",
+            "Учитывайте время переналадки в общей эффективности оборудования (OEE), где оно отражается как потеря доступности."
+          ]
+        },
+        {
+          "heading": "Порядок переналадки выдувной формы быстрой смены",
+          "paragraphs": [
+            "SMED (быстрая смена штампа, single-minute exchange of die) — бережливый метод, цель которого — сократить смену оснастки до менее чем 10 минут за счёт разделения работ, выполняемых при работающей машине (внешние), и работ при остановленной машине (внутренние). Шаги ниже применяют этот подход к разъёмной выдувной форме."
+          ],
+          "steps": [
+            "До остановки линии подготовьте следующий формат: вставки и донья очищены, проверены и промаркированы по гнёздам, инструмент и рецептура машины готовы.",
+            "Доработайте текущий формат и остановите выдувную машину в соответствии с её процедурой безопасности.",
+            "Откройте станции формования и освободите вставки и дно из корпусов, оставив корпуса в формодержателе.",
+            "Установите новые вставки и дно в каждую станцию и зафиксируйте их, проверив правильность посадки каждой детали.",
+            "Если меняется преформа, замените также связанные с ней детали и параметры, например ход вытяжного штока и профиль нагрева печи.",
+            "Загрузите новую рецептуру, запустите машину на пониженной производительности и проверьте первые бутылки по объёму, распределению стенки, форме дна и размерам.",
+            "Выведите линию на полную скорость, затем зафиксируйте время переналадки и возникшие проблемы, чтобы следующая смена была короче."
+          ]
+        },
+        {
+          "heading": "Планирование SKU вокруг общих корпусов",
+          "list": [
+            "Группируйте бутылки в размерные семейства, вписывающиеся в один габарит корпуса, например формы 500 мл и 550 мл с близкими диаметром и высотой.",
+            "Сохраняйте в пределах семейства одно горло и по возможности одну преформу, чтобы менялись только вставки и дно.",
+            "Выстраивайте очерёдность так, чтобы форматы одного семейства шли подряд, а смены между семействами приходились на плановые остановки.",
+            "Держите запасной комплект вставок и доньев для самых массовых форм, чтобы заменять изношенные детали без остановки производства.",
+            "Проектируйте новые SKU под существующее семейство корпусов, когда маркетинговое задание это позволяет; тогда оснастка ограничивается вставками.",
+            "Документируйте каждый комплект вставок по номеру гнезда и формату и храните их в защитных стеллажах рядом с машиной."
+          ]
+        },
+        {
+          "heading": "Что нужно LIHE для расчёта разъёмной формы быстрой смены",
+          "list": [
+            "Марка, модель выдувной машины и тип формодержателя; LIHE изготавливает выдувные формы для двухстадийных машин SIDEL, KRONES, SIG/KHS, TECH-LONG и NEWAMSTAR и одностадийных SIPA, ASB и AOKI.",
+            "Чертежи или образцы всех бутылок, которые будут выпускаться в семействе корпусов, с их преформами и горлами.",
+            "Ожидаемое число форматов и частота их смены.",
+            "Будут ли использоваться существующие корпуса (с чертежами или описанием состояния) или нужны новые.",
+            "Сопутствующие комплектующие, например вытяжные штоки, дутьевые сопла или захваты горла для форматов с другими преформами."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Может ли любая новая форма бутылки использовать существующие корпуса?",
+          "answer": "Только если она вписывается в габарит корпуса, прежде всего по максимальному диаметру и высоте, и имеет совместимое горло и дно. Для бутылок значительно большего или меньшего размера обычно нужны свои корпуса или полный комплект."
+        },
+        {
+          "question": "Сколько времени на переналадку экономит разъёмная форма?",
+          "answer": "Это зависит от машины, числа гнёзд и организации переналадки. Измерьте текущее время от последней годной бутылки до первой годной, затем сравните его с пробной заменой только вставок. Хорошая подготовка внешних работ часто значит не меньше, чем конструкция формы."
+        },
+        {
+          "question": "Нужно ли менять что-то, кроме вставок?",
+          "answer": "Если новый формат использует ту же преформу и горло, обычно меняются только вставки и дно. Если меняется преформа или горло, меняются и связанные детали, например вытяжные штоки и захваты горла, а также настройки машины."
+        },
+        {
+          "question": "Подходит ли разъёмная форма для бутылок горячего розлива?",
+          "answer": "Бутылкам горячего розлива при температуре около 85–95°C нужны термофиксирующие формы с нагреваемой поверхностью, так как стандартный ПЭТ деформируется выше примерно 60°C. Подходит ли конструкция с быстросменными вставками для конкретной бутылки и машины, проверяется в каждом случае отдельно."
+        },
+        {
+          "question": "Для каких машин подходят разъёмные формы быстрой смены LIHE?",
+          "answer": "Они адаптируются к формодержателям быстрой смены распространённых ротационных выдувных машин. Укажите марку, модель машины и тип формодержателя, чтобы подтвердить стыковку корпусов."
+        }
+      ]
+    },
+    "es": {
+      "heading": "Costo del cambio de formato en moldes de soplado: cuándo compensa un molde partido de cambio rápido frente a juegos completos",
+      "intro": "Un molde de soplado partido de cambio rápido es un molde de soplado en el que los insertos con la forma de la botella y la base están separados de las carcasas, que permanecen montadas en la máquina, de modo que un cambio de formato solo reemplaza los insertos. Esta guía analiza el costo total de los cambios de formato en una sopladora rotativa y muestra cuándo compensa un sistema partido frente a comprar un juego completo de moldes para cada botella. También incluye un procedimiento de cambio y un método para planificar los SKU en torno a carcasas compartidas.",
+      "sections": [
+        {
+          "heading": "Lo que cuesta realmente un cambio de molde de soplado",
+          "paragraphs": [
+            "El precio de un juego de moldes es solo una parte del costo de producir muchos formatos de botella. Cada cambio de formato también detiene la línea y consume mano de obra y material. Estos costos se repiten cada vez que cambia el formato, por lo que crecen con el número de SKU y la frecuencia de cambios."
+          ],
+          "list": [
+            "Parada de línea: la sopladora, y normalmente la llenadora detrás de ella, no producen nada mientras se cambian los moldes y se arranca el nuevo formato.",
+            "Mano de obra: técnicos para desmontar, montar y ajustar los moldes y revisar las primeras botellas, a menudo con grúa o equipo de elevación en el caso de juegos completos.",
+            "Desecho de arranque: preformas y botellas rechazadas mientras se ajustan el perfil de calentamiento y las condiciones de soplado para la nueva forma.",
+            "Inversión en utillaje: un juego completo por cavidad para cada forma de botella, o un juego de carcasas más insertos para cada forma.",
+            "Almacenamiento y manipulación: los juegos completos pesan más y requieren más espacio, protección y equipos de manipulación que los insertos.",
+            "Riesgo de desgaste y daños: desmontar y volver a montar piezas pesadas con frecuencia aumenta la probabilidad de dañar conexiones de refrigeración y superficies de centrado."
+          ]
+        },
+        {
+          "heading": "Juego completo frente a molde de soplado partido de cambio rápido: comparación",
+          "table": {
+            "head": ["", "Juego completo por formato", "Molde partido de cambio rápido"],
+            "rows": [
+              ["Qué se cambia", "Semimoldes completos, carcasas y base de cada cavidad", "Solo insertos y base; las carcasas quedan en el portamoldes"],
+              ["Utillaje para una nueva forma de botella", "Nuevo juego completo", "Nuevos insertos y base (las carcasas se reutilizan si la botella cabe en su envolvente)"],
+              ["Peso manipulado en el cambio", "Mayor; a menudo se necesitan ayudas de elevación", "Menor; los insertos son piezas más ligeras"],
+              ["Tiempo de parada por cambio", "Más largo, porque se desconectan y alinean más piezas", "Más corto, porque las carcasas y sus conexiones permanecen en su sitio"],
+              ["Almacenamiento por formato", "Juegos completos por cavidad", "Insertos y bases por cavidad"],
+              ["Mejor uso", "Pocos formatos, tiradas largas, tamaños de botella muy distintos", "Muchos SKU, cambios frecuentes, botellas de una misma familia de tamaños"],
+              ["Límites", "Mayor costo por cada nueva forma", "La nueva forma debe caber en la carcasa existente; las carcasas deben estar en buen estado"]
+            ]
+          }
+        },
+        {
+          "heading": "Cuándo compensa un molde de soplado partido de cambio rápido",
+          "paragraphs": [
+            "Un sistema partido tiene sentido cuando el ahorro por cambios más cortos y nuevas formas más baratas supera el costo de las carcasas y de la ingeniería necesaria para encajar varias botellas en una familia de carcasas."
+          ],
+          "list": [
+            "La línea produce muchos SKU de una misma familia de tamaños, por ejemplo varias formas de 500 ml para distintas marcas o clientes.",
+            "Los formatos cambian semanalmente o más a menudo, de modo que la parada de cada cambio se multiplica muchas veces al año.",
+            "Se lanzan nuevas formas de botella con regularidad, como envases de temporada o promocionales.",
+            "Las botellas comparten el mismo cuello y la misma preforma, por lo que los ajustes de calentamiento y estirado cambian poco entre formatos.",
+            "Un juego completo sigue siendo razonable cuando la línea produce uno o dos formatos durante meses, o cuando la nueva botella es tan distinta en diámetro o altura que no cabe en la carcasa existente."
+          ]
+        },
+        {
+          "heading": "Estimar el costo anual de los cambios: una hoja de cálculo sencilla",
+          "paragraphs": [
+            "Use los datos de su propia línea. Las cifras siguientes solo muestran cómo plantear el cálculo; no son datos de rendimiento de ningún molde concreto."
+          ],
+          "list": [
+            "Cambios por año = cambios por semana × semanas de operación. Ejemplo: 3 cambios por semana × 52 semanas = 156 cambios por año.",
+            "Parada por año = cambios por año × horas por cambio (medidas desde la última botella buena hasta la primera botella buena).",
+            "Producción perdida = parada por año × producción de la línea por hora.",
+            "Desecho de arranque = cambios por año × preformas rechazadas por arranque.",
+            "Utillaje = (número de nuevas formas por año × costo de un juego completo) frente a (carcasas una sola vez + número de nuevas formas × costo de insertos y base).",
+            "Comparar los totales durante la vida útil prevista de las carcasas; la diferencia es el valor de pasar a un sistema partido.",
+            "Registrar el tiempo de cambio dentro de la eficiencia general de los equipos (OEE), donde aparece como pérdida de disponibilidad."
+          ]
+        },
+        {
+          "heading": "Procedimiento de cambio de un molde de soplado de cambio rápido",
+          "paragraphs": [
+            "SMED (single-minute exchange of die, cambio de utillaje en un solo dígito de minutos) es un método lean que busca reducir los cambios de herramienta a menos de 10 minutos separando el trabajo que se hace con la máquina en marcha (externo) del que se hace con la máquina parada (interno). Los pasos siguientes aplican esa idea a un molde de soplado partido."
+          ],
+          "steps": [
+            "Antes de detener la línea, preparar el siguiente formato: insertos y bases limpios, revisados y marcados por cavidad, herramientas y receta de la máquina listas.",
+            "Terminar el formato actual y detener la sopladora según su procedimiento de seguridad.",
+            "Abrir las estaciones de molde y liberar los insertos y la base de las carcasas, dejando las carcasas en el portamoldes.",
+            "Montar los nuevos insertos y la base en cada estación y bloquearlos, comprobando que cada pieza asienta correctamente.",
+            "Si cambia la preforma, cambiar también las piezas y ajustes relacionados, como la carrera de la varilla de estirado y el perfil de calentamiento del horno.",
+            "Cargar la nueva receta, arrancar a producción reducida y revisar las primeras botellas en volumen, distribución de pared, forma de la base y dimensiones.",
+            "Pasar a plena velocidad y registrar el tiempo de cambio y cualquier problema para que el siguiente cambio sea más corto."
+          ]
+        },
+        {
+          "heading": "Planificación de SKU en torno a carcasas compartidas",
+          "list": [
+            "Agrupar las botellas en familias de tamaño que quepan en una misma envolvente de carcasa, por ejemplo formas de 500 ml y 550 ml con diámetro y altura parecidos.",
+            "Mantener el mismo cuello y, cuando sea posible, la misma preforma dentro de cada familia, para que solo cambien los insertos y la base.",
+            "Secuenciar la producción para que los formatos de una misma familia se produzcan seguidos y los cambios entre familias coincidan con paradas programadas.",
+            "Tener un juego de repuesto de insertos y bases para las formas de mayor volumen, de modo que las piezas desgastadas se sustituyan sin parar la producción.",
+            "Diseñar los nuevos SKU para que encajen en una familia de carcasas existente siempre que el briefing de marketing lo permita; así el utillaje se limita a insertos.",
+            "Documentar cada juego de insertos por número de cavidad y formato, y guardarlos en estanterías protegidas cerca de la máquina."
+          ]
+        },
+        {
+          "heading": "Qué necesita LIHE para cotizar un molde partido de cambio rápido",
+          "list": [
+            "Marca, modelo de la sopladora y tipo de portamoldes; LIHE fabrica moldes de soplado para máquinas de dos etapas SIDEL, KRONES, SIG/KHS, TECH-LONG y NEWAMSTAR y de una etapa SIPA, ASB y AOKI.",
+            "Planos o muestras de todas las botellas que se producirán en la familia de carcasas, con sus preformas y acabados de cuello.",
+            "Número previsto de formatos y frecuencia de cambio.",
+            "Si se reutilizarán carcasas existentes (con sus planos o estado) o se necesitan carcasas nuevas.",
+            "Accesorios relacionados, como varillas de estirado, toberas de soplado o pinzas de cuello, para formatos con preformas distintas."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Puede cualquier nueva forma de botella usar las carcasas existentes?",
+          "answer": "Solo si cabe en la envolvente de la carcasa, sobre todo en diámetro máximo y altura, y usa una disposición de cuello y base compatible. Las botellas mucho más grandes o pequeñas suelen necesitar sus propias carcasas o un juego completo."
+        },
+        {
+          "question": "¿Cuánto tiempo de cambio ahorra un molde partido?",
+          "answer": "Depende de la máquina, del número de cavidades y de cómo se organice el cambio. Mida su tiempo actual desde la última botella buena hasta la primera botella buena y compárelo con un cambio de prueba solo de insertos. Una buena preparación de las tareas externas suele importar tanto como el diseño del molde."
+        },
+        {
+          "question": "¿Hay que cambiar otras piezas además de los insertos?",
+          "answer": "Si el nuevo formato usa la misma preforma y el mismo cuello, normalmente solo cambian los insertos y la base. Si cambian la preforma o el cuello, también cambian las piezas relacionadas, como varillas de estirado y piezas de manipulación del cuello, y los ajustes de la máquina."
+        },
+        {
+          "question": "¿Sirve un molde partido para botellas de llenado en caliente?",
+          "answer": "Las botellas de llenado en caliente, llenadas a unos 85–95°C, necesitan moldes termofijados con superficies calentadas, porque el PET estándar se deforma por encima de unos 60°C. Si un diseño de insertos de cambio rápido sirve para una botella y una máquina concretas se comprueba caso por caso."
+        },
+        {
+          "question": "¿En qué máquinas se pueden usar los moldes partidos de cambio rápido de LIHE?",
+          "answer": "Se adaptan a los portamoldes de cambio rápido de las principales sopladoras rotativas. Envíe la marca, el modelo de la máquina y el tipo de portamoldes para confirmar la interfaz de las carcasas."
+        }
+      ]
+    }
+  }
+}

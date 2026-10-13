@@ -1,0 +1,467 @@
+{
+  "slug": "pet-preform-mold-troubleshooting-slow-cycle-defects",
+  "questionId": "q117",
+  "date": "2026-10-13",
+  "relatedProducts": [19, 27, 18],
+  "images": {
+    "hero": "/images/news/pet-preform-mold-troubleshooting-slow-cycle-defects-hero.webp",
+    "detail": "/images/news/pet-preform-mold-troubleshooting-slow-cycle-defects-detail.webp",
+    "og": "/images/news/pet-preform-mold-troubleshooting-slow-cycle-defects-hero-og.jpg"
+  },
+  "sources": [
+    { "label": "Wikipedia — Injection moulding", "url": "https://en.wikipedia.org/wiki/Injection_moulding" },
+    { "label": "Wikipedia — Polyethylene terephthalate", "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate" },
+    { "label": "Wikipedia — Hot runner", "url": "https://en.wikipedia.org/wiki/Hot_runner" },
+    { "label": "Wikipedia — Acetaldehyde", "url": "https://en.wikipedia.org/wiki/Acetaldehyde" },
+    { "label": "Wikipedia — Process capability index", "url": "https://en.wikipedia.org/wiki/Process_capability_index" }
+  ],
+  "locales": {
+    "en": {
+      "category": "Technical Insights",
+      "title": "Our PET Preform Mold Is Running Slow and Causing Defects—What Troubleshooting Steps Should We Take?",
+      "summary": "A step-by-step troubleshooting guide for PET preform molds that have lost cycle time and started producing defects: what data to collect, how to isolate cooling, hot runner and mechanical causes, and a defect table with checks and fixes.",
+      "heroAlt": "Gloved hands inspecting a clear PET container beside an opened multi-cavity preform mold on a workbench",
+      "detailAlt": "Row of transparent PET preforms on a lit inspection table with a magnifier and calipers",
+      "sections": [
+        {
+          "heading": "What should you do when a preform mold runs slow and makes defects?",
+          "paragraphs": [
+            "Preform mold troubleshooting is a structured process of isolating whether a cycle-time or quality problem comes from the material, the machine, the hot runner, the mold cooling or the mold mechanics. Start by collecting data per cavity, then check drying, cooling water, hot runner zones and wear parts in that order, because most slow, defect-prone molds have a cooling or hot runner fault that operators have compensated for by extending the cycle.",
+            "Cycle time refers to the full time of one injection, hold, cooling, mold opening, ejection and closing sequence. When cooling becomes less effective, the usual reaction is to add cooling time to stop haze or ovality, so the slow cycle and the defects are often the same problem."
+          ]
+        },
+        {
+          "heading": "Key numbers to keep in mind",
+          "list": [
+            "Capability target: LIHE tooling consistently achieves CPK ≥ 1.33, a common benchmark for a capable process.",
+            "Defect benchmark: operational defect rates as low as 0.0064% on LIHE tooling.",
+            "Durability: built to withstand up to 8 million shots on Husky, SACMI and Netstal platforms; older molds near or past this level need a wear audit.",
+            "Cooling: optimized cooling can reduce neck cooling time by up to 0.5 s.",
+            "Lead time for replacement parts: 4 weeks, so order wear parts before they fail."
+          ]
+        },
+        {
+          "heading": "Why preform molds slow down",
+          "list": [
+            "Scale and corrosion in cooling channels reduce heat transfer, so operators extend cooling time to avoid haze and deformed preforms.",
+            "Low water flow or a high supply temperature from the chiller has the same effect across the whole mold.",
+            "Failed heaters or thermocouples in the hot runner leave cold drops; the cavity is shut off or the process is slowed to fill it.",
+            "Worn gate inserts, nozzle tips and valve pins cause gate defects that are often treated with longer hold or cooling time.",
+            "Worn neck rings, locking tapers and cores cause flash and wall eccentricity, which can force slower injection.",
+            "Wet or poorly dried resin lowers IV and increases defects, which some plants try to manage with process changes instead of fixing drying.",
+            "Blocked vents trap air and volatiles, causing short shots and burn marks that slow down setup and restarts."
+          ]
+        },
+        {
+          "heading": "What to prepare before troubleshooting",
+          "list": [
+            "Cycle time history from the machine, ideally from when the mold was new or last refurbished.",
+            "Reject rate and defect type per cavity, with physical samples labelled by cavity number.",
+            "Preform weight per cavity from several shots, to see imbalance in the hot runner.",
+            "Cooling water records: supply temperature, flow per circuit and temperature difference between inlet and outlet.",
+            "Hot runner controller readings: set point, actual temperature and output percentage per zone.",
+            "Dryer records: drying time, dew point and material throughput.",
+            "Maintenance history: last refurbishment, parts replaced, total shot count."
+          ]
+        },
+        {
+          "heading": "Step-by-step troubleshooting procedure",
+          "steps": [
+            "Define the problem with numbers: current cycle time versus the original, defect types and the affected cavities.",
+            "Separate cavity-specific problems from whole-mold problems; a few bad cavities point to local causes, a uniform problem points to material, water or process.",
+            "Check material drying and IV drop before touching the mold, since wet resin produces many of the same defects as mold faults.",
+            "Measure water flow and temperature difference on every cooling circuit; descale or clean channels that show low flow.",
+            "Review hot runner zones; repair heaters and thermocouples that run at abnormal output or cannot reach set point.",
+            "Inspect gates, nozzle tips and valve pins of the affected cavities and replace worn parts.",
+            "Inspect cores, cavities, neck rings and locking tapers for wear, damage and misalignment; clean and measure the vents.",
+            "Measure critical stack components, preferably on a CMM, and compare them with the drawing.",
+            "Restart with a documented process, reduce cooling time step by step and confirm preform quality at each step.",
+            "Record the root cause, the fix and the new cycle time, and update the preventive maintenance plan."
+          ]
+        },
+        {
+          "heading": "Defect troubleshooting table",
+          "table": {
+            "head": ["Defect", "What you see", "Common causes", "Checks and fixes"],
+            "rows": [
+              ["Haze / crystallinity", "White or cloudy areas, often near gate or base", "Slow cooling, scale in channels, wet resin", "Check water flow, descale, verify drying"],
+              ["Short shot", "Incomplete preform, usually neck area", "Cold hot runner drop, blocked tip, blocked vent", "Check zone temperature, tip and vents"],
+              ["Flash", "Thin plastic at neck split line or parting line", "Worn neck rings or tapers, low clamp", "Measure and replace worn stack parts"],
+              ["Wall eccentricity", "Uneven wall thickness around the circumference", "Core shift, worn alignment, uneven cooling", "Check core alignment and tapers; balance cooling"],
+              ["Gate stringing / long gate", "Thread of plastic or long vestige at gate", "Worn valve pin or tip, gate too hot", "Replace pin and tip; adjust gate temperature"],
+              ["High AA", "Taste issues, high AA test results", "High melt temperature, long residence time", "Lower temperatures; check shot size versus barrel"],
+              ["Black specks", "Dark particles in the wall", "Degraded material in hot runner or barrel", "Clean manifold and screw; check for dead spots"],
+              ["Sink marks / voids", "Depression or bubble in thick sections", "Short hold time or pressure, wet resin", "Check hold settings and drying"],
+              ["Ovality / bent preform", "Out-of-round neck or body after ejection", "Insufficient cooling, take-out problems", "Check cooling and post-mold handling"],
+              ["Weight variation", "Different weight per cavity", "Hot runner imbalance, worn tips", "Rebalance zones; replace worn tips"]
+            ]
+          }
+        },
+        {
+          "heading": "Slow cycle: quick cause-and-fix comparison",
+          "table": {
+            "head": ["Observation", "Probable cause", "Fix"],
+            "rows": [
+              ["Whole mold needs more cooling time than before", "Scale in channels or poor chiller performance", "Descale mold, check chiller capacity and water quality"],
+              ["Only some cavities need longer cooling", "Blocked or reduced flow in those circuits", "Clean and flow-test the affected circuits"],
+              ["Cycle extended to fill some cavities", "Cold or failed hot runner zones", "Repair heaters and thermocouples, rebalance"],
+              ["Cycle extended to control gate defects", "Worn tips, pins or gate inserts", "Replace worn hot runner and gate parts"],
+              ["Injection slowed to avoid flash", "Worn neck rings and locking tapers", "Refurbish or replace stack components"]
+            ]
+          }
+        },
+        {
+          "heading": "Advanced tips",
+          "list": [
+            "Use cavity-level statistical process control; CPK is a useful single number to show if a cavity or the whole mold is drifting.",
+            "Never compensate a mechanical fault with process settings for long; it hides the root cause and costs cycle time every shift.",
+            "Water quality matters as much as temperature; treated water slows down scale build-up in narrow core cooling channels.",
+            "Consider a cooling optimization when refurbishing; LIHE's optimized cooling can reduce neck cooling time by up to 0.5 s.",
+            "Keep a critical spare set (tips, pins, heaters, seals, neck rings) for the highest-wear cavities.",
+            "Compare refurbishment with replacement for molds near the end of their life; a complete overhaul can restore aging tooling to OEM-level efficiency."
+          ]
+        },
+        {
+          "heading": "Related concepts",
+          "list": [
+            "Intrinsic viscosity (IV): an indicator of PET molecular weight that drops with moisture and heat damage.",
+            "Acetaldehyde (AA): a degradation product of PET that rises with melt temperature and residence time.",
+            "Stack components: the core, cavity, neck rings and gate insert that form one preform.",
+            "Hot runner balance: equal melt temperature and flow to every drop, which is needed for equal preform weight.",
+            "Process capability index (CPK): a measure of how well a process stays within its specification limits."
+          ]
+        },
+        {
+          "heading": "When to call in the mold maker",
+          "list": [
+            "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China.",
+            "Remote troubleshooting and on-site assistance by a dedicated technical team, including machine interface audits and start-up support.",
+            "Mold refurbishment programs and complete overhauls to restore aging molds to OEM-level efficiency.",
+            "Replacement parts made from existing Husky, SACMI or Otto parts, and hot runner nozzle tips, valve pins, heaters and seals.",
+            "Inspection in an in-house Zeiss CMM lab, with validation and inspection reports on request."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is the most common reason a preform mold gets slower over time?",
+          "answer": "Reduced cooling efficiency, usually from scale or blocked cooling channels or poor chiller performance. Operators extend cooling time to avoid haze and ovality, so the cycle slowly gets longer."
+        },
+        {
+          "question": "How do we tell a mold problem from a material problem?",
+          "answer": "Look at the defect pattern by cavity. Defects in only some cavities point to local mold or hot runner causes. Defects in all cavities at once point to material, drying, water supply or process settings."
+        },
+        {
+          "question": "Should we replace parts or refurbish the whole mold?",
+          "answer": "Replace parts when wear is limited to a few cavities. Consider a complete refurbishment when many cavities show wear, the shot count is high, or the mold no longer reaches its original cycle time after repairs."
+        },
+        {
+          "question": "Can cooling changes really recover cycle time?",
+          "answer": "Yes, if cooling is the limiting factor. Cleaning channels restores lost performance, and an optimized cooling design can reduce neck cooling time by up to 0.5 s."
+        },
+        {
+          "question": "What information should we send LIHE for remote troubleshooting?",
+          "answer": "Send the machine model, cavity count, preform drawing, cycle time history, defect samples or photos by cavity, hot runner zone readings and cooling water data to sales@lihe-preform.com."
+        }
+      ]
+    },
+    "ru": {
+      "category": "Технические статьи",
+      "title": "Наша пресс-форма для ПЭТ-преформ работает медленно и даёт брак — какие шаги диагностики нам предпринять?",
+      "summary": "Пошаговое руководство по диагностике пресс-форм для ПЭТ-преформ, которые потеряли время цикла и начали давать брак: какие данные собрать, как отделить причины в охлаждении, горячем канале и механике, и таблица дефектов с проверками и решениями.",
+      "heroAlt": "Руки в перчатках осматривают прозрачную ПЭТ-ёмкость рядом с раскрытой многогнёздной пресс-формой",
+      "detailAlt": "Ряд прозрачных ПЭТ-преформ на освещённом столе контроля с лупой и штангенциркулем",
+      "sections": [
+        {
+          "heading": "Что делать, если пресс-форма для преформ работает медленно и даёт брак?",
+          "paragraphs": [
+            "Диагностика пресс-формы для преформ — это структурированный процесс, позволяющий определить, откуда берётся проблема со временем цикла или качеством: из материала, машины, горячего канала, охлаждения или механики формы. Начните со сбора данных по каждому гнезду, затем проверьте сушку, охлаждающую воду, зоны горячего канала и изнашиваемые детали именно в таком порядке, потому что у большинства медленных и дающих брак форм есть неисправность охлаждения или горячего канала, которую операторы компенсировали удлинением цикла.",
+            "Время цикла — это полное время одной последовательности впрыска, выдержки под давлением, охлаждения, раскрытия формы, съёма и смыкания. Когда охлаждение теряет эффективность, обычная реакция — добавить время охлаждения, чтобы убрать помутнение или овальность, поэтому медленный цикл и дефекты часто оказываются одной и той же проблемой."
+          ]
+        },
+        {
+          "heading": "Ключевые цифры",
+          "list": [
+            "Целевая воспроизводимость: оснастка LIHE стабильно обеспечивает CPK ≥ 1,33 — распространённый ориентир для стабильного процесса.",
+            "Ориентир по браку: уровень эксплуатационного брака на оснастке LIHE — до 0,0064%.",
+            "Ресурс: формы рассчитаны на работу до 8 млн циклов на платформах Husky, SACMI и Netstal; старым формам, приближающимся к этому уровню или превысившим его, нужен аудит износа.",
+            "Охлаждение: оптимизированное охлаждение может сократить время охлаждения горловины до 0,5 с.",
+            "Срок поставки запасных частей: 4 недели, поэтому заказывайте изнашиваемые детали до их отказа."
+          ]
+        },
+        {
+          "heading": "Почему пресс-формы для преформ замедляются",
+          "list": [
+            "Накипь и коррозия в каналах охлаждения ухудшают теплоотвод, и операторы удлиняют охлаждение, чтобы избежать помутнения и деформации преформ.",
+            "Низкий расход воды или высокая температура подачи от чиллера дают тот же эффект по всей форме.",
+            "Неисправные нагреватели или термопары в горячем канале оставляют холодные сопла; гнездо отключают или замедляют процесс, чтобы его заполнить.",
+            "Изношенные литниковые вставки, наконечники сопел и запорные иглы вызывают дефекты литника, которые часто «лечат» более долгой выдержкой или охлаждением.",
+            "Изношенные горловые кольца, замковые конусы и пуансоны дают облой и разностенность, что может вынуждать замедлять впрыск.",
+            "Влажная или плохо просушенная смола снижает IV и увеличивает брак; некоторые заводы пытаются справиться с этим настройками процесса, а не исправлением сушки.",
+            "Забитая вентиляция удерживает воздух и летучие вещества, вызывая недоливы и подгары, которые замедляют наладку и перезапуски."
+          ]
+        },
+        {
+          "heading": "Что подготовить перед диагностикой",
+          "list": [
+            "Историю времени цикла с машины — желательно с момента, когда форма была новой или после последнего восстановления.",
+            "Процент брака и тип дефекта по каждому гнезду, с физическими образцами, промаркированными номером гнезда.",
+            "Вес преформы по гнёздам за несколько циклов, чтобы увидеть дисбаланс горячего канала.",
+            "Данные охлаждающей воды: температура подачи, расход по каждому контуру и разница температур на входе и выходе.",
+            "Показания контроллера горячего канала: уставка, фактическая температура и процент мощности по каждой зоне.",
+            "Записи сушилки: время сушки, точка росы и расход материала.",
+            "Историю обслуживания: последнее восстановление, заменённые детали, общий счётчик циклов."
+          ]
+        },
+        {
+          "heading": "Пошаговая процедура диагностики",
+          "steps": [
+            "Опишите проблему цифрами: текущее время цикла против исходного, типы дефектов и затронутые гнёзда.",
+            "Отделите проблемы отдельных гнёзд от проблем всей формы: несколько плохих гнёзд указывают на локальные причины, равномерная проблема — на материал, воду или процесс.",
+            "Проверьте сушку материала и падение IV до вмешательства в форму, так как влажная смола даёт многие те же дефекты, что и неисправности формы.",
+            "Измерьте расход воды и перепад температуры на каждом контуре охлаждения; удалите накипь или прочистите каналы с низким расходом.",
+            "Проверьте зоны горячего канала; отремонтируйте нагреватели и термопары с аномальной мощностью или не достигающие уставки.",
+            "Осмотрите литники, наконечники сопел и запорные иглы проблемных гнёзд и замените изношенные детали.",
+            "Осмотрите пуансоны, матрицы, горловые кольца и замковые конусы на износ, повреждения и несоосность; очистите и измерьте вентиляцию.",
+            "Измерьте критические детали пакета, желательно на КИМ, и сравните с чертежом.",
+            "Перезапустите по документированному процессу, сокращайте время охлаждения поэтапно и подтверждайте качество преформ на каждом шаге.",
+            "Зафиксируйте коренную причину, решение и новое время цикла и обновите план профилактического обслуживания."
+          ]
+        },
+        {
+          "heading": "Таблица диагностики дефектов",
+          "table": {
+            "head": ["Дефект", "Как выглядит", "Частые причины", "Проверки и решения"],
+            "rows": [
+              ["Помутнение / кристалличность", "Белые или мутные зоны, часто у литника или дна", "Медленное охлаждение, накипь в каналах, влажная смола", "Проверить расход воды, удалить накипь, проверить сушку"],
+              ["Недолив", "Неполная преформа, обычно в зоне горловины", "Холодное сопло, забитый наконечник, забитая вентиляция", "Проверить температуру зоны, наконечник и вентиляцию"],
+              ["Облой", "Тонкий пластик по разъёму горловых колец или формы", "Изношенные горловые кольца или конусы, низкое усилие смыкания", "Измерить и заменить изношенные детали пакета"],
+              ["Разностенность", "Неравномерная толщина стенки по окружности", "Смещение пуансона, износ центрирования, неравномерное охлаждение", "Проверить соосность пуансона и конусы; сбалансировать охлаждение"],
+              ["Нить / длинный литник", "Нить пластика или длинный след на литнике", "Изношенная игла или наконечник, перегретый литник", "Заменить иглу и наконечник; скорректировать температуру литника"],
+              ["Высокий AA", "Проблемы со вкусом, высокие результаты теста AA", "Высокая температура расплава, долгое время пребывания", "Снизить температуры; проверить дозу относительно цилиндра"],
+              ["Чёрные точки", "Тёмные частицы в стенке", "Деградированный материал в горячем канале или цилиндре", "Очистить коллектор и шнек; проверить застойные зоны"],
+              ["Утяжины / пустоты", "Впадина или пузырь в толстых участках", "Короткая выдержка или низкое давление, влажная смола", "Проверить параметры выдержки и сушку"],
+              ["Овальность / изогнутая преформа", "Некруглая горловина или корпус после съёма", "Недостаточное охлаждение, проблемы съёма", "Проверить охлаждение и посттехнологическое обращение"],
+              ["Разброс веса", "Разный вес по гнёздам", "Дисбаланс горячего канала, изношенные наконечники", "Перебалансировать зоны; заменить изношенные наконечники"]
+            ]
+          }
+        },
+        {
+          "heading": "Медленный цикл: быстрое сравнение причин и решений",
+          "table": {
+            "head": ["Наблюдение", "Вероятная причина", "Решение"],
+            "rows": [
+              ["Всей форме нужно больше времени охлаждения, чем раньше", "Накипь в каналах или слабая работа чиллера", "Удалить накипь, проверить мощность чиллера и качество воды"],
+              ["Дольше охлаждения требуют только некоторые гнёзда", "Засор или снижение расхода в этих контурах", "Прочистить и проверить расход в этих контурах"],
+              ["Цикл удлинён, чтобы заполнить часть гнёзд", "Холодные или неисправные зоны горячего канала", "Отремонтировать нагреватели и термопары, перебалансировать"],
+              ["Цикл удлинён для борьбы с дефектами литника", "Изношенные наконечники, иглы или литниковые вставки", "Заменить изношенные детали горячего канала и литника"],
+              ["Впрыск замедлен, чтобы избежать облоя", "Изношенные горловые кольца и замковые конусы", "Восстановить или заменить детали пакета"]
+            ]
+          }
+        },
+        {
+          "heading": "Практические советы",
+          "list": [
+            "Используйте статистический контроль процесса по гнёздам; CPK — удобный единый показатель, показывающий дрейф гнезда или всей формы.",
+            "Не компенсируйте механическую неисправность настройками процесса надолго: это скрывает коренную причину и каждую смену стоит времени цикла.",
+            "Качество воды важно не меньше температуры; подготовленная вода замедляет образование накипи в узких каналах охлаждения пуансонов.",
+            "При восстановлении рассмотрите оптимизацию охлаждения; оптимизированное охлаждение LIHE может сократить время охлаждения горловины до 0,5 с.",
+            "Держите критический запасной комплект (наконечники, иглы, нагреватели, уплотнения, горловые кольца) для гнёзд с наибольшим износом.",
+            "Для форм в конце срока службы сравнивайте восстановление с заменой; полный капитальный ремонт может вернуть старой оснастке эффективность уровня OEM."
+          ]
+        },
+        {
+          "heading": "Связанные понятия",
+          "list": [
+            "Характеристическая вязкость (IV): показатель молекулярной массы ПЭТ, который снижается из-за влаги и термического повреждения.",
+            "Ацетальдегид (AA): продукт деградации ПЭТ, уровень которого растёт с температурой расплава и временем пребывания.",
+            "Детали пакета (stack): пуансон, матрица, горловые кольца и литниковая вставка, формирующие одну преформу.",
+            "Баланс горячего канала: одинаковая температура и расход расплава для каждого сопла, необходимые для одинакового веса преформ.",
+            "Индекс воспроизводимости процесса (CPK): показатель того, насколько хорошо процесс удерживается в пределах допуска."
+          ]
+        },
+        {
+          "heading": "Когда привлекать изготовителя пресс-формы",
+          "list": [
+            "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) — производитель пресс-форм для ПЭТ-преформ, выдувных форм, форм для колпачков и компрессионных форм, горячеканальных систем и комплектующих для производства напитков и упаковки, с производством в Фошане, Китай.",
+            "Удалённая диагностика и помощь на месте силами выделенной технической команды, включая аудит интерфейса машины и поддержку пуска.",
+            "Программы восстановления и полный капитальный ремонт форм, возвращающие стареющей оснастке эффективность уровня OEM.",
+            "Запасные части, изготовленные по существующим деталям Husky, SACMI или Otto, а также наконечники сопел, запорные иглы, нагреватели и уплотнения горячих каналов.",
+            "Контроль в собственной лаборатории с КИМ Zeiss, отчёты о валидации и контроле по запросу."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Какая самая частая причина замедления пресс-формы со временем?",
+          "answer": "Снижение эффективности охлаждения — обычно из-за накипи, засора каналов или слабой работы чиллера. Операторы удлиняют охлаждение, чтобы избежать помутнения и овальности, и цикл постепенно растёт."
+        },
+        {
+          "question": "Как отличить проблему формы от проблемы материала?",
+          "answer": "Посмотрите на распределение дефектов по гнёздам. Дефекты только в части гнёзд указывают на локальные причины в форме или горячем канале. Дефекты сразу во всех гнёздах указывают на материал, сушку, подачу воды или параметры процесса."
+        },
+        {
+          "question": "Менять детали или восстанавливать всю форму?",
+          "answer": "Меняйте детали, если износ ограничен несколькими гнёздами. Рассмотрите полное восстановление, если износ есть во многих гнёздах, счётчик циклов высокий или после ремонта форма не выходит на исходное время цикла."
+        },
+        {
+          "question": "Может ли изменение охлаждения действительно вернуть время цикла?",
+          "answer": "Да, если охлаждение — ограничивающий фактор. Очистка каналов возвращает потерянную производительность, а оптимизированная конструкция охлаждения может сократить время охлаждения горловины до 0,5 с."
+        },
+        {
+          "question": "Какие данные отправить LIHE для удалённой диагностики?",
+          "answer": "Отправьте на sales@lihe-preform.com модель машины, число гнёзд, чертёж преформы, историю времени цикла, образцы или фото дефектов по гнёздам, показания зон горячего канала и данные охлаждающей воды."
+        }
+      ]
+    },
+    "es": {
+      "category": "Artículos técnicos",
+      "title": "Nuestro molde de preformas PET va lento y genera defectos: ¿qué pasos de diagnóstico debemos seguir?",
+      "summary": "Guía paso a paso para diagnosticar moldes de preformas PET que han perdido tiempo de ciclo y empiezan a generar defectos: qué datos recoger, cómo aislar causas de refrigeración, canal caliente y mecánica, y una tabla de defectos con comprobaciones y soluciones.",
+      "heroAlt": "Manos con guantes inspeccionando un envase PET transparente junto a un molde de preformas multicavidad abierto",
+      "detailAlt": "Fila de preformas PET transparentes sobre una mesa de inspección iluminada con lupa y calibre",
+      "sections": [
+        {
+          "heading": "¿Qué hacer cuando un molde de preformas va lento y genera defectos?",
+          "paragraphs": [
+            "El diagnóstico de un molde de preformas es un proceso estructurado para aislar si un problema de tiempo de ciclo o de calidad viene del material, de la máquina, del canal caliente, de la refrigeración del molde o de su mecánica. Empiece recogiendo datos por cavidad y después revise el secado, el agua de refrigeración, las zonas del canal caliente y las piezas de desgaste en ese orden, porque la mayoría de los moldes lentos y con defectos tienen un fallo de refrigeración o de canal caliente que los operarios han compensado alargando el ciclo.",
+            "El tiempo de ciclo se refiere al tiempo total de una secuencia de inyección, mantenimiento, enfriamiento, apertura del molde, expulsión y cierre. Cuando la refrigeración pierde eficacia, la reacción habitual es añadir tiempo de enfriamiento para evitar turbidez u ovalidad, así que el ciclo lento y los defectos suelen ser el mismo problema."
+          ]
+        },
+        {
+          "heading": "Cifras clave",
+          "list": [
+            "Objetivo de capacidad: el utillaje de LIHE alcanza de forma constante un CPK ≥ 1,33, una referencia habitual de proceso capaz.",
+            "Referencia de defectos: tasas de defectos operativos de tan solo 0,0064% en el utillaje de LIHE.",
+            "Durabilidad: construidos para soportar hasta 8 millones de ciclos en plataformas Husky, SACMI y Netstal; los moldes antiguos cerca de ese nivel o por encima necesitan una auditoría de desgaste.",
+            "Refrigeración: una refrigeración optimizada puede reducir el enfriamiento del cuello hasta 0,5 s.",
+            "Plazo de piezas de repuesto: 4 semanas, así que pida las piezas de desgaste antes de que fallen."
+          ]
+        },
+        {
+          "heading": "Por qué los moldes de preformas se vuelven lentos",
+          "list": [
+            "La cal y la corrosión en los canales de refrigeración reducen la transferencia de calor, y los operarios alargan el enfriamiento para evitar turbidez y preformas deformadas.",
+            "Un caudal de agua bajo o una temperatura de suministro alta del enfriador producen el mismo efecto en todo el molde.",
+            "Resistencias o termopares averiados en el canal caliente dejan boquillas frías; la cavidad se cierra o se ralentiza el proceso para llenarla.",
+            "Insertos de punto de inyección, puntas de boquilla y agujas de válvula desgastados causan defectos en el punto de inyección que a menudo se tratan con más tiempo de mantenimiento o de enfriamiento.",
+            "Anillos de cuello, conos de cierre y machos desgastados provocan rebabas y excentricidad de pared, lo que puede obligar a inyectar más despacio.",
+            "Una resina húmeda o mal secada baja la IV y aumenta los defectos; algunas plantas intentan gestionarlo con cambios de proceso en lugar de corregir el secado.",
+            "Los venteos obstruidos atrapan aire y volátiles, causando inyecciones incompletas y quemaduras que retrasan el ajuste y los rearranques."
+          ]
+        },
+        {
+          "heading": "Qué preparar antes del diagnóstico",
+          "list": [
+            "El historial de tiempo de ciclo de la máquina, idealmente desde que el molde era nuevo o desde su último reacondicionamiento.",
+            "Tasa de rechazo y tipo de defecto por cavidad, con muestras físicas etiquetadas con el número de cavidad.",
+            "Peso de preforma por cavidad en varios ciclos, para ver desequilibrios del canal caliente.",
+            "Registros del agua de refrigeración: temperatura de suministro, caudal por circuito y diferencia de temperatura entre entrada y salida.",
+            "Lecturas del controlador del canal caliente: consigna, temperatura real y porcentaje de potencia por zona.",
+            "Registros del secador: tiempo de secado, punto de rocío y caudal de material.",
+            "Historial de mantenimiento: último reacondicionamiento, piezas sustituidas y número total de ciclos."
+          ]
+        },
+        {
+          "heading": "Procedimiento de diagnóstico paso a paso",
+          "steps": [
+            "Defina el problema con números: tiempo de ciclo actual frente al original, tipos de defecto y cavidades afectadas.",
+            "Separe los problemas de cavidades concretas de los de todo el molde; unas pocas cavidades malas apuntan a causas locales y un problema uniforme apunta a material, agua o proceso.",
+            "Revise el secado del material y la caída de IV antes de tocar el molde, ya que la resina húmeda produce muchos de los mismos defectos que un fallo del molde.",
+            "Mida el caudal de agua y la diferencia de temperatura en cada circuito de refrigeración; desincruste o limpie los canales con caudal bajo.",
+            "Revise las zonas del canal caliente; repare resistencias y termopares con potencia anómala o que no alcanzan la consigna.",
+            "Inspeccione puntos de inyección, puntas de boquilla y agujas de válvula de las cavidades afectadas y sustituya las piezas desgastadas.",
+            "Inspeccione machos, cavidades, anillos de cuello y conos de cierre en busca de desgaste, daños y desalineación; limpie y mida los venteos.",
+            "Mida los componentes críticos del conjunto, preferiblemente en una MMC, y compárelos con el plano.",
+            "Rearranque con un proceso documentado, reduzca el tiempo de enfriamiento paso a paso y confirme la calidad de la preforma en cada paso.",
+            "Registre la causa raíz, la solución y el nuevo tiempo de ciclo, y actualice el plan de mantenimiento preventivo."
+          ]
+        },
+        {
+          "heading": "Tabla de diagnóstico de defectos",
+          "table": {
+            "head": ["Defecto", "Qué se ve", "Causas habituales", "Comprobaciones y soluciones"],
+            "rows": [
+              ["Turbidez / cristalinidad", "Zonas blancas o turbias, a menudo en punto de inyección o fondo", "Enfriamiento lento, cal en los canales, resina húmeda", "Revisar caudal de agua, desincrustar, verificar secado"],
+              ["Inyección incompleta", "Preforma incompleta, normalmente en el cuello", "Boquilla fría, punta obstruida, venteo obstruido", "Revisar temperatura de zona, punta y venteos"],
+              ["Rebaba", "Plástico fino en la junta de anillos de cuello o en la línea de partición", "Anillos de cuello o conos desgastados, cierre bajo", "Medir y sustituir piezas desgastadas del conjunto"],
+              ["Excentricidad de pared", "Espesor de pared desigual en la circunferencia", "Desplazamiento del macho, centrado desgastado, enfriamiento desigual", "Revisar alineación del macho y conos; equilibrar refrigeración"],
+              ["Hilos / punto largo", "Hilo de plástico o marca larga en el punto de inyección", "Aguja o punta desgastada, punto demasiado caliente", "Sustituir aguja y punta; ajustar temperatura del punto"],
+              ["AA alto", "Problemas de sabor, resultados altos en el ensayo de AA", "Temperatura de fundido alta, residencia larga", "Bajar temperaturas; revisar dosis frente a cilindro"],
+              ["Puntos negros", "Partículas oscuras en la pared", "Material degradado en canal caliente o cilindro", "Limpiar distribuidor y husillo; revisar zonas muertas"],
+              ["Rechupes / vacíos", "Hundimiento o burbuja en secciones gruesas", "Mantenimiento corto o presión baja, resina húmeda", "Revisar ajustes de mantenimiento y secado"],
+              ["Ovalidad / preforma doblada", "Cuello o cuerpo no redondo tras la expulsión", "Enfriamiento insuficiente, problemas de extracción", "Revisar refrigeración y manipulación posterior"],
+              ["Variación de peso", "Peso distinto por cavidad", "Desequilibrio del canal caliente, puntas desgastadas", "Reequilibrar zonas; sustituir puntas desgastadas"]
+            ]
+          }
+        },
+        {
+          "heading": "Ciclo lento: comparación rápida de causas y soluciones",
+          "table": {
+            "head": ["Observación", "Causa probable", "Solución"],
+            "rows": [
+              ["Todo el molde necesita más enfriamiento que antes", "Cal en los canales o bajo rendimiento del enfriador", "Desincrustar el molde, revisar capacidad del enfriador y calidad del agua"],
+              ["Solo algunas cavidades necesitan más enfriamiento", "Caudal bloqueado o reducido en esos circuitos", "Limpiar y comprobar el caudal de los circuitos afectados"],
+              ["Ciclo alargado para llenar algunas cavidades", "Zonas del canal caliente frías o averiadas", "Reparar resistencias y termopares, reequilibrar"],
+              ["Ciclo alargado para controlar defectos del punto", "Puntas, agujas o insertos desgastados", "Sustituir piezas desgastadas del canal caliente y del punto"],
+              ["Inyección más lenta para evitar rebabas", "Anillos de cuello y conos de cierre desgastados", "Reacondicionar o sustituir componentes del conjunto"]
+            ]
+          }
+        },
+        {
+          "heading": "Consejos avanzados",
+          "list": [
+            "Use control estadístico de procesos por cavidad; el CPK es una cifra única útil para ver si una cavidad o todo el molde está derivando.",
+            "No compense un fallo mecánico con ajustes de proceso durante mucho tiempo; oculta la causa raíz y cuesta tiempo de ciclo en cada turno.",
+            "La calidad del agua importa tanto como su temperatura; el agua tratada frena la formación de cal en los estrechos canales de refrigeración de los machos.",
+            "Considere optimizar la refrigeración al reacondicionar; la refrigeración optimizada de LIHE puede reducir el enfriamiento del cuello hasta 0,5 s.",
+            "Mantenga un juego de repuestos críticos (puntas, agujas, resistencias, sellos, anillos de cuello) para las cavidades de mayor desgaste.",
+            "Compare reacondicionar con sustituir en moldes al final de su vida; una revisión completa puede devolver al utillaje antiguo una eficiencia de nivel OEM."
+          ]
+        },
+        {
+          "heading": "Conceptos relacionados",
+          "list": [
+            "Viscosidad intrínseca (IV): indicador del peso molecular del PET que baja con la humedad y el daño térmico.",
+            "Acetaldehído (AA): producto de degradación del PET que aumenta con la temperatura del fundido y el tiempo de residencia.",
+            "Componentes del conjunto (stack): macho, cavidad, anillos de cuello e inserto de punto de inyección que forman una preforma.",
+            "Equilibrio del canal caliente: igual temperatura y caudal de fundido en cada boquilla, necesario para un peso de preforma igual.",
+            "Índice de capacidad de proceso (CPK): medida de lo bien que un proceso se mantiene dentro de sus límites de especificación."
+          ]
+        },
+        {
+          "heading": "Cuándo llamar al fabricante del molde",
+          "list": [
+            "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) es un fabricante de moldes de preforma PET, moldes de soplado, moldes de tapas y de compresión, sistemas de canal caliente y componentes de molde para la industria de bebidas y envases, con fabricación en Foshan, China.",
+            "Diagnóstico remoto y asistencia en planta a cargo de un equipo técnico dedicado, incluidas auditorías de interfaz de máquina y apoyo en la puesta en marcha.",
+            "Programas de reacondicionamiento y revisiones completas para devolver a los moldes antiguos una eficiencia de nivel OEM.",
+            "Piezas de repuesto fabricadas a partir de piezas existentes de Husky, SACMI u Otto, y puntas de boquilla, agujas de válvula, resistencias y sellos de canal caliente.",
+            "Inspección en un laboratorio propio con MMC Zeiss, con informes de validación e inspección bajo petición."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Cuál es la razón más común por la que un molde de preformas se vuelve más lento con el tiempo?",
+          "answer": "La pérdida de eficacia de la refrigeración, normalmente por cal, canales obstruidos o bajo rendimiento del enfriador. Los operarios alargan el enfriamiento para evitar turbidez y ovalidad, y el ciclo se va alargando poco a poco."
+        },
+        {
+          "question": "¿Cómo distinguimos un problema del molde de un problema del material?",
+          "answer": "Observe el patrón de defectos por cavidad. Defectos solo en algunas cavidades apuntan a causas locales del molde o del canal caliente. Defectos en todas las cavidades a la vez apuntan al material, al secado, al suministro de agua o a los ajustes de proceso."
+        },
+        {
+          "question": "¿Sustituimos piezas o reacondicionamos todo el molde?",
+          "answer": "Sustituya piezas cuando el desgaste se limita a unas pocas cavidades. Considere un reacondicionamiento completo cuando muchas cavidades muestran desgaste, el número de ciclos es alto o el molde ya no alcanza su tiempo de ciclo original tras las reparaciones."
+        },
+        {
+          "question": "¿De verdad se puede recuperar tiempo de ciclo con cambios en la refrigeración?",
+          "answer": "Sí, si la refrigeración es el factor limitante. Limpiar los canales recupera el rendimiento perdido, y un diseño de refrigeración optimizado puede reducir el enfriamiento del cuello hasta 0,5 s."
+        },
+        {
+          "question": "¿Qué información debemos enviar a LIHE para un diagnóstico remoto?",
+          "answer": "Envíe a sales@lihe-preform.com el modelo de máquina, el número de cavidades, el plano de la preforma, el historial de tiempo de ciclo, muestras o fotos de defectos por cavidad, las lecturas de zonas del canal caliente y los datos del agua de refrigeración."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "key": "page-equipment",
+  "updated": "2026-10-13",
+  "sources": [
+    { "label": "Wikipedia — Coordinate-measuring machine", "url": "https://en.wikipedia.org/wiki/Coordinate-measuring_machine" },
+    { "label": "Wikipedia — Electrical discharge machining", "url": "https://en.wikipedia.org/wiki/Electrical_discharge_machining" },
+    { "label": "Wikipedia — Machining center", "url": "https://en.wikipedia.org/wiki/Machining_center" },
+    { "label": "Wikipedia — Process capability index", "url": "https://en.wikipedia.org/wiki/Process_capability_index" },
+    { "label": "Wikipedia — Metrology", "url": "https://en.wikipedia.org/wiki/Metrology" }
+  ],
+  "locales": {
+    "en": {
+      "heading": "PET preform mold equipment overview: why in-house CNC machining and Zeiss CMM metrology matter",
+      "intro": "Mold-making equipment refers to the machine tools and measuring instruments used to cut, finish and verify the steel parts of a PET preform mold, blow mold or closure mold. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China. This overview explains why keeping machining and metrology under one roof affects mold precision, and maps each equipment group to the mold components it produces.",
+      "sections": [
+        {
+          "heading": "Why in-house machining matters for PET preform mold precision",
+          "paragraphs": [
+            "A multi-cavity PET preform mold is a stack of many small parts — cores, cavities, neck rings, gate inserts — that must fit together identically in every cavity. When those parts are machined in different workshops, each supplier works to its own process, fixtures and measuring habits, and the small differences add up in the assembled mold."
+          ],
+          "list": [
+            "Tolerance stack-up: on a mold with 2 to 160 cavities, a small offset repeated across every core and cavity becomes uneven wall thickness in the preform.",
+            "Process sequence control: roughing, heat treatment, finishing, grinding and polishing happen in a planned order on one floor, so datums are not lost between suppliers.",
+            "Shorter correction loops: if a part is out of tolerance, it goes back to the same machine and programmer the same day instead of being shipped back and forth.",
+            "Predictable lead times: LIHE publishes 20 days for pilot molds, 8 weeks for standard PET molds and 4 weeks for replacement parts and cap mold parts."
+          ]
+        },
+        {
+          "heading": "Why in-house metrology closes the loop: Zeiss CMM and inspection",
+          "paragraphs": [
+            "Machining only produces accuracy if someone can prove it. A coordinate-measuring machine (CMM) measures a part by probing points on its surfaces and comparing them with the CAD model or drawing. Having the CMM in the same building as the machines means measurement results feed straight back into machining corrections."
+          ],
+          "list": [
+            "LIHE runs an in-house Zeiss CMM lab, and validation and inspection reports are supplied on request.",
+            "LIHE tooling consistently achieves CPK ≥ 1.33. Cpk compares the spread of a measured dimension with its tolerance; 1.33 means the process average sits at least four standard deviations from the nearer tolerance limit.",
+            "Other instruments complete the picture: a 3D profile scanner for contoured surfaces, an optical projector for two-dimensional profiles, and bottle sample inspection for the parts the mold actually produces."
+          ]
+        },
+        {
+          "heading": "Equipment-to-component map for preform, blow and hot runner molds",
+          "table": {
+            "head": ["Mold component", "Main processes", "Equipment group (brands)", "Typical verification"],
+            "rows": [
+              ["Mold base and plates", "Milling, drilling, surface grinding", "Machining centers (Mazak, Makino, Haas); surface grinders (Okamoto)", "Zeiss CMM"],
+              ["Preform cores", "Turning, grinding, polishing", "Precision turning centers (Hardinge); grinders", "Zeiss CMM"],
+              ["Preform cavities", "Turning, milling, polishing", "Hardinge turning; Mazak and Makino machining centers", "Zeiss CMM"],
+              ["Neck rings (neck finish)", "Turning, milling, EDM", "Hardinge, Makino; Sodick EDM", "Zeiss CMM, optical projector"],
+              ["Gate inserts and valve pins", "EDM and wire EDM, grinding", "Sodick EDM; Okamoto grinders", "Zeiss CMM"],
+              ["Blow mold cavities", "High-speed milling, engraving, polishing", "Mazak, Makino; Beijing Jingdiao engraving", "3D profile scanner"],
+              ["Fixtures and general parts", "General CNC milling", "Haas machining centers", "Standard gauges, CMM as needed"]
+            ]
+          }
+        },
+        {
+          "heading": "How a mold component moves through the equipment",
+          "steps": [
+            "Engineering prepares the 3D model and CAM programs in the CAD/CAM design center, using 3D simulation and flow analysis before production starts.",
+            "The blank is rough-machined on a machining center or turning center to leave a controlled finishing allowance.",
+            "After heat treatment, the part is finish-turned, finish-milled or ground to final size on the precision machines.",
+            "Features that cutters cannot reach — sharp internal corners, narrow slots, gate details — are produced by EDM or wire EDM.",
+            "Functional surfaces are polished or engraved where the preform or bottle requires it.",
+            "The finished part is measured on the Zeiss CMM, 3D profile scanner or optical projector, and results are recorded for the inspection report.",
+            "Parts are assembled into the mold, and sample preforms or bottles are checked before shipment."
+          ]
+        },
+        {
+          "heading": "What precise equipment delivers on the production line",
+          "list": [
+            "Interchangeability: LIHE supplies 100% interchangeable conversion parts for Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps and Corvaglia systems — only possible when every part is machined and measured to the same reference.",
+            "Tool life: LIHE molds are built to withstand up to 8 million shots on Husky, SACMI and Netstal platforms; consistent fits reduce wear on sliding and sealing surfaces.",
+            "Low defect rates: operational defect rates as low as 0.0064% depend on every cavity producing the same preform.",
+            "Cooling performance: accurately machined cooling channels support optimized cooling, which can reduce neck cooling time by up to 0.5 seconds."
+          ]
+        },
+        {
+          "heading": "What equipment alone does not guarantee",
+          "paragraphs": [
+            "A list of famous machine brands is not proof of mold quality. Results depend on how the machines are used and controlled."
+          ],
+          "list": [
+            "Temperature: steel grows with heat, so LIHE machines on over 10,000 sqm of climate-controlled production floor within a 15,000 sqm facility.",
+            "Programming and fixturing: the same machine gives different results with different CAM strategies, tools and clamping.",
+            "Calibration: measuring instruments must be maintained and calibrated, otherwise the inspection report itself is unreliable.",
+            "Documentation: measurement results are only useful to a buyer when they are recorded and traceable to the part."
+          ]
+        },
+        {
+          "heading": "Where to find more detail on this site",
+          "list": [
+            "Quality control page: the inspection workflow stage by stage, from components to sample preforms and bottles.",
+            "Machining page: the process chain — CNC milling, turning, grinding, EDM, engraving and polishing — and which part needs which process.",
+            "QC Equipment and Machining Equipment product pages: instrument-by-instrument and machine-by-machine reference."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Does LIHE machine mold parts in-house or outsource them?",
+          "answer": "LIHE's published equipment list covers CNC machining (Mazak, Makino, Haas), turning (Hardinge), grinding (Okamoto), high-speed engraving (Beijing Jingdiao) and EDM (Sodick), with an in-house Zeiss CMM lab for verification, all at its Foshan facility."
+        },
+        {
+          "question": "Why does in-house metrology matter if parts are machined accurately?",
+          "answer": "Machining accuracy has to be measured to be known. An in-house CMM lets the workshop correct a deviation immediately and lets the buyer receive inspection reports, which LIHE supplies on request."
+        },
+        {
+          "question": "What does CPK ≥ 1.33 mean for a PET preform mold?",
+          "answer": "Cpk is a process capability index. A value of 1.33 or higher means the measured dimensions are centered well inside the tolerance, with at least four standard deviations between the average and the nearer limit, so out-of-tolerance parts are rare."
+        },
+        {
+          "question": "Which equipment makes the neck ring of a preform mold?",
+          "answer": "Neck rings are typically turned on precision turning centers, with milling and EDM for details such as thread starts and vents. Their profiles are checked on the CMM and optical projector because the neck finish must match the closure."
+        },
+        {
+          "question": "How does equipment affect lead time?",
+          "answer": "In-house machining and measurement avoid waiting on outside suppliers. LIHE's published lead times are 20 days for pilot molds, 8 weeks for standard PET molds and 4 weeks for replacement parts."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "Оборудование для пресс-форм ПЭТ-преформ: почему важны собственная ЧПУ-обработка и измерения на КИМ Zeiss",
+      "intro": "Оборудование для изготовления пресс-форм — это станки и измерительные приборы, на которых режут, доводят и проверяют стальные детали пресс-формы для ПЭТ-преформ, выдувной формы или формы для колпачков. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) — производитель пресс-форм для ПЭТ-преформ, выдувных форм, форм для колпачков и компрессионных форм, горячеканальных систем и комплектующих для производства напитков и упаковки, с производством в Фошане, Китай. В этом обзоре объясняется, почему механическая обработка и метрология под одной крышей влияют на точность пресс-формы, и показано, какие детали изготавливает каждая группа оборудования.",
+      "sections": [
+        {
+          "heading": "Почему собственная механообработка важна для точности пресс-формы ПЭТ-преформ",
+          "paragraphs": [
+            "Многогнёздная пресс-форма для ПЭТ-преформ — это набор множества небольших деталей: пуансонов, матриц, горловых колец, литниковых вставок, которые должны одинаково сопрягаться в каждом гнезде. Если детали обрабатываются в разных цехах, каждый поставщик работает по своему процессу, со своей оснасткой и своими привычками измерения, и небольшие отличия накапливаются в собранной форме."
+          ],
+          "list": [
+            "Накопление допусков: в форме на 2–160 гнёзд небольшое смещение, повторённое на каждом пуансоне и матрице, превращается в неравномерную толщину стенки преформы.",
+            "Контроль последовательности: черновая обработка, термообработка, чистовая обработка, шлифование и полирование выполняются в запланированном порядке в одном цехе, и базы не теряются между поставщиками.",
+            "Короткий цикл исправления: деталь вне допуска возвращается на тот же станок и к тому же программисту в тот же день, а не пересылается туда и обратно.",
+            "Предсказуемые сроки: LIHE указывает 20 дней для пилотных форм, 8 недель для стандартных ПЭТ-форм и 4 недели для запасных частей и деталей форм для колпачков."
+          ]
+        },
+        {
+          "heading": "Почему собственная метрология замыкает цикл: КИМ Zeiss и контроль",
+          "paragraphs": [
+            "Механическая обработка даёт точность только тогда, когда её можно доказать. Координатно-измерительная машина (КИМ) измеряет деталь, ощупывая точки на её поверхностях и сравнивая их с CAD-моделью или чертежом. Когда КИМ находится в том же здании, что и станки, результаты измерений сразу возвращаются в виде коррекций обработки."
+          ],
+          "list": [
+            "У LIHE есть собственная лаборатория с КИМ Zeiss; протоколы валидации и контроля предоставляются по запросу.",
+            "Оснастка LIHE стабильно достигает CPK ≥ 1,33. Cpk сравнивает разброс измеренного размера с его допуском; 1,33 означает, что среднее значение процесса находится не менее чем в четырёх стандартных отклонениях от ближайшей границы допуска.",
+            "Картину дополняют другие приборы: 3D-сканер профиля для криволинейных поверхностей, оптический проектор для двумерных профилей и контроль образцов бутылок для изделий, которые реально выпускает форма."
+          ]
+        },
+        {
+          "heading": "Карта соответствия оборудования и деталей преформных, выдувных и горячеканальных форм",
+          "table": {
+            "head": ["Деталь формы", "Основные процессы", "Группа оборудования (марки)", "Типичный контроль"],
+            "rows": [
+              ["Основание и плиты формы", "Фрезерование, сверление, плоское шлифование", "Обрабатывающие центры (Mazak, Makino, Haas); плоскошлифовальные станки (Okamoto)", "КИМ Zeiss"],
+              ["Пуансоны преформы", "Точение, шлифование, полирование", "Прецизионные токарные центры (Hardinge); шлифовальные станки", "КИМ Zeiss"],
+              ["Матрицы преформы", "Точение, фрезерование, полирование", "Точение на Hardinge; обрабатывающие центры Mazak и Makino", "КИМ Zeiss"],
+              ["Горловые кольца (горловина)", "Точение, фрезерование, электроэрозия", "Hardinge, Makino; электроэрозия Sodick", "КИМ Zeiss, оптический проектор"],
+              ["Литниковые вставки и запорные иглы", "Электроэрозия и проволочная электроэрозия, шлифование", "Электроэрозия Sodick; шлифовальные станки Okamoto", "КИМ Zeiss"],
+              ["Полости выдувных форм", "Высокоскоростное фрезерование, гравирование, полирование", "Mazak, Makino; гравировальные станки Beijing Jingdiao", "3D-сканер профиля"],
+              ["Оснастка и общие детали", "Общее фрезерование на ЧПУ", "Обрабатывающие центры Haas", "Стандартные калибры, при необходимости КИМ"]
+            ]
+          }
+        },
+        {
+          "heading": "Как деталь формы проходит через оборудование",
+          "steps": [
+            "Инженеры готовят 3D-модель и программы CAM в конструкторском центре CAD/CAM, используя 3D-моделирование и анализ течения до начала производства.",
+            "Заготовка проходит черновую обработку на обрабатывающем или токарном центре с контролируемым припуском на чистовую обработку.",
+            "После термообработки деталь доводится до окончательного размера чистовым точением, фрезерованием или шлифованием на прецизионных станках.",
+            "Элементы, недоступные для фрезы, — острые внутренние углы, узкие пазы, детали литника — получают электроэрозией или проволочной электроэрозией.",
+            "Рабочие поверхности полируются или гравируются там, где этого требует преформа или бутылка.",
+            "Готовая деталь измеряется на КИМ Zeiss, 3D-сканере профиля или оптическом проекторе, результаты записываются в протокол контроля.",
+            "Детали собираются в форму, а образцы преформ или бутылок проверяются перед отгрузкой."
+          ]
+        },
+        {
+          "heading": "Что точное оборудование даёт на производственной линии",
+          "list": [
+            "Взаимозаменяемость: LIHE поставляет на 100% взаимозаменяемые детали переоснастки для систем Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps и Corvaglia — это возможно только тогда, когда каждая деталь обработана и измерена от одной и той же базы.",
+            "Ресурс: формы LIHE рассчитаны на выдерживание до 8 миллионов циклов на платформах Husky, SACMI и Netstal; стабильные посадки снижают износ скользящих и уплотняющих поверхностей.",
+            "Низкий уровень брака: операционный уровень брака до 0,0064% зависит от того, чтобы каждое гнездо выпускало одинаковую преформу.",
+            "Охлаждение: точно обработанные каналы охлаждения поддерживают оптимизированное охлаждение, которое может сократить время охлаждения горловины до 0,5 секунды."
+          ]
+        },
+        {
+          "heading": "Чего одно оборудование не гарантирует",
+          "paragraphs": [
+            "Список известных марок станков — ещё не доказательство качества формы. Результат зависит от того, как станки используются и контролируются."
+          ],
+          "list": [
+            "Температура: сталь расширяется при нагреве, поэтому LIHE ведёт обработку на более чем 10 000 кв. м производственной площади с климат-контролем на предприятии площадью 15 000 кв. м.",
+            "Программирование и закрепление: один и тот же станок даёт разный результат при разных стратегиях CAM, инструменте и зажиме.",
+            "Калибровка: измерительные приборы нужно обслуживать и калибровать, иначе ненадёжен сам протокол контроля.",
+            "Документация: результаты измерений полезны покупателю только тогда, когда они записаны и прослеживаются до конкретной детали."
+          ]
+        },
+        {
+          "heading": "Где найти подробности на этом сайте",
+          "list": [
+            "Страница контроля качества: процесс контроля по этапам — от деталей до образцов преформ и бутылок.",
+            "Страница механообработки: технологическая цепочка — фрезерование на ЧПУ, точение, шлифование, электроэрозия, гравирование и полирование — и какой детали нужен какой процесс.",
+            "Страницы продуктов «Оборудование контроля качества» и «Станочное оборудование»: справочник по каждому прибору и каждому станку."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "LIHE обрабатывает детали форм сама или отдаёт на сторону?",
+          "answer": "Опубликованный перечень оборудования LIHE включает обработку на ЧПУ (Mazak, Makino, Haas), точение (Hardinge), шлифование (Okamoto), высокоскоростное гравирование (Beijing Jingdiao) и электроэрозию (Sodick), а также собственную лабораторию с КИМ Zeiss для проверки — всё на предприятии в Фошане."
+        },
+        {
+          "question": "Зачем нужна собственная метрология, если детали обработаны точно?",
+          "answer": "Точность обработки становится известной только после измерения. Собственная КИМ позволяет цеху сразу исправить отклонение, а покупателю — получить протоколы контроля, которые LIHE предоставляет по запросу."
+        },
+        {
+          "question": "Что означает CPK ≥ 1,33 для пресс-формы ПЭТ-преформ?",
+          "answer": "Cpk — индекс воспроизводимости процесса. Значение 1,33 и выше означает, что измеренные размеры хорошо отцентрированы внутри допуска и между средним значением и ближайшей границей не менее четырёх стандартных отклонений, поэтому детали вне допуска встречаются редко."
+        },
+        {
+          "question": "На каком оборудовании изготавливают горловое кольцо пресс-формы?",
+          "answer": "Горловые кольца обычно точат на прецизионных токарных центрах, а такие элементы, как заходы резьбы и вентиляционные каналы, выполняют фрезерованием и электроэрозией. Профили проверяют на КИМ и оптическом проекторе, потому что горловина должна соответствовать колпачку."
+        },
+        {
+          "question": "Как оборудование влияет на сроки изготовления?",
+          "answer": "Собственная обработка и измерения исключают ожидание внешних поставщиков. Опубликованные сроки LIHE: 20 дней для пилотных форм, 8 недель для стандартных ПЭТ-форм и 4 недели для запасных частей."
+        }
+      ]
+    },
+    "es": {
+      "heading": "Equipos para moldes de preforma PET: por qué importan el mecanizado CNC propio y la metrología con CMM Zeiss",
+      "intro": "El equipo de fabricación de moldes es el conjunto de máquinas herramienta e instrumentos de medición que se usan para cortar, acabar y verificar las piezas de acero de un molde de preforma PET, un molde de soplado o un molde de tapas. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) es un fabricante de moldes de preforma PET, moldes de soplado, moldes de tapas y de compresión, sistemas de canal caliente y componentes de molde para la industria de bebidas y envases, con fabricación en Foshan, China. Esta guía explica por qué tener el mecanizado y la metrología bajo un mismo techo influye en la precisión del molde y relaciona cada grupo de equipos con los componentes que produce.",
+      "sections": [
+        {
+          "heading": "Por qué el mecanizado propio importa para la precisión del molde de preforma PET",
+          "paragraphs": [
+            "Un molde de preforma PET multicavidad es un conjunto de muchas piezas pequeñas — machos, cavidades, anillos de cuello, insertos de entrada — que deben ajustar de forma idéntica en cada cavidad. Cuando esas piezas se mecanizan en talleres distintos, cada proveedor trabaja con su propio proceso, sus utillajes y sus hábitos de medición, y las pequeñas diferencias se suman en el molde montado."
+          ],
+          "list": [
+            "Acumulación de tolerancias: en un molde de 2 a 160 cavidades, un pequeño desvío repetido en cada macho y cavidad se convierte en un espesor de pared desigual en la preforma.",
+            "Control de la secuencia: desbaste, tratamiento térmico, acabado, rectificado y pulido se realizan en un orden planificado en una sola planta, sin perder las referencias entre proveedores.",
+            "Correcciones más cortas: si una pieza está fuera de tolerancia, vuelve a la misma máquina y al mismo programador el mismo día, en lugar de viajar de un taller a otro.",
+            "Plazos previsibles: LIHE publica 20 días para moldes piloto, 8 semanas para moldes PET estándar y 4 semanas para repuestos y piezas de moldes de tapas."
+          ]
+        },
+        {
+          "heading": "Por qué la metrología propia cierra el ciclo: CMM Zeiss e inspección",
+          "paragraphs": [
+            "El mecanizado solo produce precisión si alguien puede demostrarla. Una máquina de medición por coordenadas (CMM) mide una pieza palpando puntos de sus superficies y comparándolos con el modelo CAD o el plano. Tener la CMM en el mismo edificio que las máquinas permite que los resultados de medición se conviertan de inmediato en correcciones de mecanizado."
+          ],
+          "list": [
+            "LIHE dispone de un laboratorio propio con CMM Zeiss, y los informes de validación e inspección se entregan bajo solicitud.",
+            "Los utillajes de LIHE alcanzan de forma constante un CPK ≥ 1,33. El Cpk compara la dispersión de una cota medida con su tolerancia; 1,33 significa que la media del proceso está al menos a cuatro desviaciones estándar del límite de tolerancia más cercano.",
+            "Otros instrumentos completan el cuadro: un escáner de perfil 3D para superficies curvas, un proyector óptico para perfiles bidimensionales y la inspección de muestras de botellas para las piezas que el molde realmente produce."
+          ]
+        },
+        {
+          "heading": "Mapa de equipos y componentes para moldes de preforma, soplado y canal caliente",
+          "table": {
+            "head": ["Componente del molde", "Procesos principales", "Grupo de equipos (marcas)", "Verificación habitual"],
+            "rows": [
+              ["Base y placas del molde", "Fresado, taladrado, rectificado plano", "Centros de mecanizado (Mazak, Makino, Haas); rectificadoras planas (Okamoto)", "CMM Zeiss"],
+              ["Machos de preforma", "Torneado, rectificado, pulido", "Centros de torneado de precisión (Hardinge); rectificadoras", "CMM Zeiss"],
+              ["Cavidades de preforma", "Torneado, fresado, pulido", "Torneado Hardinge; centros de mecanizado Mazak y Makino", "CMM Zeiss"],
+              ["Anillos de cuello (acabado de cuello)", "Torneado, fresado, electroerosión", "Hardinge, Makino; electroerosión Sodick", "CMM Zeiss, proyector óptico"],
+              ["Insertos de entrada y agujas de válvula", "Electroerosión y electroerosión por hilo, rectificado", "Electroerosión Sodick; rectificadoras Okamoto", "CMM Zeiss"],
+              ["Cavidades de moldes de soplado", "Fresado de alta velocidad, grabado, pulido", "Mazak, Makino; grabado Beijing Jingdiao", "Escáner de perfil 3D"],
+              ["Utillajes y piezas generales", "Fresado CNC general", "Centros de mecanizado Haas", "Calibres estándar, CMM cuando hace falta"]
+            ]
+          }
+        },
+        {
+          "heading": "Cómo recorre una pieza del molde los equipos",
+          "steps": [
+            "Ingeniería prepara el modelo 3D y los programas CAM en el centro de diseño CAD/CAM, con simulación 3D y análisis de flujo antes de iniciar la producción.",
+            "El bloque se desbasta en un centro de mecanizado o de torneado dejando una creces controlada para el acabado.",
+            "Tras el tratamiento térmico, la pieza se acaba por torneado, fresado o rectificado hasta la medida final en las máquinas de precisión.",
+            "Los detalles que las fresas no alcanzan — esquinas interiores vivas, ranuras estrechas, detalles de la entrada — se obtienen por electroerosión o electroerosión por hilo.",
+            "Las superficies funcionales se pulen o se graban donde la preforma o la botella lo exige.",
+            "La pieza terminada se mide en la CMM Zeiss, el escáner de perfil 3D o el proyector óptico, y los resultados se registran para el informe de inspección.",
+            "Las piezas se montan en el molde y se revisan muestras de preformas o botellas antes del envío."
+          ]
+        },
+        {
+          "heading": "Qué aporta un equipo preciso en la línea de producción",
+          "list": [
+            "Intercambiabilidad: LIHE suministra piezas de conversión 100% intercambiables para sistemas Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps y Corvaglia, algo posible solo cuando cada pieza se mecaniza y se mide con la misma referencia.",
+            "Vida útil: los moldes de LIHE están construidos para resistir hasta 8 millones de ciclos en plataformas Husky, SACMI y Netstal; los ajustes constantes reducen el desgaste de las superficies de deslizamiento y sellado.",
+            "Bajo índice de defectos: tasas de defectos operativos de apenas un 0,0064% dependen de que cada cavidad produzca la misma preforma.",
+            "Refrigeración: los canales de refrigeración mecanizados con precisión permiten una refrigeración optimizada que puede reducir el tiempo de enfriamiento del cuello hasta 0,5 segundos."
+          ]
+        },
+        {
+          "heading": "Lo que el equipo por sí solo no garantiza",
+          "paragraphs": [
+            "Una lista de marcas famosas de máquinas no demuestra la calidad de un molde. El resultado depende de cómo se usan y se controlan las máquinas."
+          ],
+          "list": [
+            "Temperatura: el acero se dilata con el calor, por eso LIHE mecaniza en más de 10.000 m² de planta de producción climatizada dentro de unas instalaciones de 15.000 m².",
+            "Programación y sujeción: la misma máquina da resultados distintos con diferentes estrategias CAM, herramientas y amarres.",
+            "Calibración: los instrumentos de medición deben mantenerse y calibrarse; de lo contrario, el propio informe de inspección no es fiable.",
+            "Documentación: los resultados de medición solo sirven al comprador cuando están registrados y son trazables hasta la pieza."
+          ]
+        },
+        {
+          "heading": "Dónde encontrar más detalle en este sitio",
+          "list": [
+            "Página de control de calidad: el flujo de inspección etapa por etapa, desde los componentes hasta las muestras de preformas y botellas.",
+            "Página de mecanizado: la cadena de procesos — fresado CNC, torneado, rectificado, electroerosión, grabado y pulido — y qué pieza necesita cada proceso.",
+            "Páginas de producto Equipos de control de calidad y Equipos de mecanizado: referencia instrumento por instrumento y máquina por máquina."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿LIHE mecaniza las piezas del molde en su planta o las subcontrata?",
+          "answer": "La lista de equipos publicada por LIHE incluye mecanizado CNC (Mazak, Makino, Haas), torneado (Hardinge), rectificado (Okamoto), grabado de alta velocidad (Beijing Jingdiao) y electroerosión (Sodick), con un laboratorio propio de CMM Zeiss para la verificación, todo en sus instalaciones de Foshan."
+        },
+        {
+          "question": "¿Por qué importa la metrología propia si las piezas se mecanizan con precisión?",
+          "answer": "La precisión del mecanizado solo se conoce cuando se mide. Una CMM propia permite al taller corregir una desviación de inmediato y al comprador recibir informes de inspección, que LIHE entrega bajo solicitud."
+        },
+        {
+          "question": "¿Qué significa un CPK ≥ 1,33 para un molde de preforma PET?",
+          "answer": "El Cpk es un índice de capacidad de proceso. Un valor de 1,33 o superior significa que las cotas medidas están bien centradas dentro de la tolerancia, con al menos cuatro desviaciones estándar entre la media y el límite más cercano, de modo que las piezas fuera de tolerancia son poco frecuentes."
+        },
+        {
+          "question": "¿Con qué equipos se fabrica el anillo de cuello de un molde de preforma?",
+          "answer": "Los anillos de cuello suelen tornearse en centros de torneado de precisión, con fresado y electroerosión para detalles como inicios de rosca y venteos. Sus perfiles se comprueban en la CMM y en el proyector óptico, porque el acabado de cuello debe coincidir con la tapa."
+        },
+        {
+          "question": "¿Cómo influye el equipo en el plazo de entrega?",
+          "answer": "El mecanizado y la medición propios evitan esperar a proveedores externos. Los plazos publicados por LIHE son de 20 días para moldes piloto, 8 semanas para moldes PET estándar y 4 semanas para repuestos."
+        }
+      ]
+    }
+  }
+}

@@ -7,6 +7,8 @@ import { Link } from "@/i18n/navigation";
 import Breadcrumb from "@/components/ui/Breadcrumb/Breadcrumb";
 import SectionHeading from "@/components/ui/SectionHeading/SectionHeading";
 import styles from "./page.module.css";
+import PageGuide from "@/components/content/PageGuide";
+import AiImageNotice from "@/components/ui/AiImageNotice/AiImageNotice";
 
 export async function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -57,6 +59,9 @@ export default async function EquipmentPage({
           </div>
         </div>
       </section>
+      <div className="container">
+        <AiImageNotice />
+      </div>
 
       {/* Breadcrumb */}
       <div className={styles.container}>
@@ -118,8 +123,10 @@ export default async function EquipmentPage({
               )
             )}
           </div>
+          <AiImageNotice />
         </div>
       </section>
+      <PageGuide locale={locale} guideKey="page-equipment" />
     </div>
   );
 }

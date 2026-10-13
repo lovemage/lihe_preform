@@ -1,0 +1,332 @@
+{
+  "key": "product-18",
+  "updated": "2026-10-13",
+  "sources": [
+    { "label": "Wikipedia — Carl Zeiss AG", "url": "https://en.wikipedia.org/wiki/Carl_Zeiss_AG" },
+    { "label": "Wikipedia — Coordinate-measuring machine", "url": "https://en.wikipedia.org/wiki/Coordinate-measuring_machine" },
+    { "label": "Wikipedia — 3D scanning", "url": "https://en.wikipedia.org/wiki/3D_scanning" },
+    { "label": "Wikipedia — Optical comparator", "url": "https://en.wikipedia.org/wiki/Optical_comparator" },
+    { "label": "Wikipedia — Blow molding", "url": "https://en.wikipedia.org/wiki/Blow_molding" },
+    { "label": "Wikipedia — Calibration", "url": "https://en.wikipedia.org/wiki/Calibration" }
+  ],
+  "locales": {
+    "en": {
+      "heading": "QC equipment reference for PET preform and blow molds: Zeiss CMM, 3D profile scanner, optical projector and bottle inspection",
+      "intro": "QC equipment in mold making refers to the measuring instruments used to verify that mold components and the parts they produce match the drawing and the CAD model. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China. This page is an instrument-by-instrument reference: how each instrument in LIHE's QC lab works, which features it is suited to, and where its limits are.",
+      "sections": [
+        {
+          "heading": "Zeiss CMM: three-dimensional measurement of cores, cavities and plates",
+          "paragraphs": [
+            "A coordinate-measuring machine (CMM) moves a probe along three perpendicular axes and records the X, Y and Z position of each point it touches. Software fits these points to geometric elements — circles, cylinders, cones, planes — and compares them with nominal values. LIHE runs an in-house Zeiss CMM lab."
+          ],
+          "list": [
+            "How it measures: the part is aligned to its datums, then the probe touches or scans the surface. Results are reported in millimeters, usually to the micron level.",
+            "Typical features on PET mold parts: core and cavity diameters, taper, concentricity between features, stack lengths, bore positions on plates and the geometry of gate seats.",
+            "Why it matters: the preform wall is the gap between core and cavity, so their relationship in three dimensions has to be measured, not assumed. LIHE mold bases are also verified on the Zeiss CMM.",
+            "Limits: contact measurement takes time per point, and results depend on stable temperature, correct fixturing and a calibrated probe."
+          ]
+        },
+        {
+          "heading": "3D profile scanner: freeform surfaces of blow mold cavities",
+          "paragraphs": [
+            "A 3D profile scanner captures a dense cloud of surface points without touching the part, typically by projecting light patterns or laser lines and recording them with cameras. The point cloud is aligned to the CAD model, and deviations are shown as a color map across the whole surface."
+          ],
+          "list": [
+            "Typical features: bottle contours, shoulder and base shapes, grip panels, embossed text and logos in blow mold cavities, and other complex shapes.",
+            "Why it matters: a bottle shape cannot be described by a few diameters; a full-surface comparison shows local deviations that point measurements would miss.",
+            "Output: a deviation color map and section profiles compared with the 3D model.",
+            "Limits: for tight fit diameters a CMM is usually the more precise choice, and highly polished surfaces can be harder to capture optically."
+          ]
+        },
+        {
+          "heading": "Optical projector: two-dimensional profiles of neck finishes and small features",
+          "paragraphs": [
+            "An optical projector, also called an optical comparator, projects a magnified silhouette of a part onto a screen. The operator compares the outline with an overlay drawing or measures distances and angles directly on the screen. It measures without contact and is fast for profiles."
+          ],
+          "list": [
+            "Typical features: thread profiles and neck finish outlines on neck rings, small radii, chamfers, edges and step heights.",
+            "Why it matters: neck finishes such as PCO 1881, PCO 1810, 1716, 3025 or 2925 must match the closure; a magnified outline shows thread form errors clearly.",
+            "Output: dimensions and a pass or fail comparison with the profile drawing.",
+            "Limits: it sees only the silhouette in one plane, so three-dimensional relationships still need the CMM."
+          ]
+        },
+        {
+          "heading": "Bottle and preform sample inspection: checking what the mold produces",
+          "paragraphs": [
+            "Instruments that measure steel parts cannot confirm how the mold behaves in production. LIHE's QC equipment therefore includes dedicated bottle sample inspection, which measures sample preforms and bottles."
+          ],
+          "list": [
+            "Preform checks: weight in grams, wall thickness and its uniformity around the circumference, neck finish dimensions and length.",
+            "Bottle checks: overall dimensions, wall thickness distribution from neck to base, and capacity — for example on 330ml, 500ml, 550ml or 1.5L water bottles.",
+            "Why it matters: uneven preform walls cause uneven stretching in blowing; bottle walls that are too thin can fail, especially in hot fill at about 85–95°C.",
+            "Limits: sample results describe the samples tested, so the number of samples per cavity should be agreed for multi-cavity molds."
+          ]
+        },
+        {
+          "heading": "Instrument comparison for PET mold inspection",
+          "table": {
+            "head": ["Instrument", "Measuring principle", "Contact", "Best for", "Main limitation"],
+            "rows": [
+              ["Zeiss CMM", "Probe points in X, Y, Z fitted to geometry", "Yes (tactile probe)", "Diameters, concentricity, positions, cores, cavities, plates", "Slower per point; needs stable temperature"],
+              ["3D profile scanner", "Optical point cloud compared with CAD", "No", "Freeform blow mold cavities, complex shapes", "Less suited to tight fit diameters; reflective surfaces"],
+              ["Optical projector", "Magnified silhouette on a screen", "No", "Neck finish threads, radii, edges, small features", "Two-dimensional profile only"],
+              ["Bottle sample inspection", "Measurement of produced preforms and bottles", "Varies", "Weight, wall thickness, neck dimensions, capacity", "Describes samples, not every part"]
+            ]
+          }
+        },
+        {
+          "heading": "How a feature is matched to the right instrument",
+          "steps": [
+            "Identify the feature type on the drawing: fit diameter, position, profile, freeform surface or product property.",
+            "Choose the instrument: CMM for three-dimensional relationships, optical projector for planar profiles, 3D profile scanner for freeform surfaces, sample inspection for preform and bottle properties.",
+            "Align the part to the same datums used for machining, so that the measurement reflects how the part will sit in the mold.",
+            "Measure and compare each result with its nominal value and tolerance.",
+            "Record the results; LIHE supplies validation and inspection reports with molds and spare parts on request."
+          ]
+        },
+        {
+          "heading": "What the instruments support for buyers",
+          "list": [
+            "Capability: LIHE tooling consistently achieves CPK ≥ 1.33, which can only be shown with repeatable measurement.",
+            "Interchangeability: 100% interchangeable conversion parts for Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps and Corvaglia systems depend on parts being measured against the same reference.",
+            "Low defect rates: operational defect rates as low as 0.0064% depend on every cavity being verified, not only a few."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Why use both a CMM and an optical projector on a neck ring?",
+          "answer": "The CMM measures three-dimensional relationships such as concentricity and position, while the optical projector shows the magnified thread and neck finish outline in one plane. Together they cover both fit and profile."
+        },
+        {
+          "question": "Is a 3D scanner more accurate than a CMM?",
+          "answer": "Not for fit diameters. A scanner is faster at capturing whole freeform surfaces such as blow mold cavities; a tactile CMM is generally the better choice for tight tolerances on cores, cavities and plates."
+        },
+        {
+          "question": "What does bottle sample inspection add if the mold parts already passed?",
+          "answer": "It checks the result of the whole system — mold, cooling and process — on real preforms and bottles: weight, wall thickness, neck dimensions and capacity."
+        },
+        {
+          "question": "Can I receive measurement data with my mold or spare parts?",
+          "answer": "Yes. LIHE supplies validation and inspection reports with molds and spare parts on request."
+        },
+        {
+          "question": "Why does temperature matter for CMM measurement?",
+          "answer": "Steel expands as it warms, so a part measured at a different temperature reads a different size. Stable temperature in the measuring room keeps CMM results comparable."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "Справочник по оборудованию контроля качества преформных и выдувных форм: КИМ Zeiss, 3D-сканер профиля, оптический проектор и контроль бутылок",
+      "intro": "Оборудование контроля качества при изготовлении форм — это измерительные приборы, с помощью которых проверяют, соответствуют ли детали формы и выпускаемые ею изделия чертежу и CAD-модели. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) — производитель пресс-форм для ПЭТ-преформ, выдувных форм, форм для колпачков и компрессионных форм, горячеканальных систем и комплектующих для производства напитков и упаковки, с производством в Фошане, Китай. Эта страница — справочник по каждому прибору лаборатории LIHE: как он работает, для каких элементов подходит и где его ограничения.",
+      "sections": [
+        {
+          "heading": "КИМ Zeiss: трёхмерные измерения пуансонов, матриц и плит",
+          "paragraphs": [
+            "Координатно-измерительная машина (КИМ) перемещает щуп по трём перпендикулярным осям и записывает координаты X, Y и Z каждой точки касания. Программа вписывает точки в геометрические элементы — окружности, цилиндры, конусы, плоскости — и сравнивает их с номиналами. У LIHE есть собственная лаборатория с КИМ Zeiss."
+          ],
+          "list": [
+            "Как измеряет: деталь выставляется по базам, затем щуп касается поверхности или сканирует её. Результаты выдаются в миллиметрах, обычно с точностью до микрона.",
+            "Типичные элементы деталей ПЭТ-форм: диаметры пуансонов и матриц, конусность, соосность элементов, длины пакета, положение отверстий в плитах и геометрия посадочных мест литника.",
+            "Почему это важно: стенка преформы — это зазор между пуансоном и матрицей, поэтому их взаимное положение в трёх измерениях нужно измерять, а не предполагать. Основания форм LIHE также проверяются на КИМ Zeiss.",
+            "Ограничения: контактное измерение требует времени на каждую точку, а результаты зависят от стабильной температуры, правильного закрепления и откалиброванного щупа."
+          ]
+        },
+        {
+          "heading": "3D-сканер профиля: свободные поверхности полостей выдувных форм",
+          "paragraphs": [
+            "3D-сканер профиля получает плотное облако точек поверхности без касания детали, как правило проецируя световые узоры или лазерные линии и регистрируя их камерами. Облако точек совмещается с CAD-моделью, а отклонения показываются цветовой картой по всей поверхности."
+          ],
+          "list": [
+            "Типичные элементы: контуры бутылки, формы плеча и дна, зоны захвата, рельефные надписи и логотипы в полостях выдувных форм и другие сложные формы.",
+            "Почему это важно: форму бутылки нельзя описать несколькими диаметрами; сравнение по всей поверхности показывает локальные отклонения, которые точечные измерения пропустят.",
+            "Результат: цветовая карта отклонений и сечения профиля в сравнении с 3D-моделью.",
+            "Ограничения: для точных посадочных диаметров КИМ обычно точнее, а сильно полированные поверхности сложнее снимать оптически."
+          ]
+        },
+        {
+          "heading": "Оптический проектор: двумерные профили горловин и мелких элементов",
+          "paragraphs": [
+            "Оптический проектор, также называемый оптическим компаратором, проецирует увеличенный силуэт детали на экран. Оператор сравнивает контур с накладным чертежом или измеряет расстояния и углы прямо на экране. Измерение бесконтактное и быстрое для профилей."
+          ],
+          "list": [
+            "Типичные элементы: профили резьбы и контуры горловины на горловых кольцах, малые радиусы, фаски, кромки и высоты уступов.",
+            "Почему это важно: горловины PCO 1881, PCO 1810, 1716, 3025 или 2925 должны соответствовать колпачку; увеличенный контур чётко показывает ошибки формы резьбы.",
+            "Результат: размеры и оценка «годен/не годен» по чертежу профиля.",
+            "Ограничения: прибор видит только силуэт в одной плоскости, поэтому трёхмерные взаимосвязи по-прежнему требуют КИМ."
+          ]
+        },
+        {
+          "heading": "Контроль образцов бутылок и преформ: проверка того, что выпускает форма",
+          "paragraphs": [
+            "Приборы, измеряющие стальные детали, не могут подтвердить, как форма поведёт себя в производстве. Поэтому оборудование контроля LIHE включает специальный контроль образцов бутылок, при котором измеряются образцы преформ и бутылок."
+          ],
+          "list": [
+            "Проверки преформ: масса в граммах, толщина стенки и её равномерность по окружности, размеры горловины и длина.",
+            "Проверки бутылок: габаритные размеры, распределение толщины стенки от горловины до дна и объём — например для бутылок для воды 330 мл, 500 мл, 550 мл или 1,5 л.",
+            "Почему это важно: неравномерная стенка преформы приводит к неравномерной вытяжке при выдуве; слишком тонкие стенки бутылки могут не выдержать нагрузки, особенно при горячем розливе около 85–95 °C.",
+            "Ограничения: результаты описывают проверенные образцы, поэтому для многогнёздных форм количество образцов на гнездо следует согласовать."
+          ]
+        },
+        {
+          "heading": "Сравнение приборов для контроля ПЭТ-форм",
+          "table": {
+            "head": ["Прибор", "Принцип измерения", "Контакт", "Лучше всего для", "Главное ограничение"],
+            "rows": [
+              ["КИМ Zeiss", "Точки по X, Y, Z, вписанные в геометрию", "Да (контактный щуп)", "Диаметры, соосность, положения, пуансоны, матрицы, плиты", "Медленнее на точку; нужна стабильная температура"],
+              ["3D-сканер профиля", "Оптическое облако точек в сравнении с CAD", "Нет", "Свободные полости выдувных форм, сложные формы", "Хуже подходит для точных посадок; блестящие поверхности"],
+              ["Оптический проектор", "Увеличенный силуэт на экране", "Нет", "Резьба горловины, радиусы, кромки, мелкие элементы", "Только двумерный профиль"],
+              ["Контроль образцов бутылок", "Измерение выпущенных преформ и бутылок", "По-разному", "Масса, толщина стенки, горловина, объём", "Описывает образцы, а не каждое изделие"]
+            ]
+          }
+        },
+        {
+          "heading": "Как элемент сопоставляется с подходящим прибором",
+          "steps": [
+            "Определить тип элемента на чертеже: посадочный диаметр, положение, профиль, свободная поверхность или свойство изделия.",
+            "Выбрать прибор: КИМ для трёхмерных взаимосвязей, оптический проектор для плоских профилей, 3D-сканер профиля для свободных поверхностей, контроль образцов для свойств преформ и бутылок.",
+            "Выставить деталь по тем же базам, что и при обработке, чтобы измерение отражало положение детали в форме.",
+            "Измерить и сравнить каждый результат с номиналом и допуском.",
+            "Записать результаты; LIHE предоставляет протоколы валидации и контроля вместе с формами и запасными частями по запросу."
+          ]
+        },
+        {
+          "heading": "Что приборы дают покупателю",
+          "list": [
+            "Воспроизводимость: оснастка LIHE стабильно достигает CPK ≥ 1,33, что можно показать только при повторяемых измерениях.",
+            "Взаимозаменяемость: на 100% взаимозаменяемые детали переоснастки для систем Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps и Corvaglia возможны, только если детали измеряются от одной базы.",
+            "Низкий уровень брака: операционный уровень брака до 0,0064% зависит от проверки каждого гнезда, а не нескольких."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Зачем использовать и КИМ, и оптический проектор для горлового кольца?",
+          "answer": "КИМ измеряет трёхмерные взаимосвязи, такие как соосность и положение, а оптический проектор показывает увеличенный контур резьбы и горловины в одной плоскости. Вместе они охватывают и посадку, и профиль."
+        },
+        {
+          "question": "3D-сканер точнее КИМ?",
+          "answer": "Не для посадочных диаметров. Сканер быстрее снимает целые свободные поверхности, например полости выдувных форм; контактная КИМ, как правило, лучше подходит для жёстких допусков пуансонов, матриц и плит."
+        },
+        {
+          "question": "Что даёт контроль образцов бутылок, если детали формы уже прошли проверку?",
+          "answer": "Он проверяет результат работы всей системы — формы, охлаждения и процесса — на реальных преформах и бутылках: массу, толщину стенки, размеры горловины и объём."
+        },
+        {
+          "question": "Можно ли получить данные измерений вместе с формой или запасными частями?",
+          "answer": "Да. LIHE предоставляет протоколы валидации и контроля вместе с формами и запасными частями по запросу."
+        },
+        {
+          "question": "Почему температура важна для измерений на КИМ?",
+          "answer": "Сталь расширяется при нагреве, поэтому деталь, измеренная при другой температуре, покажет другой размер. Стабильная температура в измерительном помещении делает результаты КИМ сопоставимыми."
+        }
+      ]
+    },
+    "es": {
+      "heading": "Referencia de equipos de control de calidad para moldes de preforma PET y de soplado: CMM Zeiss, escáner de perfil 3D, proyector óptico e inspección de botellas",
+      "intro": "El equipo de control de calidad en la fabricación de moldes es el conjunto de instrumentos de medición que se usan para verificar que los componentes del molde y las piezas que producen coinciden con el plano y el modelo CAD. LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) es un fabricante de moldes de preforma PET, moldes de soplado, moldes de tapas y de compresión, sistemas de canal caliente y componentes de molde para la industria de bebidas y envases, con fabricación en Foshan, China. Esta página es una referencia instrumento por instrumento: cómo funciona cada equipo del laboratorio de LIHE, para qué características sirve y cuáles son sus límites.",
+      "sections": [
+        {
+          "heading": "CMM Zeiss: medición tridimensional de machos, cavidades y placas",
+          "paragraphs": [
+            "Una máquina de medición por coordenadas (CMM) desplaza un palpador a lo largo de tres ejes perpendiculares y registra la posición X, Y y Z de cada punto que toca. El software ajusta esos puntos a elementos geométricos — círculos, cilindros, conos, planos — y los compara con los valores nominales. LIHE dispone de un laboratorio propio con CMM Zeiss."
+          ],
+          "list": [
+            "Cómo mide: la pieza se alinea con sus referencias y el palpador toca o escanea la superficie. Los resultados se dan en milímetros, normalmente a nivel de micras.",
+            "Características típicas en piezas de moldes PET: diámetros de machos y cavidades, conicidad, concentricidad entre características, longitudes del conjunto, posición de alojamientos en placas y geometría de los asientos de entrada.",
+            "Por qué importa: la pared de la preforma es el espacio entre macho y cavidad, por lo que su relación en tres dimensiones debe medirse, no suponerse. Las bases de molde de LIHE también se verifican en la CMM Zeiss.",
+            "Límites: la medición por contacto requiere tiempo por punto, y los resultados dependen de una temperatura estable, una sujeción correcta y un palpador calibrado."
+          ]
+        },
+        {
+          "heading": "Escáner de perfil 3D: superficies libres de cavidades de moldes de soplado",
+          "paragraphs": [
+            "Un escáner de perfil 3D captura una nube densa de puntos de la superficie sin tocar la pieza, normalmente proyectando patrones de luz o líneas láser y registrándolos con cámaras. La nube de puntos se alinea con el modelo CAD y las desviaciones se muestran como un mapa de colores sobre toda la superficie."
+          ],
+          "list": [
+            "Características típicas: contornos de botella, formas de hombro y fondo, zonas de agarre, textos y logotipos en relieve en cavidades de moldes de soplado y otras formas complejas.",
+            "Por qué importa: la forma de una botella no se describe con unos pocos diámetros; una comparación de toda la superficie revela desviaciones locales que las mediciones puntuales pasarían por alto.",
+            "Resultado: un mapa de colores de desviación y perfiles de sección comparados con el modelo 3D.",
+            "Límites: para diámetros de ajuste estrechos una CMM suele ser la opción más precisa, y las superficies muy pulidas pueden ser más difíciles de capturar ópticamente."
+          ]
+        },
+        {
+          "heading": "Proyector óptico: perfiles bidimensionales de acabados de cuello y detalles pequeños",
+          "paragraphs": [
+            "Un proyector óptico, también llamado comparador óptico, proyecta una silueta ampliada de la pieza sobre una pantalla. El operador compara el contorno con un plano superpuesto o mide distancias y ángulos directamente en la pantalla. Mide sin contacto y es rápido para perfiles."
+          ],
+          "list": [
+            "Características típicas: perfiles de rosca y contornos del acabado de cuello en los anillos de cuello, radios pequeños, chaflanes, aristas y alturas de escalón.",
+            "Por qué importa: acabados de cuello como PCO 1881, PCO 1810, 1716, 3025 o 2925 deben coincidir con la tapa; un contorno ampliado muestra con claridad los errores de forma de la rosca.",
+            "Resultado: dimensiones y una comparación conforme o no conforme con el plano del perfil.",
+            "Límites: solo ve la silueta en un plano, por lo que las relaciones tridimensionales siguen necesitando la CMM."
+          ]
+        },
+        {
+          "heading": "Inspección de muestras de botellas y preformas: comprobar lo que produce el molde",
+          "paragraphs": [
+            "Los instrumentos que miden piezas de acero no pueden confirmar cómo se comporta el molde en producción. Por eso el equipo de control de calidad de LIHE incluye inspección dedicada de muestras de botellas, que mide muestras de preformas y botellas."
+          ],
+          "list": [
+            "Comprobaciones de preformas: peso en gramos, espesor de pared y su uniformidad alrededor de la circunferencia, dimensiones del acabado de cuello y longitud.",
+            "Comprobaciones de botellas: dimensiones generales, distribución del espesor de pared desde el cuello hasta el fondo y capacidad, por ejemplo en botellas de agua de 330 ml, 500 ml, 550 ml o 1,5 L.",
+            "Por qué importa: una pared de preforma desigual provoca un estirado desigual al soplar; paredes de botella demasiado finas pueden fallar, sobre todo en llenado en caliente a unos 85–95 °C.",
+            "Límites: los resultados describen las muestras analizadas, por lo que en moldes multicavidad conviene acordar el número de muestras por cavidad."
+          ]
+        },
+        {
+          "heading": "Comparación de instrumentos para la inspección de moldes PET",
+          "table": {
+            "head": ["Instrumento", "Principio de medición", "Contacto", "Ideal para", "Limitación principal"],
+            "rows": [
+              ["CMM Zeiss", "Puntos en X, Y, Z ajustados a geometría", "Sí (palpador táctil)", "Diámetros, concentricidad, posiciones, machos, cavidades, placas", "Más lenta por punto; necesita temperatura estable"],
+              ["Escáner de perfil 3D", "Nube de puntos óptica comparada con CAD", "No", "Cavidades libres de moldes de soplado, formas complejas", "Menos adecuado para ajustes estrechos; superficies reflectantes"],
+              ["Proyector óptico", "Silueta ampliada en pantalla", "No", "Roscas de cuello, radios, aristas, detalles pequeños", "Solo perfil bidimensional"],
+              ["Inspección de muestras de botellas", "Medición de preformas y botellas producidas", "Variable", "Peso, espesor de pared, cuello, capacidad", "Describe muestras, no cada pieza"]
+            ]
+          }
+        },
+        {
+          "heading": "Cómo se asigna cada característica al instrumento adecuado",
+          "steps": [
+            "Identificar el tipo de característica en el plano: diámetro de ajuste, posición, perfil, superficie libre o propiedad del producto.",
+            "Elegir el instrumento: CMM para relaciones tridimensionales, proyector óptico para perfiles planos, escáner de perfil 3D para superficies libres e inspección de muestras para propiedades de preformas y botellas.",
+            "Alinear la pieza con las mismas referencias usadas en el mecanizado, para que la medición refleje cómo se asentará en el molde.",
+            "Medir y comparar cada resultado con su valor nominal y su tolerancia.",
+            "Registrar los resultados; LIHE entrega informes de validación e inspección con los moldes y repuestos bajo solicitud."
+          ]
+        },
+        {
+          "heading": "Qué aportan los instrumentos al comprador",
+          "list": [
+            "Capacidad: los utillajes de LIHE alcanzan de forma constante un CPK ≥ 1,33, algo que solo puede demostrarse con mediciones repetibles.",
+            "Intercambiabilidad: las piezas de conversión 100% intercambiables para sistemas Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps y Corvaglia dependen de medir las piezas con la misma referencia.",
+            "Bajo índice de defectos: tasas de defectos operativos de apenas un 0,0064% dependen de verificar cada cavidad, no solo algunas."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Por qué usar una CMM y un proyector óptico en un anillo de cuello?",
+          "answer": "La CMM mide relaciones tridimensionales como la concentricidad y la posición, mientras que el proyector óptico muestra el contorno ampliado de la rosca y el acabado de cuello en un plano. Juntos cubren el ajuste y el perfil."
+        },
+        {
+          "question": "¿Es un escáner 3D más preciso que una CMM?",
+          "answer": "No para diámetros de ajuste. Un escáner capta más rápido superficies libres completas, como las cavidades de moldes de soplado; una CMM táctil suele ser la mejor opción para tolerancias estrechas en machos, cavidades y placas."
+        },
+        {
+          "question": "¿Qué añade la inspección de muestras de botellas si las piezas del molde ya fueron aprobadas?",
+          "answer": "Comprueba el resultado de todo el sistema — molde, refrigeración y proceso — en preformas y botellas reales: peso, espesor de pared, dimensiones del cuello y capacidad."
+        },
+        {
+          "question": "¿Puedo recibir datos de medición con mi molde o mis repuestos?",
+          "answer": "Sí. LIHE entrega informes de validación e inspección con los moldes y repuestos bajo solicitud."
+        },
+        {
+          "question": "¿Por qué importa la temperatura en la medición con CMM?",
+          "answer": "El acero se dilata al calentarse, por lo que una pieza medida a otra temperatura indica otro tamaño. Una temperatura estable en la sala de medición mantiene comparables los resultados de la CMM."
+        }
+      ]
+    }
+  }
+}

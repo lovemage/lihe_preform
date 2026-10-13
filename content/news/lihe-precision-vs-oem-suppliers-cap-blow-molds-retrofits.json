@@ -1,0 +1,871 @@
+{
+  "slug": "lihe-precision-vs-oem-suppliers-cap-blow-molds-retrofits",
+  "questionId": "q115",
+  "date": "2026-10-13",
+  "relatedProducts": [
+    20,
+    22,
+    34
+  ],
+  "images": {
+    "hero": "/images/news/lihe-precision-vs-oem-suppliers-cap-blow-molds-retrofits-hero.webp",
+    "detail": "/images/news/lihe-precision-vs-oem-suppliers-cap-blow-molds-retrofits-detail.webp",
+    "og": "/images/news/lihe-precision-vs-oem-suppliers-cap-blow-molds-retrofits-hero-og.jpg"
+  },
+  "sources": [
+    {
+      "label": "Husky Technologies — HyCAP 4.0 closure molds",
+      "url": "https://www.husky.co/en/solutions/molds/hycap-closure-molds/"
+    },
+    {
+      "label": "Husky Technologies — PET injection mold technology",
+      "url": "https://www.husky.co/en/solutions/pet-tooling/"
+    },
+    {
+      "label": "Husky Technologies — Hot runner refurbishment",
+      "url": "https://www.husky.co/en/services/hot-runner-refurbishment/"
+    },
+    {
+      "label": "SACMI — Compression molding technology",
+      "url": "https://sacmi.com/en-US/closures-preforms-containers/Compression-Molding"
+    },
+    {
+      "label": "SIPA — PET bottle blow moulds",
+      "url": "https://sipasolutions.com/products/moulds/blowing-moulds"
+    },
+    {
+      "label": "SIPA — PET mould refurbishment and conversion services",
+      "url": "https://sipasolutions.com/products/moulds/refurbishment-conversion"
+    },
+    {
+      "label": "Sidel — Packaging moulds and line conversion services",
+      "url": "https://www.sidel.com/en/services/moulds-and-line-conversion/"
+    },
+    {
+      "label": "Wikipedia — Original equipment manufacturer",
+      "url": "https://en.wikipedia.org/wiki/Original_equipment_manufacturer"
+    },
+    {
+      "label": "Wikipedia — Blow molding",
+      "url": "https://en.wikipedia.org/wiki/Blow_molding"
+    }
+  ],
+  "locales": {
+    "en": {
+      "category": "Technical Insights",
+      "title": "How Does LIHE Precision Compare with OEM Suppliers for PET Cap Molds, Blow Molds, and Tooling Retrofits?",
+      "summary": "A neutral comparison of LIHE Precision with machine-maker (OEM) suppliers such as Husky, SACMI, SIPA and Sidel for PET cap molds, blow molds and tooling retrofits, using only published data, with fit criteria and steps to start a project.",
+      "heroAlt": "An aluminum PET bottle blow mold half and a multi-cavity cap mold plate side by side on a factory bench",
+      "detailAlt": "Gloved hands refurbishing a worn preform mold plate on a workbench, with new inserts beside it and CNC machines in the background",
+      "sections": [
+        {
+          "heading": "Short answer: how does LIHE compare with OEM suppliers?",
+          "paragraphs": [
+            "LIHE is an independent tooling maker that supplies cap molds, blow molds and retrofits for several machine brands, while OEM suppliers such as Husky, SACMI, SIPA and Sidel build tooling around their own machines and publish proprietary features and service programs. LIHE publishes concrete lead times (4 weeks for cap mold parts, 8 weeks for standard PET molds) and a retrofit cost of 25%–40% of a new mold price; OEMs publish platform-specific figures such as Husky's HyCAP 4.0 target of more than 50 million cycles of stack life. Neither side publishes prices on the pages cited here.",
+            "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China.",
+            "Disclosure: this article is published by LIHE. OEM information comes only from the official web pages listed under References. LIHE is not affiliated with any machine maker named here."
+          ]
+        },
+        {
+          "heading": "What LIHE offers in the three categories",
+          "list": [
+            "Cap molds: closure injection molds from 12 to 72 cavities for one-piece and two-piece caps, tamper-evident bands and EU tethered caps, in 26mm, 28mm, 2925, 3025 and 38mm.",
+            "Compression molds: tooling for SACMI CCM lines, including replacement tooling made from existing parts.",
+            "Blow molds for two-step machines: SIDEL, KRONES, SIG/KHS, TECH-LONG and NEWAMSTAR, including KHS InnoPET Blomax and Krones Contiform cold fill sets.",
+            "Blow molds for one-step machines: SIPA, ASB and AOKI.",
+            "Blow mold applications: cold fill, hot fill at about 85–95°C and aseptic, plus split-type quick-change molds and water bottles of 330ml, 500ml, 550ml and 1.5L.",
+            "Retrofits: complete mold overhauls and performance upgrades to restore aging assets to OEM-level efficiency, neck finish conversions, lightweighting of 1g to 2g and cooling optimization that can cut neck cooling time by up to 0.5 seconds."
+          ]
+        },
+        {
+          "heading": "Key numbers from LIHE's published data",
+          "table": {
+            "head": [
+              "Metric",
+              "Published value",
+              "Where LIHE states it"
+            ],
+            "rows": [
+              [
+                "Closure injection mold cavitation",
+                "12 to 72 cavities",
+                "lihe-preform.com, products"
+              ],
+              [
+                "Closure hot runner capacity",
+                "Up to 96 cavities",
+                "lihe-preform.com, products"
+              ],
+              [
+                "Cap mold parts lead time",
+                "4 weeks",
+                "lihe-preform.com, home page"
+              ],
+              [
+                "Standard PET mold lead time",
+                "8 weeks",
+                "lihe-preform.com, home page"
+              ],
+              [
+                "Lightweighting retrofit cost",
+                "25%–40% of a new mold price",
+                "lihe-preform.com, home page"
+              ],
+              [
+                "Preform weight reduction",
+                "1g to 2g",
+                "lihe-preform.com, home page"
+              ],
+              [
+                "Neck cooling time reduction",
+                "Up to 0.5 seconds",
+                "lihe-preform.com, home page"
+              ],
+              [
+                "Process capability",
+                "CPK ≥ 1.33",
+                "lihe-preform.com, Why Choose LIHE"
+              ],
+              [
+                "Operational defect rate",
+                "As low as 0.0064%",
+                "lihe-preform.com, Why Choose LIHE"
+              ],
+              [
+                "Hot runner guarantee",
+                "3-year leakage-proof guarantee",
+                "lihe-preform.com, products"
+              ]
+            ]
+          },
+          "paragraphs": [
+            "Values checked on lihe-preform.com on 13 October 2026."
+          ]
+        },
+        {
+          "heading": "Cap molds: LIHE vs OEM closure tooling",
+          "table": {
+            "head": [
+              "",
+              "LIHE Precision",
+              "Husky HyCAP 4.0 (official page)",
+              "SACMI compression (official page)"
+            ],
+            "rows": [
+              [
+                "Process",
+                "Injection closure molds; compression molds for SACMI CCM lines",
+                "Injection closure molds for HyCAP systems",
+                "Continuous compression molding (CCM)"
+              ],
+              [
+                "Cavitation or capacity",
+                "12 to 72 cavities; closure hot runners up to 96 cavities",
+                "Not stated on the cited page",
+                "Mold pressure up to 400 kg/cm2"
+              ],
+              [
+                "Formats",
+                "One-piece and two-piece caps, tamper-evident bands, EU tethered caps; 26mm, 28mm, 2925, 3025, 38mm",
+                "Tethered, ultra-lightweight and standard closures within the same mold",
+                "Caps and closures produced by compression"
+              ],
+              [
+                "Published life or maintenance figure",
+                "Not stated for closure molds",
+                "Targets stack life above 50 million cycles; full mold cleaning interval up to 10 million cycles",
+                "Independent molds replaced individually while the machine runs"
+              ],
+              [
+                "Spare parts",
+                "Cap mold parts in 4 weeks",
+                "Not stated on the cited page",
+                "Not stated on the cited page"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Blow molds: LIHE vs OEM blow mold suppliers",
+          "table": {
+            "head": [
+              "",
+              "LIHE Precision",
+              "SIPA (official page)",
+              "Sidel (official page)"
+            ],
+            "rows": [
+              [
+                "Machine coverage",
+                "Two-step SIDEL, KRONES, SIG/KHS, TECH-LONG, NEWAMSTAR; one-step SIPA, ASB, AOKI",
+                "Fits most major brands of reheat stretch blow molders",
+                "Sidel moulds, engineered and certified by Sidel experts for any production speed"
+              ],
+              [
+                "Applications",
+                "Cold fill, hot fill (about 85–95°C), aseptic",
+                "Beverage, food and non-food containers in any shape",
+                "All PET applications, plus line conversion to new formats"
+              ],
+              [
+                "Mold design features",
+                "Split-type quick-change molds",
+                "Aluminum and stainless steel molds; patented XVENT venting to reduce blow pressure; quick-change shell molds",
+                "Packaging design and mould design combined with line conversion"
+              ],
+              [
+                "Published scale or experience",
+                "20+ years; customers in 50+ countries",
+                "Not stated as a number on the cited page",
+                "Over 40 years of PET experience; 200 mould and line conversion specialists"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Tooling retrofits: LIHE vs OEM refurbishment programs",
+          "table": {
+            "head": [
+              "",
+              "LIHE Precision",
+              "Husky (official pages)",
+              "SIPA (official page)"
+            ],
+            "rows": [
+              [
+                "Scope",
+                "Mold overhauls and upgrades, neck finish conversions, lightweighting, hot runner refurbishment",
+                "Mold conversions for weight-saving designs, express refurbishment, hot runner refurbishment",
+                "Mold conversion, refurbishment, mold audits, hot runner refurbishment"
+              ],
+              [
+                "Published figures",
+                "Lightweighting retrofit at 25%–40% of a new mold price; 1g to 2g lighter preforms",
+                "Express refurbishment reduces downtime from weeks to hours",
+                "LongLife extends cold-half life up to 12 million cycles before first maintenance"
+              ],
+              [
+                "Brands covered",
+                "Conversion parts for Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps, Corvaglia",
+                "Husky equipment",
+                "SIPA tooling; hot runners of any generation, Solid Skirt or Ultra design"
+              ],
+              [
+                "Where the work is done",
+                "LIHE factory in Foshan, plus on-site support",
+                "Not stated on the cited page",
+                "On site or in SIPA service centers"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Evidence and honest limits",
+          "list": [
+            "LIHE's tooling consistently achieves CPK ≥ 1.33, with operational defect rates as low as 0.0064%, according to LIHE.",
+            "An in-house Zeiss CMM lab, 3D profile scanner, optical projector and bottle sample inspection support quality control; reports are supplied on request.",
+            "LIHE is a Coca-Cola verified mold supplier in the Asia region; Coca-Cola does not own or operate LIHE.",
+            "Limit: all figures in this article are self-published by each company and use different metrics; they are not results of a side-by-side test.",
+            "Limit: LIHE is not a machine OEM and cannot offer OEM-only features such as integrated machine connectivity or single-source machine warranties.",
+            "Limit: no prices are published by LIHE or on the OEM pages cited; request quotes from each supplier for the same specification."
+          ]
+        },
+        {
+          "heading": "Who LIHE is a fit for",
+          "list": [
+            "Converters running several machine brands who want one tooling supplier for caps, blow molds and conversion parts.",
+            "Bottlers planning lightweighting or a neck finish change on existing tooling, where a retrofit at 25%–40% of a new mold price is an option.",
+            "Cap producers who need EU tethered cap molds from 12 to 72 cavities or compression tooling for SACMI CCM lines.",
+            "Plants with older molds that need a complete overhaul rather than a new mold."
+          ]
+        },
+        {
+          "heading": "When an OEM supplier is the better fit",
+          "list": [
+            "You need proprietary OEM technology, such as Husky's HyCAP 4.0 design or SIPA's patented XVENT venting.",
+            "You want one company to be responsible for the machine and the tooling together.",
+            "Your project is a full line conversion that includes machines, handling and packaging design, as Sidel describes in its line conversion service.",
+            "Your quality system requires OEM-original tooling for a specific platform."
+          ]
+        },
+        {
+          "heading": "How to start a cap mold, blow mold or retrofit project with LIHE",
+          "steps": [
+            "Send the machine brand and model, the product (cap, bottle or preform), drawings or samples and target output to sales@lihe-preform.com or +886 938 198 675 (also WhatsApp).",
+            "Agree whether you need a new mold, replacement parts or a retrofit of existing tooling.",
+            "Review LIHE's engineering proposal, prepared with CAD/CAM, 3D simulation and flow analysis.",
+            "Compare quotations from LIHE and the OEM for the same specification and lead time.",
+            "Define acceptance criteria and request Zeiss CMM inspection and validation reports.",
+            "Plan installation, start-up support, preventive maintenance and spare parts supply."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Is LIHE an OEM supplier?",
+          "answer": "LIHE is the manufacturer of its own molds, hot runners and components, but it does not build injection molding or blow molding machines. Its tooling is designed to be compatible with machines from Husky, SACMI, SIPA, NETSTAL, Sidel, Krones and others."
+        },
+        {
+          "question": "Does LIHE make tethered cap molds?",
+          "answer": "Yes. LIHE's closure injection molds cover one-piece and two-piece caps, tamper-evident bands and EU tethered caps, from 12 to 72 cavities, in sizes including 26mm, 28mm, 2925, 3025 and 38mm."
+        },
+        {
+          "question": "Which blow molding machines does LIHE make molds for?",
+          "answer": "For two-step machines LIHE lists SIDEL, KRONES, SIG/KHS, TECH-LONG and NEWAMSTAR; for one-step machines SIPA, ASB and AOKI. Applications include cold fill, hot fill at about 85–95°C and aseptic."
+        },
+        {
+          "question": "Is a LIHE retrofit cheaper than an OEM mold?",
+          "answer": "LIHE states that retrofitting an existing mold for lightweighting costs 25%–40% of a new mold price. OEM prices are not published on the pages cited, so compare quotes for the same specification."
+        },
+        {
+          "question": "How can I compare LIHE and an OEM fairly?",
+          "answer": "Use one written specification, request quotes and lead times from both, ask for dimensional inspection reports and test samples on your own line before deciding."
+        }
+      ]
+    },
+    "ru": {
+      "category": "Технические статьи",
+      "title": "Как LIHE Precision выглядит в сравнении с OEM-поставщиками пресс-форм для ПЭТ-колпачков, выдувных форм и модернизации оснастки?",
+      "summary": "Нейтральное сравнение LIHE Precision с поставщиками-производителями машин (OEM) — Husky, SACMI, SIPA и Sidel — по формам для колпачков, выдувным формам и модернизации оснастки, только по опубликованным данным, с критериями выбора и шагами для запуска проекта.",
+      "heroAlt": "Алюминиевая половина выдувной формы для ПЭТ-бутылки и многогнездная плита формы для колпачков рядом на заводском столе",
+      "detailAlt": "Руки в перчатках восстанавливают изношенную плиту формы для преформ на верстаке, рядом новые вставки, на заднем плане станки с ЧПУ",
+      "sections": [
+        {
+          "heading": "Короткий ответ: как LIHE соотносится с OEM-поставщиками?",
+          "paragraphs": [
+            "LIHE — независимый производитель оснастки, который поставляет формы для колпачков, выдувные формы и модернизацию для машин нескольких марок, тогда как OEM-поставщики, такие как Husky, SACMI, SIPA и Sidel, проектируют оснастку под собственные машины и публикуют фирменные технологии и сервисные программы. LIHE публикует конкретные сроки (4 недели для деталей форм колпачков, 8 недель для стандартных ПЭТ-форм) и стоимость модернизации 25–40% цены новой формы; OEM публикуют показатели своих платформ, например целевой ресурс пакета формующих деталей Husky HyCAP 4.0 более 50 миллионов циклов. Ни одна из сторон не публикует цены на страницах, на которые ссылается статья.",
+            "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) — производитель пресс-форм для ПЭТ-преформ, выдувных форм, форм для колпачков и компрессионных форм, горячеканальных систем и комплектующих для производства напитков и упаковки, с производством в Фошане, Китай.",
+            "Раскрытие информации: статья опубликована компанией LIHE. Сведения об OEM взяты только с официальных страниц, перечисленных в списке источников. LIHE не связана ни с одним из упомянутых производителей машин."
+          ]
+        },
+        {
+          "heading": "Что LIHE предлагает в трех категориях",
+          "list": [
+            "Формы для колпачков: литьевые формы от 12 до 72 гнезд для цельных и двухкомпонентных колпачков, колпачков с кольцом контроля первого вскрытия и привязанных колпачков по требованиям ЕС, размеры 26 мм, 28 мм, 2925, 3025 и 38 мм.",
+            "Компрессионные формы: оснастка для линий SACMI CCM, включая сменную оснастку по существующим деталям.",
+            "Выдувные формы для двухстадийных машин: SIDEL, KRONES, SIG/KHS, TECH-LONG и NEWAMSTAR, включая комплекты для холодного розлива KHS InnoPET Blomax и Krones Contiform.",
+            "Выдувные формы для одностадийных машин: SIPA, ASB и AOKI.",
+            "Применения выдувных форм: холодный розлив, горячий розлив при температуре около 85–95 °C и асептический розлив, а также разъемные быстросменные формы и бутылки для воды 330 мл, 500 мл, 550 мл и 1,5 л.",
+            "Модернизация: капитальный ремонт и улучшение характеристик форм для возврата эффективности уровня производителя, смена горловины, облегчение на 1–2 г и оптимизация охлаждения, сокращающая время охлаждения горловины до 0,5 секунды."
+          ]
+        },
+        {
+          "heading": "Ключевые цифры из опубликованных данных LIHE",
+          "table": {
+            "head": [
+              "Показатель",
+              "Опубликованное значение",
+              "Где указано"
+            ],
+            "rows": [
+              [
+                "Гнездность литьевых форм для колпачков",
+                "От 12 до 72 гнезд",
+                "lihe-preform.com, продукция"
+              ],
+              [
+                "Горячие каналы для колпачков",
+                "До 96 гнезд",
+                "lihe-preform.com, продукция"
+              ],
+              [
+                "Срок деталей форм для колпачков",
+                "4 недели",
+                "lihe-preform.com, главная"
+              ],
+              [
+                "Срок стандартной ПЭТ-формы",
+                "8 недель",
+                "lihe-preform.com, главная"
+              ],
+              [
+                "Стоимость модернизации под облегчение",
+                "25–40% цены новой формы",
+                "lihe-preform.com, главная"
+              ],
+              [
+                "Снижение массы преформы",
+                "1–2 г",
+                "lihe-preform.com, главная"
+              ],
+              [
+                "Сокращение времени охлаждения горловины",
+                "До 0,5 секунды",
+                "lihe-preform.com, главная"
+              ],
+              [
+                "Индекс воспроизводимости процесса",
+                "CPK ≥ 1,33",
+                "lihe-preform.com, раздел Why Choose LIHE"
+              ],
+              [
+                "Операционный уровень брака",
+                "От 0,0064%",
+                "lihe-preform.com, раздел Why Choose LIHE"
+              ],
+              [
+                "Гарантия на горячие каналы",
+                "3 года от протечек",
+                "lihe-preform.com, продукция"
+              ]
+            ]
+          },
+          "paragraphs": [
+            "Значения проверены на lihe-preform.com 13 октября 2026 года."
+          ]
+        },
+        {
+          "heading": "Формы для колпачков: LIHE и оснастка OEM",
+          "table": {
+            "head": [
+              "",
+              "LIHE Precision",
+              "Husky HyCAP 4.0 (официальная страница)",
+              "Компрессия SACMI (официальная страница)"
+            ],
+            "rows": [
+              [
+                "Процесс",
+                "Литьевые формы для колпачков; компрессионные формы для линий SACMI CCM",
+                "Литьевые формы для колпачков для систем HyCAP",
+                "Непрерывное компрессионное формование (CCM)"
+              ],
+              [
+                "Гнездность или мощность",
+                "От 12 до 72 гнезд; горячие каналы для колпачков до 96 гнезд",
+                "На указанной странице не приводится",
+                "Давление в форме до 400 кг/см²"
+              ],
+              [
+                "Форматы",
+                "Цельные и двухкомпонентные колпачки, кольцо контроля вскрытия, привязанные колпачки ЕС; 26 мм, 28 мм, 2925, 3025, 38 мм",
+                "Привязанные, сверхлегкие и стандартные колпачки в одной форме",
+                "Колпачки и укупорка методом компрессии"
+              ],
+              [
+                "Опубликованный показатель ресурса или обслуживания",
+                "Для форм колпачков не приводится",
+                "Целевой ресурс пакета формующих деталей более 50 миллионов циклов; интервал полной очистки до 10 миллионов циклов",
+                "Независимые формы меняются по отдельности во время работы машины"
+              ],
+              [
+                "Запасные части",
+                "Детали форм для колпачков за 4 недели",
+                "На указанной странице не приводится",
+                "На указанной странице не приводится"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Выдувные формы: LIHE и OEM-поставщики",
+          "table": {
+            "head": [
+              "",
+              "LIHE Precision",
+              "SIPA (официальная страница)",
+              "Sidel (официальная страница)"
+            ],
+            "rows": [
+              [
+                "Охват машин",
+                "Двухстадийные SIDEL, KRONES, SIG/KHS, TECH-LONG, NEWAMSTAR; одностадийные SIPA, ASB, AOKI",
+                "Подходят для большинства основных марок выдувных машин с повторным нагревом",
+                "Формы Sidel, разработанные и сертифицированные специалистами Sidel для любой скорости производства"
+              ],
+              [
+                "Применения",
+                "Холодный розлив, горячий розлив (около 85–95 °C), асептика",
+                "Тара для напитков, продуктов питания и непищевых товаров любой формы",
+                "Все применения ПЭТ, а также конверсия линии под новые форматы"
+              ],
+              [
+                "Конструктивные особенности",
+                "Разъемные быстросменные формы",
+                "Формы из алюминия и нержавеющей стали; запатентованная вентиляция XVENT для снижения давления выдува; быстросменные формы-вкладыши",
+                "Разработка упаковки и форм вместе с конверсией линии"
+              ],
+              [
+                "Опубликованный масштаб или опыт",
+                "Более 20 лет; клиенты в 50+ странах",
+                "На указанной странице в цифрах не приводится",
+                "Более 40 лет опыта в ПЭТ; 200 специалистов по формам и конверсии линий"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Модернизация оснастки: LIHE и программы восстановления OEM",
+          "table": {
+            "head": [
+              "",
+              "LIHE Precision",
+              "Husky (официальные страницы)",
+              "SIPA (официальная страница)"
+            ],
+            "rows": [
+              [
+                "Объем",
+                "Капитальный ремонт и улучшение форм, смена горловины, облегчение, восстановление горячих каналов",
+                "Конверсии форм под облегченные изделия, ускоренное восстановление, восстановление горячих каналов",
+                "Конверсия и восстановление форм, аудит форм, восстановление горячих каналов"
+              ],
+              [
+                "Опубликованные показатели",
+                "Модернизация под облегчение за 25–40% цены новой формы; преформы легче на 1–2 г",
+                "Ускоренное восстановление сокращает простой с недель до часов",
+                "LongLife продлевает ресурс холодной половины до 12 миллионов циклов до первого обслуживания"
+              ],
+              [
+                "Охват марок",
+                "Конверсионные детали для Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps, Corvaglia",
+                "Оборудование Husky",
+                "Оснастка SIPA; горячие каналы любого поколения, конструкции Solid Skirt или Ultra"
+              ],
+              [
+                "Где выполняются работы",
+                "Завод LIHE в Фошане плюс поддержка на месте",
+                "На указанной странице не приводится",
+                "На месте или в сервисных центрах SIPA"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Доказательства и честные ограничения",
+          "list": [
+            "По данным LIHE, оснастка стабильно достигает CPK ≥ 1,33, а операционный уровень брака — от 0,0064%.",
+            "Контроль качества обеспечивают собственная лаборатория Zeiss CMM, 3D-сканер профиля, оптический проектор и контроль образцов бутылок; протоколы предоставляются по запросу.",
+            "LIHE — проверенный поставщик пресс-форм Coca-Cola в Азиатском регионе; Coca-Cola не владеет LIHE и не управляет компанией.",
+            "Ограничение: все цифры в статье опубликованы самими компаниями и описывают разные показатели; это не результаты сравнительного испытания.",
+            "Ограничение: LIHE не является OEM-производителем машин и не может предложить функции, доступные только OEM, например встроенную связь с машиной или единую гарантию на машину и оснастку.",
+            "Ограничение: ни LIHE, ни указанные страницы OEM не публикуют цены; запрашивайте предложения у каждого поставщика по одной и той же спецификации."
+          ]
+        },
+        {
+          "heading": "Кому подходит LIHE",
+          "list": [
+            "Переработчикам с машинами нескольких марок, которым удобен один поставщик форм для колпачков, выдувных форм и конверсионных деталей.",
+            "Розливщикам, планирующим облегчение или смену горловины на существующей оснастке, когда вариант модернизации за 25–40% цены новой формы приемлем.",
+            "Производителям колпачков, которым нужны формы для привязанных колпачков ЕС на 12–72 гнезда или компрессионная оснастка для линий SACMI CCM.",
+            "Заводам со старыми формами, которым нужен капитальный ремонт, а не новая форма."
+          ]
+        },
+        {
+          "heading": "Когда OEM-поставщик подходит лучше",
+          "list": [
+            "Вам нужна фирменная технология OEM, например конструкция Husky HyCAP 4.0 или запатентованная вентиляция SIPA XVENT.",
+            "Вы хотите, чтобы одна компания отвечала и за машину, и за оснастку.",
+            "Ваш проект — полная конверсия линии, включая машины, транспортировку и разработку упаковки, как описывает Sidel в своей услуге конверсии линий.",
+            "Ваша система качества требует оригинальной оснастки OEM для конкретной платформы."
+          ]
+        },
+        {
+          "heading": "Как начать проект формы для колпачков, выдувной формы или модернизации с LIHE",
+          "steps": [
+            "Отправьте марку и модель машины, изделие (колпачок, бутылка или преформа), чертежи или образцы и целевую производительность на sales@lihe-preform.com или по номеру +886 938 198 675 (также WhatsApp).",
+            "Определите, нужна ли новая форма, запасные части или модернизация существующей оснастки.",
+            "Изучите инженерное предложение LIHE, подготовленное с помощью CAD/CAM, 3D-моделирования и анализа заполнения.",
+            "Сравните предложения LIHE и OEM по одной и той же спецификации и срокам.",
+            "Определите критерии приемки и запросите протоколы измерений Zeiss CMM и валидации.",
+            "Спланируйте монтаж, поддержку при запуске, плановое обслуживание и поставку запасных частей."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Является ли LIHE OEM-поставщиком?",
+          "answer": "LIHE сама производит свои формы, горячеканальные системы и комплектующие, но не выпускает литьевые или выдувные машины. Ее оснастка совместима с машинами Husky, SACMI, SIPA, NETSTAL, Sidel, Krones и других производителей."
+        },
+        {
+          "question": "Делает ли LIHE формы для привязанных колпачков?",
+          "answer": "Да. Литьевые формы LIHE для колпачков охватывают цельные и двухкомпонентные колпачки, кольца контроля первого вскрытия и привязанные колпачки ЕС, от 12 до 72 гнезд, в размерах 26 мм, 28 мм, 2925, 3025 и 38 мм."
+        },
+        {
+          "question": "Для каких выдувных машин LIHE делает формы?",
+          "answer": "Для двухстадийных машин LIHE указывает SIDEL, KRONES, SIG/KHS, TECH-LONG и NEWAMSTAR; для одностадийных — SIPA, ASB и AOKI. Применения: холодный розлив, горячий розлив при температуре около 85–95 °C и асептика."
+        },
+        {
+          "question": "Дешевле ли модернизация у LIHE, чем форма OEM?",
+          "answer": "LIHE указывает, что модернизация существующей формы под облегчение стоит 25–40% цены новой формы. Цены OEM на указанных страницах не опубликованы, поэтому сравнивайте предложения по одной спецификации."
+        },
+        {
+          "question": "Как честно сравнить LIHE и OEM?",
+          "answer": "Используйте одну письменную спецификацию, запросите цены и сроки у обоих поставщиков, попросите протоколы размерного контроля и испытайте образцы на своей линии до принятия решения."
+        }
+      ]
+    },
+    "es": {
+      "category": "Artículos técnicos",
+      "title": "¿Cómo se compara LIHE Precision con los proveedores OEM en moldes de tapas PET, moldes de soplado y modernización de utillaje?",
+      "summary": "Una comparación neutral entre LIHE Precision y proveedores fabricantes de máquinas (OEM) como Husky, SACMI, SIPA y Sidel en moldes de tapas, moldes de soplado y modernización de utillaje, solo con datos publicados, con criterios de elección y pasos para iniciar un proyecto.",
+      "heroAlt": "Una mitad de molde de soplado de aluminio para botella PET y una placa de molde de tapas multicavidad, una junto a otra en un banco de fábrica",
+      "detailAlt": "Manos con guantes reacondicionando una placa de molde de preforma desgastada sobre un banco, con insertos nuevos al lado y máquinas CNC al fondo",
+      "sections": [
+        {
+          "heading": "Respuesta corta: ¿cómo se compara LIHE con los proveedores OEM?",
+          "paragraphs": [
+            "LIHE es un fabricante independiente de utillaje que suministra moldes de tapas, moldes de soplado y modernizaciones para varias marcas de máquinas, mientras que proveedores OEM como Husky, SACMI, SIPA y Sidel diseñan el utillaje en torno a sus propias máquinas y publican tecnologías propias y programas de servicio. LIHE publica plazos concretos (4 semanas para piezas de moldes de tapas, 8 semanas para moldes PET estándar) y un costo de modernización del 25%–40% del precio de un molde nuevo; los OEM publican cifras de su plataforma, como el objetivo de Husky HyCAP 4.0 de más de 50 millones de ciclos de vida del conjunto de moldeo. Ninguna de las partes publica precios en las páginas citadas.",
+            "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) es un fabricante de moldes de preforma PET, moldes de soplado, moldes de tapas y de compresión, sistemas de canal caliente y componentes de molde para la industria de bebidas y envases, con fabricación en Foshan, China.",
+            "Aviso: este artículo está publicado por LIHE. La información de los OEM procede solo de las páginas oficiales indicadas en las referencias. LIHE no tiene relación con ninguno de los fabricantes de máquinas mencionados."
+          ]
+        },
+        {
+          "heading": "Qué ofrece LIHE en las tres categorías",
+          "list": [
+            "Moldes de tapas: moldes de inyección de 12 a 72 cavidades para tapas de una y dos piezas, bandas de garantía y tapas unidas (tethered) según la normativa de la UE, en 26 mm, 28 mm, 2925, 3025 y 38 mm.",
+            "Moldes de compresión: utillaje para líneas SACMI CCM, incluido utillaje de reemplazo fabricado a partir de piezas existentes.",
+            "Moldes de soplado para máquinas de dos etapas: SIDEL, KRONES, SIG/KHS, TECH-LONG y NEWAMSTAR, incluidos juegos de llenado en frío para KHS InnoPET Blomax y Krones Contiform.",
+            "Moldes de soplado para máquinas de una etapa: SIPA, ASB y AOKI.",
+            "Aplicaciones de soplado: llenado en frío, llenado en caliente a unos 85–95 °C y aséptico, además de moldes partidos de cambio rápido y botellas de agua de 330 ml, 500 ml, 550 ml y 1,5 L.",
+            "Modernizaciones: revisiones completas y mejoras de rendimiento para devolver a los moldes envejecidos una eficiencia de nivel OEM, cambios de cuello, aligeramiento de 1 g a 2 g y optimización de la refrigeración que puede reducir el tiempo de enfriamiento del cuello hasta 0,5 segundos."
+          ]
+        },
+        {
+          "heading": "Cifras clave de los datos publicados por LIHE",
+          "table": {
+            "head": [
+              "Indicador",
+              "Valor publicado",
+              "Dónde lo indica LIHE"
+            ],
+            "rows": [
+              [
+                "Cavidades por molde de inyección de tapas",
+                "De 12 a 72 cavidades",
+                "lihe-preform.com, productos"
+              ],
+              [
+                "Canal caliente para tapas",
+                "Hasta 96 cavidades",
+                "lihe-preform.com, productos"
+              ],
+              [
+                "Plazo de piezas de moldes de tapas",
+                "4 semanas",
+                "lihe-preform.com, inicio"
+              ],
+              [
+                "Plazo de molde PET estándar",
+                "8 semanas",
+                "lihe-preform.com, inicio"
+              ],
+              [
+                "Costo de modernización para aligeramiento",
+                "25%–40% del precio de un molde nuevo",
+                "lihe-preform.com, inicio"
+              ],
+              [
+                "Reducción del peso de la preforma",
+                "De 1 g a 2 g",
+                "lihe-preform.com, inicio"
+              ],
+              [
+                "Reducción del tiempo de enfriamiento del cuello",
+                "Hasta 0,5 segundos",
+                "lihe-preform.com, inicio"
+              ],
+              [
+                "Capacidad de proceso",
+                "CPK ≥ 1,33",
+                "lihe-preform.com, Why Choose LIHE"
+              ],
+              [
+                "Tasa operativa de defectos",
+                "Desde 0,0064%",
+                "lihe-preform.com, Why Choose LIHE"
+              ],
+              [
+                "Garantía de canal caliente",
+                "3 años contra fugas",
+                "lihe-preform.com, productos"
+              ]
+            ]
+          },
+          "paragraphs": [
+            "Valores comprobados en lihe-preform.com el 13 de octubre de 2026."
+          ]
+        },
+        {
+          "heading": "Moldes de tapas: LIHE frente al utillaje OEM",
+          "table": {
+            "head": [
+              "",
+              "LIHE Precision",
+              "Husky HyCAP 4.0 (página oficial)",
+              "Compresión SACMI (página oficial)"
+            ],
+            "rows": [
+              [
+                "Proceso",
+                "Moldes de inyección de tapas; moldes de compresión para líneas SACMI CCM",
+                "Moldes de inyección de tapas para sistemas HyCAP",
+                "Moldeo por compresión continua (CCM)"
+              ],
+              [
+                "Cavidades o capacidad",
+                "De 12 a 72 cavidades; canal caliente para tapas hasta 96 cavidades",
+                "No indicado en la página citada",
+                "Presión en el molde de hasta 400 kg/cm²"
+              ],
+              [
+                "Formatos",
+                "Tapas de una y dos piezas, bandas de garantía, tapas unidas UE; 26 mm, 28 mm, 2925, 3025, 38 mm",
+                "Tapas unidas, ultraligeras y estándar en el mismo molde",
+                "Tapas y cierres producidos por compresión"
+              ],
+              [
+                "Dato publicado de vida o mantenimiento",
+                "No indicado para moldes de tapas",
+                "Objetivo de vida del conjunto de moldeo superior a 50 millones de ciclos; intervalo de limpieza completa de hasta 10 millones de ciclos",
+                "Moldes independientes que se sustituyen uno a uno con la máquina en marcha"
+              ],
+              [
+                "Repuestos",
+                "Piezas de moldes de tapas en 4 semanas",
+                "No indicado en la página citada",
+                "No indicado en la página citada"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Moldes de soplado: LIHE frente a los proveedores OEM",
+          "table": {
+            "head": [
+              "",
+              "LIHE Precision",
+              "SIPA (página oficial)",
+              "Sidel (página oficial)"
+            ],
+            "rows": [
+              [
+                "Máquinas cubiertas",
+                "Dos etapas SIDEL, KRONES, SIG/KHS, TECH-LONG, NEWAMSTAR; una etapa SIPA, ASB, AOKI",
+                "Compatibles con la mayoría de las grandes marcas de sopladoras de recalentamiento y estirado",
+                "Moldes Sidel, diseñados y certificados por expertos de Sidel para cualquier velocidad de producción"
+              ],
+              [
+                "Aplicaciones",
+                "Llenado en frío, llenado en caliente (unos 85–95 °C), aséptico",
+                "Envases para bebidas, alimentos y productos no alimentarios de cualquier forma",
+                "Todas las aplicaciones PET, además de conversión de línea a nuevos formatos"
+              ],
+              [
+                "Características de diseño",
+                "Moldes partidos de cambio rápido",
+                "Moldes de aluminio y acero inoxidable; ventilación patentada XVENT para reducir la presión de soplado; moldes de carcasa de cambio rápido",
+                "Diseño de envase y de molde combinado con la conversión de línea"
+              ],
+              [
+                "Escala o experiencia publicada",
+                "Más de 20 años; clientes en más de 50 países",
+                "No indicada en cifras en la página citada",
+                "Más de 40 años de experiencia en PET; 200 especialistas en moldes y conversión de líneas"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Modernización de utillaje: LIHE frente a los programas de reacondicionamiento OEM",
+          "table": {
+            "head": [
+              "",
+              "LIHE Precision",
+              "Husky (páginas oficiales)",
+              "SIPA (página oficial)"
+            ],
+            "rows": [
+              [
+                "Alcance",
+                "Revisión y mejora de moldes, cambios de cuello, aligeramiento, reacondicionamiento de canales calientes",
+                "Conversiones de moldes para diseños más ligeros, reacondicionamiento exprés, reacondicionamiento de canales calientes",
+                "Conversión y reacondicionamiento de moldes, auditorías de moldes, reacondicionamiento de canales calientes"
+              ],
+              [
+                "Cifras publicadas",
+                "Modernización de aligeramiento por el 25%–40% del precio de un molde nuevo; preformas de 1 g a 2 g más ligeras",
+                "El reacondicionamiento exprés reduce la parada de semanas a horas",
+                "LongLife extiende la vida de la mitad fría hasta 12 millones de ciclos antes del primer mantenimiento"
+              ],
+              [
+                "Marcas cubiertas",
+                "Piezas de conversión para Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps, Corvaglia",
+                "Equipos Husky",
+                "Utillaje SIPA; canales calientes de cualquier generación, diseño Solid Skirt o Ultra"
+              ],
+              [
+                "Dónde se realiza el trabajo",
+                "Fábrica de LIHE en Foshan, más asistencia en sitio",
+                "No indicado en la página citada",
+                "En sitio o en centros de servicio de SIPA"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Evidencias y límites honestos",
+          "list": [
+            "Según LIHE, su utillaje alcanza de forma constante un CPK ≥ 1,33, con tasas operativas de defectos desde 0,0064%.",
+            "El control de calidad se apoya en un laboratorio propio con Zeiss CMM, escáner de perfil 3D, proyector óptico e inspección de botellas de muestra; los informes se entregan a solicitud.",
+            "LIHE es proveedor de moldes verificado por Coca-Cola en la región de Asia; Coca-Cola no es propietaria de LIHE ni la opera.",
+            "Límite: todas las cifras de este artículo son publicadas por cada empresa y usan indicadores distintos; no son resultados de una prueba comparativa.",
+            "Límite: LIHE no es un OEM de máquinas y no puede ofrecer funciones exclusivas de un OEM, como la conectividad integrada con la máquina o una garantía única de máquina y utillaje.",
+            "Límite: ni LIHE ni las páginas OEM citadas publican precios; solicite cotizaciones a cada proveedor con la misma especificación."
+          ]
+        },
+        {
+          "heading": "Para quién es adecuado LIHE",
+          "list": [
+            "Transformadores con varias marcas de máquinas que quieren un solo proveedor de moldes de tapas, moldes de soplado y piezas de conversión.",
+            "Embotelladores que planean aligerar o cambiar el cuello en utillaje existente, cuando una modernización por el 25%–40% del precio de un molde nuevo es una opción.",
+            "Productores de tapas que necesitan moldes de tapas unidas UE de 12 a 72 cavidades o utillaje de compresión para líneas SACMI CCM.",
+            "Plantas con moldes antiguos que necesitan una revisión completa en lugar de un molde nuevo."
+          ]
+        },
+        {
+          "heading": "Cuándo es más adecuado un proveedor OEM",
+          "list": [
+            "Necesita tecnología propia de un OEM, como el diseño Husky HyCAP 4.0 o la ventilación patentada XVENT de SIPA.",
+            "Quiere que una sola empresa sea responsable de la máquina y del utillaje a la vez.",
+            "Su proyecto es una conversión completa de línea que incluye máquinas, manipulación y diseño de envase, como describe Sidel en su servicio de conversión de líneas.",
+            "Su sistema de calidad exige utillaje original del OEM para una plataforma concreta."
+          ]
+        },
+        {
+          "heading": "Cómo iniciar con LIHE un proyecto de molde de tapas, molde de soplado o modernización",
+          "steps": [
+            "Envíe la marca y el modelo de máquina, el producto (tapa, botella o preforma), planos o muestras y la producción objetivo a sales@lihe-preform.com o al +886 938 198 675 (también WhatsApp).",
+            "Defina si necesita un molde nuevo, piezas de reemplazo o la modernización del utillaje existente.",
+            "Revise la propuesta de ingeniería de LIHE, preparada con CAD/CAM, simulación 3D y análisis de flujo.",
+            "Compare las cotizaciones de LIHE y del OEM para la misma especificación y plazo.",
+            "Defina los criterios de aceptación y solicite informes de medición Zeiss CMM y de validación.",
+            "Planifique la instalación, el apoyo en la puesta en marcha, el mantenimiento preventivo y el suministro de repuestos."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Es LIHE un proveedor OEM?",
+          "answer": "LIHE fabrica sus propios moldes, canales calientes y componentes, pero no construye inyectoras ni sopladoras. Su utillaje está diseñado para ser compatible con máquinas de Husky, SACMI, SIPA, NETSTAL, Sidel, Krones y otros."
+        },
+        {
+          "question": "¿Fabrica LIHE moldes para tapas unidas (tethered)?",
+          "answer": "Sí. Los moldes de inyección de tapas de LIHE cubren tapas de una y dos piezas, bandas de garantía y tapas unidas UE, de 12 a 72 cavidades, en tamaños como 26 mm, 28 mm, 2925, 3025 y 38 mm."
+        },
+        {
+          "question": "¿Para qué sopladoras fabrica LIHE moldes?",
+          "answer": "Para máquinas de dos etapas LIHE indica SIDEL, KRONES, SIG/KHS, TECH-LONG y NEWAMSTAR; para máquinas de una etapa, SIPA, ASB y AOKI. Las aplicaciones incluyen llenado en frío, llenado en caliente a unos 85–95 °C y aséptico."
+        },
+        {
+          "question": "¿Es más barata una modernización de LIHE que un molde OEM?",
+          "answer": "LIHE indica que modernizar un molde existente para aligeramiento cuesta el 25%–40% del precio de un molde nuevo. Los precios OEM no se publican en las páginas citadas, así que compare cotizaciones con la misma especificación."
+        },
+        {
+          "question": "¿Cómo comparo LIHE y un OEM de forma justa?",
+          "answer": "Use una única especificación por escrito, pida precios y plazos a ambos, solicite informes de inspección dimensional y pruebe muestras en su propia línea antes de decidir."
+        }
+      ]
+    }
+  }
+}

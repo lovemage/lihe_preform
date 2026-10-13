@@ -1,0 +1,356 @@
+{
+  "key": "page-products",
+  "updated": "2026-10-13",
+  "sources": [
+    { "label": "Wikipedia — Preform", "url": "https://en.wikipedia.org/wiki/Preform" },
+    { "label": "Wikipedia — Blow molding", "url": "https://en.wikipedia.org/wiki/Blow_molding" },
+    { "label": "Wikipedia — Compression molding", "url": "https://en.wikipedia.org/wiki/Compression_molding" },
+    { "label": "Wikipedia — Hot runner", "url": "https://en.wikipedia.org/wiki/Hot_runner" },
+    { "label": "Wikipedia — Bottle cap", "url": "https://en.wikipedia.org/wiki/Bottle_cap" },
+    { "label": "European Commission — Single-use plastics (Directive (EU) 2019/904)", "url": "https://environment.ec.europa.eu/topics/plastics/single-use-plastics_en" }
+  ],
+  "locales": {
+    "en": {
+      "heading": "PET mold buyer's guide: choosing between preform molds, closure molds, compression molds, blow molds and hot runners",
+      "intro": "A PET packaging mold is a precision tool that shapes plastic into a preform, a closure or a bottle on a specific production machine, so the right product family depends on which part you make and which machine it runs on. This buyer's guide compares LIHE's product families, explains the main choices inside each one (cavitation, closure process, filling type) and gives a short procedure for picking the right category page before you request a quote.",
+      "sections": [
+        {
+          "heading": "Comparison of LIHE product families",
+          "paragraphs": [
+            "Use this table to find the family that matches your part. Each family has a category page in the product list: Preform Mold, Closure Mold, Compression Mold, Blow Mold, Hot Runner System, Accessories and Mold Base Manufacturing."
+          ],
+          "table": {
+            "head": ["Product family", "What it produces", "Machine platforms", "LIHE range"],
+            "rows": [
+              ["PET preform mold", "Preforms with finished neck threads", "HUSKY, NETSTAL, SACMI, SIPA, Milacron and others", "2 to 160 cavities; over 12,000 cavities produced per year"],
+              ["Closure injection mold", "One-piece and two-piece caps, tamper-evident bands, EU tethered caps", "Closure injection molding machines", "12 to 72 cavities; 26mm, 28mm, 2925, 3025, 38mm"],
+              ["Compression mold", "Caps formed from metered melt on rotary lines", "SACMI CCM", "New and replacement tooling from existing parts"],
+              ["Blow mold", "Finished PET bottles", "Two-step: SIDEL, KRONES, SIG/KHS, TECH-LONG, NEWAMSTAR; one-step: SIPA, ASB, AOKI", "Cold fill, hot fill and aseptic; split-type quick-change molds"],
+              ["Hot runner system", "Melt delivery to every cavity", "HUSKY, NETSTAL, KM, SIPA", "Valve gate, up to 144 preform or 96 closure cavities"],
+              ["Accessories and conversion parts", "Parts that adapt the blowing machine and line", "Blow molding and line equipment", "Blowing pins, stretch rods, clamping bases, mold shells, star wheels, guides, neck grippers"],
+              ["Mold base", "The plate structure that carries cores and cavities", "Preform molds", "For preform molds up to 160 cavities"]
+            ]
+          }
+        },
+        {
+          "heading": "Start from the part you need to make",
+          "list": [
+            "You make preforms: start with the Preform Mold category, then check whether your hot runner is reused or replaced.",
+            "You make caps: choose between the Closure Mold category (injection) and the Compression Mold category (SACMI CCM lines), depending on your existing machines.",
+            "You make bottles from bought-in or own preforms: go to the Blow Mold category and choose by blowing machine and filling type.",
+            "You are changing a bottle, neck finish or machine on an existing line: look at Accessories for conversion parts, and at tooling conversion under Preform Mold.",
+            "You need parts for a mold you already own: replacement parts are made from your existing Husky, SACMI or Otto parts and take 4 weeks."
+          ]
+        },
+        {
+          "heading": "Preform mold and hot runner: cavitation and compatibility",
+          "paragraphs": [
+            "A preform mold and its hot runner work as one system: the hot runner keeps the PET melt at processing temperature and delivers it to each cavity, and the valve gate opens and closes each drop. Cavitation sets your output per cycle, but it must match the clamp size and platform of your injection machine."
+          ],
+          "list": [
+            "Preform molds range from 2 to 160 cavities; LIHE valve gate hot runners cover up to 144 preform cavities.",
+            "Neck finishes include PCO 1881, PCO 1810, 1716, 3025, 2925, 2622, 2522, 38mm, 45mm, 68mm, 80mm, 90mm wide-mouth, ROPP and custom designs.",
+            "If you keep an existing hot runner, replacement nozzle tips, valve pins, heaters and seals or a refurbishment may be enough.",
+            "LIHE's Husky Ultra-type hot runners carry a 3-year leakage-proof guarantee.",
+            "Lightweighting by 1g to 2g per preform can be done on an existing mold at 25%–40% of the price of a new one."
+          ]
+        },
+        {
+          "heading": "Closure mold vs compression mold: choosing a cap process",
+          "paragraphs": [
+            "Plastic caps can be produced by injection molding or by compression molding. The choice usually follows the machines you already run, the cap design and your output target."
+          ],
+          "list": [
+            "Closure injection molds fill each cavity through a runner system; LIHE builds them with 12 to 72 cavities for one-piece and two-piece caps.",
+            "Compression molding forms each cap from a metered portion of melt on a rotary line; the lower processing temperature gives shorter cooling, shorter cycles and lower energy use than injection.",
+            "EU tethered caps, required for many single-use beverage containers under Directive (EU) 2019/904, are available as closure mold configurations.",
+            "Cap mold parts are supplied in 4 weeks for both new and existing lines."
+          ]
+        },
+        {
+          "heading": "Choosing a blow mold: cold fill, hot fill or aseptic",
+          "paragraphs": [
+            "The filling process decides the type of blow mold more than the bottle shape does. Standard PET bottles start to deform above about 60°C, so products filled hot need a different mold and bottle design."
+          ],
+          "list": [
+            "Cold fill blow molds: for water, carbonated soft drinks and other products filled at ambient temperature, including KHS InnoPET Blomax and Krones Contiform cold fill sets.",
+            "Hot fill blow molds: for products filled at about 85–95°C, such as some juices and teas.",
+            "Aseptic blow molds: for products filled under sterile conditions.",
+            "Split-type quick-change molds: shorten changeover when one machine runs several bottle formats.",
+            "Water bottle molds are available for 330ml, 500ml, 550ml and 1.5L bottles."
+          ]
+        },
+        {
+          "heading": "Accessories, conversion parts and mold bases",
+          "list": [
+            "Blowing pins and stretch rods: wear parts on the blowing machine that are replaced periodically.",
+            "Clamping bases and mold shells: hold the blow mold in the machine and allow format changes.",
+            "Conversion parts: star wheels, guides and neck grippers that let the line handle a new bottle or neck finish.",
+            "Mold bases: machined on Mazak, Makino and Haas equipment, ground on Okamoto and verified on a Zeiss CMM.",
+            "Conversion parts are 100% interchangeable for Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps and Corvaglia systems."
+          ]
+        },
+        {
+          "heading": "How to choose the right product family",
+          "steps": [
+            "Identify the part you make (preform, cap or bottle) and the exact machine make and model it runs on.",
+            "Decide whether you need new tooling or can keep existing tooling with replacement or conversion parts.",
+            "For preforms, fix the neck finish, preform weight and cavitation; for caps, the cap type and process; for bottles, the filling type and bottle volume.",
+            "Open the matching category page and check the product details against your machine and neck finish.",
+            "Send drawings or samples with these details to sales@lihe-preform.com; standard PET molds take 8 weeks and pilot molds 20 days."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Do I need to buy the hot runner together with the preform mold?",
+          "answer": "Not necessarily. LIHE supplies complete hot runners for up to 144 preform cavities, but it also supplies replacement nozzle tips, valve pins, heaters and seals and refurbishes existing hot runners, so a new mold can be matched to a hot runner you already own."
+        },
+        {
+          "question": "What is the largest preform mold LIHE makes?",
+          "answer": "Preform molds are available with up to 160 cavities, and mold bases are built for preform molds of the same size."
+        },
+        {
+          "question": "Can one blow mold be used for both cold fill and hot fill?",
+          "answer": "No. Standard PET bottles deform above about 60°C, while hot fill products are filled at about 85–95°C. Hot fill needs its own mold and bottle design."
+        },
+        {
+          "question": "Should I choose compression or injection for caps?",
+          "answer": "It depends on your machines and cap design. Compression molding on SACMI CCM lines runs at a lower processing temperature, which shortens cooling and cycles and lowers energy use; injection closure molds with 12 to 72 cavities suit injection-based cap lines."
+        },
+        {
+          "question": "Does LIHE make parts for machines from other brands?",
+          "answer": "Yes. Conversion parts are 100% interchangeable for Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps and Corvaglia systems, and blow molds cover the main two-step and one-step blowing machines."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "Руководство покупателя пресс-форм ПЭТ: как выбрать между пресс-формами для преформ, формами для колпачков, компрессионными формами, выдувными формами и горячими каналами",
+      "intro": "Пресс-форма для ПЭТ-упаковки — это прецизионный инструмент, который придаёт пластику форму преформы, колпачка или бутылки на конкретной производственной машине, поэтому выбор продуктовой группы зависит от того, какое изделие вы делаете и на какой машине. Это руководство сравнивает продуктовые группы LIHE, объясняет основные решения внутри каждой из них (гнёздность, способ производства колпачков, тип розлива) и предлагает короткий порядок действий для выбора нужной страницы категории до запроса цены.",
+      "sections": [
+        {
+          "heading": "Сравнение продуктовых групп LIHE",
+          "paragraphs": [
+            "Используйте эту таблицу, чтобы найти группу, соответствующую вашему изделию. У каждой группы есть страница категории в каталоге: «Пресс-форма для преформ», «Форма для колпачков», «Компрессионная форма», «Выдувная форма», «Горячеканальная система», «Комплектующие» и «Изготовление плит пресс-форм»."
+          ],
+          "table": {
+            "head": ["Продуктовая группа", "Что производит", "Платформы машин", "Диапазон LIHE"],
+            "rows": [
+              ["Пресс-форма для ПЭТ-преформ", "Преформы с готовой резьбой горловины", "HUSKY, NETSTAL, SACMI, SIPA, Milacron и другие", "От 2 до 160 гнёзд; более 12 000 гнёзд в год"],
+              ["Литьевая форма для колпачков", "Одно- и двухкомпонентные колпачки, кольца контроля вскрытия, привязанные колпачки ЕС", "Термопластавтоматы для колпачков", "От 12 до 72 гнёзд; 26 мм, 28 мм, 2925, 3025, 38 мм"],
+              ["Компрессионная форма", "Колпачки из дозированного расплава на роторных линиях", "SACMI CCM", "Новая и сменная оснастка по существующим деталям"],
+              ["Выдувная форма", "Готовые ПЭТ-бутылки", "Двухстадийные: SIDEL, KRONES, SIG/KHS, TECH-LONG, NEWAMSTAR; одностадийные: SIPA, ASB, AOKI", "Холодный, горячий и асептический розлив; разъёмные формы быстрой смены"],
+              ["Горячеканальная система", "Подача расплава в каждое гнездо", "HUSKY, NETSTAL, KM, SIPA", "Запорные сопла, до 144 гнёзд для преформ или 96 для колпачков"],
+              ["Комплектующие и переналадочные детали", "Детали для адаптации выдувной машины и линии", "Выдувное и линейное оборудование", "Дутьевые и вытяжные штоки, прижимные основания, корпуса форм, звёздочки, направляющие, захваты горловины"],
+              ["Плита пресс-формы", "Несущая конструкция для знаков и матриц", "Пресс-формы для преформ", "Для пресс-форм преформ до 160 гнёзд"]
+            ]
+          }
+        },
+        {
+          "heading": "Начните с изделия, которое нужно производить",
+          "list": [
+            "Вы делаете преформы: начните с категории «Пресс-форма для преформ», затем решите, используется ли существующая горячеканальная система или заменяется.",
+            "Вы делаете колпачки: выбирайте между категорией «Форма для колпачков» (литьё под давлением) и «Компрессионная форма» (линии SACMI CCM) в зависимости от имеющихся машин.",
+            "Вы делаете бутылки из покупных или собственных преформ: переходите в категорию «Выдувная форма» и выбирайте по выдувной машине и типу розлива.",
+            "Вы меняете бутылку, горловину или машину на существующей линии: смотрите переналадочные детали в «Комплектующих» и переоснащение в разделе пресс-форм для преформ.",
+            "Вам нужны детали для уже имеющейся формы: запасные части изготавливаются по вашим существующим деталям Husky, SACMI или Otto за 4 недели."
+          ]
+        },
+        {
+          "heading": "Пресс-форма для преформ и горячий канал: гнёздность и совместимость",
+          "paragraphs": [
+            "Пресс-форма для преформ и её горячеканальная система работают как единое целое: горячий канал поддерживает расплав ПЭТ при температуре переработки и подаёт его в каждое гнездо, а запорное сопло открывает и закрывает каждый впуск. Гнёздность определяет выпуск за цикл, но она должна соответствовать усилию смыкания и платформе вашего термопластавтомата."
+          ],
+          "list": [
+            "Пресс-формы для преформ выпускаются на 2–160 гнёзд; горячеканальные системы LIHE с запорными соплами — до 144 гнёзд для преформ.",
+            "Горловины: PCO 1881, PCO 1810, 1716, 3025, 2925, 2622, 2522, 38 мм, 45 мм, 68 мм, 80 мм, широкие 90 мм, ROPP и индивидуальные конструкции.",
+            "Если существующая горячеканальная система сохраняется, может быть достаточно сменных наконечников сопел, запорных игл, нагревателей и уплотнений или её восстановления.",
+            "На горячие каналы LIHE типа Husky Ultra действует гарантия 3 года от протечек.",
+            "Облегчение преформы на 1–2 г может быть выполнено на существующей форме за 25–40% цены новой."
+          ]
+        },
+        {
+          "heading": "Форма для колпачков или компрессионная форма: выбор способа производства",
+          "paragraphs": [
+            "Пластиковые колпачки производят литьём под давлением или компрессионным формованием. Выбор обычно определяется уже имеющимися машинами, конструкцией колпачка и плановым выпуском."
+          ],
+          "list": [
+            "Литьевые формы для колпачков заполняют каждое гнездо через литниковую систему; LIHE изготавливает их на 12–72 гнезда для одно- и двухкомпонентных колпачков.",
+            "Компрессионное формование формирует каждый колпачок из дозированной порции расплава на роторной линии; более низкая температура переработки даёт более короткое охлаждение, более короткие циклы и меньшее энергопотребление, чем литьё.",
+            "Привязанные колпачки ЕС, обязательные для многих одноразовых ёмкостей для напитков согласно Директиве (ЕС) 2019/904, доступны в конфигурациях форм для колпачков.",
+            "Детали форм для колпачков поставляются за 4 недели как для новых, так и для существующих линий."
+          ]
+        },
+        {
+          "heading": "Выбор выдувной формы: холодный, горячий или асептический розлив",
+          "paragraphs": [
+            "Тип выдувной формы определяется процессом розлива больше, чем формой бутылки. Стандартные ПЭТ-бутылки начинают деформироваться при температуре выше примерно 60°C, поэтому для продуктов горячего розлива нужны другая форма и другая конструкция бутылки."
+          ],
+          "list": [
+            "Формы для холодного розлива: для воды, газированных напитков и других продуктов, разливаемых при комнатной температуре, включая комплекты KHS InnoPET Blomax и Krones Contiform.",
+            "Формы для горячего розлива: для продуктов, разливаемых при температуре около 85–95°C, например некоторых соков и чаёв.",
+            "Формы для асептического розлива: для продуктов, разливаемых в стерильных условиях.",
+            "Разъёмные формы быстрой смены: сокращают переналадку, когда одна машина выпускает несколько форматов бутылок.",
+            "Формы для бутылок с водой доступны для объёмов 330 мл, 500 мл, 550 мл и 1,5 л."
+          ]
+        },
+        {
+          "heading": "Комплектующие, переналадочные детали и плиты пресс-форм",
+          "list": [
+            "Дутьевые и вытяжные штоки: изнашиваемые детали выдувной машины, которые периодически заменяются.",
+            "Прижимные основания и корпуса форм: удерживают выдувную форму в машине и позволяют менять форматы.",
+            "Переналадочные детали: звёздочки, направляющие и захваты горловины, позволяющие линии работать с новой бутылкой или горловиной.",
+            "Плиты пресс-форм: обрабатываются на оборудовании Mazak, Makino и Haas, шлифуются на Okamoto и проверяются на КИМ Zeiss.",
+            "Переналадочные детали на 100% взаимозаменяемы для систем Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps и Corvaglia."
+          ]
+        },
+        {
+          "heading": "Как выбрать нужную продуктовую группу",
+          "steps": [
+            "Определите изделие (преформа, колпачок или бутылка) и точную марку и модель машины, на которой оно производится.",
+            "Решите, нужна ли новая оснастка или можно сохранить существующую, заменив или переналадив детали.",
+            "Для преформ зафиксируйте горловину, массу и гнёздность; для колпачков — тип колпачка и способ производства; для бутылок — тип розлива и объём.",
+            "Откройте соответствующую страницу категории и сверьте характеристики изделия с вашей машиной и горловиной.",
+            "Отправьте чертежи или образцы с этими данными на sales@lihe-preform.com; стандартная форма ПЭТ изготавливается за 8 недель, пилотная — за 20 дней."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Нужно ли покупать горячий канал вместе с пресс-формой для преформ?",
+          "answer": "Не обязательно. LIHE поставляет полные горячеканальные системы до 144 гнёзд для преформ, но также поставляет сменные наконечники сопел, запорные иглы, нагреватели и уплотнения и восстанавливает существующие системы, поэтому новую форму можно согласовать с уже имеющимся горячим каналом."
+        },
+        {
+          "question": "Какую самую большую пресс-форму для преформ делает LIHE?",
+          "answer": "Пресс-формы для преформ выпускаются до 160 гнёзд, и плиты изготавливаются для форм того же размера."
+        },
+        {
+          "question": "Можно ли использовать одну выдувную форму и для холодного, и для горячего розлива?",
+          "answer": "Нет. Стандартные ПЭТ-бутылки деформируются при температуре выше примерно 60°C, а продукты горячего розлива разливаются при 85–95°C. Для горячего розлива нужны собственная форма и конструкция бутылки."
+        },
+        {
+          "question": "Что выбрать для колпачков — компрессию или литьё?",
+          "answer": "Это зависит от ваших машин и конструкции колпачка. Компрессионное формование на линиях SACMI CCM идёт при более низкой температуре переработки, что сокращает охлаждение и циклы и снижает энергопотребление; литьевые формы для колпачков на 12–72 гнезда подходят для линий на базе литья под давлением."
+        },
+        {
+          "question": "Делает ли LIHE детали для машин других марок?",
+          "answer": "Да. Переналадочные детали на 100% взаимозаменяемы для систем Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps и Corvaglia, а выдувные формы охватывают основные двухстадийные и одностадийные выдувные машины."
+        }
+      ]
+    },
+    "es": {
+      "heading": "Guía de compra de moldes PET: cómo elegir entre moldes de preforma, moldes de tapas, moldes de compresión, moldes de soplado y canales calientes",
+      "intro": "Un molde para envases PET es una herramienta de precisión que da forma al plástico como preforma, tapa o botella en una máquina de producción concreta, por lo que la familia de productos adecuada depende de qué pieza fabrica y en qué máquina. Esta guía de compra compara las familias de productos de LIHE, explica las decisiones principales dentro de cada una (número de cavidades, proceso de tapas, tipo de llenado) y ofrece un procedimiento breve para elegir la página de categoría correcta antes de pedir una cotización.",
+      "sections": [
+        {
+          "heading": "Comparación de las familias de productos de LIHE",
+          "paragraphs": [
+            "Use esta tabla para encontrar la familia que corresponde a su pieza. Cada familia tiene una página de categoría en la lista de productos: Molde de preforma, Molde de tapas, Molde de compresión, Molde de soplado, Sistema de canal caliente, Accesorios y Fabricación de bases de molde."
+          ],
+          "table": {
+            "head": ["Familia de productos", "Qué produce", "Plataformas de máquina", "Gama de LIHE"],
+            "rows": [
+              ["Molde de preforma PET", "Preformas con la rosca del cuello terminada", "HUSKY, NETSTAL, SACMI, SIPA, Milacron y otras", "De 2 a 160 cavidades; más de 12.000 cavidades fabricadas al año"],
+              ["Molde de inyección de tapas", "Tapas de una y dos piezas, bandas de garantía, tapas cautivas de la UE", "Inyectoras de tapas", "De 12 a 72 cavidades; 26 mm, 28 mm, 2925, 3025, 38 mm"],
+              ["Molde de compresión", "Tapas formadas con material fundido dosificado en líneas rotativas", "SACMI CCM", "Utillaje nuevo y de reposición a partir de piezas existentes"],
+              ["Molde de soplado", "Botellas PET terminadas", "Dos etapas: SIDEL, KRONES, SIG/KHS, TECH-LONG, NEWAMSTAR; una etapa: SIPA, ASB, AOKI", "Llenado en frío, en caliente y aséptico; moldes partidos de cambio rápido"],
+              ["Sistema de canal caliente", "Distribución del material fundido a cada cavidad", "HUSKY, NETSTAL, KM, SIPA", "Con obturador, hasta 144 cavidades de preforma o 96 de tapa"],
+              ["Accesorios y piezas de conversión", "Piezas que adaptan la sopladora y la línea", "Equipos de soplado y de línea", "Pistones de soplado, varillas de estiramiento, bases de cierre, carcasas de molde, estrellas, guías, pinzas de cuello"],
+              ["Base de molde", "La estructura de placas que soporta machos y cavidades", "Moldes de preforma", "Para moldes de preforma de hasta 160 cavidades"]
+            ]
+          }
+        },
+        {
+          "heading": "Empiece por la pieza que necesita fabricar",
+          "list": [
+            "Fabrica preformas: empiece por la categoría Molde de preforma y después decida si reutiliza o sustituye su canal caliente.",
+            "Fabrica tapas: elija entre la categoría Molde de tapas (inyección) y Molde de compresión (líneas SACMI CCM), según las máquinas que ya tenga.",
+            "Fabrica botellas a partir de preformas compradas o propias: vaya a la categoría Molde de soplado y elija según la sopladora y el tipo de llenado.",
+            "Cambia de botella, cuello o máquina en una línea existente: consulte Accesorios para las piezas de conversión y la conversión de utillaje dentro de Molde de preforma.",
+            "Necesita piezas para un molde que ya tiene: las piezas de repuesto se fabrican a partir de sus piezas existentes de Husky, SACMI u Otto y tardan 4 semanas."
+          ]
+        },
+        {
+          "heading": "Molde de preforma y canal caliente: cavidades y compatibilidad",
+          "paragraphs": [
+            "Un molde de preforma y su canal caliente funcionan como un único sistema: el canal caliente mantiene el PET fundido a temperatura de proceso y lo lleva a cada cavidad, y el obturador abre y cierra cada punto de inyección. El número de cavidades fija la producción por ciclo, pero debe corresponder a la fuerza de cierre y a la plataforma de su inyectora."
+          ],
+          "list": [
+            "Los moldes de preforma van de 2 a 160 cavidades; los canales calientes con obturador de LIHE cubren hasta 144 cavidades de preforma.",
+            "Los cuellos incluyen PCO 1881, PCO 1810, 1716, 3025, 2925, 2622, 2522, 38 mm, 45 mm, 68 mm, 80 mm, boca ancha de 90 mm, ROPP y diseños a medida.",
+            "Si conserva un canal caliente existente, pueden bastar puntas de boquilla, agujas obturadoras, resistencias y juntas de repuesto o un reacondicionamiento.",
+            "Los canales calientes de LIHE tipo Husky Ultra tienen una garantía de 3 años contra fugas.",
+            "El aligeramiento de 1 g a 2 g por preforma puede hacerse sobre un molde existente por entre el 25% y el 40% del precio de uno nuevo."
+          ]
+        },
+        {
+          "heading": "Molde de tapas o molde de compresión: elegir el proceso de tapas",
+          "paragraphs": [
+            "Las tapas de plástico se fabrican por inyección o por compresión. La elección suele depender de las máquinas que ya tiene, del diseño de la tapa y de la producción prevista."
+          ],
+          "list": [
+            "Los moldes de inyección de tapas llenan cada cavidad a través de un sistema de alimentación; LIHE los fabrica de 12 a 72 cavidades para tapas de una y dos piezas.",
+            "El moldeo por compresión forma cada tapa a partir de una porción dosificada de material fundido en una línea rotativa; la menor temperatura de proceso permite un enfriamiento más corto, ciclos más cortos y menor consumo de energía que la inyección.",
+            "Las tapas cautivas de la UE, obligatorias para muchos envases de bebidas de un solo uso según la Directiva (UE) 2019/904, están disponibles como configuraciones de moldes de tapas.",
+            "Las piezas de molde de tapas se suministran en 4 semanas, tanto para líneas nuevas como existentes."
+          ]
+        },
+        {
+          "heading": "Elegir un molde de soplado: llenado en frío, en caliente o aséptico",
+          "paragraphs": [
+            "El proceso de llenado decide el tipo de molde de soplado más que la forma de la botella. Las botellas PET estándar empiezan a deformarse por encima de unos 60°C, así que los productos que se llenan en caliente necesitan otro molde y otro diseño de botella."
+          ],
+          "list": [
+            "Moldes de llenado en frío: para agua, refrescos con gas y otros productos llenados a temperatura ambiente, incluidos los juegos KHS InnoPET Blomax y Krones Contiform.",
+            "Moldes de llenado en caliente: para productos llenados a unos 85–95°C, como algunos zumos y tés.",
+            "Moldes asépticos: para productos llenados en condiciones estériles.",
+            "Moldes partidos de cambio rápido: acortan el cambio de formato cuando una máquina produce varios formatos de botella.",
+            "Hay moldes para botellas de agua de 330 ml, 500 ml, 550 ml y 1,5 L."
+          ]
+        },
+        {
+          "heading": "Accesorios, piezas de conversión y bases de molde",
+          "list": [
+            "Pistones de soplado y varillas de estiramiento: piezas de desgaste de la sopladora que se sustituyen periódicamente.",
+            "Bases de cierre y carcasas de molde: sujetan el molde de soplado en la máquina y permiten cambiar de formato.",
+            "Piezas de conversión: estrellas, guías y pinzas de cuello que permiten a la línea trabajar con una nueva botella o un nuevo cuello.",
+            "Bases de molde: mecanizadas en equipos Mazak, Makino y Haas, rectificadas en Okamoto y verificadas en una MMC Zeiss.",
+            "Las piezas de conversión son 100% intercambiables para sistemas Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps y Corvaglia."
+          ]
+        },
+        {
+          "heading": "Cómo elegir la familia de productos adecuada",
+          "steps": [
+            "Identifique la pieza que fabrica (preforma, tapa o botella) y la marca y el modelo exactos de la máquina en que se produce.",
+            "Decida si necesita utillaje nuevo o si puede conservar el actual con piezas de repuesto o de conversión.",
+            "Para preformas, fije el cuello, el peso y el número de cavidades; para tapas, el tipo de tapa y el proceso; para botellas, el tipo de llenado y el volumen.",
+            "Abra la página de categoría correspondiente y compare los detalles del producto con su máquina y su cuello.",
+            "Envíe planos o muestras con estos datos a sales@lihe-preform.com; los moldes PET estándar tardan 8 semanas y los moldes piloto, 20 días."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Tengo que comprar el canal caliente junto con el molde de preforma?",
+          "answer": "No necesariamente. LIHE suministra canales calientes completos para hasta 144 cavidades de preforma, pero también puntas de boquilla, agujas obturadoras, resistencias y juntas de repuesto, y reacondiciona canales calientes existentes, de modo que un molde nuevo puede adaptarse a un canal caliente que ya tenga."
+        },
+        {
+          "question": "¿Cuál es el molde de preforma más grande que fabrica LIHE?",
+          "answer": "Los moldes de preforma se fabrican con hasta 160 cavidades, y las bases de molde se construyen para moldes de preforma del mismo tamaño."
+        },
+        {
+          "question": "¿Puede usarse un mismo molde de soplado para llenado en frío y en caliente?",
+          "answer": "No. Las botellas PET estándar se deforman por encima de unos 60°C, mientras que los productos de llenado en caliente se llenan a unos 85–95°C. El llenado en caliente necesita su propio molde y diseño de botella."
+        },
+        {
+          "question": "¿Compresión o inyección para fabricar tapas?",
+          "answer": "Depende de sus máquinas y del diseño de la tapa. El moldeo por compresión en líneas SACMI CCM trabaja a menor temperatura de proceso, lo que acorta el enfriamiento y los ciclos y reduce el consumo de energía; los moldes de inyección de tapas de 12 a 72 cavidades encajan en líneas de tapas basadas en inyección."
+        },
+        {
+          "question": "¿LIHE fabrica piezas para máquinas de otras marcas?",
+          "answer": "Sí. Las piezas de conversión son 100% intercambiables para sistemas Husky, SACMI, SIPA, NETSTAL, MHT, OTTO, ASB, Krupps y Corvaglia, y los moldes de soplado cubren las principales sopladoras de dos etapas y de una etapa."
+        }
+      ]
+    }
+  }
+}

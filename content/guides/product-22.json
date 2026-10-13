@@ -1,0 +1,431 @@
+{
+  "key": "product-22",
+  "updated": "2026-10-13",
+  "sources": [
+    {
+      "label": "Wikipedia — Blow molding",
+      "url": "https://en.wikipedia.org/wiki/Blow_molding"
+    },
+    {
+      "label": "Wikipedia — Preform",
+      "url": "https://en.wikipedia.org/wiki/Preform"
+    },
+    {
+      "label": "Wikipedia — Aluminium alloy",
+      "url": "https://en.wikipedia.org/wiki/Aluminium_alloy"
+    },
+    {
+      "label": "Wikipedia — Tool steel",
+      "url": "https://en.wikipedia.org/wiki/Tool_steel"
+    },
+    {
+      "label": "Wikipedia — Surface finish",
+      "url": "https://en.wikipedia.org/wiki/Surface_finish"
+    },
+    {
+      "label": "Wikipedia — Polyethylene terephthalate",
+      "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate"
+    }
+  ],
+  "locales": {
+    "en": {
+      "heading": "Blow mold set technical reference: mold shells, base molds, neck plates, cooling, venting and bottle development",
+      "intro": "A blow mold set is the group of parts that one blowing station needs to form a PET bottle: two mold shells, a base mold and a neck plate, plus conversion parts where the mold must fit a different machine. This reference explains what each part does, how materials, cooling, venting and surface finish are chosen in general terms, and the steps from bottle design to approved trial bottles. Use it when you prepare a new bottle project or check an existing mold set.",
+      "sections": [
+        {
+          "heading": "Parts of a PET blow mold set and what to check",
+          "paragraphs": [
+            "On a rotary blow molder every station carries its own set, so a machine with many stations needs the same number of identical sets. Each part has a clear job, and each one has typical points to check when a set is received or returned from production."
+          ],
+          "table": {
+            "head": [
+              "Part",
+              "Function",
+              "What to check"
+            ],
+            "rows": [
+              [
+                "Mold shells (two halves)",
+                "Form the bottle body, shoulder and label panel; carry cooling or heating channels",
+                "Parting line fit, cavity surface, vent slots, cooling connections"
+              ],
+              [
+                "Base mold",
+                "Forms the bottle base, the thickest and most stressed area; usually cooled separately",
+                "Base profile, centering to the shells, vent holes in base feet"
+              ],
+              [
+                "Neck plate",
+                "Supports the preform neck and support ring so the finished thread is not deformed",
+                "Seat diameter, wear on the contact faces, alignment with the stretch rod"
+              ],
+              [
+                "Cavity inserts (split-type molds)",
+                "Exchangeable cavity parts inside a fixed outer shell for quick format change",
+                "Locating faces, fastening, sealing of cooling passages"
+              ],
+              [
+                "Conversion parts",
+                "Adapt one mold design to the mold carrier of another machine",
+                "Mounting dimensions and locking interface of the target machine"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Blow mold materials in general terms",
+          "paragraphs": [
+            "No single material suits every part. The choice balances heat transfer, wear, corrosion and weight, and it is agreed for each project according to output, filling type and the machine."
+          ],
+          "list": [
+            "Aluminium alloys: light and good at conducting heat, so the bottle cools quickly; easy to machine and polish, which makes them a common choice for cavity shells on cold fill molds.",
+            "Stainless steels: resist corrosion from cooling water and condensation and keep their surface longer; often used for base molds, high-volume molds and parts that run warm.",
+            "Tool steels: hard and wear resistant, used for parts with sliding or clamping contact such as neck plates and locking elements.",
+            "Weight matters on quick-change machines: lighter shells are easier for operators to handle during a format change.",
+            "Hot fill molds run at elevated temperature for long periods, so material and cavity finish are selected for long-term operation under heat."
+          ]
+        },
+        {
+          "heading": "Cooling channel design in blow mold shells and base molds",
+          "paragraphs": [
+            "The bottle must be cool and stable before it leaves the mold, so cooling has a direct effect on bottle quality and on how fast the machine can run. Channels are drilled or milled close to the cavity and connected to the machine's water circuit through the mold carrier."
+          ],
+          "list": [
+            "Shell cooling follows the cavity shape so the bottle wall cools evenly from shoulder to base.",
+            "The base mold has its own circuit because the base holds more material and stays warm longest.",
+            "Flow is balanced between all sets on the machine so that every station produces the same bottle.",
+            "Clean, treated water keeps the channels free of scale; scale acts as insulation and makes bottle quality drift.",
+            "In heat-set molds the same idea is used in reverse: the shells carry hot oil to hold the PET at an elevated temperature."
+          ]
+        },
+        {
+          "heading": "Venting and surface finish of the blow mold cavity",
+          "paragraphs": [
+            "When the preform expands, the air between the PET and the cavity wall must escape in a very short time. If it cannot, the bottle shows soft details, rounded edges or trapped-air marks. Surface finish and venting are therefore designed together."
+          ],
+          "list": [
+            "Vent slots along the parting line let air leave the main body area.",
+            "Small vent holes or vent inserts are placed in deep details such as logos, ribs, grip areas and the feet of a petaloid base.",
+            "A finely blasted (textured) cavity surface helps air escape and is often used outside the clear label areas.",
+            "A polished cavity gives a glossy bottle surface; any scratch or mark on it transfers directly to every bottle.",
+            "Matte, frosted or embossed designs are produced by local texturing or engraving of the cavity.",
+            "An accurate fit between the two shells and the base mold keeps the parting line on the bottle thin and even."
+          ]
+        },
+        {
+          "heading": "Bottle development steps: from design to preform matching, mold and trial",
+          "paragraphs": [
+            "A new bottle is developed as a project in which the bottle, the preform and the mold are checked against each other before the full set is built. LIHE's engineering and design center uses CAD/CAM, 3D simulation and flow analysis before production."
+          ],
+          "steps": [
+            "Collect the requirements: capacity, target bottle weight, neck finish, filling method, label size, carton or pallet limits and the blow molding machine.",
+            "Design the bottle in 3D and calculate the brimful and nominal volume; if only a sample exists, it can be measured to create the drawing.",
+            "Match the preform: check stretch ratios, wall thickness and weight so the preform gives even material distribution in the bottle, or propose a new or lightweighted preform.",
+            "Build a pilot mold (published lead time 20 days) and blow trial bottles on the customer's machine type.",
+            "Test the trial bottles for wall thickness distribution, volume, top load and, for carbonated products, pressure resistance; adjust the design if needed.",
+            "Approve the design and produce the full mold set (standard PET molds 8 weeks), with inspection on the in-house Zeiss CMM.",
+            "Install the set and support machine start-up, with installation and start-up assistance available from the technical team."
+          ]
+        },
+        {
+          "heading": "Spare parts, conversion and refurbishment of blow mold sets",
+          "list": [
+            "Replacement parts such as base molds, neck plates and cavity inserts have a published lead time of 4 weeks.",
+            "Keeping spare base molds for high-volume bottles prevents one damaged part from stopping a station.",
+            "Conversion parts let an existing bottle design run on another machine brand without a new bottle approval.",
+            "Lightweighting projects adjust the bottle geometry and base design together with the preform, which can reduce the PET used per bottle.",
+            "Mold refurbishment programs restore worn sets; validation and inspection reports are available on request."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Why is the base mold a separate part of the blow mold?",
+          "answer": "The base is the thickest and most stressed area of the bottle, and on most machines the base mold moves separately from the shells. A separate part can have its own cooling circuit, can be changed when only the base design changes, and can be kept as a spare."
+        },
+        {
+          "question": "Can you build a blow mold from a sample bottle without a drawing?",
+          "answer": "A sample bottle is a useful starting point. Send it together with your requirements and ask LIHE sales to confirm whether the 3D model and drawing can be produced from it; LIHE's QC lab includes a 3D profile scanner and bottle sample inspection equipment. The preform still has to be matched, and trial bottles are checked before the full set is produced."
+        },
+        {
+          "question": "What does preform matching mean?",
+          "answer": "It means checking that the preform's length, diameter, wall thickness and weight suit the bottle, so that the PET stretches evenly into every part of the cavity. A poorly matched preform causes thin spots, thick bases or haze, even in a well-made mold."
+        },
+        {
+          "question": "Do all blowing stations need identical mold sets?",
+          "answer": "Yes. Each station produces bottles for the same line, so the cavity, base and venting must be the same in every set. Sets are inspected to the same drawing so bottles from all stations behave the same on the filler and labeller."
+        },
+        {
+          "question": "Can an existing blow mold be changed for a lighter bottle?",
+          "answer": "Often it can. Lightweighting usually combines a lighter preform with changes to the base and wall geometry. Whether the existing shells can be modified or new cavity inserts are needed depends on the size of the change."
+        }
+      ]
+    },
+    "ru": {
+      "heading": "Технический справочник по комплекту выдувной формы: полуформы, донные формы, плиты горла, охлаждение, вентиляция и разработка бутылки",
+      "intro": "Комплект выдувной формы — это набор деталей, необходимых одной выдувной станции для формования ПЭТ-бутылки: две полуформы, донная форма и плита горла, а также переходные детали, если форма должна подходить к другой машине. В справочнике объясняется назначение каждой детали, общие принципы выбора материалов, охлаждения, вентиляции и отделки поверхности, а также этапы от проекта бутылки до утверждённых пробных образцов. Используйте его при подготовке нового проекта бутылки или проверке имеющегося комплекта.",
+      "sections": [
+        {
+          "heading": "Детали комплекта выдувной формы для ПЭТ и что проверять",
+          "paragraphs": [
+            "На ротационной выдувной машине каждая станция несёт свой комплект, поэтому машине с большим числом станций нужно столько же одинаковых комплектов. У каждой детали своя задача и типичные точки контроля при получении комплекта или его возврате из производства."
+          ],
+          "table": {
+            "head": [
+              "Деталь",
+              "Назначение",
+              "Что проверять"
+            ],
+            "rows": [
+              [
+                "Полуформы (две половины)",
+                "Формируют корпус, плечики и зону этикетки; содержат каналы охлаждения или нагрева",
+                "Прилегание по линии разъёма, поверхность полости, вентиляционные щели, подключения охлаждения"
+              ],
+              [
+                "Донная форма",
+                "Формирует дно — самую толстую и нагруженную зону бутылки; обычно охлаждается отдельно",
+                "Профиль дна, центрирование относительно полуформ, вентиляционные отверстия в ножках дна"
+              ],
+              [
+                "Плита горла",
+                "Поддерживает горло и опорное кольцо преформы, чтобы готовая резьба не деформировалась",
+                "Диаметр посадки, износ контактных поверхностей, соосность с вытягивающим штоком"
+              ],
+              [
+                "Вставки полостей (разъёмные формы)",
+                "Сменные части полости внутри неподвижной наружной обоймы для быстрой смены формата",
+                "Базовые поверхности, крепёж, уплотнение каналов охлаждения"
+              ],
+              [
+                "Переходные детали",
+                "Адаптируют одну конструкцию формы к формодержателю другой машины",
+                "Присоединительные размеры и интерфейс фиксации целевой машины"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Материалы выдувных форм: общие принципы",
+          "paragraphs": [
+            "Ни один материал не подходит для всех деталей. Выбор учитывает теплопередачу, износ, коррозию и вес и согласуется для каждого проекта в зависимости от производительности, типа розлива и машины."
+          ],
+          "list": [
+            "Алюминиевые сплавы: лёгкие и хорошо проводят тепло, поэтому бутылка быстро охлаждается; легко обрабатываются и полируются, поэтому часто применяются для полуформ холодного розлива.",
+            "Нержавеющие стали: устойчивы к коррозии от охлаждающей воды и конденсата и дольше сохраняют поверхность; часто применяются для донных форм, форм большого ресурса и деталей, работающих в тепле.",
+            "Инструментальные стали: твёрдые и износостойкие, применяются для деталей со скользящим или зажимным контактом, например плит горла и элементов фиксации.",
+            "Вес важен на машинах с быстрой сменой: лёгкие полуформы проще для операторов при смене формата.",
+            "Формы горячего розлива долго работают при повышенной температуре, поэтому материал и отделка полости выбираются для длительной работы в нагретом состоянии."
+          ]
+        },
+        {
+          "heading": "Каналы охлаждения в полуформах и донных формах",
+          "paragraphs": [
+            "Бутылка должна остыть и стать стабильной до выхода из формы, поэтому охлаждение напрямую влияет на качество бутылки и скорость машины. Каналы сверлят или фрезеруют близко к полости и подключают к водяному контуру машины через формодержатель."
+          ],
+          "list": [
+            "Охлаждение полуформ повторяет контур полости, чтобы стенка остывала равномерно от плечиков до дна.",
+            "Донная форма имеет собственный контур, так как в дне больше материала и оно дольше остаётся тёплым.",
+            "Расход воды балансируется между всеми комплектами машины, чтобы каждая станция выпускала одинаковую бутылку.",
+            "Чистая подготовленная вода предотвращает накипь в каналах; накипь работает как изолятор и вызывает дрейф качества бутылки.",
+            "В формах с термофиксацией тот же принцип используется наоборот: полуформы несут горячее масло, удерживая ПЭТ при повышенной температуре."
+          ]
+        },
+        {
+          "heading": "Вентиляция и отделка поверхности полости выдувной формы",
+          "paragraphs": [
+            "При раздуве преформы воздух между ПЭТ и стенкой полости должен уйти за очень короткое время. Если этого не происходит, на бутылке появляются нечёткие детали, скруглённые кромки или следы запертого воздуха. Поэтому отделку поверхности и вентиляцию проектируют вместе."
+          ],
+          "list": [
+            "Вентиляционные щели вдоль линии разъёма выводят воздух из зоны корпуса.",
+            "Небольшие вентиляционные отверстия или вставки размещают в глубоких элементах: логотипах, рёбрах, зонах захвата и ножках лепесткового дна.",
+            "Мелкоструйная (текстурированная) поверхность полости помогает выходу воздуха и часто применяется вне прозрачных зон этикетки.",
+            "Полированная полость даёт глянцевую бутылку; любая царапина на ней переносится на каждую бутылку.",
+            "Матовые, «морозные» или рельефные элементы получают местным текстурированием или гравировкой полости.",
+            "Точное прилегание двух полуформ и донной формы обеспечивает тонкую и ровную линию разъёма на бутылке."
+          ]
+        },
+        {
+          "heading": "Этапы разработки бутылки: проект, подбор преформы, форма и испытания",
+          "paragraphs": [
+            "Новая бутылка разрабатывается как проект, в котором бутылка, преформа и форма проверяются друг относительно друга до изготовления полного комплекта. Инженерно-конструкторский центр LIHE использует CAD/CAM, 3D-моделирование и анализ течения до начала производства."
+          ],
+          "steps": [
+            "Соберите требования: объём, целевой вес бутылки, горло, способ розлива, размер этикетки, ограничения по коробу или паллете и выдувную машину.",
+            "Спроектируйте бутылку в 3D и рассчитайте полный и номинальный объём; если есть только образец, его можно измерить для создания чертежа.",
+            "Подберите преформу: проверьте степени вытяжки, толщину стенки и вес, чтобы материал распределялся равномерно, или предложите новую либо облегчённую преформу.",
+            "Изготовьте пилотную форму (опубликованный срок — 20 дней) и выдуйте пробные бутылки на машине того же типа, что у заказчика.",
+            "Проверьте пробные бутылки на распределение толщины стенки, объём, осевую нагрузку и, для газированных продуктов, стойкость к давлению; при необходимости скорректируйте конструкцию.",
+            "Утвердите конструкцию и изготовьте полный комплект (стандартные ПЭТ-формы — 8 недель) с контролем на собственной КИМ Zeiss.",
+            "Установите комплект и проведите запуск машины при поддержке технической команды по монтажу и пусконаладке."
+          ]
+        },
+        {
+          "heading": "Запасные части, переоснащение и восстановление комплектов выдувных форм",
+          "list": [
+            "Запасные части — донные формы, плиты горла и вставки полостей — имеют опубликованный срок поставки 4 недели.",
+            "Запасные донные формы для массовых бутылок не дают одной повреждённой детали остановить станцию.",
+            "Переходные детали позволяют выпускать существующую бутылку на машине другой марки без повторного утверждения бутылки.",
+            "Проекты облегчения изменяют геометрию бутылки и дна вместе с преформой, что может снизить расход ПЭТ на бутылку.",
+            "Программы восстановления форм возвращают работоспособность изношенным комплектам; протоколы валидации и контроля предоставляются по запросу."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Почему донная форма — отдельная деталь выдувной формы?",
+          "answer": "Дно — самая толстая и нагруженная зона бутылки, и на большинстве машин донная форма движется отдельно от полуформ. Отдельная деталь может иметь собственный контур охлаждения, меняться при изменении только дна и храниться как запасная."
+        },
+        {
+          "question": "Можно ли изготовить выдувную форму по образцу бутылки без чертежа?",
+          "answer": "Образец бутылки — хорошая отправная точка. Отправьте его вместе с требованиями и уточните у отдела продаж LIHE, можно ли построить по нему 3D-модель и чертёж; в лаборатории ОТК LIHE есть 3D-сканер профиля и оборудование для контроля образцов бутылок. Преформу всё равно нужно подобрать, а пробные бутылки проверяются до изготовления полного комплекта."
+        },
+        {
+          "question": "Что означает подбор преформы?",
+          "answer": "Это проверка того, что длина, диаметр, толщина стенки и вес преформы подходят к бутылке, чтобы ПЭТ равномерно растягивался во все части полости. Неподходящая преформа даёт тонкие места, толстое дно или помутнение даже в хорошо изготовленной форме."
+        },
+        {
+          "question": "Нужны ли всем выдувным станциям одинаковые комплекты?",
+          "answer": "Да. Все станции выпускают бутылки для одной линии, поэтому полость, дно и вентиляция должны быть одинаковыми в каждом комплекте. Комплекты проверяются по одному чертежу, чтобы бутылки со всех станций одинаково вели себя на розливе и этикетировке."
+        },
+        {
+          "question": "Можно ли изменить существующую выдувную форму под более лёгкую бутылку?",
+          "answer": "Часто можно. Облегчение обычно сочетает более лёгкую преформу с изменениями дна и геометрии стенки. Можно ли доработать существующие полуформы или нужны новые вставки полостей, зависит от масштаба изменений."
+        }
+      ]
+    },
+    "es": {
+      "heading": "Referencia técnica del juego de moldes de soplado: carcasas, moldes de fondo, placas de cuello, refrigeración, venteo y desarrollo de botellas",
+      "intro": "Un juego de moldes de soplado es el conjunto de piezas que necesita una estación de soplado para formar una botella PET: dos carcasas de molde, un molde de fondo y una placa de cuello, además de piezas de conversión cuando el molde debe encajar en otra máquina. Esta referencia explica la función de cada pieza, cómo se eligen en términos generales los materiales, la refrigeración, el venteo y el acabado superficial, y los pasos desde el diseño de la botella hasta las botellas de prueba aprobadas. Úsela al preparar un nuevo proyecto de botella o al revisar un juego existente.",
+      "sections": [
+        {
+          "heading": "Piezas de un juego de moldes de soplado PET y qué revisar",
+          "paragraphs": [
+            "En una sopladora rotativa cada estación lleva su propio juego, por lo que una máquina con muchas estaciones necesita el mismo número de juegos idénticos. Cada pieza tiene una función clara y unos puntos típicos de control al recibir el juego o cuando vuelve de producción."
+          ],
+          "table": {
+            "head": [
+              "Pieza",
+              "Función",
+              "Qué revisar"
+            ],
+            "rows": [
+              [
+                "Carcasas del molde (dos mitades)",
+                "Forman el cuerpo, el hombro y la zona de etiqueta; llevan canales de refrigeración o calefacción",
+                "Ajuste en la línea de partición, superficie de la cavidad, ranuras de venteo, conexiones de refrigeración"
+              ],
+              [
+                "Molde de fondo",
+                "Forma la base, la zona más gruesa y más solicitada; normalmente con refrigeración propia",
+                "Perfil de la base, centrado respecto a las carcasas, orificios de venteo en los pies de la base"
+              ],
+              [
+                "Placa de cuello",
+                "Sostiene el cuello y el anillo de soporte de la preforma para que la rosca no se deforme",
+                "Diámetro de asiento, desgaste de las caras de contacto, alineación con la varilla de estirado"
+              ],
+              [
+                "Insertos de cavidad (moldes tipo partido)",
+                "Partes de cavidad intercambiables dentro de una carcasa exterior fija para cambiar rápido de formato",
+                "Caras de posicionamiento, fijación, estanqueidad de los pasos de refrigeración"
+              ],
+              [
+                "Piezas de conversión",
+                "Adaptan un diseño de molde al portamoldes de otra máquina",
+                "Cotas de montaje e interfaz de bloqueo de la máquina de destino"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Materiales de moldes de soplado en términos generales",
+          "paragraphs": [
+            "Ningún material sirve para todas las piezas. La elección equilibra transmisión de calor, desgaste, corrosión y peso, y se acuerda en cada proyecto según la producción, el tipo de llenado y la máquina."
+          ],
+          "list": [
+            "Aleaciones de aluminio: ligeras y buenas conductoras del calor, por lo que la botella se enfría rápido; fáciles de mecanizar y pulir, lo que las hace habituales en carcasas de moldes de llenado en frío.",
+            "Aceros inoxidables: resisten la corrosión del agua de refrigeración y la condensación y conservan la superficie más tiempo; se usan a menudo en moldes de fondo, moldes de gran producción y piezas que trabajan calientes.",
+            "Aceros de herramienta: duros y resistentes al desgaste, para piezas con contacto de deslizamiento o de cierre, como placas de cuello y elementos de bloqueo.",
+            "El peso importa en máquinas de cambio rápido: las carcasas más ligeras son más fáciles de manejar para los operarios durante un cambio de formato.",
+            "Los moldes de llenado en caliente trabajan a temperatura elevada durante largos periodos, por lo que el material y el acabado de la cavidad se eligen para operar mucho tiempo con calor."
+          ]
+        },
+        {
+          "heading": "Diseño de canales de refrigeración en carcasas y moldes de fondo",
+          "paragraphs": [
+            "La botella debe estar fría y estable antes de salir del molde, por lo que la refrigeración influye directamente en la calidad de la botella y en la velocidad de la máquina. Los canales se taladran o fresan cerca de la cavidad y se conectan al circuito de agua de la máquina a través del portamoldes."
+          ],
+          "list": [
+            "La refrigeración de las carcasas sigue la forma de la cavidad para que la pared se enfríe de forma uniforme del hombro a la base.",
+            "El molde de fondo tiene su propio circuito porque la base contiene más material y se mantiene caliente más tiempo.",
+            "El caudal se equilibra entre todos los juegos de la máquina para que cada estación produzca la misma botella.",
+            "El agua limpia y tratada mantiene los canales sin incrustaciones; la cal actúa como aislante y hace que la calidad de la botella varíe.",
+            "En los moldes de termofijado se aplica la misma idea a la inversa: las carcasas llevan aceite caliente para mantener el PET a temperatura elevada."
+          ]
+        },
+        {
+          "heading": "Venteo y acabado superficial de la cavidad del molde de soplado",
+          "paragraphs": [
+            "Cuando la preforma se expande, el aire entre el PET y la pared de la cavidad debe salir en muy poco tiempo. Si no puede, la botella muestra detalles blandos, aristas redondeadas o marcas de aire atrapado. Por eso el acabado superficial y el venteo se diseñan juntos."
+          ],
+          "list": [
+            "Las ranuras de venteo a lo largo de la línea de partición dejan salir el aire de la zona del cuerpo.",
+            "Se colocan pequeños orificios o insertos de venteo en detalles profundos como logotipos, nervios, zonas de agarre y los pies de una base petaloide.",
+            "Una superficie de cavidad con chorreado fino (texturizada) ayuda a evacuar el aire y se usa a menudo fuera de las zonas transparentes de etiqueta.",
+            "Una cavidad pulida da una botella brillante; cualquier rayado o marca en ella se transfiere a cada botella.",
+            "Los diseños mate, esmerilados o en relieve se obtienen con texturizado local o grabado de la cavidad.",
+            "Un ajuste preciso entre las dos carcasas y el molde de fondo mantiene la línea de partición de la botella fina y uniforme."
+          ]
+        },
+        {
+          "heading": "Pasos del desarrollo de botellas: diseño, ajuste de preforma, molde y prueba",
+          "paragraphs": [
+            "Una botella nueva se desarrolla como un proyecto en el que la botella, la preforma y el molde se comprueban entre sí antes de fabricar el juego completo. El centro de ingeniería y diseño de LIHE utiliza CAD/CAM, simulación 3D y análisis de flujo antes de la producción."
+          ],
+          "steps": [
+            "Reúna los requisitos: capacidad, peso objetivo de la botella, acabado de cuello, método de llenado, tamaño de etiqueta, límites de caja o palé y la sopladora.",
+            "Diseñe la botella en 3D y calcule el volumen a rebose y el nominal; si solo existe una muestra, puede medirse para crear el plano.",
+            "Ajuste la preforma: compruebe las relaciones de estirado, el espesor de pared y el peso para que el material se reparta de forma uniforme, o proponga una preforma nueva o aligerada.",
+            "Fabrique un molde piloto (plazo publicado de 20 días) y sople botellas de prueba en el tipo de máquina del cliente.",
+            "Ensaye las botellas de prueba: distribución del espesor de pared, volumen, carga vertical y, en productos carbonatados, resistencia a la presión; ajuste el diseño si es necesario.",
+            "Apruebe el diseño y fabrique el juego completo (moldes PET estándar 8 semanas), con inspección en la MMC Zeiss propia.",
+            "Instale el juego y realice la puesta en marcha con el apoyo del equipo técnico para instalación y arranque."
+          ]
+        },
+        {
+          "heading": "Repuestos, conversión y reacondicionamiento de juegos de moldes de soplado",
+          "list": [
+            "Las piezas de repuesto como moldes de fondo, placas de cuello e insertos de cavidad tienen un plazo publicado de 4 semanas.",
+            "Tener moldes de fondo de repuesto para las botellas de mayor volumen evita que una pieza dañada pare una estación.",
+            "Las piezas de conversión permiten fabricar un diseño de botella existente en otra marca de máquina sin una nueva aprobación de la botella.",
+            "Los proyectos de aligeramiento ajustan la geometría de la botella y de la base junto con la preforma, lo que puede reducir el PET por botella.",
+            "Los programas de reacondicionamiento de moldes recuperan juegos desgastados; los informes de validación e inspección están disponibles bajo solicitud."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Por qué el molde de fondo es una pieza separada del molde de soplado?",
+          "answer": "La base es la zona más gruesa y más solicitada de la botella, y en la mayoría de las máquinas el molde de fondo se mueve por separado de las carcasas. Como pieza separada puede tener su propio circuito de refrigeración, cambiarse cuando solo cambia el diseño de la base y guardarse como repuesto."
+        },
+        {
+          "question": "¿Se puede fabricar un molde de soplado a partir de una botella de muestra sin plano?",
+          "answer": "Una botella de muestra es un buen punto de partida. Envíela junto con sus requisitos y confirme con el equipo comercial de LIHE si se puede obtener de ella el modelo 3D y el plano; el laboratorio de calidad de LIHE cuenta con un escáner de perfiles 3D y equipos de inspección de botellas de muestra. La preforma debe ajustarse igualmente y las botellas de prueba se verifican antes de fabricar el juego completo."
+        },
+        {
+          "question": "¿Qué significa ajustar la preforma?",
+          "answer": "Significa comprobar que la longitud, el diámetro, el espesor de pared y el peso de la preforma son adecuados para la botella, de modo que el PET se estire de forma uniforme en todas las partes de la cavidad. Una preforma mal ajustada provoca zonas finas, bases gruesas o turbidez incluso en un molde bien fabricado."
+        },
+        {
+          "question": "¿Todas las estaciones de soplado necesitan juegos idénticos?",
+          "answer": "Sí. Todas las estaciones producen botellas para la misma línea, por lo que la cavidad, la base y el venteo deben ser iguales en cada juego. Los juegos se inspeccionan con el mismo plano para que las botellas de todas las estaciones se comporten igual en la llenadora y la etiquetadora."
+        },
+        {
+          "question": "¿Se puede modificar un molde de soplado existente para una botella más ligera?",
+          "answer": "A menudo sí. El aligeramiento suele combinar una preforma más ligera con cambios en la base y en la geometría de la pared. Que se puedan modificar las carcasas existentes o se necesiten nuevos insertos de cavidad depende de la magnitud del cambio."
+        }
+      ]
+    }
+  }
+}
