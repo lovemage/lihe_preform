@@ -1,19 +1,38 @@
 {
   "slug": "increasing-cavitation-on-existing-pet-preform-mold",
   "questionId": "q118",
-  "date": "2026-10-13",
-  "relatedProducts": [19, 27, 30],
+  "date": "2026-09-28",
+  "relatedProducts": [
+    19,
+    27,
+    30
+  ],
   "images": {
     "hero": "/images/news/increasing-cavitation-on-existing-pet-preform-mold-hero.webp",
     "detail": "/images/news/increasing-cavitation-on-existing-pet-preform-mold-detail.webp",
     "og": "/images/news/increasing-cavitation-on-existing-pet-preform-mold-hero-og.jpg"
   },
   "sources": [
-    { "label": "Wikipedia — Injection moulding", "url": "https://en.wikipedia.org/wiki/Injection_moulding" },
-    { "label": "Wikipedia — Hot runner", "url": "https://en.wikipedia.org/wiki/Hot_runner" },
-    { "label": "Wikipedia — Coordinate-measuring machine", "url": "https://en.wikipedia.org/wiki/Coordinate-measuring_machine" },
-    { "label": "Wikipedia — Polyethylene terephthalate", "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate" },
-    { "label": "Wikipedia — Process capability index", "url": "https://en.wikipedia.org/wiki/Process_capability_index" }
+    {
+      "label": "Wikipedia — Injection moulding",
+      "url": "https://en.wikipedia.org/wiki/Injection_moulding"
+    },
+    {
+      "label": "Wikipedia — Hot runner",
+      "url": "https://en.wikipedia.org/wiki/Hot_runner"
+    },
+    {
+      "label": "Wikipedia — Coordinate-measuring machine",
+      "url": "https://en.wikipedia.org/wiki/Coordinate-measuring_machine"
+    },
+    {
+      "label": "Wikipedia — Polyethylene terephthalate",
+      "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate"
+    },
+    {
+      "label": "Wikipedia — Process capability index",
+      "url": "https://en.wikipedia.org/wiki/Process_capability_index"
+    }
   ],
   "locales": {
     "en": {
@@ -43,12 +62,37 @@
         {
           "heading": "Upgrade options compared",
           "table": {
-            "head": ["Option", "What changes", "What can be reused", "When it fits"],
+            "head": [
+              "Option",
+              "What changes",
+              "What can be reused",
+              "When it fits"
+            ],
             "rows": [
-              ["Re-cavitate in existing plates", "New cavity bores and cooling in the old plates, new manifold", "Mold base frame, sometimes stack parts", "Rare; only if the plates have enough space and the pitch allows it"],
-              ["New mold base and hot runner, reused stack", "New plates, cooling layout and balanced hot runner", "Cores, cavities, neck rings, gate inserts in good condition", "Same preform design, machine has spare capacity"],
-              ["Complete new mold", "Everything", "Nothing, or only spare parts", "Old stack is worn or preform design changes"],
-              ["New mold with preform redesign", "Everything, plus new preform geometry", "Nothing", "You also want lightweighting or a new neck finish"]
+              [
+                "Re-cavitate in existing plates",
+                "New cavity bores and cooling in the old plates, new manifold",
+                "Mold base frame, sometimes stack parts",
+                "Rare; only if the plates have enough space and the pitch allows it"
+              ],
+              [
+                "New mold base and hot runner, reused stack",
+                "New plates, cooling layout and balanced hot runner",
+                "Cores, cavities, neck rings, gate inserts in good condition",
+                "Same preform design, machine has spare capacity"
+              ],
+              [
+                "Complete new mold",
+                "Everything",
+                "Nothing, or only spare parts",
+                "Old stack is worn or preform design changes"
+              ],
+              [
+                "New mold with preform redesign",
+                "Everything, plus new preform geometry",
+                "Nothing",
+                "You also want lightweighting or a new neck finish"
+              ]
             ]
           }
         },
@@ -102,15 +146,47 @@
         {
           "heading": "Common problems after a cavitation upgrade",
           "table": {
-            "head": ["Problem", "Likely cause", "What to check or change"],
+            "head": [
+              "Problem",
+              "Likely cause",
+              "What to check or change"
+            ],
             "rows": [
-              ["Weight imbalance between cavities", "Unbalanced manifold or uneven zone temperatures", "Check zone temperatures; verify the manifold design is naturally balanced"],
-              ["Short shots in outer cavities", "Longer flow path or cold manifold zones", "Inspect heaters and thermocouples; review flow analysis"],
-              ["Longer cycle than expected", "Chiller or water flow too small for the larger mold", "Measure flow per circuit; upgrade chiller or water supply"],
-              ["Flash at neck rings", "Clamp force too low for the new projected area", "Check clamp force against the mold requirement"],
-              ["Wall eccentricity in some cavities", "Reused cores or tapers worn, misalignment", "Measure reused parts; replace worn components"],
-              ["Higher AA", "Larger manifold volume and longer residence time", "Lower melt temperature; check shot size versus barrel"],
-              ["Preforms dropped or damaged at take-out", "Take-out plate not matched to the new layout", "Confirm take-out plate positions and timing"]
+              [
+                "Weight imbalance between cavities",
+                "Unbalanced manifold or uneven zone temperatures",
+                "Check zone temperatures; verify the manifold design is naturally balanced"
+              ],
+              [
+                "Short shots in outer cavities",
+                "Longer flow path or cold manifold zones",
+                "Inspect heaters and thermocouples; review flow analysis"
+              ],
+              [
+                "Longer cycle than expected",
+                "Chiller or water flow too small for the larger mold",
+                "Measure flow per circuit; upgrade chiller or water supply"
+              ],
+              [
+                "Flash at neck rings",
+                "Clamp force too low for the new projected area",
+                "Check clamp force against the mold requirement"
+              ],
+              [
+                "Wall eccentricity in some cavities",
+                "Reused cores or tapers worn, misalignment",
+                "Measure reused parts; replace worn components"
+              ],
+              [
+                "Higher AA",
+                "Larger manifold volume and longer residence time",
+                "Lower melt temperature; check shot size versus barrel"
+              ],
+              [
+                "Preforms dropped or damaged at take-out",
+                "Take-out plate not matched to the new layout",
+                "Confirm take-out plate positions and timing"
+              ]
             ]
           }
         },
@@ -196,12 +272,37 @@
         {
           "heading": "Сравнение вариантов модернизации",
           "table": {
-            "head": ["Вариант", "Что меняется", "Что можно использовать повторно", "Когда подходит"],
+            "head": [
+              "Вариант",
+              "Что меняется",
+              "Что можно использовать повторно",
+              "Когда подходит"
+            ],
             "rows": [
-              ["Добавить гнёзда в существующие плиты", "Новые гнёзда и охлаждение в старых плитах, новый коллектор", "Каркас плиты, иногда детали пакета", "Редко; только если в плитах достаточно места и шаг позволяет"],
-              ["Новая плита и горячий канал с прежним пакетом", "Новые плиты, схема охлаждения и сбалансированный горячий канал", "Пуансоны, матрицы, горловые кольца, литниковые вставки в хорошем состоянии", "Та же преформа, у машины есть запас мощности"],
-              ["Полностью новая форма", "Всё", "Ничего или только запасные части", "Старый пакет изношен или меняется конструкция преформы"],
-              ["Новая форма с переработкой преформы", "Всё, плюс новая геометрия преформы", "Ничего", "Нужно также облегчение или новая горловина"]
+              [
+                "Добавить гнёзда в существующие плиты",
+                "Новые гнёзда и охлаждение в старых плитах, новый коллектор",
+                "Каркас плиты, иногда детали пакета",
+                "Редко; только если в плитах достаточно места и шаг позволяет"
+              ],
+              [
+                "Новая плита и горячий канал с прежним пакетом",
+                "Новые плиты, схема охлаждения и сбалансированный горячий канал",
+                "Пуансоны, матрицы, горловые кольца, литниковые вставки в хорошем состоянии",
+                "Та же преформа, у машины есть запас мощности"
+              ],
+              [
+                "Полностью новая форма",
+                "Всё",
+                "Ничего или только запасные части",
+                "Старый пакет изношен или меняется конструкция преформы"
+              ],
+              [
+                "Новая форма с переработкой преформы",
+                "Всё, плюс новая геометрия преформы",
+                "Ничего",
+                "Нужно также облегчение или новая горловина"
+              ]
             ]
           }
         },
@@ -255,15 +356,47 @@
         {
           "heading": "Типичные проблемы после увеличения гнёздности",
           "table": {
-            "head": ["Проблема", "Вероятная причина", "Что проверить или изменить"],
+            "head": [
+              "Проблема",
+              "Вероятная причина",
+              "Что проверить или изменить"
+            ],
             "rows": [
-              ["Разброс веса между гнёздами", "Несбалансированный коллектор или неравные температуры зон", "Проверить температуры зон; убедиться, что коллектор естественно сбалансирован"],
-              ["Недоливы во внешних гнёздах", "Более длинный путь течения или холодные зоны коллектора", "Осмотреть нагреватели и термопары; пересмотреть анализ течения"],
-              ["Цикл длиннее ожидаемого", "Чиллер или расход воды малы для более крупной формы", "Измерить расход по контурам; усилить чиллер или подачу воды"],
-              ["Облой на горловых кольцах", "Усилие смыкания мало для новой площади проекции", "Сверить усилие смыкания с требованием формы"],
-              ["Разностенность в части гнёзд", "Изношенные повторно используемые пуансоны или конусы, несоосность", "Измерить повторно используемые детали; заменить изношенные"],
-              ["Повышенный AA", "Больший объём коллектора и более долгое пребывание", "Снизить температуру расплава; проверить дозу относительно цилиндра"],
-              ["Падение или повреждение преформ при съёме", "Плита съёма не соответствует новой раскладке", "Подтвердить позиции и синхронизацию плиты съёма"]
+              [
+                "Разброс веса между гнёздами",
+                "Несбалансированный коллектор или неравные температуры зон",
+                "Проверить температуры зон; убедиться, что коллектор естественно сбалансирован"
+              ],
+              [
+                "Недоливы во внешних гнёздах",
+                "Более длинный путь течения или холодные зоны коллектора",
+                "Осмотреть нагреватели и термопары; пересмотреть анализ течения"
+              ],
+              [
+                "Цикл длиннее ожидаемого",
+                "Чиллер или расход воды малы для более крупной формы",
+                "Измерить расход по контурам; усилить чиллер или подачу воды"
+              ],
+              [
+                "Облой на горловых кольцах",
+                "Усилие смыкания мало для новой площади проекции",
+                "Сверить усилие смыкания с требованием формы"
+              ],
+              [
+                "Разностенность в части гнёзд",
+                "Изношенные повторно используемые пуансоны или конусы, несоосность",
+                "Измерить повторно используемые детали; заменить изношенные"
+              ],
+              [
+                "Повышенный AA",
+                "Больший объём коллектора и более долгое пребывание",
+                "Снизить температуру расплава; проверить дозу относительно цилиндра"
+              ],
+              [
+                "Падение или повреждение преформ при съёме",
+                "Плита съёма не соответствует новой раскладке",
+                "Подтвердить позиции и синхронизацию плиты съёма"
+              ]
             ]
           }
         },
@@ -349,12 +482,37 @@
         {
           "heading": "Comparación de opciones de mejora",
           "table": {
-            "head": ["Opción", "Qué cambia", "Qué se puede reutilizar", "Cuándo encaja"],
+            "head": [
+              "Opción",
+              "Qué cambia",
+              "Qué se puede reutilizar",
+              "Cuándo encaja"
+            ],
             "rows": [
-              ["Recavitar en las placas existentes", "Nuevos alojamientos y refrigeración en las placas antiguas, nuevo distribuidor", "Estructura de la base, a veces piezas del conjunto", "Raro; solo si las placas tienen espacio y el paso lo permite"],
-              ["Nueva base de molde y canal caliente, conjunto reutilizado", "Nuevas placas, refrigeración y canal caliente equilibrado", "Machos, cavidades, anillos de cuello e insertos en buen estado", "Mismo diseño de preforma y la máquina tiene capacidad sobrante"],
-              ["Molde completamente nuevo", "Todo", "Nada, o solo repuestos", "El conjunto antiguo está desgastado o cambia el diseño de la preforma"],
-              ["Molde nuevo con rediseño de preforma", "Todo, más una nueva geometría de preforma", "Nada", "También se busca aligerar o cambiar el acabado de cuello"]
+              [
+                "Recavitar en las placas existentes",
+                "Nuevos alojamientos y refrigeración en las placas antiguas, nuevo distribuidor",
+                "Estructura de la base, a veces piezas del conjunto",
+                "Raro; solo si las placas tienen espacio y el paso lo permite"
+              ],
+              [
+                "Nueva base de molde y canal caliente, conjunto reutilizado",
+                "Nuevas placas, refrigeración y canal caliente equilibrado",
+                "Machos, cavidades, anillos de cuello e insertos en buen estado",
+                "Mismo diseño de preforma y la máquina tiene capacidad sobrante"
+              ],
+              [
+                "Molde completamente nuevo",
+                "Todo",
+                "Nada, o solo repuestos",
+                "El conjunto antiguo está desgastado o cambia el diseño de la preforma"
+              ],
+              [
+                "Molde nuevo con rediseño de preforma",
+                "Todo, más una nueva geometría de preforma",
+                "Nada",
+                "También se busca aligerar o cambiar el acabado de cuello"
+              ]
             ]
           }
         },
@@ -408,15 +566,47 @@
         {
           "heading": "Problemas comunes tras aumentar la cavitación",
           "table": {
-            "head": ["Problema", "Causa probable", "Qué revisar o cambiar"],
+            "head": [
+              "Problema",
+              "Causa probable",
+              "Qué revisar o cambiar"
+            ],
             "rows": [
-              ["Desequilibrio de peso entre cavidades", "Distribuidor desequilibrado o temperaturas de zona desiguales", "Revisar temperaturas de zona; verificar que el distribuidor esté equilibrado de forma natural"],
-              ["Inyecciones incompletas en cavidades exteriores", "Recorrido de flujo más largo o zonas frías del distribuidor", "Inspeccionar resistencias y termopares; revisar el análisis de flujo"],
-              ["Ciclo más largo de lo previsto", "Enfriador o caudal de agua insuficientes para el molde mayor", "Medir caudal por circuito; ampliar enfriador o suministro de agua"],
-              ["Rebaba en los anillos de cuello", "Fuerza de cierre insuficiente para la nueva área proyectada", "Comparar la fuerza de cierre con la necesidad del molde"],
-              ["Excentricidad de pared en algunas cavidades", "Machos o conos reutilizados desgastados, desalineación", "Medir las piezas reutilizadas; sustituir las desgastadas"],
-              ["AA más alto", "Mayor volumen del distribuidor y residencia más larga", "Bajar la temperatura del fundido; revisar dosis frente a cilindro"],
-              ["Preformas caídas o dañadas en la extracción", "Placa de extracción no adaptada a la nueva disposición", "Confirmar posiciones y sincronización de la placa de extracción"]
+              [
+                "Desequilibrio de peso entre cavidades",
+                "Distribuidor desequilibrado o temperaturas de zona desiguales",
+                "Revisar temperaturas de zona; verificar que el distribuidor esté equilibrado de forma natural"
+              ],
+              [
+                "Inyecciones incompletas en cavidades exteriores",
+                "Recorrido de flujo más largo o zonas frías del distribuidor",
+                "Inspeccionar resistencias y termopares; revisar el análisis de flujo"
+              ],
+              [
+                "Ciclo más largo de lo previsto",
+                "Enfriador o caudal de agua insuficientes para el molde mayor",
+                "Medir caudal por circuito; ampliar enfriador o suministro de agua"
+              ],
+              [
+                "Rebaba en los anillos de cuello",
+                "Fuerza de cierre insuficiente para la nueva área proyectada",
+                "Comparar la fuerza de cierre con la necesidad del molde"
+              ],
+              [
+                "Excentricidad de pared en algunas cavidades",
+                "Machos o conos reutilizados desgastados, desalineación",
+                "Medir las piezas reutilizadas; sustituir las desgastadas"
+              ],
+              [
+                "AA más alto",
+                "Mayor volumen del distribuidor y residencia más larga",
+                "Bajar la temperatura del fundido; revisar dosis frente a cilindro"
+              ],
+              [
+                "Preformas caídas o dañadas en la extracción",
+                "Placa de extracción no adaptada a la nueva disposición",
+                "Confirmar posiciones y sincronización de la placa de extracción"
+              ]
             ]
           }
         },

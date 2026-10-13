@@ -1,20 +1,42 @@
 {
   "slug": "moving-pet-bottle-line-to-100-percent-rpet",
   "questionId": "q116",
-  "date": "2026-10-13",
-  "relatedProducts": [19, 27, 22],
+  "date": "2026-09-24",
+  "relatedProducts": [
+    19,
+    27,
+    22
+  ],
   "images": {
     "hero": "/images/news/moving-pet-bottle-line-to-100-percent-rpet-hero.webp",
     "detail": "/images/news/moving-pet-bottle-line-to-100-percent-rpet-detail.webp",
     "og": "/images/news/moving-pet-bottle-line-to-100-percent-rpet-hero-og.jpg"
   },
   "sources": [
-    { "label": "Wikipedia — PET bottle recycling", "url": "https://en.wikipedia.org/wiki/PET_bottle_recycling" },
-    { "label": "Wikipedia — Polyethylene terephthalate", "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate" },
-    { "label": "Wikipedia — Intrinsic viscosity", "url": "https://en.wikipedia.org/wiki/Intrinsic_viscosity" },
-    { "label": "Wikipedia — Acetaldehyde", "url": "https://en.wikipedia.org/wiki/Acetaldehyde" },
-    { "label": "Wikipedia — Hot runner", "url": "https://en.wikipedia.org/wiki/Hot_runner" },
-    { "label": "U.S. FDA — Recycled Plastics in Food Packaging", "url": "https://www.fda.gov/food/packaging-food-contact-substances-fcs/recycled-plastics-food-packaging" }
+    {
+      "label": "Wikipedia — PET bottle recycling",
+      "url": "https://en.wikipedia.org/wiki/PET_bottle_recycling"
+    },
+    {
+      "label": "Wikipedia — Polyethylene terephthalate",
+      "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate"
+    },
+    {
+      "label": "Wikipedia — Intrinsic viscosity",
+      "url": "https://en.wikipedia.org/wiki/Intrinsic_viscosity"
+    },
+    {
+      "label": "Wikipedia — Acetaldehyde",
+      "url": "https://en.wikipedia.org/wiki/Acetaldehyde"
+    },
+    {
+      "label": "Wikipedia — Hot runner",
+      "url": "https://en.wikipedia.org/wiki/Hot_runner"
+    },
+    {
+      "label": "U.S. FDA — Recycled Plastics in Food Packaging",
+      "url": "https://www.fda.gov/food/packaging-food-contact-substances-fcs/recycled-plastics-food-packaging"
+    }
   ],
   "locales": {
     "en": {
@@ -66,16 +88,52 @@
         {
           "heading": "Mold and hot runner changes to consider",
           "table": {
-            "head": ["Component", "Typical issue with 100% rPET", "Change to consider"],
+            "head": [
+              "Component",
+              "Typical issue with 100% rPET",
+              "Change to consider"
+            ],
             "rows": [
-              ["Nozzle tips and valve pins", "Wear, deposits, stringing and gate vestige", "Inspect every drop; replace tips, pins and seals as a set where worn"],
-              ["Heaters and thermocouples", "Weak zones cause cold drops and weight imbalance", "Replace failing heaters and sensors; rebalance zone temperatures"],
-              ["Manifold flow channels", "Dead spots hold degraded melt and release black specks", "Clean or refurbish the manifold; check for hang-up points"],
-              ["Melt filtration (machine side)", "Particles block gates and cause short shots", "Confirm filtration upstream and on the machine with the rPET supplier"],
-              ["Cavity and core venting", "Volatile deposits, burn marks, short shots", "Check vent depth and set a shorter vent-cleaning interval"],
-              ["Cooling circuits", "Haze and longer cooling to hold quality", "Descale, verify flow per circuit, consider optimized neck cooling"],
-              ["Gate inserts", "Crystalline gates, gate hole or stringing", "Check gate geometry and cooling around the gate"],
-              ["Preform design", "Different stretch behaviour on the blow molder", "Review wall thickness and weight before lightweighting"]
+              [
+                "Nozzle tips and valve pins",
+                "Wear, deposits, stringing and gate vestige",
+                "Inspect every drop; replace tips, pins and seals as a set where worn"
+              ],
+              [
+                "Heaters and thermocouples",
+                "Weak zones cause cold drops and weight imbalance",
+                "Replace failing heaters and sensors; rebalance zone temperatures"
+              ],
+              [
+                "Manifold flow channels",
+                "Dead spots hold degraded melt and release black specks",
+                "Clean or refurbish the manifold; check for hang-up points"
+              ],
+              [
+                "Melt filtration (machine side)",
+                "Particles block gates and cause short shots",
+                "Confirm filtration upstream and on the machine with the rPET supplier"
+              ],
+              [
+                "Cavity and core venting",
+                "Volatile deposits, burn marks, short shots",
+                "Check vent depth and set a shorter vent-cleaning interval"
+              ],
+              [
+                "Cooling circuits",
+                "Haze and longer cooling to hold quality",
+                "Descale, verify flow per circuit, consider optimized neck cooling"
+              ],
+              [
+                "Gate inserts",
+                "Crystalline gates, gate hole or stringing",
+                "Check gate geometry and cooling around the gate"
+              ],
+              [
+                "Preform design",
+                "Different stretch behaviour on the blow molder",
+                "Review wall thickness and weight before lightweighting"
+              ]
             ]
           }
         },
@@ -96,16 +154,52 @@
         {
           "heading": "Common problems after switching to rPET and how to fix them",
           "table": {
-            "head": ["Symptom", "Likely cause", "What to check or change"],
+            "head": [
+              "Symptom",
+              "Likely cause",
+              "What to check or change"
+            ],
             "rows": [
-              ["Black specks", "Degraded melt in manifold dead spots or contamination", "Clean or refurbish manifold; review filtration; reduce residence time"],
-              ["Yellowing", "Excess heat history or over-drying", "Lower melt and hot runner temperatures where possible; check dryer settings"],
-              ["High AA", "High melt temperature and long residence time", "Reduce barrel and manifold temperatures; check shot size vs barrel size"],
-              ["Haze near gate or base", "Slow cooling or moisture", "Check gate cooling, water flow and drying"],
-              ["Short shots in some cavities", "Blocked tips, cold zones, fouled vents", "Inspect tips, heaters and vents of the affected cavities"],
-              ["Stringing or long gate vestige", "Worn valve pins or tips, gate too hot", "Replace pins and tips; rebalance gate temperature"],
-              ["Weight variation between lots", "IV variation in the rPET supply", "Tighten IV specification; segregate and blend lots"],
-              ["Bubbles or splay", "Moisture or volatiles", "Verify drying; clean vents"]
+              [
+                "Black specks",
+                "Degraded melt in manifold dead spots or contamination",
+                "Clean or refurbish manifold; review filtration; reduce residence time"
+              ],
+              [
+                "Yellowing",
+                "Excess heat history or over-drying",
+                "Lower melt and hot runner temperatures where possible; check dryer settings"
+              ],
+              [
+                "High AA",
+                "High melt temperature and long residence time",
+                "Reduce barrel and manifold temperatures; check shot size vs barrel size"
+              ],
+              [
+                "Haze near gate or base",
+                "Slow cooling or moisture",
+                "Check gate cooling, water flow and drying"
+              ],
+              [
+                "Short shots in some cavities",
+                "Blocked tips, cold zones, fouled vents",
+                "Inspect tips, heaters and vents of the affected cavities"
+              ],
+              [
+                "Stringing or long gate vestige",
+                "Worn valve pins or tips, gate too hot",
+                "Replace pins and tips; rebalance gate temperature"
+              ],
+              [
+                "Weight variation between lots",
+                "IV variation in the rPET supply",
+                "Tighten IV specification; segregate and blend lots"
+              ],
+              [
+                "Bubbles or splay",
+                "Moisture or volatiles",
+                "Verify drying; clean vents"
+              ]
             ]
           }
         },
@@ -213,16 +307,52 @@
         {
           "heading": "Изменения пресс-формы и горячего канала, которые стоит рассмотреть",
           "table": {
-            "head": ["Узел", "Типичная проблема при 100% rPET", "Что изменить"],
+            "head": [
+              "Узел",
+              "Типичная проблема при 100% rPET",
+              "Что изменить"
+            ],
             "rows": [
-              ["Наконечники сопел и запорные иглы", "Износ, отложения, нитеобразование и след литника", "Осмотреть каждое сопло; заменять изношенные наконечники, иглы и уплотнения комплектом"],
-              ["Нагреватели и термопары", "Слабые зоны дают холодные сопла и разброс веса", "Заменить неисправные нагреватели и датчики; перебалансировать температуры зон"],
-              ["Каналы коллектора", "Застойные зоны удерживают деградированный расплав и выпускают чёрные точки", "Очистить или восстановить коллектор; проверить места застоя"],
-              ["Фильтрация расплава (на стороне машины)", "Частицы перекрывают литники и вызывают недоливы", "Согласовать фильтрацию у поставщика rPET и на машине"],
-              ["Вентиляция матриц и пуансонов", "Отложения летучих, подгары, недоливы", "Проверить глубину вентиляции и сократить интервал её чистки"],
-              ["Контуры охлаждения", "Помутнение и более долгое охлаждение для удержания качества", "Удалить накипь, проверить расход по контурам, рассмотреть оптимизацию охлаждения горловины"],
-              ["Литниковые вставки", "Кристаллический литник, отверстие или нить на литнике", "Проверить геометрию литника и охлаждение вокруг него"],
-              ["Конструкция преформы", "Иное поведение при вытяжке на выдувной машине", "Пересмотреть толщину стенки и вес до облегчения"]
+              [
+                "Наконечники сопел и запорные иглы",
+                "Износ, отложения, нитеобразование и след литника",
+                "Осмотреть каждое сопло; заменять изношенные наконечники, иглы и уплотнения комплектом"
+              ],
+              [
+                "Нагреватели и термопары",
+                "Слабые зоны дают холодные сопла и разброс веса",
+                "Заменить неисправные нагреватели и датчики; перебалансировать температуры зон"
+              ],
+              [
+                "Каналы коллектора",
+                "Застойные зоны удерживают деградированный расплав и выпускают чёрные точки",
+                "Очистить или восстановить коллектор; проверить места застоя"
+              ],
+              [
+                "Фильтрация расплава (на стороне машины)",
+                "Частицы перекрывают литники и вызывают недоливы",
+                "Согласовать фильтрацию у поставщика rPET и на машине"
+              ],
+              [
+                "Вентиляция матриц и пуансонов",
+                "Отложения летучих, подгары, недоливы",
+                "Проверить глубину вентиляции и сократить интервал её чистки"
+              ],
+              [
+                "Контуры охлаждения",
+                "Помутнение и более долгое охлаждение для удержания качества",
+                "Удалить накипь, проверить расход по контурам, рассмотреть оптимизацию охлаждения горловины"
+              ],
+              [
+                "Литниковые вставки",
+                "Кристаллический литник, отверстие или нить на литнике",
+                "Проверить геометрию литника и охлаждение вокруг него"
+              ],
+              [
+                "Конструкция преформы",
+                "Иное поведение при вытяжке на выдувной машине",
+                "Пересмотреть толщину стенки и вес до облегчения"
+              ]
             ]
           }
         },
@@ -243,16 +373,52 @@
         {
           "heading": "Типичные проблемы после перехода на rPET и их устранение",
           "table": {
-            "head": ["Симптом", "Вероятная причина", "Что проверить или изменить"],
+            "head": [
+              "Симптом",
+              "Вероятная причина",
+              "Что проверить или изменить"
+            ],
             "rows": [
-              ["Чёрные точки", "Деградированный расплав в застойных зонах коллектора или загрязнения", "Очистить или восстановить коллектор; пересмотреть фильтрацию; сократить время пребывания"],
-              ["Пожелтение", "Избыточная термическая история или пересушка", "Снизить температуры расплава и горячего канала, где возможно; проверить настройки сушилки"],
-              ["Высокий AA", "Высокая температура расплава и долгое время пребывания", "Снизить температуры цилиндра и коллектора; проверить соотношение дозы и объёма цилиндра"],
-              ["Помутнение у литника или дна", "Медленное охлаждение или влага", "Проверить охлаждение литника, расход воды и сушку"],
-              ["Недоливы в отдельных гнёздах", "Забитые наконечники, холодные зоны, засорённая вентиляция", "Осмотреть наконечники, нагреватели и вентиляцию проблемных гнёзд"],
-              ["Нити или длинный след литника", "Изношенные иглы или наконечники, перегретый литник", "Заменить иглы и наконечники; перебалансировать температуру литника"],
-              ["Разброс веса между партиями", "Разброс IV в поставках rPET", "Ужесточить спецификацию IV; разделять и смешивать партии"],
-              ["Пузыри или серебристость", "Влага или летучие вещества", "Проверить сушку; очистить вентиляцию"]
+              [
+                "Чёрные точки",
+                "Деградированный расплав в застойных зонах коллектора или загрязнения",
+                "Очистить или восстановить коллектор; пересмотреть фильтрацию; сократить время пребывания"
+              ],
+              [
+                "Пожелтение",
+                "Избыточная термическая история или пересушка",
+                "Снизить температуры расплава и горячего канала, где возможно; проверить настройки сушилки"
+              ],
+              [
+                "Высокий AA",
+                "Высокая температура расплава и долгое время пребывания",
+                "Снизить температуры цилиндра и коллектора; проверить соотношение дозы и объёма цилиндра"
+              ],
+              [
+                "Помутнение у литника или дна",
+                "Медленное охлаждение или влага",
+                "Проверить охлаждение литника, расход воды и сушку"
+              ],
+              [
+                "Недоливы в отдельных гнёздах",
+                "Забитые наконечники, холодные зоны, засорённая вентиляция",
+                "Осмотреть наконечники, нагреватели и вентиляцию проблемных гнёзд"
+              ],
+              [
+                "Нити или длинный след литника",
+                "Изношенные иглы или наконечники, перегретый литник",
+                "Заменить иглы и наконечники; перебалансировать температуру литника"
+              ],
+              [
+                "Разброс веса между партиями",
+                "Разброс IV в поставках rPET",
+                "Ужесточить спецификацию IV; разделять и смешивать партии"
+              ],
+              [
+                "Пузыри или серебристость",
+                "Влага или летучие вещества",
+                "Проверить сушку; очистить вентиляцию"
+              ]
             ]
           }
         },
@@ -360,16 +526,52 @@
         {
           "heading": "Cambios de molde y canal caliente a considerar",
           "table": {
-            "head": ["Componente", "Problema típico con 100% rPET", "Cambio a considerar"],
+            "head": [
+              "Componente",
+              "Problema típico con 100% rPET",
+              "Cambio a considerar"
+            ],
             "rows": [
-              ["Puntas de boquilla y agujas de válvula", "Desgaste, depósitos, hilos y marca de inyección", "Inspeccionar cada boquilla; sustituir puntas, agujas y sellos como juego donde haya desgaste"],
-              ["Resistencias y termopares", "Zonas débiles causan boquillas frías y desequilibrio de peso", "Sustituir resistencias y sensores defectuosos; reequilibrar temperaturas de zona"],
-              ["Canales del distribuidor", "Zonas muertas retienen fundido degradado y liberan puntos negros", "Limpiar o reacondicionar el distribuidor; revisar puntos de estancamiento"],
-              ["Filtración del fundido (lado máquina)", "Partículas bloquean puntos de inyección y causan inyecciones incompletas", "Confirmar la filtración con el proveedor de rPET y en la máquina"],
-              ["Venteo de cavidad y macho", "Depósitos de volátiles, quemaduras, inyecciones incompletas", "Revisar profundidad de venteo y acortar el intervalo de limpieza"],
-              ["Circuitos de refrigeración", "Turbidez y enfriamiento más largo para mantener la calidad", "Desincrustar, verificar caudal por circuito, considerar refrigeración de cuello optimizada"],
-              ["Insertos de punto de inyección", "Punto cristalino, agujero o hilos", "Revisar la geometría del punto y la refrigeración alrededor"],
-              ["Diseño de preforma", "Distinto comportamiento de estirado en la sopladora", "Revisar espesor de pared y peso antes de aligerar"]
+              [
+                "Puntas de boquilla y agujas de válvula",
+                "Desgaste, depósitos, hilos y marca de inyección",
+                "Inspeccionar cada boquilla; sustituir puntas, agujas y sellos como juego donde haya desgaste"
+              ],
+              [
+                "Resistencias y termopares",
+                "Zonas débiles causan boquillas frías y desequilibrio de peso",
+                "Sustituir resistencias y sensores defectuosos; reequilibrar temperaturas de zona"
+              ],
+              [
+                "Canales del distribuidor",
+                "Zonas muertas retienen fundido degradado y liberan puntos negros",
+                "Limpiar o reacondicionar el distribuidor; revisar puntos de estancamiento"
+              ],
+              [
+                "Filtración del fundido (lado máquina)",
+                "Partículas bloquean puntos de inyección y causan inyecciones incompletas",
+                "Confirmar la filtración con el proveedor de rPET y en la máquina"
+              ],
+              [
+                "Venteo de cavidad y macho",
+                "Depósitos de volátiles, quemaduras, inyecciones incompletas",
+                "Revisar profundidad de venteo y acortar el intervalo de limpieza"
+              ],
+              [
+                "Circuitos de refrigeración",
+                "Turbidez y enfriamiento más largo para mantener la calidad",
+                "Desincrustar, verificar caudal por circuito, considerar refrigeración de cuello optimizada"
+              ],
+              [
+                "Insertos de punto de inyección",
+                "Punto cristalino, agujero o hilos",
+                "Revisar la geometría del punto y la refrigeración alrededor"
+              ],
+              [
+                "Diseño de preforma",
+                "Distinto comportamiento de estirado en la sopladora",
+                "Revisar espesor de pared y peso antes de aligerar"
+              ]
             ]
           }
         },
@@ -390,16 +592,52 @@
         {
           "heading": "Problemas comunes tras pasar a rPET y cómo resolverlos",
           "table": {
-            "head": ["Síntoma", "Causa probable", "Qué revisar o cambiar"],
+            "head": [
+              "Síntoma",
+              "Causa probable",
+              "Qué revisar o cambiar"
+            ],
             "rows": [
-              ["Puntos negros", "Fundido degradado en zonas muertas del distribuidor o contaminación", "Limpiar o reacondicionar el distribuidor; revisar filtración; reducir tiempo de residencia"],
-              ["Amarilleo", "Exceso de historial térmico o sobresecado", "Bajar temperaturas de fundido y canal caliente donde sea posible; revisar el secador"],
-              ["AA alto", "Temperatura de fundido alta y residencia larga", "Reducir temperaturas de cilindro y distribuidor; revisar dosis frente a tamaño del cilindro"],
-              ["Turbidez en punto de inyección o fondo", "Enfriamiento lento o humedad", "Revisar refrigeración del punto, caudal de agua y secado"],
-              ["Inyecciones incompletas en algunas cavidades", "Puntas obstruidas, zonas frías, venteos sucios", "Inspeccionar puntas, resistencias y venteos de las cavidades afectadas"],
-              ["Hilos o marca de inyección larga", "Agujas o puntas desgastadas, punto demasiado caliente", "Sustituir agujas y puntas; reequilibrar la temperatura del punto"],
-              ["Variación de peso entre lotes", "Variación de IV en el suministro de rPET", "Ajustar la especificación de IV; separar y mezclar lotes"],
-              ["Burbujas o rayas plateadas", "Humedad o volátiles", "Verificar el secado; limpiar venteos"]
+              [
+                "Puntos negros",
+                "Fundido degradado en zonas muertas del distribuidor o contaminación",
+                "Limpiar o reacondicionar el distribuidor; revisar filtración; reducir tiempo de residencia"
+              ],
+              [
+                "Amarilleo",
+                "Exceso de historial térmico o sobresecado",
+                "Bajar temperaturas de fundido y canal caliente donde sea posible; revisar el secador"
+              ],
+              [
+                "AA alto",
+                "Temperatura de fundido alta y residencia larga",
+                "Reducir temperaturas de cilindro y distribuidor; revisar dosis frente a tamaño del cilindro"
+              ],
+              [
+                "Turbidez en punto de inyección o fondo",
+                "Enfriamiento lento o humedad",
+                "Revisar refrigeración del punto, caudal de agua y secado"
+              ],
+              [
+                "Inyecciones incompletas en algunas cavidades",
+                "Puntas obstruidas, zonas frías, venteos sucios",
+                "Inspeccionar puntas, resistencias y venteos de las cavidades afectadas"
+              ],
+              [
+                "Hilos o marca de inyección larga",
+                "Agujas o puntas desgastadas, punto demasiado caliente",
+                "Sustituir agujas y puntas; reequilibrar la temperatura del punto"
+              ],
+              [
+                "Variación de peso entre lotes",
+                "Variación de IV en el suministro de rPET",
+                "Ajustar la especificación de IV; separar y mezclar lotes"
+              ],
+              [
+                "Burbujas o rayas plateadas",
+                "Humedad o volátiles",
+                "Verificar el secado; limpiar venteos"
+              ]
             ]
           }
         },

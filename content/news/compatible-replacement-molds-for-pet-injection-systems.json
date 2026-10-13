@@ -1,20 +1,42 @@
 {
   "slug": "compatible-replacement-molds-for-pet-injection-systems",
   "questionId": "q107",
-  "date": "2026-10-13",
-  "relatedProducts": [34, 19, 40],
+  "date": "2026-09-09",
+  "relatedProducts": [
+    34,
+    19,
+    40
+  ],
   "images": {
     "hero": "/images/news/compatible-replacement-molds-for-pet-injection-systems-hero.webp",
     "detail": "/images/news/compatible-replacement-molds-for-pet-injection-systems-detail.webp",
     "og": "/images/news/compatible-replacement-molds-for-pet-injection-systems-hero-og.jpg"
   },
   "sources": [
-    { "label": "Wikipedia — Injection moulding", "url": "https://en.wikipedia.org/wiki/Injection_moulding" },
-    { "label": "Wikipedia — Preform", "url": "https://en.wikipedia.org/wiki/Preform" },
-    { "label": "Wikipedia — Original equipment manufacturer", "url": "https://en.wikipedia.org/wiki/Original_equipment_manufacturer" },
-    { "label": "Husky Technologies — official website (beverage preforms, PET tooling lifecycle solutions, parts, hot runner refurbishment)", "url": "https://www.husky.co/" },
-    { "label": "SIPA — official website (preform tooling, refurbishment and conversion, original spare parts)", "url": "https://sipasolutions.com/en/" },
-    { "label": "Netstal — official website (PET-Line, maintenance, modification, general overhaul)", "url": "https://www.netstal.com/en/" }
+    {
+      "label": "Wikipedia — Injection moulding",
+      "url": "https://en.wikipedia.org/wiki/Injection_moulding"
+    },
+    {
+      "label": "Wikipedia — Preform",
+      "url": "https://en.wikipedia.org/wiki/Preform"
+    },
+    {
+      "label": "Wikipedia — Original equipment manufacturer",
+      "url": "https://en.wikipedia.org/wiki/Original_equipment_manufacturer"
+    },
+    {
+      "label": "Husky Technologies — official website (beverage preforms, PET tooling lifecycle solutions, parts, hot runner refurbishment)",
+      "url": "https://www.husky.co/"
+    },
+    {
+      "label": "SIPA — official website (preform tooling, refurbishment and conversion, original spare parts)",
+      "url": "https://sipasolutions.com/en/"
+    },
+    {
+      "label": "Netstal — official website (PET-Line, maintenance, modification, general overhaul)",
+      "url": "https://www.netstal.com/en/"
+    }
   ],
   "locales": {
     "en": {
@@ -70,16 +92,61 @@
         {
           "heading": "Replacement mold sources compared",
           "table": {
-            "head": ["", "Machine OEM tooling", "Independent mold maker (general)", "LIHE Precision (published figures)"],
+            "head": [
+              "",
+              "Machine OEM tooling",
+              "Independent mold maker (general)",
+              "LIHE Precision (published figures)"
+            ],
             "rows": [
-              ["Interface fit", "Designed against the OEM's own machine data", "Depends on the maker's data and machine audits", "Built to the customer's machine; on-site machine interface audits offered"],
-              ["Input needed", "Machine details and preform drawing", "Preform drawing, machine data, often sample parts", "Preform drawing or sample, machine data, existing parts for conversions"],
-              ["Lead time", "Quoted per project", "Varies by supplier", "Pilot molds 20 days; standard PET molds 8 weeks; replacement parts 4 weeks"],
-              ["Cavity range", "According to the OEM's product range", "Varies by supplier", "2 to 160 cavities"],
-              ["Platforms covered", "Mainly the OEM's own machines", "Varies by supplier", "Husky, Netstal, SACMI, SIPA, Milacron and others"],
-              ["Quality evidence", "According to OEM documentation", "Ask for capability data and CMM reports", "CPK ≥ 1.33; Zeiss CMM inspection reports on request"],
-              ["Hot runners", "OEM hot runners and refurbishment, as listed on husky.co and sipasolutions.com", "Some makers build hot runners, many do not", "Valve gate hot runners up to 144 cavities; 3-year leakage-proof guarantee on the Husky Ultra-type design"],
-              ["Pricing", "Quoted per project", "Quoted per project", "No public price list; quoted per project"]
+              [
+                "Interface fit",
+                "Designed against the OEM's own machine data",
+                "Depends on the maker's data and machine audits",
+                "Built to the customer's machine; on-site machine interface audits offered"
+              ],
+              [
+                "Input needed",
+                "Machine details and preform drawing",
+                "Preform drawing, machine data, often sample parts",
+                "Preform drawing or sample, machine data, existing parts for conversions"
+              ],
+              [
+                "Lead time",
+                "Quoted per project",
+                "Varies by supplier",
+                "Pilot molds 20 days; standard PET molds 8 weeks; replacement parts 4 weeks"
+              ],
+              [
+                "Cavity range",
+                "According to the OEM's product range",
+                "Varies by supplier",
+                "2 to 160 cavities"
+              ],
+              [
+                "Platforms covered",
+                "Mainly the OEM's own machines",
+                "Varies by supplier",
+                "Husky, Netstal, SACMI, SIPA, Milacron and others"
+              ],
+              [
+                "Quality evidence",
+                "According to OEM documentation",
+                "Ask for capability data and CMM reports",
+                "CPK ≥ 1.33; Zeiss CMM inspection reports on request"
+              ],
+              [
+                "Hot runners",
+                "OEM hot runners and refurbishment, as listed on husky.co and sipasolutions.com",
+                "Some makers build hot runners, many do not",
+                "Valve gate hot runners up to 144 cavities; 3-year leakage-proof guarantee on the Husky Ultra-type design"
+              ],
+              [
+                "Pricing",
+                "Quoted per project",
+                "Quoted per project",
+                "No public price list; quoted per project"
+              ]
             ]
           }
         },
@@ -219,16 +286,61 @@
         {
           "heading": "Сравнение источников сменных пресс-форм",
           "table": {
-            "head": ["", "Оснастка от OEM машины", "Независимый производитель (в целом)", "LIHE Precision (опубликованные данные)"],
+            "head": [
+              "",
+              "Оснастка от OEM машины",
+              "Независимый производитель (в целом)",
+              "LIHE Precision (опубликованные данные)"
+            ],
             "rows": [
-              ["Соответствие интерфейсу", "Проектируется по собственным данным OEM о машине", "Зависит от данных производителя и аудита машины", "Изготавливается под машину заказчика; предлагается аудит интерфейса машины на месте"],
-              ["Исходные данные", "Сведения о машине и чертёж преформы", "Чертёж преформы, данные машины, часто образцы деталей", "Чертёж или образец преформы, данные машины, существующие детали для конверсии"],
-              ["Срок поставки", "По индивидуальному предложению", "Зависит от поставщика", "Пилотные формы 20 дней; стандартные ПЭТ-формы 8 недель; сменные детали 4 недели"],
-              ["Диапазон гнёзд", "В рамках линейки OEM", "Зависит от поставщика", "От 2 до 160 гнёзд"],
-              ["Платформы", "В основном собственные машины OEM", "Зависит от поставщика", "Husky, Netstal, SACMI, SIPA, Milacron и другие"],
-              ["Подтверждение качества", "Согласно документации OEM", "Запросите данные о воспроизводимости и протоколы КИМ", "CPK ≥ 1,33; протоколы контроля на КИМ Zeiss по запросу"],
-              ["Горячие каналы", "Горячие каналы и их восстановление от OEM, как указано на husky.co и sipasolutions.com", "Одни производители делают горячие каналы, многие нет", "Горячие каналы с запорными иглами до 144 гнёзд; 3-летняя гарантия от протечек для конструкции типа Husky Ultra"],
-              ["Цены", "По индивидуальному предложению", "По индивидуальному предложению", "Прайс-лист не публикуется; расчёт по проекту"]
+              [
+                "Соответствие интерфейсу",
+                "Проектируется по собственным данным OEM о машине",
+                "Зависит от данных производителя и аудита машины",
+                "Изготавливается под машину заказчика; предлагается аудит интерфейса машины на месте"
+              ],
+              [
+                "Исходные данные",
+                "Сведения о машине и чертёж преформы",
+                "Чертёж преформы, данные машины, часто образцы деталей",
+                "Чертёж или образец преформы, данные машины, существующие детали для конверсии"
+              ],
+              [
+                "Срок поставки",
+                "По индивидуальному предложению",
+                "Зависит от поставщика",
+                "Пилотные формы 20 дней; стандартные ПЭТ-формы 8 недель; сменные детали 4 недели"
+              ],
+              [
+                "Диапазон гнёзд",
+                "В рамках линейки OEM",
+                "Зависит от поставщика",
+                "От 2 до 160 гнёзд"
+              ],
+              [
+                "Платформы",
+                "В основном собственные машины OEM",
+                "Зависит от поставщика",
+                "Husky, Netstal, SACMI, SIPA, Milacron и другие"
+              ],
+              [
+                "Подтверждение качества",
+                "Согласно документации OEM",
+                "Запросите данные о воспроизводимости и протоколы КИМ",
+                "CPK ≥ 1,33; протоколы контроля на КИМ Zeiss по запросу"
+              ],
+              [
+                "Горячие каналы",
+                "Горячие каналы и их восстановление от OEM, как указано на husky.co и sipasolutions.com",
+                "Одни производители делают горячие каналы, многие нет",
+                "Горячие каналы с запорными иглами до 144 гнёзд; 3-летняя гарантия от протечек для конструкции типа Husky Ultra"
+              ],
+              [
+                "Цены",
+                "По индивидуальному предложению",
+                "По индивидуальному предложению",
+                "Прайс-лист не публикуется; расчёт по проекту"
+              ]
             ]
           }
         },
@@ -368,16 +480,61 @@
         {
           "heading": "Comparación de fuentes de moldes de reemplazo",
           "table": {
-            "head": ["", "Utillaje del OEM de la máquina", "Fabricante independiente (en general)", "LIHE Precision (datos publicados)"],
+            "head": [
+              "",
+              "Utillaje del OEM de la máquina",
+              "Fabricante independiente (en general)",
+              "LIHE Precision (datos publicados)"
+            ],
             "rows": [
-              ["Ajuste de interfaz", "Diseñado con los datos propios del OEM sobre la máquina", "Depende de los datos del fabricante y de auditorías de la máquina", "Fabricado para la máquina del cliente; se ofrecen auditorías de interfaz en planta"],
-              ["Información necesaria", "Datos de la máquina y plano de la preforma", "Plano de la preforma, datos de la máquina, a menudo piezas de muestra", "Plano o muestra de preforma, datos de la máquina, piezas existentes para conversiones"],
-              ["Plazo de entrega", "Cotizado por proyecto", "Varía según el proveedor", "Moldes piloto 20 días; moldes PET estándar 8 semanas; piezas de reemplazo 4 semanas"],
-              ["Rango de cavidades", "Según la gama del OEM", "Varía según el proveedor", "De 2 a 160 cavidades"],
-              ["Plataformas", "Principalmente las máquinas propias del OEM", "Varía según el proveedor", "Husky, Netstal, SACMI, SIPA, Milacron y otras"],
-              ["Evidencia de calidad", "Según la documentación del OEM", "Solicite datos de capacidad e informes de MMC", "CPK ≥ 1,33; informes de inspección con MMC Zeiss bajo pedido"],
-              ["Canales calientes", "Canales calientes y reacondicionamiento del OEM, según husky.co y sipasolutions.com", "Algunos fabricantes los hacen, muchos no", "Canales calientes de válvula hasta 144 cavidades; garantía antifugas de 3 años en el diseño tipo Husky Ultra"],
-              ["Precios", "Cotizado por proyecto", "Cotizado por proyecto", "Sin lista de precios pública; cotización por proyecto"]
+              [
+                "Ajuste de interfaz",
+                "Diseñado con los datos propios del OEM sobre la máquina",
+                "Depende de los datos del fabricante y de auditorías de la máquina",
+                "Fabricado para la máquina del cliente; se ofrecen auditorías de interfaz en planta"
+              ],
+              [
+                "Información necesaria",
+                "Datos de la máquina y plano de la preforma",
+                "Plano de la preforma, datos de la máquina, a menudo piezas de muestra",
+                "Plano o muestra de preforma, datos de la máquina, piezas existentes para conversiones"
+              ],
+              [
+                "Plazo de entrega",
+                "Cotizado por proyecto",
+                "Varía según el proveedor",
+                "Moldes piloto 20 días; moldes PET estándar 8 semanas; piezas de reemplazo 4 semanas"
+              ],
+              [
+                "Rango de cavidades",
+                "Según la gama del OEM",
+                "Varía según el proveedor",
+                "De 2 a 160 cavidades"
+              ],
+              [
+                "Plataformas",
+                "Principalmente las máquinas propias del OEM",
+                "Varía según el proveedor",
+                "Husky, Netstal, SACMI, SIPA, Milacron y otras"
+              ],
+              [
+                "Evidencia de calidad",
+                "Según la documentación del OEM",
+                "Solicite datos de capacidad e informes de MMC",
+                "CPK ≥ 1,33; informes de inspección con MMC Zeiss bajo pedido"
+              ],
+              [
+                "Canales calientes",
+                "Canales calientes y reacondicionamiento del OEM, según husky.co y sipasolutions.com",
+                "Algunos fabricantes los hacen, muchos no",
+                "Canales calientes de válvula hasta 144 cavidades; garantía antifugas de 3 años en el diseño tipo Husky Ultra"
+              ],
+              [
+                "Precios",
+                "Cotizado por proyecto",
+                "Cotizado por proyecto",
+                "Sin lista de precios pública; cotización por proyecto"
+              ]
             ]
           }
         },

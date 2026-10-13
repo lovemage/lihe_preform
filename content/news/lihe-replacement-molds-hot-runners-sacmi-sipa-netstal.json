@@ -1,20 +1,42 @@
 {
   "slug": "lihe-replacement-molds-hot-runners-sacmi-sipa-netstal",
   "questionId": "q114",
-  "date": "2026-10-13",
-  "relatedProducts": [27, 21, 19],
+  "date": "2026-10-11",
+  "relatedProducts": [
+    27,
+    21,
+    19
+  ],
   "images": {
     "hero": "/images/news/lihe-replacement-molds-hot-runners-sacmi-sipa-netstal-hero.webp",
     "detail": "/images/news/lihe-replacement-molds-hot-runners-sacmi-sipa-netstal-detail.webp",
     "og": "/images/news/lihe-replacement-molds-hot-runners-sacmi-sipa-netstal-hero-og.jpg"
   },
   "sources": [
-    { "label": "SACMI — Compression molding technology", "url": "https://sacmi.com/en-US/closures-preforms-containers/Compression-Molding" },
-    { "label": "SIPA — PET preform injection moulds and tooling", "url": "https://sipasolutions.com/products/moulds/preform-tooling" },
-    { "label": "SIPA — PET mould refurbishment and conversion services", "url": "https://sipasolutions.com/products/moulds/refurbishment-conversion" },
-    { "label": "SIPA — Hot runner refurbishment", "url": "https://sipasolutions.com/services/hot-runner-refurbishment" },
-    { "label": "Netstal — PET preform injection molding system solutions", "url": "https://www.netstal.com/en/industries/pet-preform-injection-molding-solutions/" },
-    { "label": "Wikipedia — Hot runner", "url": "https://en.wikipedia.org/wiki/Hot_runner" }
+    {
+      "label": "SACMI — Compression molding technology",
+      "url": "https://sacmi.com/en-US/closures-preforms-containers/Compression-Molding"
+    },
+    {
+      "label": "SIPA — PET preform injection moulds and tooling",
+      "url": "https://sipasolutions.com/products/moulds/preform-tooling"
+    },
+    {
+      "label": "SIPA — PET mould refurbishment and conversion services",
+      "url": "https://sipasolutions.com/products/moulds/refurbishment-conversion"
+    },
+    {
+      "label": "SIPA — Hot runner refurbishment",
+      "url": "https://sipasolutions.com/services/hot-runner-refurbishment"
+    },
+    {
+      "label": "Netstal — PET preform injection molding system solutions",
+      "url": "https://www.netstal.com/en/industries/pet-preform-injection-molding-solutions/"
+    },
+    {
+      "label": "Wikipedia — Hot runner",
+      "url": "https://en.wikipedia.org/wiki/Hot_runner"
+    }
   ],
   "locales": {
     "en": {
@@ -50,33 +72,97 @@
             "The table shows only what LIHE publishes on lihe-preform.com. A blank or a note means the item is not listed, not that it is impossible; ask LIHE to confirm."
           ],
           "table": {
-            "head": ["Machine brand", "Replacement preform molds", "Hot runner systems", "Other tooling LIHE lists"],
+            "head": [
+              "Machine brand",
+              "Replacement preform molds",
+              "Hot runner systems",
+              "Other tooling LIHE lists"
+            ],
             "rows": [
-              ["SACMI", "Yes, SACMI is in the machine list for preform molds", "Not on the published compatibility list; confirm per project", "Compression molds for SACMI CCM lines; conversion parts; replacement parts made from existing SACMI parts"],
-              ["SIPA", "Yes, SIPA is in the machine list for preform molds", "Yes, listed as compatible", "Conversion parts; one-step blow molds for SIPA machines"],
-              ["NETSTAL", "Yes, NETSTAL is in the machine list for preform molds", "Yes, listed as compatible", "Conversion parts"]
+              [
+                "SACMI",
+                "Yes, SACMI is in the machine list for preform molds",
+                "Not on the published compatibility list; confirm per project",
+                "Compression molds for SACMI CCM lines; conversion parts; replacement parts made from existing SACMI parts"
+              ],
+              [
+                "SIPA",
+                "Yes, SIPA is in the machine list for preform molds",
+                "Yes, listed as compatible",
+                "Conversion parts; one-step blow molds for SIPA machines"
+              ],
+              [
+                "NETSTAL",
+                "Yes, NETSTAL is in the machine list for preform molds",
+                "Yes, listed as compatible",
+                "Conversion parts"
+              ]
             ]
           }
         },
         {
           "heading": "Key numbers from LIHE's published data",
           "table": {
-            "head": ["Metric", "Published value", "Where LIHE states it"],
+            "head": [
+              "Metric",
+              "Published value",
+              "Where LIHE states it"
+            ],
             "rows": [
-              ["Preform mold cavitation", "2 to 160 cavities", "lihe-preform.com, products"],
-              ["Hot runner capacity", "Up to 144 cavities (preform), 96 cavities (closure)", "lihe-preform.com, products"],
-              ["Hot runner guarantee", "3-year leakage-proof guarantee", "lihe-preform.com, products"],
-              ["Process capability", "CPK ≥ 1.33", "lihe-preform.com, Why Choose LIHE"],
-              ["Operational defect rate", "As low as 0.0064%", "lihe-preform.com, Why Choose LIHE"],
-              ["Mold life on Husky/SACMI/Netstal platforms", "Up to 8 million shots", "lihe-preform.com, Why Choose LIHE"],
-              ["Replacement parts lead time", "4 weeks", "lihe-preform.com, home page"],
-              ["Standard PET mold lead time", "8 weeks", "lihe-preform.com, home page"],
-              ["Pilot mold lead time", "20 days", "lihe-preform.com, home page"],
-              ["Retrofit cost for lightweighting", "25%–40% of a new mold price", "lihe-preform.com, home page"]
+              [
+                "Preform mold cavitation",
+                "2 to 160 cavities",
+                "lihe-preform.com, products"
+              ],
+              [
+                "Hot runner capacity",
+                "Up to 144 cavities (preform), 96 cavities (closure)",
+                "lihe-preform.com, products"
+              ],
+              [
+                "Hot runner guarantee",
+                "3-year leakage-proof guarantee",
+                "lihe-preform.com, products"
+              ],
+              [
+                "Process capability",
+                "CPK ≥ 1.33",
+                "lihe-preform.com, Why Choose LIHE"
+              ],
+              [
+                "Operational defect rate",
+                "As low as 0.0064%",
+                "lihe-preform.com, Why Choose LIHE"
+              ],
+              [
+                "Mold life on Husky/SACMI/Netstal platforms",
+                "Up to 8 million shots",
+                "lihe-preform.com, Why Choose LIHE"
+              ],
+              [
+                "Replacement parts lead time",
+                "4 weeks",
+                "lihe-preform.com, home page"
+              ],
+              [
+                "Standard PET mold lead time",
+                "8 weeks",
+                "lihe-preform.com, home page"
+              ],
+              [
+                "Pilot mold lead time",
+                "20 days",
+                "lihe-preform.com, home page"
+              ],
+              [
+                "Retrofit cost for lightweighting",
+                "25%–40% of a new mold price",
+                "lihe-preform.com, home page"
+              ]
             ]
           },
           "paragraphs": [
-            "Values checked on lihe-preform.com on 13 October 2026. Exact prices require a quote."
+            "Values checked on lihe-preform.com on 11 October 2026. Exact prices require a quote."
           ]
         },
         {
@@ -85,13 +171,49 @@
             "This article is published by LIHE. OEM statements below come only from the official SACMI, SIPA and Netstal web pages listed under References; each company publishes different metrics."
           ],
           "table": {
-            "head": ["", "LIHE Precision", "SACMI", "SIPA", "Netstal"],
+            "head": [
+              "",
+              "LIHE Precision",
+              "SACMI",
+              "SIPA",
+              "Netstal"
+            ],
             "rows": [
-              ["Role", "Independent tooling maker for several machine brands", "Machine maker; supplies CCM continuous compression molding machines", "Machine maker and mold maker", "Machine maker; supplies turnkey preform systems with partners"],
-              ["Molds", "Preform molds 2 to 160 cavities; compression molds for SACMI CCM lines", "States that CCM molds are independent and can be replaced quickly and individually", "Complete molds up to 200 cavities, full or partial mold conversions, spare parts for hot halves", "Machine, mold and hot runners from a single source; systems configurable to 192 cavities"],
-              ["Hot runners", "Up to 144 preform cavities; compatible with HUSKY, NETSTAL, KM, SIPA; 3-year leakage-proof guarantee", "Compression process uses no hot runner", "Three refurbishment levels for SIPA hot runners of any generation", "Hot runners included in turnkey systems"],
-              ["Life or refurbishment figures", "Built to withstand up to 8 million shots", "Not stated on the cited page", "LongLife service extends cold-half life up to 12 million cycles before first maintenance", "Not stated on the cited page"],
-              ["Prices", "Quote only", "Not published on the cited page", "Not published on the cited page", "Not published on the cited page"]
+              [
+                "Role",
+                "Independent tooling maker for several machine brands",
+                "Machine maker; supplies CCM continuous compression molding machines",
+                "Machine maker and mold maker",
+                "Machine maker; supplies turnkey preform systems with partners"
+              ],
+              [
+                "Molds",
+                "Preform molds 2 to 160 cavities; compression molds for SACMI CCM lines",
+                "States that CCM molds are independent and can be replaced quickly and individually",
+                "Complete molds up to 200 cavities, full or partial mold conversions, spare parts for hot halves",
+                "Machine, mold and hot runners from a single source; systems configurable to 192 cavities"
+              ],
+              [
+                "Hot runners",
+                "Up to 144 preform cavities; compatible with HUSKY, NETSTAL, KM, SIPA; 3-year leakage-proof guarantee",
+                "Compression process uses no hot runner",
+                "Three refurbishment levels for SIPA hot runners of any generation",
+                "Hot runners included in turnkey systems"
+              ],
+              [
+                "Life or refurbishment figures",
+                "Built to withstand up to 8 million shots",
+                "Not stated on the cited page",
+                "LongLife service extends cold-half life up to 12 million cycles before first maintenance",
+                "Not stated on the cited page"
+              ],
+              [
+                "Prices",
+                "Quote only",
+                "Not published on the cited page",
+                "Not published on the cited page",
+                "Not published on the cited page"
+              ]
             ]
           }
         },
@@ -203,33 +325,97 @@
             "В таблице только то, что LIHE публикует на lihe-preform.com. Примечание означает, что позиция не указана, а не что она невозможна; уточняйте у LIHE."
           ],
           "table": {
-            "head": ["Марка машины", "Сменные формы для преформ", "Горячеканальные системы", "Другая оснастка в перечне LIHE"],
+            "head": [
+              "Марка машины",
+              "Сменные формы для преформ",
+              "Горячеканальные системы",
+              "Другая оснастка в перечне LIHE"
+            ],
             "rows": [
-              ["SACMI", "Да, SACMI есть в списке машин для форм преформ", "Нет в опубликованном списке совместимости; уточняется по проекту", "Компрессионные формы для линий SACMI CCM; конверсионные детали; запчасти по существующим деталям SACMI"],
-              ["SIPA", "Да, SIPA есть в списке машин для форм преформ", "Да, указана как совместимая", "Конверсионные детали; выдувные формы для одностадийных машин SIPA"],
-              ["NETSTAL", "Да, NETSTAL есть в списке машин для форм преформ", "Да, указана как совместимая", "Конверсионные детали"]
+              [
+                "SACMI",
+                "Да, SACMI есть в списке машин для форм преформ",
+                "Нет в опубликованном списке совместимости; уточняется по проекту",
+                "Компрессионные формы для линий SACMI CCM; конверсионные детали; запчасти по существующим деталям SACMI"
+              ],
+              [
+                "SIPA",
+                "Да, SIPA есть в списке машин для форм преформ",
+                "Да, указана как совместимая",
+                "Конверсионные детали; выдувные формы для одностадийных машин SIPA"
+              ],
+              [
+                "NETSTAL",
+                "Да, NETSTAL есть в списке машин для форм преформ",
+                "Да, указана как совместимая",
+                "Конверсионные детали"
+              ]
             ]
           }
         },
         {
           "heading": "Ключевые цифры из опубликованных данных LIHE",
           "table": {
-            "head": ["Показатель", "Опубликованное значение", "Где указано"],
+            "head": [
+              "Показатель",
+              "Опубликованное значение",
+              "Где указано"
+            ],
             "rows": [
-              ["Гнездность форм для преформ", "От 2 до 160 гнезд", "lihe-preform.com, продукция"],
-              ["Горячеканальные системы", "До 144 гнезд (преформы), 96 гнезд (колпачки)", "lihe-preform.com, продукция"],
-              ["Гарантия на горячие каналы", "3 года от протечек", "lihe-preform.com, продукция"],
-              ["Индекс воспроизводимости процесса", "CPK ≥ 1,33", "lihe-preform.com, раздел Why Choose LIHE"],
-              ["Операционный уровень брака", "От 0,0064%", "lihe-preform.com, раздел Why Choose LIHE"],
-              ["Ресурс формы на платформах Husky/SACMI/Netstal", "До 8 миллионов циклов", "lihe-preform.com, раздел Why Choose LIHE"],
-              ["Срок запасных частей", "4 недели", "lihe-preform.com, главная"],
-              ["Срок стандартной ПЭТ-формы", "8 недель", "lihe-preform.com, главная"],
-              ["Срок пилотной формы", "20 дней", "lihe-preform.com, главная"],
-              ["Стоимость модернизации под облегчение", "25–40% цены новой формы", "lihe-preform.com, главная"]
+              [
+                "Гнездность форм для преформ",
+                "От 2 до 160 гнезд",
+                "lihe-preform.com, продукция"
+              ],
+              [
+                "Горячеканальные системы",
+                "До 144 гнезд (преформы), 96 гнезд (колпачки)",
+                "lihe-preform.com, продукция"
+              ],
+              [
+                "Гарантия на горячие каналы",
+                "3 года от протечек",
+                "lihe-preform.com, продукция"
+              ],
+              [
+                "Индекс воспроизводимости процесса",
+                "CPK ≥ 1,33",
+                "lihe-preform.com, раздел Why Choose LIHE"
+              ],
+              [
+                "Операционный уровень брака",
+                "От 0,0064%",
+                "lihe-preform.com, раздел Why Choose LIHE"
+              ],
+              [
+                "Ресурс формы на платформах Husky/SACMI/Netstal",
+                "До 8 миллионов циклов",
+                "lihe-preform.com, раздел Why Choose LIHE"
+              ],
+              [
+                "Срок запасных частей",
+                "4 недели",
+                "lihe-preform.com, главная"
+              ],
+              [
+                "Срок стандартной ПЭТ-формы",
+                "8 недель",
+                "lihe-preform.com, главная"
+              ],
+              [
+                "Срок пилотной формы",
+                "20 дней",
+                "lihe-preform.com, главная"
+              ],
+              [
+                "Стоимость модернизации под облегчение",
+                "25–40% цены новой формы",
+                "lihe-preform.com, главная"
+              ]
             ]
           },
           "paragraphs": [
-            "Значения проверены на lihe-preform.com 13 октября 2026 года. Точные цены сообщаются по запросу."
+            "Значения проверены на lihe-preform.com 11 октября 2026 года. Точные цены сообщаются по запросу."
           ]
         },
         {
@@ -238,13 +424,49 @@
             "Статья опубликована компанией LIHE. Сведения о производителях взяты только с официальных страниц SACMI, SIPA и Netstal, перечисленных в списке источников; каждая компания публикует разные показатели."
           ],
           "table": {
-            "head": ["", "LIHE Precision", "SACMI", "SIPA", "Netstal"],
+            "head": [
+              "",
+              "LIHE Precision",
+              "SACMI",
+              "SIPA",
+              "Netstal"
+            ],
             "rows": [
-              ["Роль", "Независимый производитель оснастки для нескольких марок машин", "Производитель машин; поставляет машины непрерывного компрессионного формования CCM", "Производитель машин и пресс-форм", "Производитель машин; поставляет комплектные системы для преформ вместе с партнерами"],
-              ["Пресс-формы", "Формы для преформ от 2 до 160 гнезд; компрессионные формы для линий SACMI CCM", "Указывает, что формы CCM независимы и заменяются быстро и по отдельности", "Комплектные формы до 200 гнезд, полные и частичные конверсии, запчасти для горячих половин", "Машина, форма и горячие каналы из одних рук; системы до 192 гнезд"],
-              ["Горячие каналы", "До 144 гнезд для преформ; совместимы с HUSKY, NETSTAL, KM, SIPA; 3 года гарантии от протечек", "Компрессионный процесс работает без горячего канала", "Три уровня восстановления горячих каналов SIPA любого поколения", "Горячие каналы входят в комплектные системы"],
-              ["Показатели ресурса или восстановления", "Ресурс до 8 миллионов циклов", "На указанной странице не приводятся", "Сервис LongLife продлевает ресурс холодной половины до 12 миллионов циклов до первого обслуживания", "На указанной странице не приводятся"],
-              ["Цены", "Только по запросу", "На указанной странице не опубликованы", "На указанной странице не опубликованы", "На указанной странице не опубликованы"]
+              [
+                "Роль",
+                "Независимый производитель оснастки для нескольких марок машин",
+                "Производитель машин; поставляет машины непрерывного компрессионного формования CCM",
+                "Производитель машин и пресс-форм",
+                "Производитель машин; поставляет комплектные системы для преформ вместе с партнерами"
+              ],
+              [
+                "Пресс-формы",
+                "Формы для преформ от 2 до 160 гнезд; компрессионные формы для линий SACMI CCM",
+                "Указывает, что формы CCM независимы и заменяются быстро и по отдельности",
+                "Комплектные формы до 200 гнезд, полные и частичные конверсии, запчасти для горячих половин",
+                "Машина, форма и горячие каналы из одних рук; системы до 192 гнезд"
+              ],
+              [
+                "Горячие каналы",
+                "До 144 гнезд для преформ; совместимы с HUSKY, NETSTAL, KM, SIPA; 3 года гарантии от протечек",
+                "Компрессионный процесс работает без горячего канала",
+                "Три уровня восстановления горячих каналов SIPA любого поколения",
+                "Горячие каналы входят в комплектные системы"
+              ],
+              [
+                "Показатели ресурса или восстановления",
+                "Ресурс до 8 миллионов циклов",
+                "На указанной странице не приводятся",
+                "Сервис LongLife продлевает ресурс холодной половины до 12 миллионов циклов до первого обслуживания",
+                "На указанной странице не приводятся"
+              ],
+              [
+                "Цены",
+                "Только по запросу",
+                "На указанной странице не опубликованы",
+                "На указанной странице не опубликованы",
+                "На указанной странице не опубликованы"
+              ]
             ]
           }
         },
@@ -356,33 +578,97 @@
             "La tabla muestra solo lo que LIHE publica en lihe-preform.com. Una nota indica que el elemento no figura en la lista, no que sea imposible; consulte a LIHE."
           ],
           "table": {
-            "head": ["Marca de máquina", "Moldes de preforma de reemplazo", "Sistemas de canal caliente", "Otro utillaje que indica LIHE"],
+            "head": [
+              "Marca de máquina",
+              "Moldes de preforma de reemplazo",
+              "Sistemas de canal caliente",
+              "Otro utillaje que indica LIHE"
+            ],
             "rows": [
-              ["SACMI", "Sí, SACMI figura en la lista de máquinas para moldes de preforma", "No figura en la lista publicada de compatibilidad; confirmar por proyecto", "Moldes de compresión para líneas SACMI CCM; piezas de conversión; piezas de reemplazo a partir de piezas SACMI existentes"],
-              ["SIPA", "Sí, SIPA figura en la lista de máquinas para moldes de preforma", "Sí, indicada como compatible", "Piezas de conversión; moldes de soplado de una etapa para máquinas SIPA"],
-              ["NETSTAL", "Sí, NETSTAL figura en la lista de máquinas para moldes de preforma", "Sí, indicada como compatible", "Piezas de conversión"]
+              [
+                "SACMI",
+                "Sí, SACMI figura en la lista de máquinas para moldes de preforma",
+                "No figura en la lista publicada de compatibilidad; confirmar por proyecto",
+                "Moldes de compresión para líneas SACMI CCM; piezas de conversión; piezas de reemplazo a partir de piezas SACMI existentes"
+              ],
+              [
+                "SIPA",
+                "Sí, SIPA figura en la lista de máquinas para moldes de preforma",
+                "Sí, indicada como compatible",
+                "Piezas de conversión; moldes de soplado de una etapa para máquinas SIPA"
+              ],
+              [
+                "NETSTAL",
+                "Sí, NETSTAL figura en la lista de máquinas para moldes de preforma",
+                "Sí, indicada como compatible",
+                "Piezas de conversión"
+              ]
             ]
           }
         },
         {
           "heading": "Cifras clave de los datos publicados por LIHE",
           "table": {
-            "head": ["Indicador", "Valor publicado", "Dónde lo indica LIHE"],
+            "head": [
+              "Indicador",
+              "Valor publicado",
+              "Dónde lo indica LIHE"
+            ],
             "rows": [
-              ["Cavidades por molde de preforma", "De 2 a 160 cavidades", "lihe-preform.com, productos"],
-              ["Capacidad de canal caliente", "Hasta 144 cavidades (preforma), 96 cavidades (tapas)", "lihe-preform.com, productos"],
-              ["Garantía de canal caliente", "3 años contra fugas", "lihe-preform.com, productos"],
-              ["Capacidad de proceso", "CPK ≥ 1,33", "lihe-preform.com, Why Choose LIHE"],
-              ["Tasa operativa de defectos", "Desde 0,0064%", "lihe-preform.com, Why Choose LIHE"],
-              ["Vida del molde en plataformas Husky/SACMI/Netstal", "Hasta 8 millones de inyecciones", "lihe-preform.com, Why Choose LIHE"],
-              ["Plazo de piezas de reemplazo", "4 semanas", "lihe-preform.com, inicio"],
-              ["Plazo de molde PET estándar", "8 semanas", "lihe-preform.com, inicio"],
-              ["Plazo de molde piloto", "20 días", "lihe-preform.com, inicio"],
-              ["Costo de modernización para aligeramiento", "25%–40% del precio de un molde nuevo", "lihe-preform.com, inicio"]
+              [
+                "Cavidades por molde de preforma",
+                "De 2 a 160 cavidades",
+                "lihe-preform.com, productos"
+              ],
+              [
+                "Capacidad de canal caliente",
+                "Hasta 144 cavidades (preforma), 96 cavidades (tapas)",
+                "lihe-preform.com, productos"
+              ],
+              [
+                "Garantía de canal caliente",
+                "3 años contra fugas",
+                "lihe-preform.com, productos"
+              ],
+              [
+                "Capacidad de proceso",
+                "CPK ≥ 1,33",
+                "lihe-preform.com, Why Choose LIHE"
+              ],
+              [
+                "Tasa operativa de defectos",
+                "Desde 0,0064%",
+                "lihe-preform.com, Why Choose LIHE"
+              ],
+              [
+                "Vida del molde en plataformas Husky/SACMI/Netstal",
+                "Hasta 8 millones de inyecciones",
+                "lihe-preform.com, Why Choose LIHE"
+              ],
+              [
+                "Plazo de piezas de reemplazo",
+                "4 semanas",
+                "lihe-preform.com, inicio"
+              ],
+              [
+                "Plazo de molde PET estándar",
+                "8 semanas",
+                "lihe-preform.com, inicio"
+              ],
+              [
+                "Plazo de molde piloto",
+                "20 días",
+                "lihe-preform.com, inicio"
+              ],
+              [
+                "Costo de modernización para aligeramiento",
+                "25%–40% del precio de un molde nuevo",
+                "lihe-preform.com, inicio"
+              ]
             ]
           },
           "paragraphs": [
-            "Valores comprobados en lihe-preform.com el 13 de octubre de 2026. Los precios exactos requieren cotización."
+            "Valores comprobados en lihe-preform.com el 11 de octubre de 2026. Los precios exactos requieren cotización."
           ]
         },
         {
@@ -391,13 +677,49 @@
             "Este artículo está publicado por LIHE. Las afirmaciones de los fabricantes proceden solo de las páginas oficiales de SACMI, SIPA y Netstal indicadas en las referencias; cada empresa publica indicadores distintos."
           ],
           "table": {
-            "head": ["", "LIHE Precision", "SACMI", "SIPA", "Netstal"],
+            "head": [
+              "",
+              "LIHE Precision",
+              "SACMI",
+              "SIPA",
+              "Netstal"
+            ],
             "rows": [
-              ["Función", "Fabricante independiente de utillaje para varias marcas de máquinas", "Fabricante de máquinas; suministra máquinas de moldeo por compresión continua CCM", "Fabricante de máquinas y de moldes", "Fabricante de máquinas; suministra sistemas llave en mano de preformas con socios"],
-              ["Moldes", "Moldes de preforma de 2 a 160 cavidades; moldes de compresión para líneas SACMI CCM", "Indica que los moldes CCM son independientes y se sustituyen de forma rápida e individual", "Moldes completos de hasta 200 cavidades, conversiones totales o parciales, repuestos para mitades calientes", "Máquina, molde y canales calientes de un solo proveedor; sistemas configurables hasta 192 cavidades"],
-              ["Canales calientes", "Hasta 144 cavidades de preforma; compatibles con HUSKY, NETSTAL, KM, SIPA; garantía de 3 años contra fugas", "El proceso de compresión no usa canal caliente", "Tres niveles de reacondicionamiento para canales calientes SIPA de cualquier generación", "Canales calientes incluidos en los sistemas llave en mano"],
-              ["Cifras de vida o reacondicionamiento", "Construido para soportar hasta 8 millones de inyecciones", "No indicadas en la página citada", "El servicio LongLife extiende la vida de la mitad fría hasta 12 millones de ciclos antes del primer mantenimiento", "No indicadas en la página citada"],
-              ["Precios", "Solo por cotización", "No publicados en la página citada", "No publicados en la página citada", "No publicados en la página citada"]
+              [
+                "Función",
+                "Fabricante independiente de utillaje para varias marcas de máquinas",
+                "Fabricante de máquinas; suministra máquinas de moldeo por compresión continua CCM",
+                "Fabricante de máquinas y de moldes",
+                "Fabricante de máquinas; suministra sistemas llave en mano de preformas con socios"
+              ],
+              [
+                "Moldes",
+                "Moldes de preforma de 2 a 160 cavidades; moldes de compresión para líneas SACMI CCM",
+                "Indica que los moldes CCM son independientes y se sustituyen de forma rápida e individual",
+                "Moldes completos de hasta 200 cavidades, conversiones totales o parciales, repuestos para mitades calientes",
+                "Máquina, molde y canales calientes de un solo proveedor; sistemas configurables hasta 192 cavidades"
+              ],
+              [
+                "Canales calientes",
+                "Hasta 144 cavidades de preforma; compatibles con HUSKY, NETSTAL, KM, SIPA; garantía de 3 años contra fugas",
+                "El proceso de compresión no usa canal caliente",
+                "Tres niveles de reacondicionamiento para canales calientes SIPA de cualquier generación",
+                "Canales calientes incluidos en los sistemas llave en mano"
+              ],
+              [
+                "Cifras de vida o reacondicionamiento",
+                "Construido para soportar hasta 8 millones de inyecciones",
+                "No indicadas en la página citada",
+                "El servicio LongLife extiende la vida de la mitad fría hasta 12 millones de ciclos antes del primer mantenimiento",
+                "No indicadas en la página citada"
+              ],
+              [
+                "Precios",
+                "Solo por cotización",
+                "No publicados en la página citada",
+                "No publicados en la página citada",
+                "No publicados en la página citada"
+              ]
             ]
           }
         },

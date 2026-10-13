@@ -1,19 +1,38 @@
 {
   "slug": "pet-preform-mold-troubleshooting-slow-cycle-defects",
   "questionId": "q117",
-  "date": "2026-10-13",
-  "relatedProducts": [19, 27, 18],
+  "date": "2026-09-26",
+  "relatedProducts": [
+    19,
+    27,
+    18
+  ],
   "images": {
     "hero": "/images/news/pet-preform-mold-troubleshooting-slow-cycle-defects-hero.webp",
     "detail": "/images/news/pet-preform-mold-troubleshooting-slow-cycle-defects-detail.webp",
     "og": "/images/news/pet-preform-mold-troubleshooting-slow-cycle-defects-hero-og.jpg"
   },
   "sources": [
-    { "label": "Wikipedia — Injection moulding", "url": "https://en.wikipedia.org/wiki/Injection_moulding" },
-    { "label": "Wikipedia — Polyethylene terephthalate", "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate" },
-    { "label": "Wikipedia — Hot runner", "url": "https://en.wikipedia.org/wiki/Hot_runner" },
-    { "label": "Wikipedia — Acetaldehyde", "url": "https://en.wikipedia.org/wiki/Acetaldehyde" },
-    { "label": "Wikipedia — Process capability index", "url": "https://en.wikipedia.org/wiki/Process_capability_index" }
+    {
+      "label": "Wikipedia — Injection moulding",
+      "url": "https://en.wikipedia.org/wiki/Injection_moulding"
+    },
+    {
+      "label": "Wikipedia — Polyethylene terephthalate",
+      "url": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate"
+    },
+    {
+      "label": "Wikipedia — Hot runner",
+      "url": "https://en.wikipedia.org/wiki/Hot_runner"
+    },
+    {
+      "label": "Wikipedia — Acetaldehyde",
+      "url": "https://en.wikipedia.org/wiki/Acetaldehyde"
+    },
+    {
+      "label": "Wikipedia — Process capability index",
+      "url": "https://en.wikipedia.org/wiki/Process_capability_index"
+    }
   ],
   "locales": {
     "en": {
@@ -82,31 +101,110 @@
         {
           "heading": "Defect troubleshooting table",
           "table": {
-            "head": ["Defect", "What you see", "Common causes", "Checks and fixes"],
+            "head": [
+              "Defect",
+              "What you see",
+              "Common causes",
+              "Checks and fixes"
+            ],
             "rows": [
-              ["Haze / crystallinity", "White or cloudy areas, often near gate or base", "Slow cooling, scale in channels, wet resin", "Check water flow, descale, verify drying"],
-              ["Short shot", "Incomplete preform, usually neck area", "Cold hot runner drop, blocked tip, blocked vent", "Check zone temperature, tip and vents"],
-              ["Flash", "Thin plastic at neck split line or parting line", "Worn neck rings or tapers, low clamp", "Measure and replace worn stack parts"],
-              ["Wall eccentricity", "Uneven wall thickness around the circumference", "Core shift, worn alignment, uneven cooling", "Check core alignment and tapers; balance cooling"],
-              ["Gate stringing / long gate", "Thread of plastic or long vestige at gate", "Worn valve pin or tip, gate too hot", "Replace pin and tip; adjust gate temperature"],
-              ["High AA", "Taste issues, high AA test results", "High melt temperature, long residence time", "Lower temperatures; check shot size versus barrel"],
-              ["Black specks", "Dark particles in the wall", "Degraded material in hot runner or barrel", "Clean manifold and screw; check for dead spots"],
-              ["Sink marks / voids", "Depression or bubble in thick sections", "Short hold time or pressure, wet resin", "Check hold settings and drying"],
-              ["Ovality / bent preform", "Out-of-round neck or body after ejection", "Insufficient cooling, take-out problems", "Check cooling and post-mold handling"],
-              ["Weight variation", "Different weight per cavity", "Hot runner imbalance, worn tips", "Rebalance zones; replace worn tips"]
+              [
+                "Haze / crystallinity",
+                "White or cloudy areas, often near gate or base",
+                "Slow cooling, scale in channels, wet resin",
+                "Check water flow, descale, verify drying"
+              ],
+              [
+                "Short shot",
+                "Incomplete preform, usually neck area",
+                "Cold hot runner drop, blocked tip, blocked vent",
+                "Check zone temperature, tip and vents"
+              ],
+              [
+                "Flash",
+                "Thin plastic at neck split line or parting line",
+                "Worn neck rings or tapers, low clamp",
+                "Measure and replace worn stack parts"
+              ],
+              [
+                "Wall eccentricity",
+                "Uneven wall thickness around the circumference",
+                "Core shift, worn alignment, uneven cooling",
+                "Check core alignment and tapers; balance cooling"
+              ],
+              [
+                "Gate stringing / long gate",
+                "Thread of plastic or long vestige at gate",
+                "Worn valve pin or tip, gate too hot",
+                "Replace pin and tip; adjust gate temperature"
+              ],
+              [
+                "High AA",
+                "Taste issues, high AA test results",
+                "High melt temperature, long residence time",
+                "Lower temperatures; check shot size versus barrel"
+              ],
+              [
+                "Black specks",
+                "Dark particles in the wall",
+                "Degraded material in hot runner or barrel",
+                "Clean manifold and screw; check for dead spots"
+              ],
+              [
+                "Sink marks / voids",
+                "Depression or bubble in thick sections",
+                "Short hold time or pressure, wet resin",
+                "Check hold settings and drying"
+              ],
+              [
+                "Ovality / bent preform",
+                "Out-of-round neck or body after ejection",
+                "Insufficient cooling, take-out problems",
+                "Check cooling and post-mold handling"
+              ],
+              [
+                "Weight variation",
+                "Different weight per cavity",
+                "Hot runner imbalance, worn tips",
+                "Rebalance zones; replace worn tips"
+              ]
             ]
           }
         },
         {
           "heading": "Slow cycle: quick cause-and-fix comparison",
           "table": {
-            "head": ["Observation", "Probable cause", "Fix"],
+            "head": [
+              "Observation",
+              "Probable cause",
+              "Fix"
+            ],
             "rows": [
-              ["Whole mold needs more cooling time than before", "Scale in channels or poor chiller performance", "Descale mold, check chiller capacity and water quality"],
-              ["Only some cavities need longer cooling", "Blocked or reduced flow in those circuits", "Clean and flow-test the affected circuits"],
-              ["Cycle extended to fill some cavities", "Cold or failed hot runner zones", "Repair heaters and thermocouples, rebalance"],
-              ["Cycle extended to control gate defects", "Worn tips, pins or gate inserts", "Replace worn hot runner and gate parts"],
-              ["Injection slowed to avoid flash", "Worn neck rings and locking tapers", "Refurbish or replace stack components"]
+              [
+                "Whole mold needs more cooling time than before",
+                "Scale in channels or poor chiller performance",
+                "Descale mold, check chiller capacity and water quality"
+              ],
+              [
+                "Only some cavities need longer cooling",
+                "Blocked or reduced flow in those circuits",
+                "Clean and flow-test the affected circuits"
+              ],
+              [
+                "Cycle extended to fill some cavities",
+                "Cold or failed hot runner zones",
+                "Repair heaters and thermocouples, rebalance"
+              ],
+              [
+                "Cycle extended to control gate defects",
+                "Worn tips, pins or gate inserts",
+                "Replace worn hot runner and gate parts"
+              ],
+              [
+                "Injection slowed to avoid flash",
+                "Worn neck rings and locking tapers",
+                "Refurbish or replace stack components"
+              ]
             ]
           }
         },
@@ -231,31 +329,110 @@
         {
           "heading": "Таблица диагностики дефектов",
           "table": {
-            "head": ["Дефект", "Как выглядит", "Частые причины", "Проверки и решения"],
+            "head": [
+              "Дефект",
+              "Как выглядит",
+              "Частые причины",
+              "Проверки и решения"
+            ],
             "rows": [
-              ["Помутнение / кристалличность", "Белые или мутные зоны, часто у литника или дна", "Медленное охлаждение, накипь в каналах, влажная смола", "Проверить расход воды, удалить накипь, проверить сушку"],
-              ["Недолив", "Неполная преформа, обычно в зоне горловины", "Холодное сопло, забитый наконечник, забитая вентиляция", "Проверить температуру зоны, наконечник и вентиляцию"],
-              ["Облой", "Тонкий пластик по разъёму горловых колец или формы", "Изношенные горловые кольца или конусы, низкое усилие смыкания", "Измерить и заменить изношенные детали пакета"],
-              ["Разностенность", "Неравномерная толщина стенки по окружности", "Смещение пуансона, износ центрирования, неравномерное охлаждение", "Проверить соосность пуансона и конусы; сбалансировать охлаждение"],
-              ["Нить / длинный литник", "Нить пластика или длинный след на литнике", "Изношенная игла или наконечник, перегретый литник", "Заменить иглу и наконечник; скорректировать температуру литника"],
-              ["Высокий AA", "Проблемы со вкусом, высокие результаты теста AA", "Высокая температура расплава, долгое время пребывания", "Снизить температуры; проверить дозу относительно цилиндра"],
-              ["Чёрные точки", "Тёмные частицы в стенке", "Деградированный материал в горячем канале или цилиндре", "Очистить коллектор и шнек; проверить застойные зоны"],
-              ["Утяжины / пустоты", "Впадина или пузырь в толстых участках", "Короткая выдержка или низкое давление, влажная смола", "Проверить параметры выдержки и сушку"],
-              ["Овальность / изогнутая преформа", "Некруглая горловина или корпус после съёма", "Недостаточное охлаждение, проблемы съёма", "Проверить охлаждение и посттехнологическое обращение"],
-              ["Разброс веса", "Разный вес по гнёздам", "Дисбаланс горячего канала, изношенные наконечники", "Перебалансировать зоны; заменить изношенные наконечники"]
+              [
+                "Помутнение / кристалличность",
+                "Белые или мутные зоны, часто у литника или дна",
+                "Медленное охлаждение, накипь в каналах, влажная смола",
+                "Проверить расход воды, удалить накипь, проверить сушку"
+              ],
+              [
+                "Недолив",
+                "Неполная преформа, обычно в зоне горловины",
+                "Холодное сопло, забитый наконечник, забитая вентиляция",
+                "Проверить температуру зоны, наконечник и вентиляцию"
+              ],
+              [
+                "Облой",
+                "Тонкий пластик по разъёму горловых колец или формы",
+                "Изношенные горловые кольца или конусы, низкое усилие смыкания",
+                "Измерить и заменить изношенные детали пакета"
+              ],
+              [
+                "Разностенность",
+                "Неравномерная толщина стенки по окружности",
+                "Смещение пуансона, износ центрирования, неравномерное охлаждение",
+                "Проверить соосность пуансона и конусы; сбалансировать охлаждение"
+              ],
+              [
+                "Нить / длинный литник",
+                "Нить пластика или длинный след на литнике",
+                "Изношенная игла или наконечник, перегретый литник",
+                "Заменить иглу и наконечник; скорректировать температуру литника"
+              ],
+              [
+                "Высокий AA",
+                "Проблемы со вкусом, высокие результаты теста AA",
+                "Высокая температура расплава, долгое время пребывания",
+                "Снизить температуры; проверить дозу относительно цилиндра"
+              ],
+              [
+                "Чёрные точки",
+                "Тёмные частицы в стенке",
+                "Деградированный материал в горячем канале или цилиндре",
+                "Очистить коллектор и шнек; проверить застойные зоны"
+              ],
+              [
+                "Утяжины / пустоты",
+                "Впадина или пузырь в толстых участках",
+                "Короткая выдержка или низкое давление, влажная смола",
+                "Проверить параметры выдержки и сушку"
+              ],
+              [
+                "Овальность / изогнутая преформа",
+                "Некруглая горловина или корпус после съёма",
+                "Недостаточное охлаждение, проблемы съёма",
+                "Проверить охлаждение и посттехнологическое обращение"
+              ],
+              [
+                "Разброс веса",
+                "Разный вес по гнёздам",
+                "Дисбаланс горячего канала, изношенные наконечники",
+                "Перебалансировать зоны; заменить изношенные наконечники"
+              ]
             ]
           }
         },
         {
           "heading": "Медленный цикл: быстрое сравнение причин и решений",
           "table": {
-            "head": ["Наблюдение", "Вероятная причина", "Решение"],
+            "head": [
+              "Наблюдение",
+              "Вероятная причина",
+              "Решение"
+            ],
             "rows": [
-              ["Всей форме нужно больше времени охлаждения, чем раньше", "Накипь в каналах или слабая работа чиллера", "Удалить накипь, проверить мощность чиллера и качество воды"],
-              ["Дольше охлаждения требуют только некоторые гнёзда", "Засор или снижение расхода в этих контурах", "Прочистить и проверить расход в этих контурах"],
-              ["Цикл удлинён, чтобы заполнить часть гнёзд", "Холодные или неисправные зоны горячего канала", "Отремонтировать нагреватели и термопары, перебалансировать"],
-              ["Цикл удлинён для борьбы с дефектами литника", "Изношенные наконечники, иглы или литниковые вставки", "Заменить изношенные детали горячего канала и литника"],
-              ["Впрыск замедлен, чтобы избежать облоя", "Изношенные горловые кольца и замковые конусы", "Восстановить или заменить детали пакета"]
+              [
+                "Всей форме нужно больше времени охлаждения, чем раньше",
+                "Накипь в каналах или слабая работа чиллера",
+                "Удалить накипь, проверить мощность чиллера и качество воды"
+              ],
+              [
+                "Дольше охлаждения требуют только некоторые гнёзда",
+                "Засор или снижение расхода в этих контурах",
+                "Прочистить и проверить расход в этих контурах"
+              ],
+              [
+                "Цикл удлинён, чтобы заполнить часть гнёзд",
+                "Холодные или неисправные зоны горячего канала",
+                "Отремонтировать нагреватели и термопары, перебалансировать"
+              ],
+              [
+                "Цикл удлинён для борьбы с дефектами литника",
+                "Изношенные наконечники, иглы или литниковые вставки",
+                "Заменить изношенные детали горячего канала и литника"
+              ],
+              [
+                "Впрыск замедлен, чтобы избежать облоя",
+                "Изношенные горловые кольца и замковые конусы",
+                "Восстановить или заменить детали пакета"
+              ]
             ]
           }
         },
@@ -380,31 +557,110 @@
         {
           "heading": "Tabla de diagnóstico de defectos",
           "table": {
-            "head": ["Defecto", "Qué se ve", "Causas habituales", "Comprobaciones y soluciones"],
+            "head": [
+              "Defecto",
+              "Qué se ve",
+              "Causas habituales",
+              "Comprobaciones y soluciones"
+            ],
             "rows": [
-              ["Turbidez / cristalinidad", "Zonas blancas o turbias, a menudo en punto de inyección o fondo", "Enfriamiento lento, cal en los canales, resina húmeda", "Revisar caudal de agua, desincrustar, verificar secado"],
-              ["Inyección incompleta", "Preforma incompleta, normalmente en el cuello", "Boquilla fría, punta obstruida, venteo obstruido", "Revisar temperatura de zona, punta y venteos"],
-              ["Rebaba", "Plástico fino en la junta de anillos de cuello o en la línea de partición", "Anillos de cuello o conos desgastados, cierre bajo", "Medir y sustituir piezas desgastadas del conjunto"],
-              ["Excentricidad de pared", "Espesor de pared desigual en la circunferencia", "Desplazamiento del macho, centrado desgastado, enfriamiento desigual", "Revisar alineación del macho y conos; equilibrar refrigeración"],
-              ["Hilos / punto largo", "Hilo de plástico o marca larga en el punto de inyección", "Aguja o punta desgastada, punto demasiado caliente", "Sustituir aguja y punta; ajustar temperatura del punto"],
-              ["AA alto", "Problemas de sabor, resultados altos en el ensayo de AA", "Temperatura de fundido alta, residencia larga", "Bajar temperaturas; revisar dosis frente a cilindro"],
-              ["Puntos negros", "Partículas oscuras en la pared", "Material degradado en canal caliente o cilindro", "Limpiar distribuidor y husillo; revisar zonas muertas"],
-              ["Rechupes / vacíos", "Hundimiento o burbuja en secciones gruesas", "Mantenimiento corto o presión baja, resina húmeda", "Revisar ajustes de mantenimiento y secado"],
-              ["Ovalidad / preforma doblada", "Cuello o cuerpo no redondo tras la expulsión", "Enfriamiento insuficiente, problemas de extracción", "Revisar refrigeración y manipulación posterior"],
-              ["Variación de peso", "Peso distinto por cavidad", "Desequilibrio del canal caliente, puntas desgastadas", "Reequilibrar zonas; sustituir puntas desgastadas"]
+              [
+                "Turbidez / cristalinidad",
+                "Zonas blancas o turbias, a menudo en punto de inyección o fondo",
+                "Enfriamiento lento, cal en los canales, resina húmeda",
+                "Revisar caudal de agua, desincrustar, verificar secado"
+              ],
+              [
+                "Inyección incompleta",
+                "Preforma incompleta, normalmente en el cuello",
+                "Boquilla fría, punta obstruida, venteo obstruido",
+                "Revisar temperatura de zona, punta y venteos"
+              ],
+              [
+                "Rebaba",
+                "Plástico fino en la junta de anillos de cuello o en la línea de partición",
+                "Anillos de cuello o conos desgastados, cierre bajo",
+                "Medir y sustituir piezas desgastadas del conjunto"
+              ],
+              [
+                "Excentricidad de pared",
+                "Espesor de pared desigual en la circunferencia",
+                "Desplazamiento del macho, centrado desgastado, enfriamiento desigual",
+                "Revisar alineación del macho y conos; equilibrar refrigeración"
+              ],
+              [
+                "Hilos / punto largo",
+                "Hilo de plástico o marca larga en el punto de inyección",
+                "Aguja o punta desgastada, punto demasiado caliente",
+                "Sustituir aguja y punta; ajustar temperatura del punto"
+              ],
+              [
+                "AA alto",
+                "Problemas de sabor, resultados altos en el ensayo de AA",
+                "Temperatura de fundido alta, residencia larga",
+                "Bajar temperaturas; revisar dosis frente a cilindro"
+              ],
+              [
+                "Puntos negros",
+                "Partículas oscuras en la pared",
+                "Material degradado en canal caliente o cilindro",
+                "Limpiar distribuidor y husillo; revisar zonas muertas"
+              ],
+              [
+                "Rechupes / vacíos",
+                "Hundimiento o burbuja en secciones gruesas",
+                "Mantenimiento corto o presión baja, resina húmeda",
+                "Revisar ajustes de mantenimiento y secado"
+              ],
+              [
+                "Ovalidad / preforma doblada",
+                "Cuello o cuerpo no redondo tras la expulsión",
+                "Enfriamiento insuficiente, problemas de extracción",
+                "Revisar refrigeración y manipulación posterior"
+              ],
+              [
+                "Variación de peso",
+                "Peso distinto por cavidad",
+                "Desequilibrio del canal caliente, puntas desgastadas",
+                "Reequilibrar zonas; sustituir puntas desgastadas"
+              ]
             ]
           }
         },
         {
           "heading": "Ciclo lento: comparación rápida de causas y soluciones",
           "table": {
-            "head": ["Observación", "Causa probable", "Solución"],
+            "head": [
+              "Observación",
+              "Causa probable",
+              "Solución"
+            ],
             "rows": [
-              ["Todo el molde necesita más enfriamiento que antes", "Cal en los canales o bajo rendimiento del enfriador", "Desincrustar el molde, revisar capacidad del enfriador y calidad del agua"],
-              ["Solo algunas cavidades necesitan más enfriamiento", "Caudal bloqueado o reducido en esos circuitos", "Limpiar y comprobar el caudal de los circuitos afectados"],
-              ["Ciclo alargado para llenar algunas cavidades", "Zonas del canal caliente frías o averiadas", "Reparar resistencias y termopares, reequilibrar"],
-              ["Ciclo alargado para controlar defectos del punto", "Puntas, agujas o insertos desgastados", "Sustituir piezas desgastadas del canal caliente y del punto"],
-              ["Inyección más lenta para evitar rebabas", "Anillos de cuello y conos de cierre desgastados", "Reacondicionar o sustituir componentes del conjunto"]
+              [
+                "Todo el molde necesita más enfriamiento que antes",
+                "Cal en los canales o bajo rendimiento del enfriador",
+                "Desincrustar el molde, revisar capacidad del enfriador y calidad del agua"
+              ],
+              [
+                "Solo algunas cavidades necesitan más enfriamiento",
+                "Caudal bloqueado o reducido en esos circuitos",
+                "Limpiar y comprobar el caudal de los circuitos afectados"
+              ],
+              [
+                "Ciclo alargado para llenar algunas cavidades",
+                "Zonas del canal caliente frías o averiadas",
+                "Reparar resistencias y termopares, reequilibrar"
+              ],
+              [
+                "Ciclo alargado para controlar defectos del punto",
+                "Puntas, agujas o insertos desgastados",
+                "Sustituir piezas desgastadas del canal caliente y del punto"
+              ],
+              [
+                "Inyección más lenta para evitar rebabas",
+                "Anillos de cuello y conos de cierre desgastados",
+                "Reacondicionar o sustituir componentes del conjunto"
+              ]
             ]
           }
         },
