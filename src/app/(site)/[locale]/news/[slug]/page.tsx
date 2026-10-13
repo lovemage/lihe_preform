@@ -92,9 +92,16 @@ export default async function NewsArticlePage({
       .map((image) => `${BASE_URL}${image!.src}`),
     author: {
       "@type": "Organization",
-      name: "Foshan Lihe Precision Machinery Co.,Ltd.",
+      name: "LIHE Precision Engineering Team",
       url: BASE_URL,
+      parentOrganization: {
+        "@type": "Organization",
+        name: "Foshan Lihe Precision Machinery Co.,Ltd.",
+      },
     },
+    ...(article.sources?.length
+      ? { citation: article.sources.map((source) => source.url) }
+      : {}),
     publisher: {
       "@type": "Organization",
       name: "Foshan Lihe Precision Machinery Co.,Ltd.",
@@ -149,6 +156,7 @@ export default async function NewsArticlePage({
                 {t("published")}{" "}
                 <time dateTime={article.date}>{formatNewsDate(locale, article.date)}</time>
               </span>
+              <span>{t("author")}</span>
               {article.updated && article.updated !== article.date && (
                 <span>
                   {t("updated")}{" "}
@@ -188,8 +196,10 @@ export default async function NewsArticlePage({
               )}
               {section.steps && (
                 <ol className={styles.steps}>
-                  {section.steps.map((step) => (
-                    <li key={step}>{step}</li>
+                  {section.steps.map((step, stepIndex) => (
+                    <li key={step}>
+                      <strong>{t("step", { n: stepIndex + 1 })}</strong> {step}
+                    </li>
                   ))}
                 </ol>
               )}
@@ -244,6 +254,21 @@ export default async function NewsArticlePage({
                   </div>
                 ))}
               </dl>
+            </section>
+          )}
+
+          {article.sources && article.sources.length > 0 && (
+            <section className={styles.section}>
+              <h2 className={styles.sectionHeading}>{t("sourcesHeading")}</h2>
+              <ol className={styles.sources}>
+                {article.sources.map((source) => (
+                  <li key={source.url}>
+                    <a href={source.url} target="_blank" rel="noopener">
+                      {source.label}
+                    </a>
+                  </li>
+                ))}
+              </ol>
             </section>
           )}
 

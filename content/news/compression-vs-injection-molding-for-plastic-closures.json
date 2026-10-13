@@ -1,0 +1,288 @@
+{
+  "slug": "compression-vs-injection-molding-for-plastic-closures",
+  "questionId": null,
+  "date": "2026-10-13",
+  "relatedProducts": [
+    21,
+    20,
+    27
+  ],
+  "images": {
+    "hero": "/images/news/compression-vs-injection-molding-for-plastic-closures-hero.webp",
+    "detail": "/images/news/compression-vs-injection-molding-for-plastic-closures-detail.webp",
+    "og": "/images/news/compression-vs-injection-molding-for-plastic-closures-hero-og.jpg"
+  },
+  "sources": [],
+  "locales": {
+    "en": {
+      "category": "Technical Insights",
+      "title": "Compression vs Injection Molding for Plastic Closures: A Practical Comparison",
+      "summary": "Plastic caps can be made by compression molding or by injection molding. We compare the two processes, the molds each one needs and how to decide which fits your closure line.",
+      "heroAlt": "Compression molding tooling for plastic caps — punches, dies and cores — next to finished bottle caps",
+      "detailAlt": "Multi-cavity closure injection mold core plate with polished cap cores",
+      "sections": [
+        {
+          "heading": "What is compression molding for closures?",
+          "paragraphs": [
+            "In closure compression molding, each cavity receives an exact-weight pellet of melted resin, which is then formed into a cap under high pressure. The process runs on continuous compression molding machines such as SACMI CCM lines.",
+            "Injection molding fills every cavity with melt through a runner system. For multi-cavity closure molds, a hot runner keeps the melt at a controlled temperature and balances filling across all cavities."
+          ]
+        },
+        {
+          "heading": "Why compression molding runs faster",
+          "paragraphs": [
+            "Because compression molding works at a lower processing temperature, the cap needs less cooling time. Shorter cooling means shorter cycles, higher output and lower energy use per cap than conventional injection."
+          ]
+        },
+        {
+          "heading": "Compression vs injection closure molds compared",
+          "table": {
+            "head": [
+              "",
+              "Compression mold",
+              "Injection closure mold"
+            ],
+            "rows": [
+              [
+                "How the cavity is filled",
+                "Exact-weight pellet of melted resin, formed under high pressure",
+                "Melt injected through a runner or hot runner system"
+              ],
+              [
+                "Processing temperature",
+                "Lower, so cooling time is shorter",
+                "Higher melt temperature"
+              ],
+              [
+                "Typical machines",
+                "SACMI CCM continuous compression molding lines",
+                "Mainstream closure injection molding machines"
+              ],
+              [
+                "Cavitation (LIHE range)",
+                "Matched to the SACMI CCM platform",
+                "12 to 72 cavities; closure hot runners up to 96 cavities"
+              ],
+              [
+                "Cap types",
+                "One-piece and two-piece, tamper-evident band, EU tethered caps",
+                "One-piece and two-piece, tamper-evident band, EU tethered caps"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Neck finishes and applications",
+          "list": [
+            "Neck finishes: 26mm, 28mm, 2925, 3025, 38mm and custom specifications.",
+            "Applications: water, juice and tea drinks, edible oil, condiments and soy sauce, cosmetics, health-care products, pharmaceuticals and food packaging.",
+            "EU tethered caps: both compression and injection closure molds can be built for tethered cap designs."
+          ]
+        },
+        {
+          "heading": "How to decide",
+          "steps": [
+            "Start from your machines: compression tooling is built for SACMI CCM lines, while injection molds run on closure injection molding machines.",
+            "Look at volume and energy cost: high-volume lines benefit most from the shorter cycles and lower energy per cap of compression molding.",
+            "Confirm the cap design: one-piece or two-piece, tamper-evident band, tethered cap and neck finish.",
+            "For an existing line, send your current parts or drawings; replacement compression tooling can be made from existing parts."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Can LIHE make replacement tooling for an existing SACMI compression line?",
+          "answer": "Yes. Replacement compression tooling — punches, dies, cores, cooling inserts and wear parts — can be made from your existing parts and is machined and inspected in-house."
+        },
+        {
+          "question": "How many cavities can a LIHE closure injection mold have?",
+          "answer": "LIHE closure injection molds are available from 12 to 72 cavities, and closure hot runner systems support up to 96 cavities."
+        },
+        {
+          "question": "Do LIHE closure molds support EU tethered caps?",
+          "answer": "Yes. Both compression molds and closure injection molds can be built for EU tethered cap designs, as well as one-piece and two-piece caps with tamper-evident bands."
+        }
+      ]
+    },
+    "ru": {
+      "category": "Технические статьи",
+      "title": "Компрессионное формование или литьё под давлением для колпачков: практическое сравнение",
+      "summary": "Пластиковые колпачки производят компрессионным формованием или литьём под давлением. Сравниваем оба процесса, необходимые пресс-формы и критерии выбора для вашей линии.",
+      "heroAlt": "Компрессионная оснастка для колпачков — пуансоны, матрицы и знаки — рядом с готовыми колпачками",
+      "detailAlt": "Плита знаков многогнёздной литьевой формы для колпачков",
+      "sections": [
+        {
+          "heading": "Что такое компрессионное формование колпачков?",
+          "paragraphs": [
+            "При компрессионном формовании в каждое гнездо подаётся доза расплава точного веса, которая формуется в колпачок под высоким давлением. Процесс идёт на машинах непрерывного компрессионного формования, например на линиях SACMI CCM.",
+            "При литье под давлением расплав заполняет все гнёзда через литниковую систему. В многогнёздных формах для колпачков горячеканальная система поддерживает заданную температуру расплава и балансирует заполнение всех гнёзд."
+          ]
+        },
+        {
+          "heading": "Почему компрессионное формование быстрее",
+          "paragraphs": [
+            "Компрессионное формование работает при более низкой температуре, поэтому колпачку нужно меньше времени на охлаждение. Более короткое охлаждение означает более короткий цикл, более высокую производительность и меньшее энергопотребление на колпачок по сравнению с обычным литьём под давлением."
+          ]
+        },
+        {
+          "heading": "Сравнение компрессионных и литьевых форм для колпачков",
+          "table": {
+            "head": [
+              "",
+              "Компрессионная форма",
+              "Литьевая форма для колпачков"
+            ],
+            "rows": [
+              [
+                "Заполнение гнезда",
+                "Доза расплава точного веса, формуется под высоким давлением",
+                "Впрыск расплава через литниковую или горячеканальную систему"
+              ],
+              [
+                "Температура процесса",
+                "Ниже, поэтому охлаждение короче",
+                "Более высокая температура расплава"
+              ],
+              [
+                "Типичное оборудование",
+                "Линии непрерывного компрессионного формования SACMI CCM",
+                "Распространённые термопластавтоматы для колпачков"
+              ],
+              [
+                "Гнёздность (ассортимент LIHE)",
+                "Под платформу SACMI CCM",
+                "От 12 до 72 гнёзд; горячеканальные системы для колпачков до 96 гнёзд"
+              ],
+              [
+                "Типы колпачков",
+                "Одно- и двухкомпонентные, с контрольным кольцом, привязные колпачки ЕС",
+                "Одно- и двухкомпонентные, с контрольным кольцом, привязные колпачки ЕС"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Горловины и области применения",
+          "list": [
+            "Горловины: 26 мм, 28 мм, 2925, 3025, 38 мм и нестандартные спецификации.",
+            "Применение: вода, соки и чайные напитки, растительное масло, соусы и соевый соус, косметика, товары для здоровья, фармацевтика и пищевая упаковка.",
+            "Привязные колпачки ЕС: как компрессионные, так и литьевые формы могут изготавливаться под привязные колпачки."
+          ]
+        },
+        {
+          "heading": "Как сделать выбор",
+          "steps": [
+            "Начните с оборудования: компрессионная оснастка делается для линий SACMI CCM, литьевые формы — для термопластавтоматов для колпачков.",
+            "Оцените объёмы и стоимость энергии: высокопроизводительные линии больше всего выигрывают от короткого цикла и меньшего энергопотребления компрессионного формования.",
+            "Уточните конструкцию колпачка: одно- или двухкомпонентный, контрольное кольцо, привязной колпачок, тип горловины.",
+            "Для действующей линии пришлите текущие детали или чертежи — сменную компрессионную оснастку можно изготовить по имеющимся деталям."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Может ли LIHE изготовить сменную оснастку для действующей компрессионной линии SACMI?",
+          "answer": "Да. Сменная компрессионная оснастка — пуансоны, матрицы, знаки, охлаждающие вставки и изнашиваемые детали — изготавливается по вашим действующим деталям, обрабатывается и контролируется на собственном производстве."
+        },
+        {
+          "question": "Сколько гнёзд может быть в литьевой форме LIHE для колпачков?",
+          "answer": "Литьевые формы LIHE для колпачков выпускаются на 12–72 гнезда, а горячеканальные системы для колпачков — до 96 гнёзд."
+        },
+        {
+          "question": "Поддерживают ли формы LIHE привязные колпачки ЕС?",
+          "answer": "Да. Компрессионные и литьевые формы могут изготавливаться под привязные колпачки ЕС, а также под одно- и двухкомпонентные колпачки с контрольным кольцом."
+        }
+      ]
+    },
+    "es": {
+      "category": "Artículos técnicos",
+      "title": "Moldeo por compresión o por inyección para tapas plásticas: comparativa práctica",
+      "summary": "Las tapas plásticas pueden fabricarse por compresión o por inyección. Comparamos ambos procesos, los moldes que necesita cada uno y cómo decidir cuál encaja en su línea de tapas.",
+      "heroAlt": "Herramental de compresión para tapas plásticas —punzones, matrices y machos— junto a tapas terminadas",
+      "detailAlt": "Placa de machos de un molde de inyección multicavidad para tapas",
+      "sections": [
+        {
+          "heading": "¿Qué es el moldeo por compresión de tapas?",
+          "paragraphs": [
+            "En el moldeo por compresión, cada cavidad recibe una dosis de resina fundida de peso exacto que se conforma en tapa a alta presión. El proceso se realiza en máquinas de moldeo por compresión continua, como las líneas SACMI CCM.",
+            "En el moldeo por inyección, el material fundido llena todas las cavidades a través de un sistema de alimentación. En moldes de tapas multicavidad, un canal caliente mantiene la temperatura del material y equilibra el llenado de todas las cavidades."
+          ]
+        },
+        {
+          "heading": "Por qué el moldeo por compresión es más rápido",
+          "paragraphs": [
+            "Como el moldeo por compresión trabaja a menor temperatura de proceso, la tapa necesita menos tiempo de enfriamiento. Menos enfriamiento significa ciclos más cortos, mayor producción y menor consumo energético por tapa que la inyección convencional."
+          ]
+        },
+        {
+          "heading": "Comparativa: moldes de compresión frente a moldes de inyección para tapas",
+          "table": {
+            "head": [
+              "",
+              "Molde de compresión",
+              "Molde de inyección para tapas"
+            ],
+            "rows": [
+              [
+                "Llenado de la cavidad",
+                "Dosis de resina fundida de peso exacto, conformada a alta presión",
+                "Inyección a través de un sistema de alimentación o canal caliente"
+              ],
+              [
+                "Temperatura de proceso",
+                "Menor, por lo que el enfriamiento es más corto",
+                "Mayor temperatura del material fundido"
+              ],
+              [
+                "Máquinas típicas",
+                "Líneas de compresión continua SACMI CCM",
+                "Inyectoras de tapas de uso general"
+              ],
+              [
+                "Cavidades (gama LIHE)",
+                "Adaptadas a la plataforma SACMI CCM",
+                "De 12 a 72 cavidades; canales calientes para tapas de hasta 96 cavidades"
+              ],
+              [
+                "Tipos de tapa",
+                "Una y dos piezas, banda de garantía, tapas unidas (tethered) UE",
+                "Una y dos piezas, banda de garantía, tapas unidas (tethered) UE"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Cuellos y aplicaciones",
+          "list": [
+            "Cuellos: 26 mm, 28 mm, 2925, 3025, 38 mm y especificaciones a medida.",
+            "Aplicaciones: agua, jugos y bebidas de té, aceite comestible, condimentos y salsa de soja, cosméticos, productos de salud, farmacéuticos y envases alimentarios.",
+            "Tapas unidas UE: tanto los moldes de compresión como los de inyección pueden fabricarse para diseños de tapa unida."
+          ]
+        },
+        {
+          "heading": "Cómo decidir",
+          "steps": [
+            "Parta de sus máquinas: el herramental de compresión se fabrica para líneas SACMI CCM y los moldes de inyección para inyectoras de tapas.",
+            "Evalúe volumen y costo energético: las líneas de alto volumen son las que más aprovechan los ciclos cortos y el menor consumo por tapa de la compresión.",
+            "Confirme el diseño de la tapa: una o dos piezas, banda de garantía, tapa unida y tipo de cuello.",
+            "Para una línea existente, envíe sus piezas o planos actuales; el herramental de compresión de reemplazo puede fabricarse a partir de piezas existentes."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Puede LIHE fabricar herramental de reemplazo para una línea de compresión SACMI existente?",
+          "answer": "Sí. El herramental de compresión de reemplazo —punzones, matrices, machos, insertos de refrigeración y piezas de desgaste— puede fabricarse a partir de sus piezas existentes y se mecaniza e inspecciona en planta."
+        },
+        {
+          "question": "¿Cuántas cavidades puede tener un molde de inyección de tapas de LIHE?",
+          "answer": "Los moldes de inyección de tapas de LIHE van de 12 a 72 cavidades, y los sistemas de canal caliente para tapas admiten hasta 96 cavidades."
+        },
+        {
+          "question": "¿Los moldes de tapas de LIHE admiten tapas unidas UE?",
+          "answer": "Sí. Tanto los moldes de compresión como los de inyección pueden fabricarse para tapas unidas UE, además de tapas de una y dos piezas con banda de garantía."
+        }
+      ]
+    }
+  }
+}

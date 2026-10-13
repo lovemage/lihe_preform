@@ -144,6 +144,9 @@
     "relatedProducts": "Productos relacionados",
     "ctaText": "¿Tiene un proyecto de molde? Nuestros ingenieros revisarán sus requisitos.",
     "ctaButton": "Solicitar Cotización",
-    "backToNews": "Volver a Noticias"
+    "backToNews": "Volver a Noticias",
+    "author": "Autor: equipo de ingeniería de LIHE Precision",
+    "step": "Paso {n}:",
+    "sourcesHeading": "Referencias"
   }
 }

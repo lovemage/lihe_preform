@@ -190,3 +190,24 @@
   width: 100%;
   height: auto;
 }
+
+.steps {
+  list-style: none;
+  padding-left: 0;
+}
+
+.steps strong {
+  color: var(--color-gray-900);
+}
+
+.sources {
+  margin: 0;
+  padding-left: 1.4em;
+  line-height: 1.8;
+  color: var(--color-gray-700);
+}
+
+.sources a {
+  color: var(--color-primary);
+  word-break: break-word;
+}

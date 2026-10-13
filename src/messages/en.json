@@ -144,6 +144,9 @@
     "relatedProducts": "Related products",
     "ctaText": "Have a mold project? Our engineers can review your requirements.",
     "ctaButton": "Request a Quote",
-    "backToNews": "Back to News & Insights"
+    "backToNews": "Back to News & Insights",
+    "author": "Author: LIHE Precision Engineering Team",
+    "step": "Step {n}:",
+    "sourcesHeading": "References"
   }
 }

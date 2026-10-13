@@ -20,6 +20,11 @@ export type NewsFaq = {
   answer: string;
 };
 
+export type NewsSource = {
+  label: string;
+  url: string;
+};
+
 export type NewsImage = {
   src: string;
   alt: string;
@@ -38,6 +43,7 @@ export type NewsArticle = {
   relatedProducts?: number[];
   sections: NewsSection[];
   faq?: NewsFaq[];
+  sources?: NewsSource[];
 };
 
 const newsByLocale: Record<string, { articles: NewsArticle[] }> = {

@@ -1,0 +1,313 @@
+{
+  "slug": "hot-fill-vs-cold-fill-pet-blow-molds",
+  "questionId": null,
+  "date": "2026-10-13",
+  "relatedProducts": [
+    31,
+    23,
+    26,
+    22
+  ],
+  "images": {
+    "hero": "/images/news/hot-fill-vs-cold-fill-pet-blow-molds-hero.webp",
+    "detail": "/images/news/hot-fill-vs-cold-fill-pet-blow-molds-detail.webp",
+    "og": "/images/news/hot-fill-vs-cold-fill-pet-blow-molds-hero-og.jpg"
+  },
+  "sources": [],
+  "locales": {
+    "en": {
+      "category": "Technical Insights",
+      "title": "Hot Fill vs Cold Fill PET Blow Molds: How to Choose the Right Mold",
+      "summary": "Hot fill and cold fill PET blow molds are built for different filling temperatures. This guide compares how each mold works, which beverages each one suits and what to specify when you order a new mold set.",
+      "heroAlt": "Opened PET blow mold halves showing a bottle cavity, lit warm and cool to contrast hot fill and cold fill",
+      "detailAlt": "Clear PET bottles on a conveyor after stretch blow molding, including a hot fill bottle with vacuum panels",
+      "sections": [
+        {
+          "heading": "What is the difference between a hot fill and a cold fill blow mold?",
+          "paragraphs": [
+            "A cold fill blow mold produces PET bottles that are filled at ambient temperature, such as still water, carbonated soft drinks (CSD), juice and dairy. A hot fill (heat-set) blow mold produces bottles that are filled hot, at around 85–95°C, for products such as juice, tea drinks and isotonic beverages.",
+            "The difference matters because standard PET bottles start to deform above about 60°C. A hot fill mold uses heated mold walls to crystallize and stabilize the bottle during blowing, so it keeps its shape when hot product goes in."
+          ]
+        },
+        {
+          "heading": "Key numbers at a glance",
+          "list": [
+            "Hot fill temperature: about 85–95°C.",
+            "Deformation point of standard (non-heat-set) PET bottles: about 60°C.",
+            "Cold fill: ambient-temperature filling, no heat-set process required."
+          ]
+        },
+        {
+          "heading": "Hot fill vs cold fill blow molds compared",
+          "table": {
+            "head": [
+              "",
+              "Cold fill blow mold",
+              "Hot fill (heat-set) blow mold"
+            ],
+            "rows": [
+              [
+                "Filling temperature",
+                "Ambient",
+                "About 85–95°C"
+              ],
+              [
+                "Typical products",
+                "Still water, CSD, juice, dairy",
+                "Juice, tea drinks, isotonic beverages"
+              ],
+              [
+                "Mold temperature control",
+                "Integrated cooling channels in shells and base molds",
+                "Heating channels for hot oil circulation, with separate temperature control of body and base"
+              ],
+              [
+                "Bottle design focus",
+                "Lightweighting and even wall thickness",
+                "Vacuum panels, reinforcing ribs and base geometry that stay stable after filling and cooling"
+              ],
+              [
+                "Machine platforms (LIHE range)",
+                "KHS / SIG InnoPET Blomax, Krones Contiform and other two-step and one-step blowers",
+                "Heat-set versions of mainstream two-step rotary blowers, including SIDEL and KRONES"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "How a hot fill mold keeps the bottle stable",
+          "paragraphs": [
+            "In a heat-set mold the shells carry hot oil instead of only cooling water. The heated cavity walls crystallize the PET during blowing, which raises the temperature the bottle can tolerate. As the hot product cools in the closed bottle, the internal pressure drops; vacuum panels in the bottle design absorb that pressure change so the bottle does not collapse or panel unevenly.",
+            "Because the mold runs at elevated temperature for long periods, the mold material and cavity finish are chosen for long-term operation under heat."
+          ]
+        },
+        {
+          "heading": "Where a cold fill mold saves cost",
+          "paragraphs": [
+            "Cold fill bottles do not need the heat-set structure, so the design work focuses on using less PET. Bottle geometry and base design are matched to the preform for even wall thickness at reduced bottle weight, and integrated cooling channels keep bottle quality stable at production speed. For producers with many bottle formats, a split-type quick-change mold lets you swap only the cavity inserts and base instead of the whole mold set."
+          ]
+        },
+        {
+          "heading": "What to specify when you request a quote",
+          "steps": [
+            "Filling type and temperature: cold fill, or hot fill with the actual filling temperature.",
+            "Blow molding machine brand, model and mold carrier type (for example KHS InnoPET Blomax or Krones Contiform).",
+            "Bottle drawing or sample, capacity and target bottle weight.",
+            "Preform specification and neck finish, or ask us to match the preform to the bottle.",
+            "Whether you need a complete set (mold shells, base molds and neck plates) or only cavity inserts."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Can a cold fill blow mold be used for hot fill products?",
+          "answer": "No. Standard PET bottles deform above about 60°C. Hot fill products filled at about 85–95°C need a heat-set mold with heated mold walls and a bottle design with vacuum panels."
+        },
+        {
+          "question": "Which machines does LIHE build cold fill blow molds for?",
+          "answer": "LIHE builds cold fill molds for KHS (formerly SIG) InnoPET Blomax and Krones Contiform stretch blow molders, and blow molds for SIDEL, KRONES, SIG/KHS, TECH-LONG and NEWAMSTAR two-step machines as well as SIPA, ASB and AOKI one-step machines."
+        },
+        {
+          "question": "Does LIHE help with bottle design?",
+          "answer": "Yes. Bottle design, preform matching, lightweighting and wall thickness optimization are part of LIHE's blow mold development."
+        }
+      ]
+    },
+    "ru": {
+      "category": "Технические статьи",
+      "title": "Выдувные формы для горячего и холодного розлива ПЭТ: как выбрать подходящую форму",
+      "summary": "Выдувные формы для горячего и холодного розлива рассчитаны на разную температуру наполнения. Сравниваем принцип работы, подходящие напитки и то, что нужно указать при заказе нового комплекта форм.",
+      "heroAlt": "Раскрытые полуформы выдувной формы ПЭТ с гнездом бутылки — сравнение горячего и холодного розлива",
+      "detailAlt": "Прозрачные ПЭТ-бутылки на конвейере после выдува, в том числе бутылка для горячего розлива с вакуумными панелями",
+      "sections": [
+        {
+          "heading": "Чем выдувная форма для горячего розлива отличается от формы для холодного розлива?",
+          "paragraphs": [
+            "Форма для холодного розлива выпускает ПЭТ-бутылки, которые наполняются при температуре окружающей среды: негазированная вода, газированные напитки (CSD), соки и молочные продукты. Форма для горячего розлива (heat-set) выпускает бутылки, которые наполняются горячим продуктом при температуре около 85–95°C: соки, чайные напитки, изотоники.",
+            "Разница принципиальна: стандартная ПЭТ-бутылка начинает деформироваться при температуре выше примерно 60°C. В форме для горячего розлива нагретые стенки кристаллизуют и стабилизируют бутылку при выдуве, поэтому она сохраняет форму при наполнении горячим продуктом."
+          ]
+        },
+        {
+          "heading": "Ключевые цифры",
+          "list": [
+            "Температура горячего розлива: около 85–95°C.",
+            "Порог деформации стандартной ПЭТ-бутылки (без термофиксации): около 60°C.",
+            "Холодный розлив: наполнение при температуре окружающей среды, термофиксация не требуется."
+          ]
+        },
+        {
+          "heading": "Сравнение форм для горячего и холодного розлива",
+          "table": {
+            "head": [
+              "",
+              "Форма для холодного розлива",
+              "Форма для горячего розлива (heat-set)"
+            ],
+            "rows": [
+              [
+                "Температура наполнения",
+                "Температура окружающей среды",
+                "Около 85–95°C"
+              ],
+              [
+                "Типичные продукты",
+                "Негазированная вода, CSD, соки, молочные продукты",
+                "Соки, чайные напитки, изотоники"
+              ],
+              [
+                "Термостатирование формы",
+                "Встроенные каналы охлаждения в полуформах и донышках",
+                "Каналы для циркуляции горячего масла, раздельное регулирование температуры корпуса и донышка"
+              ],
+              [
+                "Акцент в дизайне бутылки",
+                "Облегчение и равномерная толщина стенки",
+                "Вакуумные панели, рёбра жёсткости и геометрия дна, сохраняющие форму после наполнения и остывания"
+              ],
+              [
+                "Платформы (ассортимент LIHE)",
+                "KHS / SIG InnoPET Blomax, Krones Contiform и другие двухстадийные и одностадийные машины",
+                "Версии heat-set распространённых двухстадийных ротационных выдувных машин, включая SIDEL и KRONES"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Как форма для горячего розлива сохраняет стабильность бутылки",
+          "paragraphs": [
+            "В форме heat-set по полуформам циркулирует горячее масло, а не только охлаждающая вода. Нагретые стенки гнезда кристаллизуют ПЭТ во время выдува, повышая допустимую температуру бутылки. Когда горячий продукт остывает в закрытой бутылке, внутреннее давление падает; вакуумные панели в конструкции бутылки компенсируют это изменение, и бутылка не сминается.",
+            "Поскольку форма долго работает при повышенной температуре, материал формы и обработка поверхности гнезда подбираются для длительной эксплуатации в нагретом состоянии."
+          ]
+        },
+        {
+          "heading": "Где форма для холодного розлива экономит затраты",
+          "paragraphs": [
+            "Бутылкам для холодного розлива не нужна термофиксация, поэтому конструкция ориентирована на снижение расхода ПЭТ. Геометрия бутылки и дна согласуется с преформой для равномерной толщины стенки при меньшем весе, а встроенные каналы охлаждения обеспечивают стабильное качество на производственной скорости. Производителям с большим числом форматов разъёмная быстросменная форма позволяет менять только вставки гнезда и донышко, а не весь комплект."
+          ]
+        },
+        {
+          "heading": "Что указать в запросе коммерческого предложения",
+          "steps": [
+            "Тип розлива и температура: холодный розлив или горячий с фактической температурой наполнения.",
+            "Марка и модель выдувной машины, тип формодержателя (например, KHS InnoPET Blomax или Krones Contiform).",
+            "Чертёж или образец бутылки, объём и целевой вес бутылки.",
+            "Спецификация преформы и горловины — или поручите нам подобрать преформу под бутылку.",
+            "Нужен ли полный комплект (полуформы, донышки и шейные плиты) или только вставки гнезда."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Можно ли использовать форму для холодного розлива для горячего розлива?",
+          "answer": "Нет. Стандартная ПЭТ-бутылка деформируется при температуре выше примерно 60°C. Для продуктов, разливаемых при 85–95°C, нужна форма heat-set с нагреваемыми стенками и бутылка с вакуумными панелями."
+        },
+        {
+          "question": "Для каких машин LIHE изготавливает формы для холодного розлива?",
+          "answer": "LIHE изготавливает формы для холодного розлива для машин KHS (ранее SIG) InnoPET Blomax и Krones Contiform, а также выдувные формы для двухстадийных машин SIDEL, KRONES, SIG/KHS, TECH-LONG, NEWAMSTAR и одностадийных SIPA, ASB, AOKI."
+        },
+        {
+          "question": "Помогает ли LIHE с дизайном бутылки?",
+          "answer": "Да. Дизайн бутылки, подбор преформы, облегчение и оптимизация толщины стенки входят в разработку выдувной формы LIHE."
+        }
+      ]
+    },
+    "es": {
+      "category": "Artículos técnicos",
+      "title": "Moldes de soplado PET para llenado en caliente y en frío: cómo elegir el molde adecuado",
+      "summary": "Los moldes de soplado para llenado en caliente y en frío están diseñados para temperaturas de llenado distintas. Comparamos cómo funciona cada uno, qué bebidas admite y qué especificar al pedir un nuevo juego de moldes.",
+      "heroAlt": "Mitades abiertas de un molde de soplado PET con la cavidad de la botella, contraste entre llenado en caliente y en frío",
+      "detailAlt": "Botellas PET transparentes en una cinta tras el soplado, incluida una botella de llenado en caliente con paneles de vacío",
+      "sections": [
+        {
+          "heading": "¿Qué diferencia hay entre un molde de soplado para llenado en caliente y uno para llenado en frío?",
+          "paragraphs": [
+            "Un molde para llenado en frío produce botellas PET que se llenan a temperatura ambiente, como agua sin gas, bebidas carbonatadas (CSD), jugos y lácteos. Un molde para llenado en caliente (heat-set) produce botellas que se llenan en caliente, a unos 85–95°C, para productos como jugos, bebidas de té e isotónicas.",
+            "La diferencia es importante porque una botella PET estándar empieza a deformarse por encima de unos 60°C. Un molde para llenado en caliente usa paredes calefactadas que cristalizan y estabilizan la botella durante el soplado, de modo que conserva su forma al recibir el producto caliente."
+          ]
+        },
+        {
+          "heading": "Cifras clave",
+          "list": [
+            "Temperatura de llenado en caliente: unos 85–95°C.",
+            "Punto de deformación de una botella PET estándar (sin termofijado): unos 60°C.",
+            "Llenado en frío: a temperatura ambiente, sin proceso de termofijado."
+          ]
+        },
+        {
+          "heading": "Comparativa: llenado en frío frente a llenado en caliente",
+          "table": {
+            "head": [
+              "",
+              "Molde para llenado en frío",
+              "Molde para llenado en caliente (heat-set)"
+            ],
+            "rows": [
+              [
+                "Temperatura de llenado",
+                "Ambiente",
+                "Unos 85–95°C"
+              ],
+              [
+                "Productos típicos",
+                "Agua sin gas, CSD, jugos, lácteos",
+                "Jugos, bebidas de té, isotónicas"
+              ],
+              [
+                "Control de temperatura del molde",
+                "Canales de refrigeración integrados en carcasas y fondos",
+                "Canales de calefacción con circulación de aceite caliente y control separado de cuerpo y fondo"
+              ],
+              [
+                "Enfoque del diseño de la botella",
+                "Aligeramiento y espesor de pared uniforme",
+                "Paneles de vacío, nervios de refuerzo y geometría de fondo estables tras el llenado y el enfriamiento"
+              ],
+              [
+                "Plataformas (gama LIHE)",
+                "KHS / SIG InnoPET Blomax, Krones Contiform y otras sopladoras de dos y una etapa",
+                "Versiones heat-set de las principales sopladoras rotativas de dos etapas, incluidas SIDEL y KRONES"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Cómo un molde para llenado en caliente mantiene estable la botella",
+          "paragraphs": [
+            "En un molde heat-set las carcasas llevan aceite caliente y no solo agua de refrigeración. Las paredes calefactadas cristalizan el PET durante el soplado y elevan la temperatura que soporta la botella. Cuando el producto caliente se enfría dentro de la botella cerrada, la presión interna baja; los paneles de vacío del diseño absorben ese cambio para que la botella no se colapse.",
+            "Como el molde trabaja a temperatura elevada durante largos periodos, el material del molde y el acabado de la cavidad se eligen para operar de forma prolongada con calor."
+          ]
+        },
+        {
+          "heading": "Dónde ahorra costos un molde para llenado en frío",
+          "paragraphs": [
+            "Las botellas para llenado en frío no necesitan estructura termofijada, por lo que el diseño se centra en usar menos PET. La geometría de la botella y del fondo se ajusta a la preforma para lograr un espesor de pared uniforme con menor peso, y los canales de refrigeración integrados mantienen estable la calidad a velocidad de producción. Para productores con muchos formatos, un molde de cambio rápido tipo split permite cambiar solo los insertos de cavidad y el fondo en lugar del juego completo."
+          ]
+        },
+        {
+          "heading": "Qué especificar al solicitar una cotización",
+          "steps": [
+            "Tipo de llenado y temperatura: en frío, o en caliente con la temperatura real de llenado.",
+            "Marca y modelo de la sopladora y tipo de portamoldes (por ejemplo, KHS InnoPET Blomax o Krones Contiform).",
+            "Plano o muestra de la botella, capacidad y peso objetivo.",
+            "Especificación de la preforma y del cuello, o pídanos ajustar la preforma a la botella.",
+            "Si necesita el juego completo (carcasas, fondos y placas de cuello) o solo insertos de cavidad."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Se puede usar un molde para llenado en frío con productos de llenado en caliente?",
+          "answer": "No. Las botellas PET estándar se deforman por encima de unos 60°C. Los productos llenados a unos 85–95°C necesitan un molde heat-set con paredes calefactadas y una botella con paneles de vacío."
+        },
+        {
+          "question": "¿Para qué máquinas fabrica LIHE moldes de llenado en frío?",
+          "answer": "LIHE fabrica moldes de llenado en frío para sopladoras KHS (antes SIG) InnoPET Blomax y Krones Contiform, y moldes de soplado para máquinas de dos etapas SIDEL, KRONES, SIG/KHS, TECH-LONG y NEWAMSTAR, así como de una etapa SIPA, ASB y AOKI."
+        },
+        {
+          "question": "¿LIHE ayuda con el diseño de la botella?",
+          "answer": "Sí. El diseño de la botella, el ajuste de la preforma, el aligeramiento y la optimización del espesor de pared forman parte del desarrollo de moldes de soplado de LIHE."
+        }
+      ]
+    }
+  }
+}

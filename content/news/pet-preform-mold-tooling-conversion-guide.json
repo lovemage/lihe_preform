@@ -1,0 +1,289 @@
+{
+  "slug": "pet-preform-mold-tooling-conversion-guide",
+  "questionId": null,
+  "date": "2026-10-13",
+  "relatedProducts": [
+    34,
+    19,
+    27,
+    30
+  ],
+  "images": {
+    "hero": "/images/news/pet-preform-mold-tooling-conversion-guide-hero.webp",
+    "detail": "/images/news/pet-preform-mold-tooling-conversion-guide-detail.webp",
+    "og": "/images/news/pet-preform-mold-tooling-conversion-guide-hero-og.jpg"
+  },
+  "sources": [],
+  "locales": {
+    "en": {
+      "category": "Technical Insights",
+      "title": "Replacement Parts and Tooling Conversion for Husky, SACMI and Otto PET Preform Molds",
+      "summary": "You do not always need a new mold to change a neck finish, lightweight a preform or replace worn parts. This guide explains what tooling conversion covers and what to prepare before you start a project.",
+      "heroAlt": "PET preform injection mold core plate with polished cores next to a tray of clear preforms",
+      "detailAlt": "Coordinate measuring machine inspecting a preform mold neck ring in a QC lab",
+      "sections": [
+        {
+          "heading": "What is a tooling conversion service?",
+          "paragraphs": [
+            "Tooling conversion means producing replacement parts and performance upgrades for a PET preform mold you already own. Working from your existing Husky, SACMI or Otto parts, LIHE delivers matching tooling parts that you can fit to your existing mold.",
+            "Conversion goes beyond one-to-one replacement. It is also used for neck finish conversions and lightweighting projects, which reduce resin consumption, and for improving cooling efficiency to shorten cycle times."
+          ]
+        },
+        {
+          "heading": "What can be converted or replaced",
+          "list": [
+            "Preform mold parts such as cores, cavities, neck rings and gate inserts, made to match your existing mold.",
+            "Neck finish conversions, for example between common finishes such as PCO 1881, PCO 1810, 2925, 2622 and 38mm.",
+            "Hot runner service: replacement nozzle tips, valve pins, heaters and seals, plus refurbishment of existing hot runners.",
+            "Mold base plates: replacement or refurbished plates for existing molds."
+          ]
+        },
+        {
+          "heading": "Capacity and quality figures",
+          "list": [
+            "Preform molds from 2 to 160 cavities.",
+            "Over 12,000 cavities produced per year.",
+            "Valve gate hot runners up to 144 cavities for preforms.",
+            "Process capability CPK ≥ 1.33, with defect rates as low as 0.0064%."
+          ]
+        },
+        {
+          "heading": "Conversion vs a new mold",
+          "table": {
+            "head": [
+              "",
+              "Tooling conversion",
+              "New preform mold"
+            ],
+            "rows": [
+              [
+                "Best for",
+                "Worn parts, neck finish changes, lightweighting on an existing mold",
+                "New lines, new machines or a large change in cavitation"
+              ],
+              [
+                "Starting point",
+                "Your existing parts or drawings",
+                "Preform design and machine specification"
+              ],
+              [
+                "Scope",
+                "Selected parts and upgrades",
+                "Complete mold, hot runner and mold base"
+              ],
+              [
+                "Machine platforms",
+                "Husky, SACMI, Otto and other existing molds",
+                "HUSKY, NETSTAL, SACMI, SIPA, Milacron and others"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "What to prepare before you start",
+          "steps": [
+            "Identify the mold: original mold maker, injection machine model and number of cavities.",
+            "Send sample parts or drawings of the parts to be replaced.",
+            "Describe the goal: like-for-like replacement, a new neck finish, a lighter preform or a shorter cycle time.",
+            "Share the current preform specification, including neck finish and preform weight.",
+            "Agree on inspection: parts are measured on a Zeiss CMM, and inspection reports can be supplied with molds and spare parts on request."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Can LIHE make parts for a Husky preform mold?",
+          "answer": "Yes. LIHE produces replacement tooling parts from customers' existing Husky, SACMI and Otto parts so they can be fitted to the existing mold."
+        },
+        {
+          "question": "Can tooling conversion reduce cycle time?",
+          "answer": "Conversion projects can optimize cooling efficiency and blowing conditions to shorten cycle times, in addition to replacing parts."
+        },
+        {
+          "question": "Are inspection reports available?",
+          "answer": "Yes. Components are checked on a Zeiss 3D coordinate measuring machine and other QC equipment, and inspection reports are supplied with molds and spare parts on request."
+        }
+      ]
+    },
+    "ru": {
+      "category": "Технические статьи",
+      "title": "Запасные части и конверсия оснастки для пресс-форм ПЭТ-преформ Husky, SACMI и Otto",
+      "summary": "Чтобы сменить горловину, облегчить преформу или заменить изношенные детали, новая пресс-форма нужна не всегда. Рассказываем, что входит в конверсию оснастки и что подготовить перед началом проекта.",
+      "heroAlt": "Плита знаков пресс-формы для ПЭТ-преформ рядом с лотком прозрачных преформ",
+      "detailAlt": "Координатно-измерительная машина проверяет шейное кольцо пресс-формы в лаборатории ОТК",
+      "sections": [
+        {
+          "heading": "Что такое услуга конверсии оснастки?",
+          "paragraphs": [
+            "Конверсия оснастки — это изготовление запасных частей и модернизация уже имеющейся у вас пресс-формы для ПЭТ-преформ. По вашим действующим деталям Husky, SACMI или Otto LIHE изготавливает идентичные детали, которые устанавливаются на существующую форму.",
+            "Конверсия — это не только замена один к одному. Она применяется для смены горловины и облегчения преформы, что снижает расход сырья, а также для повышения эффективности охлаждения и сокращения цикла."
+          ]
+        },
+        {
+          "heading": "Что можно заменить или переделать",
+          "list": [
+            "Детали пресс-формы для преформ: знаки, матрицы, шейные кольца и вставки литника — под вашу существующую форму.",
+            "Смена горловины, например между распространёнными типами PCO 1881, PCO 1810, 2925, 2622 и 38 мм.",
+            "Сервис горячеканальных систем: сменные наконечники сопел, запорные иглы, нагреватели и уплотнения, а также восстановление действующих горячих каналов.",
+            "Плиты пресс-формы: новые или восстановленные плиты для действующих форм."
+          ]
+        },
+        {
+          "heading": "Мощности и показатели качества",
+          "list": [
+            "Пресс-формы для преформ от 2 до 160 гнёзд.",
+            "Более 12 000 гнёзд в год.",
+            "Горячеканальные системы с запорными иглами до 144 гнёзд для преформ.",
+            "Индекс воспроизводимости процесса CPK ≥ 1,33, уровень брака до 0,0064%."
+          ]
+        },
+        {
+          "heading": "Конверсия или новая пресс-форма",
+          "table": {
+            "head": [
+              "",
+              "Конверсия оснастки",
+              "Новая пресс-форма для преформ"
+            ],
+            "rows": [
+              [
+                "Когда подходит",
+                "Износ деталей, смена горловины, облегчение преформы на действующей форме",
+                "Новые линии, новые машины или значительное изменение гнёздности"
+              ],
+              [
+                "Исходные данные",
+                "Ваши действующие детали или чертежи",
+                "Конструкция преформы и спецификация машины"
+              ],
+              [
+                "Объём работ",
+                "Отдельные детали и модернизация",
+                "Полная пресс-форма, горячеканальная система и плиты"
+              ],
+              [
+                "Платформы",
+                "Husky, SACMI, Otto и другие действующие формы",
+                "HUSKY, NETSTAL, SACMI, SIPA, Milacron и другие"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Что подготовить перед началом",
+          "steps": [
+            "Определите форму: производитель, модель термопластавтомата и количество гнёзд.",
+            "Пришлите образцы или чертежи заменяемых деталей.",
+            "Опишите цель: замена один к одному, новая горловина, более лёгкая преформа или более короткий цикл.",
+            "Укажите текущую спецификацию преформы, включая горловину и вес.",
+            "Согласуйте контроль: детали измеряются на КИМ Zeiss, протоколы контроля прилагаются к формам и запчастям по запросу."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Может ли LIHE изготовить детали для пресс-формы Husky?",
+          "answer": "Да. LIHE изготавливает сменные детали по действующим деталям заказчика Husky, SACMI и Otto для установки на существующую пресс-форму."
+        },
+        {
+          "question": "Может ли конверсия оснастки сократить цикл?",
+          "answer": "Помимо замены деталей, проекты конверсии оптимизируют эффективность охлаждения и условия выдува для сокращения цикла."
+        },
+        {
+          "question": "Предоставляются ли протоколы контроля?",
+          "answer": "Да. Детали проверяются на координатно-измерительной машине Zeiss и другом оборудовании контроля качества, протоколы контроля прилагаются к формам и запчастям по запросу."
+        }
+      ]
+    },
+    "es": {
+      "category": "Artículos técnicos",
+      "title": "Repuestos y conversión de herramental para moldes de preforma PET Husky, SACMI y Otto",
+      "summary": "No siempre hace falta un molde nuevo para cambiar un cuello, aligerar una preforma o reemplazar piezas desgastadas. Explicamos qué cubre la conversión de herramental y qué preparar antes de iniciar un proyecto.",
+      "heroAlt": "Placa de machos de un molde de inyección de preformas PET junto a una bandeja de preformas",
+      "detailAlt": "Máquina de medición por coordenadas inspeccionando un anillo de cuello en el laboratorio de calidad",
+      "sections": [
+        {
+          "heading": "¿Qué es el servicio de conversión de herramental?",
+          "paragraphs": [
+            "La conversión de herramental consiste en fabricar repuestos y mejoras de rendimiento para un molde de preforma PET que usted ya tiene. A partir de sus piezas Husky, SACMI u Otto existentes, LIHE entrega piezas equivalentes que se montan en su molde actual.",
+            "La conversión va más allá del reemplazo uno a uno. También se usa para cambios de cuello y proyectos de aligeramiento, que reducen el consumo de resina, y para mejorar la eficiencia de refrigeración y acortar los ciclos."
+          ]
+        },
+        {
+          "heading": "Qué se puede convertir o reemplazar",
+          "list": [
+            "Piezas del molde de preforma, como machos, cavidades, anillos de cuello e insertos de punto de inyección, fabricadas para su molde actual.",
+            "Cambios de cuello, por ejemplo entre acabados comunes como PCO 1881, PCO 1810, 2925, 2622 y 38 mm.",
+            "Servicio de canal caliente: puntas de boquilla, agujas de válvula, resistencias y juntas de reemplazo, además de la reconstrucción de canales calientes existentes.",
+            "Placas de la base del molde: placas nuevas o reacondicionadas para moldes existentes."
+          ]
+        },
+        {
+          "heading": "Capacidad y cifras de calidad",
+          "list": [
+            "Moldes de preforma de 2 a 160 cavidades.",
+            "Más de 12.000 cavidades producidas al año.",
+            "Canales calientes con válvula de hasta 144 cavidades para preformas.",
+            "Capacidad de proceso CPK ≥ 1,33, con tasas de defectos de apenas 0,0064%."
+          ]
+        },
+        {
+          "heading": "Conversión frente a molde nuevo",
+          "table": {
+            "head": [
+              "",
+              "Conversión de herramental",
+              "Molde de preforma nuevo"
+            ],
+            "rows": [
+              [
+                "Recomendado para",
+                "Piezas desgastadas, cambios de cuello o aligeramiento en un molde existente",
+                "Líneas nuevas, máquinas nuevas o un gran cambio de cavidades"
+              ],
+              [
+                "Punto de partida",
+                "Sus piezas o planos existentes",
+                "Diseño de la preforma y especificación de la máquina"
+              ],
+              [
+                "Alcance",
+                "Piezas seleccionadas y mejoras",
+                "Molde completo, canal caliente y base de molde"
+              ],
+              [
+                "Plataformas",
+                "Husky, SACMI, Otto y otros moldes existentes",
+                "HUSKY, NETSTAL, SACMI, SIPA, Milacron y otras"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Qué preparar antes de empezar",
+          "steps": [
+            "Identifique el molde: fabricante original, modelo de inyectora y número de cavidades.",
+            "Envíe piezas de muestra o planos de las piezas a reemplazar.",
+            "Describa el objetivo: reemplazo idéntico, nuevo cuello, preforma más ligera o ciclo más corto.",
+            "Indique la especificación actual de la preforma, incluido el cuello y el peso.",
+            "Acuerde la inspección: las piezas se miden en una MMC Zeiss y, a petición, se entregan informes de inspección con moldes y repuestos."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿Puede LIHE fabricar piezas para un molde de preforma Husky?",
+          "answer": "Sí. LIHE fabrica piezas de reemplazo a partir de las piezas Husky, SACMI y Otto existentes del cliente para montarlas en el molde actual."
+        },
+        {
+          "question": "¿La conversión de herramental puede reducir el tiempo de ciclo?",
+          "answer": "Además de reemplazar piezas, los proyectos de conversión pueden optimizar la eficiencia de refrigeración y las condiciones de soplado para acortar los ciclos."
+        },
+        {
+          "question": "¿Se entregan informes de inspección?",
+          "answer": "Sí. Los componentes se verifican en una máquina de medición por coordenadas Zeiss y otros equipos de control de calidad, y los informes de inspección se entregan con moldes y repuestos a petición."
+        }
+      ]
+    }
+  }
+}
