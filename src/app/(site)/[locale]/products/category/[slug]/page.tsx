@@ -41,7 +41,9 @@ export async function generateMetadata({
   const t = await getTranslations("products");
 
   return {
-    title: `${capitalize(category.name)} — ${t("categoryTitleSuffix")} | Lihe Precision`,
+    title: t.has(`categoryMetaTitles.${slug}`)
+      ? t(`categoryMetaTitles.${slug}`)
+      : `${capitalize(category.name)} — ${t("categoryTitleSuffix")} | Lihe Precision`,
     description: clampDescription(category.description || category.short),
     alternates: getLocaleAlternates(locale, getCategoryPath(slug)),
   };

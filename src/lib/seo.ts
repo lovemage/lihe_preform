@@ -6,9 +6,9 @@ function normalizePagePath(pagePath: string): string {
   return withLeadingSlash.replace(/\/+$/, "");
 }
 
-function buildLocalePath(locale: string, pagePath: string): string {
+export function buildLocalePath(locale: string, pagePath: string): string {
   const normalized = normalizePagePath(pagePath);
-  return normalized ? `/${locale}${normalized}` : `/${locale}`;
+  return `/${locale}${normalized}/`;
 }
 
 export function getLocaleAlternates(locale: string, pagePath: string) {

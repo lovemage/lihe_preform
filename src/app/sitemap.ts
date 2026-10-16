@@ -5,6 +5,7 @@ import { routing } from "@/i18n/routing";
 import { getProductsData } from "@/lib/data";
 import { getCategoryPath, getProductCategories } from "@/lib/categories";
 import { getNewsArticles, getNewsPath } from "@/lib/news";
+import { buildLocalePath } from "@/lib/seo";
 
 export const dynamic = "force-static";
 
@@ -27,8 +28,7 @@ function getLatestMtime(filePaths: string[]): Date {
 }
 
 function buildLocalizedUrl(baseUrl: string, locale: string, page: string): string {
-  if (!page) return `${baseUrl}/${locale}/`;
-  return `${baseUrl}/${locale}${page}/`;
+  return `${baseUrl}${buildLocalePath(locale, page)}`;
 }
 
 function buildPageAlternates(baseUrl: string, page: string) {

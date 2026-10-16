@@ -89,6 +89,59 @@
   margin-top: var(--space-lg);
 }
 
+.specifications {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: var(--color-gray-700);
+}
+
+.specifications caption {
+  text-align: left;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--color-gray-900);
+  padding-bottom: var(--space-md);
+}
+
+.specifications th,
+.specifications td {
+  padding: var(--space-md);
+  border-bottom: 1px solid var(--color-gray-200);
+  text-align: left;
+  vertical-align: top;
+  overflow-wrap: anywhere;
+}
+
+.specifications th {
+  width: 35%;
+  background: var(--color-gray-50);
+  font-weight: 600;
+}
+
+.quoteChecklist {
+  padding: var(--space-lg);
+  background: var(--color-gray-50);
+  line-height: 1.7;
+  color: var(--color-gray-700);
+}
+
+.quoteChecklist h2 {
+  font-size: 1rem;
+  color: var(--color-gray-900);
+}
+
+.quoteChecklist p {
+  margin: var(--space-sm) 0;
+}
+
+.quoteChecklist a {
+  color: var(--color-primary);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
 @media (max-width: 768px) {
   .layout {
     grid-template-columns: 1fr;
@@ -101,6 +154,15 @@
 
   .productName {
     font-size: 1.5rem;
+  }
+
+  .specifications th,
+  .specifications td {
+    padding: 12px 10px;
+  }
+
+  .specifications th {
+    width: 42%;
   }
 }
 

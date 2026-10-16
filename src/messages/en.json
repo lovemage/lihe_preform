@@ -13,7 +13,7 @@
     "news": "News"
   },
   "home": {
-    "headline": "Global Leader in High-Performance Mold Solutions",
+    "headline": "PET Preform, Blow & Closure Mold Manufacturer",
     "metaTitle": "LIHE Precision | PET Preform, Blow & Closure Mold Manufacturer",
     "metaDescription": "Foshan LIHE Precision Machinery makes PET preform molds up to 160 cavities, blow molds, compression and closure molds, and hot runner systems for beverage and packaging producers worldwide.",
     "subheadline": "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) is a manufacturer of PET preform molds, blow molds, closure and compression molds, hot runner systems and mold components for the beverage and packaging industry, with manufacturing in Foshan, China.",
@@ -79,7 +79,41 @@
     "metaTitle": "PET Preform, Blow & Closure Molds | Lihe Precision",
     "relatedProducts": "Related Products",
     "directContact": "Quotes and technical questions are handled directly by the manufacturer's international sales department.",
-    "categoryTitleSuffix": "Product Range & Buying Guide"
+    "categoryTitleSuffix": "Product Range & Buying Guide",
+    "preformMetaTitle": "PET Preform Molds, 32–160 Cavities | LIHE Precision",
+    "preformMetaDescription": "LIHE manufactures PET preform molds with 32–160 cavities for HUSKY, NETSTAL, SIPA and KATA machines. Specify your neck finish and request a tooling quote.",
+    "preformSpecificationsTitle": "PET preform mold specifications",
+    "preformSpecifications": [
+      {
+        "label": "Cavitation",
+        "value": "32–160 cavities"
+      },
+      {
+        "label": "Machine platforms",
+        "value": "HUSKY, NETSTAL, SIPA and KATA; confirm the machine model and interface for your project."
+      },
+      {
+        "label": "Neck finishes",
+        "value": "PCO 1881, PCO 1810, 1716, 3025, 2925, 2622, 2522, ROPP and custom finishes"
+      },
+      {
+        "label": "Wide-mouth formats",
+        "value": "38, 45, 68, 80 and 90 mm"
+      },
+      {
+        "label": "Applications",
+        "value": "Water, carbonated soft drinks and beverage packaging"
+      }
+    ],
+    "preformQuoteTitle": "What to include in your mold inquiry",
+    "preformQuoteChecklist": "Send your machine make and model, neck drawing, preform weight, required cavity count and target output. Include the bottle drawing and resin or rPET requirements when available.",
+    "preformQualityLink": "See our mold inspection capabilities",
+    "categoryMetaTitles": {
+      "preform-mold": "PET Preform Mold Manufacturer & Tooling | LIHE Precision",
+      "closure-mold": "Closure & Cap Injection Molds | LIHE Precision",
+      "blow-mold": "PET Bottle Blow Molds | LIHE Precision"
+    },
+    "preformIntro": "LIHE Precision manufactures PET preform injection molds for water, carbonated soft drinks and beverage packaging. Select the cavity count and neck finish for your preform, then share your machine model and interface drawings for compatibility review."
   },
   "contact": {
     "title": "Contact Us",
@@ -116,7 +150,8 @@
       "quote": "Request a Quote",
       "support": "After-Sales Support",
       "other": "Other"
-    }
+    },
+    "productReference": "Product inquiry"
   },
   "footer": {
     "tagline": "Manufacturer of PET preform molds, blow molds and closure molds. Contact our international sales department directly.",

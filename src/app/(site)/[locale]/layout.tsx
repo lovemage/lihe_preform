@@ -12,17 +12,20 @@ import Footer from "@/components/layout/Footer";
 import JsonLd from "@/components/seo/JsonLd";
 import YandexMetrica from "@/components/analytics/YandexMetrica";
 import AttributionCapture from "@/components/analytics/AttributionCapture";
+import ConversionTracking from "@/components/analytics/ConversionTracking";
 import "@/styles/globals.css";
 import { DM_Sans, Plus_Jakarta_Sans } from "next/font/google";
 
 const dmSans = DM_Sans({
   subsets: ["latin", "latin-ext"],
+  fallback: ["Arial", "sans-serif"],
   variable: "--font-sans",
   display: "swap",
 });
 
 const plusJakarta = Plus_Jakarta_Sans({
   subsets: ["latin", "latin-ext"],
+  fallback: ["Arial", "sans-serif"],
   variable: "--font-heading",
   weight: ["600", "700", "800"],
   display: "swap",
@@ -179,6 +182,7 @@ export default async function LocaleLayout({
           <Footer siteData={siteData} />
           <YandexMetrica />
           <AttributionCapture />
+          <ConversionTracking />
         </NextIntlClientProvider>
       </body>
     </html>

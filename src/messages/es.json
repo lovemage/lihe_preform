@@ -13,9 +13,9 @@
     "news": "Noticias"
   },
   "home": {
-    "headline": "Ingeniería de Precisión en Moldes PET",
-    "metaTitle": "LIHE Precision | Fabricante de moldes de preformas, soplado y tapas PET",
-    "metaDescription": "Foshan LIHE Precision Machinery fabrica moldes de preformas PET de hasta 160 cavidades, moldes de soplado, de compresión y de tapas, y sistemas de canal caliente para envasadores de todo el mundo.",
+    "headline": "Fabricante de moldes para preformas PET",
+    "metaTitle": "Fabricante de moldes para preformas PET | LIHE Precision",
+    "metaDescription": "LIHE Precision fabrica moldes de preformas PET de 32 a 160 cavidades, moldes de soplado y tapas. Consulte la compatibilidad con su máquina y solicite cotización.",
     "subheadline": "LIHE Precision (Foshan Lihe Precision Machinery Co.,Ltd.) es un fabricante de moldes de preforma PET, moldes de soplado, moldes de tapas y de compresión, sistemas de canal caliente y componentes de molde para la industria de bebidas y envases, con fabricación en Foshan, China.",
     "exploreProducts": "Explorar Productos",
     "contactSales": "Contactar Ventas",
@@ -79,7 +79,41 @@
     "metaTitle": "Moldes de preformas, soplado y tapas PET | Lihe Precision",
     "relatedProducts": "Productos relacionados",
     "directContact": "Las cotizaciones y consultas técnicas las atiende directamente el departamento de ventas internacionales del fabricante.",
-    "categoryTitleSuffix": "gama de productos y guía de compra"
+    "categoryTitleSuffix": "gama de productos y guía de compra",
+    "preformMetaTitle": "Moldes de preformas PET, 32–160 cavidades | LIHE Precision",
+    "preformMetaDescription": "Moldes LIHE de preformas PET de 32 a 160 cavidades para máquinas HUSKY, NETSTAL, SIPA y KATA. Indique el acabado de cuello y solicite una cotización.",
+    "preformSpecificationsTitle": "Especificaciones del molde de preformas PET",
+    "preformSpecifications": [
+      {
+        "label": "Número de cavidades",
+        "value": "32–160 cavidades"
+      },
+      {
+        "label": "Plataformas de máquina",
+        "value": "HUSKY, NETSTAL, SIPA y KATA; confirme el modelo y la interfaz de la máquina para su proyecto."
+      },
+      {
+        "label": "Acabados de cuello",
+        "value": "PCO 1881, PCO 1810, 1716, 3025, 2925, 2622, 2522, ROPP y acabados personalizados"
+      },
+      {
+        "label": "Formatos de boca ancha",
+        "value": "38, 45, 68, 80 y 90 mm"
+      },
+      {
+        "label": "Aplicaciones",
+        "value": "Envases para agua, bebidas carbonatadas y otras bebidas"
+      }
+    ],
+    "preformQuoteTitle": "Datos para solicitar su molde",
+    "preformQuoteChecklist": "Envíe la marca y el modelo de la máquina, el plano del cuello, el peso de la preforma, el número de cavidades y la producción objetivo. Adjunte el plano de la botella y los requisitos de resina o rPET si dispone de ellos.",
+    "preformQualityLink": "Consulte nuestra capacidad de inspección de moldes",
+    "categoryMetaTitles": {
+      "preform-mold": "Fabricante de moldes de preformas PET | LIHE Precision",
+      "closure-mold": "Moldes de inyección para tapas | LIHE Precision",
+      "blow-mold": "Moldes de soplado para botellas PET | LIHE Precision"
+    },
+    "preformIntro": "LIHE Precision fabrica moldes de inyección de preformas PET para agua, bebidas carbonatadas y otros envases de bebidas. Elija el número de cavidades y el acabado de cuello, y envíe el modelo y los planos de la interfaz de su máquina para revisar la compatibilidad."
   },
   "contact": {
     "title": "Contacto",
@@ -116,7 +150,8 @@
       "quote": "Solicitar cotización",
       "support": "Soporte posventa",
       "other": "Otro"
-    }
+    },
+    "productReference": "Consulta de producto"
   },
   "footer": {
     "tagline": "Fabricante de moldes de preformas, soplado y tapas PET. Contacte directamente con nuestro departamento de ventas internacionales.",

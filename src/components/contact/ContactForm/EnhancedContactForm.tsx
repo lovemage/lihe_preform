@@ -1,6 +1,7 @@
 "use client";
 
 import { ATTRIBUTION_STORAGE_KEY } from "@/lib/attribution";
+import { trackConversion } from "@/lib/conversions";
 import { useState, useEffect } from "react";
 import Button from "@/components/ui/Button/Button";
 import styles from "./ContactForm.module.css";
@@ -8,6 +9,7 @@ import styles from "./ContactForm.module.css";
 type EnhancedContactFormProps = {
   locale: string;
   productCategories: string[];
+  products: { id: string; name: string; category: string }[];
   labels: {
     heading: string;
     description: string;
@@ -18,6 +20,7 @@ type EnhancedContactFormProps = {
     country: string;
     productCategory: string;
     requirements: string;
+    productReference: string;
     captcha: string;
     submit: string;
     sending: string;
@@ -64,11 +67,12 @@ function readAttribution(): unknown {
   }
 }
 
-export default function EnhancedContactForm({ locale, productCategories, labels }: EnhancedContactFormProps) {
+export default function EnhancedContactForm({ locale, productCategories, products, labels }: EnhancedContactFormProps) {
   const [submitted, setSubmitted] = useState(false);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [captcha, setCaptcha] = useState<{ question: string; token: string } | null>(null);
+  const [inquiryProductId, setInquiryProductId] = useState<string | undefined>();
 
   const [formData, setFormData] = useState({
     firstName: "",
@@ -85,6 +89,18 @@ export default function EnhancedContactForm({ locale, productCategories, labels 
     loadCaptcha();
   }, []);
 
+  useEffect(() => {
+    const productId = new URLSearchParams(window.location.search).get("product");
+    const product = products.find((item) => item.id === productId);
+    if (!product || !productCategories.includes(product.category)) return;
+    setInquiryProductId(product.id);
+    setFormData((previous) => ({
+      ...previous,
+      productCategory: previous.productCategory || product.category,
+      requirements: previous.requirements || `${labels.productReference}: ${product.name}\n\n`,
+    }));
+  }, [products, productCategories, labels.productReference]);
+
   async function loadCaptcha() {
     try {
       const res = await fetch(`/api/contact/captcha?locale=${locale}`);
@@ -96,7 +112,7 @@ export default function EnhancedContactForm({ locale, productCategories, labels 
         throw new Error(data.error || "Invalid CAPTCHA response");
       }
       setCaptcha({ question: data.question, token: data.token });
-      setError(null);
+      setFormData((previous) => ({ ...previous, captchaAnswer: "" }));
     } catch (err) {
       console.error("Failed to load CAPTCHA:", err);
       setCaptcha(null);
@@ -111,6 +127,7 @@ export default function EnhancedContactForm({ locale, productCategories, labels 
 
   async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault();
+    if (loading || submitted) return;
     setLoading(true);
     setError(null);
 
@@ -142,9 +159,10 @@ export default function EnhancedContactForm({ locale, productCategories, labels 
       }
 
       setSubmitted(true);
+      trackConversion("inquiry_success", inquiryProductId);
     } catch (err) {
+      await loadCaptcha();
       setError(err instanceof Error ? err.message : labels.errorMessage);
-      loadCaptcha(); // Reload CAPTCHA on error
     } finally {
       setLoading(false);
     }
@@ -166,7 +184,7 @@ export default function EnhancedContactForm({ locale, productCategories, labels 
       <p className={styles.formDescription}>{labels.description}</p>
 
       {error && (
-        <div className={styles.errorBox}>
+        <div className={styles.errorBox} role="alert">
           {error}
         </div>
       )}

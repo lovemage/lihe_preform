@@ -36,6 +36,7 @@ export async function generateMetadata({
   setRequestLocale(locale);
   const data = getProductsData(locale);
   const product = data.products.find((p: any) => String(p.id) === id);
+  const t = await getTranslations("products");
 
   if (!product) {
     return {
@@ -49,8 +50,8 @@ export async function generateMetadata({
   }
 
   return {
-    title: getProductMetaTitle(product.name, getCategoryByName(locale, product.category)?.name),
-    description: clampDescription(product.description),
+    title: id === "19" ? t("preformMetaTitle") : getProductMetaTitle(product.name, getCategoryByName(locale, product.category)?.name),
+    description: id === "19" ? t("preformMetaDescription") : clampDescription(product.description),
     alternates: getLocaleAlternates(locale, `/products/${id}`),
   };
 }
@@ -131,8 +132,20 @@ export default async function ProductDetailPage({
               <span className={styles.categoryBadge}>{product.category}</span>
             )}
             <h1 className={styles.productName}>{product.name}</h1>
-            <p className={styles.description}>{product.description}</p>
-            {product.bullets && product.bullets.length > 0 && (
+            <p className={styles.description}>{id === "19" ? t("preformIntro") : product.description}</p>
+            {id === "19" ? (
+              <table className={styles.specifications}>
+                <caption>{t("preformSpecificationsTitle")}</caption>
+                <tbody>
+                  {(t.raw("preformSpecifications") as { label: string; value: string }[]).map((row) => (
+                    <tr key={row.label}>
+                      <th scope="row">{row.label}</th>
+                      <td>{row.value}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            ) : product.bullets && product.bullets.length > 0 && (
               <ul className={styles.bulletList}>
                 {product.bullets.map((bullet: string) => (
                   <li key={bullet} className={styles.bulletItem}>{bullet}</li>
@@ -140,10 +153,17 @@ export default async function ProductDetailPage({
               </ul>
             )}
             <div className={styles.actions}>
-              <Button href="/contact" variant="primary" size="lg">
+              <Button href={`/contact/?product=${product.id}`} variant="primary" size="lg">
                 {t("requestQuote")}
               </Button>
             </div>
+            {id === "19" && (
+              <div className={styles.quoteChecklist}>
+                <h2>{t("preformQuoteTitle")}</h2>
+                <p>{t("preformQuoteChecklist")}</p>
+                <Link href="/equipment/qc/">{t("preformQualityLink")}</Link>
+              </div>
+            )}
             <p className={styles.directContact}>{t("directContact")}</p>
           </div>
         </div>

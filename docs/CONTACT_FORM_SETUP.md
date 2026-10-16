@@ -275,6 +275,43 @@ const operations = ['+', '-', '*']; // Add multiplication
 3. Check network tab for API errors
 4. Review server logs for validation errors
 
+## Inquiry attribution and conversion goals
+
+Product detail pages link to `/{locale}/contact/?product=<id>`. The form
+validates the ID against the published product list, then fills the localized
+category and product reference. Unknown IDs leave the form blank. The
+existing first-touch attribution snapshot is included in the inquiry email.
+
+Conversion tracking uses the existing `NEXT_PUBLIC_YANDEX_METRICA_ID` counter.
+Create JavaScript event goals with these exact identifiers in Yandex Metrica:
+
+| Goal identifier | Trigger |
+| --- | --- |
+| `quote_click` | Click on an internal contact-page link; includes navigation links |
+| `email_click` | Click on a `mailto:` link |
+| `phone_click` | Click on a `tel:` link |
+| `whatsapp_click` | Click on a WhatsApp link |
+| `inquiry_success` | Contact API returns a successful HTTP response |
+
+Click goals measure intent; only `inquiry_success` measures an accepted form
+submission. A success response does not prove final email delivery. Failed
+submissions do not emit that goal. After a failure, the error remains visible
+and the refreshed CAPTCHA requires a new answer.
+
+Event parameters include `locale`, `page_path`, and, when available,
+`product_id`, `source_channel`, and `landing_page`. No names, email addresses,
+phone numbers or inquiry text are sent in these custom events. Tracking is
+best-effort when analytics or browser storage is unavailable.
+
+After deployment, verify the goals in Metrica, then compare complete 28-day
+periods by language, landing page and traffic source. Keep the GSC baseline
+of 2026-07-14 through 2026-10-13 separate from post-deployment results.
+
+Local verification must mock `/api/contact/captcha` and `/api/contact/submit`
+and block the analytics endpoint so tests do not send emails or pollute reports.
+
+Reference: [Yandex Metrica JavaScript event goals](https://yandex.com/support/metrica/en/general/goal-js-event).
+
 ## Support
 
 For issues or questions, contact the development team or refer to:

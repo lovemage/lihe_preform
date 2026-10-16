@@ -125,6 +125,9 @@ export default async function ContactPage({
             <EnhancedContactForm
               locale={locale}
               productCategories={productCategories}
+              products={productsData.products.map((product: { id: number; name: string; category: string }) => ({
+                id: String(product.id), name: product.name, category: product.category,
+              }))}
               labels={{
                 heading: t("sendMessage"),
                 description: t("formDescription"),
@@ -135,6 +138,7 @@ export default async function ContactPage({
                 country: t("country"),
                 productCategory: t("productCategory"),
                 requirements: t("requirements"),
+                productReference: t("productReference"),
                 captcha: t("captcha"),
                 submit: t("submit"),
                 sending: t("sending"),
