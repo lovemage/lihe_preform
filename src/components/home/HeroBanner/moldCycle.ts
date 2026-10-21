@@ -3,42 +3,43 @@ import { MOLD_FIGURE } from "./moldFigure.generated";
 /*
  * One molding cycle of the hero figure as a pure function of time, so the idle
  * tour, pointer scrubbing and the reduced-motion still all read the same pose.
+ * The closed-mold steps are kept short: a visitor should see the mold move
+ * within a second of arriving, so the tour starts at "open".
  *
- *   0.00  filling          mold closed and clamped, melt fills the cavities
- *   1.10  holding/cooling
- *   2.60  opening          moving half travels the full stroke
- *   3.80  stripping        stripper plate carries the preforms off the cores
- *   4.40  neck rings open  slides split sideways, preforms drop (real g)
- *   5.10  neck rings close, then the stripper returns
- *   5.95  closing
- *   7.15  clamping, then the next shot
+ *   0.00  inject   mold closed and clamped, melt fills the cavities
+ *   0.60  cool
+ *   1.20  open     moving half travels the full stroke
+ *   2.40  strip    stripper plate carries the preforms off the cores
+ *   3.00  drop     neck ring slides split sideways, preforms fall (real g)
+ *   3.70  close    neck rings close, stripper returns, mold closes
+ *   6.00  next shot
  */
-export const CYCLE = 8;
+export const CYCLE = 6;
 
-const OPEN = [2.6, 3.8] as const;
-const STRIP = [3.8, 4.4] as const;
-const SPLIT = [4.4, 4.65] as const;
-const UNSPLIT = [5.1, 5.35] as const;
-const UNSTRIP = [5.35, 5.95] as const;
-const CLOSE = [5.95, 7.15] as const;
+const OPEN = [1.2, 2.4] as const;
+const STRIP = [2.4, 3.0] as const;
+const SPLIT = [3.0, 3.25] as const;
+const UNSPLIT = [3.7, 3.95] as const;
+const UNSTRIP = [3.95, 4.55] as const;
+const CLOSE = [4.55, 5.75] as const;
 const RELEASE = SPLIT[1];
 const GRAVITY = 9810; // mm/s²
 
-export type Phase =
-  | "filling"
-  | "cooling"
-  | "opening"
-  | "stripping"
-  | "release"
-  | "reset"
-  | "closing"
-  | "clamping";
+export const STEPS = ["inject", "cool", "open", "strip", "drop", "close"] as const;
+export type Step = (typeof STEPS)[number];
 
-/** Phase starts, for keyboard stepping. */
-export const STOPS: readonly number[] = [0, 1.1, OPEN[0], STRIP[0], SPLIT[0], UNSPLIT[0], CLOSE[0], CLOSE[1]];
+/** Where each step starts, for the tour's first frame and keyboard stepping. */
+export const STEP_AT: Record<Step, number> = {
+  inject: 0,
+  cool: 0.6,
+  open: OPEN[0],
+  strip: STRIP[0],
+  drop: SPLIT[0],
+  close: UNSPLIT[0],
+};
 
 export type Pose = {
-  phase: Phase;
+  step: Step;
   /** Moving half travel, mm. */
   open: number;
   /** Stripper travel toward the cavity face, mm. */
@@ -61,31 +62,20 @@ const ramp = (t: number, [a, b]: readonly [number, number]) => {
 
 export const wrap = (t: number) => ((t % CYCLE) + CYCLE) % CYCLE;
 
+export function stepAt(time: number): Step {
+  const t = wrap(time);
+  let step: Step = "inject";
+  for (const name of STEPS) if (t >= STEP_AT[name]) step = name;
+  return step;
+}
+
 export function poseAt(time: number): Pose {
   const t = wrap(time);
   const open = MOLD_FIGURE.stroke * (ramp(t, OPEN) - ramp(t, CLOSE));
   const strip = MOLD_FIGURE.strip * (ramp(t, STRIP) - ramp(t, UNSTRIP));
   const split = MOLD_FIGURE.split * (ramp(t, SPLIT) - ramp(t, UNSPLIT));
   const fallen = t >= RELEASE && t < CLOSE[1] ? t - RELEASE : null;
-  const drops = MOLD_FIGURE.drops.map(() => (fallen === null ? null : 0.5 * GRAVITY * fallen * fallen));
-  const gone = MOLD_FIGURE.drops.map((limit, i) => {
-    const d = drops[i];
-    return d !== null && d >= limit;
-  });
-  let phase: Phase = "clamping";
-  if (t < 1.1) phase = "filling";
-  else if (t < OPEN[0]) phase = "cooling";
-  else if (t < OPEN[1]) phase = "opening";
-  else if (t < STRIP[1]) phase = "stripping";
-  else if (t < UNSPLIT[0]) phase = "release";
-  else if (t < CLOSE[0]) phase = "reset";
-  else if (t < CLOSE[1]) phase = "closing";
-  return { phase, open, strip, split, drops: drops.map((d, i) => (d === null ? null : Math.min(d, MOLD_FIGURE.drops[i]))), gone };
-}
-
-/** The number a phase reports, from the same pose that moves the parts. */
-export function readoutValue(pose: Pose): number | null {
-  if (pose.phase === "opening" || pose.phase === "closing") return Math.round(pose.open);
-  if (pose.phase === "stripping") return Math.round(pose.strip);
-  return null;
+  const drops = MOLD_FIGURE.drops.map((limit) => (fallen === null ? null : Math.min(limit, 0.5 * GRAVITY * fallen * fallen)));
+  const gone = drops.map((d, i) => d !== null && d >= MOLD_FIGURE.drops[i]);
+  return { step: stepAt(t), open, strip, split, drops, gone };
 }

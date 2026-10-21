@@ -89,7 +89,7 @@
 }
 
 .figure :global(.iso-plate) {
-  padding: 44px 18px 40px;
+  padding: 44px 18px 16px;
   box-shadow:
     0 0 0 1px rgba(120, 160, 210, 0.28),
     0 24px 60px -24px rgba(0, 0, 0, 0.7);
@@ -154,8 +154,58 @@
   }
 }
 
+/* The cycle's six steps, large, with the current one filled in */
+.steps {
+  list-style: none;
+  margin: 14px 0 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+  gap: 4px;
+}
+
+.steps button {
+  width: 100%;
+  display: flex;
+  align-items: baseline;
+  gap: 0.45rem;
+  padding: 0.6rem 0.7rem;
+  border: 0;
+  border-radius: 0;
+  background: rgba(120, 160, 210, 0.08);
+  color: rgba(200, 220, 240, 0.62);
+  font-family: var(--font-heading);
+  font-size: clamp(0.9rem, 1.05vw, 1.05rem);
+  font-weight: 600;
+  line-height: 1.2;
+  text-align: left;
+  cursor: pointer;
+  transition: background-color 0.25s ease, color 0.25s ease;
+}
+
+.steps button:hover {
+  color: #f5f8fc;
+}
+
+.steps button:focus-visible {
+  outline: 1px solid var(--color-accent);
+  outline-offset: 2px;
+}
+
+.steps button[data-active] {
+  background: var(--color-accent);
+  color: #0f2341;
+}
+
+.stepNum {
+  font-family: var(--anatomy-mono);
+  font-size: 0.72em;
+  font-weight: 500;
+  opacity: 0.75;
+}
+
 .captionHint {
-  display: none;
+  display: block;
   margin-bottom: 0.25rem;
   color: rgba(200, 220, 240, 0.85);
   font-family: var(--anatomy-mono);
@@ -174,11 +224,18 @@
 @media (max-width: 1023px) {
   .hero {
     min-height: 0;
-    padding: clamp(2.5rem, 7vw, 3.5rem) 0 clamp(2rem, 6vw, 3rem);
+    padding: clamp(1rem, 4vw, 2rem) 0 clamp(2rem, 6vw, 3rem);
   }
 
   .inner {
     grid-template-columns: minmax(0, 1fr);
+    gap: 1.75rem;
+  }
+
+  /* the animation is the first thing a phone shows */
+  .figure {
+    order: -1;
+    animation-delay: 0s;
   }
 
   .content {
@@ -188,31 +245,36 @@
 
 @media (max-width: 560px) {
   .figure :global(.iso-plate) {
-    padding: 40px 8px 44px;
+    padding: 36px 8px 8px;
   }
 
   .figure :global(.iso-plate-corners) {
     inset: 14px 12px;
   }
 
-  /* no room for four corners: the hint moves under the card, the title goes */
-  .figure :global(.iso-plate-corner[data-corner="hint"]),
   .figure :global(.iso-plate-corner[data-corner="title"]) {
-    display: none;
+    max-width: 70%;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
 
-  .captionHint {
-    display: block;
-  }
-
-  /* crop the bed's ends so the mold reads at phone size */
+  /* crop in on the mold so its moves read at phone size */
   .stage {
     overflow: hidden;
   }
 
   .stage :global(svg) {
-    transform: scale(1.14);
-    transform-origin: 50% 46%;
+    transform: scale(1.4);
+    transform-origin: var(--focus-x) var(--focus-y);
+  }
+
+  .steps {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .steps button {
+    padding: 0.55rem 0.5rem;
+    font-size: 0.95rem;
   }
 }
 

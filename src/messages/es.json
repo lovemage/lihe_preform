@@ -32,18 +32,18 @@
     "mold": {
       "fig": "Fig 01",
       "title": "Molde de preformas PET · 8 cavidades",
-      "hint": "Pase el cursor para recorrer el ciclo",
-      "hintTouch": "Deslice para recorrer el ciclo",
+      "hint": "Pase el cursor por el dibujo o elija un paso",
+      "hintTouch": "Deslice sobre el dibujo o toque un paso",
       "label": "Molde de inyección de preformas PET en una prensa de dos platos. Recorra el dibujo con el cursor, o use las flechas del teclado, para avanzar por un ciclo de moldeo.",
       "caption": "Dibujado como un molde de 8 cavidades con cuello PCO 1881. LIHE fabrica moldes de preformas de hasta 160 cavidades.",
-      "filling": "llenado · 8 cavidades",
-      "cooling": "mantenimiento · enfriamiento",
-      "opening": "apertura · {mm} mm",
-      "stripping": "extracción · {mm} mm",
-      "release": "anillos de cuello abiertos · 8 preformas fuera",
-      "reset": "anillos cerrados · placa extractora atrás",
-      "closing": "cierre · {mm} mm",
-      "clamping": "fuerza de cierre"
+      "steps": {
+        "inject": "Inyectar",
+        "cool": "Enfriar",
+        "open": "Abrir",
+        "strip": "Expulsar",
+        "drop": "Caída",
+        "close": "Cerrar"
+      }
     }
   },
   "stats": {

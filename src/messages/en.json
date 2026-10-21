@@ -32,18 +32,18 @@
     "mold": {
       "fig": "Fig 01",
       "title": "PET preform mold · 8 cavities",
-      "hint": "Hover to step through the cycle",
-      "hintTouch": "Drag across to step through the cycle",
+      "hint": "Hover the drawing or pick a step",
+      "hintTouch": "Drag across the drawing or tap a step",
       "label": "PET preform injection mold on a two-platen press. Move across the drawing, or use the arrow keys, to step through one molding cycle.",
       "caption": "Drawn as an 8-cavity tool with a PCO 1881 neck. LIHE builds preform molds up to 160 cavities.",
-      "filling": "filling · 8 cavities",
-      "cooling": "holding · cooling",
-      "opening": "opening · {mm} mm",
-      "stripping": "stripping · {mm} mm",
-      "release": "neck rings open · 8 preforms out",
-      "reset": "neck rings close · stripper back",
-      "closing": "closing · {mm} mm",
-      "clamping": "clamping"
+      "steps": {
+        "inject": "Inject",
+        "cool": "Cool",
+        "open": "Open",
+        "strip": "Eject",
+        "drop": "Drop",
+        "close": "Close"
+      }
     }
   },
   "stats": {

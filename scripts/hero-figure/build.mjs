@@ -128,6 +128,11 @@ const byDepth = (a, b) => k.depthOf([a.x ?? 0, a.y, a.z], P) - k.depthOf([b.x ??
 
 /* --------------------------------------------------------- shared recipes */
 
+// Every hose whose fluid moves: the page runs arrows along these screen
+// polylines, ordered from the hose's start to its end.
+const FLOWS = [];
+const flowOf = (id, kind, route) => FLOWS.push({ id, kind, points: route.map((point) => at(point).map((v) => Math.round(v * 10) / 10)) });
+
 /** Socket-head cap screws on a +x face: a counterbore ring and a dot. */
 function capScrewsX(x, points, r = 4.2) {
   return (
@@ -408,17 +413,35 @@ function clampCylinder() {
   // valve block on the bed and the two hoses up to the cylinder ports
   out.push(S(k.slabOf(VALVE, 0, 70, P, 3, 0.8), { tone: "mid" }));
   out.push(Ln(k.planOutline(k.insetPlan(VALVE, 4), 70, P, 3), { tone: "faint" }));
-  for (const [x, y] of [[CYL.x[0] + 30, -24], [CYL.x[1] - 30, 24]]) {
+  for (const [id, x, y] of [["rod", CYL.x[0] + 30, -24], ["cap", CYL.x[1] - 30, 24]]) {
     const top = BARREL_Z + Math.sqrt(CYL.r ** 2 - y ** 2);
     out.push(S(G.disc(0, 10, 9, up([x, y, top]), P), { tone: "mid" }));
     const route = G.fillet([[x, y, top + 10], [x, y, top + 46], [VALVE.x + VALVE.w / 2, y, top + 46], [VALVE.x + VALVE.w / 2, y, 78]], 26, 10, { P, tube: 6 });
     out.push(tubePieces(route, 6, P, { maxLength: 400 }).map((piece) => tubeSvg(piece, { tone: "hi" })).join(""));
     out.push(S(G.disc(0, 8, 9, up([VALVE.x + VALVE.w / 2, y, 70]), P), { tone: "mid" }));
+    flowOf(id, "oil", route); // forward: out of the cylinder, back to the valve
   }
   return out.join("");
 }
 
 /* -------------------------------------------------------------- hot half */
+
+// Cooling water: in at the lower fitting, out at the upper one, each hosed
+// across to a port on the manifold on the fixed platen's near face.
+const WATER_X = -44;
+function waterHoses() {
+  const out = [];
+  const manifold = FIXED_PLATEN.x + 64;
+  const lane = FIXED_PLATEN.y + FIXED_PLATEN.d + 9;
+  for (const [id, z] of [["water-in", 210], ["water-out", 330]]) {
+    out.push(S(G.disc(0, 6, 7.5, alongX([manifold, lane, z]), P), { tone: "mid" }));
+    const route = G.fillet([[WATER_X, MOLD_Y + 17, z], [WATER_X, lane, z], [manifold + 6, lane, z]], 14, 8, { P, tube: 4.5 });
+    out.push(tubePieces(route, 4.5, P, { maxLength: 400 }).map((piece) => tubeSvg(piece, { tone: "hi" })).join(""));
+    // forward runs from the plate to the manifold; water comes in the other way on the lower hose
+    flowOf(id, "water", id === "water-in" ? [...route].reverse() : route);
+  }
+  return out.join("");
+}
 
 function hotHalf() {
   const out = [];
@@ -449,7 +472,7 @@ function hotHalf() {
     }
   // water in and out on the near side, one pair between each two rows
   const fittings = [];
-  for (const z of [210, 330]) for (const x of [-62, -26]) fittings.push(fittingY([x, MOLD_Y, z]));
+  for (const z of [210, 330]) fittings.push(fittingY([WATER_X, MOLD_Y, z]));
   // nameplate: the drawing's one engraved label
   const tag = plan(-78, -8, MOLD_Y, MOLD_Y + 1.2, 1);
   const nameplate = [
@@ -567,6 +590,8 @@ push(injectionUnit());
 push(fixedPlaten());
 push(rail(-RAIL_Y));
 push(hotHalf());
+push(waterHoses());
+push("", { "data-flows": "water" });
 
 const pins = [];
 for (const y of [-PIN.y, PIN.y])
@@ -603,6 +628,7 @@ const rod = clampRod();
 defs.push(`<clipPath id="mf-rod"><path d="${rod.clip}"/></clipPath>`);
 push(g({ "clip-path": "url(#mf-rod)" }, g({ "data-m": "open" }, rod.svg)));
 push(clampCylinder());
+push("", { "data-flows": "oil" });
 
 const LABEL =
   "Isometric drawing of an eight-cavity PET preform injection mold on a two-platen press. The hot half, with its hot runner manifold and cavity plate, is bolted to the fixed platen beside the injection barrel and hopper. The cold half, with eight cores, a stripper plate and split neck ring slides, rides the moving platen on two rails, driven by the clamp cylinder. Each cycle the mold closes and is filled and cooled, then opens; the neck rings strip the preforms off the cores, open, and drop them through the chute in the bed.";
@@ -623,6 +649,9 @@ const DATA = {
   cavities: CAVITIES.length,
   columns: COLUMNS,
   drops: CAVITIES.map(({ z }) => z - HIDDEN_Z),
+  flows: FLOWS,
+  // the middle of the mold's travel, where phones crop in
+  focus: ((p) => [p[0] / W, p[1] / H])(at([(PLATES.hotClamp[0] + MOVING_PLATEN.x + STROKE) / 2, 0, 250])),
 };
 
 mkdirSync(dirname(SVG_OUT), { recursive: true });

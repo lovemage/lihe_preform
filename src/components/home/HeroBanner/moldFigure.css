@@ -65,3 +65,19 @@
   fill: var(--pet-3);
   stroke: var(--pet-3);
 }
+
+/* Flow arrows on the hoses: cooling water and the clamp cylinder's oil */
+.mf .mf-flow {
+  fill: none;
+  stroke-width: 1.3;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.mf .mf-flow[data-kind="water"] {
+  stroke: #8fd3ff;
+}
+
+.mf .mf-flow[data-kind="oil"] {
+  stroke: #f0b84e;
+}
