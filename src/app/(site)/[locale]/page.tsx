@@ -74,7 +74,7 @@ export default async function HomePage({
         ctaHref="/products"
         ctaSecondaryLabel={t("contactSales")}
         ctaSecondaryHref="/contact"
-        skipLabel={t("skipIntro")}
+        mold={t.raw("mold")}
       />
       <Stats stats={stats} />
       <MoldHighlights

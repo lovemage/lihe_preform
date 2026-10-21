@@ -1,0 +1,67 @@
+/*
+ * Tokens for the hero mold figure, on top of the Anatomy kit's iso.css.
+ * Scoped to .mf: the card's navy paper, the steel tones and the PET tint of
+ * the preforms (the drawing's one lit subject).
+ */
+.mf {
+  --anatomy-card: #0b1828;
+  --anatomy-paper: #0b1828;
+  --anatomy-face: #16294a;
+  --anatomy-top: #1c3456;
+  --anatomy-shade-0: #0b1829;
+  --anatomy-shade-1: #0f1f34;
+  --anatomy-shade-2: #13253e;
+  --anatomy-shade-3: #172b47;
+  --anatomy-lit-top: #2c4d78;
+  --anatomy-lit-shade: #22406a;
+  --anatomy-hi: #d7e3f1;
+  --anatomy-mid: #6c84a4;
+  --anatomy-lo: #3c5272;
+  --anatomy-faint: #233650;
+  --anatomy-lit: #ffffff;
+  --anatomy-halo: #01050b;
+  --anatomy-dot: #dfe8f3;
+  --anatomy-text: #9fb3cc;
+  --anatomy-muted: #6c84a4;
+  --mf-void: #040a13;
+  --pet-0: #2a5f86;
+  --pet-1: #3a76a0;
+  --pet-2: #4b8bb6;
+  --pet-3: #5e9fc8;
+  --pet-top: #86c0e0;
+}
+
+.mf .mf-void {
+  fill: var(--mf-void);
+  stroke: var(--anatomy-lo);
+  stroke-width: var(--anatomy-weight);
+}
+
+.mf .mf-pet > .iso-fill {
+  fill: var(--pet-1);
+}
+
+.mf .mf-pet > .iso-top {
+  fill: var(--pet-top);
+  stroke: var(--pet-top);
+}
+
+.mf .mf-pet > .iso-shade[data-shade="0"] {
+  fill: var(--pet-0);
+  stroke: var(--pet-0);
+}
+
+.mf .mf-pet > .iso-shade[data-shade="1"] {
+  fill: var(--pet-1);
+  stroke: var(--pet-1);
+}
+
+.mf .mf-pet > .iso-shade[data-shade="2"] {
+  fill: var(--pet-2);
+  stroke: var(--pet-2);
+}
+
+.mf .mf-pet > .iso-shade[data-shade="3"] {
+  fill: var(--pet-3);
+  stroke: var(--pet-3);
+}

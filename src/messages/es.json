@@ -29,7 +29,22 @@
     "manufacturingSub": "Una planta de 15.000 m² equipada con sistemas CNC de precisión, EDM y metrología de Mazak, Makino y Zeiss.",
     "more": "MÁS",
     "viewAllProducts": "Ver Todos los Productos",
-    "skipIntro": "Saltar intro"
+    "mold": {
+      "fig": "Fig 01",
+      "title": "Molde de preformas PET · 8 cavidades",
+      "hint": "Pase el cursor para recorrer el ciclo",
+      "hintTouch": "Deslice para recorrer el ciclo",
+      "label": "Molde de inyección de preformas PET en una prensa de dos platos. Recorra el dibujo con el cursor, o use las flechas del teclado, para avanzar por un ciclo de moldeo.",
+      "caption": "Dibujado como un molde de 8 cavidades con cuello PCO 1881. LIHE fabrica moldes de preformas de hasta 160 cavidades.",
+      "filling": "llenado · 8 cavidades",
+      "cooling": "mantenimiento · enfriamiento",
+      "opening": "apertura · {mm} mm",
+      "stripping": "extracción · {mm} mm",
+      "release": "anillos de cuello abiertos · 8 preformas fuera",
+      "reset": "anillos cerrados · placa extractora atrás",
+      "closing": "cierre · {mm} mm",
+      "clamping": "fuerza de cierre"
+    }
   },
   "stats": {
     "facility": "m² de Planta de Producción",

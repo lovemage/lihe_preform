@@ -1,101 +1,42 @@
 .hero {
   position: relative;
   width: 100%;
-  height: calc(100svh - 72px);
-  min-height: 600px;
-  overflow: hidden;
+  min-height: calc(100svh - 72px);
   display: flex;
   align-items: center;
-  /* Blueprint backdrop; the wireframe is drawn on the canvas above it */
+  padding: clamp(2.5rem, 6vh, 4.5rem) 0;
+  overflow: hidden;
+  /* Blueprint backdrop behind the text; the figure sits on its own card */
   background-color: #06101d;
   background-image:
-    radial-gradient(ellipse 70% 60% at 60% 50%, rgba(40, 90, 150, 0.35) 0%, transparent 70%),
+    radial-gradient(ellipse 60% 70% at 72% 50%, rgba(40, 90, 150, 0.28) 0%, transparent 70%),
     linear-gradient(rgba(120, 200, 255, 0.035) 1px, transparent 1px),
     linear-gradient(90deg, rgba(120, 200, 255, 0.035) 1px, transparent 1px);
   background-size: 100% 100%, 48px 48px, 48px 48px;
   background-position: center, center, center;
 }
 
-.canvas {
-  position: absolute;
-  inset: 0;
-  width: 100%;
-  height: 100%;
-  display: block;
-}
-
-.scanline {
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 0;
-  height: 120px;
-  background: linear-gradient(
-    to bottom,
-    transparent 0%,
-    rgba(120, 200, 255, 0.08) 85%,
-    rgba(120, 200, 255, 0.35) 100%
-  );
-  opacity: 0;
-  pointer-events: none;
-  animation: scan 2.2s cubic-bezier(0.45, 0, 0.55, 1) 0.2s 1 both;
-}
-
-@keyframes scan {
-  0% {
-    transform: translateY(-120px);
-    opacity: 1;
-  }
-  90% {
-    opacity: 1;
-  }
-  100% {
-    transform: translateY(100svh);
-    opacity: 0;
-  }
-}
-
-/* Left-side shade so the headline stays legible over the model */
-.overlay {
-  position: absolute;
-  inset: 0;
-  background: linear-gradient(
-    90deg,
-    rgba(6, 16, 29, 0.92) 0%,
-    rgba(6, 16, 29, 0.6) 38%,
-    rgba(6, 16, 29, 0) 62%
-  );
-  pointer-events: none;
-  /* No-JS fallback; with JS the .revealed class takes over */
-  animation: fadeIn 1.6s ease 14s both;
-}
-
+/* The text lines up with the header's container; the figure takes the rest. */
 .inner {
   position: relative;
-  z-index: 2;
   width: 100%;
-  max-width: var(--container-max);
-  margin: 0 auto;
-  padding: 0 var(--container-padding);
+  padding: 0 var(--container-padding) 0
+    max(var(--container-padding), calc((100% - var(--container-max)) / 2 + var(--container-padding)));
+  display: grid;
+  grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.2fr);
+  gap: clamp(2rem, 4vw, 4rem);
+  align-items: center;
 }
 
 .content {
-  max-width: 560px;
-  animation: heroIn 1.2s cubic-bezier(0.22, 1, 0.36, 1) 14s both;
-}
-
-.revealed .content {
-  animation: heroIn 1.2s cubic-bezier(0.22, 1, 0.36, 1) both;
-}
-
-.revealed .overlay {
-  animation: fadeIn 1.2s ease both;
+  max-width: 540px;
+  animation: heroIn 0.9s cubic-bezier(0.22, 1, 0.36, 1) both;
 }
 
 @keyframes heroIn {
   from {
     opacity: 0;
-    transform: translateY(24px);
+    transform: translateY(16px);
   }
   to {
     opacity: 1;
@@ -103,19 +44,10 @@
   }
 }
 
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-
 .headline {
   color: #f5f8fc;
   font-family: var(--font-heading);
-  font-size: clamp(2.3rem, 4.6vw, 3.8rem);
+  font-size: clamp(2.2rem, 3.8vw, 3.5rem);
   font-weight: 800;
   line-height: 1.06;
   margin: 0 0 1.25rem;
@@ -124,7 +56,7 @@
 
 .subheadline {
   color: rgba(220, 232, 245, 0.82);
-  font-size: clamp(1rem, 1.5vw, 1.12rem);
+  font-size: clamp(1rem, 1.3vw, 1.08rem);
   line-height: 1.7;
   margin: 0 0 2.25rem;
   font-weight: 400;
@@ -136,72 +68,151 @@
   flex-wrap: wrap;
 }
 
-.secondaryBtn {
+.ctas .secondaryBtn {
   background-color: transparent;
   color: #f5f8fc;
   border-color: rgba(245, 248, 252, 0.7);
 }
 
-.secondaryBtn:hover {
+.ctas .secondaryBtn:hover {
   background-color: #f5f8fc;
   color: #0f2341;
 }
 
-.skip {
-  position: absolute;
-  right: 36px;
-  bottom: 56px;
-  z-index: 3;
-  font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
-  font-size: 0.72rem;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-  color: rgba(180, 220, 255, 0.85);
-  background: rgba(6, 16, 29, 0.5);
-  border: 1px solid rgba(120, 200, 255, 0.35);
-  padding: 0.55rem 0.9rem;
-  cursor: pointer;
-  transition: background var(--transition-fast), color var(--transition-fast);
+/* Figure card */
+
+.figure {
+  margin: 0;
+  min-width: 0;
+  max-width: 1040px;
+  animation: heroIn 0.9s cubic-bezier(0.22, 1, 0.36, 1) 0.12s both;
 }
 
-.skip:hover,
-.skip:focus-visible {
-  background: rgba(120, 200, 255, 0.15);
-  color: #fff;
+.figure :global(.iso-plate) {
+  padding: 44px 18px 40px;
+  box-shadow:
+    0 0 0 1px rgba(120, 160, 210, 0.28),
+    0 24px 60px -24px rgba(0, 0, 0, 0.7);
 }
 
-@media (max-width: 899px) {
-  .hero {
-    height: calc(100svh - 60px);
-    min-height: 520px;
-    align-items: flex-end;
+.figure :global(.iso-plate-corners) {
+  inset: 16px 18px;
+}
+
+.figure :global(.iso-plate-corner) {
+  font-size: 11px;
+}
+
+.stage {
+  position: relative;
+  width: 100%;
+  outline: none;
+  touch-action: pan-y;
+  cursor: ew-resize;
+}
+
+.stage:focus-visible {
+  outline: 1px solid var(--anatomy-muted);
+  outline-offset: 6px;
+}
+
+.stage :global(svg) {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.stage:not([data-ready]) {
+  background:
+    linear-gradient(90deg, transparent, rgba(120, 160, 210, 0.06), transparent) 0 0 / 200% 100%,
+    transparent;
+  animation: wait 1.6s linear infinite;
+}
+
+.stage[data-failed] {
+  animation: none;
+  background: none;
+}
+
+@keyframes wait {
+  to {
+    background-position: -200% 0;
+  }
+}
+
+.hintTouch {
+  display: none;
+}
+
+@media (hover: none) {
+  .hintMouse {
+    display: none;
   }
 
-  .overlay {
-    background: linear-gradient(
-      to top,
-      rgba(6, 16, 29, 0.95) 0%,
-      rgba(6, 16, 29, 0.7) 45%,
-      rgba(6, 16, 29, 0) 75%
-    );
+  .hintTouch {
+    display: inline;
+  }
+}
+
+.captionHint {
+  display: none;
+  margin-bottom: 0.25rem;
+  color: rgba(200, 220, 240, 0.85);
+  font-family: var(--anatomy-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.caption {
+  margin-top: 0.75rem;
+  color: rgba(170, 192, 218, 0.7);
+  font-size: 0.8rem;
+  line-height: 1.5;
+}
+
+@media (max-width: 1023px) {
+  .hero {
+    min-height: 0;
+    padding: clamp(2.5rem, 7vw, 3.5rem) 0 clamp(2rem, 6vw, 3rem);
   }
 
   .inner {
-    padding-bottom: clamp(3.5rem, 10vh, 5rem);
+    grid-template-columns: minmax(0, 1fr);
   }
 
   .content {
-    max-width: none;
-    text-align: center;
+    max-width: 640px;
+  }
+}
+
+@media (max-width: 560px) {
+  .figure :global(.iso-plate) {
+    padding: 40px 8px 44px;
   }
 
-  .ctas {
-    justify-content: center;
+  .figure :global(.iso-plate-corners) {
+    inset: 14px 12px;
   }
 
-  .skip {
-    right: 16px;
-    bottom: 30px;
+  /* no room for four corners: the hint moves under the card, the title goes */
+  .figure :global(.iso-plate-corner[data-corner="hint"]),
+  .figure :global(.iso-plate-corner[data-corner="title"]) {
+    display: none;
+  }
+
+  .captionHint {
+    display: block;
+  }
+
+  /* crop the bed's ends so the mold reads at phone size */
+  .stage {
+    overflow: hidden;
+  }
+
+  .stage :global(svg) {
+    transform: scale(1.14);
+    transform-origin: 50% 46%;
   }
 }
 
@@ -219,11 +230,8 @@
 
 @media (prefers-reduced-motion: reduce) {
   .content,
-  .overlay {
+  .figure,
+  .stage:not([data-ready]) {
     animation: none;
-  }
-
-  .scanline {
-    display: none;
   }
 }
