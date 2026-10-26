@@ -652,6 +652,16 @@ const DATA = {
   flows: FLOWS,
   // the middle of the mold's travel, where phones crop in
   focus: ((p) => [p[0] / W, p[1] / H])(at([(PLATES.hotClamp[0] + MOVING_PLATEN.x + STROKE) / 2, 0, 250])),
+  // camera targets, in viewBox px with the mold closed; the page shifts the
+  // ones on the moving half by its travel (see cameraAt in moldCycle.ts)
+  shots: {
+    nozzle: at([(BARREL.x[1] + PLATES.manifold[1]) / 2, 0, BARREL_Z]),
+    cavity: at([(PLATES.cavity[0] + PLATES.core[1]) / 2, 0, (MOLD_Z[0] + MOLD_Z[1]) / 2]),
+    travel: at([(PLATES.hotClamp[0] + MOVING_PLATEN.x + STROKE) / 2, 0, 250]),
+    neck: at([MOUTH_X, 0, (MOLD_Z[0] + MOLD_Z[1]) / 2]),
+    chute: at([MOUTH_X - PF.length / 2, 0, 90]),
+    press: at([(BED.x + BED.x + BED.w) / 2, 0, 180]),
+  },
 };
 
 mkdirSync(dirname(SVG_OUT), { recursive: true });

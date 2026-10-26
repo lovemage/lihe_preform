@@ -109,6 +109,8 @@
   outline: none;
   touch-action: pan-y;
   cursor: ew-resize;
+  /* the camera zooms with the viewBox and sways the drawing in 3D */
+  overflow: hidden;
 }
 
 .stage:focus-visible {
@@ -256,16 +258,6 @@
     max-width: 70%;
     overflow: hidden;
     text-overflow: ellipsis;
-  }
-
-  /* crop in on the mold so its moves read at phone size */
-  .stage {
-    overflow: hidden;
-  }
-
-  .stage :global(svg) {
-    transform: scale(1.4);
-    transform-origin: var(--focus-x) var(--focus-y);
   }
 
   .steps {

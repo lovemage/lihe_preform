@@ -79,3 +79,40 @@ export function poseAt(time: number): Pose {
   const gone = drops.map((d, i) => d !== null && d >= MOLD_FIGURE.drops[i]);
   return { step: stepAt(t), open, strip, split, drops, gone };
 }
+
+export type Shot = {
+  /** Where the camera looks, in viewBox px. */
+  x: number;
+  y: number;
+  /** 1 shows the whole drawing. */
+  zoom: number;
+};
+
+const { ex, shots } = MOLD_FIGURE;
+const along = ([x, y]: readonly [number, number], travel: number): [number, number] => [x + ex[0] * travel, y + ex[1] * travel];
+
+/**
+ * The shot for each step: the camera closes in on whatever is working (the
+ * nozzle while filling, the cavities while cooling, the neck rings as they
+ * strip, the chute as the preforms fall) and pulls back while the platen
+ * travels. Targets on the moving half ride along with it.
+ */
+export function cameraAt(time: number): Shot {
+  const pose = poseAt(time);
+  const carried = pose.open - pose.strip;
+  const shot = (point: readonly [number, number], zoom: number) => ({ x: point[0], y: point[1], zoom });
+  switch (pose.step) {
+    case "inject":
+      return shot(shots.nozzle, 1.8);
+    case "cool":
+      return shot(shots.cavity, 1.9);
+    case "open":
+      return shot(along(shots.travel, (pose.open - MOLD_FIGURE.stroke) / 2), 1.25);
+    case "strip":
+      return shot(along(shots.neck, carried), 1.9);
+    case "drop":
+      return shot(along(shots.chute, MOLD_FIGURE.stroke - MOLD_FIGURE.strip), 1.5);
+    case "close":
+      return shot(shots.press, 1);
+  }
+}

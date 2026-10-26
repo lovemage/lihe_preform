@@ -1,9 +1,9 @@
 "use client";
 
-import { useEffect, useRef, type CSSProperties } from "react";
+import { useEffect, useRef } from "react";
 import { preload } from "react-dom";
 import { MOLD_FIGURE } from "./moldFigure.generated";
-import { CYCLE, STEPS, STEP_AT, poseAt, wrap, type Step } from "./moldCycle";
+import { CYCLE, STEPS, STEP_AT, cameraAt, poseAt, wrap, type Shot, type Step } from "./moldCycle";
 import "./iso.css";
 import "./moldFigure.css";
 import styles from "./HeroBanner.module.css";
@@ -26,6 +26,9 @@ const START = STEP_AT.open; // the tour opens straight away: no waiting on a clo
 const REST = STEP_AT.strip - 0.01; // reduced motion: fully open, preforms still on the cores
 const STOPS = STEPS.map((step) => STEP_AT[step]);
 const IDLE_RESUME = 3.6;
+const CAMERA_LAG = 0.45; // s, how far the camera trails its shot
+const PHONE_ZOOM = [1.4, 1.15] as const; // phones: tightest wide shot, close-up boost
+const ORBIT = { yaw: 7, pitch: 3.5, period: [17, 11] } as const; // degrees, seconds
 
 const { ex, ey, ez } = MOLD_FIGURE;
 const shift = (x: number, y: number, z: number) => {
@@ -132,6 +135,40 @@ function animate(stage: HTMLDivElement, stepList: HTMLElement | null, copy: Mold
   };
 
   const flows = flowArrows(svg);
+
+  // The camera: a viewBox that trails the current shot (so the vector art stays
+  // crisp at any zoom), and a slow orbit, a gentle 3D sway of the drawing.
+  const { width: W, height: H } = MOLD_FIGURE;
+  const phone = window.matchMedia("(max-width: 560px)");
+  const rest: Shot = { x: MOLD_FIGURE.focus[0] * W, y: MOLD_FIGURE.focus[1] * H, zoom: 1 };
+  const cam: Shot = { ...rest };
+  let clock = 0;
+  let lastBox = "";
+  function film(time: number, dt: number, moving: boolean) {
+    const goal = moving ? cameraAt(time) : rest;
+    const k = moving && dt ? 1 - Math.exp(-dt / CAMERA_LAG) : 1;
+    cam.x += (goal.x - cam.x) * k;
+    cam.y += (goal.y - cam.y) * k;
+    cam.zoom += (goal.zoom - cam.zoom) * k;
+    const zoom = phone.matches ? Math.max(PHONE_ZOOM[0], cam.zoom * PHONE_ZOOM[1]) : cam.zoom;
+    const w = W / zoom;
+    const h = H / zoom;
+    const x = Math.min(W - w, Math.max(0, cam.x - w / 2));
+    const y = Math.min(H - h, Math.max(0, cam.y - h / 2));
+    const box = `${x.toFixed(1)} ${y.toFixed(1)} ${w.toFixed(1)} ${h.toFixed(1)}`;
+    if (box !== lastBox) {
+      lastBox = box;
+      svg!.setAttribute("viewBox", box);
+    }
+    if (!moving) {
+      svg!.style.transform = "";
+      return;
+    }
+    clock += dt;
+    const yaw = ORBIT.yaw * Math.sin((2 * Math.PI * clock) / ORBIT.period[0]);
+    const pitch = ORBIT.pitch * Math.sin((2 * Math.PI * clock) / ORBIT.period[1] + 1);
+    svg!.style.transform = `perspective(1800px) rotateX(${pitch.toFixed(2)}deg) rotateY(${yaw.toFixed(2)}deg) scale(1.08)`; // scaled so the tilted edges stay out of frame
+  }
   const stepButtons = Array.from(stepList?.querySelectorAll<HTMLButtonElement>("[data-step]") ?? []);
   let lastStep: Step | null = null;
   function place(time: number) {
@@ -194,6 +231,7 @@ function animate(stage: HTMLDivElement, stepList: HTMLElement | null, copy: Mold
     }
     place(t);
     flows(t, still.matches ? 0 : dt, wrap(t - previous + CYCLE / 2) - CYCLE / 2);
+    film(t, dt, !still.matches);
     // the cooling water never stops, so the loop runs while the figure is on screen
     const settled = still.matches && t === target;
     frame = visible && !settled && !document.hidden ? requestAnimationFrame(tick) : 0;
@@ -267,6 +305,7 @@ function animate(stage: HTMLDivElement, stepList: HTMLElement | null, copy: Mold
   io.observe(stage);
   place(t);
   flows(t, 0, 0);
+  film(t, 0, false);
 
   return () => {
     cancelAnimationFrame(frame);
@@ -323,13 +362,7 @@ export default function MoldFigure({ copy }: { copy: MoldCopy }) {
         <div
           ref={stageRef}
           className={styles.stage}
-          style={
-            {
-              aspectRatio: `${MOLD_FIGURE.width} / ${MOLD_FIGURE.height}`,
-              "--focus-x": `${(MOLD_FIGURE.focus[0] * 100).toFixed(1)}%`,
-              "--focus-y": `${(MOLD_FIGURE.focus[1] * 100).toFixed(1)}%`,
-            } as CSSProperties
-          }
+          style={{ aspectRatio: `${MOLD_FIGURE.width} / ${MOLD_FIGURE.height}` }}
           tabIndex={0}
           role="slider"
           aria-label={copy.label}
