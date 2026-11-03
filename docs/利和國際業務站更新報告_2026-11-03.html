@@ -54,10 +54,12 @@
     h1 { font-size: 24px; }
     td.k { width: 38%; }
   }
+  @page { size: A4; margin: 16mm 14mm; }
   @media print {
     main { padding: 0; max-width: none; }
     h2 { break-after: avoid; }
     .box, table, pre { break-inside: avoid; }
+    .print-break { break-before: page; margin-top: 0; }
   }
 </style>
 </head>
@@ -150,7 +152,7 @@
   <li>完成後請告知，我們會確認連結是否生效。</li>
 </ul>
 
-<h2><span class="num">四</span>待業主確認事項</h2>
+<h2 class="print-break"><span class="num">四</span>待業主確認事項</h2>
 <p>以下兩項本次未修改，請確認後回覆。</p>
 
 <div class="box">
