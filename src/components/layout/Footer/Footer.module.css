@@ -36,6 +36,10 @@
   display: inline-block;
 }
 
+.columnTitleSpaced {
+  margin-top: var(--space-xl);
+}
+
 /* Logo + Tagline */
 .footerLogo {
   display: inline-block;
@@ -80,6 +84,10 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: var(--space-sm);
+}
+
+.linkList.linkListSingle {
+  grid-template-columns: 1fr;
 }
 
 .footerLink {

@@ -19,6 +19,12 @@ interface SiteData {
   };
 }
 
+// The company's own sites: Chinese (fs-lihe.com) and English (lhmpet.com).
+const corporateSites = [
+  { label: "fs-lihe.com (中文)", href: "http://www.fs-lihe.com/" },
+  { label: "lhmpet.com (English)", href: "https://www.lhmpet.com/" },
+];
+
 function SocialIcon({ platform }: { platform: string }) {
   switch (platform) {
     case "WhatsApp":
@@ -89,6 +95,16 @@ export default async function Footer({ siteData }: { siteData: SiteData }) {
                   <Link href={link.href} className={styles.footerLink}>
                     {link.label}
                   </Link>
+                </li>
+              ))}
+            </ul>
+            <h3 className={`${styles.columnTitle} ${styles.columnTitleSpaced}`}>{t("corporateSites")}</h3>
+            <ul className={`${styles.linkList} ${styles.linkListSingle}`}>
+              {corporateSites.map((site) => (
+                <li key={site.href}>
+                  <a href={site.href} className={styles.footerLink} target="_blank" rel="noopener">
+                    {site.label}
+                  </a>
                 </li>
               ))}
             </ul>
