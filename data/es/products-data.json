@@ -19,12 +19,13 @@
       "name": "Molde de preforma PET",
       "category": "Molde de preforma",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/19.html",
-      "description": "Moldes de inyección de preformas PET de alta cavitación, diseñados para máxima producción y consistencia dimensional. Disponibles en configuraciones de 32 a 160 cavidades con soporte para acabados de cuello estándar incluyendo 1716, PCO1810, PCO1881, 3025, 2925, 2622, 2522, 38mm, 45mm, 68mm, 80mm, 90mm (tarros boca ancha), etc. Diseñados para integración perfecta con plataformas HUSKY, NETSTAL, SIPA, KATA y otras máquinas de moldeo por inyección. Ideales para la producción de preformas para botellas de agua mineral, CSD y envases de bebidas.",
+      "description": "Moldes de inyección de preformas PET de alta cavitación, diseñados para máxima producción y consistencia dimensional. Disponibles en configuraciones de 32, 48, 56, 72, 96, 128, 144 y 160 cavidades con soporte para acabados de cuello estándar incluyendo 1716, PCO1810, PCO1881, 3025, 2925, 2622, 2522, 38mm, 45mm, 68mm, 80mm, 90mm (tarros boca ancha), etc. Diseñados para integración perfecta con plataformas HUSKY, UNIQUE, NETSTAL, SIPA, KATA y otras máquinas de moldeo por inyección. Ideales para la producción de preformas para botellas de agua mineral, CSD y envases de bebidas.",
       "bullets": [
-        "Capacidad: De 32 a 160 cavidades.",
-        "Estándares: Soporte completo para PCO 1881, 1810, 2925, 2622, 2522, 38mm, 45mm, 68mm, 80mm, ROPP, etc. y acabados de cuello personalizados.",
+        "Capacidad: 32, 48, 56, 72, 96, 128, 144 y 160 cavidades.",
+        "Estándares: Soporte completo para PCO 1881, 1810, 1716, 3025, 2925, 2622, 2522, 38mm, 45mm, 68mm, 80mm, ROPP, etc. y acabados de cuello personalizados.",
         "Capacidad anual: Más de 12.000 cavidades producidas al año.",
-        "Diseño: Optimizado para minimizar tiempos de ciclo y máxima consistencia en la distribución de resina."
+        "Diseño: Optimizado para minimizar tiempos de ciclo y máxima consistencia en la distribución de resina.",
+        "Herramental apto para rPET: Recubrimientos y tratamientos superficiales en machos, cavidades, anillos de cuello e insertos de inyección para una larga vida útil con alto contenido de rPET."
       ],
       "images": [
         {
@@ -50,13 +51,19 @@
       "name": "Servicio de conversión de herramental",
       "category": "Molde de preforma",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/34.html",
-      "description": "Servicios expertos de conversión de herramental para sistemas de moldes de preformas PET. Fabricamos piezas de repuesto de alta precisión y mejoras de rendimiento para sus moldes existentes.",
+      "description": "Servicios expertos de conversión de herramental para sistemas de moldes de preformas PET. Fabricamos piezas de repuesto de alta precisión y mejoras de rendimiento para sus moldes existentes. Nuestras soluciones a medida suman más de cien diseños de moldes en uso en las principales inyectoras de PET.",
       "bullets": [
         "Diseño: A partir de las piezas existentes del cliente de Husky/SACMI/Otto, fabricamos las mismas piezas para reemplazar en su molde existente sin complicaciones.",
         "Ingeniería de rendimiento: Más allá del simple reemplazo, innovamos para mejorar su rentabilidad. Optimizamos la eficiencia de enfriamiento y las condiciones de soplado para reducir significativamente los tiempos de ciclo.",
-        "Mejoras estratégicas: Nos especializamos en conversiones de acabado de cuello y proyectos de aligeramiento, ayudándole a reducir el consumo de resina y cumplir objetivos ESG manteniendo la máxima integridad estructural."
+        "Mejoras estratégicas: Nos especializamos en conversiones de acabado de cuello y proyectos de aligeramiento, ayudándole a reducir el consumo de resina y cumplir objetivos ESG manteniendo la máxima integridad estructural.",
+        "Alcance del servicio: Moldes nuevos, canales calientes nuevos, unidades de extracción / PMC, moldes especiales, conversiones de moldes, suministro de repuestos, reacondicionamiento de moldes, modificaciones y soporte técnico.",
+        "Plataformas de máquina: Husky, Sacmi, KraussMaffei, Arburg, Netstal, Welltec y otras inyectoras de PET habituales."
       ],
       "images": [
+        {
+          "src": "/images/products/preform-tooling-assembly.webp",
+          "alt": "Conjunto de herramental para moldes de preforma"
+        },
         {
           "src": "/images/products/17370998706850355.webp",
           "alt": "17370998706850355 - Molde de preforma"
@@ -71,8 +78,33 @@
         }
       ],
       "thumbnail": {
-        "src": "/images/products/17389200493914231.webp",
-        "alt": "17389200493914231 - Molde de preforma"
+        "src": "/images/products/preform-tooling-assembly.webp",
+        "alt": "Conjunto de herramental para moldes de preforma"
+      }
+    },
+    {
+      "id": 68,
+      "name": "Recubrimientos de moldes de preforma para rPET",
+      "category": "Molde de preforma",
+      "detail_url": "",
+      "description": "Recubrimientos y tratamientos superficiales especializados para componentes de moldes de preforma que prolongan la vida útil del herramental y permiten trabajar con un alto porcentaje de PET reciclado (rPET). Cada pieza tratada —macho, cavidad, anillo del macho, anillos de cuello e inserto de inyección— responde a un punto de desgaste concreto, desde el llenado y el desmoldeo hasta la corrosión por el agua de refrigeración.",
+      "bullets": [
+        "Macho: Mejora el llenado y el desmoldeo de la preforma.",
+        "Cavidad: Mejora el llenado y el desmoldeo, y evita los efectos corrosivos del agua de refrigeración.",
+        "Anillo del macho: Reduce el mantenimiento.",
+        "Anillos de cuello: Prolongan la vida del cono y reducen el mantenimiento de los venteos y de la superficie de moldeo.",
+        "Inserto de inyección: Mejora el desmoldeo, prolonga la vida del punto de inyección y evita los efectos corrosivos del agua.",
+        "Objetivo: Mayor vida útil del herramental de preformas y producción estable con un alto porcentaje de rPET."
+      ],
+      "images": [
+        {
+          "src": "/images/products/preform-tooling-rpet-coated-parts.webp",
+          "alt": "Macho, cavidad, anillo de cuello e inserto de inyección con recubrimiento"
+        }
+      ],
+      "thumbnail": {
+        "src": "/images/products/preform-tooling-rpet-coated-parts.webp",
+        "alt": "Macho, cavidad, anillo de cuello e inserto de inyección con recubrimiento"
       }
     },
     {
@@ -582,7 +614,7 @@
   ],
   "categoryDescriptions": {
     "Molde de preforma": {
-      "description": "Moldes de inyección de preformas PET de alta cavitación, diseñados para máxima producción y consistencia dimensional. Disponibles en configuraciones de 32 a 160 cavidades con soporte para acabados de cuello estándar incluyendo PCO 1716, PCO 1810, 3025, PCO 1881, 2925, 2622 y 38mm. Diseñados para integración perfecta con plataformas de máquinas de moldeo por inyección HUSKY, NETSTAL, SIPA y KATA. Ideales para la producción de preformas para botellas de agua mineral, CSD y envases de bebidas.",
+      "description": "Moldes de inyección de preformas PET de alta cavitación, diseñados para máxima producción y consistencia dimensional. Disponibles en configuraciones de 32 a 160 cavidades con soporte para acabados de cuello estándar incluyendo PCO 1716, PCO 1810, 3025, PCO 1881, 2925, 2622 y 38mm. Diseñados para integración perfecta con plataformas de máquinas de moldeo por inyección HUSKY, UNIQUE, NETSTAL, SIPA y KATA. Ideales para la producción de preformas para botellas de agua mineral, CSD y envases de bebidas.",
       "short": "Molde de inyección de preformas de alta cavitación — 32 a 160 cavidades"
     },
     "Molde de compresión": {

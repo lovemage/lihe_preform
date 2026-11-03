@@ -101,11 +101,11 @@
     "preformSpecifications": [
       {
         "label": "Número de cavidades",
-        "value": "32–160 cavidades"
+        "value": "32, 48, 56, 72, 96, 128, 144 o 160 cavidades"
       },
       {
         "label": "Plataformas de máquina",
-        "value": "HUSKY, NETSTAL, SIPA y KATA; confirme el modelo y la interfaz de la máquina para su proyecto."
+        "value": "HUSKY, UNIQUE, NETSTAL, SIPA y KATA; confirme el modelo y la interfaz de la máquina para su proyecto."
       },
       {
         "label": "Acabados de cuello",
@@ -118,6 +118,10 @@
       {
         "label": "Aplicaciones",
         "value": "Envases para agua, bebidas carbonatadas y otras bebidas"
+      },
+      {
+        "label": "Herramental para rPET",
+        "value": "Machos, cavidades, anillos de cuello e insertos de inyección con recubrimiento para alto contenido de rPET"
       }
     ],
     "preformQuoteTitle": "Datos para solicitar su molde",

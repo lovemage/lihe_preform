@@ -101,11 +101,11 @@
     "preformSpecifications": [
       {
         "label": "Cavitation",
-        "value": "32–160 cavities"
+        "value": "32, 48, 56, 72, 96, 128, 144 or 160 cavities"
       },
       {
         "label": "Machine platforms",
-        "value": "HUSKY, NETSTAL, SIPA and KATA; confirm the machine model and interface for your project."
+        "value": "HUSKY, UNIQUE, NETSTAL, SIPA and KATA; confirm the machine model and interface for your project."
       },
       {
         "label": "Neck finishes",
@@ -118,6 +118,10 @@
       {
         "label": "Applications",
         "value": "Water, carbonated soft drinks and beverage packaging"
+      },
+      {
+        "label": "rPET tooling",
+        "value": "Coated cores, cavities, neck rings and gate inserts for high rPET content"
       }
     ],
     "preformQuoteTitle": "What to include in your mold inquiry",

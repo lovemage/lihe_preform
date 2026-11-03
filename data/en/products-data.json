@@ -19,12 +19,13 @@
       "name": "PET Preform Mold",
       "category": "Preform mold",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/19.html",
-      "description": "High-cavitation PET preform injection molds engineered for maximum output and dimensional consistency. Available in 32 to 160 multi-cavity mold configurations with support for standard neck finishes including 1716, PCO1810, PCO1881, 3025, 2925, 2622, 2522, 38mm, 45mm, 68mm, 80mm, 90mm wide mouth Jars…etc. Designed for seamless integration with HUSKY, NETSTAL, SIPA, KATA and other injection molding machine platforms. Ideal for mineral water bottle, CSD, and beverage packaging preform production.",
+      "description": "High-cavitation PET preform injection molds engineered for maximum output and dimensional consistency. Available in 32, 48, 56, 72, 96, 128, 144 and 160-cavity configurations with support for standard neck finishes including 1716, PCO1810, PCO1881, 3025, 2925, 2622, 2522, 38mm, 45mm, 68mm, 80mm, 90mm wide mouth Jars…etc. Designed for seamless integration with HUSKY, UNIQUE, NETSTAL, SIPA, KATA and other injection molding machine platforms. Ideal for mineral water bottle, CSD, and beverage packaging preform production.",
       "bullets": [
-        "Capability: From 32 to 160 cavities.",
-        "Standards: Full support for PCO 1881, 1810, 2925, 2622, 2522, 38mm, 45mm, 68mm, 80mm, ROPP…etc and custom neck finishes.",
+        "Capability: 32, 48, 56, 72, 96, 128, 144 and 160 cavities.",
+        "Standards: Full support for PCO 1881, 1810, 1716, 3025, 2925, 2622, 2522, 38mm, 45mm, 68mm, 80mm, ROPP…etc and custom neck finishes.",
         "Annual Capacity: Over 12,000 cavities produced yearly.",
-        "Design: Optimized for minimized cycle times and maximum resin distribution consistency."
+        "Design: Optimized for minimized cycle times and maximum resin distribution consistency.",
+        "rPET-ready tooling: Coatings and surface treatments on cores, cavities, neck rings and gate inserts for long tooling life with high rPET content."
       ],
       "images": [
         {
@@ -50,13 +51,19 @@
       "name": "Tooling Conversion Service",
       "category": "Preform mold",
       "detail_url": "http://www.fs-lihe.com/home/product/detail/id/34.html",
-      "description": "Expert tooling conversion services for PET preform mold systems. We deliver precision-engineered replacement parts and performance upgrades for your existing mold assets.",
+      "description": "Expert tooling conversion services for PET preform mold systems. We deliver precision-engineered replacement parts and performance upgrades for your existing mold assets. Our tailor-made solutions cover more than a hundred mold designs in service on mainstream PET injection machines.",
       "bullets": [
         "Design: From customer existing parts from Husky/SACMI/Otto, we deliver same tooling parts for customer to replace on your existing mold without headache.",
         "Performance Engineering: Beyond simple replacement, we innovate to improve your bottom line. We optimize cooling efficiency and blowing conditions to significantly shorten cycle times.",
-        "Strategic Upgrades: We specialize in neck finish conversions and lightweighting projects, helping you reduce resin consumption and meet ESG goals while maintaining peak structural integrity."
+        "Strategic Upgrades: We specialize in neck finish conversions and lightweighting projects, helping you reduce resin consumption and meet ESG goals while maintaining peak structural integrity.",
+        "Service scope: New molds, new hot runners, take-off / PMC units, specialized molds, mold conversions, spare parts supply, mold refurbishing, reworking and technical support.",
+        "Machine platforms: Husky, Sacmi, KraussMaffei, Arburg, Netstal, Welltec and other mainstream PET injection machines."
       ],
       "images": [
+        {
+          "src": "/images/products/preform-tooling-assembly.webp",
+          "alt": "Preform mold tooling assembly"
+        },
         {
           "src": "/images/products/17370998706850355.webp",
           "alt": "17370998706850355 - Preform mold"
@@ -71,8 +78,33 @@
         }
       ],
       "thumbnail": {
-        "src": "/images/products/17389200493914231.webp",
-        "alt": "17389200493914231 - Preform mold"
+        "src": "/images/products/preform-tooling-assembly.webp",
+        "alt": "Preform mold tooling assembly"
+      }
+    },
+    {
+      "id": 68,
+      "name": "rPET-Ready Preform Mold Coatings",
+      "category": "Preform mold",
+      "detail_url": "",
+      "description": "Specialized coatings and surface treatments for preform mold components that extend tooling life and make it practical to run a high percentage of recycled PET (rPET). Each treated part — core, cavity, core ring, neck rings and gate insert — targets a specific wear point, from filling and release to corrosion from cooling water.",
+      "bullets": [
+        "Core: Improves filling and preform release.",
+        "Cavity: Improves filling and release, and avoids corrosive cooling-water effects.",
+        "Core ring: Reduces maintenance.",
+        "Neck rings: Extend taper life and reduce vent and molding-surface maintenance.",
+        "Gate insert: Improves release, extends gate vestige life and avoids corrosive water effects.",
+        "Purpose: Longer preform tooling life and stable production with a high percentage of rPET."
+      ],
+      "images": [
+        {
+          "src": "/images/products/preform-tooling-rpet-coated-parts.webp",
+          "alt": "Coated preform mold core, cavity, neck ring and gate insert"
+        }
+      ],
+      "thumbnail": {
+        "src": "/images/products/preform-tooling-rpet-coated-parts.webp",
+        "alt": "Coated preform mold core, cavity, neck ring and gate insert"
       }
     },
     {
@@ -582,7 +614,7 @@
   ],
   "categoryDescriptions": {
     "Preform mold": {
-      "description": "High-cavitation PET preform injection molds engineered for maximum output and dimensional consistency. Available in 32 to 160 multi-cavity mold configurations with support for standard neck finishes including PCO 1716, PCO 1810, 3025, PCO 1881, 2925, 2622, and 38mm. Designed for seamless integration with HUSKY, NETSTAL, SIPA, and KATA injection molding machine platforms. Ideal for mineral water bottle, CSD, and beverage packaging preform production.",
+      "description": "High-cavitation PET preform injection molds engineered for maximum output and dimensional consistency. Available in 32 to 160 multi-cavity mold configurations with support for standard neck finishes including PCO 1716, PCO 1810, 3025, PCO 1881, 2925, 2622, and 38mm. Designed for seamless integration with HUSKY, UNIQUE, NETSTAL, SIPA, and KATA injection molding machine platforms. Ideal for mineral water bottle, CSD, and beverage packaging preform production.",
       "short": "High-cavitation preform injection mold — 32 to 160 cavities"
     },
     "Compression mold": {
