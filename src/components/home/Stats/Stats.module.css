@@ -66,10 +66,28 @@
   letter-spacing: 0.08em;
 }
 
+.dots {
+  display: none;
+}
+
+@keyframes statIn {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/* Mobile: one stat at a time, cycled by Stats.tsx */
 @media (max-width: 768px) {
   .grid {
-    grid-template-columns: repeat(2, 1fr);
-    gap: var(--space-lg);
+    grid-template-columns: 1fr;
+    gap: 0;
+    min-height: 9.5rem;
+    align-items: center;
   }
 
   .stat:not(:last-child)::after {
@@ -78,5 +96,39 @@
 
   .stat {
     padding: var(--space-lg) var(--space-md);
+  }
+
+  .stat:not([data-active]) {
+    display: none;
+  }
+
+  .stat[data-active] {
+    animation: statIn 0.45s ease-out;
+  }
+
+  .dots {
+    display: flex;
+    justify-content: center;
+    gap: 6px;
+    margin-top: var(--space-sm);
+    position: relative;
+    z-index: 1;
+  }
+
+  .dot {
+    width: 18px;
+    height: 2px;
+    background: rgba(255, 255, 255, 0.25);
+    transition: background-color 0.3s ease;
+  }
+
+  .dot[data-active] {
+    background: var(--color-accent);
+  }
+}
+
+@media (max-width: 768px) and (prefers-reduced-motion: reduce) {
+  .stat[data-active] {
+    animation: none;
   }
 }
