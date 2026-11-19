@@ -43,3 +43,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# 文件／草稿／截圖（不納入版控）
+/docs/lihe 網站流量報告 — Yandex Metrica (updated).md
+/docs/lihe 網站流量報告 — Yandex Metrica.md
+/docs/利和图册.pdf
+/docs/利和排版.pdf
