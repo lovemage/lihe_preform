@@ -7,7 +7,8 @@ import {
   getCategoryPath,
   getProductCategories,
 } from "@/lib/categories";
-import { clampDescription, getLocaleAlternates } from "@/lib/seo";
+import { buildMetaDescription, getLocaleAlternates } from "@/lib/seo";
+import { getPageGuide } from "@/lib/guides";
 import Breadcrumb from "@/components/ui/Breadcrumb/Breadcrumb";
 import SectionHeading from "@/components/ui/SectionHeading/SectionHeading";
 import CategoryFilter from "@/components/products/CategoryFilter";
@@ -44,7 +45,11 @@ export async function generateMetadata({
     title: t.has(`categoryMetaTitles.${slug}`)
       ? t(`categoryMetaTitles.${slug}`)
       : `${capitalize(category.name)} — ${t("categoryTitleSuffix")} | Lihe Precision`,
-    description: clampDescription(category.description || category.short),
+    description: buildMetaDescription(
+      category.description || category.short,
+      category.short,
+      getPageGuide(locale, `category-${slug}`)?.intro,
+    ),
     alternates: getLocaleAlternates(locale, getCategoryPath(slug)),
   };
 }

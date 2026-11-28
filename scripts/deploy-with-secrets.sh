@@ -17,6 +17,8 @@ if [ ! -f .dev.vars ]; then
 fi
 
 echo ""
+node scripts/indexnow.mjs snapshot || true
+
 echo "📦 1. 建置應用程式..."
 npm run cf:build
 
@@ -45,6 +47,10 @@ done < .dev.vars
 echo ""
 echo "🌐 3. 部署到 Cloudflare..."
 npx opennextjs-cloudflare deploy
+
+echo ""
+echo "📣 4. 送出變動網址到 IndexNow（失敗不影響部署）..."
+node scripts/indexnow.mjs submit || true
 
 echo ""
 echo "✅ 部署完成！"

@@ -49,3 +49,6 @@ next-env.d.ts
 /docs/lihe 網站流量報告 — Yandex Metrica.md
 /docs/利和图册.pdf
 /docs/利和排版.pdf
+
+# IndexNow 部署前 sitemap 快照
+/.indexnow/

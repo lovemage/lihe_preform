@@ -41,14 +41,35 @@ export function getOpenGraphAlternateLocales(locale: string): string[] {
     .map((lang) => getOpenGraphLocale(lang));
 }
 
-export function clampDescription(text: string, maxLength = 160): string {
+export const META_DESCRIPTION_MIN = 150;
+export const META_DESCRIPTION_MAX = 160;
+
+export function clampDescription(text: string, maxLength = META_DESCRIPTION_MAX): string {
   const clean = text.replace(/\s+/g, " ").trim();
   if (clean.length <= maxLength) return clean;
 
   const sliced = clean.slice(0, maxLength - 1);
   const lastSpace = sliced.lastIndexOf(" ");
-  const safeSlice = lastSpace > 80 ? sliced.slice(0, lastSpace) : sliced;
-  return `${safeSlice.trim()}…`;
+  // Cut on a word boundary only when it still leaves at least META_DESCRIPTION_MIN characters.
+  const minCut = Math.min(META_DESCRIPTION_MIN, maxLength - 10);
+  const safeSlice = lastSpace >= minCut ? sliced.slice(0, lastSpace) : sliced;
+  return `${safeSlice.trim().replace(/[\s,;:–—-]+$/, "")}…`;
+}
+
+/**
+ * Meta description from real page content: joins the given parts in order until the text
+ * reaches META_DESCRIPTION_MIN characters, then trims it to META_DESCRIPTION_MAX.
+ */
+export function buildMetaDescription(...parts: Array<string | null | undefined>): string {
+  let text = "";
+  for (const part of parts) {
+    const clean = (part ?? "").replace(/\s+/g, " ").trim();
+    if (!clean || text.includes(clean)) continue;
+    if (text.length >= META_DESCRIPTION_MIN) break;
+    const joined = /[.!?…:;。]$/.test(text) ? text : `${text}.`;
+    text = text ? `${joined} ${clean}` : clean;
+  }
+  return clampDescription(text);
 }
 
 export function getProductMetaTitle(name: string, categoryName?: string): string {

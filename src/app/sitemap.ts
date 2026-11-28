@@ -1,30 +1,21 @@
 import type { MetadataRoute } from "next";
-import fs from "fs";
-import path from "path";
 import { routing } from "@/i18n/routing";
 import { getProductsData } from "@/lib/data";
 import { getCategoryPath, getProductCategories } from "@/lib/categories";
 import { getNewsArticles, getNewsPath } from "@/lib/news";
 import { buildLocalePath } from "@/lib/seo";
+// Content-change dates per page and locale, written by scripts/build-lastmod.mjs (prebuild).
+import lastmodJson from "../../data/sitemap-lastmod.json";
 
 export const dynamic = "force-static";
 
-function getLatestMtime(filePaths: string[]): Date {
-  const mtimes = filePaths
-    .map((filePath) => {
-      try {
-        return fs.statSync(filePath).mtimeMs;
-      } catch {
-        return 0;
-      }
-    })
-    .filter((mtime) => mtime > 0);
+type LastmodManifest = { pages: Record<string, Record<string, { lastmod: string }>> };
+const lastmodManifest = lastmodJson as LastmodManifest;
 
-  if (mtimes.length === 0) {
-    return new Date("2026-01-01T00:00:00.000Z");
-  }
-
-  return new Date(Math.max(...mtimes));
+function toDate(value: string | undefined): Date | undefined {
+  if (!value) return undefined;
+  const date = new Date(`${value}T00:00:00.000Z`);
+  return Number.isNaN(date.getTime()) ? undefined : date;
 }
 
 function buildLocalizedUrl(baseUrl: string, locale: string, page: string): string {
@@ -32,24 +23,16 @@ function buildLocalizedUrl(baseUrl: string, locale: string, page: string): strin
 }
 
 function buildPageAlternates(baseUrl: string, page: string) {
-  return Object.fromEntries(
-    routing.locales.map((locale) => [locale, buildLocalizedUrl(baseUrl, locale, page)]),
-  );
+  return {
+    ...Object.fromEntries(
+      routing.locales.map((locale) => [locale, buildLocalizedUrl(baseUrl, locale, page)]),
+    ),
+    "x-default": buildLocalizedUrl(baseUrl, routing.defaultLocale, page),
+  };
 }
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = "https://lihe-preform.com";
-  const dataDir = path.join(process.cwd(), "data");
-  const staticDataFiles = [
-    path.join(dataDir, "en", "about.json"),
-    path.join(dataDir, "en", "contact.json"),
-    path.join(dataDir, "en", "equipment.json"),
-    path.join(dataDir, "en", "factory.json"),
-    path.join(dataDir, "en", "home.json"),
-    path.join(dataDir, "site.json"),
-  ];
-  const siteLastModified = getLatestMtime(staticDataFiles);
-  const productsFile = path.join(dataDir, "en", "products-data.json");
 
   const pages = [
     "",
@@ -63,18 +46,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/contact",
   ];
 
-  const productsData = getProductsData("en");
-  const crawledAt =
-    typeof productsData?.crawled_at === "string"
-      ? new Date(`${productsData.crawled_at}T00:00:00.000Z`)
-      : null;
-  const productsLastModified = crawledAt && !Number.isNaN(crawledAt.getTime())
-    ? new Date(
-        Math.max(crawledAt.getTime(), getLatestMtime([productsFile]).getTime()),
-      )
-    : getLatestMtime([productsFile]);
-
-  const productPages = productsData.products.map(
+  const productPages = getProductsData("en").products.map(
     (p: any) => `/products/${p.id}`
   );
 
@@ -82,32 +54,40 @@ export default function sitemap(): MetadataRoute.Sitemap {
     getCategoryPath(category.slug),
   );
 
-  const newsArticles = getNewsArticles("en");
-  const newsLastModified = new Map(
-    newsArticles.map((article) => [
+  const newsLastModified = new Map<string, Record<string, Date | undefined>>(
+    getNewsArticles("en").map((article) => [
       getNewsPath(article.slug),
-      new Date(`${article.updated ?? article.date}T00:00:00.000Z`),
+      Object.fromEntries(
+        routing.locales.map((locale) => {
+          const localized = getNewsArticles(locale).find((a) => a.slug === article.slug) ?? article;
+          return [locale, toDate(localized.updated ?? localized.date)];
+        }),
+      ),
     ]),
   );
-  const latestNewsDate = newsArticles[0]
-    ? newsLastModified.get(getNewsPath(newsArticles[0].slug))
-    : undefined;
+
+  function latestNewsDate(locale: string): Date | undefined {
+    const dates = [...newsLastModified.values()]
+      .map((byLocale) => byLocale[locale]?.getTime() ?? 0)
+      .filter((time) => time > 0);
+    return dates.length ? new Date(Math.max(...dates)) : undefined;
+  }
+
+  function lastModified(page: string, locale: string): Date | undefined {
+    if (newsLastModified.has(page)) return newsLastModified.get(page)?.[locale];
+    if (page === "/news") return latestNewsDate(locale);
+    return toDate(lastmodManifest.pages[page || "/"]?.[locale]?.lastmod);
+  }
 
   const allPages = [...pages, ...categoryPages, ...productPages, ...newsLastModified.keys()];
 
   return allPages.flatMap((page) =>
     routing.locales.map((locale) => {
-      const localizedUrl = buildLocalizedUrl(baseUrl, locale, page);
+      const modified = lastModified(page, locale);
 
       return {
-        url: localizedUrl,
-        lastModified:
-          newsLastModified.get(page) ??
-          (page === "/news" && latestNewsDate
-            ? latestNewsDate
-            : page.startsWith("/products/")
-              ? productsLastModified
-              : siteLastModified),
+        url: buildLocalizedUrl(baseUrl, locale, page),
+        ...(modified ? { lastModified: modified } : {}),
         changeFrequency: (page === "" ? "weekly" : "monthly") as any,
         priority: page === "" ? 1.0 : page.startsWith("/products/") ? 0.7 : 0.8,
         alternates: {

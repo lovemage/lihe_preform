@@ -1,6 +1,7 @@
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { routing } from "@/i18n/routing";
-import { getLocaleAlternates } from "@/lib/seo";
+import { buildMetaDescription, getLocaleAlternates } from "@/lib/seo";
+import { getPageGuide } from "@/lib/guides";
 import Breadcrumb from "@/components/ui/Breadcrumb/Breadcrumb";
 import SectionHeading from "@/components/ui/SectionHeading/SectionHeading";
 import Button from "@/components/ui/Button/Button";
@@ -22,7 +23,7 @@ export async function generateMetadata({
 
   return {
     title: `${t("title")} | Lihe Precision`,
-    description: t("subtitle"),
+    description: buildMetaDescription(t("subtitle"), getPageGuide(locale, "page-download")?.intro),
     alternates: getLocaleAlternates(locale, "/download"),
     robots: {
       index: false,

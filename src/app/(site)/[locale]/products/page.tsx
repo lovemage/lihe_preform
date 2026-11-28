@@ -1,7 +1,8 @@
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { routing } from "@/i18n/routing";
 import { getProductsData } from "@/lib/data";
-import { getLocaleAlternates } from "@/lib/seo";
+import { buildMetaDescription, getLocaleAlternates } from "@/lib/seo";
+import { getPageGuide } from "@/lib/guides";
 import Breadcrumb from "@/components/ui/Breadcrumb/Breadcrumb";
 import SectionHeading from "@/components/ui/SectionHeading/SectionHeading";
 import CategoryFilter from "@/components/products/CategoryFilter";
@@ -26,7 +27,7 @@ export async function generateMetadata({
 
   return {
     title: t("metaTitle"),
-    description: t("metaDescription"),
+    description: buildMetaDescription(t("metaDescription"), getPageGuide(locale, "page-products")?.intro),
     alternates: getLocaleAlternates(locale, "/products"),
   };
 }

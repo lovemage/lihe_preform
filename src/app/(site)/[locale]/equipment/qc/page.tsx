@@ -2,7 +2,8 @@ import Image from "next/image";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { routing } from "@/i18n/routing";
 import { getEquipmentData } from "@/lib/data";
-import { clampDescription, getLocaleAlternates } from "@/lib/seo";
+import { buildMetaDescription, getLocaleAlternates } from "@/lib/seo";
+import { getPageGuide } from "@/lib/guides";
 import Breadcrumb from "@/components/ui/Breadcrumb/Breadcrumb";
 import SectionHeading from "@/components/ui/SectionHeading/SectionHeading";
 import ImageGallery from "@/components/ui/ImageGallery/ImageGallery";
@@ -27,7 +28,7 @@ export async function generateMetadata({
 
   return {
     title: `${category.name} — ${t("qcTitleSuffix")} | Lihe Precision`,
-    description: clampDescription(t("metaDescriptionQc")),
+    description: buildMetaDescription(t("metaDescriptionQc"), getPageGuide(locale, "page-qc")?.intro),
     alternates: getLocaleAlternates(locale, "/equipment/qc"),
   };
 }

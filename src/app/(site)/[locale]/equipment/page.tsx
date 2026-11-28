@@ -2,7 +2,8 @@ import Image from "next/image";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { routing } from "@/i18n/routing";
 import { getEquipmentData } from "@/lib/data";
-import { clampDescription, getLocaleAlternates } from "@/lib/seo";
+import { buildMetaDescription, getLocaleAlternates } from "@/lib/seo";
+import { getPageGuide } from "@/lib/guides";
 import { Link } from "@/i18n/navigation";
 import Breadcrumb from "@/components/ui/Breadcrumb/Breadcrumb";
 import SectionHeading from "@/components/ui/SectionHeading/SectionHeading";
@@ -25,7 +26,7 @@ export async function generateMetadata({
 
   return {
     title: `${t("title")} | Lihe Precision`,
-    description: clampDescription(t("metaDescription")),
+    description: buildMetaDescription(t("metaDescription"), getPageGuide(locale, "page-equipment")?.intro),
     alternates: getLocaleAlternates(locale, "/equipment"),
   };
 }

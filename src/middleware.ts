@@ -9,10 +9,11 @@ const LOCALE_PREFIX = new RegExp(`^/(${routing.locales.join("|")})(/|$)`);
 const PRODUCTS_LIST = new RegExp(`^(?:/(${routing.locales.join("|")}))?/products/?$`);
 
 function permanentRedirect(request: NextRequest, pathname: string, search = "") {
-  const url = request.nextUrl.clone();
+  // Plain URL: NextURL re-applies its own trailing-slash formatting and would drop the slash.
+  const url = new URL(request.url);
   url.pathname = pathname.endsWith("/") ? pathname : `${pathname}/`;
   url.search = search;
-  return NextResponse.redirect(url, 308);
+  return NextResponse.redirect(url.toString(), 301);
 }
 
 export default function middleware(request: NextRequest) {
@@ -20,7 +21,14 @@ export default function middleware(request: NextRequest) {
 
   // Static files in /public (e.g. the Yandex verification page) must be served as-is.
   const isFile = /\.[^/]+$/.test(pathname);
-  if (isFile || pathname.startsWith("/admin") || pathname.startsWith("/api/admin")) {
+  if (isFile || pathname.startsWith("/api/")) {
+    return;
+  }
+
+  if (pathname.startsWith("/admin")) {
+    if (!pathname.endsWith("/")) {
+      return permanentRedirect(request, pathname, request.nextUrl.search);
+    }
     return;
   }
 
@@ -42,6 +50,11 @@ export default function middleware(request: NextRequest) {
   // Locale-less page URLs → default locale, permanently (the site root keeps locale detection).
   if (pathname !== "/" && !LOCALE_PREFIX.test(pathname)) {
     return permanentRedirect(request, `/${routing.defaultLocale}${pathname}`, request.nextUrl.search);
+  }
+
+  // Trailing-slash rule (next.config `trailingSlash: true`, redirect skipped there): one 301.
+  if (!pathname.endsWith("/")) {
+    return permanentRedirect(request, pathname, request.nextUrl.search);
   }
 
   return intlMiddleware(request);

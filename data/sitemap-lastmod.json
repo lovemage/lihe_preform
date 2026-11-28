@@ -1,0 +1,522 @@
+{
+  "pages": {
+    "/": {
+      "en": {
+        "hash": "c2e534210bfb089d",
+        "lastmod": "2026-10-13"
+      },
+      "ru": {
+        "hash": "66d48ae8de822355",
+        "lastmod": "2026-10-13"
+      },
+      "es": {
+        "hash": "8d015a6b641513e4",
+        "lastmod": "2026-10-13"
+      }
+    },
+    "/about": {
+      "en": {
+        "hash": "b06dcd0922f194e2",
+        "lastmod": "2026-10-13"
+      },
+      "ru": {
+        "hash": "f6c91839fe5d2695",
+        "lastmod": "2026-10-13"
+      },
+      "es": {
+        "hash": "d024f7a046ae32a0",
+        "lastmod": "2026-10-13"
+      }
+    },
+    "/factory": {
+      "en": {
+        "hash": "c8ee526c5c29ba52",
+        "lastmod": "2026-10-13"
+      },
+      "ru": {
+        "hash": "431b3fa4e2dcc41f",
+        "lastmod": "2026-10-13"
+      },
+      "es": {
+        "hash": "d25a8a06dea33abf",
+        "lastmod": "2026-10-13"
+      }
+    },
+    "/equipment": {
+      "en": {
+        "hash": "8e1e59cf55442a97",
+        "lastmod": "2026-10-13"
+      },
+      "ru": {
+        "hash": "6b733a3368b424a4",
+        "lastmod": "2026-10-13"
+      },
+      "es": {
+        "hash": "bdb8700d0bea9013",
+        "lastmod": "2026-10-13"
+      }
+    },
+    "/equipment/qc": {
+      "en": {
+        "hash": "1f93eb4fe4d12429",
+        "lastmod": "2026-10-13"
+      },
+      "ru": {
+        "hash": "5e44f8832a12c1ef",
+        "lastmod": "2026-10-13"
+      },
+      "es": {
+        "hash": "909586144a34ab8e",
+        "lastmod": "2026-10-13"
+      }
+    },
+    "/equipment/machining": {
+      "en": {
+        "hash": "95a28250ad04dbce",
+        "lastmod": "2026-10-13"
+      },
+      "ru": {
+        "hash": "9ec359b43ee1d069",
+        "lastmod": "2026-10-13"
+      },
+      "es": {
+        "hash": "6562afcc119e2d17",
+        "lastmod": "2026-10-13"
+      }
+    },
+    "/products": {
+      "en": {
+        "hash": "e4c0e79c2117fe72",
+        "lastmod": "2026-11-03"
+      },
+      "ru": {
+        "hash": "d301ba8d530ad1b7",
+        "lastmod": "2026-11-03"
+      },
+      "es": {
+        "hash": "dc1a07b062d41a7a",
+        "lastmod": "2026-11-03"
+      }
+    },
+    "/contact": {
+      "en": {
+        "hash": "122a9c536443ac19",
+        "lastmod": "2026-10-13"
+      },
+      "ru": {
+        "hash": "343ca5b8c1a9b2fd",
+        "lastmod": "2026-10-13"
+      },
+      "es": {
+        "hash": "20e649a596cf6c4a",
+        "lastmod": "2026-10-13"
+      }
+    },
+    "/products/category/blow-mold": {
+      "en": {
+        "hash": "2b76e652ff7eebb1",
+        "lastmod": "2026-11-03"
+      },
+      "ru": {
+        "hash": "98bfa27712a54964",
+        "lastmod": "2026-11-03"
+      },
+      "es": {
+        "hash": "1524ad661861ea7c",
+        "lastmod": "2026-11-03"
+      }
+    },
+    "/products/category/compression-mold": {
+      "en": {
+        "hash": "fa7635677a18b06f",
+        "lastmod": "2026-11-03"
+      },
+      "ru": {
+        "hash": "ba8b1b684350c804",
+        "lastmod": "2026-11-03"
+      },
+      "es": {
+        "hash": "65c03d0af3df9987",
+        "lastmod": "2026-11-03"
+      }
+    },
+    "/products/category/closure-mold": {
+      "en": {
+        "hash": "f9ca218c14b97fb5",
+        "lastmod": "2026-11-03"
+      },
+      "ru": {
+        "hash": "ce25adae6cb7b87b",
+        "lastmod": "2026-11-03"
+      },
+      "es": {
+        "hash": "30b2cc54fae711f7",
+        "lastmod": "2026-11-03"
+      }
+    },
+    "/products/category/preform-mold": {
+      "en": {
+        "hash": "6669f6831706f55a",
+        "lastmod": "2026-11-03"
+      },
+      "ru": {
+        "hash": "feb9e62fd4db2acd",
+        "lastmod": "2026-11-03"
+      },
+      "es": {
+        "hash": "c8980ff875c0107a",
+        "lastmod": "2026-11-03"
+      }
+    },
+    "/products/category/hot-runner-system": {
+      "en": {
+        "hash": "312bd16c26c85838",
+        "lastmod": "2026-11-03"
+      },
+      "ru": {
+        "hash": "7c264da1d6c15789",
+        "lastmod": "2026-11-03"
+      },
+      "es": {
+        "hash": "58a4b0df60f22ad6",
+        "lastmod": "2026-11-03"
+      }
+    },
+    "/products/category/accessories": {
+      "en": {
+        "hash": "94a17c41e6b798d3",
+        "lastmod": "2026-11-03"
+      },
+      "ru": {
+        "hash": "a4731fb814316b4c",
+        "lastmod": "2026-11-03"
+      },
+      "es": {
+        "hash": "e72837c1378b4421",
+        "lastmod": "2026-11-03"
+      }
+    },
+    "/products/category/mold-base": {
+      "en": {
+        "hash": "410e6954db8c0f7e",
+        "lastmod": "2026-11-03"
+      },
+      "ru": {
+        "hash": "994b95a581611e55",
+        "lastmod": "2026-11-03"
+      },
+      "es": {
+        "hash": "3fe167d23b0bc36b",
+        "lastmod": "2026-11-03"
+      }
+    },
+    "/products/category/qc-equipment": {
+      "en": {
+        "hash": "449bdbc1f0649e99",
+        "lastmod": "2026-11-03"
+      },
+      "ru": {
+        "hash": "9f48c40da39e303e",
+        "lastmod": "2026-11-03"
+      },
+      "es": {
+        "hash": "2914b09cf68961ba",
+        "lastmod": "2026-11-03"
+      }
+    },
+    "/products/category/machining-equipment": {
+      "en": {
+        "hash": "7f602ef6891c6c05",
+        "lastmod": "2026-11-03"
+      },
+      "ru": {
+        "hash": "4e279747ed35b44a",
+        "lastmod": "2026-11-03"
+      },
+      "es": {
+        "hash": "354bcbfa10f2b8d6",
+        "lastmod": "2026-11-03"
+      }
+    },
+    "/products/19": {
+      "en": {
+        "hash": "101bf5ff6cd98329",
+        "lastmod": "2026-11-03"
+      },
+      "ru": {
+        "hash": "53c90dd1a2c919a8",
+        "lastmod": "2026-11-03"
+      },
+      "es": {
+        "hash": "45394872b27a7c1f",
+        "lastmod": "2026-11-03"
+      }
+    },
+    "/products/34": {
+      "en": {
+        "hash": "c08c297f2d87f9cb",
+        "lastmod": "2026-11-03"
+      },
+      "ru": {
+        "hash": "4911fc53c55d32bb",
+        "lastmod": "2026-11-03"
+      },
+      "es": {
+        "hash": "478a899016fa33c8",
+        "lastmod": "2026-11-03"
+      }
+    },
+    "/products/68": {
+      "en": {
+        "hash": "5464e5cedee4c2de",
+        "lastmod": "2026-11-03"
+      },
+      "ru": {
+        "hash": "1229e1c9d4638e9f",
+        "lastmod": "2026-11-03"
+      },
+      "es": {
+        "hash": "1e1c0a9e36aa56d9",
+        "lastmod": "2026-11-03"
+      }
+    },
+    "/products/21": {
+      "en": {
+        "hash": "b2b434b61c8926f3",
+        "lastmod": "2026-11-03"
+      },
+      "ru": {
+        "hash": "1f4bfd6bdfe241e0",
+        "lastmod": "2026-11-03"
+      },
+      "es": {
+        "hash": "4a001881edf4ef7e",
+        "lastmod": "2026-11-03"
+      }
+    },
+    "/products/20": {
+      "en": {
+        "hash": "5eedab4327ce6dc7",
+        "lastmod": "2026-11-03"
+      },
+      "ru": {
+        "hash": "884975e6b9b7e015",
+        "lastmod": "2026-11-03"
+      },
+      "es": {
+        "hash": "b709a99abef57f33",
+        "lastmod": "2026-11-03"
+      }
+    },
+    "/products/22": {
+      "en": {
+        "hash": "a1699acddb88a3d0",
+        "lastmod": "2026-11-03"
+      },
+      "ru": {
+        "hash": "d2c00d5b1489b34a",
+        "lastmod": "2026-11-03"
+      },
+      "es": {
+        "hash": "a6ee46665d72aae3",
+        "lastmod": "2026-11-03"
+      }
+    },
+    "/products/23": {
+      "en": {
+        "hash": "49a59690cba6d962",
+        "lastmod": "2026-11-03"
+      },
+      "ru": {
+        "hash": "4402443ba49e9896",
+        "lastmod": "2026-11-03"
+      },
+      "es": {
+        "hash": "bf8d2d8c362f7932",
+        "lastmod": "2026-11-03"
+      }
+    },
+    "/products/24": {
+      "en": {
+        "hash": "4927a5648a9c72ec",
+        "lastmod": "2026-11-03"
+      },
+      "ru": {
+        "hash": "791075be1cb26e2e",
+        "lastmod": "2026-11-03"
+      },
+      "es": {
+        "hash": "86c8df4e2329acee",
+        "lastmod": "2026-11-03"
+      }
+    },
+    "/products/25": {
+      "en": {
+        "hash": "fb58172c00f09e1b",
+        "lastmod": "2026-11-03"
+      },
+      "ru": {
+        "hash": "cbf5555a9ee76ce6",
+        "lastmod": "2026-11-03"
+      },
+      "es": {
+        "hash": "a11c0946b723b91f",
+        "lastmod": "2026-11-03"
+      }
+    },
+    "/products/26": {
+      "en": {
+        "hash": "8f66ef30799a45dc",
+        "lastmod": "2026-11-03"
+      },
+      "ru": {
+        "hash": "45c3839a8c141105",
+        "lastmod": "2026-11-03"
+      },
+      "es": {
+        "hash": "f3ec43a476ce0eff",
+        "lastmod": "2026-11-03"
+      }
+    },
+    "/products/31": {
+      "en": {
+        "hash": "9382a0c3120c7255",
+        "lastmod": "2026-11-03"
+      },
+      "ru": {
+        "hash": "56d629019d396708",
+        "lastmod": "2026-11-03"
+      },
+      "es": {
+        "hash": "fecf9028b64c3264",
+        "lastmod": "2026-11-03"
+      }
+    },
+    "/products/27": {
+      "en": {
+        "hash": "7ee860363fd6692f",
+        "lastmod": "2026-11-03"
+      },
+      "ru": {
+        "hash": "4745eff1491610a2",
+        "lastmod": "2026-11-03"
+      },
+      "es": {
+        "hash": "797d486fe09dbcf5",
+        "lastmod": "2026-11-03"
+      }
+    },
+    "/products/42": {
+      "en": {
+        "hash": "831e9f0670760bbb",
+        "lastmod": "2026-11-03"
+      },
+      "ru": {
+        "hash": "3193bb74370a55c8",
+        "lastmod": "2026-11-03"
+      },
+      "es": {
+        "hash": "e27be4a5fcdf98ae",
+        "lastmod": "2026-11-03"
+      }
+    },
+    "/products/28": {
+      "en": {
+        "hash": "f56131e488d968e7",
+        "lastmod": "2026-11-03"
+      },
+      "ru": {
+        "hash": "f3fefbc4ff670baf",
+        "lastmod": "2026-11-03"
+      },
+      "es": {
+        "hash": "058c479e7dd0259b",
+        "lastmod": "2026-11-03"
+      }
+    },
+    "/products/39": {
+      "en": {
+        "hash": "4d46dfe62bfde47a",
+        "lastmod": "2026-11-03"
+      },
+      "ru": {
+        "hash": "173c3f7722b7af5c",
+        "lastmod": "2026-11-03"
+      },
+      "es": {
+        "hash": "400966c70dffc489",
+        "lastmod": "2026-11-03"
+      }
+    },
+    "/products/38": {
+      "en": {
+        "hash": "bfa9e9cf17064813",
+        "lastmod": "2026-11-03"
+      },
+      "ru": {
+        "hash": "e801c891db4dfc50",
+        "lastmod": "2026-11-03"
+      },
+      "es": {
+        "hash": "f54fea7dc097691c",
+        "lastmod": "2026-11-03"
+      }
+    },
+    "/products/40": {
+      "en": {
+        "hash": "40c49ba87136a8cf",
+        "lastmod": "2026-11-03"
+      },
+      "ru": {
+        "hash": "1664d95dfb564261",
+        "lastmod": "2026-11-03"
+      },
+      "es": {
+        "hash": "2975eedbc766ce33",
+        "lastmod": "2026-11-03"
+      }
+    },
+    "/products/30": {
+      "en": {
+        "hash": "94c998d04c1af0e6",
+        "lastmod": "2026-11-03"
+      },
+      "ru": {
+        "hash": "7fdde02d7a3af8e6",
+        "lastmod": "2026-11-03"
+      },
+      "es": {
+        "hash": "bbf4900e364f3ffb",
+        "lastmod": "2026-11-03"
+      }
+    },
+    "/products/18": {
+      "en": {
+        "hash": "7254d6c90c29f95b",
+        "lastmod": "2026-11-03"
+      },
+      "ru": {
+        "hash": "65c4361ecc8fab52",
+        "lastmod": "2026-11-03"
+      },
+      "es": {
+        "hash": "f1f66c8d9a062aa6",
+        "lastmod": "2026-11-03"
+      }
+    },
+    "/products/17": {
+      "en": {
+        "hash": "196f6e1e2885f958",
+        "lastmod": "2026-11-03"
+      },
+      "ru": {
+        "hash": "a14020d5ab4e572d",
+        "lastmod": "2026-11-03"
+      },
+      "es": {
+        "hash": "55e1b922df1f712d",
+        "lastmod": "2026-11-03"
+      }
+    }
+  }
+}

@@ -4,7 +4,7 @@ import { getTranslations, setRequestLocale } from "next-intl/server";
 import { routing } from "@/i18n/routing";
 import { Link } from "@/i18n/navigation";
 import { getProductsData } from "@/lib/data";
-import { clampDescription, getLocaleAlternates } from "@/lib/seo";
+import { buildMetaDescription, getLocaleAlternates } from "@/lib/seo";
 import {
   formatNewsDate,
   getNewsArticle,
@@ -42,14 +42,19 @@ export async function generateMetadata({
     };
   }
 
+  const description = buildMetaDescription(
+    article.summary,
+    ...(article.sections[0]?.paragraphs ?? []),
+  );
+
   return {
     title: `${article.title} | Lihe Precision`,
-    description: clampDescription(article.summary),
+    description,
     alternates: getLocaleAlternates(locale, getNewsPath(slug)),
     openGraph: {
       type: "article",
       title: article.title,
-      description: clampDescription(article.summary),
+      description,
       publishedTime: article.date,
       modifiedTime: article.updated ?? article.date,
       ...(article.ogImage

@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { getHomeData, getProductsData } from "@/lib/data";
-import { getLocaleAlternates } from "@/lib/seo";
+import { buildMetaDescription, getLocaleAlternates } from "@/lib/seo";
+import { getPageGuide } from "@/lib/guides";
 import HeroBanner from "@/components/home/HeroBanner";
 import Stats from "@/components/home/Stats";
 import MoldHighlights from "@/components/home/MoldHighlights";
@@ -25,7 +26,7 @@ export async function generateMetadata({
 
   return {
     title: t("metaTitle"),
-    description: t("metaDescription"),
+    description: buildMetaDescription(t("metaDescription"), getPageGuide(locale, "page-home")?.intro),
     alternates: getLocaleAlternates(locale, ""),
   };
 }

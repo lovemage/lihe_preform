@@ -30,18 +30,21 @@ const nextConfig: NextConfig = {
       : [],
   },
   trailingSlash: true,
+  // The trailing-slash redirect is done in src/middleware.ts so that legacy URLs
+  // (e.g. `/products?category=…`) reach their final URL in a single 301.
+  skipTrailingSlashRedirect: true,
   async redirects() {
     return Object.entries(mergedProductIds).flatMap(([from, to]) => [
       {
         source: `/:locale(en|ru|es)/products/${from}`,
         destination: `/:locale/products/${to}/`,
-        permanent: true,
+        statusCode: 301 as const,
       },
       // Locale-less legacy URLs would otherwise chain through the locale middleware's 307.
       {
         source: `/products/${from}`,
         destination: `/en/products/${to}/`,
-        permanent: true,
+        statusCode: 301 as const,
       },
     ]);
   },

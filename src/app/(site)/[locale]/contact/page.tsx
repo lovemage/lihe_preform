@@ -1,7 +1,8 @@
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { routing } from "@/i18n/routing";
 import { getContactData, getProductsData } from "@/lib/data";
-import { getLocaleAlternates } from "@/lib/seo";
+import { buildMetaDescription, getLocaleAlternates } from "@/lib/seo";
+import { getPageGuide } from "@/lib/guides";
 import Breadcrumb from "@/components/ui/Breadcrumb/Breadcrumb";
 import SectionHeading from "@/components/ui/SectionHeading/SectionHeading";
 import EnhancedContactForm from "@/components/contact/ContactForm/EnhancedContactForm";
@@ -23,7 +24,7 @@ export async function generateMetadata({
 
   return {
     title: `${t("title")} | Lihe Precision`,
-    description: t("intro"),
+    description: buildMetaDescription(t("intro"), getPageGuide(locale, "page-contact")?.intro),
     alternates: getLocaleAlternates(locale, "/contact"),
   };
 }

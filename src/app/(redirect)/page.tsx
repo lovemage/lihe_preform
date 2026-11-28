@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://lihe-preform.com"),
   title: "Lihe Precision",
   description:
-    "Lihe Precision PET preform mold and blow mold engineering solutions.",
+    "Lihe Precision (Foshan Lihe Precision Machinery) makes PET preform molds, blow molds, closure and compression molds and hot runner systems. Choose a language.",
   robots: {
     index: false,
     follow: true,

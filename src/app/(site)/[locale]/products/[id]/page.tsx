@@ -3,7 +3,7 @@ import { getTranslations, setRequestLocale } from "next-intl/server";
 import { routing } from "@/i18n/routing";
 import { getProductsData } from "@/lib/data";
 import {
-  clampDescription,
+  buildMetaDescription,
   getLocaleAlternates,
   getProductMetaTitle,
 } from "@/lib/seo";
@@ -16,6 +16,7 @@ import { Link } from "@/i18n/navigation";
 import { getCategoryByName, getCategoryPath } from "@/lib/categories";
 import styles from "./page.module.css";
 import PageGuide from "@/components/content/PageGuide";
+import { getPageGuide } from "@/lib/guides";
 import AiImageNotice from "@/components/ui/AiImageNotice/AiImageNotice";
 
 export const revalidate = 3600;
@@ -51,7 +52,11 @@ export async function generateMetadata({
 
   return {
     title: id === "19" ? t("preformMetaTitle") : getProductMetaTitle(product.name, getCategoryByName(locale, product.category)?.name),
-    description: id === "19" ? t("preformMetaDescription") : clampDescription(product.description),
+    description: buildMetaDescription(
+      id === "19" ? t("preformMetaDescription") : product.description,
+      ...(product.bullets ?? []),
+      getPageGuide(locale, `product-${id}`)?.intro,
+    ),
     alternates: getLocaleAlternates(locale, `/products/${id}`),
   };
 }
